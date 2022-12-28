@@ -1,17 +1,14 @@
-batting_team,bowling_team,match_id,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,Extras
-Kolkata Knight Riders,Royal Challengers Bangalore,335982,BB McCullum,158,77,10.0,13.0,1,1,0,0.0
-Kolkata Knight Riders,Royal Challengers Bangalore,335982,DJ Hussey,12,12,1.0,0.0,0,0,0,0.0
-Kolkata Knight Riders,Royal Challengers Bangalore,335982,Mohammad Hafeez,5,3,1.0,0.0,0,0,0,0.0
-Kolkata Knight Riders,Royal Challengers Bangalore,335982,RT Ponting,20,20,1.0,1.0,0,0,0,0.0
-Kolkata Knight Riders,Royal Challengers Bangalore,335982,SC Ganguly,10,12,2.0,0.0,0,0,0,0.0
-Royal Challengers Bangalore,Kolkata Knight Riders,335982,AA Noffke,9,12,1.0,0.0,0,0,0,0.0
-Royal Challengers Bangalore,Kolkata Knight Riders,335982,B Akhil,0,2,0.0,0.0,0,0,1,0.0
-Royal Challengers Bangalore,Kolkata Knight Riders,335982,CL White,6,10,0.0,0.0,0,0,0,0.0
-Royal Challengers Bangalore,Kolkata Knight Riders,335982,JH Kallis,8,7,0.0,1.0,0,0,0,0.0
-Royal Challengers Bangalore,Kolkata Knight Riders,335982,MV Boucher,7,11,1.0,0.0,0,0,0,0.0
-Royal Challengers Bangalore,Kolkata Knight Riders,335982,P Kumar,18,17,1.0,2.0,0,0,0,0.0
-Royal Challengers Bangalore,Kolkata Knight Riders,335982,R Dravid,2,3,0.0,0.0,0,0,0,0.0
-Royal Challengers Bangalore,Kolkata Knight Riders,335982,SB Joshi,3,8,0.0,0.0,0,0,0,0.0
-Royal Challengers Bangalore,Kolkata Knight Riders,335982,V Kohli,1,5,0.0,0.0,0,0,0,0.0
-Royal Challengers Bangalore,Kolkata Knight Riders,335982,W Jaffer,6,18,0.0,0.0,0,0,0,0.0
-Royal Challengers Bangalore,Kolkata Knight Riders,335982,Z Khan,3,8,0.0,0.0,0,0,0,0.0
+batting_team,bowling_team,match_id,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck
+Delhi Daredevils,Rajasthan Royals,335984,G Gambhir,58,49,7.0,1.0,1,0,0
+Delhi Daredevils,Rajasthan Royals,335984,S Dhawan,52,44,8.0,0.0,1,0,0
+Delhi Daredevils,Rajasthan Royals,335984,V Sehwag,12,4,3.0,0.0,0,0,0
+Rajasthan Royals,Delhi Daredevils,335984,D Salunkhe,26,20,4.0,0.0,0,0,0
+Rajasthan Royals,Delhi Daredevils,335984,DS Lehmann,1,2,0.0,0.0,0,0,0
+Rajasthan Royals,Delhi Daredevils,335984,M Kaif,9,19,0.0,0.0,0,0,0
+Rajasthan Royals,Delhi Daredevils,335984,M Rawat,2,4,0.0,0.0,0,0,0
+Rajasthan Royals,Delhi Daredevils,335984,RA Jadeja,29,24,2.0,2.0,0,0,0
+Rajasthan Royals,Delhi Daredevils,335984,SK Trivedi,3,7,0.0,0.0,0,0,0
+Rajasthan Royals,Delhi Daredevils,335984,SK Warne,14,13,2.0,0.0,0,0,0
+Rajasthan Royals,Delhi Daredevils,335984,SR Watson,21,15,4.0,0.0,0,0,0
+Rajasthan Royals,Delhi Daredevils,335984,T Kohli,7,13,0.0,1.0,0,0,0
+Rajasthan Royals,Delhi Daredevils,335984,YK Pathan,10,5,2.0,0.0,0,0,0
