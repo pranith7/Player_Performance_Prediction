@@ -1,17 +1,17 @@
-,batting_team,bowling_team,match_id,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score
-0,Kolkata Knight Riders,Royal Challengers Bangalore,335982,BB McCullum,158,77,10.0,13.0,1,1,0,222.0
-1,Kolkata Knight Riders,Royal Challengers Bangalore,335982,DJ Hussey,12,12,1.0,0.0,0,0,0,17.0
-2,Kolkata Knight Riders,Royal Challengers Bangalore,335982,Mohammad Hafeez,5,3,1.0,0.0,0,0,0,10.0
-3,Kolkata Knight Riders,Royal Challengers Bangalore,335982,RT Ponting,20,20,1.0,1.0,0,0,0,27.0
-4,Kolkata Knight Riders,Royal Challengers Bangalore,335982,SC Ganguly,10,12,2.0,0.0,0,0,0,16.0
-5,Royal Challengers Bangalore,Kolkata Knight Riders,335982,AA Noffke,9,12,1.0,0.0,0,0,0,14.0
-6,Royal Challengers Bangalore,Kolkata Knight Riders,335982,B Akhil,0,2,0.0,0.0,0,0,1,2.0
-7,Royal Challengers Bangalore,Kolkata Knight Riders,335982,CL White,6,10,0.0,0.0,0,0,0,10.0
-8,Royal Challengers Bangalore,Kolkata Knight Riders,335982,JH Kallis,8,7,0.0,1.0,0,0,0,14.0
-9,Royal Challengers Bangalore,Kolkata Knight Riders,335982,MV Boucher,7,11,1.0,0.0,0,0,0,12.0
-10,Royal Challengers Bangalore,Kolkata Knight Riders,335982,P Kumar,18,17,1.0,2.0,0,0,0,27.0
-11,Royal Challengers Bangalore,Kolkata Knight Riders,335982,R Dravid,2,3,0.0,0.0,0,0,0,6.0
-12,Royal Challengers Bangalore,Kolkata Knight Riders,335982,SB Joshi,3,8,0.0,0.0,0,0,0,7.0
-13,Royal Challengers Bangalore,Kolkata Knight Riders,335982,V Kohli,1,5,0.0,0.0,0,0,0,5.0
-14,Royal Challengers Bangalore,Kolkata Knight Riders,335982,W Jaffer,6,18,0.0,0.0,0,0,0,10.0
-15,Royal Challengers Bangalore,Kolkata Knight Riders,335982,Z Khan,3,8,0.0,0.0,0,0,0,7.0
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score
+Kolkata Knight Riders,Royal Challengers Bangalore,335982,2008-04-18,BB McCullum,158,77,10.0,13.0,1,1,0,222.0
+Kolkata Knight Riders,Royal Challengers Bangalore,335982,2008-04-18,DJ Hussey,12,12,1.0,0.0,0,0,0,17.0
+Kolkata Knight Riders,Royal Challengers Bangalore,335982,2008-04-18,Mohammad Hafeez,5,3,1.0,0.0,0,0,0,10.0
+Kolkata Knight Riders,Royal Challengers Bangalore,335982,2008-04-18,RT Ponting,20,20,1.0,1.0,0,0,0,27.0
+Kolkata Knight Riders,Royal Challengers Bangalore,335982,2008-04-18,SC Ganguly,10,12,2.0,0.0,0,0,0,16.0
+Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,AA Noffke,9,12,1.0,0.0,0,0,0,14.0
+Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,B Akhil,0,2,0.0,0.0,0,0,1,2.0
+Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,CL White,6,10,0.0,0.0,0,0,0,10.0
+Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,JH Kallis,8,7,0.0,1.0,0,0,0,14.0
+Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,MV Boucher,7,11,1.0,0.0,0,0,0,12.0
+Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,P Kumar,18,17,1.0,2.0,0,0,0,27.0
+Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,R Dravid,2,3,0.0,0.0,0,0,0,6.0
+Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,SB Joshi,3,8,0.0,0.0,0,0,0,7.0
+Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,V Kohli,1,5,0.0,0.0,0,0,0,5.0
+Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,W Jaffer,6,18,0.0,0.0,0,0,0,10.0
+Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,Z Khan,3,8,0.0,0.0,0,0,0,7.0
