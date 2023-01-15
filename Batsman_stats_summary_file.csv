@@ -1,60 +1,43 @@
-batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score
-Kolkata Knight Riders,Royal Challengers Bangalore,335982,2008-04-18,BB McCullum,158,77,10.0,13.0,1,1,0,222.0
-Kolkata Knight Riders,Royal Challengers Bangalore,335982,2008-04-18,DJ Hussey,12,12,1.0,0.0,0,0,0,17.0
-Kolkata Knight Riders,Royal Challengers Bangalore,335982,2008-04-18,Mohammad Hafeez,5,3,1.0,0.0,0,0,0,10.0
-Kolkata Knight Riders,Royal Challengers Bangalore,335982,2008-04-18,RT Ponting,20,20,1.0,1.0,0,0,0,27.0
-Kolkata Knight Riders,Royal Challengers Bangalore,335982,2008-04-18,SC Ganguly,10,12,2.0,0.0,0,0,0,16.0
-Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,AA Noffke,9,12,1.0,0.0,0,0,0,14.0
-Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,B Akhil,0,2,0.0,0.0,0,0,1,2.0
-Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,CL White,6,10,0.0,0.0,0,0,0,10.0
-Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,JH Kallis,8,7,0.0,1.0,0,0,0,14.0
-Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,MV Boucher,7,11,1.0,0.0,0,0,0,12.0
-Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,P Kumar,18,17,1.0,2.0,0,0,0,27.0
-Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,R Dravid,2,3,0.0,0.0,0,0,0,6.0
-Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,SB Joshi,3,8,0.0,0.0,0,0,0,7.0
-Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,V Kohli,1,5,0.0,0.0,0,0,0,5.0
-Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,W Jaffer,6,18,0.0,0.0,0,0,0,10.0
-Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,Z Khan,3,8,0.0,0.0,0,0,0,7.0
-Chennai Super Kings,Kings XI Punjab,335983,2008-04-19,JDP Oram,13,11,0.0,1.0,0,0,0,19.0
-Chennai Super Kings,Kings XI Punjab,335983,2008-04-19,MEK Hussey,116,54,8.0,9.0,1,1,0,170.0
-Chennai Super Kings,Kings XI Punjab,335983,2008-04-19,ML Hayden,25,17,4.0,1.0,0,0,0,35.0
-Chennai Super Kings,Kings XI Punjab,335983,2008-04-19,MS Dhoni,2,3,0.0,0.0,0,0,0,6.0
-Chennai Super Kings,Kings XI Punjab,335983,2008-04-19,PA Patel,15,11,3.0,0.0,0,0,0,22.0
-Chennai Super Kings,Kings XI Punjab,335983,2008-04-19,S Badrinath,31,14,3.0,2.0,0,0,0,42.0
-Chennai Super Kings,Kings XI Punjab,335983,2008-04-19,SK Raina,32,14,2.0,3.0,0,0,0,44.0
-Kings XI Punjab,Chennai Super Kings,335983,2008-04-19,IK Pathan,3,5,0.0,0.0,0,0,0,7.0
-Kings XI Punjab,Chennai Super Kings,335983,2008-04-19,JR Hopes,71,34,10.0,3.0,1,0,0,99.0
-Kings XI Punjab,Chennai Super Kings,335983,2008-04-19,K Goel,24,20,2.0,1.0,0,0,0,32.0
-Kings XI Punjab,Chennai Super Kings,335983,2008-04-19,KC Sangakkara,54,35,5.0,2.0,1,0,0,75.0
-Kings XI Punjab,Chennai Super Kings,335983,2008-04-19,SM Katich,21,17,0.0,1.0,0,0,0,27.0
-Kings XI Punjab,Chennai Super Kings,335983,2008-04-19,Yuvraj Singh,23,13,1.0,2.0,0,0,0,32.0
-Delhi Daredevils,Rajasthan Royals,335984,2008-04-19,G Gambhir,58,49,7.0,1.0,1,0,0,79.0
-Delhi Daredevils,Rajasthan Royals,335984,2008-04-19,S Dhawan,52,44,8.0,0.0,1,0,0,72.0
-Delhi Daredevils,Rajasthan Royals,335984,2008-04-19,V Sehwag,12,4,3.0,0.0,0,0,0,19.0
-Rajasthan Royals,Delhi Daredevils,335984,2008-04-19,D Salunkhe,26,20,4.0,0.0,0,0,0,34.0
-Rajasthan Royals,Delhi Daredevils,335984,2008-04-19,DS Lehmann,1,2,0.0,0.0,0,0,0,5.0
-Rajasthan Royals,Delhi Daredevils,335984,2008-04-19,M Kaif,9,19,0.0,0.0,0,0,0,13.0
-Rajasthan Royals,Delhi Daredevils,335984,2008-04-19,M Rawat,2,4,0.0,0.0,0,0,0,6.0
-Rajasthan Royals,Delhi Daredevils,335984,2008-04-19,RA Jadeja,29,24,2.0,2.0,0,0,0,39.0
-Rajasthan Royals,Delhi Daredevils,335984,2008-04-19,SK Trivedi,3,7,0.0,0.0,0,0,0,7.0
-Rajasthan Royals,Delhi Daredevils,335984,2008-04-19,SK Warne,14,13,2.0,0.0,0,0,0,20.0
-Rajasthan Royals,Delhi Daredevils,335984,2008-04-19,SR Watson,21,15,4.0,0.0,0,0,0,29.0
-Rajasthan Royals,Delhi Daredevils,335984,2008-04-19,T Kohli,7,13,0.0,1.0,0,0,0,13.0
-Rajasthan Royals,Delhi Daredevils,335984,2008-04-19,YK Pathan,10,5,2.0,0.0,0,0,0,16.0
-Royal Challengers Bangalore,Sunrisers Hyderabad,1082591,2017-04-05,A Choudhary,6,2,0.0,1.0,0,0,0,12.0
-Royal Challengers Bangalore,Sunrisers Hyderabad,1082591,2017-04-05,CH Gayle,32,23,2.0,3.0,0,0,0,44.0
-Royal Challengers Bangalore,Sunrisers Hyderabad,1082591,2017-04-05,KM Jadhav,31,18,4.0,1.0,0,0,0,41.0
-Royal Challengers Bangalore,Sunrisers Hyderabad,1082591,2017-04-05,Mandeep Singh,24,16,5.0,0.0,0,0,0,33.0
-Royal Challengers Bangalore,Sunrisers Hyderabad,1082591,2017-04-05,S Aravind,0,2,0.0,0.0,0,0,1,2.0
-Royal Challengers Bangalore,Sunrisers Hyderabad,1082591,2017-04-05,SR Watson,22,17,1.0,1.0,0,0,0,29.0
-Royal Challengers Bangalore,Sunrisers Hyderabad,1082591,2017-04-05,STR Binny,11,10,0.0,1.0,0,0,0,17.0
-Royal Challengers Bangalore,Sunrisers Hyderabad,1082591,2017-04-05,Sachin Baby,1,3,0.0,0.0,0,0,0,5.0
-Royal Challengers Bangalore,Sunrisers Hyderabad,1082591,2017-04-05,TM Head,30,22,3.0,0.0,0,0,0,37.0
-Royal Challengers Bangalore,Sunrisers Hyderabad,1082591,2017-04-05,TS Mills,6,3,0.0,1.0,0,0,0,12.0
-Royal Challengers Bangalore,Sunrisers Hyderabad,1082591,2017-04-05,YS Chahal,3,7,0.0,0.0,0,0,0,7.0
-Sunrisers Hyderabad,Royal Challengers Bangalore,1082591,2017-04-05,BCJ Cutting,16,6,0.0,2.0,0,0,0,24.0
-Sunrisers Hyderabad,Royal Challengers Bangalore,1082591,2017-04-05,DA Warner,14,9,2.0,1.0,0,0,0,22.0
-Sunrisers Hyderabad,Royal Challengers Bangalore,1082591,2017-04-05,DJ Hooda,16,12,0.0,1.0,0,0,0,22.0
-Sunrisers Hyderabad,Royal Challengers Bangalore,1082591,2017-04-05,MC Henriques,52,37,3.0,2.0,1,0,0,71.0
-Sunrisers Hyderabad,Royal Challengers Bangalore,1082591,2017-04-05,S Dhawan,40,31,5.0,0.0,0,0,0,49.0
-Sunrisers Hyderabad,Royal Challengers Bangalore,1082591,2017-04-05,Yuvraj Singh,62,30,7.0,3.0,1,0,0,87.0
+Unnamed: 0.1,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,bowler,Type,dreamll_score
+0,BB McCullum,158,77,10.0,13.0,1,1,0,0,0,222.0
+1,DJ Hussey,12,12,1.0,0.0,0,0,0,AA Noffke,caught,17.0
+2,Mohammad Hafeez,5,3,1.0,0.0,0,0,0,0,0,10.0
+3,RT Ponting,20,20,1.0,1.0,0,0,0,JH Kallis,caught,27.0
+4,SC Ganguly,10,12,2.0,0.0,0,0,0,Z Khan,caught,16.0
+5,AA Noffke,9,12,1.0,0.0,0,0,0,SC Ganguly,run out,14.0
+6,B Akhil,0,2,0.0,0.0,0,0,1,AB Agarkar,caught,2.0
+7,CL White,6,10,0.0,0.0,0,0,0,AB Agarkar,caught,10.0
+8,JH Kallis,8,7,0.0,1.0,0,0,0,AB Agarkar,caught,14.0
+9,MV Boucher,7,11,1.0,0.0,0,0,0,SC Ganguly,caught,12.0
+10,P Kumar,18,17,1.0,2.0,0,0,0,0,0,27.0
+11,R Dravid,2,3,0.0,0.0,0,0,0,I Sharma,bowled,6.0
+12,SB Joshi,3,8,0.0,0.0,0,0,0,LR Shukla,caught,7.0
+13,V Kohli,1,5,0.0,0.0,0,0,0,AB Dinda,bowled,5.0
+14,W Jaffer,6,18,0.0,0.0,0,0,0,AB Dinda,caught,10.0
+15,Z Khan,3,8,0.0,0.0,0,0,0,SC Ganguly,bowled,7.0
+0,JDP Oram,13,11,0.0,1.0,0,0,0,IK Pathan,bowled,19.0
+1,MEK Hussey,116,54,8.0,9.0,1,1,0,0,0,170.0
+2,ML Hayden,25,17,4.0,1.0,0,0,0,IK Pathan,bowled,35.0
+3,MS Dhoni,2,3,0.0,0.0,0,0,0,JR Hopes,lbw,6.0
+4,PA Patel,15,11,3.0,0.0,0,0,0,B Lee,caught,22.0
+5,S Badrinath,31,14,3.0,2.0,0,0,0,0,0,42.0
+6,SK Raina,32,14,2.0,3.0,0,0,0,WA Mota,caught,44.0
+7,IK Pathan,3,5,0.0,0.0,0,0,0,0,0,7.0
+8,JR Hopes,71,34,10.0,3.0,1,0,0,P Amarnath,caught,99.0
+9,K Goel,24,20,2.0,1.0,0,0,0,MS Gony,caught,32.0
+10,KC Sangakkara,54,35,5.0,2.0,1,0,0,M Muralitharan,caught,75.0
+11,SM Katich,21,17,0.0,1.0,0,0,0,0,0,27.0
+12,Yuvraj Singh,23,13,1.0,2.0,0,0,0,Joginder Sharma,caught,32.0
+0,G Gambhir,58,49,7.0,1.0,1,0,0,0,0,79.0
+1,S Dhawan,52,44,8.0,0.0,1,0,0,0,0,72.0
+2,V Sehwag,12,4,3.0,0.0,0,0,0,SR Watson,bowled,19.0
+3,D Salunkhe,26,20,4.0,0.0,0,0,0,0,0,34.0
+4,DS Lehmann,1,2,0.0,0.0,0,0,0,MF Maharoof,lbw,5.0
+5,M Kaif,9,19,0.0,0.0,0,0,0,R Bhatia,caught,13.0
+6,M Rawat,2,4,0.0,0.0,0,0,0,R Bhatia,bowled,6.0
+7,RA Jadeja,29,24,2.0,2.0,0,0,0,DL Vettori,bowled,39.0
+8,SK Trivedi,3,7,0.0,0.0,0,0,0,0,0,7.0
+9,SK Warne,14,13,2.0,0.0,0,0,0,MF Maharoof,bowled,20.0
+10,SR Watson,21,15,4.0,0.0,0,0,0,R Bhatia,run out,29.0
+11,T Kohli,7,13,0.0,1.0,0,0,0,GD McGrath,caught,13.0
+12,YK Pathan,10,5,2.0,0.0,0,0,0,B Geeves,run out,16.0

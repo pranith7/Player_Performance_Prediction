@@ -1,17 +1,17 @@
-batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score
-Kolkata Knight Riders,Royal Challengers Bangalore,335982,2008-04-18,BB McCullum,158,77,10.0,13.0,1,1,0,222.0
-Kolkata Knight Riders,Royal Challengers Bangalore,335982,2008-04-18,DJ Hussey,12,12,1.0,0.0,0,0,0,17.0
-Kolkata Knight Riders,Royal Challengers Bangalore,335982,2008-04-18,Mohammad Hafeez,5,3,1.0,0.0,0,0,0,10.0
-Kolkata Knight Riders,Royal Challengers Bangalore,335982,2008-04-18,RT Ponting,20,20,1.0,1.0,0,0,0,27.0
-Kolkata Knight Riders,Royal Challengers Bangalore,335982,2008-04-18,SC Ganguly,10,12,2.0,0.0,0,0,0,16.0
-Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,AA Noffke,9,12,1.0,0.0,0,0,0,14.0
-Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,B Akhil,0,2,0.0,0.0,0,0,1,2.0
-Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,CL White,6,10,0.0,0.0,0,0,0,10.0
-Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,JH Kallis,8,7,0.0,1.0,0,0,0,14.0
-Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,MV Boucher,7,11,1.0,0.0,0,0,0,12.0
-Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,P Kumar,18,17,1.0,2.0,0,0,0,27.0
-Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,R Dravid,2,3,0.0,0.0,0,0,0,6.0
-Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,SB Joshi,3,8,0.0,0.0,0,0,0,7.0
-Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,V Kohli,1,5,0.0,0.0,0,0,0,5.0
-Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,W Jaffer,6,18,0.0,0.0,0,0,0,10.0
-Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,Z Khan,3,8,0.0,0.0,0,0,0,7.0
+Unnamed: 0.1,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,bowler,Type,dreamll_score
+0,BB McCullum,158,77,10.0,13.0,1,1,0,0,0,222.0
+1,DJ Hussey,12,12,1.0,0.0,0,0,0,AA Noffke,caught,17.0
+2,Mohammad Hafeez,5,3,1.0,0.0,0,0,0,0,0,10.0
+3,RT Ponting,20,20,1.0,1.0,0,0,0,JH Kallis,caught,27.0
+4,SC Ganguly,10,12,2.0,0.0,0,0,0,Z Khan,caught,16.0
+5,AA Noffke,9,12,1.0,0.0,0,0,0,SC Ganguly,run out,14.0
+6,B Akhil,0,2,0.0,0.0,0,0,1,AB Agarkar,caught,2.0
+7,CL White,6,10,0.0,0.0,0,0,0,AB Agarkar,caught,10.0
+8,JH Kallis,8,7,0.0,1.0,0,0,0,AB Agarkar,caught,14.0
+9,MV Boucher,7,11,1.0,0.0,0,0,0,SC Ganguly,caught,12.0
+10,P Kumar,18,17,1.0,2.0,0,0,0,0,0,27.0
+11,R Dravid,2,3,0.0,0.0,0,0,0,I Sharma,bowled,6.0
+12,SB Joshi,3,8,0.0,0.0,0,0,0,LR Shukla,caught,7.0
+13,V Kohli,1,5,0.0,0.0,0,0,0,AB Dinda,bowled,5.0
+14,W Jaffer,6,18,0.0,0.0,0,0,0,AB Dinda,caught,10.0
+15,Z Khan,3,8,0.0,0.0,0,0,0,SC Ganguly,bowled,7.0

@@ -1,14 +1,14 @@
-batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck
-Delhi Daredevils,Rajasthan Royals,335984,2008-04-19,G Gambhir,58,49,7.0,1.0,1,0,0
-Delhi Daredevils,Rajasthan Royals,335984,2008-04-19,S Dhawan,52,44,8.0,0.0,1,0,0
-Delhi Daredevils,Rajasthan Royals,335984,2008-04-19,V Sehwag,12,4,3.0,0.0,0,0,0
-Rajasthan Royals,Delhi Daredevils,335984,2008-04-19,D Salunkhe,26,20,4.0,0.0,0,0,0
-Rajasthan Royals,Delhi Daredevils,335984,2008-04-19,DS Lehmann,1,2,0.0,0.0,0,0,0
-Rajasthan Royals,Delhi Daredevils,335984,2008-04-19,M Kaif,9,19,0.0,0.0,0,0,0
-Rajasthan Royals,Delhi Daredevils,335984,2008-04-19,M Rawat,2,4,0.0,0.0,0,0,0
-Rajasthan Royals,Delhi Daredevils,335984,2008-04-19,RA Jadeja,29,24,2.0,2.0,0,0,0
-Rajasthan Royals,Delhi Daredevils,335984,2008-04-19,SK Trivedi,3,7,0.0,0.0,0,0,0
-Rajasthan Royals,Delhi Daredevils,335984,2008-04-19,SK Warne,14,13,2.0,0.0,0,0,0
-Rajasthan Royals,Delhi Daredevils,335984,2008-04-19,SR Watson,21,15,4.0,0.0,0,0,0
-Rajasthan Royals,Delhi Daredevils,335984,2008-04-19,T Kohli,7,13,0.0,1.0,0,0,0
-Rajasthan Royals,Delhi Daredevils,335984,2008-04-19,YK Pathan,10,5,2.0,0.0,0,0,0
+,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,bowler,Type
+0,G Gambhir,58,49,7.0,1.0,1,0,0,0,0
+1,S Dhawan,52,44,8.0,0.0,1,0,0,0,0
+2,V Sehwag,12,4,3.0,0.0,0,0,0,SR Watson,bowled
+3,D Salunkhe,26,20,4.0,0.0,0,0,0,0,0
+4,DS Lehmann,1,2,0.0,0.0,0,0,0,MF Maharoof,lbw
+5,M Kaif,9,19,0.0,0.0,0,0,0,R Bhatia,caught
+6,M Rawat,2,4,0.0,0.0,0,0,0,R Bhatia,bowled
+7,RA Jadeja,29,24,2.0,2.0,0,0,0,DL Vettori,bowled
+8,SK Trivedi,3,7,0.0,0.0,0,0,0,0,0
+9,SK Warne,14,13,2.0,0.0,0,0,0,MF Maharoof,bowled
+10,SR Watson,21,15,4.0,0.0,0,0,0,R Bhatia,run out
+11,T Kohli,7,13,0.0,1.0,0,0,0,GD McGrath,caught
+12,YK Pathan,10,5,2.0,0.0,0,0,0,B Geeves,run out
