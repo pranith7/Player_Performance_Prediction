@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Lucknow Super Giants,Sunrisers Hyderabad,1304058,2022-04-04,A Badoni,19,13,3.0,0.0,0,0,0,26.0,146.15384615384613,R Shepherd,run out
+Lucknow Super Giants,Sunrisers Hyderabad,1304058,2022-04-04,DJ Hooda,51,33,3.0,3.0,1,0,0,72.0,154.54545454545453,R Shepherd,caught
+Lucknow Super Giants,Sunrisers Hyderabad,1304058,2022-04-04,E Lewis,1,5,0.0,0.0,0,0,0,5.0,20.0,Washington Sundar,lbw
+Lucknow Super Giants,Sunrisers Hyderabad,1304058,2022-04-04,JO Holder,8,3,0.0,1.0,0,0,0,14.0,266.66666666666663,0,0
+Lucknow Super Giants,Sunrisers Hyderabad,1304058,2022-04-04,KH Pandya,6,3,1.0,0.0,0,0,0,11.0,200.0,T Natarajan,bowled
+Lucknow Super Giants,Sunrisers Hyderabad,1304058,2022-04-04,KL Rahul,68,50,6.0,1.0,1,0,0,88.0,136.0,T Natarajan,lbw
+Lucknow Super Giants,Sunrisers Hyderabad,1304058,2022-04-04,MK Pandey,11,10,1.0,1.0,0,0,0,18.0,110.0,R Shepherd,caught
+Lucknow Super Giants,Sunrisers Hyderabad,1304058,2022-04-04,Q de Kock,1,4,0.0,0.0,0,0,0,5.0,25.0,Washington Sundar,caught
+Sunrisers Hyderabad,Lucknow Super Giants,1304058,2022-04-04,AK Markram,12,14,0.0,0.0,0,0,0,16.0,85.71428571428571,KH Pandya,caught
+Sunrisers Hyderabad,Lucknow Super Giants,1304058,2022-04-04,Abdul Samad,0,1,0.0,0.0,0,0,1,2.0,0.0,Avesh Khan,caught
+Sunrisers Hyderabad,Lucknow Super Giants,1304058,2022-04-04,Abhishek Sharma,13,12,2.0,0.0,0,0,0,19.0,108.33333333333331,Avesh Khan,caught
+Sunrisers Hyderabad,Lucknow Super Giants,1304058,2022-04-04,B Kumar,1,2,0.0,0.0,0,0,0,5.0,50.0,JO Holder,caught
+Sunrisers Hyderabad,Lucknow Super Giants,1304058,2022-04-04,KS Williamson,16,16,1.0,1.0,0,0,0,23.0,100.0,Avesh Khan,caught
+Sunrisers Hyderabad,Lucknow Super Giants,1304058,2022-04-04,N Pooran,34,26,3.0,2.0,0,0,0,45.0,130.76923076923077,Avesh Khan,caught
+Sunrisers Hyderabad,Lucknow Super Giants,1304058,2022-04-04,R Shepherd,8,10,0.0,1.0,0,0,0,14.0,80.0,JO Holder,caught
+Sunrisers Hyderabad,Lucknow Super Giants,1304058,2022-04-04,RA Tripathi,44,30,5.0,1.0,0,0,0,55.0,146.66666666666666,KH Pandya,caught
+Sunrisers Hyderabad,Lucknow Super Giants,1304058,2022-04-04,Umran Malik,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Sunrisers Hyderabad,Lucknow Super Giants,1304058,2022-04-04,Washington Sundar,18,14,1.0,0.0,0,0,0,23.0,128.57142857142858,JO Holder,caught

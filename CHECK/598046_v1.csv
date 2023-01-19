@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Mumbai Indians,598046,2013-05-05,B Laughlin,4,8,0.0,0.0,0,0,0,8.0,50.0,0,0
+Chennai Super Kings,Mumbai Indians,598046,2013-05-05,CH Morris,1,5,0.0,0.0,0,0,0,5.0,20.0,SL Malinga,bowled
+Chennai Super Kings,Mumbai Indians,598046,2013-05-05,DJ Bravo,9,7,2.0,0.0,0,0,0,15.0,128.57142857142858,P Suyal,caught
+Chennai Super Kings,Mumbai Indians,598046,2013-05-05,M Vijay,2,4,0.0,0.0,0,0,0,6.0,50.0,MG Johnson,bowled
+Chennai Super Kings,Mumbai Indians,598046,2013-05-05,MEK Hussey,22,27,1.0,1.0,0,0,0,29.0,81.48148148148148,PP Ojha,caught
+Chennai Super Kings,Mumbai Indians,598046,2013-05-05,MM Sharma,0,3,0.0,0.0,0,0,1,2.0,0.0,SL Malinga,caught
+Chennai Super Kings,Mumbai Indians,598046,2013-05-05,MS Dhoni,10,12,1.0,0.0,0,0,0,15.0,83.33333333333334,PP Ojha,caught
+Chennai Super Kings,Mumbai Indians,598046,2013-05-05,R Ashwin,2,8,0.0,0.0,0,0,0,6.0,25.0,Harbhajan Singh,bowled
+Chennai Super Kings,Mumbai Indians,598046,2013-05-05,RA Jadeja,20,18,2.0,0.0,0,0,0,26.0,111.11111111111111,PP Ojha,caught
+Chennai Super Kings,Mumbai Indians,598046,2013-05-05,S Badrinath,0,3,0.0,0.0,0,0,1,2.0,0.0,MG Johnson,lbw
+Chennai Super Kings,Mumbai Indians,598046,2013-05-05,SK Raina,0,1,0.0,0.0,0,0,1,2.0,0.0,MG Johnson,caught
+Mumbai Indians,Chennai Super Kings,598046,2013-05-05,AT Rayudu,10,11,1.0,0.0,0,0,0,15.0,90.9090909090909,R Ashwin,bowled
+Mumbai Indians,Chennai Super Kings,598046,2013-05-05,DR Smith,22,24,2.0,1.0,0,0,0,30.0,91.66666666666666,DJ Bravo,caught and bowled
+Mumbai Indians,Chennai Super Kings,598046,2013-05-05,Harbhajan Singh,25,11,2.0,2.0,0,0,0,35.0,227.27272727272728,0,0
+Mumbai Indians,Chennai Super Kings,598046,2013-05-05,KA Pollard,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,RA Jadeja,caught
+Mumbai Indians,Chennai Super Kings,598046,2013-05-05,KD Karthik,23,23,2.0,1.0,0,0,0,31.0,100.0,RA Jadeja,caught
+Mumbai Indians,Chennai Super Kings,598046,2013-05-05,RG Sharma,39,31,3.0,1.0,0,0,0,48.0,125.80645161290325,0,0
+Mumbai Indians,Chennai Super Kings,598046,2013-05-05,SR Tendulkar,15,21,1.0,1.0,0,0,0,22.0,71.42857142857143,RA Jadeja,lbw

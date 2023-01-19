@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Mumbai Indians,392181,2009-04-18,A Flintoff,24,25,2.0,1.0,0,0,0,32.0,96.0,Harbhajan Singh,caught and bowled
+Chennai Super Kings,Mumbai Indians,392181,2009-04-18,JDP Oram,8,6,0.0,1.0,0,0,0,14.0,133.33333333333331,ST Jayasuriya,caught
+Chennai Super Kings,Mumbai Indians,392181,2009-04-18,Joginder Sharma,16,15,0.0,1.0,0,0,0,22.0,106.66666666666669,0,0
+Chennai Super Kings,Mumbai Indians,392181,2009-04-18,ML Hayden,44,35,6.0,1.0,0,0,0,56.0,125.71428571428572,ST Jayasuriya,caught
+Chennai Super Kings,Mumbai Indians,392181,2009-04-18,MS Dhoni,36,26,1.0,2.0,0,0,0,45.0,138.46153846153845,SL Malinga,bowled
+Chennai Super Kings,Mumbai Indians,392181,2009-04-18,PA Patel,0,2,0.0,0.0,0,0,1,2.0,0.0,SL Malinga,caught
+Chennai Super Kings,Mumbai Indians,392181,2009-04-18,S Badrinath,0,2,0.0,0.0,0,0,1,2.0,0.0,SL Malinga,caught
+Chennai Super Kings,Mumbai Indians,392181,2009-04-18,SK Raina,8,9,1.0,0.0,0,0,0,13.0,88.88888888888889,DJ Bravo,caught
+Chennai Super Kings,Mumbai Indians,392181,2009-04-18,T Thushara,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,0,0
+Mumbai Indians,Chennai Super Kings,392181,2009-04-18,AM Nayar,35,14,2.0,3.0,0,0,0,47.0,250.0,JDP Oram,caught
+Mumbai Indians,Chennai Super Kings,392181,2009-04-18,DJ Bravo,5,4,1.0,0.0,0,0,0,10.0,125.0,Joginder Sharma,caught
+Mumbai Indians,Chennai Super Kings,392181,2009-04-18,Harbhajan Singh,4,2,1.0,0.0,0,0,0,9.0,200.0,JDP Oram,run out
+Mumbai Indians,Chennai Super Kings,392181,2009-04-18,JP Duminy,9,7,1.0,0.0,0,0,0,14.0,128.57142857142858,MS Gony,caught and bowled
+Mumbai Indians,Chennai Super Kings,392181,2009-04-18,S Dhawan,22,22,2.0,0.0,0,0,0,28.0,100.0,MS Gony,caught
+Mumbai Indians,Chennai Super Kings,392181,2009-04-18,SR Tendulkar,59,49,7.0,0.0,1,0,0,78.0,120.40816326530611,0,0
+Mumbai Indians,Chennai Super Kings,392181,2009-04-18,ST Jayasuriya,26,20,5.0,0.0,0,0,0,35.0,130.0,T Thushara,caught
+Mumbai Indians,Chennai Super Kings,392181,2009-04-18,Z Khan,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,A Flintoff,caught

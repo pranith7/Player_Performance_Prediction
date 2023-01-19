@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Lucknow Super Giants,1304112,2022-05-18,A Tomar,4,8,1.0,0.0,0,0,0,9.0,50.0,Mohsin Khan (2),caught
+Kolkata Knight Riders,Lucknow Super Giants,1304112,2022-05-18,AD Russell,5,11,0.0,0.0,0,0,0,9.0,45.45454545454545,Mohsin Khan (2),caught
+Kolkata Knight Riders,Lucknow Super Giants,1304112,2022-05-18,N Rana,42,23,9.0,0.0,0,0,0,55.0,182.6086956521739,K Gowtham,caught
+Kolkata Knight Riders,Lucknow Super Giants,1304112,2022-05-18,RK Singh,40,17,2.0,4.0,0,0,0,54.0,235.29411764705884,MP Stoinis,caught
+Kolkata Knight Riders,Lucknow Super Giants,1304112,2022-05-18,SP Narine,21,7,0.0,3.0,0,0,0,31.0,300.0,0,0
+Kolkata Knight Riders,Lucknow Super Giants,1304112,2022-05-18,SS Iyer,50,30,4.0,3.0,1,0,0,72.0,166.66666666666669,MP Stoinis,caught
+Kolkata Knight Riders,Lucknow Super Giants,1304112,2022-05-18,SW Billings,36,26,2.0,3.0,0,0,0,48.0,138.46153846153845,Ravi Bishnoi,stumped
+Kolkata Knight Riders,Lucknow Super Giants,1304112,2022-05-18,UT Yadav,0,1,0.0,0.0,0,0,1,2.0,0.0,MP Stoinis,bowled
+Kolkata Knight Riders,Lucknow Super Giants,1304112,2022-05-18,VR Iyer,0,4,0.0,0.0,0,0,1,2.0,0.0,Mohsin Khan (2),caught
+Lucknow Super Giants,Kolkata Knight Riders,1304112,2022-05-18,KL Rahul,68,51,3.0,4.0,1,0,0,91.0,133.33333333333331,0,0
+Lucknow Super Giants,Kolkata Knight Riders,1304112,2022-05-18,Q de Kock,140,71,10.0,10.0,1,1,0,198.0,197.1830985915493,0,0

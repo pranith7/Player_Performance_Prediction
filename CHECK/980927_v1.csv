@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Royal Challengers Bangalore,980927,2016-04-20,AT Rayudu,31,24,5.0,0.0,0,0,0,40.0,129.16666666666669,Iqbal Abdulla,caught
+Mumbai Indians,Royal Challengers Bangalore,980927,2016-04-20,HH Pandya,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,0,0
+Mumbai Indians,Royal Challengers Bangalore,980927,2016-04-20,JC Buttler,28,14,2.0,2.0,0,0,0,38.0,200.0,Iqbal Abdulla,caught
+Mumbai Indians,Royal Challengers Bangalore,980927,2016-04-20,KA Pollard,39,20,4.0,3.0,0,0,0,53.0,195.0,0,0
+Mumbai Indians,Royal Challengers Bangalore,980927,2016-04-20,PA Patel,5,6,1.0,0.0,0,0,0,10.0,83.33333333333334,KW Richardson,caught
+Mumbai Indians,Royal Challengers Bangalore,980927,2016-04-20,RG Sharma,62,44,4.0,3.0,1,0,0,84.0,140.9090909090909,Iqbal Abdulla,caught
+Royal Challengers Bangalore,Mumbai Indians,980927,2016-04-20,AB de Villiers,29,22,3.0,1.0,0,0,0,38.0,131.8181818181818,KH Pandya,stumped
+Royal Challengers Bangalore,Mumbai Indians,980927,2016-04-20,KL Rahul,23,14,2.0,2.0,0,0,0,33.0,164.28571428571428,MJ McClenaghan,caught
+Royal Challengers Bangalore,Mumbai Indians,980927,2016-04-20,KW Richardson,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Royal Challengers Bangalore,Mumbai Indians,980927,2016-04-20,SN Khan,28,18,2.0,2.0,0,0,0,38.0,155.55555555555557,JJ Bumrah,caught
+Royal Challengers Bangalore,Mumbai Indians,980927,2016-04-20,SR Watson,5,10,0.0,0.0,0,0,0,9.0,50.0,JJ Bumrah,caught
+Royal Challengers Bangalore,Mumbai Indians,980927,2016-04-20,STR Binny,1,2,0.0,0.0,0,0,0,5.0,50.0,JJ Bumrah,caught
+Royal Challengers Bangalore,Mumbai Indians,980927,2016-04-20,TM Head,37,25,2.0,2.0,0,0,0,47.0,148.0,JJ Bumrah,run out
+Royal Challengers Bangalore,Mumbai Indians,980927,2016-04-20,V Kohli,33,34,3.0,0.0,0,0,0,40.0,97.05882352941175,KH Pandya,caught

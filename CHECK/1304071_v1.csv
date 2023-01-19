@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Sunrisers Hyderabad,1304071,2022-04-15,AD Russell,49,26,4.0,4.0,0,0,0,65.0,188.46153846153845,0,0
+Kolkata Knight Riders,Sunrisers Hyderabad,1304071,2022-04-15,AJ Finch,7,5,0.0,1.0,0,0,0,13.0,140.0,M Jansen,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1304071,2022-04-15,Aman Hakim Khan,5,3,1.0,0.0,0,0,0,10.0,166.66666666666669,J Suchith,bowled
+Kolkata Knight Riders,Sunrisers Hyderabad,1304071,2022-04-15,N Rana,54,37,6.0,2.0,1,0,0,76.0,145.94594594594594,T Natarajan,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1304071,2022-04-15,PJ Cummins,3,3,0.0,0.0,0,0,0,7.0,100.0,B Kumar,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1304071,2022-04-15,SP Jackson,7,7,0.0,1.0,0,0,0,13.0,100.0,Umran Malik,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1304071,2022-04-15,SP Narine,6,2,0.0,1.0,0,0,0,12.0,300.0,T Natarajan,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1304071,2022-04-15,SS Iyer,28,25,3.0,0.0,0,0,0,35.0,112.0,Umran Malik,bowled
+Kolkata Knight Riders,Sunrisers Hyderabad,1304071,2022-04-15,UT Yadav,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Kolkata Knight Riders,Sunrisers Hyderabad,1304071,2022-04-15,VR Iyer,6,14,1.0,0.0,0,0,0,11.0,42.85714285714285,T Natarajan,bowled
+Sunrisers Hyderabad,Kolkata Knight Riders,1304071,2022-04-15,AK Markram,68,36,6.0,4.0,1,0,0,94.0,188.88888888888889,0,0
+Sunrisers Hyderabad,Kolkata Knight Riders,1304071,2022-04-15,Abhishek Sharma,3,10,0.0,0.0,0,0,0,7.0,30.0,PJ Cummins,bowled
+Sunrisers Hyderabad,Kolkata Knight Riders,1304071,2022-04-15,KS Williamson,17,18,3.0,0.0,0,0,0,24.0,94.44444444444444,AD Russell,bowled
+Sunrisers Hyderabad,Kolkata Knight Riders,1304071,2022-04-15,N Pooran,5,9,0.0,0.0,0,0,0,9.0,55.55555555555556,0,0
+Sunrisers Hyderabad,Kolkata Knight Riders,1304071,2022-04-15,RA Tripathi,71,38,4.0,6.0,1,0,0,99.0,186.8421052631579,AD Russell,caught

@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Royal Challengers Bangalore,419145,2010-04-08,A Symonds,53,25,5.0,3.0,1,0,0,76.0,212.0,0,0
+Deccan Chargers,Royal Challengers Bangalore,419145,2010-04-08,AC Gilchrist,32,21,3.0,2.0,0,0,0,43.0,152.38095238095238,A Kumble,stumped
+Deccan Chargers,Royal Challengers Bangalore,419145,2010-04-08,MD Mishra,9,11,2.0,0.0,0,0,0,15.0,81.81818181818183,P Kumar,caught
+Deccan Chargers,Royal Challengers Bangalore,419145,2010-04-08,RG Sharma,6,5,1.0,0.0,0,0,0,11.0,120.0,R Vinay Kumar,caught
+Deccan Chargers,Royal Challengers Bangalore,419145,2010-04-08,TL Suman,78,59,6.0,3.0,1,0,0,102.0,132.20338983050848,0,0
+Royal Challengers Bangalore,Deccan Chargers,419145,2010-04-08,CL White,13,3,0.0,2.0,0,0,0,21.0,433.3333333333333,0,0
+Royal Challengers Bangalore,Deccan Chargers,419145,2010-04-08,JH Kallis,68,49,9.0,1.0,1,0,0,91.0,138.77551020408163,MR Marsh,caught
+Royal Challengers Bangalore,Deccan Chargers,419145,2010-04-08,LRPL Taylor,1,2,0.0,0.0,0,0,0,5.0,50.0,PP Ojha,lbw
+Royal Challengers Bangalore,Deccan Chargers,419145,2010-04-08,MK Pandey,1,8,0.0,0.0,0,0,0,5.0,12.5,RJ Harris,bowled
+Royal Challengers Bangalore,Deccan Chargers,419145,2010-04-08,R Dravid,26,26,2.0,1.0,0,0,0,34.0,100.0,PP Ojha,caught
+Royal Challengers Bangalore,Deccan Chargers,419145,2010-04-08,RV Uthappa,2,5,0.0,0.0,0,0,0,6.0,40.0,A Symonds,caught
+Royal Challengers Bangalore,Deccan Chargers,419145,2010-04-08,V Kohli,58,37,4.0,4.0,1,0,0,82.0,156.75675675675674,RJ Harris,caught

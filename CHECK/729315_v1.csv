@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Rajasthan Royals,729315,2014-04-29,G Gambhir,45,45,4.0,0.0,0,0,0,53.0,100.0,R Bhatia,caught
+Kolkata Knight Riders,Rajasthan Royals,729315,2014-04-29,JH Kallis,13,17,1.0,0.0,0,0,0,18.0,76.47058823529412,PV Tambe,caught
+Kolkata Knight Riders,Rajasthan Royals,729315,2014-04-29,MK Pandey,27,15,1.0,2.0,0,0,0,36.0,180.0,PV Tambe,lbw
+Kolkata Knight Riders,Rajasthan Royals,729315,2014-04-29,MS Bisla,3,9,0.0,0.0,0,0,0,7.0,33.33333333333333,KW Richardson,caught
+Kolkata Knight Riders,Rajasthan Royals,729315,2014-04-29,PP Chawla,0,1,0.0,0.0,0,0,1,2.0,0.0,KW Richardson,run out
+Kolkata Knight Riders,Rajasthan Royals,729315,2014-04-29,R Vinay Kumar,0,1,0.0,0.0,0,0,1,2.0,0.0,JP Faulkner,bowled
+Kolkata Knight Riders,Rajasthan Royals,729315,2014-04-29,RV Uthappa,0,1,0.0,0.0,0,0,1,2.0,0.0,JP Faulkner,bowled
+Kolkata Knight Riders,Rajasthan Royals,729315,2014-04-29,SA Yadav,31,21,3.0,1.0,0,0,0,40.0,147.61904761904762,JP Faulkner,caught
+Kolkata Knight Riders,Rajasthan Royals,729315,2014-04-29,SP Narine,1,2,0.0,0.0,0,0,0,5.0,50.0,JP Faulkner,run out
+Kolkata Knight Riders,Rajasthan Royals,729315,2014-04-29,Shakib Al Hasan,31,21,3.0,0.0,0,0,0,38.0,147.61904761904762,0,0
+Rajasthan Royals,Kolkata Knight Riders,729315,2014-04-29,AM Rahane,72,60,6.0,1.0,1,0,0,92.0,120.0,JP Faulkner,run out
+Rajasthan Royals,Kolkata Knight Riders,729315,2014-04-29,JP Faulkner,2,1,0.0,0.0,0,0,0,6.0,200.0,R Vinay Kumar,caught
+Rajasthan Royals,Kolkata Knight Riders,729315,2014-04-29,KK Nair,1,6,0.0,0.0,0,0,0,5.0,16.666666666666664,0,0
+Rajasthan Royals,Kolkata Knight Riders,729315,2014-04-29,SPD Smith,24,14,2.0,0.0,0,0,0,30.0,171.42857142857142,R Vinay Kumar,bowled
+Rajasthan Royals,Kolkata Knight Riders,729315,2014-04-29,SR Watson,39,27,6.0,0.0,0,0,0,49.0,144.44444444444443,0,0
+Rajasthan Royals,Kolkata Knight Riders,729315,2014-04-29,STR Binny,0,1,0.0,0.0,0,0,1,2.0,0.0,R Vinay Kumar,run out
+Rajasthan Royals,Kolkata Knight Riders,729315,2014-04-29,SV Samson,20,20,4.0,0.0,0,0,0,28.0,100.0,M Morkel,caught

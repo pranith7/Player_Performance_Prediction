@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Kings XI Punjab,419108,2010-03-13,AB de Villiers,7,15,0.0,0.0,0,0,0,11.0,46.66666666666666,PP Chawla,run out
+Delhi Daredevils,Kings XI Punjab,419108,2010-03-13,G Gambhir,72,54,9.0,1.0,1,0,0,95.0,133.33333333333331,IK Pathan,caught
+Delhi Daredevils,Kings XI Punjab,419108,2010-03-13,KD Karthik,20,18,3.0,0.0,0,0,0,27.0,111.11111111111111,YA Abdulla,caught
+Delhi Daredevils,Kings XI Punjab,419108,2010-03-13,M Manhas,31,24,2.0,0.0,0,0,0,37.0,129.16666666666669,0,0
+Delhi Daredevils,Kings XI Punjab,419108,2010-03-13,MF Maharoof,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Delhi Daredevils,Kings XI Punjab,419108,2010-03-13,TM Dilshan,0,3,0.0,0.0,0,0,1,2.0,0.0,S Sreesanth,caught
+Delhi Daredevils,Kings XI Punjab,419108,2010-03-13,V Sehwag,8,6,2.0,0.0,0,0,0,14.0,133.33333333333331,S Sreesanth,caught
+Kings XI Punjab,Delhi Daredevils,419108,2010-03-13,DPMD Jayawardene,0,1,0.0,0.0,0,0,1,2.0,0.0,PJ Sangwan,caught
+Kings XI Punjab,Delhi Daredevils,419108,2010-03-13,IK Pathan,21,16,2.0,0.0,0,0,0,27.0,131.25,TM Dilshan,stumped
+Kings XI Punjab,Delhi Daredevils,419108,2010-03-13,KC Sangakkara,17,9,1.0,1.0,0,0,0,24.0,188.88888888888889,MF Maharoof,caught
+Kings XI Punjab,Delhi Daredevils,419108,2010-03-13,M Kaif,6,6,1.0,0.0,0,0,0,11.0,100.0,A Mishra,stumped
+Kings XI Punjab,Delhi Daredevils,419108,2010-03-13,MS Bisla,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,MF Maharoof,run out
+Kings XI Punjab,Delhi Daredevils,419108,2010-03-13,PP Chawla,5,7,0.0,0.0,0,0,0,9.0,71.42857142857143,DP Nannes,caught
+Kings XI Punjab,Delhi Daredevils,419108,2010-03-13,RR Powar,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,DP Nannes,bowled
+Kings XI Punjab,Delhi Daredevils,419108,2010-03-13,RS Bopara,56,51,7.0,1.0,1,0,0,77.0,109.80392156862746,VY Mahesh,caught
+Kings XI Punjab,Delhi Daredevils,419108,2010-03-13,S Sreesanth,15,15,2.0,0.0,0,0,0,21.0,100.0,0,0
+Kings XI Punjab,Delhi Daredevils,419108,2010-03-13,YA Abdulla,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Kings XI Punjab,Delhi Daredevils,419108,2010-03-13,Yuvraj Singh,4,6,1.0,0.0,0,0,0,9.0,66.66666666666666,MF Maharoof,caught

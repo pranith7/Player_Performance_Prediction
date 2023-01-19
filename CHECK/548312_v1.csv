@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Rajasthan Royals,548312,2012-04-08,B Lee,25,12,2.0,2.0,0,0,0,35.0,208.3333333333333,KK Cooper,bowled
+Kolkata Knight Riders,Rajasthan Royals,548312,2012-04-08,BB McCullum,2,4,0.0,0.0,0,0,0,6.0,50.0,AA Chavan,lbw
+Kolkata Knight Riders,Rajasthan Royals,548312,2012-04-08,DB Das,12,14,0.0,1.0,0,0,0,18.0,85.71428571428571,KK Cooper,bowled
+Kolkata Knight Riders,Rajasthan Royals,548312,2012-04-08,G Gambhir,0,1,0.0,0.0,0,0,1,2.0,0.0,A Singh,caught
+Kolkata Knight Riders,Rajasthan Royals,548312,2012-04-08,Iqbal Abdulla,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Kolkata Knight Riders,Rajasthan Royals,548312,2012-04-08,JH Kallis,5,9,0.0,0.0,0,0,0,9.0,55.55555555555556,A Singh,caught
+Kolkata Knight Riders,Rajasthan Royals,548312,2012-04-08,LR Shukla,8,8,0.0,1.0,0,0,0,14.0,100.0,AA Chavan,caught
+Kolkata Knight Riders,Rajasthan Royals,548312,2012-04-08,MK Tiwary,59,50,7.0,0.0,1,0,0,78.0,118.0,J Botha,bowled
+Kolkata Knight Riders,Rajasthan Royals,548312,2012-04-08,R Bhatia,8,8,1.0,0.0,0,0,0,13.0,100.0,SK Trivedi,caught and bowled
+Kolkata Knight Riders,Rajasthan Royals,548312,2012-04-08,SP Narine,0,1,0.0,0.0,0,0,1,2.0,0.0,KK Cooper,bowled
+Kolkata Knight Riders,Rajasthan Royals,548312,2012-04-08,YK Pathan,15,16,0.0,1.0,0,0,0,21.0,93.75,SK Trivedi,caught
+Rajasthan Royals,Kolkata Knight Riders,548312,2012-04-08,AL Menaria,40,31,4.0,1.0,0,0,0,50.0,129.03225806451613,B Lee,bowled
+Rajasthan Royals,Kolkata Knight Riders,548312,2012-04-08,AM Rahane,0,4,0.0,0.0,0,0,1,2.0,0.0,JH Kallis,run out
+Rajasthan Royals,Kolkata Knight Riders,548312,2012-04-08,BJ Hodge,44,29,3.0,2.0,0,0,0,55.0,151.72413793103448,B Lee,caught
+Rajasthan Royals,Kolkata Knight Riders,548312,2012-04-08,KK Cooper,5,5,0.0,0.0,0,0,0,9.0,100.0,0,0
+Rajasthan Royals,Kolkata Knight Riders,548312,2012-04-08,OA Shah,23,11,2.0,1.0,0,0,0,31.0,209.0909090909091,0,0
+Rajasthan Royals,Kolkata Knight Riders,548312,2012-04-08,R Dravid,26,24,2.0,2.0,0,0,0,36.0,108.33333333333331,R Bhatia,run out
+Rajasthan Royals,Kolkata Knight Riders,548312,2012-04-08,SP Goswami,23,19,2.0,0.0,0,0,0,29.0,121.05263157894736,R Bhatia,bowled

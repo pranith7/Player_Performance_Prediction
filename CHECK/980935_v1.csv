@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Sunrisers Hyderabad,980935,2016-04-23,AR Patel,36,17,1.0,3.0,0,0,0,47.0,211.76470588235296,0,0
+Kings XI Punjab,Sunrisers Hyderabad,980935,2016-04-23,DA Miller,9,11,1.0,0.0,0,0,0,14.0,81.81818181818183,MC Henriques,caught
+Kings XI Punjab,Sunrisers Hyderabad,980935,2016-04-23,GJ Maxwell,1,2,0.0,0.0,0,0,0,5.0,50.0,MC Henriques,caught
+Kings XI Punjab,Sunrisers Hyderabad,980935,2016-04-23,M Vijay,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,B Kumar,caught
+Kings XI Punjab,Sunrisers Hyderabad,980935,2016-04-23,M Vohra,25,24,3.0,1.0,0,0,0,34.0,104.16666666666669,Mustafizur Rahman,run out
+Kings XI Punjab,Sunrisers Hyderabad,980935,2016-04-23,NS Naik,22,30,1.0,0.0,0,0,0,27.0,73.33333333333333,Mustafizur Rahman,caught
+Kings XI Punjab,Sunrisers Hyderabad,980935,2016-04-23,R Dhawan,3,2,0.0,0.0,0,0,0,7.0,150.0,0,0
+Kings XI Punjab,Sunrisers Hyderabad,980935,2016-04-23,SE Marsh,40,34,3.0,2.0,0,0,0,51.0,117.64705882352942,Mustafizur Rahman,lbw
+Sunrisers Hyderabad,Kings XI Punjab,980935,2016-04-23,AP Tare,0,1,0.0,0.0,0,0,1,2.0,0.0,Sandeep Sharma,run out
+Sunrisers Hyderabad,Kings XI Punjab,980935,2016-04-23,DA Warner,59,32,7.0,3.0,1,0,0,84.0,184.375,Sandeep Sharma,caught
+Sunrisers Hyderabad,Kings XI Punjab,980935,2016-04-23,DJ Hooda,5,7,0.0,0.0,0,0,0,9.0,71.42857142857143,MM Sharma,run out
+Sunrisers Hyderabad,Kings XI Punjab,980935,2016-04-23,EJG Morgan,25,20,2.0,1.0,0,0,0,33.0,125.0,MM Sharma,caught
+Sunrisers Hyderabad,Kings XI Punjab,980935,2016-04-23,MC Henriques,5,4,1.0,0.0,0,0,0,10.0,125.0,0,0
+Sunrisers Hyderabad,Kings XI Punjab,980935,2016-04-23,NV Ojha,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Sunrisers Hyderabad,Kings XI Punjab,980935,2016-04-23,S Dhawan,45,46,4.0,0.0,0,0,0,53.0,97.82608695652172,R Dhawan,caught

@@ -1,0 +1,22 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Kings XI Punjab,392234,2009-05-20,GJ Bailey,15,12,3.0,0.0,0,0,0,22.0,125.0,RR Powar,run out
+Chennai Super Kings,Kings XI Punjab,392234,2009-05-20,JDP Oram,17,22,1.0,0.0,0,0,0,22.0,77.27272727272727,IK Pathan,caught and bowled
+Chennai Super Kings,Kings XI Punjab,392234,2009-05-20,L Balaji,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,0,0
+Chennai Super Kings,Kings XI Punjab,392234,2009-05-20,M Muralitharan,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Chennai Super Kings,Kings XI Punjab,392234,2009-05-20,MS Dhoni,2,2,0.0,0.0,0,0,0,6.0,100.0,S Sreesanth,bowled
+Chennai Super Kings,Kings XI Punjab,392234,2009-05-20,MS Gony,7,5,0.0,1.0,0,0,0,13.0,140.0,PP Chawla,bowled
+Chennai Super Kings,Kings XI Punjab,392234,2009-05-20,PA Patel,32,23,4.0,1.0,0,0,0,42.0,139.1304347826087,RR Powar,bowled
+Chennai Super Kings,Kings XI Punjab,392234,2009-05-20,R Ashwin,8,15,1.0,0.0,0,0,0,13.0,53.333333333333336,IK Pathan,caught
+Chennai Super Kings,Kings XI Punjab,392234,2009-05-20,S Badrinath,4,9,0.0,0.0,0,0,0,8.0,44.44444444444444,S Sreesanth,caught
+Chennai Super Kings,Kings XI Punjab,392234,2009-05-20,SK Raina,20,22,2.0,0.0,0,0,0,26.0,90.9090909090909,WA Mota,caught
+Chennai Super Kings,Kings XI Punjab,392234,2009-05-20,T Thushara,1,5,0.0,0.0,0,0,0,5.0,20.0,IK Pathan,run out
+Kings XI Punjab,Chennai Super Kings,392234,2009-05-20,B Lee,6,7,1.0,0.0,0,0,0,11.0,85.71428571428571,SK Raina,caught
+Kings XI Punjab,Chennai Super Kings,392234,2009-05-20,IK Pathan,14,12,1.0,0.0,0,0,0,19.0,116.66666666666669,T Thushara,caught
+Kings XI Punjab,Chennai Super Kings,392234,2009-05-20,KC Sangakkara,7,9,0.0,0.0,0,0,0,11.0,77.77777777777779,R Ashwin,caught and bowled
+Kings XI Punjab,Chennai Super Kings,392234,2009-05-20,LA Pomersbach,26,32,1.0,1.0,0,0,0,33.0,81.25,M Muralitharan,caught
+Kings XI Punjab,Chennai Super Kings,392234,2009-05-20,PP Chawla,4,5,0.0,0.0,0,0,0,8.0,80.0,0,0
+Kings XI Punjab,Chennai Super Kings,392234,2009-05-20,RR Powar,7,5,1.0,0.0,0,0,0,12.0,140.0,0,0
+Kings XI Punjab,Chennai Super Kings,392234,2009-05-20,S Sohal,3,10,0.0,0.0,0,0,0,7.0,30.0,T Thushara,caught
+Kings XI Punjab,Chennai Super Kings,392234,2009-05-20,SM Katich,8,13,1.0,0.0,0,0,0,13.0,61.53846153846154,M Muralitharan,bowled
+Kings XI Punjab,Chennai Super Kings,392234,2009-05-20,WA Mota,5,10,0.0,0.0,0,0,0,9.0,50.0,R Ashwin,lbw
+Kings XI Punjab,Chennai Super Kings,392234,2009-05-20,Yuvraj Singh,6,20,0.0,0.0,0,0,0,10.0,30.0,SK Raina,bowled

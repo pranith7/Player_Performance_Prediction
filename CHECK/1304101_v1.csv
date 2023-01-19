@@ -1,0 +1,20 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Delhi Capitals,1304101,2022-05-08,AT Rayudu,5,7,1.0,0.0,0,0,0,10.0,71.42857142857143,KK Ahmed,caught
+Chennai Super Kings,Delhi Capitals,1304101,2022-05-08,DJ Bravo,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Chennai Super Kings,Delhi Capitals,1304101,2022-05-08,DP Conway,87,51,8.0,5.0,1,0,0,117.0,170.58823529411765,KK Ahmed,caught
+Chennai Super Kings,Delhi Capitals,1304101,2022-05-08,MM Ali,9,4,2.0,0.0,0,0,0,15.0,225.0,A Nortje,caught
+Chennai Super Kings,Delhi Capitals,1304101,2022-05-08,MS Dhoni,21,10,1.0,2.0,0,0,0,30.0,210.0,0,0
+Chennai Super Kings,Delhi Capitals,1304101,2022-05-08,RD Gaikwad,41,35,4.0,1.0,0,0,0,51.0,117.14285714285715,A Nortje,caught
+Chennai Super Kings,Delhi Capitals,1304101,2022-05-08,RV Uthappa,0,1,0.0,0.0,0,0,1,2.0,0.0,A Nortje,caught
+Chennai Super Kings,Delhi Capitals,1304101,2022-05-08,S Dube,32,22,2.0,2.0,0,0,0,42.0,145.45454545454547,MR Marsh,caught
+Delhi Capitals,Chennai Super Kings,1304101,2022-05-08,A Nortje,1,7,0.0,0.0,0,0,0,5.0,14.285714285714285,0,0
+Delhi Capitals,Chennai Super Kings,1304101,2022-05-08,AR Patel,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,Mukesh Choudhary,bowled
+Delhi Capitals,Chennai Super Kings,1304101,2022-05-08,DA Warner,19,12,1.0,2.0,0,0,0,28.0,158.33333333333331,M Theekshana,lbw
+Delhi Capitals,Chennai Super Kings,1304101,2022-05-08,KK Ahmed,0,1,0.0,0.0,0,0,1,2.0,0.0,DJ Bravo,bowled
+Delhi Capitals,Chennai Super Kings,1304101,2022-05-08,KS Bharat,8,5,2.0,0.0,0,0,0,14.0,160.0,Simarjeet Singh,caught
+Delhi Capitals,Chennai Super Kings,1304101,2022-05-08,Kuldeep Yadav,5,18,0.0,0.0,0,0,0,9.0,27.77777777777778,Simarjeet Singh,caught
+Delhi Capitals,Chennai Super Kings,1304101,2022-05-08,MR Marsh,25,20,3.0,1.0,0,0,0,34.0,125.0,MM Ali,caught
+Delhi Capitals,Chennai Super Kings,1304101,2022-05-08,R Powell,3,9,0.0,0.0,0,0,0,7.0,33.33333333333333,Mukesh Choudhary,caught
+Delhi Capitals,Chennai Super Kings,1304101,2022-05-08,RR Pant,21,11,4.0,0.0,0,0,0,29.0,190.9090909090909,MM Ali,bowled
+Delhi Capitals,Chennai Super Kings,1304101,2022-05-08,RV Patel,6,3,0.0,1.0,0,0,0,12.0,200.0,MM Ali,caught
+Delhi Capitals,Chennai Super Kings,1304101,2022-05-08,SN Thakur,24,19,2.0,1.0,0,0,0,32.0,126.3157894736842,DJ Bravo,caught

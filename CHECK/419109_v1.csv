@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Royal Challengers Bangalore,419109,2010-03-14,BJ Hodge,50,47,7.0,0.0,1,0,0,69.0,106.38297872340424,RE van der Merwe,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,419109,2010-03-14,CA Pujara,5,15,0.0,0.0,0,0,0,9.0,33.33333333333333,0,0
+Kolkata Knight Riders,Royal Challengers Bangalore,419109,2010-03-14,MK Tiwary,50,30,6.0,2.0,1,0,0,72.0,166.66666666666669,RE van der Merwe,caught and bowled
+Kolkata Knight Riders,Royal Challengers Bangalore,419109,2010-03-14,OA Shah,2,5,0.0,0.0,0,0,0,6.0,40.0,0,0
+Kolkata Knight Riders,Royal Challengers Bangalore,419109,2010-03-14,SC Ganguly,23,24,1.0,1.0,0,0,0,30.0,95.83333333333334,P Kumar,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,419109,2010-03-14,EJG Morgan,10,7,0.0,1.0,0,0,0,16.0,142.85714285714286,M Kartik,bowled
+Royal Challengers Bangalore,Kolkata Knight Riders,419109,2010-03-14,JH Kallis,65,52,7.0,1.0,1,0,0,86.0,125.0,0,0
+Royal Challengers Bangalore,Kolkata Knight Riders,419109,2010-03-14,MK Pandey,0,8,0.0,0.0,0,0,1,2.0,0.0,AD Mathews,bowled
+Royal Challengers Bangalore,Kolkata Knight Riders,419109,2010-03-14,P Kumar,3,5,0.0,0.0,0,0,0,7.0,60.0,0,0
+Royal Challengers Bangalore,Kolkata Knight Riders,419109,2010-03-14,R Dravid,21,16,3.0,0.0,0,0,0,28.0,131.25,AD Mathews,bowled
+Royal Challengers Bangalore,Kolkata Knight Riders,419109,2010-03-14,RE van der Merwe,1,2,0.0,0.0,0,0,0,5.0,50.0,AD Mathews,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,419109,2010-03-14,RV Uthappa,20,17,1.0,0.0,0,0,0,25.0,117.64705882352942,AD Mathews,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,419109,2010-03-14,SP Goswami,8,10,2.0,0.0,0,0,0,14.0,80.0,CK Langeveldt,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,419109,2010-03-14,V Kohli,2,5,0.0,0.0,0,0,0,6.0,40.0,M Kartik,caught

@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Rajasthan Royals,392217,2009-05-09,JDP Oram,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Chennai Super Kings,Rajasthan Royals,392217,2009-05-09,M Vijay,10,13,0.0,1.0,0,0,0,16.0,76.92307692307693,SK Trivedi,lbw
+Chennai Super Kings,Rajasthan Royals,392217,2009-05-09,ML Hayden,48,46,4.0,1.0,0,0,0,58.0,104.34782608695652,SK Warne,stumped
+Chennai Super Kings,Rajasthan Royals,392217,2009-05-09,S Badrinath,59,43,9.0,1.0,1,0,0,82.0,137.2093023255814,0,0
+Chennai Super Kings,Rajasthan Royals,392217,2009-05-09,SK Raina,13,12,1.0,1.0,0,0,0,20.0,108.33333333333331,A Singh,caught
+Rajasthan Royals,Chennai Super Kings,392217,2009-05-09,AS Raut,7,5,0.0,1.0,0,0,0,13.0,140.0,SB Jakati,stumped
+Rajasthan Royals,Chennai Super Kings,392217,2009-05-09,GC Smith,30,33,2.0,0.0,0,0,0,36.0,90.9090909090909,M Muralitharan,stumped
+Rajasthan Royals,Chennai Super Kings,392217,2009-05-09,LA Carseldine,9,8,1.0,0.0,0,0,0,14.0,112.5,SK Raina,run out
+Rajasthan Royals,Chennai Super Kings,392217,2009-05-09,NV Ojha,0,2,0.0,0.0,0,0,1,2.0,0.0,JA Morkel,bowled
+Rajasthan Royals,Chennai Super Kings,392217,2009-05-09,RA Jadeja,27,19,3.0,1.0,0,0,0,36.0,142.10526315789474,L Balaji,caught
+Rajasthan Royals,Chennai Super Kings,392217,2009-05-09,SA Asnodkar,26,26,3.0,1.0,0,0,0,35.0,100.0,M Muralitharan,lbw
+Rajasthan Royals,Chennai Super Kings,392217,2009-05-09,SK Warne,21,11,2.0,1.0,0,0,0,29.0,190.9090909090909,0,0
+Rajasthan Royals,Chennai Super Kings,392217,2009-05-09,SM Harwood,6,7,0.0,0.0,0,0,0,10.0,85.71428571428571,0,0
+Rajasthan Royals,Chennai Super Kings,392217,2009-05-09,YK Pathan,7,11,0.0,1.0,0,0,0,13.0,63.63636363636363,SB Jakati,caught

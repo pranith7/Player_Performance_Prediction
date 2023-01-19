@@ -1,0 +1,23 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Kolkata Knight Riders,729307,2014-04-26,AR Patel,7,10,0.0,0.0,0,0,0,11.0,70.0,SP Narine,stumped
+Kings XI Punjab,Kolkata Knight Riders,729307,2014-04-26,CA Pujara,8,8,1.0,0.0,0,0,0,13.0,100.0,M Morkel,run out
+Kings XI Punjab,Kolkata Knight Riders,729307,2014-04-26,DA Miller,14,10,2.0,0.0,0,0,0,20.0,140.0,PP Chawla,caught
+Kings XI Punjab,Kolkata Knight Riders,729307,2014-04-26,GJ Bailey,11,15,1.0,0.0,0,0,0,16.0,73.33333333333333,PP Chawla,caught
+Kings XI Punjab,Kolkata Knight Riders,729307,2014-04-26,GJ Maxwell,15,13,2.0,0.0,0,0,0,21.0,115.38461538461536,M Morkel,bowled
+Kings XI Punjab,Kolkata Knight Riders,729307,2014-04-26,L Balaji,0,2,0.0,0.0,0,0,1,2.0,0.0,SP Narine,lbw
+Kings XI Punjab,Kolkata Knight Riders,729307,2014-04-26,MG Johnson,0,1,0.0,0.0,0,0,1,2.0,0.0,SP Narine,bowled
+Kings XI Punjab,Kolkata Knight Riders,729307,2014-04-26,R Dhawan,19,18,2.0,0.0,0,0,0,25.0,105.55555555555556,0,0
+Kings XI Punjab,Kolkata Knight Riders,729307,2014-04-26,Sandeep Sharma,2,5,0.0,0.0,0,0,0,6.0,40.0,0,0
+Kings XI Punjab,Kolkata Knight Riders,729307,2014-04-26,V Sehwag,37,30,3.0,1.0,0,0,0,46.0,123.33333333333334,PP Chawla,bowled
+Kings XI Punjab,Kolkata Knight Riders,729307,2014-04-26,WP Saha,14,10,1.0,1.0,0,0,0,21.0,140.0,JH Kallis,lbw
+Kolkata Knight Riders,Kings XI Punjab,729307,2014-04-26,CA Lynn,13,20,2.0,0.0,0,0,0,19.0,65.0,AR Patel,bowled
+Kolkata Knight Riders,Kings XI Punjab,729307,2014-04-26,G Gambhir,1,5,0.0,0.0,0,0,0,5.0,20.0,Sandeep Sharma,caught
+Kolkata Knight Riders,Kings XI Punjab,729307,2014-04-26,JH Kallis,9,11,2.0,0.0,0,0,0,15.0,81.81818181818183,L Balaji,caught
+Kolkata Knight Riders,Kings XI Punjab,729307,2014-04-26,M Morkel,4,4,0.0,0.0,0,0,0,8.0,100.0,0,0
+Kolkata Knight Riders,Kings XI Punjab,729307,2014-04-26,MK Pandey,8,11,1.0,0.0,0,0,0,13.0,72.72727272727273,Sandeep Sharma,lbw
+Kolkata Knight Riders,Kings XI Punjab,729307,2014-04-26,PP Chawla,0,2,0.0,0.0,0,0,1,2.0,0.0,AR Patel,stumped
+Kolkata Knight Riders,Kings XI Punjab,729307,2014-04-26,RV Uthappa,19,27,2.0,0.0,0,0,0,25.0,70.37037037037037,R Dhawan,run out
+Kolkata Knight Riders,Kings XI Punjab,729307,2014-04-26,SA Yadav,34,18,3.0,1.0,0,0,0,43.0,188.88888888888889,Sandeep Sharma,caught
+Kolkata Knight Riders,Kings XI Punjab,729307,2014-04-26,SP Narine,6,8,0.0,0.0,0,0,0,10.0,75.0,MG Johnson,bowled
+Kolkata Knight Riders,Kings XI Punjab,729307,2014-04-26,UT Yadav,2,4,0.0,0.0,0,0,0,6.0,50.0,MG Johnson,bowled
+Kolkata Knight Riders,Kings XI Punjab,729307,2014-04-26,YK Pathan,3,5,0.0,0.0,0,0,0,7.0,60.0,R Dhawan,lbw

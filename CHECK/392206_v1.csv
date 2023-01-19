@@ -1,0 +1,20 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Delhi Daredevils,392206,2009-05-02,JA Morkel,6,4,1.0,0.0,0,0,0,11.0,150.0,A Nehra,caught and bowled
+Chennai Super Kings,Delhi Daredevils,392206,2009-05-02,JDP Oram,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,DP Nannes,caught
+Chennai Super Kings,Delhi Daredevils,392206,2009-05-02,L Balaji,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,A Nehra,caught
+Chennai Super Kings,Delhi Daredevils,392206,2009-05-02,M Muralitharan,3,4,0.0,0.0,0,0,0,7.0,75.0,DP Nannes,run out
+Chennai Super Kings,Delhi Daredevils,392206,2009-05-02,M Vijay,14,14,2.0,0.0,0,0,0,20.0,100.0,A Nehra,caught
+Chennai Super Kings,Delhi Daredevils,392206,2009-05-02,ML Hayden,30,20,4.0,1.0,0,0,0,40.0,150.0,PJ Sangwan,caught
+Chennai Super Kings,Delhi Daredevils,392206,2009-05-02,MS Dhoni,6,8,0.0,0.0,0,0,0,10.0,75.0,DP Nannes,caught
+Chennai Super Kings,Delhi Daredevils,392206,2009-05-02,S Badrinath,45,34,4.0,2.0,0,0,0,57.0,132.35294117647058,R Bhatia,bowled
+Chennai Super Kings,Delhi Daredevils,392206,2009-05-02,SB Jakati,13,9,2.0,0.0,0,0,0,19.0,144.44444444444443,DP Nannes,caught
+Chennai Super Kings,Delhi Daredevils,392206,2009-05-02,SK Raina,32,22,2.0,2.0,0,0,0,42.0,145.45454545454547,R Bhatia,caught
+Delhi Daredevils,Chennai Super Kings,392206,2009-05-02,A Mishra,11,8,1.0,1.0,0,0,0,18.0,137.5,0,0
+Delhi Daredevils,Chennai Super Kings,392206,2009-05-02,AB de Villiers,0,1,0.0,0.0,0,0,1,2.0,0.0,S Tyagi,bowled
+Delhi Daredevils,Chennai Super Kings,392206,2009-05-02,DA Warner,51,40,5.0,1.0,1,0,0,70.0,127.5,SB Jakati,stumped
+Delhi Daredevils,Chennai Super Kings,392206,2009-05-02,G Gambhir,13,14,2.0,0.0,0,0,0,19.0,92.85714285714286,S Tyagi,caught
+Delhi Daredevils,Chennai Super Kings,392206,2009-05-02,KD Karthik,52,31,7.0,1.0,1,0,0,73.0,167.74193548387098,SB Jakati,caught
+Delhi Daredevils,Chennai Super Kings,392206,2009-05-02,M Manhas,0,4,0.0,0.0,0,0,1,2.0,0.0,M Muralitharan,bowled
+Delhi Daredevils,Chennai Super Kings,392206,2009-05-02,PJ Sangwan,0,3,0.0,0.0,0,0,1,2.0,0.0,SB Jakati,bowled
+Delhi Daredevils,Chennai Super Kings,392206,2009-05-02,R Bhatia,2,7,0.0,0.0,0,0,0,6.0,28.57142857142857,JA Morkel,caught
+Delhi Daredevils,Chennai Super Kings,392206,2009-05-02,TM Dilshan,13,13,0.0,1.0,0,0,0,19.0,100.0,SB Jakati,bowled

@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Pune Warriors,Rajasthan Royals,501235,2011-05-01,Harpreet Singh,13,19,0.0,0.0,0,0,0,17.0,68.42105263157895,SR Watson,caught
+Pune Warriors,Rajasthan Royals,501235,2011-05-01,JD Ryder,18,12,3.0,0.0,0,0,0,25.0,150.0,J Botha,stumped
+Pune Warriors,Rajasthan Royals,501235,2011-05-01,M Manhas,24,20,1.0,1.0,0,0,0,31.0,120.0,SK Trivedi,caught
+Pune Warriors,Rajasthan Royals,501235,2011-05-01,MK Pandey,30,31,4.0,0.0,0,0,0,38.0,96.7741935483871,SK Trivedi,caught
+Pune Warriors,Rajasthan Royals,501235,2011-05-01,NL McCullum,11,7,0.0,1.0,0,0,0,17.0,157.14285714285714,0,0
+Pune Warriors,Rajasthan Royals,501235,2011-05-01,R Sharma,0,1,0.0,0.0,0,0,1,2.0,0.0,SK Trivedi,run out
+Pune Warriors,Rajasthan Royals,501235,2011-05-01,RV Uthappa,35,21,7.0,0.0,0,0,0,46.0,166.66666666666669,SK Warne,caught
+Pune Warriors,Rajasthan Royals,501235,2011-05-01,Yuvraj Singh,7,11,0.0,0.0,0,0,0,11.0,63.63636363636363,SK Trivedi,run out
+Rajasthan Royals,Pune Warriors,501235,2011-05-01,AL Menaria,29,22,0.0,3.0,0,0,0,39.0,131.8181818181818,R Sharma,caught
+Rajasthan Royals,Pune Warriors,501235,2011-05-01,AM Rahane,15,9,2.0,0.0,0,0,0,21.0,166.66666666666669,0,0
+Rajasthan Royals,Pune Warriors,501235,2011-05-01,J Botha,12,18,1.0,0.0,0,0,0,17.0,66.66666666666666,R Sharma,lbw
+Rajasthan Royals,Pune Warriors,501235,2011-05-01,LRPL Taylor,47,36,4.0,2.0,0,0,0,59.0,130.55555555555557,0,0
+Rajasthan Royals,Pune Warriors,501235,2011-05-01,R Dravid,18,20,2.0,0.0,0,0,0,24.0,90.0,R Sharma,caught and bowled
+Rajasthan Royals,Pune Warriors,501235,2011-05-01,SR Watson,12,14,0.0,1.0,0,0,0,18.0,85.71428571428571,AC Thomas,caught

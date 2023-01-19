@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Capitals,Kolkata Knight Riders,1178401,2019-04-12,CA Ingram,14,6,1.0,1.0,0,0,0,21.0,233.3333333333333,0,0
+Delhi Capitals,Kolkata Knight Riders,1178401,2019-04-12,PP Shaw,14,7,0.0,2.0,0,0,0,22.0,200.0,M Prasidh Krishna,caught
+Delhi Capitals,Kolkata Knight Riders,1178401,2019-04-12,RR Pant,46,32,4.0,2.0,0,0,0,58.0,143.75,N Rana,caught
+Delhi Capitals,Kolkata Knight Riders,1178401,2019-04-12,S Dhawan,97,64,11.0,2.0,1,0,0,124.0,151.5625,0,0
+Delhi Capitals,Kolkata Knight Riders,1178401,2019-04-12,SS Iyer,6,6,1.0,0.0,0,0,0,11.0,100.0,AD Russell,caught
+Kolkata Knight Riders,Delhi Capitals,1178401,2019-04-12,AD Russell,45,22,3.0,4.0,0,0,0,60.0,204.54545454545453,CH Morris,caught
+Kolkata Knight Riders,Delhi Capitals,1178401,2019-04-12,CR Brathwaite,6,7,0.0,0.0,0,0,0,10.0,85.71428571428571,KMA Paul,caught
+Kolkata Knight Riders,Delhi Capitals,1178401,2019-04-12,JL Denly,0,1,0.0,0.0,0,0,1,2.0,0.0,I Sharma,bowled
+Kolkata Knight Riders,Delhi Capitals,1178401,2019-04-12,KD Karthik,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,K Rabada,caught
+Kolkata Knight Riders,Delhi Capitals,1178401,2019-04-12,Kuldeep Yadav,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Kolkata Knight Riders,Delhi Capitals,1178401,2019-04-12,N Rana,11,13,0.0,1.0,0,0,0,17.0,84.61538461538461,CH Morris,bowled
+Kolkata Knight Riders,Delhi Capitals,1178401,2019-04-12,PP Chawla,14,6,2.0,0.0,0,0,0,20.0,233.3333333333333,0,0
+Kolkata Knight Riders,Delhi Capitals,1178401,2019-04-12,RV Uthappa,28,30,4.0,1.0,0,0,0,38.0,93.33333333333331,K Rabada,caught
+Kolkata Knight Riders,Delhi Capitals,1178401,2019-04-12,Shubman Gill,65,40,7.0,2.0,1,0,0,88.0,162.5,KMA Paul,caught

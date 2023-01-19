@@ -1,0 +1,10 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Rajasthan Royals,501263,2011-05-20,AT Rayudu,2,8,0.0,0.0,0,0,0,6.0,25.0,SR Watson,caught
+Mumbai Indians,Rajasthan Royals,501263,2011-05-20,Harbhajan Singh,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Mumbai Indians,Rajasthan Royals,501263,2011-05-20,JEC Franklin,11,5,2.0,0.0,0,0,0,17.0,220.00000000000003,0,0
+Mumbai Indians,Rajasthan Royals,501263,2011-05-20,KA Pollard,20,18,2.0,0.0,0,0,0,26.0,111.11111111111111,SR Watson,bowled
+Mumbai Indians,Rajasthan Royals,501263,2011-05-20,RG Sharma,58,49,5.0,1.0,1,0,0,77.0,118.36734693877553,SK Warne,stumped
+Mumbai Indians,Rajasthan Royals,501263,2011-05-20,SR Tendulkar,31,35,3.0,0.0,0,0,0,38.0,88.57142857142857,A Singh,caught
+Mumbai Indians,Rajasthan Royals,501263,2011-05-20,TL Suman,5,6,1.0,0.0,0,0,0,10.0,83.33333333333334,SR Watson,caught
+Rajasthan Royals,Mumbai Indians,501263,2011-05-20,R Dravid,43,32,6.0,0.0,0,0,0,53.0,134.375,0,0
+Rajasthan Royals,Mumbai Indians,501263,2011-05-20,SR Watson,89,49,9.0,6.0,1,0,0,122.0,181.6326530612245,0,0

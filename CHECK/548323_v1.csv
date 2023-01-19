@@ -1,0 +1,21 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Kolkata Knight Riders,548323,2012-04-15,AC Gilchrist,5,9,0.0,0.0,0,0,0,9.0,55.55555555555556,SP Narine,caught
+Kings XI Punjab,Kolkata Knight Riders,548323,2012-04-15,AD Mascarenhas,0,1,0.0,0.0,0,0,1,2.0,0.0,R Bhatia,caught
+Kings XI Punjab,Kolkata Knight Riders,548323,2012-04-15,BA Bhatt,6,2,0.0,1.0,0,0,0,12.0,300.0,0,0
+Kings XI Punjab,Kolkata Knight Riders,548323,2012-04-15,Bipul Sharma,12,11,0.0,1.0,0,0,0,18.0,109.09090909090908,SP Narine,caught
+Kings XI Punjab,Kolkata Knight Riders,548323,2012-04-15,DJ Hussey,32,31,1.0,1.0,0,0,0,39.0,103.2258064516129,R Bhatia,run out
+Kings XI Punjab,Kolkata Knight Riders,548323,2012-04-15,Harmeet Singh,14,6,3.0,0.0,0,0,0,21.0,233.3333333333333,SP Narine,caught
+Kings XI Punjab,Kolkata Knight Riders,548323,2012-04-15,Mandeep Singh,38,34,3.0,1.0,0,0,0,47.0,111.76470588235294,Shakib Al Hasan,caught
+Kings XI Punjab,Kolkata Knight Riders,548323,2012-04-15,P Dogra,6,11,0.0,0.0,0,0,0,10.0,54.54545454545454,R Bhatia,caught
+Kings XI Punjab,Kolkata Knight Riders,548323,2012-04-15,P Kumar,0,1,0.0,0.0,0,0,1,2.0,0.0,SP Narine,bowled
+Kings XI Punjab,Kolkata Knight Riders,548323,2012-04-15,PP Chawla,13,8,0.0,1.0,0,0,0,19.0,162.5,0,0
+Kings XI Punjab,Kolkata Knight Riders,548323,2012-04-15,SE Marsh,1,7,0.0,0.0,0,0,0,5.0,14.285714285714285,SP Narine,bowled
+Kolkata Knight Riders,Kings XI Punjab,548323,2012-04-15,DB Das,35,23,3.0,1.0,0,0,0,44.0,152.17391304347828,0,0
+Kolkata Knight Riders,Kings XI Punjab,548323,2012-04-15,G Gambhir,22,13,4.0,0.0,0,0,0,30.0,169.23076923076923,AD Mascarenhas,caught and bowled
+Kolkata Knight Riders,Kings XI Punjab,548323,2012-04-15,JH Kallis,1,5,0.0,0.0,0,0,0,5.0,20.0,BA Bhatt,caught
+Kolkata Knight Riders,Kings XI Punjab,548323,2012-04-15,MK Tiwary,20,27,1.0,0.0,0,0,0,25.0,74.07407407407408,BA Bhatt,lbw
+Kolkata Knight Riders,Kings XI Punjab,548323,2012-04-15,MS Bisla,27,27,1.0,1.0,0,0,0,34.0,100.0,PP Chawla,bowled
+Kolkata Knight Riders,Kings XI Punjab,548323,2012-04-15,R Bhatia,3,2,0.0,0.0,0,0,0,7.0,150.0,0,0
+Kolkata Knight Riders,Kings XI Punjab,548323,2012-04-15,RN ten Doeschate,11,14,1.0,0.0,0,0,0,16.0,78.57142857142857,Harmeet Singh,bowled
+Kolkata Knight Riders,Kings XI Punjab,548323,2012-04-15,Shakib Al Hasan,4,8,0.0,0.0,0,0,0,8.0,50.0,PP Chawla,caught and bowled
+Kolkata Knight Riders,Kings XI Punjab,548323,2012-04-15,YK Pathan,0,3,0.0,0.0,0,0,1,2.0,0.0,PP Chawla,bowled

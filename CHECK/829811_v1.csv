@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Rajasthan Royals,829811,2015-05-16,AD Russell,37,22,4.0,2.0,0,0,0,49.0,168.1818181818182,CH Morris,caught
+Kolkata Knight Riders,Rajasthan Royals,829811,2015-05-16,Azhar Mahmood,6,8,1.0,0.0,0,0,0,11.0,75.0,JP Faulkner,caught
+Kolkata Knight Riders,Rajasthan Royals,829811,2015-05-16,G Gambhir,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,CH Morris,caught
+Kolkata Knight Riders,Rajasthan Royals,829811,2015-05-16,M Morkel,4,3,0.0,0.0,0,0,0,8.0,133.33333333333331,0,0
+Kolkata Knight Riders,Rajasthan Royals,829811,2015-05-16,MK Pandey,21,21,3.0,0.0,0,0,0,28.0,100.0,DS Kulkarni,caught
+Kolkata Knight Riders,Rajasthan Royals,829811,2015-05-16,PP Chawla,0,1,0.0,0.0,0,0,1,2.0,0.0,SR Watson,caught
+Kolkata Knight Riders,Rajasthan Royals,829811,2015-05-16,RV Uthappa,14,9,3.0,0.0,0,0,0,21.0,155.55555555555557,DS Kulkarni,caught
+Kolkata Knight Riders,Rajasthan Royals,829811,2015-05-16,SA Yadav,0,1,0.0,0.0,0,0,1,2.0,0.0,CH Morris,caught
+Kolkata Knight Riders,Rajasthan Royals,829811,2015-05-16,Shakib Al Hasan,13,14,2.0,0.0,0,0,0,19.0,92.85714285714286,CH Morris,caught
+Kolkata Knight Riders,Rajasthan Royals,829811,2015-05-16,UT Yadav,24,13,4.0,1.0,0,0,0,34.0,184.6153846153846,0,0
+Kolkata Knight Riders,Rajasthan Royals,829811,2015-05-16,YK Pathan,44,39,5.0,1.0,0,0,0,55.0,112.82051282051282,SR Watson,caught
+Rajasthan Royals,Kolkata Knight Riders,829811,2015-05-16,AM Rahane,37,22,3.0,2.0,0,0,0,48.0,168.1818181818182,Azhar Mahmood,run out
+Rajasthan Royals,Kolkata Knight Riders,829811,2015-05-16,CH Morris,4,5,0.0,0.0,0,0,0,8.0,80.0,UT Yadav,run out
+Rajasthan Royals,Kolkata Knight Riders,829811,2015-05-16,JP Faulkner,6,6,1.0,0.0,0,0,0,11.0,100.0,AD Russell,caught
+Rajasthan Royals,Kolkata Knight Riders,829811,2015-05-16,KK Nair,16,10,3.0,0.0,0,0,0,23.0,160.0,UT Yadav,caught
+Rajasthan Royals,Kolkata Knight Riders,829811,2015-05-16,SPD Smith,14,11,2.0,0.0,0,0,0,20.0,127.27272727272728,AD Russell,caught
+Rajasthan Royals,Kolkata Knight Riders,829811,2015-05-16,SR Watson,104,62,9.0,5.0,1,1,0,151.0,167.74193548387098,0,0
+Rajasthan Royals,Kolkata Knight Riders,829811,2015-05-16,SV Samson,8,9,1.0,0.0,0,0,0,13.0,88.88888888888889,AD Russell,caught

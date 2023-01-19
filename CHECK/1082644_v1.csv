@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Mumbai Indians,1082644,2017-05-13,C de Grandhomme,29,16,4.0,1.0,0,0,0,39.0,181.25,HH Pandya,bowled
+Kolkata Knight Riders,Mumbai Indians,1082644,2017-05-13,CA Lynn,26,15,3.0,2.0,0,0,0,37.0,173.33333333333334,R Vinay Kumar,caught
+Kolkata Knight Riders,Mumbai Indians,1082644,2017-05-13,G Gambhir,21,17,3.0,1.0,0,0,0,30.0,123.52941176470588,MG Johnson,caught
+Kolkata Knight Riders,Mumbai Indians,1082644,2017-05-13,Kuldeep Yadav,16,15,2.0,0.0,0,0,0,22.0,106.66666666666669,TG Southee,caught
+Kolkata Knight Riders,Mumbai Indians,1082644,2017-05-13,MK Pandey,33,33,2.0,0.0,0,0,0,39.0,100.0,HH Pandya,caught
+Kolkata Knight Riders,Mumbai Indians,1082644,2017-05-13,RV Uthappa,2,4,0.0,0.0,0,0,0,6.0,50.0,KV Sharma,caught
+Kolkata Knight Riders,Mumbai Indians,1082644,2017-05-13,SP Narine,0,4,0.0,0.0,0,0,1,2.0,0.0,TG Southee,caught
+Kolkata Knight Riders,Mumbai Indians,1082644,2017-05-13,TA Boult,5,8,0.0,0.0,0,0,0,9.0,62.5,0,0
+Kolkata Knight Riders,Mumbai Indians,1082644,2017-05-13,UT Yadav,4,4,0.0,0.0,0,0,0,8.0,100.0,0,0
+Kolkata Knight Riders,Mumbai Indians,1082644,2017-05-13,YK Pathan,20,9,0.0,3.0,0,0,0,30.0,222.22222222222223,R Vinay Kumar,caught
+Mumbai Indians,Kolkata Knight Riders,1082644,2017-05-13,AT Rayudu,63,37,6.0,3.0,1,0,0,87.0,170.27027027027026,Kuldeep Yadav,stumped
+Mumbai Indians,Kolkata Knight Riders,1082644,2017-05-13,HH Pandya,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,0,0
+Mumbai Indians,Kolkata Knight Riders,1082644,2017-05-13,KA Pollard,13,11,0.0,1.0,0,0,0,19.0,118.1818181818182,TA Boult,caught
+Mumbai Indians,Kolkata Knight Riders,1082644,2017-05-13,KH Pandya,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Mumbai Indians,Kolkata Knight Riders,1082644,2017-05-13,LMP Simmons,0,5,0.0,0.0,0,0,1,2.0,0.0,TA Boult,caught
+Mumbai Indians,Kolkata Knight Riders,1082644,2017-05-13,RG Sharma,27,22,4.0,1.0,0,0,0,37.0,122.72727272727272,AS Rajpoot,lbw
+Mumbai Indians,Kolkata Knight Riders,1082644,2017-05-13,SS Tiwary,52,46,9.0,0.0,1,0,0,73.0,113.04347826086956,UT Yadav,run out

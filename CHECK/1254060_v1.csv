@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Sunrisers Hyderabad,1254060,2021-04-11,AD Russell,5,6,1.0,0.0,0,0,0,10.0,83.33333333333334,Rashid Khan,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1254060,2021-04-11,EJG Morgan,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,Mohammad Nabi,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1254060,2021-04-11,KD Karthik,22,10,2.0,1.0,0,0,0,30.0,220.00000000000003,0,0
+Kolkata Knight Riders,Sunrisers Hyderabad,1254060,2021-04-11,N Rana,80,56,9.0,4.0,1,0,0,109.0,142.85714285714286,Mohammad Nabi,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1254060,2021-04-11,RA Tripathi,53,29,5.0,2.0,1,0,0,74.0,182.7586206896552,T Natarajan,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1254060,2021-04-11,Shakib Al Hasan,3,6,0.0,0.0,0,0,0,7.0,50.0,B Kumar,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1254060,2021-04-11,Shubman Gill,15,13,1.0,1.0,0,0,0,22.0,115.38461538461536,Rashid Khan,bowled
+Sunrisers Hyderabad,Kolkata Knight Riders,1254060,2021-04-11,Abdul Samad,19,8,0.0,2.0,0,0,0,27.0,237.5,0,0
+Sunrisers Hyderabad,Kolkata Knight Riders,1254060,2021-04-11,DA Warner,3,4,0.0,0.0,0,0,0,7.0,75.0,M Prasidh Krishna,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,1254060,2021-04-11,JM Bairstow,55,41,5.0,3.0,1,0,0,78.0,134.14634146341464,PJ Cummins,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,1254060,2021-04-11,MK Pandey,61,46,2.0,3.0,1,0,0,81.0,132.6086956521739,0,0
+Sunrisers Hyderabad,Kolkata Knight Riders,1254060,2021-04-11,Mohammad Nabi,14,13,2.0,0.0,0,0,0,20.0,107.6923076923077,M Prasidh Krishna,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,1254060,2021-04-11,V Shankar,11,7,0.0,1.0,0,0,0,17.0,157.14285714285714,AD Russell,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,1254060,2021-04-11,WP Saha,7,6,0.0,1.0,0,0,0,13.0,116.66666666666669,Shakib Al Hasan,bowled

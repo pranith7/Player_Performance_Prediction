@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Sunrisers Hyderabad,1082648,2017-05-17,CA Lynn,6,2,0.0,1.0,0,0,0,12.0,300.0,B Kumar,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1082648,2017-05-17,G Gambhir,32,21,2.0,2.0,0,0,0,42.0,152.38095238095238,0,0
+Kolkata Knight Riders,Sunrisers Hyderabad,1082648,2017-05-17,IR Jaggi,5,8,0.0,0.0,0,0,0,9.0,62.5,0,0
+Kolkata Knight Riders,Sunrisers Hyderabad,1082648,2017-05-17,RV Uthappa,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,CJ Jordan,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1082648,2017-05-17,YK Pathan,0,1,0.0,0.0,0,0,1,2.0,0.0,B Kumar,run out
+Sunrisers Hyderabad,Kolkata Knight Riders,1082648,2017-05-17,Bipul Sharma,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,0,0
+Sunrisers Hyderabad,Kolkata Knight Riders,1082648,2017-05-17,CJ Jordan,0,1,0.0,0.0,0,0,1,2.0,0.0,NM Coulter-Nile,caught and bowled
+Sunrisers Hyderabad,Kolkata Knight Riders,1082648,2017-05-17,DA Warner,37,35,2.0,2.0,0,0,0,47.0,105.71428571428572,PP Chawla,bowled
+Sunrisers Hyderabad,Kolkata Knight Riders,1082648,2017-05-17,KS Williamson,24,26,2.0,1.0,0,0,0,32.0,92.3076923076923,NM Coulter-Nile,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,1082648,2017-05-17,NV Ojha,16,17,0.0,1.0,0,0,0,22.0,94.11764705882352,TA Boult,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,1082648,2017-05-17,S Dhawan,11,13,1.0,0.0,0,0,0,16.0,84.61538461538461,UT Yadav,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,1082648,2017-05-17,V Shankar,22,18,2.0,1.0,0,0,0,30.0,122.22222222222224,NM Coulter-Nile,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,1082648,2017-05-17,Yuvraj Singh,9,9,2.0,0.0,0,0,0,15.0,100.0,UT Yadav,caught

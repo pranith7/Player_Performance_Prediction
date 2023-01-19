@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Capitals,Mumbai Indians,1237177,2020-11-05,AM Rahane,0,3,0.0,0.0,0,0,1,2.0,0.0,TA Boult,lbw
+Delhi Capitals,Mumbai Indians,1237177,2020-11-05,AR Patel,42,34,2.0,3.0,0,0,0,54.0,123.52941176470588,KA Pollard,caught
+Delhi Capitals,Mumbai Indians,1237177,2020-11-05,DR Sams,0,2,0.0,0.0,0,0,1,2.0,0.0,JJ Bumrah,caught
+Delhi Capitals,Mumbai Indians,1237177,2020-11-05,K Rabada,15,18,2.0,0.0,0,0,0,21.0,83.33333333333334,0,0
+Delhi Capitals,Mumbai Indians,1237177,2020-11-05,MP Stoinis,65,48,6.0,3.0,1,0,0,89.0,135.41666666666669,JJ Bumrah,bowled
+Delhi Capitals,Mumbai Indians,1237177,2020-11-05,PP Shaw,0,2,0.0,0.0,0,0,1,2.0,0.0,TA Boult,caught
+Delhi Capitals,Mumbai Indians,1237177,2020-11-05,RR Pant,3,9,0.0,0.0,0,0,0,7.0,33.33333333333333,KH Pandya,caught
+Delhi Capitals,Mumbai Indians,1237177,2020-11-05,S Dhawan,0,2,0.0,0.0,0,0,1,2.0,0.0,JJ Bumrah,bowled
+Delhi Capitals,Mumbai Indians,1237177,2020-11-05,SS Iyer,12,8,3.0,0.0,0,0,0,19.0,150.0,JJ Bumrah,caught
+Mumbai Indians,Delhi Capitals,1237177,2020-11-05,HH Pandya,37,14,0.0,5.0,0,0,0,51.0,264.2857142857143,0,0
+Mumbai Indians,Delhi Capitals,1237177,2020-11-05,Ishan Kishan,55,30,4.0,3.0,1,0,0,77.0,183.3333333333333,0,0
+Mumbai Indians,Delhi Capitals,1237177,2020-11-05,KA Pollard,0,2,0.0,0.0,0,0,1,2.0,0.0,R Ashwin,caught
+Mumbai Indians,Delhi Capitals,1237177,2020-11-05,KH Pandya,13,10,0.0,1.0,0,0,0,19.0,130.0,MP Stoinis,caught
+Mumbai Indians,Delhi Capitals,1237177,2020-11-05,Q de Kock,40,26,5.0,1.0,0,0,0,51.0,153.84615384615387,R Ashwin,caught
+Mumbai Indians,Delhi Capitals,1237177,2020-11-05,RG Sharma,0,1,0.0,0.0,0,0,1,2.0,0.0,R Ashwin,lbw
+Mumbai Indians,Delhi Capitals,1237177,2020-11-05,SA Yadav,51,38,6.0,2.0,1,0,0,73.0,134.21052631578948,A Nortje,caught

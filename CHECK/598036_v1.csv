@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Rajasthan Royals,Royal Challengers Bangalore,598036,2013-04-29,AM Rahane,2,7,0.0,0.0,0,0,0,6.0,28.57142857142857,R Rampaul,caught
+Rajasthan Royals,Royal Challengers Bangalore,598036,2013-04-29,BJ Hodge,32,18,1.0,2.0,0,0,0,41.0,177.77777777777777,R Vinay Kumar,bowled
+Rajasthan Royals,Royal Challengers Bangalore,598036,2013-04-29,JP Faulkner,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Rajasthan Royals,Royal Challengers Bangalore,598036,2013-04-29,OA Shah,1,1,0.0,0.0,0,0,0,5.0,100.0,R Vinay Kumar,run out
+Rajasthan Royals,Royal Challengers Bangalore,598036,2013-04-29,R Dravid,22,17,4.0,0.0,0,0,0,30.0,129.41176470588235,MC Henriques,bowled
+Rajasthan Royals,Royal Challengers Bangalore,598036,2013-04-29,SR Watson,41,32,3.0,1.0,0,0,0,50.0,128.125,RP Singh,caught
+Rajasthan Royals,Royal Challengers Bangalore,598036,2013-04-29,STR Binny,6,3,1.0,0.0,0,0,0,11.0,200.0,0,0
+Rajasthan Royals,Royal Challengers Bangalore,598036,2013-04-29,SV Samson,63,42,7.0,2.0,1,0,0,86.0,150.0,R Rampaul,caught
+Royal Challengers Bangalore,Rajasthan Royals,598036,2013-04-29,A Mukund,19,22,1.0,0.0,0,0,0,24.0,86.36363636363636,SK Trivedi,bowled
+Royal Challengers Bangalore,Rajasthan Royals,598036,2013-04-29,AB de Villiers,21,13,3.0,0.0,0,0,0,28.0,161.53846153846155,S Sreesanth,caught
+Royal Challengers Bangalore,Rajasthan Royals,598036,2013-04-29,CH Gayle,34,17,6.0,1.0,0,0,0,46.0,200.0,SR Watson,caught
+Royal Challengers Bangalore,Rajasthan Royals,598036,2013-04-29,MC Henriques,22,19,2.0,1.0,0,0,0,30.0,115.78947368421052,SR Watson,run out
+Royal Challengers Bangalore,Rajasthan Royals,598036,2013-04-29,R Rampaul,3,4,0.0,0.0,0,0,0,7.0,75.0,SR Watson,caught
+Royal Challengers Bangalore,Rajasthan Royals,598036,2013-04-29,R Vinay Kumar,22,6,0.0,3.0,0,0,0,32.0,366.6666666666666,0,0
+Royal Challengers Bangalore,Rajasthan Royals,598036,2013-04-29,SS Tiwary,8,9,0.0,0.0,0,0,0,12.0,88.88888888888889,0,0
+Royal Challengers Bangalore,Rajasthan Royals,598036,2013-04-29,V Kohli,32,35,3.0,0.0,0,0,0,39.0,91.42857142857144,SR Watson,caught

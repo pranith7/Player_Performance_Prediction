@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Sunrisers Hyderabad,1216512,2020-10-18,AD Russell,9,11,1.0,0.0,0,0,0,14.0,81.81818181818183,T Natarajan,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1216512,2020-10-18,EJG Morgan,35,25,3.0,1.0,0,0,0,44.0,140.0,Basil Thampi,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1216512,2020-10-18,KD Karthik,29,16,2.0,2.0,0,0,0,39.0,181.25,0,0
+Kolkata Knight Riders,Sunrisers Hyderabad,1216512,2020-10-18,N Rana,29,20,3.0,1.0,0,0,0,38.0,145.0,V Shankar,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1216512,2020-10-18,RA Tripathi,23,16,2.0,1.0,0,0,0,31.0,143.75,T Natarajan,bowled
+Kolkata Knight Riders,Sunrisers Hyderabad,1216512,2020-10-18,Shubman Gill,36,37,5.0,0.0,0,0,0,45.0,97.2972972972973,Rashid Khan,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,1216512,2020-10-18,Abdul Samad,25,17,2.0,1.0,0,0,0,33.0,147.05882352941177,Shivam Mavi,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,1216512,2020-10-18,DA Warner,47,35,5.0,0.0,0,0,0,56.0,134.28571428571428,LH Ferguson,bowled
+Sunrisers Hyderabad,Kolkata Knight Riders,1216512,2020-10-18,JM Bairstow,36,28,7.0,0.0,0,0,0,47.0,128.57142857142858,LH Ferguson,bowled
+Sunrisers Hyderabad,Kolkata Knight Riders,1216512,2020-10-18,KS Williamson,29,20,4.0,1.0,0,0,0,39.0,145.0,CV Varun,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,1216512,2020-10-18,MK Pandey,6,7,0.0,0.0,0,0,0,10.0,85.71428571428571,LH Ferguson,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,1216512,2020-10-18,PK Garg,4,7,0.0,0.0,0,0,0,8.0,57.14285714285714,LH Ferguson,bowled
+Sunrisers Hyderabad,Kolkata Knight Riders,1216512,2020-10-18,Rashid Khan,1,2,0.0,0.0,0,0,0,5.0,50.0,LH Ferguson,bowled
+Sunrisers Hyderabad,Kolkata Knight Riders,1216512,2020-10-18,V Shankar,7,10,0.0,0.0,0,0,0,11.0,70.0,0,0

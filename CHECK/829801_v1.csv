@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Delhi Daredevils,829801,2015-05-12,BB McCullum,11,21,1.0,0.0,0,0,0,16.0,52.38095238095239,Z Khan,caught
+Chennai Super Kings,Delhi Daredevils,829801,2015-05-12,DJ Bravo,8,8,0.0,1.0,0,0,0,14.0,100.0,GS Sandhu,caught
+Chennai Super Kings,Delhi Daredevils,829801,2015-05-12,DR Smith,18,24,2.0,1.0,0,0,0,26.0,75.0,JA Morkel,lbw
+Chennai Super Kings,Delhi Daredevils,829801,2015-05-12,F du Plessis,29,23,3.0,0.0,0,0,0,36.0,126.08695652173914,JA Morkel,bowled
+Chennai Super Kings,Delhi Daredevils,829801,2015-05-12,MS Dhoni,27,24,3.0,1.0,0,0,0,36.0,112.5,Z Khan,caught
+Chennai Super Kings,Delhi Daredevils,829801,2015-05-12,P Negi,5,8,0.0,0.0,0,0,0,9.0,62.5,0,0
+Chennai Super Kings,Delhi Daredevils,829801,2015-05-12,RA Jadeja,3,4,0.0,0.0,0,0,0,7.0,75.0,0,0
+Chennai Super Kings,Delhi Daredevils,829801,2015-05-12,SK Raina,11,8,1.0,0.0,0,0,0,16.0,137.5,J Yadav,caught
+Delhi Daredevils,Chennai Super Kings,829801,2015-05-12,JA Morkel,8,8,0.0,1.0,0,0,0,14.0,100.0,P Negi,caught
+Delhi Daredevils,Chennai Super Kings,829801,2015-05-12,JP Duminy,6,7,1.0,0.0,0,0,0,11.0,85.71428571428571,IC Pandey,bowled
+Delhi Daredevils,Chennai Super Kings,829801,2015-05-12,KM Jadhav,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Delhi Daredevils,Chennai Super Kings,829801,2015-05-12,Q de Kock,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,IC Pandey,caught
+Delhi Daredevils,Chennai Super Kings,829801,2015-05-12,SS Iyer,70,49,10.0,1.0,1,0,0,94.0,142.85714285714286,0,0
+Delhi Daredevils,Chennai Super Kings,829801,2015-05-12,Yuvraj Singh,32,28,4.0,1.0,0,0,0,42.0,114.28571428571428,P Negi,caught

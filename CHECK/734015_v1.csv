@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Sunrisers Hyderabad,734015,2014-05-18,G Gambhir,6,10,1.0,0.0,0,0,0,11.0,60.0,DW Steyn,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,734015,2014-05-18,MK Pandey,35,32,3.0,1.0,0,0,0,44.0,109.375,KV Sharma,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,734015,2014-05-18,RN ten Doeschate,25,15,2.0,1.0,0,0,0,33.0,166.66666666666669,0,0
+Kolkata Knight Riders,Sunrisers Hyderabad,734015,2014-05-18,RV Uthappa,40,33,5.0,1.0,0,0,0,51.0,121.21212121212122,A Mishra,run out
+Kolkata Knight Riders,Sunrisers Hyderabad,734015,2014-05-18,YK Pathan,39,28,2.0,2.0,0,0,0,49.0,139.28571428571428,0,0
+Sunrisers Hyderabad,Kolkata Knight Riders,734015,2014-05-18,AJ Finch,8,8,1.0,0.0,0,0,0,13.0,100.0,UT Yadav,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,734015,2014-05-18,DA Warner,34,18,3.0,2.0,0,0,0,45.0,188.88888888888889,UT Yadav,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,734015,2014-05-18,DJG Sammy,7,16,0.0,0.0,0,0,0,11.0,43.75,Shakib Al Hasan,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,734015,2014-05-18,DW Steyn,1,2,0.0,0.0,0,0,0,5.0,50.0,UT Yadav,bowled
+Sunrisers Hyderabad,Kolkata Knight Riders,734015,2014-05-18,IK Pathan,23,21,2.0,0.0,0,0,0,29.0,109.52380952380952,0,0
+Sunrisers Hyderabad,Kolkata Knight Riders,734015,2014-05-18,KL Rahul,14,15,2.0,0.0,0,0,0,20.0,93.33333333333331,PP Chawla,lbw
+Sunrisers Hyderabad,Kolkata Knight Riders,734015,2014-05-18,KV Sharma,4,5,0.0,0.0,0,0,0,8.0,80.0,UT Yadav,run out
+Sunrisers Hyderabad,Kolkata Knight Riders,734015,2014-05-18,NV Ojha,22,26,1.0,2.0,0,0,0,31.0,84.61538461538461,Shakib Al Hasan,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,734015,2014-05-18,S Dhawan,19,15,4.0,0.0,0,0,0,27.0,126.66666666666666,SP Narine,caught

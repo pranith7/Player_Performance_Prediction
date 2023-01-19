@@ -1,0 +1,10 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Rajasthan Royals,598049,2013-05-07,BJ Rohrer,64,41,9.0,1.0,1,0,0,87.0,156.09756097560975,0,0
+Delhi Daredevils,Rajasthan Royals,598049,2013-05-07,CM Gautam,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,SR Watson,caught
+Delhi Daredevils,Rajasthan Royals,598049,2013-05-07,DA Warner,13,18,2.0,0.0,0,0,0,19.0,72.22222222222221,STR Binny,caught
+Delhi Daredevils,Rajasthan Royals,598049,2013-05-07,DPMD Jayawardene,34,32,4.0,1.0,0,0,0,44.0,106.25,SK Trivedi,caught
+Delhi Daredevils,Rajasthan Royals,598049,2013-05-07,KM Jadhav,23,22,2.0,0.0,0,0,0,29.0,104.54545454545456,0,0
+Delhi Daredevils,Rajasthan Royals,598049,2013-05-07,V Sehwag,11,9,2.0,0.0,0,0,0,17.0,122.22222222222224,JP Faulkner,bowled
+Rajasthan Royals,Delhi Daredevils,598049,2013-05-07,AM Rahane,63,47,5.0,1.0,1,0,0,82.0,134.04255319148936,0,0
+Rajasthan Royals,Delhi Daredevils,598049,2013-05-07,R Dravid,53,51,7.0,0.0,1,0,0,72.0,103.921568627451,S Kaul,caught
+Rajasthan Royals,Delhi Daredevils,598049,2013-05-07,SR Watson,28,14,3.0,1.0,0,0,0,37.0,200.0,0,0

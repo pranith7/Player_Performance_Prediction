@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Punjab Kings,1254099,2021-09-28,HH Pandya,40,30,4.0,2.0,0,0,0,52.0,133.33333333333331,0,0
+Mumbai Indians,Punjab Kings,1254099,2021-09-28,KA Pollard,15,8,1.0,1.0,0,0,0,22.0,187.5,0,0
+Mumbai Indians,Punjab Kings,1254099,2021-09-28,Q de Kock,27,30,2.0,0.0,0,0,0,33.0,90.0,Mohammed Shami,bowled
+Mumbai Indians,Punjab Kings,1254099,2021-09-28,RG Sharma,8,10,1.0,0.0,0,0,0,13.0,80.0,Ravi Bishnoi,caught
+Mumbai Indians,Punjab Kings,1254099,2021-09-28,SA Yadav,0,1,0.0,0.0,0,0,1,2.0,0.0,Ravi Bishnoi,bowled
+Mumbai Indians,Punjab Kings,1254099,2021-09-28,SS Tiwary,45,37,3.0,2.0,0,0,0,56.0,121.62162162162164,NT Ellis,caught
+Punjab Kings,Mumbai Indians,1254099,2021-09-28,AK Markram,42,30,6.0,0.0,0,0,0,52.0,140.0,RD Chahar,bowled
+Punjab Kings,Mumbai Indians,1254099,2021-09-28,CH Gayle,1,4,0.0,0.0,0,0,0,5.0,25.0,KA Pollard,caught
+Punjab Kings,Mumbai Indians,1254099,2021-09-28,DJ Hooda,28,26,1.0,1.0,0,0,0,35.0,107.6923076923077,JJ Bumrah,caught
+Punjab Kings,Mumbai Indians,1254099,2021-09-28,Harpreet Brar,14,19,0.0,0.0,0,0,0,18.0,73.68421052631578,0,0
+Punjab Kings,Mumbai Indians,1254099,2021-09-28,KL Rahul,21,23,2.0,0.0,0,0,0,27.0,91.30434782608695,KA Pollard,caught
+Punjab Kings,Mumbai Indians,1254099,2021-09-28,Mandeep Singh,15,14,2.0,0.0,0,0,0,21.0,107.14285714285714,KH Pandya,lbw
+Punjab Kings,Mumbai Indians,1254099,2021-09-28,N Pooran,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,JJ Bumrah,lbw
+Punjab Kings,Mumbai Indians,1254099,2021-09-28,NT Ellis,6,4,0.0,0.0,0,0,0,10.0,150.0,0,0

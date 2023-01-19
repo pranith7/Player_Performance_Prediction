@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Mumbai Indians,980993,2016-05-15,A Mishra,1,5,0.0,0.0,0,0,0,5.0,20.0,JJ Bumrah,bowled
+Delhi Daredevils,Mumbai Indians,980993,2016-05-15,CH Morris,20,16,2.0,1.0,0,0,0,28.0,125.0,R Vinay Kumar,run out
+Delhi Daredevils,Mumbai Indians,980993,2016-05-15,Imran Tahir,5,7,1.0,0.0,0,0,0,10.0,71.42857142857143,MJ McClenaghan,run out
+Delhi Daredevils,Mumbai Indians,980993,2016-05-15,JP Duminy,9,9,1.0,0.0,0,0,0,14.0,100.0,JJ Bumrah,caught
+Delhi Daredevils,Mumbai Indians,980993,2016-05-15,KK Nair,8,8,1.0,0.0,0,0,0,13.0,100.0,Harbhajan Singh,caught
+Delhi Daredevils,Mumbai Indians,980993,2016-05-15,MA Agarwal,8,5,0.0,1.0,0,0,0,14.0,160.0,R Vinay Kumar,bowled
+Delhi Daredevils,Mumbai Indians,980993,2016-05-15,Q de Kock,40,29,4.0,2.0,0,0,0,52.0,137.93103448275863,KH Pandya,caught
+Delhi Daredevils,Mumbai Indians,980993,2016-05-15,RR Pant,23,17,2.0,1.0,0,0,0,31.0,135.29411764705884,JJ Bumrah,bowled
+Delhi Daredevils,Mumbai Indians,980993,2016-05-15,S Nadeem,1,5,0.0,0.0,0,0,0,5.0,20.0,0,0
+Delhi Daredevils,Mumbai Indians,980993,2016-05-15,SV Samson,6,11,0.0,0.0,0,0,0,10.0,54.54545454545454,KH Pandya,run out
+Delhi Daredevils,Mumbai Indians,980993,2016-05-15,Z Khan,2,4,0.0,0.0,0,0,0,6.0,50.0,KH Pandya,bowled
+Mumbai Indians,Delhi Daredevils,980993,2016-05-15,AT Rayudu,13,5,1.0,1.0,0,0,0,20.0,260.0,0,0
+Mumbai Indians,Delhi Daredevils,980993,2016-05-15,JC Buttler,18,9,2.0,1.0,0,0,0,26.0,200.0,0,0
+Mumbai Indians,Delhi Daredevils,980993,2016-05-15,KA Pollard,3,6,0.0,0.0,0,0,0,7.0,50.0,CH Morris,caught
+Mumbai Indians,Delhi Daredevils,980993,2016-05-15,KH Pandya,86,38,7.0,6.0,1,0,0,117.0,226.3157894736842,CH Morris,bowled
+Mumbai Indians,Delhi Daredevils,980993,2016-05-15,MJ Guptill,48,42,2.0,3.0,0,0,0,60.0,114.28571428571428,Z Khan,caught
+Mumbai Indians,Delhi Daredevils,980993,2016-05-15,RG Sharma,31,21,1.0,3.0,0,0,0,42.0,147.61904761904762,A Mishra,caught

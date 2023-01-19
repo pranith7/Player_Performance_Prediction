@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Gujarat Lions,Kings XI Punjab,980905,2016-04-11,AJ Finch,74,48,12.0,0.0,1,0,0,98.0,154.16666666666669,P Sahu,stumped
+Gujarat Lions,Kings XI Punjab,980905,2016-04-11,BB McCullum,0,2,0.0,0.0,0,0,1,2.0,0.0,Sandeep Sharma,stumped
+Gujarat Lions,Kings XI Punjab,980905,2016-04-11,DJ Bravo,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Gujarat Lions,Kings XI Punjab,980905,2016-04-11,Ishan Kishan,11,8,2.0,0.0,0,0,0,17.0,137.5,MG Johnson,caught
+Gujarat Lions,Kings XI Punjab,980905,2016-04-11,KD Karthik,41,26,7.0,0.0,0,0,0,52.0,157.69230769230768,0,0
+Gujarat Lions,Kings XI Punjab,980905,2016-04-11,RA Jadeja,8,12,0.0,0.0,0,0,0,12.0,66.66666666666666,MG Johnson,run out
+Gujarat Lions,Kings XI Punjab,980905,2016-04-11,SK Raina,20,11,1.0,2.0,0,0,0,29.0,181.8181818181818,MP Stoinis,caught
+Kings XI Punjab,Gujarat Lions,980905,2016-04-11,AR Patel,4,2,0.0,0.0,0,0,0,8.0,200.0,0,0
+Kings XI Punjab,Gujarat Lions,980905,2016-04-11,DA Miller,15,11,1.0,1.0,0,0,0,22.0,136.36363636363637,DJ Bravo,bowled
+Kings XI Punjab,Gujarat Lions,980905,2016-04-11,GJ Maxwell,2,4,0.0,0.0,0,0,0,6.0,50.0,DJ Bravo,bowled
+Kings XI Punjab,Gujarat Lions,980905,2016-04-11,M Vijay,42,34,5.0,1.0,0,0,0,53.0,123.52941176470588,RA Jadeja,bowled
+Kings XI Punjab,Gujarat Lions,980905,2016-04-11,M Vohra,38,24,4.0,2.0,0,0,0,50.0,158.33333333333331,RA Jadeja,caught
+Kings XI Punjab,Gujarat Lions,980905,2016-04-11,MP Stoinis,33,23,4.0,0.0,0,0,0,41.0,143.47826086956522,DJ Bravo,caught
+Kings XI Punjab,Gujarat Lions,980905,2016-04-11,WP Saha,20,26,0.0,0.0,0,0,0,24.0,76.92307692307693,DJ Bravo,caught

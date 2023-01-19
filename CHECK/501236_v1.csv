@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Deccan Chargers,501236,2011-05-01,JA Morkel,19,6,0.0,3.0,0,0,0,29.0,316.66666666666663,PP Ojha,run out
+Chennai Super Kings,Deccan Chargers,501236,2011-05-01,M Vijay,3,15,0.0,0.0,0,0,0,7.0,20.0,PP Ojha,bowled
+Chennai Super Kings,Deccan Chargers,501236,2011-05-01,MEK Hussey,46,41,5.0,0.0,0,0,0,55.0,112.19512195121952,Harmeet Singh,caught
+Chennai Super Kings,Deccan Chargers,501236,2011-05-01,MS Dhoni,21,22,1.0,1.0,0,0,0,28.0,95.45454545454544,PP Ojha,stumped
+Chennai Super Kings,Deccan Chargers,501236,2011-05-01,S Anirudha,3,2,0.0,0.0,0,0,0,7.0,150.0,0,0
+Chennai Super Kings,Deccan Chargers,501236,2011-05-01,S Badrinath,5,2,1.0,0.0,0,0,0,10.0,250.0,0,0
+Chennai Super Kings,Deccan Chargers,501236,2011-05-01,SK Raina,59,36,6.0,2.0,1,0,0,81.0,163.88888888888889,PP Ojha,caught
+Deccan Chargers,Chennai Super Kings,501236,2011-05-01,A Mishra,2,5,0.0,0.0,0,0,0,6.0,40.0,DE Bollinger,caught and bowled
+Deccan Chargers,Chennai Super Kings,501236,2011-05-01,B Chipli,17,15,0.0,0.0,0,0,0,21.0,113.33333333333331,JA Morkel,caught
+Deccan Chargers,Chennai Super Kings,501236,2011-05-01,CL White,13,18,1.0,0.0,0,0,0,18.0,72.22222222222221,JA Morkel,caught
+Deccan Chargers,Chennai Super Kings,501236,2011-05-01,DT Christian,1,1,0.0,0.0,0,0,0,5.0,100.0,DE Bollinger,run out
+Deccan Chargers,Chennai Super Kings,501236,2011-05-01,I Sharma,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Deccan Chargers,Chennai Super Kings,501236,2011-05-01,JP Duminy,17,11,2.0,0.0,0,0,0,23.0,154.54545454545453,JA Morkel,caught
+Deccan Chargers,Chennai Super Kings,501236,2011-05-01,KC Sangakkara,15,12,1.0,1.0,0,0,0,22.0,125.0,DE Bollinger,bowled
+Deccan Chargers,Chennai Super Kings,501236,2011-05-01,S Dhawan,19,27,0.0,0.0,0,0,0,23.0,70.37037037037037,SB Jakati,bowled
+Deccan Chargers,Chennai Super Kings,501236,2011-05-01,S Sohal,56,33,6.0,4.0,1,0,0,82.0,169.6969696969697,SB Jakati,bowled

@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Punjab Kings,Royal Challengers Bangalore,1254090,2021-10-03,AK Markram,20,14,2.0,1.0,0,0,0,28.0,142.85714285714286,GHS Garton,caught
+Punjab Kings,Royal Challengers Bangalore,1254090,2021-10-03,Harpreet Brar,3,2,0.0,0.0,0,0,0,7.0,150.0,0,0
+Punjab Kings,Royal Challengers Bangalore,1254090,2021-10-03,KL Rahul,39,35,1.0,2.0,0,0,0,48.0,111.42857142857144,Shahbaz Ahmed,caught
+Punjab Kings,Royal Challengers Bangalore,1254090,2021-10-03,M Shahrukh Khan,16,12,1.0,1.0,0,0,0,23.0,133.33333333333331,HV Patel,run out
+Punjab Kings,Royal Challengers Bangalore,1254090,2021-10-03,MA Agarwal,57,46,6.0,2.0,1,0,0,79.0,123.91304347826086,YS Chahal,caught
+Punjab Kings,Royal Challengers Bangalore,1254090,2021-10-03,MC Henriques,12,9,0.0,1.0,0,0,0,18.0,133.33333333333331,0,0
+Punjab Kings,Royal Challengers Bangalore,1254090,2021-10-03,N Pooran,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,YS Chahal,caught
+Punjab Kings,Royal Challengers Bangalore,1254090,2021-10-03,SN Khan,0,1,0.0,0.0,0,0,1,2.0,0.0,YS Chahal,bowled
+Royal Challengers Bangalore,Punjab Kings,1254090,2021-10-03,AB de Villiers,23,18,1.0,2.0,0,0,0,32.0,127.77777777777776,Arshdeep Singh,run out
+Royal Challengers Bangalore,Punjab Kings,1254090,2021-10-03,D Padikkal,40,40,4.0,2.0,0,0,0,52.0,100.0,MC Henriques,caught
+Royal Challengers Bangalore,Punjab Kings,1254090,2021-10-03,DT Christian,0,1,0.0,0.0,0,0,1,2.0,0.0,MC Henriques,caught
+Royal Challengers Bangalore,Punjab Kings,1254090,2021-10-03,GHS Garton,0,1,0.0,0.0,0,0,1,2.0,0.0,Mohammed Shami,bowled
+Royal Challengers Bangalore,Punjab Kings,1254090,2021-10-03,GJ Maxwell,57,35,3.0,4.0,1,0,0,80.0,162.85714285714286,Mohammed Shami,caught
+Royal Challengers Bangalore,Punjab Kings,1254090,2021-10-03,HV Patel,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Royal Challengers Bangalore,Punjab Kings,1254090,2021-10-03,Shahbaz Ahmed,8,4,0.0,1.0,0,0,0,14.0,200.0,Mohammed Shami,bowled
+Royal Challengers Bangalore,Punjab Kings,1254090,2021-10-03,V Kohli,25,25,2.0,1.0,0,0,0,33.0,100.0,MC Henriques,bowled

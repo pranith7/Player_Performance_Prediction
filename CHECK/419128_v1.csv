@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Royal Challengers Bangalore,419128,2010-03-25,AB McDonald,18,14,1.0,1.0,0,0,0,25.0,128.57142857142858,0,0
+Delhi Daredevils,Royal Challengers Bangalore,419128,2010-03-25,AB de Villiers,45,35,3.0,0.0,0,0,0,52.0,128.57142857142858,P Kumar,run out
+Delhi Daredevils,Royal Challengers Bangalore,419128,2010-03-25,DA Warner,33,15,3.0,2.0,0,0,0,44.0,220.00000000000003,DW Steyn,caught
+Delhi Daredevils,Royal Challengers Bangalore,419128,2010-03-25,KD Karthik,17,20,1.0,0.0,0,0,0,22.0,85.0,DW Steyn,run out
+Delhi Daredevils,Royal Challengers Bangalore,419128,2010-03-25,KM Jadhav,50,32,5.0,2.0,1,0,0,71.0,156.25,0,0
+Delhi Daredevils,Royal Challengers Bangalore,419128,2010-03-25,V Sehwag,12,11,2.0,0.0,0,0,0,18.0,109.09090909090908,R Vinay Kumar,caught
+Royal Challengers Bangalore,Delhi Daredevils,419128,2010-03-25,A Kumble,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Royal Challengers Bangalore,Delhi Daredevils,419128,2010-03-25,DW Steyn,8,9,1.0,0.0,0,0,0,13.0,88.88888888888889,AB McDonald,bowled
+Royal Challengers Bangalore,Delhi Daredevils,419128,2010-03-25,EJG Morgan,17,14,2.0,0.0,0,0,0,23.0,121.42857142857142,AB McDonald,run out
+Royal Challengers Bangalore,Delhi Daredevils,419128,2010-03-25,JH Kallis,27,31,3.0,0.0,0,0,0,34.0,87.09677419354838,A Mishra,bowled
+Royal Challengers Bangalore,Delhi Daredevils,419128,2010-03-25,MK Pandey,39,29,4.0,1.0,0,0,0,49.0,134.48275862068965,AB McDonald,bowled
+Royal Challengers Bangalore,Delhi Daredevils,419128,2010-03-25,MV Boucher,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,PJ Sangwan,caught
+Royal Challengers Bangalore,Delhi Daredevils,419128,2010-03-25,P Kumar,0,1,0.0,0.0,0,0,1,2.0,0.0,UT Yadav,caught
+Royal Challengers Bangalore,Delhi Daredevils,419128,2010-03-25,R Dravid,1,1,0.0,0.0,0,0,0,5.0,100.0,AB McDonald,run out
+Royal Challengers Bangalore,Delhi Daredevils,419128,2010-03-25,R Vinay Kumar,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,DP Nannes,run out
+Royal Challengers Bangalore,Delhi Daredevils,419128,2010-03-25,RV Uthappa,15,10,1.0,1.0,0,0,0,22.0,150.0,A Mishra,caught
+Royal Challengers Bangalore,Delhi Daredevils,419128,2010-03-25,V Kohli,38,23,4.0,1.0,0,0,0,48.0,165.2173913043478,0,0

@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Kolkata Knight Riders,548381,2012-05-27,M Vijay,42,32,4.0,1.0,0,0,0,52.0,131.25,R Bhatia,caught
+Chennai Super Kings,Kolkata Knight Riders,548381,2012-05-27,MEK Hussey,54,44,4.0,2.0,1,0,0,74.0,122.72727272727272,JH Kallis,bowled
+Chennai Super Kings,Kolkata Knight Riders,548381,2012-05-27,MS Dhoni,14,10,2.0,0.0,0,0,0,20.0,140.0,0,0
+Chennai Super Kings,Kolkata Knight Riders,548381,2012-05-27,SK Raina,73,38,3.0,5.0,1,0,0,98.0,192.1052631578948,Shakib Al Hasan,caught
+Kolkata Knight Riders,Chennai Super Kings,548381,2012-05-27,G Gambhir,2,4,0.0,0.0,0,0,0,6.0,50.0,BW Hilfenhaus,bowled
+Kolkata Knight Riders,Chennai Super Kings,548381,2012-05-27,JH Kallis,69,50,7.0,1.0,1,0,0,90.0,138.0,BW Hilfenhaus,caught
+Kolkata Knight Riders,Chennai Super Kings,548381,2012-05-27,LR Shukla,3,6,0.0,0.0,0,0,0,7.0,50.0,DJ Bravo,caught
+Kolkata Knight Riders,Chennai Super Kings,548381,2012-05-27,MK Tiwary,9,3,2.0,0.0,0,0,0,15.0,300.0,0,0
+Kolkata Knight Riders,Chennai Super Kings,548381,2012-05-27,MS Bisla,89,52,8.0,5.0,1,0,0,119.0,171.15384615384613,JA Morkel,caught
+Kolkata Knight Riders,Chennai Super Kings,548381,2012-05-27,Shakib Al Hasan,11,7,1.0,0.0,0,0,0,16.0,157.14285714285714,0,0
+Kolkata Knight Riders,Chennai Super Kings,548381,2012-05-27,YK Pathan,1,2,0.0,0.0,0,0,0,5.0,50.0,R Ashwin,caught

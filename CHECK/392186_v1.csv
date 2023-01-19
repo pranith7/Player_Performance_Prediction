@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Kolkata Knight Riders,392186,2009-04-21,DPMD Jayawardene,31,21,3.0,1.0,0,0,0,40.0,147.61904761904762,0,0
+Kings XI Punjab,Kolkata Knight Riders,392186,2009-04-21,IK Pathan,32,17,5.0,1.0,0,0,0,43.0,188.23529411764704,SC Ganguly,caught
+Kings XI Punjab,Kolkata Knight Riders,392186,2009-04-21,K Goel,0,7,0.0,0.0,0,0,1,2.0,0.0,I Sharma,caught
+Kings XI Punjab,Kolkata Knight Riders,392186,2009-04-21,KC Sangakkara,26,24,2.0,0.0,0,0,0,32.0,108.33333333333331,LR Shukla,run out
+Kings XI Punjab,Kolkata Knight Riders,392186,2009-04-21,PP Chawla,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,0,0
+Kings XI Punjab,Kolkata Knight Riders,392186,2009-04-21,RS Bopara,15,15,2.0,0.0,0,0,0,21.0,100.0,SC Ganguly,caught
+Kings XI Punjab,Kolkata Knight Riders,392186,2009-04-21,T Kohli,1,4,0.0,0.0,0,0,0,5.0,25.0,AB Dinda,caught
+Kings XI Punjab,Kolkata Knight Riders,392186,2009-04-21,Yuvraj Singh,38,32,3.0,2.0,0,0,0,49.0,118.75,MC Henriques,caught
+Kolkata Knight Riders,Kings XI Punjab,392186,2009-04-21,BB McCullum,21,17,1.0,2.0,0,0,0,30.0,123.52941176470588,VS Malik,caught
+Kolkata Knight Riders,Kings XI Punjab,392186,2009-04-21,BJ Hodge,10,14,0.0,0.0,0,0,0,14.0,71.42857142857143,0,0
+Kolkata Knight Riders,Kings XI Punjab,392186,2009-04-21,CH Gayle,44,29,2.0,4.0,0,0,0,58.0,151.72413793103448,0,0

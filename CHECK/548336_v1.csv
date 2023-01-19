@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Rajasthan Royals,Royal Challengers Bangalore,548336,2012-04-23,AM Rahane,13,19,1.0,0.0,0,0,0,18.0,68.42105263157895,KP Appanna,caught
+Rajasthan Royals,Royal Challengers Bangalore,548336,2012-04-23,BJ Hodge,10,8,1.0,0.0,0,0,0,15.0,125.0,HV Patel,caught
+Rajasthan Royals,Royal Challengers Bangalore,548336,2012-04-23,GB Hogg,13,11,1.0,0.0,0,0,0,18.0,118.1818181818182,HV Patel,caught
+Rajasthan Royals,Royal Challengers Bangalore,548336,2012-04-23,KK Cooper,8,6,2.0,0.0,0,0,0,14.0,133.33333333333331,Z Khan,caught
+Rajasthan Royals,Royal Challengers Bangalore,548336,2012-04-23,OA Shah,10,15,0.0,1.0,0,0,0,16.0,66.66666666666666,KP Appanna,stumped
+Rajasthan Royals,Royal Challengers Bangalore,548336,2012-04-23,R Dravid,58,44,8.0,0.0,1,0,0,78.0,131.8181818181818,KP Appanna,caught
+Rajasthan Royals,Royal Challengers Bangalore,548336,2012-04-23,SP Goswami,1,2,0.0,0.0,0,0,0,5.0,50.0,KP Appanna,caught
+Rajasthan Royals,Royal Challengers Bangalore,548336,2012-04-23,STR Binny,20,19,2.0,0.0,0,0,0,26.0,105.26315789473684,0,0
+Royal Challengers Bangalore,Rajasthan Royals,548336,2012-04-23,AB de Villiers,59,24,3.0,5.0,1,0,0,84.0,245.8333333333333,0,0
+Royal Challengers Bangalore,Rajasthan Royals,548336,2012-04-23,CH Gayle,4,8,0.0,0.0,0,0,0,8.0,50.0,GB Hogg,lbw
+Royal Challengers Bangalore,Rajasthan Royals,548336,2012-04-23,MA Agarwal,15,17,2.0,0.0,0,0,0,21.0,88.23529411764706,GB Hogg,caught
+Royal Challengers Bangalore,Rajasthan Royals,548336,2012-04-23,TM Dilshan,76,60,10.0,1.0,1,0,0,100.0,126.66666666666666,0,0
+Royal Challengers Bangalore,Rajasthan Royals,548336,2012-04-23,V Kohli,16,16,2.0,0.0,0,0,0,22.0,100.0,Pankaj Singh,caught

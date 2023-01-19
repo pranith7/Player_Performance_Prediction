@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Rajasthan Royals,336033,2008-05-24,A Mukund,0,1,0.0,0.0,0,0,1,2.0,0.0,Sohail Tanvir,bowled
+Chennai Super Kings,Rajasthan Royals,336033,2008-05-24,JA Morkel,71,41,6.0,4.0,1,0,0,97.0,173.17073170731706,Sohail Tanvir,caught
+Chennai Super Kings,Rajasthan Royals,336033,2008-05-24,MS Dhoni,12,8,2.0,0.0,0,0,0,18.0,150.0,Sohail Tanvir,caught
+Chennai Super Kings,Rajasthan Royals,336033,2008-05-24,MS Gony,2,4,0.0,0.0,0,0,0,6.0,50.0,0,0
+Chennai Super Kings,Rajasthan Royals,336033,2008-05-24,PA Patel,54,41,5.0,2.0,1,0,0,75.0,131.70731707317074,SK Warne,stumped
+Chennai Super Kings,Rajasthan Royals,336033,2008-05-24,S Badrinath,1,2,0.0,0.0,0,0,0,5.0,50.0,MM Patel,caught
+Chennai Super Kings,Rajasthan Royals,336033,2008-05-24,SK Raina,45,25,6.0,2.0,0,0,0,59.0,180.0,SK Warne,caught
+Chennai Super Kings,Rajasthan Royals,336033,2008-05-24,SP Fleming,7,4,0.0,1.0,0,0,0,13.0,175.0,YK Pathan,run out
+Rajasthan Royals,Chennai Super Kings,336033,2008-05-24,GC Smith,91,52,9.0,4.0,1,0,0,120.0,175.0,SK Raina,caught
+Rajasthan Royals,Chennai Super Kings,336033,2008-05-24,Kamran Akmal,53,28,4.0,3.0,1,0,0,75.0,189.28571428571428,0,0
+Rajasthan Royals,Chennai Super Kings,336033,2008-05-24,M Kaif,10,7,1.0,0.0,0,0,0,15.0,142.85714285714286,JA Morkel,caught
+Rajasthan Royals,Chennai Super Kings,336033,2008-05-24,SA Asnodkar,41,27,5.0,2.0,0,0,0,54.0,151.85185185185185,SK Raina,run out
+Rajasthan Royals,Chennai Super Kings,336033,2008-05-24,T Kohli,3,3,0.0,0.0,0,0,0,7.0,100.0,M Ntini,run out
+Rajasthan Royals,Chennai Super Kings,336033,2008-05-24,YK Pathan,6,5,1.0,0.0,0,0,0,11.0,120.0,JA Morkel,caught

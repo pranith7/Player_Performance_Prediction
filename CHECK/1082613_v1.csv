@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Gujarat Lions,Kolkata Knight Riders,1082613,2017-04-21,AJ Finch,31,15,4.0,2.0,0,0,0,43.0,206.66666666666669,NM Coulter-Nile,caught
+Gujarat Lions,Kolkata Knight Riders,1082613,2017-04-21,BB McCullum,33,17,5.0,1.0,0,0,0,44.0,194.1176470588236,CR Woakes,caught
+Gujarat Lions,Kolkata Knight Riders,1082613,2017-04-21,DR Smith,5,4,1.0,0.0,0,0,0,10.0,125.0,UT Yadav,bowled
+Gujarat Lions,Kolkata Knight Riders,1082613,2017-04-21,Ishan Kishan,4,11,0.0,0.0,0,0,0,8.0,36.36363636363637,Kuldeep Yadav,caught
+Gujarat Lions,Kolkata Knight Riders,1082613,2017-04-21,JP Faulkner,4,2,0.0,0.0,0,0,0,8.0,200.0,0,0
+Gujarat Lions,Kolkata Knight Riders,1082613,2017-04-21,KD Karthik,3,3,0.0,0.0,0,0,0,7.0,100.0,NM Coulter-Nile,caught
+Gujarat Lions,Kolkata Knight Riders,1082613,2017-04-21,RA Jadeja,19,13,1.0,1.0,0,0,0,26.0,146.15384615384613,0,0
+Gujarat Lions,Kolkata Knight Riders,1082613,2017-04-21,SK Raina,84,46,9.0,4.0,1,0,0,113.0,182.6086956521739,Kuldeep Yadav,caught
+Kolkata Knight Riders,Gujarat Lions,1082613,2017-04-21,G Gambhir,33,29,2.0,1.0,0,0,0,41.0,113.79310344827589,JP Faulkner,caught
+Kolkata Knight Riders,Gujarat Lions,1082613,2017-04-21,MK Pandey,24,21,2.0,0.0,0,0,0,30.0,114.28571428571428,Basil Thampi,bowled
+Kolkata Knight Riders,Gujarat Lions,1082613,2017-04-21,RV Uthappa,72,48,8.0,2.0,1,0,0,96.0,150.0,P Kumar,caught
+Kolkata Knight Riders,Gujarat Lions,1082613,2017-04-21,SA Yadav,1,1,0.0,0.0,0,0,0,5.0,100.0,Basil Thampi,run out
+Kolkata Knight Riders,Gujarat Lions,1082613,2017-04-21,SP Narine,42,17,9.0,1.0,0,0,0,57.0,247.05882352941177,SK Raina,caught
+Kolkata Knight Riders,Gujarat Lions,1082613,2017-04-21,Shakib Al Hasan,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Kolkata Knight Riders,Gujarat Lions,1082613,2017-04-21,YK Pathan,11,4,2.0,0.0,0,0,0,17.0,275.0,0,0

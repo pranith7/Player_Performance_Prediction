@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Rajasthan Royals,829709,2015-04-10,AR Patel,24,29,2.0,0.0,0,0,0,30.0,82.75862068965517,TG Southee,bowled
+Kings XI Punjab,Rajasthan Royals,829709,2015-04-10,Anureet Singh,0,3,0.0,0.0,0,0,1,2.0,0.0,0,0
+Kings XI Punjab,Rajasthan Royals,829709,2015-04-10,DA Miller,23,22,3.0,1.0,0,0,0,32.0,104.54545454545456,DS Kulkarni,caught
+Kings XI Punjab,Rajasthan Royals,829709,2015-04-10,GJ Bailey,24,20,2.0,1.0,0,0,0,32.0,120.0,JP Faulkner,caught
+Kings XI Punjab,Rajasthan Royals,829709,2015-04-10,GJ Maxwell,7,5,1.0,0.0,0,0,0,12.0,140.0,JP Faulkner,caught
+Kings XI Punjab,Rajasthan Royals,829709,2015-04-10,Karanveer Singh,5,4,1.0,0.0,0,0,0,10.0,125.0,0,0
+Kings XI Punjab,Rajasthan Royals,829709,2015-04-10,M Vijay,37,35,4.0,1.0,0,0,0,47.0,105.71428571428572,STR Binny,run out
+Kings XI Punjab,Rajasthan Royals,829709,2015-04-10,MG Johnson,0,4,0.0,0.0,0,0,1,2.0,0.0,JP Faulkner,caught
+Kings XI Punjab,Rajasthan Royals,829709,2015-04-10,V Sehwag,0,1,0.0,0.0,0,0,1,2.0,0.0,TG Southee,caught
+Kings XI Punjab,Rajasthan Royals,829709,2015-04-10,WP Saha,7,4,1.0,0.0,0,0,0,12.0,175.0,TG Southee,run out
+Rajasthan Royals,Kings XI Punjab,829709,2015-04-10,AM Rahane,0,8,0.0,0.0,0,0,1,2.0,0.0,Anureet Singh,caught
+Rajasthan Royals,Kings XI Punjab,829709,2015-04-10,CH Morris,6,8,0.0,0.0,0,0,0,10.0,75.0,0,0
+Rajasthan Royals,Kings XI Punjab,829709,2015-04-10,DJ Hooda,30,15,1.0,3.0,0,0,0,41.0,200.0,Anureet Singh,bowled
+Rajasthan Royals,Kings XI Punjab,829709,2015-04-10,JP Faulkner,46,37,2.0,3.0,0,0,0,58.0,124.32432432432432,Anureet Singh,caught
+Rajasthan Royals,Kings XI Punjab,829709,2015-04-10,KK Nair,8,11,0.0,1.0,0,0,0,14.0,72.72727272727273,AR Patel,bowled
+Rajasthan Royals,Kings XI Punjab,829709,2015-04-10,SPD Smith,33,24,5.0,0.0,0,0,0,42.0,137.5,MG Johnson,caught
+Rajasthan Royals,Kings XI Punjab,829709,2015-04-10,STR Binny,13,19,2.0,0.0,0,0,0,19.0,68.42105263157895,MG Johnson,caught
+Rajasthan Royals,Kings XI Punjab,829709,2015-04-10,SV Samson,5,6,0.0,0.0,0,0,0,9.0,83.33333333333334,Sandeep Sharma,lbw

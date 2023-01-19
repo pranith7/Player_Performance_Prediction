@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Rajasthan Royals,1254093,2021-10-05,HH Pandya,5,6,0.0,0.0,0,0,0,9.0,83.33333333333334,0,0
+Mumbai Indians,Rajasthan Royals,1254093,2021-10-05,Ishan Kishan,50,25,5.0,3.0,1,0,0,73.0,200.0,0,0
+Mumbai Indians,Rajasthan Royals,1254093,2021-10-05,RG Sharma,22,13,1.0,2.0,0,0,0,31.0,169.23076923076923,C Sakariya,caught
+Mumbai Indians,Rajasthan Royals,1254093,2021-10-05,SA Yadav,13,9,3.0,0.0,0,0,0,20.0,144.44444444444443,Mustafizur Rahman,caught
+Rajasthan Royals,Mumbai Indians,1254093,2021-10-05,C Sakariya,6,11,1.0,0.0,0,0,0,11.0,54.54545454545454,NM Coulter-Nile,bowled
+Rajasthan Royals,Mumbai Indians,1254093,2021-10-05,DA Miller,15,23,0.0,0.0,0,0,0,19.0,65.21739130434783,NM Coulter-Nile,lbw
+Rajasthan Royals,Mumbai Indians,1254093,2021-10-05,E Lewis,24,20,3.0,1.0,0,0,0,33.0,120.0,JJ Bumrah,lbw
+Rajasthan Royals,Mumbai Indians,1254093,2021-10-05,GD Phillips,4,13,0.0,0.0,0,0,0,8.0,30.76923076923077,NM Coulter-Nile,bowled
+Rajasthan Royals,Mumbai Indians,1254093,2021-10-05,K Yadav,0,4,0.0,0.0,0,0,1,2.0,0.0,0,0
+Rajasthan Royals,Mumbai Indians,1254093,2021-10-05,Mustafizur Rahman,8,7,0.0,1.0,0,0,0,14.0,114.28571428571428,0,0
+Rajasthan Royals,Mumbai Indians,1254093,2021-10-05,R Tewatia,12,20,0.0,0.0,0,0,0,16.0,60.0,JDS Neesham,caught
+Rajasthan Royals,Mumbai Indians,1254093,2021-10-05,S Dube,3,8,0.0,0.0,0,0,0,7.0,37.5,JDS Neesham,bowled
+Rajasthan Royals,Mumbai Indians,1254093,2021-10-05,S Gopal,0,1,0.0,0.0,0,0,1,2.0,0.0,JJ Bumrah,caught
+Rajasthan Royals,Mumbai Indians,1254093,2021-10-05,SV Samson,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,JDS Neesham,caught
+Rajasthan Royals,Mumbai Indians,1254093,2021-10-05,YBK Jaiswal,12,9,3.0,0.0,0,0,0,19.0,133.33333333333331,NM Coulter-Nile,caught

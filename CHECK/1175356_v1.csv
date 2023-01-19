@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Royal Challengers Bangalore,1175356,2019-03-23,AT Rayudu,28,42,2.0,1.0,0,0,0,36.0,66.66666666666666,Mohammed Siraj,bowled
+Chennai Super Kings,Royal Challengers Bangalore,1175356,2019-03-23,KM Jadhav,13,20,1.0,0.0,0,0,0,18.0,65.0,0,0
+Chennai Super Kings,Royal Challengers Bangalore,1175356,2019-03-23,RA Jadeja,6,17,0.0,0.0,0,0,0,10.0,35.294117647058826,0,0
+Chennai Super Kings,Royal Challengers Bangalore,1175356,2019-03-23,SK Raina,19,21,3.0,0.0,0,0,0,26.0,90.47619047619048,MM Ali,caught
+Chennai Super Kings,Royal Challengers Bangalore,1175356,2019-03-23,SR Watson,0,10,0.0,0.0,0,0,1,2.0,0.0,YS Chahal,bowled
+Royal Challengers Bangalore,Chennai Super Kings,1175356,2019-03-23,AB de Villiers,9,10,0.0,0.0,0,0,0,13.0,90.0,Harbhajan Singh,caught
+Royal Challengers Bangalore,Chennai Super Kings,1175356,2019-03-23,C de Grandhomme,4,6,1.0,0.0,0,0,0,9.0,66.66666666666666,RA Jadeja,caught
+Royal Challengers Bangalore,Chennai Super Kings,1175356,2019-03-23,MM Ali,9,8,0.0,1.0,0,0,0,15.0,112.5,Harbhajan Singh,caught and bowled
+Royal Challengers Bangalore,Chennai Super Kings,1175356,2019-03-23,Mohammed Siraj,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Royal Challengers Bangalore,Chennai Super Kings,1175356,2019-03-23,NA Saini,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,Imran Tahir,caught
+Royal Challengers Bangalore,Chennai Super Kings,1175356,2019-03-23,PA Patel,29,35,2.0,0.0,0,0,0,35.0,82.85714285714286,DJ Bravo,caught
+Royal Challengers Bangalore,Chennai Super Kings,1175356,2019-03-23,S Dube,2,5,0.0,0.0,0,0,0,6.0,40.0,Imran Tahir,caught
+Royal Challengers Bangalore,Chennai Super Kings,1175356,2019-03-23,SO Hetmyer,0,2,0.0,0.0,0,0,1,2.0,0.0,Harbhajan Singh,run out
+Royal Challengers Bangalore,Chennai Super Kings,1175356,2019-03-23,UT Yadav,1,10,0.0,0.0,0,0,0,5.0,10.0,RA Jadeja,bowled
+Royal Challengers Bangalore,Chennai Super Kings,1175356,2019-03-23,V Kohli,6,12,0.0,0.0,0,0,0,10.0,50.0,Harbhajan Singh,caught
+Royal Challengers Bangalore,Chennai Super Kings,1175356,2019-03-23,YS Chahal,4,12,0.0,0.0,0,0,0,8.0,33.33333333333333,Imran Tahir,caught

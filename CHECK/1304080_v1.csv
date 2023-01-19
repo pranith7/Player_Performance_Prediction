@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Capitals,Rajasthan Royals,1304080,2022-04-22,AR Patel,1,4,0.0,0.0,0,0,0,5.0,25.0,YS Chahal,bowled
+Delhi Capitals,Rajasthan Royals,1304080,2022-04-22,DA Warner,28,14,5.0,1.0,0,0,0,39.0,200.0,M Prasidh Krishna,caught
+Delhi Capitals,Rajasthan Royals,1304080,2022-04-22,Kuldeep Yadav,0,3,0.0,0.0,0,0,1,2.0,0.0,0,0
+Delhi Capitals,Rajasthan Royals,1304080,2022-04-22,Lalit Yadav,37,25,3.0,2.0,0,0,0,48.0,148.0,M Prasidh Krishna,caught
+Delhi Capitals,Rajasthan Royals,1304080,2022-04-22,PP Shaw,37,30,5.0,1.0,0,0,0,48.0,123.33333333333334,R Ashwin,caught
+Delhi Capitals,Rajasthan Royals,1304080,2022-04-22,R Powell,36,16,0.0,5.0,0,0,0,50.0,225.0,OC McCoy,caught
+Delhi Capitals,Rajasthan Royals,1304080,2022-04-22,RR Pant,44,26,4.0,2.0,0,0,0,56.0,169.23076923076923,M Prasidh Krishna,caught
+Delhi Capitals,Rajasthan Royals,1304080,2022-04-22,SN Khan,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,R Ashwin,caught
+Delhi Capitals,Rajasthan Royals,1304080,2022-04-22,SN Thakur,10,7,0.0,1.0,0,0,0,16.0,142.85714285714286,TA Boult,run out
+Rajasthan Royals,Delhi Capitals,1304080,2022-04-22,D Padikkal,54,35,7.0,2.0,1,0,0,77.0,154.2857142857143,KK Ahmed,lbw
+Rajasthan Royals,Delhi Capitals,1304080,2022-04-22,JC Buttler,116,66,9.0,9.0,1,1,0,171.0,175.75757575757575,Mustafizur Rahman,caught
+Rajasthan Royals,Delhi Capitals,1304080,2022-04-22,SO Hetmyer,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Rajasthan Royals,Delhi Capitals,1304080,2022-04-22,SV Samson,46,22,5.0,3.0,0,0,0,61.0,209.0909090909091,0,0

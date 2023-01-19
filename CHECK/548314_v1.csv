@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Mumbai Indians,548314,2012-04-09,A Mishra,0,2,0.0,0.0,0,0,1,2.0,0.0,SL Malinga,caught
+Deccan Chargers,Mumbai Indians,548314,2012-04-09,Ankit Sharma,1,2,0.0,0.0,0,0,0,5.0,50.0,KA Pollard,caught
+Deccan Chargers,Mumbai Indians,548314,2012-04-09,B Chipli,1,6,0.0,0.0,0,0,0,5.0,16.666666666666664,MM Patel,caught
+Deccan Chargers,Mumbai Indians,548314,2012-04-09,CL White,30,23,1.0,2.0,0,0,0,39.0,130.43478260869566,0,0
+Deccan Chargers,Mumbai Indians,548314,2012-04-09,DB Ravi Teja,4,2,1.0,0.0,0,0,0,9.0,200.0,SL Malinga,bowled
+Deccan Chargers,Mumbai Indians,548314,2012-04-09,DT Christian,39,38,1.0,2.0,0,0,0,48.0,102.63157894736842,MM Patel,caught
+Deccan Chargers,Mumbai Indians,548314,2012-04-09,DW Steyn,2,2,0.0,0.0,0,0,0,6.0,100.0,KA Pollard,bowled
+Deccan Chargers,Mumbai Indians,548314,2012-04-09,KC Sangakkara,14,19,1.0,0.0,0,0,0,19.0,73.68421052631578,MM Patel,bowled
+Deccan Chargers,Mumbai Indians,548314,2012-04-09,PA Patel,1,5,0.0,0.0,0,0,0,5.0,20.0,MM Patel,caught
+Deccan Chargers,Mumbai Indians,548314,2012-04-09,S Dhawan,41,24,2.0,4.0,0,0,0,55.0,170.83333333333331,SL Malinga,caught
+Mumbai Indians,Deccan Chargers,548314,2012-04-09,AT Rayudu,19,24,1.0,0.0,0,0,0,24.0,79.16666666666666,A Mishra,caught
+Mumbai Indians,Deccan Chargers,548314,2012-04-09,JEC Franklin,7,4,1.0,0.0,0,0,0,12.0,175.0,0,0
+Mumbai Indians,Deccan Chargers,548314,2012-04-09,KA Pollard,24,18,0.0,3.0,0,0,0,34.0,133.33333333333331,DT Christian,caught
+Mumbai Indians,Deccan Chargers,548314,2012-04-09,KD Karthik,7,6,1.0,0.0,0,0,0,12.0,116.66666666666669,DW Steyn,bowled
+Mumbai Indians,Deccan Chargers,548314,2012-04-09,RE Levi,3,9,0.0,0.0,0,0,0,7.0,33.33333333333333,DW Steyn,bowled
+Mumbai Indians,Deccan Chargers,548314,2012-04-09,RG Sharma,73,50,4.0,5.0,1,0,0,99.0,146.0,0,0
+Mumbai Indians,Deccan Chargers,548314,2012-04-09,TL Suman,5,9,1.0,0.0,0,0,0,10.0,55.55555555555556,DW Steyn,caught and bowled

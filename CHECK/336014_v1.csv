@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Kolkata Knight Riders,336014,2008-05-11,AC Gilchrist,24,17,5.0,0.0,0,0,0,33.0,141.1764705882353,AB Dinda,caught
+Deccan Chargers,Kolkata Knight Riders,336014,2008-05-11,DB Ravi Teja,10,7,2.0,0.0,0,0,0,16.0,142.85714285714286,Umar Gul,caught
+Deccan Chargers,Kolkata Knight Riders,336014,2008-05-11,HH Gibbs,5,8,1.0,0.0,0,0,0,10.0,62.5,AB Dinda,caught
+Deccan Chargers,Kolkata Knight Riders,336014,2008-05-11,RG Sharma,33,24,3.0,2.0,0,0,0,44.0,137.5,AB Dinda,caught
+Deccan Chargers,Kolkata Knight Riders,336014,2008-05-11,RP Singh,6,4,1.0,0.0,0,0,0,11.0,150.0,0,0
+Deccan Chargers,Kolkata Knight Riders,336014,2008-05-11,SB Bangar,2,4,0.0,0.0,0,0,0,6.0,50.0,SC Ganguly,caught
+Deccan Chargers,Kolkata Knight Riders,336014,2008-05-11,SB Styris,5,11,0.0,0.0,0,0,0,9.0,45.45454545454545,SC Ganguly,caught
+Deccan Chargers,Kolkata Knight Riders,336014,2008-05-11,WPUJC Vaas,9,8,0.0,0.0,0,0,0,13.0,112.5,LR Shukla,bowled
+Deccan Chargers,Kolkata Knight Riders,336014,2008-05-11,Y Venugopal Rao,71,45,4.0,6.0,1,0,0,99.0,157.77777777777777,0,0
+Kolkata Knight Riders,Deccan Chargers,336014,2008-05-11,A Chopra,24,25,3.0,0.0,0,0,0,31.0,96.0,Y Venugopal Rao,run out
+Kolkata Knight Riders,Deccan Chargers,336014,2008-05-11,DJ Hussey,57,29,4.0,3.0,1,0,0,79.0,196.55172413793105,0,0
+Kolkata Knight Riders,Deccan Chargers,336014,2008-05-11,LR Shukla,14,3,2.0,1.0,0,0,0,22.0,466.6666666666667,0,0
+Kolkata Knight Riders,Deccan Chargers,336014,2008-05-11,SC Ganguly,91,58,11.0,5.0,1,0,0,124.0,156.89655172413794,DP Vijaykumar,caught
+Kolkata Knight Riders,Deccan Chargers,336014,2008-05-11,Salman Butt,4,4,1.0,0.0,0,0,0,9.0,100.0,WPUJC Vaas,caught
+Kolkata Knight Riders,Deccan Chargers,336014,2008-05-11,T Taibu,9,5,1.0,0.0,0,0,0,14.0,180.0,RP Singh,caught

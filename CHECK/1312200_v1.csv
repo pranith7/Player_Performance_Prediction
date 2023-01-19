@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Gujarat Titans,Rajasthan Royals,1312200,29-05-2022,DA Miller,32,20,3.0,1.0,0,0,0,41.0,160.0,0,0
+Gujarat Titans,Rajasthan Royals,1312200,29-05-2022,HH Pandya,34,32,3.0,1.0,0,0,0,43.0,106.25,YS Chahal,caught
+Gujarat Titans,Rajasthan Royals,1312200,29-05-2022,MS Wade,8,11,0.0,1.0,0,0,0,14.0,72.72727272727273,TA Boult,caught
+Gujarat Titans,Rajasthan Royals,1312200,29-05-2022,Shubman Gill,45,43,3.0,1.0,0,0,0,54.0,104.65116279069768,0,0
+Gujarat Titans,Rajasthan Royals,1312200,29-05-2022,WP Saha,5,7,1.0,0.0,0,0,0,10.0,71.42857142857143,M Prasidh Krishna,bowled
+Rajasthan Royals,Gujarat Titans,1312200,29-05-2022,D Padikkal,2,10,0.0,0.0,0,0,0,6.0,20.0,Rashid Khan,caught
+Rajasthan Royals,Gujarat Titans,1312200,29-05-2022,JC Buttler,39,35,5.0,0.0,0,0,0,48.0,111.42857142857144,HH Pandya,caught
+Rajasthan Royals,Gujarat Titans,1312200,29-05-2022,OC McCoy,8,5,0.0,1.0,0,0,0,14.0,160.0,Mohammed Shami,run out
+Rajasthan Royals,Gujarat Titans,1312200,29-05-2022,R Ashwin,6,9,0.0,0.0,0,0,0,10.0,66.66666666666666,R Sai Kishore,caught
+Rajasthan Royals,Gujarat Titans,1312200,29-05-2022,R Parag,15,15,1.0,0.0,0,0,0,20.0,100.0,Mohammed Shami,bowled
+Rajasthan Royals,Gujarat Titans,1312200,29-05-2022,SO Hetmyer,11,12,2.0,0.0,0,0,0,17.0,91.66666666666666,HH Pandya,caught and bowled
+Rajasthan Royals,Gujarat Titans,1312200,29-05-2022,SV Samson,14,11,2.0,0.0,0,0,0,20.0,127.27272727272728,HH Pandya,caught
+Rajasthan Royals,Gujarat Titans,1312200,29-05-2022,TA Boult,11,7,0.0,1.0,0,0,0,17.0,157.14285714285714,R Sai Kishore,caught
+Rajasthan Royals,Gujarat Titans,1312200,29-05-2022,YBK Jaiswal,22,16,1.0,2.0,0,0,0,31.0,137.5,Yash Dayal,caught

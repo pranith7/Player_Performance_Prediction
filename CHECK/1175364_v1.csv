@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Mumbai Indians,1175364,2019-03-30,CH Gayle,40,25,3.0,4.0,0,0,0,55.0,160.0,KH Pandya,caught and bowled
+Kings XI Punjab,Mumbai Indians,1175364,2019-03-30,DA Miller,15,13,2.0,0.0,0,0,0,21.0,115.38461538461536,0,0
+Kings XI Punjab,Mumbai Indians,1175364,2019-03-30,KL Rahul,71,58,6.0,1.0,1,0,0,91.0,122.41379310344828,0,0
+Kings XI Punjab,Mumbai Indians,1175364,2019-03-30,MA Agarwal,43,23,4.0,2.0,0,0,0,55.0,186.95652173913044,KH Pandya,caught and bowled
+Mumbai Indians,Kings XI Punjab,1175364,2019-03-30,HH Pandya,31,20,3.0,1.0,0,0,0,40.0,155.0,Mohammed Shami,caught
+Mumbai Indians,Kings XI Punjab,1175364,2019-03-30,KA Pollard,7,9,0.0,0.0,0,0,0,11.0,77.77777777777779,AJ Tye,caught
+Mumbai Indians,Kings XI Punjab,1175364,2019-03-30,KH Pandya,10,6,2.0,0.0,0,0,0,16.0,166.66666666666669,GC Viljoen,caught
+Mumbai Indians,Kings XI Punjab,1175364,2019-03-30,MJ McClenaghan,0,2,0.0,0.0,0,0,1,2.0,0.0,0,0
+Mumbai Indians,Kings XI Punjab,1175364,2019-03-30,Q de Kock,60,39,6.0,2.0,1,0,0,82.0,153.84615384615387,Mohammed Shami,lbw
+Mumbai Indians,Kings XI Punjab,1175364,2019-03-30,RG Sharma,32,18,5.0,0.0,0,0,0,41.0,177.77777777777777,GC Viljoen,lbw
+Mumbai Indians,Kings XI Punjab,1175364,2019-03-30,SA Yadav,11,6,2.0,0.0,0,0,0,17.0,183.3333333333333,M Ashwin,lbw
+Mumbai Indians,Kings XI Punjab,1175364,2019-03-30,Yuvraj Singh,18,24,2.0,0.0,0,0,0,24.0,75.0,M Ashwin,caught

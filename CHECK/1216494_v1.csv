@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Royal Challengers Bangalore,1216494,2020-10-21,EJG Morgan,30,34,3.0,1.0,0,0,0,39.0,88.23529411764706,Washington Sundar,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,1216494,2020-10-21,KD Karthik,4,14,0.0,0.0,0,0,0,8.0,28.57142857142857,YS Chahal,lbw
+Kolkata Knight Riders,Royal Challengers Bangalore,1216494,2020-10-21,Kuldeep Yadav,12,19,1.0,0.0,0,0,0,17.0,63.1578947368421,CH Morris,run out
+Kolkata Knight Riders,Royal Challengers Bangalore,1216494,2020-10-21,LH Ferguson,19,16,1.0,0.0,0,0,0,24.0,118.75,0,0
+Kolkata Knight Riders,Royal Challengers Bangalore,1216494,2020-10-21,N Rana,0,1,0.0,0.0,0,0,1,2.0,0.0,Mohammed Siraj,bowled
+Kolkata Knight Riders,Royal Challengers Bangalore,1216494,2020-10-21,PJ Cummins,4,17,0.0,0.0,0,0,0,8.0,23.52941176470588,YS Chahal,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,1216494,2020-10-21,RA Tripathi,1,5,0.0,0.0,0,0,0,5.0,20.0,Mohammed Siraj,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,1216494,2020-10-21,Shubman Gill,1,7,0.0,0.0,0,0,0,5.0,14.285714285714285,NA Saini,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,1216494,2020-10-21,T Banton,10,8,1.0,1.0,0,0,0,17.0,125.0,Mohammed Siraj,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,1216494,2020-10-21,AJ Finch,16,24,2.0,0.0,0,0,0,22.0,66.66666666666666,LH Ferguson,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,1216494,2020-10-21,D Padikkal,25,17,3.0,0.0,0,0,0,32.0,147.05882352941177,LH Ferguson,run out
+Royal Challengers Bangalore,Kolkata Knight Riders,1216494,2020-10-21,Gurkeerat Singh,21,26,4.0,0.0,0,0,0,29.0,80.76923076923077,0,0
+Royal Challengers Bangalore,Kolkata Knight Riders,1216494,2020-10-21,V Kohli,18,17,2.0,0.0,0,0,0,24.0,105.88235294117648,0,0

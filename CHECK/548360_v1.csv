@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Royal Challengers Bangalore,548360,2012-05-09,AT Rayudu,22,17,2.0,0.0,0,0,0,28.0,129.41176470588235,HV Patel,caught
+Mumbai Indians,Royal Challengers Bangalore,548360,2012-05-09,DR Smith,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,M Muralitharan,caught
+Mumbai Indians,Royal Challengers Bangalore,548360,2012-05-09,Harbhajan Singh,20,12,3.0,0.0,0,0,0,27.0,166.66666666666669,0,0
+Mumbai Indians,Royal Challengers Bangalore,548360,2012-05-09,JEC Franklin,1,6,0.0,0.0,0,0,0,5.0,16.666666666666664,R Vinay Kumar,caught
+Mumbai Indians,Royal Challengers Bangalore,548360,2012-05-09,KA Pollard,21,13,0.0,2.0,0,0,0,29.0,161.53846153846155,0,0
+Mumbai Indians,Royal Challengers Bangalore,548360,2012-05-09,KD Karthik,44,39,3.0,1.0,0,0,0,53.0,112.82051282051282,M Muralitharan,caught
+Mumbai Indians,Royal Challengers Bangalore,548360,2012-05-09,RG Sharma,0,4,0.0,0.0,0,0,1,2.0,0.0,R Vinay Kumar,lbw
+Mumbai Indians,Royal Challengers Bangalore,548360,2012-05-09,SR Tendulkar,24,28,4.0,0.0,0,0,0,32.0,85.71428571428571,HV Patel,caught and bowled
+Royal Challengers Bangalore,Mumbai Indians,548360,2012-05-09,CH Gayle,82,59,5.0,6.0,1,0,0,111.0,138.98305084745763,0,0
+Royal Challengers Bangalore,Mumbai Indians,548360,2012-05-09,TM Dilshan,19,25,3.0,0.0,0,0,0,26.0,76.0,PP Ojha,lbw
+Royal Challengers Bangalore,Mumbai Indians,548360,2012-05-09,V Kohli,36,27,1.0,2.0,0,0,0,45.0,133.33333333333331,0,0

@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Deccan Chargers,392209,2009-05-04,JA Morkel,4,5,0.0,0.0,0,0,0,8.0,80.0,0,0
+Chennai Super Kings,Deccan Chargers,392209,2009-05-04,M Vijay,31,33,2.0,1.0,0,0,0,39.0,93.93939393939394,TL Suman,caught
+Chennai Super Kings,Deccan Chargers,392209,2009-05-04,ML Hayden,43,28,5.0,3.0,0,0,0,58.0,153.57142857142858,Shoaib Ahmed,caught
+Chennai Super Kings,Deccan Chargers,392209,2009-05-04,MS Dhoni,58,39,6.0,1.0,1,0,0,78.0,148.71794871794873,0,0
+Chennai Super Kings,Deccan Chargers,392209,2009-05-04,SK Raina,32,19,1.0,2.0,0,0,0,41.0,168.42105263157893,RP Singh,caught
+Deccan Chargers,Chennai Super Kings,392209,2009-05-04,AC Gilchrist,0,1,0.0,0.0,0,0,1,2.0,0.0,JA Morkel,lbw
+Deccan Chargers,Chennai Super Kings,392209,2009-05-04,DR Smith,49,23,2.0,5.0,0,0,0,65.0,213.0434782608696,SB Jakati,lbw
+Deccan Chargers,Chennai Super Kings,392209,2009-05-04,HH Gibbs,0,3,0.0,0.0,0,0,1,2.0,0.0,S Tyagi,bowled
+Deccan Chargers,Chennai Super Kings,392209,2009-05-04,PP Ojha,0,2,0.0,0.0,0,0,1,2.0,0.0,SK Raina,caught
+Deccan Chargers,Chennai Super Kings,392209,2009-05-04,RG Sharma,21,20,2.0,1.0,0,0,0,29.0,105.0,SB Jakati,caught
+Deccan Chargers,Chennai Super Kings,392209,2009-05-04,RJ Harris,1,4,0.0,0.0,0,0,0,5.0,25.0,SB Jakati,bowled
+Deccan Chargers,Chennai Super Kings,392209,2009-05-04,RP Singh,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,M Muralitharan,caught
+Deccan Chargers,Chennai Super Kings,392209,2009-05-04,Shoaib Ahmed,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Deccan Chargers,Chennai Super Kings,392209,2009-05-04,TL Suman,17,17,2.0,0.0,0,0,0,23.0,100.0,M Muralitharan,caught
+Deccan Chargers,Chennai Super Kings,392209,2009-05-04,VVS Laxman,0,7,0.0,0.0,0,0,1,2.0,0.0,JA Morkel,caught
+Deccan Chargers,Chennai Super Kings,392209,2009-05-04,Y Venugopal Rao,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,SB Jakati,caught

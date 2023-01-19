@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Kings XI Punjab,1178393,2019-04-06,AT Rayudu,21,15,1.0,1.0,0,0,0,28.0,140.0,0,0
+Chennai Super Kings,Kings XI Punjab,1178393,2019-04-06,F du Plessis,54,39,2.0,4.0,1,0,0,76.0,138.46153846153845,R Ashwin,caught
+Chennai Super Kings,Kings XI Punjab,1178393,2019-04-06,MS Dhoni,37,25,4.0,1.0,0,0,0,47.0,148.0,0,0
+Chennai Super Kings,Kings XI Punjab,1178393,2019-04-06,SK Raina,17,21,1.0,0.0,0,0,0,22.0,80.95238095238095,R Ashwin,bowled
+Chennai Super Kings,Kings XI Punjab,1178393,2019-04-06,SR Watson,26,25,3.0,1.0,0,0,0,35.0,104.0,R Ashwin,caught
+Kings XI Punjab,Chennai Super Kings,1178393,2019-04-06,CH Gayle,5,8,1.0,0.0,0,0,0,10.0,62.5,Harbhajan Singh,caught
+Kings XI Punjab,Chennai Super Kings,1178393,2019-04-06,DA Miller,6,5,1.0,0.0,0,0,0,11.0,120.0,DL Chahar,bowled
+Kings XI Punjab,Chennai Super Kings,1178393,2019-04-06,KL Rahul,55,47,3.0,1.0,1,0,0,72.0,117.02127659574468,SC Kuggeleijn,caught
+Kings XI Punjab,Chennai Super Kings,1178393,2019-04-06,MA Agarwal,0,2,0.0,0.0,0,0,1,2.0,0.0,Harbhajan Singh,caught
+Kings XI Punjab,Chennai Super Kings,1178393,2019-04-06,Mandeep Singh,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Kings XI Punjab,Chennai Super Kings,1178393,2019-04-06,SM Curran,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Kings XI Punjab,Chennai Super Kings,1178393,2019-04-06,SN Khan,67,60,4.0,2.0,1,0,0,87.0,111.66666666666669,SC Kuggeleijn,caught

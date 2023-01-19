@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Rising Pune Supergiant,1082599,2017-04-11,AP Tare,0,6,0.0,0.0,0,0,1,2.0,0.0,DL Chahar,caught
+Delhi Daredevils,Rising Pune Supergiant,1082599,2017-04-11,CH Morris,38,9,4.0,3.0,0,0,0,52.0,422.22222222222223,0,0
+Delhi Daredevils,Rising Pune Supergiant,1082599,2017-04-11,CJ Anderson,2,5,0.0,0.0,0,0,0,6.0,40.0,0,0
+Delhi Daredevils,Rising Pune Supergiant,1082599,2017-04-11,RR Pant,31,22,1.0,2.0,0,0,0,40.0,140.9090909090909,BA Stokes,run out
+Delhi Daredevils,Rising Pune Supergiant,1082599,2017-04-11,SV Samson,102,64,8.0,5.0,1,1,0,148.0,159.375,A Zampa,bowled
+Delhi Daredevils,Rising Pune Supergiant,1082599,2017-04-11,SW Billings,24,19,4.0,0.0,0,0,0,32.0,126.3157894736842,Imran Tahir,bowled
+Rising Pune Supergiant,Delhi Daredevils,1082599,2017-04-11,A Zampa,5,7,1.0,0.0,0,0,0,10.0,71.42857142857143,A Mishra,caught
+Rising Pune Supergiant,Delhi Daredevils,1082599,2017-04-11,AB Dinda,7,8,1.0,0.0,0,0,0,12.0,87.5,PJ Cummins,caught
+Rising Pune Supergiant,Delhi Daredevils,1082599,2017-04-11,AM Rahane,10,10,0.0,0.0,0,0,0,14.0,100.0,Z Khan,caught
+Rising Pune Supergiant,Delhi Daredevils,1082599,2017-04-11,BA Stokes,2,5,0.0,0.0,0,0,0,6.0,40.0,PJ Cummins,caught
+Rising Pune Supergiant,Delhi Daredevils,1082599,2017-04-11,DL Chahar,14,6,0.0,2.0,0,0,0,22.0,233.3333333333333,Z Khan,caught
+Rising Pune Supergiant,Delhi Daredevils,1082599,2017-04-11,F du Plessis,8,7,1.0,0.0,0,0,0,13.0,114.28571428571428,S Nadeem,caught
+Rising Pune Supergiant,Delhi Daredevils,1082599,2017-04-11,Imran Tahir,0,2,0.0,0.0,0,0,1,2.0,0.0,0,0
+Rising Pune Supergiant,Delhi Daredevils,1082599,2017-04-11,MA Agarwal,20,19,2.0,0.0,0,0,0,26.0,105.26315789473684,Z Khan,caught
+Rising Pune Supergiant,Delhi Daredevils,1082599,2017-04-11,MS Dhoni,11,14,0.0,1.0,0,0,0,17.0,78.57142857142857,A Mishra,caught
+Rising Pune Supergiant,Delhi Daredevils,1082599,2017-04-11,R Bhatia,16,17,0.0,1.0,0,0,0,22.0,94.11764705882352,A Mishra,caught
+Rising Pune Supergiant,Delhi Daredevils,1082599,2017-04-11,RA Tripathi,10,6,2.0,0.0,0,0,0,16.0,166.66666666666669,CH Morris,caught

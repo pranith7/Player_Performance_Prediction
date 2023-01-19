@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Mumbai Indians,336032,2008-05-24,G Gambhir,19,9,2.0,1.0,0,0,0,27.0,211.11111111111111,A Nel,caught
+Delhi Daredevils,Mumbai Indians,336032,2008-05-24,KD Karthik,56,32,4.0,3.0,1,0,0,78.0,175.0,0,0
+Delhi Daredevils,Mumbai Indians,336032,2008-05-24,MF Maharoof,20,13,4.0,0.0,0,0,0,28.0,153.84615384615387,0,0
+Delhi Daredevils,Mumbai Indians,336032,2008-05-24,MK Tiwary,36,29,5.0,0.0,0,0,0,45.0,124.13793103448276,SM Pollock,run out
+Delhi Daredevils,Mumbai Indians,336032,2008-05-24,S Dhawan,27,30,2.0,1.0,0,0,0,35.0,90.0,DR Smith,caught
+Delhi Daredevils,Mumbai Indians,336032,2008-05-24,TM Dilshan,0,1,0.0,0.0,0,0,1,2.0,0.0,DR Smith,bowled
+Delhi Daredevils,Mumbai Indians,336032,2008-05-24,V Sehwag,18,6,3.0,1.0,0,0,0,27.0,300.0,A Nehra,bowled
+Mumbai Indians,Delhi Daredevils,336032,2008-05-24,AM Nayar,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,B Geeves,caught
+Mumbai Indians,Delhi Daredevils,336032,2008-05-24,DR Smith,17,17,2.0,0.0,0,0,0,23.0,100.0,VY Mahesh,caught
+Mumbai Indians,Delhi Daredevils,336032,2008-05-24,PR Shah,0,1,0.0,0.0,0,0,1,2.0,0.0,VY Mahesh,caught
+Mumbai Indians,Delhi Daredevils,336032,2008-05-24,RV Uthappa,46,23,5.0,2.0,0,0,0,59.0,200.0,0,0
+Mumbai Indians,Delhi Daredevils,336032,2008-05-24,SD Chitnis,3,4,0.0,0.0,0,0,0,7.0,75.0,VY Mahesh,caught
+Mumbai Indians,Delhi Daredevils,336032,2008-05-24,SM Pollock,16,15,2.0,0.0,0,0,0,22.0,106.66666666666669,MF Maharoof,bowled
+Mumbai Indians,Delhi Daredevils,336032,2008-05-24,SR Tendulkar,18,19,3.0,0.0,0,0,0,25.0,94.73684210526316,VY Mahesh,bowled
+Mumbai Indians,Delhi Daredevils,336032,2008-05-24,ST Jayasuriya,66,45,6.0,5.0,1,0,0,94.0,146.66666666666666,A Mishra,caught

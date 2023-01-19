@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Rajasthan Royals,419143,2010-04-07,Bipul Sharma,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Kings XI Punjab,Rajasthan Royals,419143,2010-04-07,DPMD Jayawardene,44,35,6.0,1.0,0,0,0,56.0,125.71428571428572,AP Dole,caught
+Kings XI Punjab,Rajasthan Royals,419143,2010-04-07,IK Pathan,24,23,1.0,0.0,0,0,0,29.0,104.34782608695652,0,0
+Kings XI Punjab,Rajasthan Royals,419143,2010-04-07,KC Sangakkara,9,8,1.0,0.0,0,0,0,14.0,112.5,SK Trivedi,caught
+Kings XI Punjab,Rajasthan Royals,419143,2010-04-07,MS Bisla,20,15,4.0,0.0,0,0,0,28.0,133.33333333333331,SR Watson,caught
+Kings XI Punjab,Rajasthan Royals,419143,2010-04-07,PP Chawla,10,16,0.0,0.0,0,0,0,14.0,62.5,SK Trivedi,caught
+Kings XI Punjab,Rajasthan Royals,419143,2010-04-07,RS Bopara,8,12,0.0,0.0,0,0,0,12.0,66.66666666666666,FY Fazal,run out
+Kings XI Punjab,Rajasthan Royals,419143,2010-04-07,Yuvraj Singh,28,16,1.0,3.0,0,0,0,39.0,175.0,AP Dole,bowled
+Rajasthan Royals,Kings XI Punjab,419143,2010-04-07,MJ Lumb,83,45,16.0,2.0,1,0,0,115.0,184.44444444444449,RS Bopara,caught
+Rajasthan Royals,Kings XI Punjab,419143,2010-04-07,NV Ojha,44,38,4.0,1.0,0,0,0,54.0,115.78947368421052,0,0
+Rajasthan Royals,Kings XI Punjab,419143,2010-04-07,YK Pathan,21,14,0.0,2.0,0,0,0,29.0,150.0,0,0

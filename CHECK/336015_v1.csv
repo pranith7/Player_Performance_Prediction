@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Rajasthan Royals,336015,2008-05-11,A Mishra,4,5,0.0,0.0,0,0,0,8.0,80.0,SK Trivedi,bowled
+Delhi Daredevils,Rajasthan Royals,336015,2008-05-11,AB de Villiers,20,23,0.0,0.0,0,0,0,24.0,86.95652173913044,AD Mascarenhas,caught
+Delhi Daredevils,Rajasthan Royals,336015,2008-05-11,G Gambhir,31,23,4.0,0.0,0,0,0,39.0,134.7826086956522,SK Trivedi,bowled
+Delhi Daredevils,Rajasthan Royals,336015,2008-05-11,KD Karthik,13,16,1.0,0.0,0,0,0,18.0,81.25,AD Mascarenhas,caught
+Delhi Daredevils,Rajasthan Royals,336015,2008-05-11,MF Maharoof,39,16,2.0,4.0,0,0,0,53.0,243.75,SR Watson,caught
+Delhi Daredevils,Rajasthan Royals,336015,2008-05-11,S Dhawan,3,3,0.0,0.0,0,0,0,7.0,100.0,MM Patel,run out
+Delhi Daredevils,Rajasthan Royals,336015,2008-05-11,TM Dilshan,18,15,1.0,1.0,0,0,0,25.0,120.0,0,0
+Delhi Daredevils,Rajasthan Royals,336015,2008-05-11,V Sehwag,17,21,2.0,0.0,0,0,0,23.0,80.95238095238095,SR Watson,caught
+Delhi Daredevils,Rajasthan Royals,336015,2008-05-11,VY Mahesh,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Rajasthan Royals,Delhi Daredevils,336015,2008-05-11,AD Mascarenhas,9,8,0.0,1.0,0,0,0,15.0,112.5,V Sehwag,bowled
+Rajasthan Royals,Delhi Daredevils,336015,2008-05-11,GC Smith,24,29,3.0,0.0,0,0,0,31.0,82.75862068965517,A Mishra,caught
+Rajasthan Royals,Delhi Daredevils,336015,2008-05-11,M Kaif,1,5,0.0,0.0,0,0,0,5.0,20.0,GD McGrath,run out
+Rajasthan Royals,Delhi Daredevils,336015,2008-05-11,M Rawat,5,4,1.0,0.0,0,0,0,10.0,125.0,0,0
+Rajasthan Royals,Delhi Daredevils,336015,2008-05-11,Niraj Patel,4,2,1.0,0.0,0,0,0,9.0,200.0,0,0
+Rajasthan Royals,Delhi Daredevils,336015,2008-05-11,RA Jadeja,6,7,1.0,0.0,0,0,0,11.0,85.71428571428571,A Mishra,bowled
+Rajasthan Royals,Delhi Daredevils,336015,2008-05-11,SK Warne,11,12,1.0,0.0,0,0,0,16.0,91.66666666666666,MF Maharoof,bowled
+Rajasthan Royals,Delhi Daredevils,336015,2008-05-11,SR Watson,74,42,5.0,5.0,1,0,0,101.0,176.19047619047618,MF Maharoof,run out
+Rajasthan Royals,Delhi Daredevils,336015,2008-05-11,YK Pathan,8,13,1.0,0.0,0,0,0,13.0,61.53846153846154,MF Maharoof,run out

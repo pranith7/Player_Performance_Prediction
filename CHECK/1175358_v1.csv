@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Capitals,Mumbai Indians,1175358,2019-03-24,AR Patel,4,2,1.0,0.0,0,0,0,9.0,200.0,JJ Bumrah,caught
+Delhi Capitals,Mumbai Indians,1175358,2019-03-24,CA Ingram,47,32,7.0,1.0,0,0,0,60.0,146.875,BCJ Cutting,caught
+Delhi Capitals,Mumbai Indians,1175358,2019-03-24,KMA Paul,3,6,0.0,0.0,0,0,0,7.0,50.0,MJ McClenaghan,caught
+Delhi Capitals,Mumbai Indians,1175358,2019-03-24,PP Shaw,7,6,1.0,0.0,0,0,0,12.0,116.66666666666669,MJ McClenaghan,caught
+Delhi Capitals,Mumbai Indians,1175358,2019-03-24,R Tewatia,9,4,0.0,1.0,0,0,0,15.0,225.0,0,0
+Delhi Capitals,Mumbai Indians,1175358,2019-03-24,RR Pant,78,28,7.0,7.0,1,0,0,111.0,278.57142857142856,0,0
+Delhi Capitals,Mumbai Indians,1175358,2019-03-24,S Dhawan,43,36,4.0,1.0,0,0,0,53.0,119.44444444444444,HH Pandya,caught
+Delhi Capitals,Mumbai Indians,1175358,2019-03-24,SS Iyer,16,10,2.0,1.0,0,0,0,24.0,160.0,MJ McClenaghan,caught
+Mumbai Indians,Delhi Capitals,1175358,2019-03-24,BCJ Cutting,3,4,0.0,0.0,0,0,0,7.0,75.0,K Rabada,caught
+Mumbai Indians,Delhi Capitals,1175358,2019-03-24,HH Pandya,0,2,0.0,0.0,0,0,1,2.0,0.0,AR Patel,caught and bowled
+Mumbai Indians,Delhi Capitals,1175358,2019-03-24,KA Pollard,21,13,2.0,1.0,0,0,0,29.0,161.53846153846155,KMA Paul,caught
+Mumbai Indians,Delhi Capitals,1175358,2019-03-24,KH Pandya,32,16,5.0,1.0,0,0,0,43.0,200.0,TA Boult,caught
+Mumbai Indians,Delhi Capitals,1175358,2019-03-24,MJ McClenaghan,10,8,2.0,0.0,0,0,0,16.0,125.0,R Tewatia,stumped
+Mumbai Indians,Delhi Capitals,1175358,2019-03-24,Q de Kock,27,16,4.0,1.0,0,0,0,37.0,168.75,I Sharma,caught
+Mumbai Indians,Delhi Capitals,1175358,2019-03-24,RG Sharma,14,13,2.0,0.0,0,0,0,20.0,107.6923076923077,I Sharma,caught
+Mumbai Indians,Delhi Capitals,1175358,2019-03-24,Rasikh Salam,5,4,0.0,0.0,0,0,0,9.0,125.0,0,0
+Mumbai Indians,Delhi Capitals,1175358,2019-03-24,SA Yadav,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,I Sharma,run out
+Mumbai Indians,Delhi Capitals,1175358,2019-03-24,Yuvraj Singh,53,40,5.0,3.0,1,0,0,76.0,132.5,K Rabada,caught

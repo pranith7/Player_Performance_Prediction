@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Mumbai Indians,829775,2015-05-03,AR Patel,0,1,0.0,0.0,0,0,1,2.0,0.0,SL Malinga,run out
+Kings XI Punjab,Mumbai Indians,829775,2015-05-03,DA Miller,43,38,3.0,1.0,0,0,0,52.0,113.1578947368421,SL Malinga,caught
+Kings XI Punjab,Mumbai Indians,829775,2015-05-03,GJ Bailey,21,18,1.0,0.0,0,0,0,26.0,116.66666666666669,SL Malinga,run out
+Kings XI Punjab,Mumbai Indians,829775,2015-05-03,GJ Maxwell,12,9,2.0,0.0,0,0,0,18.0,133.33333333333331,J Suchith,caught
+Kings XI Punjab,Mumbai Indians,829775,2015-05-03,M Vijay,39,35,3.0,1.0,0,0,0,48.0,111.42857142857144,Harbhajan Singh,caught
+Kings XI Punjab,Mumbai Indians,829775,2015-05-03,MG Johnson,8,4,0.0,1.0,0,0,0,14.0,200.0,0,0
+Kings XI Punjab,Mumbai Indians,829775,2015-05-03,V Sehwag,2,5,0.0,0.0,0,0,0,6.0,40.0,SL Malinga,caught
+Kings XI Punjab,Mumbai Indians,829775,2015-05-03,WP Saha,12,13,1.0,0.0,0,0,0,17.0,92.3076923076923,R Vinay Kumar,run out
+Mumbai Indians,Kings XI Punjab,829775,2015-05-03,AT Rayudu,4,1,1.0,0.0,0,0,0,9.0,400.0,0,0
+Mumbai Indians,Kings XI Punjab,829775,2015-05-03,KA Pollard,7,8,0.0,0.0,0,0,0,11.0,87.5,0,0
+Mumbai Indians,Kings XI Punjab,829775,2015-05-03,LMP Simmons,71,56,9.0,1.0,1,0,0,94.0,126.78571428571428,Anureet Singh,caught
+Mumbai Indians,Kings XI Punjab,829775,2015-05-03,PA Patel,59,36,5.0,3.0,1,0,0,82.0,163.88888888888889,Karanveer Singh,caught
+Mumbai Indians,Kings XI Punjab,829775,2015-05-03,RG Sharma,26,21,2.0,0.0,0,0,0,32.0,123.8095238095238,MG Johnson,caught

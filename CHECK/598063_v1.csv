@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Rajasthan Royals,598063,2013-05-15,AP Tare,59,37,8.0,1.0,1,0,0,81.0,159.45945945945945,KK Cooper,caught
+Mumbai Indians,Rajasthan Royals,598063,2013-05-15,AT Rayudu,7,7,0.0,0.0,0,0,0,11.0,100.0,SR Watson,caught
+Mumbai Indians,Rajasthan Royals,598063,2013-05-15,GJ Maxwell,23,17,0.0,3.0,0,0,0,33.0,135.29411764705884,SR Watson,lbw
+Mumbai Indians,Rajasthan Royals,598063,2013-05-15,Harbhajan Singh,15,7,1.0,1.0,0,0,0,22.0,214.28571428571428,0,0
+Mumbai Indians,Rajasthan Royals,598063,2013-05-15,KA Pollard,17,16,1.0,1.0,0,0,0,24.0,106.25,KK Cooper,run out
+Mumbai Indians,Rajasthan Royals,598063,2013-05-15,KD Karthik,21,23,3.0,0.0,0,0,0,28.0,91.30434782608695,PV Tambe,caught
+Mumbai Indians,Rajasthan Royals,598063,2013-05-15,MG Johnson,2,7,0.0,0.0,0,0,0,6.0,28.57142857142857,JP Faulkner,caught
+Mumbai Indians,Rajasthan Royals,598063,2013-05-15,RG Sharma,14,9,2.0,0.0,0,0,0,20.0,155.55555555555557,JP Faulkner,caught
+Mumbai Indians,Rajasthan Royals,598063,2013-05-15,SL Malinga,1,1,0.0,0.0,0,0,0,5.0,100.0,JP Faulkner,run out
+Rajasthan Royals,Mumbai Indians,598063,2013-05-15,AM Rahane,4,8,0.0,0.0,0,0,0,8.0,50.0,DS Kulkarni,caught
+Rajasthan Royals,Mumbai Indians,598063,2013-05-15,BJ Hodge,39,28,7.0,0.0,0,0,0,50.0,139.28571428571428,SL Malinga,lbw
+Rajasthan Royals,Mumbai Indians,598063,2013-05-15,DH Yagnik,10,14,1.0,0.0,0,0,0,15.0,71.42857142857143,Harbhajan Singh,bowled
+Rajasthan Royals,Mumbai Indians,598063,2013-05-15,JP Faulkner,12,13,2.0,0.0,0,0,0,18.0,92.3076923076923,DS Kulkarni,caught
+Rajasthan Royals,Mumbai Indians,598063,2013-05-15,KK Cooper,7,4,0.0,1.0,0,0,0,13.0,175.0,0,0
+Rajasthan Royals,Mumbai Indians,598063,2013-05-15,R Dravid,4,6,1.0,0.0,0,0,0,9.0,66.66666666666666,MG Johnson,caught
+Rajasthan Royals,Mumbai Indians,598063,2013-05-15,SR Watson,19,17,0.0,2.0,0,0,0,27.0,111.76470588235294,PP Ojha,caught
+Rajasthan Royals,Mumbai Indians,598063,2013-05-15,STR Binny,37,30,3.0,1.0,0,0,0,46.0,123.33333333333334,0,0
+Rajasthan Royals,Mumbai Indians,598063,2013-05-15,SV Samson,4,4,1.0,0.0,0,0,0,9.0,100.0,MG Johnson,caught

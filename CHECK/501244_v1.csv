@@ -1,0 +1,20 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Royal Challengers Bangalore,501244,2011-05-06,AC Gilchrist,0,1,0.0,0.0,0,0,1,2.0,0.0,Z Khan,run out
+Kings XI Punjab,Royal Challengers Bangalore,501244,2011-05-06,AM Nayar,1,4,0.0,0.0,0,0,0,5.0,25.0,S Aravind,caught
+Kings XI Punjab,Royal Challengers Bangalore,501244,2011-05-06,KD Karthik,20,15,3.0,0.0,0,0,0,27.0,133.33333333333331,CH Gayle,lbw
+Kings XI Punjab,Royal Challengers Bangalore,501244,2011-05-06,L Ablish,0,2,0.0,0.0,0,0,1,2.0,0.0,0,0
+Kings XI Punjab,Royal Challengers Bangalore,501244,2011-05-06,P Kumar,15,8,2.0,1.0,0,0,0,23.0,187.5,0,0
+Kings XI Punjab,Royal Challengers Bangalore,501244,2011-05-06,PC Valthaty,21,18,4.0,0.0,0,0,0,29.0,116.66666666666669,CH Gayle,caught
+Kings XI Punjab,Royal Challengers Bangalore,501244,2011-05-06,PP Chawla,5,6,0.0,0.0,0,0,0,9.0,83.33333333333334,CH Gayle,bowled
+Kings XI Punjab,Royal Challengers Bangalore,501244,2011-05-06,R McLaren,28,33,1.0,0.0,0,0,0,33.0,84.84848484848484,S Aravind,bowled
+Kings XI Punjab,Royal Challengers Bangalore,501244,2011-05-06,RJ Harris,17,25,1.0,0.0,0,0,0,22.0,68.0,S Aravind,caught
+Kings XI Punjab,Royal Challengers Bangalore,501244,2011-05-06,SE Marsh,4,8,0.0,0.0,0,0,0,8.0,50.0,S Aravind,caught and bowled
+Kings XI Punjab,Royal Challengers Bangalore,501244,2011-05-06,Sunny Singh,4,5,0.0,0.0,0,0,0,8.0,80.0,DL Vettori,caught
+Royal Challengers Bangalore,Kings XI Punjab,501244,2011-05-06,A Mithun,6,3,1.0,0.0,0,0,0,11.0,200.0,0,0
+Royal Challengers Bangalore,Kings XI Punjab,501244,2011-05-06,AB de Villiers,27,14,2.0,2.0,0,0,0,37.0,192.8571428571429,0,0
+Royal Challengers Bangalore,Kings XI Punjab,501244,2011-05-06,AUK Pathan,0,1,0.0,0.0,0,0,1,2.0,0.0,RJ Harris,lbw
+Royal Challengers Bangalore,Kings XI Punjab,501244,2011-05-06,CH Gayle,107,49,10.0,9.0,1,1,0,163.0,218.3673469387755,PP Chawla,caught
+Royal Challengers Bangalore,Kings XI Punjab,501244,2011-05-06,M Kaif,3,4,0.0,0.0,0,0,0,7.0,75.0,RJ Harris,bowled
+Royal Challengers Bangalore,Kings XI Punjab,501244,2011-05-06,SS Tiwary,13,9,2.0,0.0,0,0,0,19.0,144.44444444444443,RJ Harris,caught and bowled
+Royal Challengers Bangalore,Kings XI Punjab,501244,2011-05-06,TM Dilshan,16,9,4.0,0.0,0,0,0,24.0,177.77777777777777,R McLaren,caught
+Royal Challengers Bangalore,Kings XI Punjab,501244,2011-05-06,V Kohli,27,32,4.0,0.0,0,0,0,35.0,84.375,PP Chawla,bowled

@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Sunrisers Hyderabad,1304092,2022-05-01,DP Conway,85,56,8.0,4.0,1,0,0,113.0,151.78571428571428,0,0
+Chennai Super Kings,Sunrisers Hyderabad,1304092,2022-05-01,MS Dhoni,8,7,1.0,0.0,0,0,0,13.0,114.28571428571428,T Natarajan,caught
+Chennai Super Kings,Sunrisers Hyderabad,1304092,2022-05-01,RA Jadeja,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Chennai Super Kings,Sunrisers Hyderabad,1304092,2022-05-01,RD Gaikwad,99,59,6.0,6.0,1,0,0,129.0,167.79661016949152,T Natarajan,caught
+Sunrisers Hyderabad,Chennai Super Kings,1304092,2022-05-01,AK Markram,17,10,0.0,2.0,0,0,0,25.0,170.0,MJ Santner,caught
+Sunrisers Hyderabad,Chennai Super Kings,1304092,2022-05-01,Abhishek Sharma,39,24,5.0,1.0,0,0,0,50.0,162.5,Mukesh Choudhary,caught
+Sunrisers Hyderabad,Chennai Super Kings,1304092,2022-05-01,KS Williamson,47,37,2.0,2.0,0,0,0,57.0,127.02702702702702,D Pretorius,lbw
+Sunrisers Hyderabad,Chennai Super Kings,1304092,2022-05-01,N Pooran,64,35,3.0,6.0,1,0,0,91.0,182.8571428571429,0,0
+Sunrisers Hyderabad,Chennai Super Kings,1304092,2022-05-01,RA Tripathi,0,1,0.0,0.0,0,0,1,2.0,0.0,Mukesh Choudhary,caught
+Sunrisers Hyderabad,Chennai Super Kings,1304092,2022-05-01,Shashank Singh,15,14,1.0,0.0,0,0,0,20.0,107.14285714285714,Mukesh Choudhary,caught
+Sunrisers Hyderabad,Chennai Super Kings,1304092,2022-05-01,Washington Sundar,2,2,0.0,0.0,0,0,0,6.0,100.0,Mukesh Choudhary,bowled

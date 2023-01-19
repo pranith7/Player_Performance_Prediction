@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Rising Pune Supergiants,980939,2016-04-24,AD Russell,17,12,0.0,2.0,0,0,0,25.0,141.66666666666669,NLTC Perera,caught
+Kolkata Knight Riders,Rising Pune Supergiants,980939,2016-04-24,G Gambhir,11,5,2.0,0.0,0,0,0,17.0,220.00000000000003,JA Morkel,run out
+Kolkata Knight Riders,Rising Pune Supergiants,980939,2016-04-24,PP Chawla,8,5,1.0,0.0,0,0,0,13.0,160.0,NLTC Perera,caught
+Kolkata Knight Riders,Rising Pune Supergiants,980939,2016-04-24,R Sathish,10,8,0.0,1.0,0,0,0,16.0,125.0,JA Morkel,bowled
+Kolkata Knight Riders,Rising Pune Supergiants,980939,2016-04-24,RV Uthappa,0,1,0.0,0.0,0,0,1,2.0,0.0,JA Morkel,lbw
+Kolkata Knight Riders,Rising Pune Supergiants,980939,2016-04-24,SA Yadav,60,54,6.0,2.0,1,0,0,82.0,111.11111111111111,M Ashwin,lbw
+Kolkata Knight Riders,Rising Pune Supergiants,980939,2016-04-24,Shakib Al Hasan,3,9,0.0,0.0,0,0,0,7.0,33.33333333333333,R Bhatia,bowled
+Kolkata Knight Riders,Rising Pune Supergiants,980939,2016-04-24,UT Yadav,7,3,0.0,1.0,0,0,0,13.0,233.3333333333333,0,0
+Kolkata Knight Riders,Rising Pune Supergiants,980939,2016-04-24,YK Pathan,36,27,2.0,2.0,0,0,0,46.0,133.33333333333331,R Bhatia,lbw
+Rising Pune Supergiants,Kolkata Knight Riders,980939,2016-04-24,AM Rahane,67,52,4.0,3.0,1,0,0,89.0,128.84615384615387,SP Narine,caught and bowled
+Rising Pune Supergiants,Kolkata Knight Riders,980939,2016-04-24,F du Plessis,4,9,0.0,0.0,0,0,0,8.0,44.44444444444444,Shakib Al Hasan,bowled
+Rising Pune Supergiants,Kolkata Knight Riders,980939,2016-04-24,JA Morkel,16,9,0.0,2.0,0,0,0,24.0,177.77777777777777,UT Yadav,bowled
+Rising Pune Supergiants,Kolkata Knight Riders,980939,2016-04-24,MS Dhoni,23,12,2.0,1.0,0,0,0,31.0,191.66666666666669,0,0
+Rising Pune Supergiants,Kolkata Knight Riders,980939,2016-04-24,NLTC Perera,12,9,0.0,1.0,0,0,0,18.0,133.33333333333331,R Sathish,bowled
+Rising Pune Supergiants,Kolkata Knight Riders,980939,2016-04-24,R Bhatia,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Rising Pune Supergiants,Kolkata Knight Riders,980939,2016-04-24,SPD Smith,31,28,2.0,0.0,0,0,0,37.0,110.71428571428572,R Sathish,run out

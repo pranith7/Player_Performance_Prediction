@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Mumbai Indians,1216526,2020-10-16,AD Russell,12,9,1,1.0,0,0,0,19.0,133.33333333333331,JJ Bumrah,caught
+Kolkata Knight Riders,Mumbai Indians,1216526,2020-10-16,EJG Morgan,39,29,2,2.0,0,0,0,49.0,134.48275862068965,0,0
+Kolkata Knight Riders,Mumbai Indians,1216526,2020-10-16,KD Karthik,4,8,1,0.0,0,0,0,9.0,50.0,RD Chahar,bowled
+Kolkata Knight Riders,Mumbai Indians,1216526,2020-10-16,N Rana,5,6,1,0.0,0,0,0,10.0,83.33333333333334,NM Coulter-Nile,caught
+Kolkata Knight Riders,Mumbai Indians,1216526,2020-10-16,PJ Cummins,53,37,5,2.0,1,0,0,74.0,143.24324324324326,0,0
+Kolkata Knight Riders,Mumbai Indians,1216526,2020-10-16,RA Tripathi,7,10,1,0.0,0,0,0,12.0,70.0,TA Boult,caught
+Kolkata Knight Riders,Mumbai Indians,1216526,2020-10-16,Shubman Gill,21,26,2,0.0,0,0,0,27.0,80.76923076923077,RD Chahar,caught
+Mumbai Indians,Kolkata Knight Riders,1216526,2020-10-16,HH Pandya,21,11,3,1.0,0,0,0,30.0,190.9090909090909,0,0
+Mumbai Indians,Kolkata Knight Riders,1216526,2020-10-16,Q de Kock,78,44,9,3.0,1,0,0,105.0,177.27272727272728,0,0
+Mumbai Indians,Kolkata Knight Riders,1216526,2020-10-16,RG Sharma,35,36,5,1.0,0,0,0,46.0,97.2222222222222,Shivam Mavi,caught
+Mumbai Indians,Kolkata Knight Riders,1216526,2020-10-16,SA Yadav,10,10,1,0.0,0,0,0,15.0,100.0,CV Varun,bowled

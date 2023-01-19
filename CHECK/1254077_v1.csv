@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Capitals,Sunrisers Hyderabad,1254077,2021-04-25,MP Stoinis,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Delhi Capitals,Sunrisers Hyderabad,1254077,2021-04-25,PP Shaw,53,40,7.0,1.0,1,0,0,74.0,132.5,J Suchith,run out
+Delhi Capitals,Sunrisers Hyderabad,1254077,2021-04-25,RR Pant,42,31,5.0,1.0,0,0,0,53.0,135.48387096774192,S Kaul,caught
+Delhi Capitals,Sunrisers Hyderabad,1254077,2021-04-25,S Dhawan,28,29,3.0,0.0,0,0,0,35.0,96.55172413793105,Rashid Khan,bowled
+Delhi Capitals,Sunrisers Hyderabad,1254077,2021-04-25,SO Hetmyer,1,2,0.0,0.0,0,0,0,5.0,50.0,S Kaul,caught
+Delhi Capitals,Sunrisers Hyderabad,1254077,2021-04-25,SPD Smith,34,25,3.0,1.0,0,0,0,43.0,136.0,0,0
+Sunrisers Hyderabad,Delhi Capitals,1254077,2021-04-25,Abhishek Sharma,5,7,0.0,0.0,0,0,0,9.0,71.42857142857143,AR Patel,lbw
+Sunrisers Hyderabad,Delhi Capitals,1254077,2021-04-25,DA Warner,8,9,0.0,0.0,0,0,0,12.0,88.88888888888889,R Ashwin,run out
+Sunrisers Hyderabad,Delhi Capitals,1254077,2021-04-25,J Suchith,14,6,2.0,1.0,0,0,0,22.0,233.3333333333333,0,0
+Sunrisers Hyderabad,Delhi Capitals,1254077,2021-04-25,JM Bairstow,38,18,3.0,4.0,0,0,0,53.0,211.11111111111111,Avesh Khan,caught
+Sunrisers Hyderabad,Delhi Capitals,1254077,2021-04-25,KM Jadhav,9,10,1.0,0.0,0,0,0,14.0,90.0,A Mishra,stumped
+Sunrisers Hyderabad,Delhi Capitals,1254077,2021-04-25,KS Williamson,70,57,9.0,0.0,1,0,0,91.0,122.80701754385966,0,0
+Sunrisers Hyderabad,Delhi Capitals,1254077,2021-04-25,Rashid Khan,0,1,0.0,0.0,0,0,1,2.0,0.0,AR Patel,lbw
+Sunrisers Hyderabad,Delhi Capitals,1254077,2021-04-25,V Shankar,8,7,0.0,0.0,0,0,0,12.0,114.28571428571428,Avesh Khan,bowled
+Sunrisers Hyderabad,Delhi Capitals,1254077,2021-04-25,Virat Singh,4,14,0.0,0.0,0,0,0,8.0,28.57142857142857,Avesh Khan,caught

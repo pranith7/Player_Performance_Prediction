@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Rajasthan Royals,419134,2010-03-31,AB McDonald,14,9,2.0,0.0,0,0,0,20.0,155.55555555555557,0,0
+Delhi Daredevils,Rajasthan Royals,419134,2010-03-31,DA Warner,4,8,0.0,0.0,0,0,0,8.0,50.0,S Narwal,bowled
+Delhi Daredevils,Rajasthan Royals,419134,2010-03-31,G Gambhir,43,39,3.0,0.0,0,0,0,50.0,110.25641025641026,S Narwal,caught
+Delhi Daredevils,Rajasthan Royals,419134,2010-03-31,KD Karthik,69,38,6.0,4.0,1,0,0,95.0,181.57894736842107,SW Tait,caught
+Delhi Daredevils,Rajasthan Royals,419134,2010-03-31,KM Jadhav,10,9,1.0,0.0,0,0,0,15.0,111.11111111111111,SK Warne,caught
+Delhi Daredevils,Rajasthan Royals,419134,2010-03-31,PD Collingwood,16,8,2.0,1.0,0,0,0,24.0,200.0,S Narwal,run out
+Delhi Daredevils,Rajasthan Royals,419134,2010-03-31,V Sehwag,19,13,3.0,1.0,0,0,0,28.0,146.15384615384613,S Narwal,caught
+Rajasthan Royals,Delhi Daredevils,419134,2010-03-31,AA Jhunjhunwala,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,MF Maharoof,run out
+Rajasthan Royals,Delhi Daredevils,419134,2010-03-31,AC Voges,15,17,1.0,0.0,0,0,0,20.0,88.23529411764706,A Mishra,caught
+Rajasthan Royals,Delhi Daredevils,419134,2010-03-31,FY Fazal,0,2,0.0,0.0,0,0,1,2.0,0.0,MF Maharoof,lbw
+Rajasthan Royals,Delhi Daredevils,419134,2010-03-31,MJ Lumb,0,2,0.0,0.0,0,0,1,2.0,0.0,MF Maharoof,caught
+Rajasthan Royals,Delhi Daredevils,419134,2010-03-31,NV Ojha,27,14,4.0,1.0,0,0,0,37.0,192.8571428571429,A Mishra,caught
+Rajasthan Royals,Delhi Daredevils,419134,2010-03-31,P Dogra,20,25,0.0,1.0,0,0,0,26.0,80.0,S Ladda,stumped
+Rajasthan Royals,Delhi Daredevils,419134,2010-03-31,S Narwal,12,10,2.0,0.0,0,0,0,18.0,120.0,PD Collingwood,caught
+Rajasthan Royals,Delhi Daredevils,419134,2010-03-31,SK Trivedi,7,5,0.0,1.0,0,0,0,13.0,140.0,0,0
+Rajasthan Royals,Delhi Daredevils,419134,2010-03-31,SK Warne,0,2,0.0,0.0,0,0,1,2.0,0.0,A Mishra,run out
+Rajasthan Royals,Delhi Daredevils,419134,2010-03-31,SW Tait,11,12,0.0,1.0,0,0,0,17.0,91.66666666666666,V Sehwag,stumped
+Rajasthan Royals,Delhi Daredevils,419134,2010-03-31,YK Pathan,24,14,2.0,2.0,0,0,0,34.0,171.42857142857142,A Mishra,caught

@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Sunrisers Hyderabad,734029,2014-05-22,DJ Hussey,50,33,5.0,2.0,1,0,0,71.0,151.5151515151515,0,0
+Chennai Super Kings,Sunrisers Hyderabad,734029,2014-05-22,DR Smith,47,28,4.0,4.0,0,0,0,63.0,167.85714285714286,KV Sharma,lbw
+Chennai Super Kings,Sunrisers Hyderabad,734029,2014-05-22,F du Plessis,19,11,4.0,0.0,0,0,0,27.0,172.72727272727272,KV Sharma,run out
+Chennai Super Kings,Sunrisers Hyderabad,734029,2014-05-22,MS Dhoni,57,42,2.0,4.0,1,0,0,79.0,135.71428571428572,0,0
+Chennai Super Kings,Sunrisers Hyderabad,734029,2014-05-22,SK Raina,4,7,0.0,0.0,0,0,0,8.0,57.14285714285714,KV Sharma,caught
+Sunrisers Hyderabad,Chennai Super Kings,734029,2014-05-22,AJ Finch,7,3,0.0,1.0,0,0,0,13.0,233.3333333333333,P Negi,run out
+Sunrisers Hyderabad,Chennai Super Kings,734029,2014-05-22,DA Warner,90,46,12.0,3.0,1,0,0,120.0,195.65217391304347,JW Hastings,bowled
+Sunrisers Hyderabad,Chennai Super Kings,734029,2014-05-22,DJG Sammy,0,3,0.0,0.0,0,0,1,2.0,0.0,RA Jadeja,caught
+Sunrisers Hyderabad,Chennai Super Kings,734029,2014-05-22,NV Ojha,19,18,0.0,1.0,0,0,0,25.0,105.55555555555556,SK Raina,caught
+Sunrisers Hyderabad,Chennai Super Kings,734029,2014-05-22,S Dhawan,64,50,4.0,2.0,1,0,0,84.0,128.0,0,0
+Sunrisers Hyderabad,Chennai Super Kings,734029,2014-05-22,Y Venugopal Rao,4,1,1.0,0.0,0,0,0,9.0,400.0,0,0

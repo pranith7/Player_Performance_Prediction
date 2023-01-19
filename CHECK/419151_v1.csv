@@ -1,0 +1,20 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Royal Challengers Bangalore,419151,2010-04-12,A Symonds,19,21,2.0,0.0,0,0,0,25.0,90.47619047619048,A Kumble,stumped
+Deccan Chargers,Royal Challengers Bangalore,419151,2010-04-12,AC Gilchrist,0,1,0.0,0.0,0,0,1,2.0,0.0,DW Steyn,caught
+Deccan Chargers,Royal Challengers Bangalore,419151,2010-04-12,B Sumanth,6,4,0.0,0.0,0,0,0,10.0,150.0,0,0
+Deccan Chargers,Royal Challengers Bangalore,419151,2010-04-12,HH Gibbs,12,10,1.0,1.0,0,0,0,19.0,120.0,DW Steyn,bowled
+Deccan Chargers,Royal Challengers Bangalore,419151,2010-04-12,MD Mishra,41,31,1.0,3.0,0,0,0,52.0,132.25806451612902,KP Appanna,run out
+Deccan Chargers,Royal Challengers Bangalore,419151,2010-04-12,RG Sharma,51,47,7.0,0.0,1,0,0,70.0,108.51063829787232,R Vinay Kumar,caught
+Deccan Chargers,Royal Challengers Bangalore,419151,2010-04-12,RJ Harris,13,9,0.0,1.0,0,0,0,19.0,144.44444444444443,0,0
+Deccan Chargers,Royal Challengers Bangalore,419151,2010-04-12,TL Suman,0,1,0.0,0.0,0,0,1,2.0,0.0,DW Steyn,caught
+Royal Challengers Bangalore,Deccan Chargers,419151,2010-04-12,A Kumble,2,4,0.0,0.0,0,0,0,6.0,50.0,0,0
+Royal Challengers Bangalore,Deccan Chargers,419151,2010-04-12,CL White,4,3,0.0,0.0,0,0,0,8.0,133.33333333333331,RP Singh,caught
+Royal Challengers Bangalore,Deccan Chargers,419151,2010-04-12,DW Steyn,0,1,0.0,0.0,0,0,1,2.0,0.0,Harmeet Singh,lbw
+Royal Challengers Bangalore,Deccan Chargers,419151,2010-04-12,JH Kallis,27,40,1.0,0.0,0,0,0,32.0,67.5,PP Ojha,caught
+Royal Challengers Bangalore,Deccan Chargers,419151,2010-04-12,KP Appanna,1,1,0.0,0.0,0,0,0,5.0,100.0,RJ Harris,run out
+Royal Challengers Bangalore,Deccan Chargers,419151,2010-04-12,LRPL Taylor,1,5,0.0,0.0,0,0,0,5.0,20.0,RP Singh,bowled
+Royal Challengers Bangalore,Deccan Chargers,419151,2010-04-12,MK Pandey,0,1,0.0,0.0,0,0,1,2.0,0.0,RJ Harris,caught
+Royal Challengers Bangalore,Deccan Chargers,419151,2010-04-12,R Dravid,49,36,8.0,0.0,0,0,0,61.0,136.11111111111111,A Symonds,caught
+Royal Challengers Bangalore,Deccan Chargers,419151,2010-04-12,R Vinay Kumar,4,8,0.0,0.0,0,0,0,8.0,50.0,RJ Harris,bowled
+Royal Challengers Bangalore,Deccan Chargers,419151,2010-04-12,RV Uthappa,34,22,0.0,3.0,0,0,0,44.0,154.54545454545453,Harmeet Singh,bowled
+Royal Challengers Bangalore,Deccan Chargers,419151,2010-04-12,V Kohli,3,4,0.0,0.0,0,0,0,7.0,75.0,PP Ojha,caught

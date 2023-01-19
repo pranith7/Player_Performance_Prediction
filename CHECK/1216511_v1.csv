@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Rajasthan Royals,1216511,2020-10-06,HH Pandya,30,20,2.0,1.0,0,0,0,38.0,150.0,0,0
+Mumbai Indians,Rajasthan Royals,1216511,2020-10-06,Ishan Kishan,0,1,0.0,0.0,0,0,1,2.0,0.0,S Gopal,caught
+Mumbai Indians,Rajasthan Royals,1216511,2020-10-06,KH Pandya,12,17,0.0,1.0,0,0,0,18.0,70.58823529411765,JC Archer,caught
+Mumbai Indians,Rajasthan Royals,1216511,2020-10-06,Q de Kock,23,16,3.0,1.0,0,0,0,32.0,143.75,Kartik Tyagi,caught
+Mumbai Indians,Rajasthan Royals,1216511,2020-10-06,RG Sharma,35,24,2.0,3.0,0,0,0,47.0,145.83333333333331,S Gopal,caught
+Mumbai Indians,Rajasthan Royals,1216511,2020-10-06,SA Yadav,79,49,11.0,2.0,1,0,0,106.0,161.22448979591837,0,0
+Rajasthan Royals,Mumbai Indians,1216511,2020-10-06,AS Rajpoot,2,5,0.0,0.0,0,0,0,6.0,40.0,JL Pattinson,caught
+Rajasthan Royals,Mumbai Indians,1216511,2020-10-06,JC Archer,24,11,3.0,1.0,0,0,0,33.0,218.18181818181816,JJ Bumrah,caught
+Rajasthan Royals,Mumbai Indians,1216511,2020-10-06,JC Buttler,70,44,4.0,5.0,1,0,0,96.0,159.0909090909091,JL Pattinson,caught
+Rajasthan Royals,Mumbai Indians,1216511,2020-10-06,MK Lomror,11,13,1.0,0.0,0,0,0,16.0,84.61538461538461,RD Chahar,caught
+Rajasthan Royals,Mumbai Indians,1216511,2020-10-06,R Tewatia,5,6,1.0,0.0,0,0,0,10.0,83.33333333333334,JJ Bumrah,bowled
+Rajasthan Royals,Mumbai Indians,1216511,2020-10-06,S Gopal,1,2,0.0,0.0,0,0,0,5.0,50.0,JJ Bumrah,caught
+Rajasthan Royals,Mumbai Indians,1216511,2020-10-06,SPD Smith,6,7,1.0,0.0,0,0,0,11.0,85.71428571428571,JJ Bumrah,caught
+Rajasthan Royals,Mumbai Indians,1216511,2020-10-06,SV Samson,0,3,0.0,0.0,0,0,1,2.0,0.0,TA Boult,caught
+Rajasthan Royals,Mumbai Indians,1216511,2020-10-06,TK Curran,15,17,1.0,0.0,0,0,0,20.0,88.23529411764706,KA Pollard,caught
+Rajasthan Royals,Mumbai Indians,1216511,2020-10-06,YBK Jaiswal,0,2,0.0,0.0,0,0,1,2.0,0.0,TA Boult,caught

@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Delhi Daredevils,729293,2014-04-21,BB McCullum,9,10,1.0,0.0,0,0,0,14.0,90.0,JD Unadkat,caught
+Chennai Super Kings,Delhi Daredevils,729293,2014-04-21,DR Smith,29,29,3.0,0.0,0,0,0,36.0,100.0,S Nadeem,bowled
+Chennai Super Kings,Delhi Daredevils,729293,2014-04-21,F du Plessis,24,17,1.0,1.0,0,0,0,31.0,141.1764705882353,Mohammed Shami,caught
+Chennai Super Kings,Delhi Daredevils,729293,2014-04-21,M Manhas,13,6,2.0,0.0,0,0,0,19.0,216.66666666666663,0,0
+Chennai Super Kings,Delhi Daredevils,729293,2014-04-21,MS Dhoni,32,15,2.0,2.0,0,0,0,42.0,213.3333333333333,JD Unadkat,caught
+Chennai Super Kings,Delhi Daredevils,729293,2014-04-21,R Ashwin,1,1,0.0,0.0,0,0,0,5.0,100.0,Mohammed Shami,run out
+Chennai Super Kings,Delhi Daredevils,729293,2014-04-21,RA Jadeja,7,3,0.0,1.0,0,0,0,13.0,233.3333333333333,JD Unadkat,caught
+Chennai Super Kings,Delhi Daredevils,729293,2014-04-21,SK Raina,56,42,5.0,1.0,1,0,0,75.0,133.33333333333331,JDS Neesham,caught
+Delhi Daredevils,Chennai Super Kings,729293,2014-04-21,JD Unadkat,1,5,0.0,0.0,0,0,0,5.0,20.0,0,0
+Delhi Daredevils,Chennai Super Kings,729293,2014-04-21,JDS Neesham,22,15,2.0,0.0,0,0,0,28.0,146.66666666666666,RA Jadeja,caught
+Delhi Daredevils,Chennai Super Kings,729293,2014-04-21,JP Duminy,15,14,0.0,0.0,0,0,0,19.0,107.14285714285714,DR Smith,lbw
+Delhi Daredevils,Chennai Super Kings,729293,2014-04-21,KD Karthik,21,22,2.0,0.0,0,0,0,27.0,95.45454545454544,R Ashwin,bowled
+Delhi Daredevils,Chennai Super Kings,729293,2014-04-21,LRPL Taylor,6,7,1.0,0.0,0,0,0,11.0,85.71428571428571,BW Hilfenhaus,caught
+Delhi Daredevils,Chennai Super Kings,729293,2014-04-21,M Vijay,11,12,2.0,0.0,0,0,0,17.0,91.66666666666666,MM Sharma,caught
+Delhi Daredevils,Chennai Super Kings,729293,2014-04-21,MA Agarwal,2,7,0.0,0.0,0,0,0,6.0,28.57142857142857,IC Pandey,caught
+Delhi Daredevils,Chennai Super Kings,729293,2014-04-21,MK Tiwary,0,2,0.0,0.0,0,0,1,2.0,0.0,IC Pandey,caught
+Delhi Daredevils,Chennai Super Kings,729293,2014-04-21,Mohammed Shami,1,4,0.0,0.0,0,0,0,5.0,25.0,R Ashwin,caught
+Delhi Daredevils,Chennai Super Kings,729293,2014-04-21,S Nadeem,3,8,0.0,0.0,0,0,0,7.0,37.5,RA Jadeja,caught

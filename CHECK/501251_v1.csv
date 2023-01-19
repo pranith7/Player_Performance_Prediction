@@ -1,0 +1,21 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Mumbai Indians,501251,2011-05-10,AC Gilchrist,28,30,2.0,1.0,0,0,0,36.0,93.33333333333331,SL Malinga,caught
+Kings XI Punjab,Mumbai Indians,501251,2011-05-10,Bipul Sharma,6,4,0.0,0.0,0,0,0,10.0,150.0,0,0
+Kings XI Punjab,Mumbai Indians,501251,2011-05-10,DJ Hussey,0,3,0.0,0.0,0,0,1,2.0,0.0,MM Patel,caught
+Kings XI Punjab,Mumbai Indians,501251,2011-05-10,KD Karthik,31,24,4.0,1.0,0,0,0,41.0,129.16666666666669,MM Patel,caught
+Kings XI Punjab,Mumbai Indians,501251,2011-05-10,Mandeep Singh,8,5,0.0,1.0,0,0,0,14.0,160.0,SL Malinga,run out
+Kings XI Punjab,Mumbai Indians,501251,2011-05-10,P Kumar,2,2,0.0,0.0,0,0,0,6.0,100.0,SL Malinga,bowled
+Kings XI Punjab,Mumbai Indians,501251,2011-05-10,PC Valthaty,14,15,3.0,0.0,0,0,0,21.0,93.33333333333331,MM Patel,caught
+Kings XI Punjab,Mumbai Indians,501251,2011-05-10,RJ Harris,6,4,1.0,0.0,0,0,0,11.0,150.0,MM Patel,caught
+Kings XI Punjab,Mumbai Indians,501251,2011-05-10,SE Marsh,43,34,5.0,0.0,0,0,0,52.0,126.47058823529412,MM Patel,caught
+Kings XI Punjab,Mumbai Indians,501251,2011-05-10,SJ Srivastava,3,2,0.0,0.0,0,0,0,7.0,150.0,0,0
+Mumbai Indians,Kings XI Punjab,501251,2011-05-10,A Symonds,8,7,1.0,0.0,0,0,0,13.0,114.28571428571428,Bipul Sharma,run out
+Mumbai Indians,Kings XI Punjab,501251,2011-05-10,AC Blizzard,15,10,3.0,0.0,0,0,0,22.0,150.0,P Kumar,caught
+Mumbai Indians,Kings XI Punjab,501251,2011-05-10,AT Rayudu,13,19,2.0,0.0,0,0,0,19.0,68.42105263157895,SJ Srivastava,caught
+Mumbai Indians,Kings XI Punjab,501251,2011-05-10,DS Kulkarni,2,4,0.0,0.0,0,0,0,6.0,50.0,BA Bhatt,caught and bowled
+Mumbai Indians,Kings XI Punjab,501251,2011-05-10,Harbhajan Singh,12,7,1.0,1.0,0,0,0,19.0,171.42857142857142,BA Bhatt,bowled
+Mumbai Indians,Kings XI Punjab,501251,2011-05-10,KA Pollard,17,13,1.0,1.0,0,0,0,24.0,130.76923076923077,BA Bhatt,caught
+Mumbai Indians,Kings XI Punjab,501251,2011-05-10,MM Patel,0,1,0.0,0.0,0,0,1,2.0,0.0,BA Bhatt,lbw
+Mumbai Indians,Kings XI Punjab,501251,2011-05-10,RG Sharma,5,6,1.0,0.0,0,0,0,10.0,83.33333333333334,Bipul Sharma,stumped
+Mumbai Indians,Kings XI Punjab,501251,2011-05-10,SR Tendulkar,6,9,1.0,0.0,0,0,0,11.0,66.66666666666666,P Kumar,caught
+Mumbai Indians,Kings XI Punjab,501251,2011-05-10,TL Suman,4,5,0.0,0.0,0,0,0,8.0,80.0,RJ Harris,caught

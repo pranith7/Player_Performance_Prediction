@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Royal Challengers Bangalore,Sunrisers Hyderabad,1216534,2020-09-21,AB de Villiers,51,30,4.0,2.0,1,0,0,71.0,170.0,B Kumar,run out
+Royal Challengers Bangalore,Sunrisers Hyderabad,1216534,2020-09-21,AJ Finch,29,27,1.0,2.0,0,0,0,38.0,107.40740740740742,Abhishek Sharma,lbw
+Royal Challengers Bangalore,Sunrisers Hyderabad,1216534,2020-09-21,D Padikkal,56,44,8.0,0.0,1,0,0,76.0,127.27272727272728,V Shankar,bowled
+Royal Challengers Bangalore,Sunrisers Hyderabad,1216534,2020-09-21,JR Philippe,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Royal Challengers Bangalore,Sunrisers Hyderabad,1216534,2020-09-21,S Dube,7,8,0.0,0.0,0,0,0,11.0,87.5,B Kumar,run out
+Royal Challengers Bangalore,Sunrisers Hyderabad,1216534,2020-09-21,V Kohli,14,13,0.0,0.0,0,0,0,18.0,107.6923076923077,T Natarajan,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,1216534,2020-09-21,Abhishek Sharma,7,4,1.0,0.0,0,0,0,12.0,175.0,S Dube,run out
+Sunrisers Hyderabad,Royal Challengers Bangalore,1216534,2020-09-21,B Kumar,0,2,0.0,0.0,0,0,1,2.0,0.0,NA Saini,bowled
+Sunrisers Hyderabad,Royal Challengers Bangalore,1216534,2020-09-21,DA Warner,6,6,1.0,0.0,0,0,0,11.0,100.0,UT Yadav,run out
+Sunrisers Hyderabad,Royal Challengers Bangalore,1216534,2020-09-21,JM Bairstow,61,46,6.0,2.0,1,0,0,83.0,132.6086956521739,YS Chahal,bowled
+Sunrisers Hyderabad,Royal Challengers Bangalore,1216534,2020-09-21,MK Pandey,34,33,3.0,1.0,0,0,0,43.0,103.03030303030305,YS Chahal,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,1216534,2020-09-21,MR Marsh,0,1,0.0,0.0,0,0,1,2.0,0.0,S Dube,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,1216534,2020-09-21,PK Garg,12,13,1.0,0.0,0,0,0,17.0,92.3076923076923,S Dube,bowled
+Sunrisers Hyderabad,Royal Challengers Bangalore,1216534,2020-09-21,Rashid Khan,6,6,1.0,0.0,0,0,0,11.0,100.0,NA Saini,bowled
+Sunrisers Hyderabad,Royal Challengers Bangalore,1216534,2020-09-21,Sandeep Sharma,9,6,1.0,0.0,0,0,0,14.0,150.0,DW Steyn,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,1216534,2020-09-21,T Natarajan,3,4,0.0,0.0,0,0,0,7.0,75.0,0,0
+Sunrisers Hyderabad,Royal Challengers Bangalore,1216534,2020-09-21,V Shankar,0,1,0.0,0.0,0,0,1,2.0,0.0,YS Chahal,bowled

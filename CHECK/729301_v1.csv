@@ -1,0 +1,10 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Sunrisers Hyderabad,729301,2014-04-25,JP Duminy,20,7,1,2.0,0,0,0,29.0,285.7142857142857,0,0
+Delhi Daredevils,Sunrisers Hyderabad,729301,2014-04-25,KD Karthik,15,14,1,0.0,0,0,0,20.0,107.14285714285714,DW Steyn,caught
+Delhi Daredevils,Sunrisers Hyderabad,729301,2014-04-25,KP Pietersen,16,17,1,1.0,0,0,0,23.0,94.11764705882352,DW Steyn,caught
+Delhi Daredevils,Sunrisers Hyderabad,729301,2014-04-25,M Vijay,52,41,7,1.0,1,0,0,73.0,126.82926829268293,DJG Sammy,caught
+Delhi Daredevils,Sunrisers Hyderabad,729301,2014-04-25,MK Tiwary,23,13,2,1.0,0,0,0,31.0,176.9230769230769,0,0
+Delhi Daredevils,Sunrisers Hyderabad,729301,2014-04-25,Q de Kock,48,31,6,1.0,0,0,0,60.0,154.83870967741936,KV Sharma,caught
+Sunrisers Hyderabad,Delhi Daredevils,729301,2014-04-25,AJ Finch,88,54,8,4.0,1,0,0,116.0,162.96296296296296,0,0
+Sunrisers Hyderabad,Delhi Daredevils,729301,2014-04-25,DA Warner,58,45,3,3.0,1,0,0,79.0,128.88888888888889,0,0
+Sunrisers Hyderabad,Delhi Daredevils,729301,2014-04-25,S Dhawan,33,23,5,1.0,0,0,0,44.0,143.47826086956522,S Nadeem,caught

@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Capitals,Rajasthan Royals,1178428,2019-05-04,AR Patel,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Delhi Capitals,Rajasthan Royals,1178428,2019-05-04,CA Ingram,12,23,0.0,0.0,0,0,0,16.0,52.17391304347826,IS Sodhi,caught
+Delhi Capitals,Rajasthan Royals,1178428,2019-05-04,PP Shaw,8,8,1.0,0.0,0,0,0,13.0,100.0,IS Sodhi,bowled
+Delhi Capitals,Rajasthan Royals,1178428,2019-05-04,RR Pant,53,38,2.0,5.0,1,0,0,77.0,139.4736842105263,0,0
+Delhi Capitals,Rajasthan Royals,1178428,2019-05-04,S Dhawan,16,12,2.0,0.0,0,0,0,22.0,133.33333333333331,IS Sodhi,caught
+Delhi Capitals,Rajasthan Royals,1178428,2019-05-04,SE Rutherford,11,7,0.0,1.0,0,0,0,17.0,157.14285714285714,S Gopal,caught
+Delhi Capitals,Rajasthan Royals,1178428,2019-05-04,SS Iyer,15,9,0.0,2.0,0,0,0,23.0,166.66666666666669,S Gopal,caught
+Rajasthan Royals,Delhi Capitals,1178428,2019-05-04,AM Rahane,2,4,0.0,0.0,0,0,0,6.0,50.0,I Sharma,caught
+Rajasthan Royals,Delhi Capitals,1178428,2019-05-04,IS Sodhi,6,12,0.0,0.0,0,0,0,10.0,50.0,TA Boult,caught
+Rajasthan Royals,Delhi Capitals,1178428,2019-05-04,K Gowtham,6,6,1.0,0.0,0,0,0,11.0,100.0,A Mishra,caught
+Rajasthan Royals,Delhi Capitals,1178428,2019-05-04,LS Livingstone,14,13,1.0,1.0,0,0,0,21.0,107.6923076923077,I Sharma,bowled
+Rajasthan Royals,Delhi Capitals,1178428,2019-05-04,MK Lomror,8,3,2.0,0.0,0,0,0,14.0,266.66666666666663,I Sharma,caught
+Rajasthan Royals,Delhi Capitals,1178428,2019-05-04,R Parag,50,53,4.0,2.0,1,0,0,70.0,94.33962264150944,TA Boult,caught
+Rajasthan Royals,Delhi Capitals,1178428,2019-05-04,S Gopal,12,18,0.0,0.0,0,0,0,16.0,66.66666666666666,A Mishra,stumped
+Rajasthan Royals,Delhi Capitals,1178428,2019-05-04,STR Binny,0,1,0.0,0.0,0,0,1,2.0,0.0,A Mishra,caught
+Rajasthan Royals,Delhi Capitals,1178428,2019-05-04,SV Samson,5,9,0.0,0.0,0,0,0,9.0,55.55555555555556,AR Patel,run out
+Rajasthan Royals,Delhi Capitals,1178428,2019-05-04,VR Aaron,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,0,0

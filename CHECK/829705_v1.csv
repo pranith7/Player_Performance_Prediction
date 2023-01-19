@@ -1,0 +1,11 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Mumbai Indians,829705,2015-04-08,G Gambhir,57,44,7.0,1.0,1,0,0,78.0,129.54545454545453,JJ Bumrah,caught
+Kolkata Knight Riders,Mumbai Indians,829705,2015-04-08,MK Pandey,40,24,2.0,3.0,0,0,0,52.0,166.66666666666669,Harbhajan Singh,caught
+Kolkata Knight Riders,Mumbai Indians,829705,2015-04-08,RV Uthappa,9,12,0.0,1.0,0,0,0,15.0,75.0,CJ Anderson,caught
+Kolkata Knight Riders,Mumbai Indians,829705,2015-04-08,SA Yadav,46,21,1.0,5.0,0,0,0,61.0,219.0476190476191,0,0
+Kolkata Knight Riders,Mumbai Indians,829705,2015-04-08,YK Pathan,14,12,1.0,1.0,0,0,0,21.0,116.66666666666669,0,0
+Mumbai Indians,Kolkata Knight Riders,829705,2015-04-08,AJ Finch,5,5,1.0,0.0,0,0,0,10.0,100.0,M Morkel,caught
+Mumbai Indians,Kolkata Knight Riders,829705,2015-04-08,AP Tare,7,8,1.0,0.0,0,0,0,12.0,87.5,Shakib Al Hasan,caught
+Mumbai Indians,Kolkata Knight Riders,829705,2015-04-08,AT Rayudu,0,2,0.0,0.0,0,0,1,2.0,0.0,M Morkel,caught
+Mumbai Indians,Kolkata Knight Riders,829705,2015-04-08,CJ Anderson,55,41,4.0,3.0,1,0,0,77.0,134.14634146341464,0,0
+Mumbai Indians,Kolkata Knight Riders,829705,2015-04-08,RG Sharma,98,66,12.0,4.0,1,0,0,130.0,148.4848484848485,0,0

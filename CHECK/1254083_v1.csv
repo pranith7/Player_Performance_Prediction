@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Punjab Kings,Royal Challengers Bangalore,1254083,2021-04-30,CH Gayle,46,25,6.0,2.0,0,0,0,60.0,184.0,DR Sams,caught
+Punjab Kings,Royal Challengers Bangalore,1254083,2021-04-30,DJ Hooda,5,9,0.0,0.0,0,0,0,9.0,55.55555555555556,Shahbaz Ahmed,caught
+Punjab Kings,Royal Challengers Bangalore,1254083,2021-04-30,Harpreet Brar,25,17,1.0,2.0,0,0,0,34.0,147.05882352941177,0,0
+Punjab Kings,Royal Challengers Bangalore,1254083,2021-04-30,KL Rahul,91,59,7.0,5.0,1,0,0,120.0,154.23728813559322,0,0
+Punjab Kings,Royal Challengers Bangalore,1254083,2021-04-30,M Shahrukh Khan,0,3,0.0,0.0,0,0,1,2.0,0.0,YS Chahal,bowled
+Punjab Kings,Royal Challengers Bangalore,1254083,2021-04-30,N Pooran,0,4,0.0,0.0,0,0,1,2.0,0.0,KA Jamieson,caught
+Punjab Kings,Royal Challengers Bangalore,1254083,2021-04-30,P Simran Singh,7,7,1.0,0.0,0,0,0,12.0,100.0,KA Jamieson,caught
+Royal Challengers Bangalore,Punjab Kings,1254083,2021-04-30,AB de Villiers,3,9,0.0,0.0,0,0,0,7.0,33.33333333333333,Harpreet Brar,caught
+Royal Challengers Bangalore,Punjab Kings,1254083,2021-04-30,D Padikkal,7,6,0.0,1.0,0,0,0,13.0,116.66666666666669,RP Meredith,bowled
+Royal Challengers Bangalore,Punjab Kings,1254083,2021-04-30,DR Sams,3,4,0.0,0.0,0,0,0,7.0,75.0,Ravi Bishnoi,bowled
+Royal Challengers Bangalore,Punjab Kings,1254083,2021-04-30,GJ Maxwell,0,1,0.0,0.0,0,0,1,2.0,0.0,Harpreet Brar,bowled
+Royal Challengers Bangalore,Punjab Kings,1254083,2021-04-30,HV Patel,31,13,3.0,2.0,0,0,0,42.0,238.46153846153845,Mohammed Shami,caught
+Royal Challengers Bangalore,Punjab Kings,1254083,2021-04-30,KA Jamieson,16,11,1.0,1.0,0,0,0,23.0,145.45454545454547,0,0
+Royal Challengers Bangalore,Punjab Kings,1254083,2021-04-30,Mohammed Siraj,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Royal Challengers Bangalore,Punjab Kings,1254083,2021-04-30,RM Patidar,31,32,2.0,1.0,0,0,0,39.0,96.875,CJ Jordan,caught
+Royal Challengers Bangalore,Punjab Kings,1254083,2021-04-30,Shahbaz Ahmed,8,11,1.0,0.0,0,0,0,13.0,72.72727272727273,Ravi Bishnoi,caught
+Royal Challengers Bangalore,Punjab Kings,1254083,2021-04-30,V Kohli,35,34,3.0,1.0,0,0,0,44.0,102.94117647058825,Harpreet Brar,bowled

@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Mumbai Indians,1082635,2017-05-06,A Mishra,9,15,0.0,0.0,0,0,0,13.0,60.0,0,0
+Delhi Daredevils,Mumbai Indians,1082635,2017-05-06,CJ Anderson,10,8,2.0,0.0,0,0,0,16.0,125.0,SL Malinga,caught
+Delhi Daredevils,Mumbai Indians,1082635,2017-05-06,K Rabada,0,5,0.0,0.0,0,0,1,2.0,0.0,KV Sharma,caught
+Delhi Daredevils,Mumbai Indians,1082635,2017-05-06,KK Nair,21,15,3.0,1.0,0,0,0,30.0,140.0,Harbhajan Singh,caught
+Delhi Daredevils,Mumbai Indians,1082635,2017-05-06,MN Samuels,1,5,0.0,0.0,0,0,0,5.0,20.0,KV Sharma,caught
+Delhi Daredevils,Mumbai Indians,1082635,2017-05-06,Mohammed Shami,7,4,0.0,1.0,0,0,0,13.0,175.0,Harbhajan Singh,caught
+Delhi Daredevils,Mumbai Indians,1082635,2017-05-06,PJ Cummins,10,10,0.0,1.0,0,0,0,16.0,100.0,Harbhajan Singh,caught
+Delhi Daredevils,Mumbai Indians,1082635,2017-05-06,RR Pant,0,3,0.0,0.0,0,0,1,2.0,0.0,JJ Bumrah,caught
+Delhi Daredevils,Mumbai Indians,1082635,2017-05-06,SS Iyer,3,6,0.0,0.0,0,0,0,7.0,50.0,SL Malinga,caught
+Delhi Daredevils,Mumbai Indians,1082635,2017-05-06,SV Samson,0,1,0.0,0.0,0,0,1,2.0,0.0,MJ McClenaghan,caught
+Delhi Daredevils,Mumbai Indians,1082635,2017-05-06,Z Khan,2,11,0.0,0.0,0,0,0,6.0,18.181818181818183,KV Sharma,caught
+Mumbai Indians,Delhi Daredevils,1082635,2017-05-06,HH Pandya,29,17,1.0,3.0,0,0,0,40.0,170.58823529411765,0,0
+Mumbai Indians,Delhi Daredevils,1082635,2017-05-06,KA Pollard,63,38,5.0,4.0,1,0,0,88.0,165.78947368421052,0,0
+Mumbai Indians,Delhi Daredevils,1082635,2017-05-06,LMP Simmons,66,44,5.0,4.0,1,0,0,91.0,150.0,CJ Anderson,caught
+Mumbai Indians,Delhi Daredevils,1082635,2017-05-06,PA Patel,25,23,3.0,0.0,0,0,0,32.0,108.69565217391305,A Mishra,stumped
+Mumbai Indians,Delhi Daredevils,1082635,2017-05-06,RG Sharma,10,6,1.0,0.0,0,0,0,15.0,166.66666666666669,K Rabada,caught

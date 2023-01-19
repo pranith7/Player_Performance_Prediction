@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Rajasthan Royals,829769,2015-05-01,AT Rayudu,53,27,4.0,3.0,1,0,0,75.0,196.2962962962963,0,0
+Mumbai Indians,Rajasthan Royals,829769,2015-05-01,KA Pollard,24,15,2.0,1.0,0,0,0,32.0,160.0,J Theron,caught
+Mumbai Indians,Rajasthan Royals,829769,2015-05-01,LMP Simmons,38,33,4.0,1.0,0,0,0,48.0,115.15151515151516,Ankit Sharma,lbw
+Mumbai Indians,Rajasthan Royals,829769,2015-05-01,PA Patel,23,14,5.0,0.0,0,0,0,32.0,164.28571428571428,DS Kulkarni,caught and bowled
+Mumbai Indians,Rajasthan Royals,829769,2015-05-01,RG Sharma,27,22,2.0,1.0,0,0,0,35.0,122.72727272727272,DS Kulkarni,caught
+Mumbai Indians,Rajasthan Royals,829769,2015-05-01,UBT Chand,13,14,1.0,0.0,0,0,0,18.0,92.85714285714286,TG Southee,caught
+Rajasthan Royals,Mumbai Indians,829769,2015-05-01,AM Rahane,16,14,2.0,0.0,0,0,0,22.0,114.28571428571428,R Vinay Kumar,caught
+Rajasthan Royals,Mumbai Indians,829769,2015-05-01,DJ Hooda,1,2,0.0,0.0,0,0,0,5.0,50.0,SL Malinga,caught
+Rajasthan Royals,Mumbai Indians,829769,2015-05-01,J Theron,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Rajasthan Royals,Mumbai Indians,829769,2015-05-01,KK Nair,7,6,1.0,0.0,0,0,0,12.0,116.66666666666669,MJ McClenaghan,caught
+Rajasthan Royals,Mumbai Indians,829769,2015-05-01,SPD Smith,23,22,2.0,0.0,0,0,0,29.0,104.54545454545456,MJ McClenaghan,caught
+Rajasthan Royals,Mumbai Indians,829769,2015-05-01,SR Watson,28,25,2.0,2.0,0,0,0,38.0,112.0,J Suchith,bowled
+Rajasthan Royals,Mumbai Indians,829769,2015-05-01,STR Binny,9,6,1.0,0.0,0,0,0,14.0,150.0,0,0
+Rajasthan Royals,Mumbai Indians,829769,2015-05-01,SV Samson,76,47,7.0,3.0,1,0,0,101.0,161.70212765957444,MJ McClenaghan,caught
+Rajasthan Royals,Mumbai Indians,829769,2015-05-01,TG Southee,6,5,0.0,0.0,0,0,0,10.0,120.0,R Vinay Kumar,run out

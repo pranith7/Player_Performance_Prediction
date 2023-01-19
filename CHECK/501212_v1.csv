@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Kings XI Punjab,501212,2011-04-16,A Mishra,0,1,0.0,0.0,0,0,1,2.0,0.0,PC Valthaty,lbw
+Deccan Chargers,Kings XI Punjab,501212,2011-04-16,B Chipli,14,12,2.0,0.0,0,0,0,20.0,116.66666666666669,PC Valthaty,caught
+Deccan Chargers,Kings XI Punjab,501212,2011-04-16,DB Ravi Teja,10,7,1.0,0.0,0,0,0,15.0,142.85714285714286,0,0
+Deccan Chargers,Kings XI Punjab,501212,2011-04-16,DT Christian,30,14,2.0,2.0,0,0,0,40.0,214.28571428571428,PC Valthaty,bowled
+Deccan Chargers,Kings XI Punjab,501212,2011-04-16,DW Steyn,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Deccan Chargers,Kings XI Punjab,501212,2011-04-16,JP Duminy,18,16,1.0,0.0,0,0,0,23.0,112.5,R McLaren,caught
+Deccan Chargers,Kings XI Punjab,501212,2011-04-16,KC Sangakkara,35,28,5.0,0.0,0,0,0,44.0,125.0,PP Chawla,caught
+Deccan Chargers,Kings XI Punjab,501212,2011-04-16,MS Gony,0,1,0.0,0.0,0,0,1,2.0,0.0,R McLaren,bowled
+Deccan Chargers,Kings XI Punjab,501212,2011-04-16,S Dhawan,45,36,5.0,1.0,0,0,0,56.0,125.0,PC Valthaty,caught
+Deccan Chargers,Kings XI Punjab,501212,2011-04-16,S Sohal,7,5,1.0,0.0,0,0,0,12.0,140.0,RJ Harris,caught
+Kings XI Punjab,Deccan Chargers,501212,2011-04-16,AC Gilchrist,61,49,5.0,3.0,1,0,0,84.0,124.48979591836736,A Mishra,caught
+Kings XI Punjab,Deccan Chargers,501212,2011-04-16,AM Nayar,13,10,2.0,0.0,0,0,0,19.0,130.0,0,0
+Kings XI Punjab,Deccan Chargers,501212,2011-04-16,KD Karthik,3,5,0.0,0.0,0,0,0,7.0,60.0,0,0
+Kings XI Punjab,Deccan Chargers,501212,2011-04-16,PC Valthaty,75,49,8.0,5.0,1,0,0,105.0,153.0612244897959,A Mishra,caught

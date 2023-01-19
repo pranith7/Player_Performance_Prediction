@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Deccan Chargers,336037,2008-05-27,JA Morkel,12,12,1.0,0.0,0,0,0,17.0,100.0,0,0
+Chennai Super Kings,Deccan Chargers,336037,2008-05-27,MS Dhoni,37,27,4.0,1.0,0,0,0,47.0,137.03703703703704,PP Ojha,caught
+Chennai Super Kings,Deccan Chargers,336037,2008-05-27,PA Patel,20,29,3.0,0.0,0,0,0,27.0,68.96551724137932,PM Sarvesh Kumar,caught
+Chennai Super Kings,Deccan Chargers,336037,2008-05-27,SK Raina,54,46,5.0,2.0,1,0,0,75.0,117.3913043478261,0,0
+Chennai Super Kings,Deccan Chargers,336037,2008-05-27,SP Fleming,14,10,3.0,0.0,0,0,0,21.0,140.0,DP Vijaykumar,caught
+Deccan Chargers,Chennai Super Kings,336037,2008-05-27,AC Gilchrist,5,8,0.0,0.0,0,0,0,9.0,62.5,MS Gony,caught
+Deccan Chargers,Chennai Super Kings,336037,2008-05-27,AS Yadav,0,1,0.0,0.0,0,0,1,2.0,0.0,JA Morkel,bowled
+Deccan Chargers,Chennai Super Kings,336037,2008-05-27,DB Ravi Teja,40,31,4.0,1.0,0,0,0,50.0,129.03225806451613,JA Morkel,caught
+Deccan Chargers,Chennai Super Kings,336037,2008-05-27,HH Gibbs,8,10,2.0,0.0,0,0,0,14.0,80.0,M Ntini,caught
+Deccan Chargers,Chennai Super Kings,336037,2008-05-27,PP Ojha,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Deccan Chargers,Chennai Super Kings,336037,2008-05-27,RP Singh,10,4,1.0,1.0,0,0,0,17.0,250.0,L Balaji,caught
+Deccan Chargers,Chennai Super Kings,336037,2008-05-27,SB Styris,20,20,3.0,0.0,0,0,0,27.0,100.0,M Muralitharan,bowled
+Deccan Chargers,Chennai Super Kings,336037,2008-05-27,Shahid Afridi,1,2,0.0,0.0,0,0,0,5.0,50.0,L Balaji,caught
+Deccan Chargers,Chennai Super Kings,336037,2008-05-27,Y Venugopal Rao,46,49,3.0,1.0,0,0,0,55.0,93.87755102040816,JA Morkel,run out

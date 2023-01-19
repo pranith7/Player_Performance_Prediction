@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Kolkata Knight Riders,392184,2009-04-19,AC Gilchrist,13,11,2.0,0.0,0,0,0,19.0,118.1818181818182,AB Dinda,caught
+Deccan Chargers,Kolkata Knight Riders,392184,2009-04-19,HH Gibbs,43,27,5.0,1.0,0,0,0,54.0,159.25925925925927,0,0
+Deccan Chargers,Kolkata Knight Riders,392184,2009-04-19,RG Sharma,36,32,3.0,2.0,0,0,0,47.0,112.5,0,0
+Deccan Chargers,Kolkata Knight Riders,392184,2009-04-19,VVS Laxman,10,10,1.0,1.0,0,0,0,17.0,100.0,AB Dinda,run out
+Kolkata Knight Riders,Deccan Chargers,392184,2009-04-19,A Chopra,11,20,2.0,0.0,0,0,0,17.0,55.00000000000001,PP Ojha,stumped
+Kolkata Knight Riders,Deccan Chargers,392184,2009-04-19,AB Agarkar,7,3,0.0,1.0,0,0,0,13.0,233.3333333333333,RP Singh,run out
+Kolkata Knight Riders,Deccan Chargers,392184,2009-04-19,AB Dinda,2,2,0.0,0.0,0,0,0,6.0,100.0,RP Singh,bowled
+Kolkata Knight Riders,Deccan Chargers,392184,2009-04-19,BB McCullum,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,RP Singh,caught
+Kolkata Knight Riders,Deccan Chargers,392184,2009-04-19,BJ Hodge,31,34,4.0,0.0,0,0,0,39.0,91.17647058823528,SB Styris,caught
+Kolkata Knight Riders,Deccan Chargers,392184,2009-04-19,CH Gayle,10,12,1.0,1.0,0,0,0,17.0,83.33333333333334,RP Singh,caught
+Kolkata Knight Riders,Deccan Chargers,392184,2009-04-19,I Sharma,9,9,0.0,1.0,0,0,0,15.0,100.0,RP Singh,bowled
+Kolkata Knight Riders,Deccan Chargers,392184,2009-04-19,LR Shukla,8,6,0.0,1.0,0,0,0,14.0,133.33333333333331,PP Ojha,stumped
+Kolkata Knight Riders,Deccan Chargers,392184,2009-04-19,M Kartik,10,10,0.0,0.0,0,0,0,14.0,100.0,0,0
+Kolkata Knight Riders,Deccan Chargers,392184,2009-04-19,MC Henriques,6,8,0.0,0.0,0,0,0,10.0,75.0,SB Styris,caught
+Kolkata Knight Riders,Deccan Chargers,392184,2009-04-19,SC Ganguly,1,12,0.0,0.0,0,0,0,5.0,8.333333333333332,Harmeet Singh,caught

@@ -1,0 +1,22 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Gujarat Lions,Kings XI Punjab,980955,2016-05-01,BB McCullum,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,MM Sharma,bowled
+Gujarat Lions,Kings XI Punjab,980955,2016-05-01,DJ Bravo,0,1,0.0,0.0,0,0,1,2.0,0.0,AR Patel,bowled
+Gujarat Lions,Kings XI Punjab,980955,2016-05-01,DR Smith,15,19,1.0,1.0,0,0,0,22.0,78.94736842105263,AR Patel,caught
+Gujarat Lions,Kings XI Punjab,980955,2016-05-01,DS Kulkarni,6,4,0.0,0.0,0,0,0,10.0,150.0,0,0
+Gujarat Lions,Kings XI Punjab,980955,2016-05-01,Ishan Kishan,27,24,3.0,0.0,0,0,0,34.0,112.5,MP Stoinis,run out
+Gujarat Lions,Kings XI Punjab,980955,2016-05-01,JP Faulkner,32,27,3.0,0.0,0,0,0,39.0,118.5185185185185,Sandeep Sharma,caught
+Gujarat Lions,Kings XI Punjab,980955,2016-05-01,KD Karthik,2,5,0.0,0.0,0,0,0,6.0,40.0,AR Patel,bowled
+Gujarat Lions,Kings XI Punjab,980955,2016-05-01,P Kumar,15,13,2.0,0.0,0,0,0,21.0,115.38461538461536,MM Sharma,caught
+Gujarat Lions,Kings XI Punjab,980955,2016-05-01,RA Jadeja,11,12,0.0,0.0,0,0,0,15.0,91.66666666666666,AR Patel,caught
+Gujarat Lions,Kings XI Punjab,980955,2016-05-01,SK Raina,18,15,2.0,1.0,0,0,0,26.0,120.0,MM Sharma,bowled
+Kings XI Punjab,Gujarat Lions,980955,2016-05-01,AR Patel,0,2,0.0,0.0,0,0,1,2.0,0.0,DJ Bravo,caught
+Kings XI Punjab,Gujarat Lions,980955,2016-05-01,DA Miller,31,27,2.0,0.0,0,0,0,37.0,114.8148148148148,DS Kulkarni,caught
+Kings XI Punjab,Gujarat Lions,980955,2016-05-01,GJ Maxwell,0,1,0.0,0.0,0,0,1,2.0,0.0,S Kaushik,caught
+Kings XI Punjab,Gujarat Lions,980955,2016-05-01,Gurkeerat Singh,0,3,0.0,0.0,0,0,1,2.0,0.0,RA Jadeja,run out
+Kings XI Punjab,Gujarat Lions,980955,2016-05-01,KC Cariappa,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,P Kumar,bowled
+Kings XI Punjab,Gujarat Lions,980955,2016-05-01,M Vijay,55,42,6.0,0.0,1,0,0,73.0,130.95238095238096,S Kaushik,caught
+Kings XI Punjab,Gujarat Lions,980955,2016-05-01,MM Sharma,1,2,0.0,0.0,0,0,0,5.0,50.0,P Kumar,bowled
+Kings XI Punjab,Gujarat Lions,980955,2016-05-01,MP Stoinis,27,19,3.0,1.0,0,0,0,36.0,142.10526315789474,RA Jadeja,stumped
+Kings XI Punjab,Gujarat Lions,980955,2016-05-01,SE Marsh,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,S Kaushik,caught
+Kings XI Punjab,Gujarat Lions,980955,2016-05-01,Sandeep Sharma,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Kings XI Punjab,Gujarat Lions,980955,2016-05-01,WP Saha,33,19,4.0,0.0,0,0,0,41.0,173.6842105263158,DJ Bravo,bowled

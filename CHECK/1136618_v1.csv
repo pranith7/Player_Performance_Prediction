@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Rajasthan Royals,1136618,2018-05-23,AD Russell,49,27,3.0,5.0,0,0,0,66.0,181.4814814814815,0,0
+Kolkata Knight Riders,Rajasthan Royals,1136618,2018-05-23,CA Lynn,18,23,2.0,0.0,0,0,0,24.0,78.26086956521739,S Gopal,caught and bowled
+Kolkata Knight Riders,Rajasthan Royals,1136618,2018-05-23,JPR Scantlebury-Searles,2,5,0.0,0.0,0,0,0,6.0,40.0,B Laughlin,caught
+Kolkata Knight Riders,Rajasthan Royals,1136618,2018-05-23,KD Karthik,52,38,4.0,2.0,1,0,0,72.0,136.8421052631579,B Laughlin,caught
+Kolkata Knight Riders,Rajasthan Royals,1136618,2018-05-23,N Rana,3,5,0.0,0.0,0,0,0,7.0,60.0,JC Archer,caught
+Kolkata Knight Riders,Rajasthan Royals,1136618,2018-05-23,RV Uthappa,3,9,0.0,0.0,0,0,0,7.0,33.33333333333333,K Gowtham,caught and bowled
+Kolkata Knight Riders,Rajasthan Royals,1136618,2018-05-23,SP Narine,4,2,1.0,0.0,0,0,0,9.0,200.0,K Gowtham,stumped
+Kolkata Knight Riders,Rajasthan Royals,1136618,2018-05-23,Shubman Gill,28,17,3.0,1.0,0,0,0,37.0,164.70588235294116,JC Archer,caught
+Rajasthan Royals,Kolkata Knight Riders,1136618,2018-05-23,AM Rahane,46,42,4.0,1.0,0,0,0,56.0,109.52380952380952,Kuldeep Yadav,caught and bowled
+Rajasthan Royals,Kolkata Knight Riders,1136618,2018-05-23,H Klaasen,18,18,1.0,0.0,0,0,0,23.0,100.0,0,0
+Rajasthan Royals,Kolkata Knight Riders,1136618,2018-05-23,K Gowtham,9,7,1.0,0.0,0,0,0,14.0,128.57142857142858,0,0
+Rajasthan Royals,Kolkata Knight Riders,1136618,2018-05-23,RA Tripathi,20,13,1.0,2.0,0,0,0,29.0,153.84615384615387,PP Chawla,caught and bowled
+Rajasthan Royals,Kolkata Knight Riders,1136618,2018-05-23,STR Binny,0,3,0.0,0.0,0,0,1,2.0,0.0,M Prasidh Krishna,caught
+Rajasthan Royals,Kolkata Knight Riders,1136618,2018-05-23,SV Samson,50,38,4.0,2.0,1,0,0,70.0,131.57894736842107,PP Chawla,caught

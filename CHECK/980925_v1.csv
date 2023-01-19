@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Kolkata Knight Riders,980925,2016-04-19,AR Patel,9,8,0.0,0.0,0,0,0,13.0,112.5,UT Yadav,caught
+Kings XI Punjab,Kolkata Knight Riders,980925,2016-04-19,DA Miller,6,7,1.0,0.0,0,0,0,11.0,85.71428571428571,YK Pathan,caught
+Kings XI Punjab,Kolkata Knight Riders,980925,2016-04-19,GJ Maxwell,4,9,0.0,0.0,0,0,0,8.0,44.44444444444444,SP Narine,caught
+Kings XI Punjab,Kolkata Knight Riders,980925,2016-04-19,KJ Abbott,12,6,0.0,1.0,0,0,0,18.0,200.0,0,0
+Kings XI Punjab,Kolkata Knight Riders,980925,2016-04-19,M Vijay,26,22,4.0,0.0,0,0,0,34.0,118.1818181818182,PP Chawla,bowled
+Kings XI Punjab,Kolkata Knight Riders,980925,2016-04-19,M Vohra,8,13,0.0,0.0,0,0,0,12.0,61.53846153846154,M Morkel,caught
+Kings XI Punjab,Kolkata Knight Riders,980925,2016-04-19,MM Sharma,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,M Morkel,caught
+Kings XI Punjab,Kolkata Knight Riders,980925,2016-04-19,P Sahu,1,1,0.0,0.0,0,0,0,5.0,100.0,UT Yadav,run out
+Kings XI Punjab,Kolkata Knight Riders,980925,2016-04-19,SE Marsh,56,41,5.0,1.0,1,0,0,75.0,136.58536585365854,0,0
+Kings XI Punjab,Kolkata Knight Riders,980925,2016-04-19,WP Saha,8,15,0.0,0.0,0,0,0,12.0,53.333333333333336,SP Narine,caught
+Kolkata Knight Riders,Kings XI Punjab,980925,2016-04-19,G Gambhir,34,35,3.0,0.0,0,0,0,41.0,97.14285714285714,P Sahu,caught
+Kolkata Knight Riders,Kings XI Punjab,980925,2016-04-19,MK Pandey,12,11,1.0,0.0,0,0,0,17.0,109.09090909090908,AR Patel,bowled
+Kolkata Knight Riders,Kings XI Punjab,980925,2016-04-19,RV Uthappa,53,29,9.0,0.0,1,0,0,74.0,182.7586206896552,P Sahu,lbw
+Kolkata Knight Riders,Kings XI Punjab,980925,2016-04-19,SA Yadav,11,9,2.0,0.0,0,0,0,17.0,122.22222222222224,0,0
+Kolkata Knight Riders,Kings XI Punjab,980925,2016-04-19,Shakib Al Hasan,11,15,1.0,0.0,0,0,0,16.0,73.33333333333333,AR Patel,caught
+Kolkata Knight Riders,Kings XI Punjab,980925,2016-04-19,YK Pathan,12,7,2.0,0.0,0,0,0,18.0,171.42857142857142,0,0

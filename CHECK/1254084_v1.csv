@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Mumbai Indians,1254084,2021-05-01,AT Rayudu,72,28,4.0,7.0,1,0,0,102.0,257.1428571428572,0,0
+Chennai Super Kings,Mumbai Indians,1254084,2021-05-01,F du Plessis,50,28,2.0,4.0,1,0,0,72.0,178.57142857142858,KA Pollard,caught
+Chennai Super Kings,Mumbai Indians,1254084,2021-05-01,MM Ali,58,36,5.0,5.0,1,0,0,85.0,161.11111111111111,JJ Bumrah,caught
+Chennai Super Kings,Mumbai Indians,1254084,2021-05-01,RA Jadeja,22,28,2.0,0.0,0,0,0,28.0,78.57142857142857,0,0
+Chennai Super Kings,Mumbai Indians,1254084,2021-05-01,RD Gaikwad,4,4,1.0,0.0,0,0,0,9.0,100.0,TA Boult,caught
+Chennai Super Kings,Mumbai Indians,1254084,2021-05-01,SK Raina,2,4,0.0,0.0,0,0,0,6.0,50.0,KA Pollard,caught
+Mumbai Indians,Chennai Super Kings,1254084,2021-05-01,HH Pandya,16,7,0.0,2.0,0,0,0,24.0,228.57142857142856,SM Curran,caught
+Mumbai Indians,Chennai Super Kings,1254084,2021-05-01,JDS Neesham,0,1,0.0,0.0,0,0,1,2.0,0.0,SM Curran,caught
+Mumbai Indians,Chennai Super Kings,1254084,2021-05-01,KA Pollard,87,39,6.0,8.0,1,0,0,121.0,223.0769230769231,0,0
+Mumbai Indians,Chennai Super Kings,1254084,2021-05-01,KH Pandya,32,23,2.0,2.0,0,0,0,42.0,139.1304347826087,SM Curran,lbw
+Mumbai Indians,Chennai Super Kings,1254084,2021-05-01,Q de Kock,38,29,4.0,1.0,0,0,0,48.0,131.0344827586207,MM Ali,caught and bowled
+Mumbai Indians,Chennai Super Kings,1254084,2021-05-01,RG Sharma,35,26,4.0,1.0,0,0,0,45.0,134.6153846153846,SN Thakur,caught
+Mumbai Indians,Chennai Super Kings,1254084,2021-05-01,SA Yadav,3,3,0.0,0.0,0,0,0,7.0,100.0,RA Jadeja,caught

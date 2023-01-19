@@ -1,0 +1,10 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Rajasthan Royals,501209,2011-04-15,G Gambhir,75,44,11.0,1.0,1,0,0,100.0,170.45454545454547,0,0
+Kolkata Knight Riders,Rajasthan Royals,501209,2011-04-15,JH Kallis,80,66,7.0,2.0,1,0,0,103.0,121.21212121212122,0,0
+Kolkata Knight Riders,Rajasthan Royals,501209,2011-04-15,MS Bisla,1,4,0.0,0.0,0,0,0,5.0,25.0,A Singh,run out
+Rajasthan Royals,Kolkata Knight Riders,501209,2011-04-15,AG Paunikar,9,18,2.0,0.0,0,0,0,15.0,50.0,Shakib Al Hasan,caught
+Rajasthan Royals,Kolkata Knight Riders,501209,2011-04-15,AL Menaria,27,22,2.0,1.0,0,0,0,35.0,122.72727272727272,YK Pathan,caught and bowled
+Rajasthan Royals,Kolkata Knight Riders,501209,2011-04-15,J Botha,12,12,0.0,0.0,0,0,0,16.0,100.0,0,0
+Rajasthan Royals,Kolkata Knight Riders,501209,2011-04-15,LRPL Taylor,35,27,2.0,2.0,0,0,0,45.0,129.62962962962962,0,0
+Rajasthan Royals,Kolkata Knight Riders,501209,2011-04-15,R Dravid,35,36,4.0,0.0,0,0,0,43.0,97.2222222222222,YK Pathan,bowled
+Rajasthan Royals,Kolkata Knight Riders,501209,2011-04-15,SR Watson,22,13,0.0,2.0,0,0,0,30.0,169.23076923076923,Shakib Al Hasan,bowled

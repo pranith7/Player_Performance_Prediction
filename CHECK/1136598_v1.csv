@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Rajasthan Royals,1136598,2018-05-06,AR Patel,4,5,0.0,0.0,0,0,0,8.0,80.0,K Gowtham,caught
+Kings XI Punjab,Rajasthan Royals,1136598,2018-05-06,CH Gayle,8,11,2.0,0.0,0,0,0,14.0,72.72727272727273,JC Archer,caught
+Kings XI Punjab,Rajasthan Royals,1136598,2018-05-06,KK Nair,31,23,2.0,2.0,0,0,0,41.0,134.7826086956522,Anureet Singh,bowled
+Kings XI Punjab,Rajasthan Royals,1136598,2018-05-06,KL Rahul,84,56,7.0,3.0,1,0,0,109.0,150.0,0,0
+Kings XI Punjab,Rajasthan Royals,1136598,2018-05-06,MA Agarwal,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,BA Stokes,caught
+Kings XI Punjab,Rajasthan Royals,1136598,2018-05-06,MP Stoinis,23,17,2.0,1.0,0,0,0,31.0,135.29411764705884,0,0
+Rajasthan Royals,Kings XI Punjab,1136598,2018-05-06,AM Rahane,5,7,0.0,0.0,0,0,0,9.0,71.42857142857143,AR Patel,caught
+Rajasthan Royals,Kings XI Punjab,1136598,2018-05-06,BA Stokes,12,9,2.0,0.0,0,0,0,18.0,133.33333333333331,Mujeeb Ur Rahman,caught
+Rajasthan Royals,Kings XI Punjab,1136598,2018-05-06,DJM Short,2,2,0.0,0.0,0,0,0,6.0,100.0,R Ashwin,caught
+Rajasthan Royals,Kings XI Punjab,1136598,2018-05-06,JC Archer,0,1,0.0,0.0,0,0,1,2.0,0.0,Mujeeb Ur Rahman,bowled
+Rajasthan Royals,Kings XI Punjab,1136598,2018-05-06,JC Buttler,51,39,7.0,0.0,1,0,0,70.0,130.76923076923077,Mujeeb Ur Rahman,caught
+Rajasthan Royals,Kings XI Punjab,1136598,2018-05-06,JD Unadkat,6,7,0.0,0.0,0,0,0,10.0,85.71428571428571,0,0
+Rajasthan Royals,Kings XI Punjab,1136598,2018-05-06,K Gowtham,5,4,1.0,0.0,0,0,0,10.0,125.0,AS Rajpoot,caught
+Rajasthan Royals,Kings XI Punjab,1136598,2018-05-06,RA Tripathi,11,13,1.0,0.0,0,0,0,16.0,84.61538461538461,AJ Tye,caught
+Rajasthan Royals,Kings XI Punjab,1136598,2018-05-06,S Gopal,24,16,3.0,0.0,0,0,0,31.0,150.0,AJ Tye,run out
+Rajasthan Royals,Kings XI Punjab,1136598,2018-05-06,SV Samson,28,23,2.0,1.0,0,0,0,36.0,121.73913043478262,AJ Tye,caught

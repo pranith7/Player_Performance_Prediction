@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Mumbai Indians,980933,2016-04-23,JP Duminy,49,31,3.0,2.0,0,0,0,60.0,158.06451612903226,0,0
+Delhi Daredevils,Mumbai Indians,980933,2016-04-23,KK Nair,5,5,1.0,0.0,0,0,0,10.0,100.0,Harbhajan Singh,caught
+Delhi Daredevils,Mumbai Indians,980933,2016-04-23,P Negi,10,13,1.0,0.0,0,0,0,15.0,76.92307692307693,0,0
+Delhi Daredevils,Mumbai Indians,980933,2016-04-23,Q de Kock,9,7,2.0,0.0,0,0,0,15.0,128.57142857142858,MJ McClenaghan,caught
+Delhi Daredevils,Mumbai Indians,980933,2016-04-23,SS Iyer,19,22,1.0,1.0,0,0,0,26.0,86.36363636363636,HH Pandya,caught
+Delhi Daredevils,Mumbai Indians,980933,2016-04-23,SV Samson,60,51,4.0,2.0,1,0,0,80.0,117.64705882352942,MJ McClenaghan,caught
+Mumbai Indians,Delhi Daredevils,980933,2016-04-23,AT Rayudu,25,23,4.0,0.0,0,0,0,33.0,108.69565217391305,A Mishra,bowled
+Mumbai Indians,Delhi Daredevils,980933,2016-04-23,HH Pandya,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Mumbai Indians,Delhi Daredevils,980933,2016-04-23,Harbhajan Singh,0,1,0.0,0.0,0,0,1,2.0,0.0,CH Morris,lbw
+Mumbai Indians,Delhi Daredevils,980933,2016-04-23,JC Buttler,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,A Mishra,lbw
+Mumbai Indians,Delhi Daredevils,980933,2016-04-23,KA Pollard,19,20,0.0,1.0,0,0,0,25.0,95.0,Z Khan,caught
+Mumbai Indians,Delhi Daredevils,980933,2016-04-23,KH Pandya,36,17,4.0,2.0,0,0,0,48.0,211.76470588235296,Z Khan,run out
+Mumbai Indians,Delhi Daredevils,980933,2016-04-23,PA Patel,1,4,0.0,0.0,0,0,0,5.0,25.0,Mohammed Shami,run out
+Mumbai Indians,Delhi Daredevils,980933,2016-04-23,RG Sharma,65,48,7.0,1.0,1,0,0,86.0,135.41666666666669,CH Morris,run out
+Mumbai Indians,Delhi Daredevils,980933,2016-04-23,TG Southee,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0

@@ -1,0 +1,8 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kochi Tuskers Kerala,Mumbai Indians,501210,2011-04-15,BB McCullum,81,64,10,2.0,1,0,0,107.0,126.5625,SL Malinga,bowled
+Kochi Tuskers Kerala,Mumbai Indians,501210,2011-04-15,BJ Hodge,11,7,2,0.0,0,0,0,17.0,157.14285714285714,0,0
+Kochi Tuskers Kerala,Mumbai Indians,501210,2011-04-15,DPMD Jayawardene,56,38,9,0.0,1,0,0,77.0,147.36842105263156,SL Malinga,bowled
+Kochi Tuskers Kerala,Mumbai Indians,501210,2011-04-15,RA Jadeja,25,12,2,2.0,0,0,0,35.0,208.3333333333333,0,0
+Mumbai Indians,Kochi Tuskers Kerala,501210,2011-04-15,AT Rayudu,53,33,3,4.0,1,0,0,76.0,160.6060606060606,R Vinay Kumar,run out
+Mumbai Indians,Kochi Tuskers Kerala,501210,2011-04-15,DJ Jacobs,12,22,1,0.0,0,0,0,17.0,54.54545454545454,RV Gomez,bowled
+Mumbai Indians,Kochi Tuskers Kerala,501210,2011-04-15,SR Tendulkar,100,71,12,3.0,1,1,0,146.0,140.8450704225352,0,0

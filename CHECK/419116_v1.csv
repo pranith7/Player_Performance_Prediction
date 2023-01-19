@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Delhi Daredevils,419116,2010-03-19,JA Morkel,0,3,0.0,0.0,0,0,1,2.0,0.0,TM Dilshan,caught
+Chennai Super Kings,Delhi Daredevils,419116,2010-03-19,JM Kemp,4,9,0.0,0.0,0,0,0,8.0,44.44444444444444,DP Nannes,bowled
+Chennai Super Kings,Delhi Daredevils,419116,2010-03-19,M Vijay,14,6,1.0,1.0,0,0,0,21.0,233.3333333333333,0,0
+Chennai Super Kings,Delhi Daredevils,419116,2010-03-19,ML Hayden,93,46,9.0,7.0,1,0,0,128.0,202.17391304347828,A Mishra,caught
+Chennai Super Kings,Delhi Daredevils,419116,2010-03-19,PA Patel,6,7,1.0,0.0,0,0,0,11.0,85.71428571428571,DP Nannes,run out
+Chennai Super Kings,Delhi Daredevils,419116,2010-03-19,S Badrinath,14,15,3.0,0.0,0,0,0,21.0,93.33333333333331,UT Yadav,caught
+Chennai Super Kings,Delhi Daredevils,419116,2010-03-19,SK Raina,49,37,3.0,3.0,0,0,0,62.0,132.43243243243242,0,0
+Delhi Daredevils,Chennai Super Kings,419116,2010-03-19,A Mishra,6,3,1.0,0.0,0,0,0,11.0,200.0,0,0
+Delhi Daredevils,Chennai Super Kings,419116,2010-03-19,AB de Villiers,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,R Ashwin,caught
+Delhi Daredevils,Chennai Super Kings,419116,2010-03-19,DA Warner,6,8,1.0,0.0,0,0,0,11.0,75.0,L Balaji,caught
+Delhi Daredevils,Chennai Super Kings,419116,2010-03-19,KD Karthik,19,14,2.0,0.0,0,0,0,25.0,135.71428571428572,Joginder Sharma,lbw
+Delhi Daredevils,Chennai Super Kings,419116,2010-03-19,M Manhas,32,22,5.0,0.0,0,0,0,41.0,145.45454545454547,0,0
+Delhi Daredevils,Chennai Super Kings,419116,2010-03-19,R Bhatia,21,9,1.0,2.0,0,0,0,30.0,233.3333333333333,L Balaji,caught
+Delhi Daredevils,Chennai Super Kings,419116,2010-03-19,TM Dilshan,15,25,1.0,0.0,0,0,0,20.0,60.0,M Muralitharan,caught
+Delhi Daredevils,Chennai Super Kings,419116,2010-03-19,V Sehwag,74,41,10.0,3.0,1,0,0,102.0,180.4878048780488,M Muralitharan,caught

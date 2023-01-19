@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Pune Warriors,501248,2011-05-08,AC Gilchrist,3,8,0.0,0.0,0,0,0,7.0,37.5,R Sharma,caught
+Kings XI Punjab,Pune Warriors,501248,2011-05-08,DJ Hussey,4,5,0.0,0.0,0,0,0,8.0,80.0,B Kumar,caught
+Kings XI Punjab,Pune Warriors,501248,2011-05-08,KD Karthik,30,27,3.0,0.0,0,0,0,37.0,111.11111111111111,MR Marsh,caught
+Kings XI Punjab,Pune Warriors,501248,2011-05-08,Mandeep Singh,6,11,0.0,0.0,0,0,0,10.0,54.54545454545454,WD Parnell,caught
+Kings XI Punjab,Pune Warriors,501248,2011-05-08,P Kumar,3,5,0.0,0.0,0,0,0,7.0,60.0,0,0
+Kings XI Punjab,Pune Warriors,501248,2011-05-08,PC Valthaty,23,22,4.0,0.0,0,0,0,31.0,104.54545454545456,R Sharma,caught
+Kings XI Punjab,Pune Warriors,501248,2011-05-08,RJ Harris,4,4,1.0,0.0,0,0,0,9.0,100.0,MR Marsh,caught
+Kings XI Punjab,Pune Warriors,501248,2011-05-08,SD Chitnis,9,9,1.0,0.0,0,0,0,14.0,100.0,WD Parnell,caught
+Kings XI Punjab,Pune Warriors,501248,2011-05-08,SE Marsh,32,28,3.0,1.0,0,0,0,41.0,114.28571428571428,B Kumar,bowled
+Kings XI Punjab,Pune Warriors,501248,2011-05-08,SJ Srivastava,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Pune Warriors,Kings XI Punjab,501248,2011-05-08,AA Jhunjhunwala,0,3,0.0,0.0,0,0,1,2.0,0.0,SJ Srivastava,caught
+Pune Warriors,Kings XI Punjab,501248,2011-05-08,CJ Ferguson,6,15,0.0,0.0,0,0,0,10.0,40.0,0,0
+Pune Warriors,Kings XI Punjab,501248,2011-05-08,JD Ryder,15,18,3.0,0.0,0,0,0,22.0,83.33333333333334,BA Bhatt,caught
+Pune Warriors,Kings XI Punjab,501248,2011-05-08,MK Pandey,28,33,3.0,0.0,0,0,0,35.0,84.84848484848484,P Kumar,bowled
+Pune Warriors,Kings XI Punjab,501248,2011-05-08,MR Marsh,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,0,0
+Pune Warriors,Kings XI Punjab,501248,2011-05-08,RV Uthappa,22,18,3.0,0.0,0,0,0,29.0,122.22222222222224,RJ Harris,caught
+Pune Warriors,Kings XI Punjab,501248,2011-05-08,Yuvraj Singh,35,16,5.0,2.0,0,0,0,48.0,218.75,SJ Srivastava,caught and bowled

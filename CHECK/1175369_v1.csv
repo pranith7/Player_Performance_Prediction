@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Rajasthan Royals,Royal Challengers Bangalore,1175369,2019-04-02,AM Rahane,22,21,4.0,0.0,0,0,0,30.0,104.76190476190476,YS Chahal,lbw
+Rajasthan Royals,Royal Challengers Bangalore,1175369,2019-04-02,BA Stokes,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Rajasthan Royals,Royal Challengers Bangalore,1175369,2019-04-02,JC Buttler,59,45,8.0,1.0,1,0,0,81.0,131.11111111111111,YS Chahal,caught
+Rajasthan Royals,Royal Challengers Bangalore,1175369,2019-04-02,RA Tripathi,34,24,3.0,1.0,0,0,0,43.0,141.66666666666669,0,0
+Rajasthan Royals,Royal Challengers Bangalore,1175369,2019-04-02,SPD Smith,38,32,2.0,1.0,0,0,0,46.0,118.75,Mohammed Siraj,caught
+Royal Challengers Bangalore,Rajasthan Royals,1175369,2019-04-02,AB de Villiers,13,9,2.0,0.0,0,0,0,19.0,144.44444444444443,S Gopal,caught and bowled
+Royal Challengers Bangalore,Rajasthan Royals,1175369,2019-04-02,MM Ali,18,9,2.0,1.0,0,0,0,26.0,200.0,0,0
+Royal Challengers Bangalore,Rajasthan Royals,1175369,2019-04-02,MP Stoinis,31,28,2.0,1.0,0,0,0,39.0,110.71428571428572,0,0
+Royal Challengers Bangalore,Rajasthan Royals,1175369,2019-04-02,PA Patel,67,41,9.0,1.0,1,0,0,90.0,163.41463414634146,JC Archer,caught
+Royal Challengers Bangalore,Rajasthan Royals,1175369,2019-04-02,SO Hetmyer,1,9,0.0,0.0,0,0,0,5.0,11.11111111111111,S Gopal,caught
+Royal Challengers Bangalore,Rajasthan Royals,1175369,2019-04-02,V Kohli,23,26,3.0,0.0,0,0,0,30.0,88.46153846153845,S Gopal,bowled

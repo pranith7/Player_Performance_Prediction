@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Pune Warriors,Royal Challengers Bangalore,598027,2013-04-23,AB Dinda,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Pune Warriors,Royal Challengers Bangalore,598027,2013-04-23,AG Murtaza,5,4,1.0,0.0,0,0,0,10.0,125.0,CH Gayle,stumped
+Pune Warriors,Royal Challengers Bangalore,598027,2013-04-23,AJ Finch,18,15,4.0,0.0,0,0,0,26.0,120.0,R Rampaul,caught
+Pune Warriors,Royal Challengers Bangalore,598027,2013-04-23,B Kumar,6,12,1.0,0.0,0,0,0,11.0,50.0,RP Singh,caught
+Pune Warriors,Royal Challengers Bangalore,598027,2013-04-23,IC Pandey,0,2,0.0,0.0,0,0,1,2.0,0.0,CH Gayle,bowled
+Pune Warriors,Royal Challengers Bangalore,598027,2013-04-23,LJ Wright,7,4,0.0,1.0,0,0,0,13.0,175.0,JD Unadkat,caught
+Pune Warriors,Royal Challengers Bangalore,598027,2013-04-23,M Manhas,11,13,1.0,0.0,0,0,0,16.0,84.61538461538461,0,0
+Pune Warriors,Royal Challengers Bangalore,598027,2013-04-23,MR Marsh,24,24,0.0,2.0,0,0,0,32.0,100.0,R Vinay Kumar,bowled
+Pune Warriors,Royal Challengers Bangalore,598027,2013-04-23,RV Uthappa,0,2,0.0,0.0,0,0,1,2.0,0.0,M Kartik,caught
+Pune Warriors,Royal Challengers Bangalore,598027,2013-04-23,SPD Smith,41,32,6.0,0.0,0,0,0,51.0,128.125,R Rampaul,caught
+Pune Warriors,Royal Challengers Bangalore,598027,2013-04-23,Yuvraj Singh,16,14,2.0,0.0,0,0,0,22.0,114.28571428571428,JD Unadkat,caught
+Royal Challengers Bangalore,Pune Warriors,598027,2013-04-23,AB de Villiers,31,9,3.0,3.0,0,0,0,44.0,344.44444444444446,MR Marsh,caught
+Royal Challengers Bangalore,Pune Warriors,598027,2013-04-23,CH Gayle,175,69,13.0,17.0,1,1,0,250.0,253.62318840579712,0,0
+Royal Challengers Bangalore,Pune Warriors,598027,2013-04-23,R Rampaul,0,1,0.0,0.0,0,0,1,2.0,0.0,AB Dinda,caught
+Royal Challengers Bangalore,Pune Warriors,598027,2013-04-23,SS Tiwary,2,2,0.0,0.0,0,0,0,6.0,100.0,AB Dinda,caught
+Royal Challengers Bangalore,Pune Warriors,598027,2013-04-23,TM Dilshan,33,38,5.0,0.0,0,0,0,42.0,86.8421052631579,LJ Wright,caught
+Royal Challengers Bangalore,Pune Warriors,598027,2013-04-23,V Kohli,11,9,0.0,1.0,0,0,0,17.0,122.22222222222224,AB Dinda,run out

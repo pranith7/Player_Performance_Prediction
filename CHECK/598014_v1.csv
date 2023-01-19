@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Rajasthan Royals,598014,2013-04-14,AC Gilchrist,0,2,0.0,0.0,0,0,1,2.0,0.0,S Sreesanth,caught
+Kings XI Punjab,Rajasthan Royals,598014,2013-04-14,Azhar Mahmood,23,20,3.0,0.0,0,0,0,30.0,115.0,KK Cooper,bowled
+Kings XI Punjab,Rajasthan Royals,598014,2013-04-14,DJ Hussey,41,31,4.0,1.0,0,0,0,51.0,132.25806451612902,SK Trivedi,caught
+Kings XI Punjab,Rajasthan Royals,598014,2013-04-14,Gurkeerat Singh,10,15,1.0,0.0,0,0,0,15.0,66.66666666666666,SK Trivedi,caught
+Kings XI Punjab,Rajasthan Royals,598014,2013-04-14,M Vohra,3,6,0.0,0.0,0,0,0,7.0,50.0,S Sreesanth,run out
+Kings XI Punjab,Rajasthan Royals,598014,2013-04-14,Mandeep Singh,2,9,0.0,0.0,0,0,0,6.0,22.22222222222222,S Sreesanth,caught
+Kings XI Punjab,Rajasthan Royals,598014,2013-04-14,P Awana,0,1,0.0,0.0,0,0,1,2.0,0.0,JP Faulkner,caught
+Kings XI Punjab,Rajasthan Royals,598014,2013-04-14,P Kumar,15,8,2.0,1.0,0,0,0,23.0,187.5,JP Faulkner,run out
+Kings XI Punjab,Rajasthan Royals,598014,2013-04-14,PP Chawla,7,9,0.0,0.0,0,0,0,11.0,77.77777777777779,KK Cooper,caught
+Kings XI Punjab,Rajasthan Royals,598014,2013-04-14,R Sathish,11,12,2.0,0.0,0,0,0,17.0,91.66666666666666,JP Faulkner,caught
+Kings XI Punjab,Rajasthan Royals,598014,2013-04-14,RJ Harris,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,0,0
+Rajasthan Royals,Kings XI Punjab,598014,2013-04-14,AM Rahane,34,43,3.0,0.0,0,0,0,41.0,79.06976744186046,0,0
+Rajasthan Royals,Kings XI Punjab,598014,2013-04-14,BJ Hodge,15,16,2.0,0.0,0,0,0,21.0,93.75,PP Chawla,lbw
+Rajasthan Royals,Kings XI Punjab,598014,2013-04-14,R Dravid,9,12,2.0,0.0,0,0,0,15.0,75.0,P Kumar,caught
+Rajasthan Royals,Kings XI Punjab,598014,2013-04-14,SR Watson,32,21,7.0,0.0,0,0,0,43.0,152.38095238095238,P Awana,caught
+Rajasthan Royals,Kings XI Punjab,598014,2013-04-14,STR Binny,0,4,0.0,0.0,0,0,1,2.0,0.0,P Kumar,caught
+Rajasthan Royals,Kings XI Punjab,598014,2013-04-14,SV Samson,27,23,3.0,0.0,0,0,0,34.0,117.3913043478261,0,0

@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Kolkata Knight Riders,1304047,2022-03-26,AT Rayudu,15,17,1.0,1.0,0,0,0,22.0,88.23529411764706,SP Narine,run out
+Chennai Super Kings,Kolkata Knight Riders,1304047,2022-03-26,DP Conway,3,8,0.0,0.0,0,0,0,7.0,37.5,UT Yadav,caught
+Chennai Super Kings,Kolkata Knight Riders,1304047,2022-03-26,MS Dhoni,50,38,7.0,1.0,1,0,0,71.0,131.57894736842107,0,0
+Chennai Super Kings,Kolkata Knight Riders,1304047,2022-03-26,RA Jadeja,26,29,0.0,1.0,0,0,0,32.0,89.65517241379311,0,0
+Chennai Super Kings,Kolkata Knight Riders,1304047,2022-03-26,RD Gaikwad,0,5,0.0,0.0,0,0,1,2.0,0.0,UT Yadav,caught
+Chennai Super Kings,Kolkata Knight Riders,1304047,2022-03-26,RV Uthappa,28,23,2.0,2.0,0,0,0,38.0,121.73913043478262,CV Varun,stumped
+Chennai Super Kings,Kolkata Knight Riders,1304047,2022-03-26,S Dube,3,6,0.0,0.0,0,0,0,7.0,50.0,AD Russell,caught
+Kolkata Knight Riders,Chennai Super Kings,1304047,2022-03-26,AM Rahane,44,34,6.0,1.0,0,0,0,56.0,129.41176470588235,MJ Santner,caught
+Kolkata Knight Riders,Chennai Super Kings,1304047,2022-03-26,N Rana,21,17,2.0,1.0,0,0,0,29.0,123.52941176470588,DJ Bravo,caught
+Kolkata Knight Riders,Chennai Super Kings,1304047,2022-03-26,SP Jackson,3,3,0.0,0.0,0,0,0,7.0,100.0,0,0
+Kolkata Knight Riders,Chennai Super Kings,1304047,2022-03-26,SS Iyer,20,19,1.0,0.0,0,0,0,25.0,105.26315789473684,0,0
+Kolkata Knight Riders,Chennai Super Kings,1304047,2022-03-26,SW Billings,25,22,1.0,1.0,0,0,0,32.0,113.63636363636364,DJ Bravo,caught
+Kolkata Knight Riders,Chennai Super Kings,1304047,2022-03-26,VR Iyer,16,16,2.0,0.0,0,0,0,22.0,100.0,DJ Bravo,caught

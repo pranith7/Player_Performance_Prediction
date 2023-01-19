@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Pune Warriors,501218,2011-04-20,A Symonds,16,15,2.0,0.0,0,0,0,22.0,106.66666666666669,0,0
+Mumbai Indians,Pune Warriors,501218,2011-04-20,AT Rayudu,37,40,4.0,0.0,0,0,0,45.0,92.5,AC Thomas,caught
+Mumbai Indians,Pune Warriors,501218,2011-04-20,JEC Franklin,6,8,1.0,0.0,0,0,0,11.0,75.0,SB Wagh,caught
+Mumbai Indians,Pune Warriors,501218,2011-04-20,RG Sharma,20,18,1.0,1.0,0,0,0,27.0,111.11111111111111,0,0
+Mumbai Indians,Pune Warriors,501218,2011-04-20,SR Tendulkar,35,40,2.0,0.0,0,0,0,41.0,87.5,R Sharma,caught
+Pune Warriors,Mumbai Indians,501218,2011-04-20,AC Thomas,0,2,0.0,0.0,0,0,1,2.0,0.0,0,0
+Pune Warriors,Mumbai Indians,501218,2011-04-20,JD Ryder,12,16,2.0,0.0,0,0,0,18.0,75.0,AN Ahmed,caught
+Pune Warriors,Mumbai Indians,501218,2011-04-20,M Kartik,11,13,1.0,0.0,0,0,0,16.0,84.61538461538461,SL Malinga,caught
+Pune Warriors,Mumbai Indians,501218,2011-04-20,M Manhas,0,1,0.0,0.0,0,0,1,2.0,0.0,AN Ahmed,caught
+Pune Warriors,Mumbai Indians,501218,2011-04-20,MD Mishra,12,10,2.0,0.0,0,0,0,18.0,120.0,AG Murtaza,caught
+Pune Warriors,Mumbai Indians,501218,2011-04-20,R Sharma,13,9,1.0,1.0,0,0,0,20.0,144.44444444444443,MM Patel,caught
+Pune Warriors,Mumbai Indians,501218,2011-04-20,RV Uthappa,45,37,6.0,1.0,0,0,0,57.0,121.62162162162164,AG Murtaza,caught
+Pune Warriors,Mumbai Indians,501218,2011-04-20,SB Wagh,2,2,0.0,0.0,0,0,0,6.0,100.0,SL Malinga,caught
+Pune Warriors,Mumbai Indians,501218,2011-04-20,TD Paine,2,9,0.0,0.0,0,0,0,6.0,22.22222222222222,MM Patel,bowled
+Pune Warriors,Mumbai Indians,501218,2011-04-20,WD Parnell,9,8,1.0,0.0,0,0,0,14.0,112.5,JEC Franklin,bowled
+Pune Warriors,Mumbai Indians,501218,2011-04-20,Yuvraj Singh,0,2,0.0,0.0,0,0,1,2.0,0.0,MM Patel,caught

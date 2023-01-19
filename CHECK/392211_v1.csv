@@ -1,0 +1,9 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Kolkata Knight Riders,392211,2009-05-05,DA Warner,36,23,5.0,1.0,0,0,0,47.0,156.52173913043478,AB Agarkar,caught
+Delhi Daredevils,Kolkata Knight Riders,392211,2009-05-05,G Gambhir,71,58,7.0,0.0,1,0,0,90.0,122.41379310344828,0,0
+Delhi Daredevils,Kolkata Knight Riders,392211,2009-05-05,TM Dilshan,42,35,5.0,1.0,0,0,0,53.0,120.0,0,0
+Kolkata Knight Riders,Delhi Daredevils,392211,2009-05-05,BB McCullum,35,32,1.0,3.0,0,0,0,46.0,109.375,PJ Sangwan,caught
+Kolkata Knight Riders,Delhi Daredevils,392211,2009-05-05,BJ Hodge,10,19,0.0,0.0,0,0,0,14.0,52.63157894736842,PJ Sangwan,caught
+Kolkata Knight Riders,Delhi Daredevils,392211,2009-05-05,MC Henriques,30,24,2.0,1.0,0,0,0,38.0,125.0,0,0
+Kolkata Knight Riders,Delhi Daredevils,392211,2009-05-05,MN van Wyk,74,48,11.0,0.0,1,0,0,97.0,154.16666666666669,A Nehra,bowled
+Kolkata Knight Riders,Delhi Daredevils,392211,2009-05-05,WP Saha,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0

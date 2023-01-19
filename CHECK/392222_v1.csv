@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Mumbai Indians,392222,2009-05-12,B Lee,8,12,1.0,0.0,0,0,0,13.0,66.66666666666666,SL Malinga,caught
+Kings XI Punjab,Mumbai Indians,392222,2009-05-12,IK Pathan,0,3,0.0,0.0,0,0,1,2.0,0.0,DJ Bravo,run out
+Kings XI Punjab,Mumbai Indians,392222,2009-05-12,K Goel,20,24,2.0,0.0,0,0,0,26.0,83.33333333333334,0,0
+Kings XI Punjab,Mumbai Indians,392222,2009-05-12,KC Sangakkara,8,20,0.0,0.0,0,0,0,12.0,40.0,Harbhajan Singh,bowled
+Kings XI Punjab,Mumbai Indians,392222,2009-05-12,LA Pomersbach,5,7,0.0,0.0,0,0,0,9.0,71.42857142857143,AM Rahane,bowled
+Kings XI Punjab,Mumbai Indians,392222,2009-05-12,S Sohal,43,26,5.0,3.0,0,0,0,58.0,165.3846153846154,DJ Bravo,run out
+Kings XI Punjab,Mumbai Indians,392222,2009-05-12,S Sreesanth,1,11,0.0,0.0,0,0,0,5.0,9.090909090909092,0,0
+Kings XI Punjab,Mumbai Indians,392222,2009-05-12,SM Katich,0,2,0.0,0.0,0,0,1,2.0,0.0,DS Kulkarni,caught
+Kings XI Punjab,Mumbai Indians,392222,2009-05-12,WA Mota,4,7,0.0,0.0,0,0,0,8.0,57.14285714285714,JP Duminy,caught
+Kings XI Punjab,Mumbai Indians,392222,2009-05-12,Yuvraj Singh,12,18,2.0,0.0,0,0,0,18.0,66.66666666666666,JP Duminy,caught
+Mumbai Indians,Kings XI Punjab,392222,2009-05-12,AM Rahane,1,5,0.0,0.0,0,0,0,5.0,20.0,PP Chawla,lbw
+Mumbai Indians,Kings XI Punjab,392222,2009-05-12,DJ Bravo,70,62,7.0,3.0,1,0,0,95.0,112.90322580645164,0,0
+Mumbai Indians,Kings XI Punjab,392222,2009-05-12,SR Tendulkar,41,29,4.0,1.0,0,0,0,51.0,141.3793103448276,0,0
+Mumbai Indians,Kings XI Punjab,392222,2009-05-12,ST Jayasuriya,4,8,1.0,0.0,0,0,0,9.0,50.0,B Lee,caught

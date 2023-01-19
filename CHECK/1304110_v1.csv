@@ -1,0 +1,21 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Capitals,Punjab Kings,1304110,2022-05-16,AR Patel,17,21,2.0,0.0,0,0,0,23.0,80.95238095238095,0,0
+Delhi Capitals,Punjab Kings,1304110,2022-05-16,DA Warner,0,1,0.0,0.0,0,0,1,2.0,0.0,LS Livingstone,caught
+Delhi Capitals,Punjab Kings,1304110,2022-05-16,Kuldeep Yadav,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Delhi Capitals,Punjab Kings,1304110,2022-05-16,Lalit Yadav,24,21,1.0,1.0,0,0,0,31.0,114.28571428571428,Arshdeep Singh,caught
+Delhi Capitals,Punjab Kings,1304110,2022-05-16,MR Marsh,63,49,4.0,3.0,1,0,0,85.0,128.57142857142858,K Rabada,caught
+Delhi Capitals,Punjab Kings,1304110,2022-05-16,R Powell,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,LS Livingstone,caught
+Delhi Capitals,Punjab Kings,1304110,2022-05-16,RR Pant,7,3,0.0,1.0,0,0,0,13.0,233.3333333333333,LS Livingstone,stumped
+Delhi Capitals,Punjab Kings,1304110,2022-05-16,SN Khan,32,16,5.0,1.0,0,0,0,43.0,200.0,Arshdeep Singh,caught
+Delhi Capitals,Punjab Kings,1304110,2022-05-16,SN Thakur,3,4,0.0,0.0,0,0,0,7.0,75.0,Arshdeep Singh,caught
+Punjab Kings,Delhi Capitals,1304110,2022-05-16,Arshdeep Singh,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,0,0
+Punjab Kings,Delhi Capitals,1304110,2022-05-16,Harpreet Brar,1,2,0.0,0.0,0,0,0,5.0,50.0,Kuldeep Yadav,bowled
+Punjab Kings,Delhi Capitals,1304110,2022-05-16,JM Bairstow,28,15,4.0,1.0,0,0,0,38.0,186.66666666666663,A Nortje,caught
+Punjab Kings,Delhi Capitals,1304110,2022-05-16,JM Sharma,44,35,3.0,2.0,0,0,0,55.0,125.71428571428572,SN Thakur,caught
+Punjab Kings,Delhi Capitals,1304110,2022-05-16,K Rabada,6,4,0.0,1.0,0,0,0,12.0,150.0,SN Thakur,caught
+Punjab Kings,Delhi Capitals,1304110,2022-05-16,LS Livingstone,3,5,0.0,0.0,0,0,0,7.0,60.0,Kuldeep Yadav,stumped
+Punjab Kings,Delhi Capitals,1304110,2022-05-16,MA Agarwal,0,2,0.0,0.0,0,0,1,2.0,0.0,AR Patel,bowled
+Punjab Kings,Delhi Capitals,1304110,2022-05-16,PBB Rajapaksa,4,6,1.0,0.0,0,0,0,9.0,66.66666666666666,SN Thakur,caught
+Punjab Kings,Delhi Capitals,1304110,2022-05-16,R Dhawan,4,13,0.0,0.0,0,0,0,8.0,30.76923076923077,AR Patel,bowled
+Punjab Kings,Delhi Capitals,1304110,2022-05-16,RD Chahar,25,25,2.0,1.0,0,0,0,33.0,100.0,0,0
+Punjab Kings,Delhi Capitals,1304110,2022-05-16,S Dhawan,19,16,3.0,0.0,0,0,0,26.0,118.75,SN Thakur,caught

@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Mumbai Indians,419125,2010-03-25,ML Hayden,20,15,4.0,0.0,0,0,0,28.0,133.33333333333331,Harbhajan Singh,lbw
+Chennai Super Kings,Mumbai Indians,419125,2010-03-25,PA Patel,8,13,1.0,0.0,0,0,0,13.0,61.53846153846154,R McLaren,bowled
+Chennai Super Kings,Mumbai Indians,419125,2010-03-25,S Badrinath,55,49,6.0,0.0,1,0,0,73.0,112.24489795918366,0,0
+Chennai Super Kings,Mumbai Indians,419125,2010-03-25,SK Raina,83,53,7.0,3.0,1,0,0,108.0,156.60377358490567,0,0
+Mumbai Indians,Chennai Super Kings,419125,2010-03-25,DJ Bravo,11,7,0.0,1.0,0,0,0,17.0,157.14285714285714,0,0
+Mumbai Indians,Chennai Super Kings,419125,2010-03-25,KA Pollard,20,9,3.0,1.0,0,0,0,29.0,222.22222222222223,M Muralitharan,bowled
+Mumbai Indians,Chennai Super Kings,419125,2010-03-25,R McLaren,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Mumbai Indians,Chennai Super Kings,419125,2010-03-25,R Sathish,5,9,0.0,0.0,0,0,0,9.0,55.55555555555556,Joginder Sharma,bowled
+Mumbai Indians,Chennai Super Kings,419125,2010-03-25,S Dhawan,56,37,5.0,3.0,1,0,0,79.0,151.35135135135135,SB Jakati,caught
+Mumbai Indians,Chennai Super Kings,419125,2010-03-25,SR Tendulkar,72,54,8.0,1.0,1,0,0,94.0,133.33333333333331,L Balaji,caught
+Mumbai Indians,Chennai Super Kings,419125,2010-03-25,SS Tiwary,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,M Muralitharan,lbw

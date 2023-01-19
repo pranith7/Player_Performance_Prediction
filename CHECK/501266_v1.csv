@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Royal Challengers Bangalore,501266,2011-05-22,DJ Bravo,5,5,1.0,0.0,0,0,0,10.0,100.0,DL Vettori,lbw
+Chennai Super Kings,Royal Challengers Bangalore,501266,2011-05-22,JA Morkel,5,10,0.0,0.0,0,0,0,9.0,50.0,A Mithun,caught
+Chennai Super Kings,Royal Challengers Bangalore,501266,2011-05-22,M Vijay,6,9,1.0,0.0,0,0,0,11.0,66.66666666666666,S Aravind,caught
+Chennai Super Kings,Royal Challengers Bangalore,501266,2011-05-22,MEK Hussey,4,8,0.0,0.0,0,0,0,8.0,50.0,Z Khan,bowled
+Chennai Super Kings,Royal Challengers Bangalore,501266,2011-05-22,MS Dhoni,70,40,3.0,6.0,1,0,0,97.0,175.0,0,0
+Chennai Super Kings,Royal Challengers Bangalore,501266,2011-05-22,R Ashwin,2,4,0.0,0.0,0,0,0,6.0,50.0,S Aravind,caught
+Chennai Super Kings,Royal Challengers Bangalore,501266,2011-05-22,S Badrinath,0,11,0.0,0.0,0,0,1,2.0,0.0,DL Vettori,caught
+Chennai Super Kings,Royal Challengers Bangalore,501266,2011-05-22,SK Raina,4,7,1.0,0.0,0,0,0,9.0,57.14285714285714,Z Khan,caught
+Chennai Super Kings,Royal Challengers Bangalore,501266,2011-05-22,WP Saha,22,32,1.0,1.0,0,0,0,29.0,68.75,V Kohli,caught
+Royal Challengers Bangalore,Chennai Super Kings,501266,2011-05-22,AB de Villiers,0,3,0.0,0.0,0,0,1,2.0,0.0,R Ashwin,stumped
+Royal Challengers Bangalore,Chennai Super Kings,501266,2011-05-22,CH Gayle,75,54,4.0,6.0,1,0,0,103.0,138.88888888888889,0,0
+Royal Challengers Bangalore,Chennai Super Kings,501266,2011-05-22,SS Tiwary,13,28,1.0,0.0,0,0,0,18.0,46.42857142857143,0,0
+Royal Challengers Bangalore,Chennai Super Kings,501266,2011-05-22,V Kohli,31,31,5.0,0.0,0,0,0,40.0,100.0,JA Morkel,caught

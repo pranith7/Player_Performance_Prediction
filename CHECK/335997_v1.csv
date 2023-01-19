@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Mumbai Indians,335997,2008-04-29,AB Agarkar,2,7,0.0,0.0,0,0,0,6.0,28.57142857142857,ST Jayasuriya,caught
+Kolkata Knight Riders,Mumbai Indians,335997,2008-04-29,BB McCullum,1,2,0.0,0.0,0,0,0,5.0,50.0,SM Pollock,lbw
+Kolkata Knight Riders,Mumbai Indians,335997,2008-04-29,DB Das,29,21,5.0,1.0,0,0,0,40.0,138.0952380952381,DJ Bravo,caught
+Kolkata Knight Riders,Mumbai Indians,335997,2008-04-29,DJ Hussey,17,20,3.0,0.0,0,0,0,24.0,85.0,ST Jayasuriya,caught
+Kolkata Knight Riders,Mumbai Indians,335997,2008-04-29,LR Shukla,40,24,4.0,2.0,0,0,0,52.0,166.66666666666669,0,0
+Kolkata Knight Riders,Mumbai Indians,335997,2008-04-29,M Kartik,10,12,1.0,0.0,0,0,0,15.0,83.33333333333334,CRD Fernando,caught
+Kolkata Knight Riders,Mumbai Indians,335997,2008-04-29,Mohammad Hafeez,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,ST Jayasuriya,caught
+Kolkata Knight Riders,Mumbai Indians,335997,2008-04-29,RT Ponting,19,31,1.0,0.0,0,0,0,24.0,61.29032258064516,ST Jayasuriya,run out
+Kolkata Knight Riders,Mumbai Indians,335997,2008-04-29,SC Ganguly,4,2,1.0,0.0,0,0,0,9.0,200.0,SM Pollock,caught
+Mumbai Indians,Kolkata Knight Riders,335997,2008-04-29,AM Rahane,4,12,1.0,0.0,0,0,0,9.0,33.33333333333333,AB Agarkar,caught
+Mumbai Indians,Kolkata Knight Riders,335997,2008-04-29,DJ Bravo,64,53,8.0,1.0,1,0,0,86.0,120.75471698113208,0,0
+Mumbai Indians,Kolkata Knight Riders,335997,2008-04-29,MK Pandey,0,4,0.0,0.0,0,0,1,2.0,0.0,AB Dinda,bowled
+Mumbai Indians,Kolkata Knight Riders,335997,2008-04-29,RV Uthappa,37,39,5.0,0.0,0,0,0,46.0,94.87179487179486,0,0
+Mumbai Indians,Kolkata Knight Riders,335997,2008-04-29,ST Jayasuriya,18,10,3.0,1.0,0,0,0,27.0,180.0,I Sharma,bowled

@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Rajasthan Royals,Royal Challengers Bangalore,729305,2014-04-26,AM Nayar,11,18,1.0,0.0,0,0,0,16.0,61.11111111111112,0,0
+Rajasthan Royals,Royal Challengers Bangalore,729305,2014-04-26,AM Rahane,23,20,4.0,0.0,0,0,0,31.0,115.0,MA Starc,caught
+Rajasthan Royals,Royal Challengers Bangalore,729305,2014-04-26,KK Nair,8,12,0.0,0.0,0,0,0,12.0,66.66666666666666,MA Starc,caught
+Rajasthan Royals,Royal Challengers Bangalore,729305,2014-04-26,SR Watson,24,24,1.0,2.0,0,0,0,33.0,100.0,YS Chahal,caught
+Rajasthan Royals,Royal Challengers Bangalore,729305,2014-04-26,SV Samson,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,R Rampaul,run out
+Royal Challengers Bangalore,Rajasthan Royals,729305,2014-04-26,AB Dinda,0,3,0.0,0.0,0,0,1,2.0,0.0,PV Tambe,lbw
+Royal Challengers Bangalore,Rajasthan Royals,729305,2014-04-26,AB de Villiers,0,1,0.0,0.0,0,0,1,2.0,0.0,KW Richardson,bowled
+Royal Challengers Bangalore,Rajasthan Royals,729305,2014-04-26,JA Morkel,7,13,1.0,0.0,0,0,0,12.0,53.84615384615385,PV Tambe,caught
+Royal Challengers Bangalore,Rajasthan Royals,729305,2014-04-26,MA Starc,18,16,2.0,0.0,0,0,0,24.0,112.5,R Bhatia,caught
+Royal Challengers Bangalore,Rajasthan Royals,729305,2014-04-26,PA Patel,1,1,0.0,0.0,0,0,0,5.0,100.0,STR Binny,run out
+Royal Challengers Bangalore,Rajasthan Royals,729305,2014-04-26,R Rampaul,13,13,0.0,1.0,0,0,0,19.0,100.0,PV Tambe,caught
+Royal Challengers Bangalore,Rajasthan Royals,729305,2014-04-26,S Rana,3,9,0.0,0.0,0,0,0,7.0,33.33333333333333,SR Watson,bowled
+Royal Challengers Bangalore,Rajasthan Royals,729305,2014-04-26,V Kohli,21,25,3.0,0.0,0,0,0,28.0,84.0,PV Tambe,caught
+Royal Challengers Bangalore,Rajasthan Royals,729305,2014-04-26,YV Takawale,0,3,0.0,0.0,0,0,1,2.0,0.0,STR Binny,caught
+Royal Challengers Bangalore,Rajasthan Royals,729305,2014-04-26,Yuvraj Singh,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,KW Richardson,caught

@@ -1,0 +1,11 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Sunrisers Hyderabad,1136606,2018-05-13,AT Rayudu,100,62,7.0,7.0,1,1,0,149.0,161.29032258064515,0,0
+Chennai Super Kings,Sunrisers Hyderabad,1136606,2018-05-13,MS Dhoni,20,15,1.0,1.0,0,0,0,27.0,133.33333333333331,0,0
+Chennai Super Kings,Sunrisers Hyderabad,1136606,2018-05-13,SK Raina,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,Sandeep Sharma,caught
+Chennai Super Kings,Sunrisers Hyderabad,1136606,2018-05-13,SR Watson,57,35,5.0,3.0,1,0,0,80.0,162.85714285714286,Shakib Al Hasan,run out
+Sunrisers Hyderabad,Chennai Super Kings,1136606,2018-05-13,AD Hales,2,9,0.0,0.0,0,0,0,6.0,22.22222222222222,DL Chahar,caught
+Sunrisers Hyderabad,Chennai Super Kings,1136606,2018-05-13,DJ Hooda,21,15,1.0,1.0,0,0,0,28.0,140.0,0,0
+Sunrisers Hyderabad,Chennai Super Kings,1136606,2018-05-13,KS Williamson,51,39,5.0,2.0,1,0,0,72.0,130.76923076923077,SN Thakur,caught
+Sunrisers Hyderabad,Chennai Super Kings,1136606,2018-05-13,MK Pandey,5,6,0.0,0.0,0,0,0,9.0,83.33333333333334,SN Thakur,caught
+Sunrisers Hyderabad,Chennai Super Kings,1136606,2018-05-13,S Dhawan,79,55,10.0,3.0,1,0,0,107.0,143.63636363636363,DJ Bravo,caught
+Sunrisers Hyderabad,Chennai Super Kings,1136606,2018-05-13,Shakib Al Hasan,8,6,1.0,0.0,0,0,0,13.0,133.33333333333331,0,0

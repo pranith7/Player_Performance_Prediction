@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kochi Tuskers Kerala,Rajasthan Royals,501258,2011-05-15,BB McCullum,29,12,1.0,4.0,0,0,0,42.0,241.66666666666663,ND Doshi,bowled
+Kochi Tuskers Kerala,Rajasthan Royals,501258,2011-05-15,BJ Hodge,33,18,5.0,2.0,0,0,0,46.0,183.3333333333333,0,0
+Kochi Tuskers Kerala,Rajasthan Royals,501258,2011-05-15,DPMD Jayawardene,6,3,1.0,0.0,0,0,0,11.0,200.0,JDP Oram,caught
+Kochi Tuskers Kerala,Rajasthan Royals,501258,2011-05-15,PA Patel,21,15,2.0,1.0,0,0,0,29.0,140.0,0,0
+Rajasthan Royals,Kochi Tuskers Kerala,501258,2011-05-15,AA Chavan,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,BJ Hodge,run out
+Rajasthan Royals,Kochi Tuskers Kerala,501258,2011-05-15,AL Menaria,31,30,3.0,1.0,0,0,0,40.0,103.33333333333334,BJ Hodge,caught
+Rajasthan Royals,Kochi Tuskers Kerala,501258,2011-05-15,AM Rahane,8,9,1.0,0.0,0,0,0,13.0,88.88888888888889,S Sreesanth,lbw
+Rajasthan Royals,Kochi Tuskers Kerala,501258,2011-05-15,FY Fazal,16,15,3.0,0.0,0,0,0,23.0,106.66666666666669,RP Singh,lbw
+Rajasthan Royals,Kochi Tuskers Kerala,501258,2011-05-15,JDP Oram,0,3,0.0,0.0,0,0,1,2.0,0.0,BJ Hodge,bowled
+Rajasthan Royals,Kochi Tuskers Kerala,501258,2011-05-15,ND Doshi,0,13,0.0,0.0,0,0,1,2.0,0.0,P Parameswaran,caught
+Rajasthan Royals,Kochi Tuskers Kerala,501258,2011-05-15,PR Shah,5,5,1.0,0.0,0,0,0,10.0,100.0,BJ Hodge,caught
+Rajasthan Royals,Kochi Tuskers Kerala,501258,2011-05-15,R Dravid,1,4,0.0,0.0,0,0,0,5.0,25.0,S Sreesanth,caught
+Rajasthan Royals,Kochi Tuskers Kerala,501258,2011-05-15,SK Warne,2,9,0.0,0.0,0,0,0,6.0,22.22222222222222,BJ Hodge,bowled
+Rajasthan Royals,Kochi Tuskers Kerala,501258,2011-05-15,SR Watson,20,13,0.0,3.0,0,0,0,30.0,153.84615384615387,P Parameswaran,bowled
+Rajasthan Royals,Kochi Tuskers Kerala,501258,2011-05-15,SW Tait,10,9,1.0,0.0,0,0,0,15.0,111.11111111111111,0,0

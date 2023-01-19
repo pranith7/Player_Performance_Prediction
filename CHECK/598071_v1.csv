@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Rajasthan Royals,Sunrisers Hyderabad,598071,2013-05-22,AM Rahane,18,20,0.0,1.0,0,0,0,24.0,90.0,A Mishra,caught and bowled
+Rajasthan Royals,Sunrisers Hyderabad,598071,2013-05-22,BJ Hodge,54,31,2.0,5.0,1,0,0,78.0,174.19354838709677,0,0
+Rajasthan Royals,Sunrisers Hyderabad,598071,2013-05-22,DH Yagnik,0,4,0.0,0.0,0,0,1,2.0,0.0,DJG Sammy,bowled
+Rajasthan Royals,Sunrisers Hyderabad,598071,2013-05-22,JP Faulkner,11,11,2.0,0.0,0,0,0,17.0,100.0,0,0
+Rajasthan Royals,Sunrisers Hyderabad,598071,2013-05-22,R Dravid,12,10,3.0,0.0,0,0,0,19.0,120.0,I Sharma,caught
+Rajasthan Royals,Sunrisers Hyderabad,598071,2013-05-22,SR Watson,24,15,5.0,0.0,0,0,0,33.0,160.0,KV Sharma,caught
+Rajasthan Royals,Sunrisers Hyderabad,598071,2013-05-22,STR Binny,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,DJG Sammy,bowled
+Rajasthan Royals,Sunrisers Hyderabad,598071,2013-05-22,SV Samson,10,21,0.0,0.0,0,0,0,14.0,47.61904761904761,DW Steyn,lbw
+Sunrisers Hyderabad,Rajasthan Royals,598071,2013-05-22,BB Samantray,14,12,2.0,0.0,0,0,0,20.0,116.66666666666669,JP Faulkner,run out
+Sunrisers Hyderabad,Rajasthan Royals,598071,2013-05-22,CL White,31,28,5.0,0.0,0,0,0,40.0,110.71428571428572,SK Trivedi,caught
+Sunrisers Hyderabad,Rajasthan Royals,598071,2013-05-22,DJG Sammy,29,22,0.0,3.0,0,0,0,39.0,131.8181818181818,SR Watson,run out
+Sunrisers Hyderabad,Rajasthan Royals,598071,2013-05-22,DW Steyn,4,2,0.0,0.0,0,0,0,8.0,200.0,0,0
+Sunrisers Hyderabad,Rajasthan Royals,598071,2013-05-22,GH Vihari,1,8,0.0,0.0,0,0,0,5.0,12.5,VS Malik,caught
+Sunrisers Hyderabad,Rajasthan Royals,598071,2013-05-22,KV Sharma,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Sunrisers Hyderabad,Rajasthan Royals,598071,2013-05-22,NLTC Perera,11,8,1.0,1.0,0,0,0,18.0,137.5,SR Watson,caught
+Sunrisers Hyderabad,Rajasthan Royals,598071,2013-05-22,PA Patel,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,VS Malik,caught
+Sunrisers Hyderabad,Rajasthan Royals,598071,2013-05-22,S Dhawan,33,39,3.0,0.0,0,0,0,40.0,84.61538461538461,JP Faulkner,caught

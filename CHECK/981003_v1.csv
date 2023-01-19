@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Sunrisers Hyderabad,981003,2016-05-20,CR Brathwaite,10,8,2.0,0.0,0,0,0,16.0,125.0,Mustafizur Rahman,caught
+Delhi Daredevils,Sunrisers Hyderabad,981003,2016-05-20,JP Duminy,17,15,1.0,0.0,0,0,0,22.0,113.33333333333331,BB Sran,caught
+Delhi Daredevils,Sunrisers Hyderabad,981003,2016-05-20,KK Nair,83,61,8.0,3.0,1,0,0,109.0,136.0655737704918,0,0
+Delhi Daredevils,Sunrisers Hyderabad,981003,2016-05-20,Q de Kock,2,11,0.0,0.0,0,0,0,6.0,18.181818181818183,BB Sran,caught
+Delhi Daredevils,Sunrisers Hyderabad,981003,2016-05-20,RR Pant,32,27,3.0,0.0,0,0,0,39.0,118.5185185185185,KV Sharma,run out
+Delhi Daredevils,Sunrisers Hyderabad,981003,2016-05-20,SV Samson,3,4,0.0,0.0,0,0,0,7.0,75.0,0,0
+Sunrisers Hyderabad,Delhi Daredevils,981003,2016-05-20,B Kumar,13,7,2.0,0.0,0,0,0,19.0,185.7142857142857,NM Coulter-Nile,run out
+Sunrisers Hyderabad,Delhi Daredevils,981003,2016-05-20,DA Warner,73,56,8.0,1.0,1,0,0,95.0,130.35714285714286,CR Brathwaite,caught
+Sunrisers Hyderabad,Delhi Daredevils,981003,2016-05-20,DJ Hooda,1,1,0.0,0.0,0,0,0,5.0,100.0,A Mishra,run out
+Sunrisers Hyderabad,Delhi Daredevils,981003,2016-05-20,EJG Morgan,14,10,0.0,1.0,0,0,0,20.0,140.0,NM Coulter-Nile,caught
+Sunrisers Hyderabad,Delhi Daredevils,981003,2016-05-20,MC Henriques,18,14,2.0,0.0,0,0,0,24.0,128.57142857142858,JP Duminy,caught
+Sunrisers Hyderabad,Delhi Daredevils,981003,2016-05-20,NV Ojha,16,14,0.0,1.0,0,0,0,22.0,114.28571428571428,0,0
+Sunrisers Hyderabad,Delhi Daredevils,981003,2016-05-20,S Dhawan,10,8,2.0,0.0,0,0,0,16.0,125.0,CR Brathwaite,run out
+Sunrisers Hyderabad,Delhi Daredevils,981003,2016-05-20,Yuvraj Singh,10,11,1.0,0.0,0,0,0,15.0,90.9090909090909,CR Brathwaite,bowled

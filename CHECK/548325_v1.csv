@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Mumbai Indians,548325,2012-04-16,DPMD Jayawardene,17,21,1.0,0.0,0,0,0,22.0,80.95238095238095,0,0
+Delhi Daredevils,Mumbai Indians,548325,2012-04-16,KP Pietersen,9,8,1.0,0.0,0,0,0,14.0,112.5,RP Singh,caught
+Delhi Daredevils,Mumbai Indians,548325,2012-04-16,LRPL Taylor,11,12,1.0,0.0,0,0,0,16.0,91.66666666666666,0,0
+Delhi Daredevils,Mumbai Indians,548325,2012-04-16,NV Ojha,13,17,2.0,0.0,0,0,0,19.0,76.47058823529412,RP Singh,caught
+Delhi Daredevils,Mumbai Indians,548325,2012-04-16,V Sehwag,32,37,2.0,1.0,0,0,0,40.0,86.48648648648648,PP Ojha,caught
+Mumbai Indians,Delhi Daredevils,548325,2012-04-16,AT Rayudu,4,12,0.0,0.0,0,0,0,8.0,33.33333333333333,AB Agarkar,run out
+Mumbai Indians,Delhi Daredevils,548325,2012-04-16,CJ McKay,8,15,0.0,0.0,0,0,0,12.0,53.333333333333336,IK Pathan,caught
+Mumbai Indians,Delhi Daredevils,548325,2012-04-16,DJ Jacobs,0,10,0.0,0.0,0,0,1,2.0,0.0,S Nadeem,bowled
+Mumbai Indians,Delhi Daredevils,548325,2012-04-16,Harbhajan Singh,33,23,5.0,1.0,0,0,0,44.0,143.47826086956522,M Morkel,caught
+Mumbai Indians,Delhi Daredevils,548325,2012-04-16,KA Pollard,1,4,0.0,0.0,0,0,0,5.0,25.0,UT Yadav,caught
+Mumbai Indians,Delhi Daredevils,548325,2012-04-16,KD Karthik,3,4,0.0,0.0,0,0,0,7.0,75.0,UT Yadav,caught
+Mumbai Indians,Delhi Daredevils,548325,2012-04-16,MM Patel,1,5,0.0,0.0,0,0,0,5.0,20.0,0,0
+Mumbai Indians,Delhi Daredevils,548325,2012-04-16,PP Ojha,3,12,0.0,0.0,0,0,0,7.0,25.0,AB Agarkar,bowled
+Mumbai Indians,Delhi Daredevils,548325,2012-04-16,RE Levi,1,4,0.0,0.0,0,0,0,5.0,25.0,S Nadeem,bowled
+Mumbai Indians,Delhi Daredevils,548325,2012-04-16,RG Sharma,29,27,5.0,0.0,0,0,0,38.0,107.40740740740742,AB Agarkar,caught
+Mumbai Indians,Delhi Daredevils,548325,2012-04-16,RP Singh,0,4,0.0,0.0,0,0,1,2.0,0.0,M Morkel,bowled

@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Delhi Capitals,1254114,2021-10-10,AT Rayudu,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,K Rabada,run out
+Chennai Super Kings,Delhi Capitals,1254114,2021-10-10,F du Plessis,1,2,0.0,0.0,0,0,0,5.0,50.0,A Nortje,bowled
+Chennai Super Kings,Delhi Capitals,1254114,2021-10-10,MM Ali,16,12,2.0,0.0,0,0,0,22.0,133.33333333333331,TK Curran,caught
+Chennai Super Kings,Delhi Capitals,1254114,2021-10-10,MS Dhoni,18,7,3.0,1.0,0,0,0,27.0,257.1428571428572,0,0
+Chennai Super Kings,Delhi Capitals,1254114,2021-10-10,RD Gaikwad,70,50,5.0,2.0,1,0,0,91.0,140.0,Avesh Khan,caught
+Chennai Super Kings,Delhi Capitals,1254114,2021-10-10,RV Uthappa,63,45,7.0,2.0,1,0,0,86.0,140.0,TK Curran,caught
+Chennai Super Kings,Delhi Capitals,1254114,2021-10-10,SN Thakur,0,2,0.0,0.0,0,0,1,2.0,0.0,TK Curran,caught
+Delhi Capitals,Chennai Super Kings,1254114,2021-10-10,AR Patel,10,11,1.0,0.0,0,0,0,15.0,90.9090909090909,MM Ali,caught
+Delhi Capitals,Chennai Super Kings,1254114,2021-10-10,PP Shaw,60,34,7.0,3.0,1,0,0,85.0,176.47058823529412,RA Jadeja,caught
+Delhi Capitals,Chennai Super Kings,1254114,2021-10-10,RR Pant,51,38,3.0,2.0,1,0,0,70.0,134.21052631578948,0,0
+Delhi Capitals,Chennai Super Kings,1254114,2021-10-10,S Dhawan,7,7,1.0,0.0,0,0,0,12.0,100.0,JR Hazlewood,caught
+Delhi Capitals,Chennai Super Kings,1254114,2021-10-10,SO Hetmyer,37,27,3.0,1.0,0,0,0,46.0,137.03703703703704,DJ Bravo,caught
+Delhi Capitals,Chennai Super Kings,1254114,2021-10-10,SS Iyer,1,8,0.0,0.0,0,0,0,5.0,12.5,JR Hazlewood,caught
+Delhi Capitals,Chennai Super Kings,1254114,2021-10-10,TK Curran,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0

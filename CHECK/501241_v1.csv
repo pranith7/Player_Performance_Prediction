@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Pune Warriors,501241,2011-05-04,A Symonds,3,3,0.0,0.0,0,0,0,7.0,100.0,JE Taylor,caught
+Mumbai Indians,Pune Warriors,501241,2011-05-04,AC Blizzard,6,6,1.0,0.0,0,0,0,11.0,100.0,AC Thomas,caught
+Mumbai Indians,Pune Warriors,501241,2011-05-04,AT Rayudu,27,28,2.0,0.0,0,0,0,33.0,96.42857142857144,Yuvraj Singh,caught
+Mumbai Indians,Pune Warriors,501241,2011-05-04,Harbhajan Singh,9,3,0.0,1.0,0,0,0,15.0,300.0,0,0
+Mumbai Indians,Pune Warriors,501241,2011-05-04,KA Pollard,28,23,2.0,2.0,0,0,0,38.0,121.73913043478262,JE Taylor,caught
+Mumbai Indians,Pune Warriors,501241,2011-05-04,RG Sharma,12,20,0.0,0.0,0,0,0,16.0,60.0,R Sharma,caught
+Mumbai Indians,Pune Warriors,501241,2011-05-04,SR Tendulkar,24,25,5.0,0.0,0,0,0,33.0,96.0,Yuvraj Singh,caught
+Mumbai Indians,Pune Warriors,501241,2011-05-04,TL Suman,36,16,3.0,3.0,0,0,0,49.0,225.0,R Sharma,caught
+Pune Warriors,Mumbai Indians,501241,2011-05-04,AA Jhunjhunwala,10,16,2.0,0.0,0,0,0,16.0,62.5,KA Pollard,caught
+Pune Warriors,Mumbai Indians,501241,2011-05-04,GC Smith,6,12,1.0,0.0,0,0,0,11.0,50.0,MM Patel,caught
+Pune Warriors,Mumbai Indians,501241,2011-05-04,JD Ryder,0,1,0.0,0.0,0,0,1,2.0,0.0,Harbhajan Singh,caught
+Pune Warriors,Mumbai Indians,501241,2011-05-04,M Manhas,0,1,0.0,0.0,0,0,1,2.0,0.0,SL Malinga,caught and bowled
+Pune Warriors,Mumbai Indians,501241,2011-05-04,MK Pandey,59,49,4.0,3.0,1,0,0,81.0,120.40816326530611,SL Malinga,caught
+Pune Warriors,Mumbai Indians,501241,2011-05-04,R Sharma,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Pune Warriors,Mumbai Indians,501241,2011-05-04,RV Uthappa,34,27,0.0,2.0,0,0,0,42.0,125.92592592592592,0,0
+Pune Warriors,Mumbai Indians,501241,2011-05-04,SB Wagh,0,1,0.0,0.0,0,0,1,2.0,0.0,KA Pollard,run out
+Pune Warriors,Mumbai Indians,501241,2011-05-04,Yuvraj Singh,20,16,1.0,2.0,0,0,0,29.0,125.0,SL Malinga,caught

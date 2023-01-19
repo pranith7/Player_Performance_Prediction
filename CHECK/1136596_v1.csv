@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Sunrisers Hyderabad,1136596,2018-05-05,DT Christian,7,9,0.0,0.0,0,0,0,11.0,77.77777777777779,0,0
+Delhi Daredevils,Sunrisers Hyderabad,1136596,2018-05-05,GJ Maxwell,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,Sandeep Sharma,run out
+Delhi Daredevils,Sunrisers Hyderabad,1136596,2018-05-05,NV Ojha,1,4,0.0,0.0,0,0,0,5.0,25.0,Rashid Khan,run out
+Delhi Daredevils,Sunrisers Hyderabad,1136596,2018-05-05,PP Shaw,65,37,6.0,3.0,1,0,0,89.0,175.67567567567568,Rashid Khan,caught
+Delhi Daredevils,Sunrisers Hyderabad,1136596,2018-05-05,RR Pant,18,20,1.0,0.0,0,0,0,23.0,90.0,Rashid Khan,lbw
+Delhi Daredevils,Sunrisers Hyderabad,1136596,2018-05-05,SS Iyer,44,36,3.0,2.0,0,0,0,55.0,122.22222222222224,S Kaul,caught
+Delhi Daredevils,Sunrisers Hyderabad,1136596,2018-05-05,V Shankar,23,13,1.0,1.0,0,0,0,30.0,176.9230769230769,0,0
+Sunrisers Hyderabad,Delhi Daredevils,1136596,2018-05-05,AD Hales,45,32,3.0,3.0,0,0,0,58.0,140.625,A Mishra,bowled
+Sunrisers Hyderabad,Delhi Daredevils,1136596,2018-05-05,KS Williamson,32,30,0.0,1.0,0,0,0,38.0,106.66666666666669,0,0
+Sunrisers Hyderabad,Delhi Daredevils,1136596,2018-05-05,MK Pandey,21,18,2.0,0.0,0,0,0,27.0,116.66666666666669,LE Plunkett,caught
+Sunrisers Hyderabad,Delhi Daredevils,1136596,2018-05-05,S Dhawan,33,31,2.0,1.0,0,0,0,41.0,106.4516129032258,A Mishra,bowled
+Sunrisers Hyderabad,Delhi Daredevils,1136596,2018-05-05,YK Pathan,27,13,2.0,2.0,0,0,0,37.0,207.6923076923077,0,0

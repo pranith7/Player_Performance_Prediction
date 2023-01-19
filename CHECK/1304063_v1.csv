@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Sunrisers Hyderabad,1304063,2022-04-09,AT Rayudu,27,27,4.0,0.0,0,0,0,35.0,100.0,Washington Sundar,caught
+Chennai Super Kings,Sunrisers Hyderabad,1304063,2022-04-09,CJ Jordan,6,4,0.0,0.0,0,0,0,10.0,150.0,0,0
+Chennai Super Kings,Sunrisers Hyderabad,1304063,2022-04-09,DJ Bravo,8,6,1.0,0.0,0,0,0,13.0,133.33333333333331,0,0
+Chennai Super Kings,Sunrisers Hyderabad,1304063,2022-04-09,MM Ali,48,35,3.0,2.0,0,0,0,59.0,137.14285714285714,AK Markram,caught
+Chennai Super Kings,Sunrisers Hyderabad,1304063,2022-04-09,MS Dhoni,3,6,0.0,0.0,0,0,0,7.0,50.0,M Jansen,caught
+Chennai Super Kings,Sunrisers Hyderabad,1304063,2022-04-09,RA Jadeja,23,18,2.0,1.0,0,0,0,31.0,127.77777777777776,B Kumar,caught
+Chennai Super Kings,Sunrisers Hyderabad,1304063,2022-04-09,RD Gaikwad,16,13,3.0,0.0,0,0,0,23.0,123.07692307692308,T Natarajan,bowled
+Chennai Super Kings,Sunrisers Hyderabad,1304063,2022-04-09,RV Uthappa,15,11,1.0,0.0,0,0,0,20.0,136.36363636363637,Washington Sundar,caught
+Chennai Super Kings,Sunrisers Hyderabad,1304063,2022-04-09,S Dube,3,5,0.0,0.0,0,0,0,7.0,60.0,T Natarajan,caught
+Sunrisers Hyderabad,Chennai Super Kings,1304063,2022-04-09,Abhishek Sharma,75,52,5.0,3.0,1,0,0,98.0,144.23076923076923,DJ Bravo,caught
+Sunrisers Hyderabad,Chennai Super Kings,1304063,2022-04-09,KS Williamson,32,40,2.0,1.0,0,0,0,40.0,80.0,Mukesh Choudhary,caught
+Sunrisers Hyderabad,Chennai Super Kings,1304063,2022-04-09,N Pooran,5,3,1.0,0.0,0,0,0,10.0,166.66666666666669,0,0
+Sunrisers Hyderabad,Chennai Super Kings,1304063,2022-04-09,RA Tripathi,39,15,5.0,2.0,0,0,0,52.0,260.0,0,0

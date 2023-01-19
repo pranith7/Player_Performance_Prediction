@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Rajasthan Royals,1175367,2019-03-31,AT Rayudu,1,8,0.0,0.0,0,0,0,5.0,12.5,JC Archer,caught
+Chennai Super Kings,Rajasthan Royals,1175367,2019-03-31,DJ Bravo,27,17,3.0,1.0,0,0,0,36.0,158.8235294117647,JC Archer,caught
+Chennai Super Kings,Rajasthan Royals,1175367,2019-03-31,KM Jadhav,8,3,2.0,0.0,0,0,0,14.0,266.66666666666663,DS Kulkarni,caught
+Chennai Super Kings,Rajasthan Royals,1175367,2019-03-31,MS Dhoni,75,49,4.0,4.0,1,0,0,99.0,153.0612244897959,0,0
+Chennai Super Kings,Rajasthan Royals,1175367,2019-03-31,RA Jadeja,8,3,0.0,1.0,0,0,0,14.0,266.66666666666663,0,0
+Chennai Super Kings,Rajasthan Royals,1175367,2019-03-31,SK Raina,36,33,4.0,1.0,0,0,0,46.0,109.09090909090908,JD Unadkat,bowled
+Chennai Super Kings,Rajasthan Royals,1175367,2019-03-31,SR Watson,13,13,1.0,1.0,0,0,0,20.0,100.0,BA Stokes,caught
+Rajasthan Royals,Chennai Super Kings,1175367,2019-03-31,AM Rahane,0,2,0.0,0.0,0,0,1,2.0,0.0,DL Chahar,caught
+Rajasthan Royals,Chennai Super Kings,1175367,2019-03-31,BA Stokes,46,26,1.0,3.0,0,0,0,57.0,176.9230769230769,DJ Bravo,caught
+Rajasthan Royals,Chennai Super Kings,1175367,2019-03-31,JC Archer,24,11,1.0,2.0,0,0,0,33.0,218.18181818181816,0,0
+Rajasthan Royals,Chennai Super Kings,1175367,2019-03-31,JC Buttler,6,7,1.0,0.0,0,0,0,11.0,85.71428571428571,SN Thakur,caught
+Rajasthan Royals,Chennai Super Kings,1175367,2019-03-31,K Gowtham,9,8,0.0,1.0,0,0,0,15.0,112.5,SN Thakur,caught
+Rajasthan Royals,Chennai Super Kings,1175367,2019-03-31,RA Tripathi,39,25,5.0,1.0,0,0,0,50.0,156.0,Imran Tahir,caught and bowled
+Rajasthan Royals,Chennai Super Kings,1175367,2019-03-31,S Gopal,0,3,0.0,0.0,0,0,1,2.0,0.0,DJ Bravo,caught
+Rajasthan Royals,Chennai Super Kings,1175367,2019-03-31,SPD Smith,28,33,2.0,0.0,0,0,0,34.0,84.84848484848484,Imran Tahir,caught
+Rajasthan Royals,Chennai Super Kings,1175367,2019-03-31,SV Samson,8,10,1.0,0.0,0,0,0,13.0,80.0,DL Chahar,caught

@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Kolkata Knight Riders,1216523,2020-10-10,GJ Maxwell,10,5,2.0,0.0,0,0,0,16.0,200.0,0,0
+Kings XI Punjab,Kolkata Knight Riders,1216523,2020-10-10,KL Rahul,74,58,6.0,0.0,1,0,0,92.0,127.58620689655172,M Prasidh Krishna,bowled
+Kings XI Punjab,Kolkata Knight Riders,1216523,2020-10-10,MA Agarwal,56,39,6.0,1.0,1,0,0,76.0,143.5897435897436,M Prasidh Krishna,caught
+Kings XI Punjab,Kolkata Knight Riders,1216523,2020-10-10,Mandeep Singh,0,1,0.0,0.0,0,0,1,2.0,0.0,SP Narine,caught
+Kings XI Punjab,Kolkata Knight Riders,1216523,2020-10-10,N Pooran,16,10,2.0,1.0,0,0,0,24.0,160.0,SP Narine,bowled
+Kings XI Punjab,Kolkata Knight Riders,1216523,2020-10-10,P Simran Singh,4,7,0.0,0.0,0,0,0,8.0,57.14285714285714,M Prasidh Krishna,caught
+Kolkata Knight Riders,Kings XI Punjab,1216523,2020-10-10,AD Russell,5,3,1.0,0.0,0,0,0,10.0,166.66666666666669,Arshdeep Singh,caught
+Kolkata Knight Riders,Kings XI Punjab,1216523,2020-10-10,EJG Morgan,24,24,2.0,1.0,0,0,0,32.0,100.0,Ravi Bishnoi,caught
+Kolkata Knight Riders,Kings XI Punjab,1216523,2020-10-10,KD Karthik,58,30,8.0,2.0,1,0,0,82.0,193.3333333333333,CJ Jordan,run out
+Kolkata Knight Riders,Kings XI Punjab,1216523,2020-10-10,N Rana,2,4,0.0,0.0,0,0,0,6.0,50.0,Arshdeep Singh,run out
+Kolkata Knight Riders,Kings XI Punjab,1216523,2020-10-10,PJ Cummins,5,6,0.0,0.0,0,0,0,9.0,83.33333333333334,0,0
+Kolkata Knight Riders,Kings XI Punjab,1216523,2020-10-10,RA Tripathi,4,10,1.0,0.0,0,0,0,9.0,40.0,Mohammed Shami,bowled
+Kolkata Knight Riders,Kings XI Punjab,1216523,2020-10-10,Shubman Gill,57,47,5.0,0.0,1,0,0,74.0,121.27659574468086,Mohammed Shami,run out

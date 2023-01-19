@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Mumbai Indians,729309,2014-04-27,JP Duminy,19,24,0.0,0.0,0,0,0,23.0,79.16666666666666,SL Malinga,caught
+Delhi Daredevils,Mumbai Indians,729309,2014-04-27,KD Karthik,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,SL Malinga,caught
+Delhi Daredevils,Mumbai Indians,729309,2014-04-27,KM Jadhav,14,10,2.0,0.0,0,0,0,20.0,140.0,0,0
+Delhi Daredevils,Mumbai Indians,729309,2014-04-27,KP Pietersen,26,18,2.0,1.0,0,0,0,34.0,144.44444444444443,0,0
+Delhi Daredevils,Mumbai Indians,729309,2014-04-27,M Vijay,40,35,4.0,1.0,0,0,0,50.0,114.28571428571428,RG Sharma,bowled
+Delhi Daredevils,Mumbai Indians,729309,2014-04-27,Q de Kock,16,24,2.0,0.0,0,0,0,22.0,66.66666666666666,CJ Anderson,caught
+Mumbai Indians,Delhi Daredevils,729309,2014-04-27,AP Tare,8,12,1.0,0.0,0,0,0,13.0,66.66666666666666,WD Parnell,caught
+Mumbai Indians,Delhi Daredevils,729309,2014-04-27,AT Rayudu,14,21,1.0,0.0,0,0,0,19.0,66.66666666666666,S Nadeem,caught
+Mumbai Indians,Delhi Daredevils,729309,2014-04-27,CJ Anderson,13,14,2.0,0.0,0,0,0,19.0,92.85714285714286,JD Unadkat,caught
+Mumbai Indians,Delhi Daredevils,729309,2014-04-27,CM Gautam,22,18,3.0,0.0,0,0,0,29.0,122.22222222222224,Mohammed Shami,run out
+Mumbai Indians,Delhi Daredevils,729309,2014-04-27,Harbhajan Singh,10,5,1.0,1.0,0,0,0,17.0,200.0,JD Unadkat,retired hurt
+Mumbai Indians,Delhi Daredevils,729309,2014-04-27,KA Pollard,33,30,2.0,2.0,0,0,0,43.0,110.0,0,0
+Mumbai Indians,Delhi Daredevils,729309,2014-04-27,MEK Hussey,10,19,0.0,0.0,0,0,0,14.0,52.63157894736842,JD Unadkat,bowled
+Mumbai Indians,Delhi Daredevils,729309,2014-04-27,RG Sharma,4,5,0.0,0.0,0,0,0,8.0,80.0,Mohammed Shami,run out

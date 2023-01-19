@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Pune Warriors,Rajasthan Royals,548358,2012-05-08,AD Mathews,11,12,0.0,0.0,0,0,0,15.0,91.66666666666666,SK Trivedi,run out
+Pune Warriors,Rajasthan Royals,548358,2012-05-08,AP Majumdar,30,20,1.0,2.0,0,0,0,39.0,150.0,J Botha,bowled
+Pune Warriors,Rajasthan Royals,548358,2012-05-08,M Manhas,11,9,1.0,0.0,0,0,0,16.0,122.22222222222224,SW Tait,bowled
+Pune Warriors,Rajasthan Royals,548358,2012-05-08,MJ Clarke,16,18,1.0,0.0,0,0,0,21.0,88.88888888888889,STR Binny,lbw
+Pune Warriors,Rajasthan Royals,548358,2012-05-08,RV Uthappa,13,20,0.0,0.0,0,0,0,17.0,65.0,SW Tait,caught
+Pune Warriors,Rajasthan Royals,548358,2012-05-08,SC Ganguly,14,19,1.0,0.0,0,0,0,19.0,73.68421052631578,SW Tait,caught
+Pune Warriors,Rajasthan Royals,548358,2012-05-08,SPD Smith,18,23,1.0,0.0,0,0,0,23.0,78.26086956521739,0,0
+Pune Warriors,Rajasthan Royals,548358,2012-05-08,WD Parnell,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Rajasthan Royals,Pune Warriors,548358,2012-05-08,AL Menaria,18,21,1.0,0.0,0,0,0,23.0,85.71428571428571,MJ Clarke,caught
+Rajasthan Royals,Pune Warriors,548358,2012-05-08,AM Rahane,0,3,0.0,0.0,0,0,1,2.0,0.0,B Kumar,caught
+Rajasthan Royals,Pune Warriors,548358,2012-05-08,OA Shah,4,7,0.0,0.0,0,0,0,8.0,57.14285714285714,0,0
+Rajasthan Royals,Pune Warriors,548358,2012-05-08,R Dravid,14,16,2.0,0.0,0,0,0,20.0,87.5,WD Parnell,caught
+Rajasthan Royals,Pune Warriors,548358,2012-05-08,SR Watson,90,51,10.0,4.0,1,0,0,120.0,176.47058823529412,0,0

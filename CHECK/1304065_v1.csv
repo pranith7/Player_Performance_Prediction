@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Capitals,Kolkata Knight Riders,1304065,2022-04-10,AR Patel,22,14,2.0,1.0,0,0,0,30.0,157.14285714285714,0,0
+Delhi Capitals,Kolkata Knight Riders,1304065,2022-04-10,DA Warner,61,45,6.0,2.0,1,0,0,83.0,135.55555555555557,UT Yadav,caught
+Delhi Capitals,Kolkata Knight Riders,1304065,2022-04-10,Lalit Yadav,1,4,0.0,0.0,0,0,0,5.0,25.0,SP Narine,lbw
+Delhi Capitals,Kolkata Knight Riders,1304065,2022-04-10,PP Shaw,51,30,7.0,2.0,1,0,0,74.0,170.0,CV Varun,bowled
+Delhi Capitals,Kolkata Knight Riders,1304065,2022-04-10,R Powell,8,6,0.0,1.0,0,0,0,14.0,133.33333333333331,SP Narine,caught
+Delhi Capitals,Kolkata Knight Riders,1304065,2022-04-10,RR Pant,27,15,2.0,2.0,0,0,0,37.0,180.0,AD Russell,caught
+Delhi Capitals,Kolkata Knight Riders,1304065,2022-04-10,SN Thakur,29,11,1.0,3.0,0,0,0,40.0,263.6363636363636,0,0
+Kolkata Knight Riders,Delhi Capitals,1304065,2022-04-10,AD Russell,24,22,3.0,0.0,0,0,0,31.0,109.09090909090908,SN Thakur,caught
+Kolkata Knight Riders,Delhi Capitals,1304065,2022-04-10,AM Rahane,8,14,1.0,0.0,0,0,0,13.0,57.14285714285714,KK Ahmed,caught
+Kolkata Knight Riders,Delhi Capitals,1304065,2022-04-10,CV Varun,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Kolkata Knight Riders,Delhi Capitals,1304065,2022-04-10,N Rana,30,21,0.0,3.0,0,0,0,40.0,142.85714285714286,Lalit Yadav,caught
+Kolkata Knight Riders,Delhi Capitals,1304065,2022-04-10,PJ Cummins,4,3,1.0,0.0,0,0,0,9.0,133.33333333333331,Kuldeep Yadav,lbw
+Kolkata Knight Riders,Delhi Capitals,1304065,2022-04-10,Rasikh Salam,7,6,1.0,0.0,0,0,0,12.0,116.66666666666669,SN Thakur,caught
+Kolkata Knight Riders,Delhi Capitals,1304065,2022-04-10,SP Narine,4,2,1.0,0.0,0,0,0,9.0,200.0,Kuldeep Yadav,caught
+Kolkata Knight Riders,Delhi Capitals,1304065,2022-04-10,SS Iyer,54,34,5.0,2.0,1,0,0,75.0,158.8235294117647,Kuldeep Yadav,stumped
+Kolkata Knight Riders,Delhi Capitals,1304065,2022-04-10,SW Billings,15,9,1.0,1.0,0,0,0,22.0,166.66666666666669,KK Ahmed,caught
+Kolkata Knight Riders,Delhi Capitals,1304065,2022-04-10,UT Yadav,0,1,0.0,0.0,0,0,1,2.0,0.0,Kuldeep Yadav,caught and bowled
+Kolkata Knight Riders,Delhi Capitals,1304065,2022-04-10,VR Iyer,18,8,1.0,2.0,0,0,0,27.0,225.0,KK Ahmed,caught

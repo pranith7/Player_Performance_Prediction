@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Rajasthan Royals,Royal Challengers Bangalore,1254103,2021-09-29,C Sakariya,2,2,0.0,0.0,0,0,0,6.0,100.0,HV Patel,caught
+Rajasthan Royals,Royal Challengers Bangalore,1254103,2021-09-29,CH Morris,14,12,2.0,0.0,0,0,0,20.0,116.66666666666669,HV Patel,caught
+Rajasthan Royals,Royal Challengers Bangalore,1254103,2021-09-29,E Lewis,58,38,5.0,3.0,1,0,0,81.0,152.63157894736844,GHS Garton,caught
+Rajasthan Royals,Royal Challengers Bangalore,1254103,2021-09-29,Kartik Tyagi,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Rajasthan Royals,Royal Challengers Bangalore,1254103,2021-09-29,LS Livingstone,6,9,0.0,0.0,0,0,0,10.0,66.66666666666666,YS Chahal,caught
+Rajasthan Royals,Royal Challengers Bangalore,1254103,2021-09-29,MK Lomror,3,5,0.0,0.0,0,0,0,7.0,60.0,YS Chahal,stumped
+Rajasthan Royals,Royal Challengers Bangalore,1254103,2021-09-29,R Parag,9,16,0.0,0.0,0,0,0,13.0,56.25,HV Patel,caught
+Rajasthan Royals,Royal Challengers Bangalore,1254103,2021-09-29,R Tewatia,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,Shahbaz Ahmed,caught
+Rajasthan Royals,Royal Challengers Bangalore,1254103,2021-09-29,SV Samson,19,15,0.0,2.0,0,0,0,27.0,126.66666666666666,Shahbaz Ahmed,caught
+Rajasthan Royals,Royal Challengers Bangalore,1254103,2021-09-29,YBK Jaiswal,31,22,3.0,2.0,0,0,0,42.0,140.9090909090909,DT Christian,caught
+Royal Challengers Bangalore,Rajasthan Royals,1254103,2021-09-29,AB de Villiers,4,1,1.0,0.0,0,0,0,9.0,400.0,0,0
+Royal Challengers Bangalore,Rajasthan Royals,1254103,2021-09-29,D Padikkal,22,19,4.0,0.0,0,0,0,30.0,115.78947368421052,Mustafizur Rahman,bowled
+Royal Challengers Bangalore,Rajasthan Royals,1254103,2021-09-29,GJ Maxwell,50,32,6.0,1.0,1,0,0,70.0,156.25,0,0
+Royal Challengers Bangalore,Rajasthan Royals,1254103,2021-09-29,KS Bharat,44,35,3.0,1.0,0,0,0,53.0,125.71428571428572,Mustafizur Rahman,caught
+Royal Challengers Bangalore,Rajasthan Royals,1254103,2021-09-29,V Kohli,25,20,4.0,0.0,0,0,0,33.0,125.0,CH Morris,run out

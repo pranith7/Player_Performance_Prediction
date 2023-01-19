@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Royal Challengers Bangalore,829737,2015-04-19,AT Rayudu,0,1,0.0,0.0,0,0,1,2.0,0.0,D Wiese,caught
+Mumbai Indians,Royal Challengers Bangalore,829737,2015-04-19,HH Pandya,16,7,0.0,2.0,0,0,0,24.0,228.57142857142856,0,0
+Mumbai Indians,Royal Challengers Bangalore,829737,2015-04-19,Harbhajan Singh,0,1,0.0,0.0,0,0,1,2.0,0.0,AN Ahmed,run out
+Mumbai Indians,Royal Challengers Bangalore,829737,2015-04-19,KA Pollard,5,3,1.0,0.0,0,0,0,10.0,166.66666666666669,D Wiese,caught
+Mumbai Indians,Royal Challengers Bangalore,829737,2015-04-19,LMP Simmons,59,46,9.0,2.0,1,0,0,84.0,128.26086956521738,YS Chahal,caught
+Mumbai Indians,Royal Challengers Bangalore,829737,2015-04-19,PA Patel,12,15,2.0,0.0,0,0,0,18.0,80.0,D Wiese,bowled
+Mumbai Indians,Royal Challengers Bangalore,829737,2015-04-19,RG Sharma,42,15,3.0,4.0,0,0,0,57.0,280.0,D Wiese,caught and bowled
+Mumbai Indians,Royal Challengers Bangalore,829737,2015-04-19,UBT Chand,58,40,8.0,2.0,1,0,0,82.0,145.0,YS Chahal,caught
+Royal Challengers Bangalore,Mumbai Indians,829737,2015-04-19,AB de Villiers,41,12,5.0,3.0,0,0,0,56.0,341.66666666666663,JJ Bumrah,caught
+Royal Challengers Bangalore,Mumbai Indians,829737,2015-04-19,AN Ahmed,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Royal Challengers Bangalore,Mumbai Indians,829737,2015-04-19,CH Gayle,10,31,0.0,0.0,0,0,0,14.0,32.25806451612903,Harbhajan Singh,bowled
+Royal Challengers Bangalore,Mumbai Indians,829737,2015-04-19,D Wiese,47,25,6.0,2.0,0,0,0,61.0,188.0,0,0
+Royal Challengers Bangalore,Mumbai Indians,829737,2015-04-19,Iqbal Abdulla,20,17,4.0,0.0,0,0,0,28.0,117.64705882352942,KA Pollard,run out
+Royal Challengers Bangalore,Mumbai Indians,829737,2015-04-19,KD Karthik,18,12,1.0,1.0,0,0,0,25.0,150.0,SL Malinga,caught
+Royal Challengers Bangalore,Mumbai Indians,829737,2015-04-19,MS Bisla,20,16,3.0,1.0,0,0,0,29.0,125.0,Harbhajan Singh,bowled
+Royal Challengers Bangalore,Mumbai Indians,829737,2015-04-19,RR Rossouw,0,1,0.0,0.0,0,0,1,2.0,0.0,Harbhajan Singh,bowled
+Royal Challengers Bangalore,Mumbai Indians,829737,2015-04-19,V Kohli,18,19,1.0,1.0,0,0,0,25.0,94.73684210526316,MJ McClenaghan,caught

@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Kolkata Knight Riders,598034,2013-04-28,MEK Hussey,95,59,11.0,2.0,1,0,0,122.0,161.01694915254237,SP Narine,caught
+Chennai Super Kings,Kolkata Knight Riders,598034,2013-04-28,MS Dhoni,18,13,1.0,1.0,0,0,0,25.0,138.46153846153845,0,0
+Chennai Super Kings,Kolkata Knight Riders,598034,2013-04-28,RA Jadeja,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Chennai Super Kings,Kolkata Knight Riders,598034,2013-04-28,SK Raina,44,25,4.0,1.0,0,0,0,54.0,176.0,L Balaji,run out
+Chennai Super Kings,Kolkata Knight Riders,598034,2013-04-28,WP Saha,39,24,4.0,2.0,0,0,0,51.0,162.5,R Bhatia,caught
+Kolkata Knight Riders,Chennai Super Kings,598034,2013-04-28,BB McCullum,6,7,1.0,0.0,0,0,0,11.0,85.71428571428571,MM Sharma,bowled
+Kolkata Knight Riders,Chennai Super Kings,598034,2013-04-28,EJG Morgan,32,25,2.0,2.0,0,0,0,42.0,128.0,0,0
+Kolkata Knight Riders,Chennai Super Kings,598034,2013-04-28,G Gambhir,14,8,3.0,0.0,0,0,0,21.0,175.0,CH Morris,bowled
+Kolkata Knight Riders,Chennai Super Kings,598034,2013-04-28,JH Kallis,19,20,0.0,1.0,0,0,0,25.0,95.0,DJ Bravo,caught
+Kolkata Knight Riders,Chennai Super Kings,598034,2013-04-28,MS Bisla,92,64,14.0,2.0,1,0,0,122.0,143.75,DJ Bravo,run out
+Kolkata Knight Riders,Chennai Super Kings,598034,2013-04-28,YK Pathan,3,3,0.0,0.0,0,0,0,7.0,100.0,0,0

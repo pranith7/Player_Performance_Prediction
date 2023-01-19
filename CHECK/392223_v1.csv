@@ -1,0 +1,20 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Delhi Daredevils,392223,2009-05-13,A Symonds,41,23,3.0,2.0,0,0,0,52.0,178.26086956521738,R Bhatia,bowled
+Deccan Chargers,Delhi Daredevils,392223,2009-05-13,AC Gilchrist,64,35,5.0,5.0,1,0,0,91.0,182.8571428571429,PJ Sangwan,bowled
+Deccan Chargers,Delhi Daredevils,392223,2009-05-13,DB Ravi Teja,27,35,3.0,0.0,0,0,0,34.0,77.14285714285715,DP Nannes,caught
+Deccan Chargers,Delhi Daredevils,392223,2009-05-13,DR Smith,1,2,0.0,0.0,0,0,0,5.0,50.0,R Bhatia,bowled
+Deccan Chargers,Delhi Daredevils,392223,2009-05-13,PP Ojha,0,2,0.0,0.0,0,0,1,2.0,0.0,R Bhatia,bowled
+Deccan Chargers,Delhi Daredevils,392223,2009-05-13,RG Sharma,6,7,1.0,0.0,0,0,0,11.0,85.71428571428571,PJ Sangwan,caught
+Deccan Chargers,Delhi Daredevils,392223,2009-05-13,RP Singh,0,1,0.0,0.0,0,0,1,2.0,0.0,A Nehra,run out
+Deccan Chargers,Delhi Daredevils,392223,2009-05-13,Shoaib Ahmed,0,1,0.0,0.0,0,0,1,2.0,0.0,R Bhatia,caught
+Deccan Chargers,Delhi Daredevils,392223,2009-05-13,TL Suman,3,8,0.0,0.0,0,0,0,7.0,37.5,PJ Sangwan,caught
+Deccan Chargers,Delhi Daredevils,392223,2009-05-13,WPUJC Vaas,10,6,1.0,0.0,0,0,0,15.0,166.66666666666669,0,0
+Deccan Chargers,Delhi Daredevils,392223,2009-05-13,Y Venugopal Rao,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,A Nehra,caught
+Delhi Daredevils,Deccan Chargers,392223,2009-05-13,A Mishra,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,WPUJC Vaas,run out
+Delhi Daredevils,Deccan Chargers,392223,2009-05-13,AB de Villiers,44,36,4.0,1.0,0,0,0,54.0,122.22222222222224,DR Smith,caught
+Delhi Daredevils,Deccan Chargers,392223,2009-05-13,DA Warner,4,7,0.0,0.0,0,0,0,8.0,57.14285714285714,WPUJC Vaas,caught
+Delhi Daredevils,Deccan Chargers,392223,2009-05-13,G Gambhir,19,26,0.0,1.0,0,0,0,25.0,73.07692307692307,PP Ojha,caught
+Delhi Daredevils,Deccan Chargers,392223,2009-05-13,KD Karthik,44,24,4.0,3.0,0,0,0,58.0,183.3333333333333,0,0
+Delhi Daredevils,Deccan Chargers,392223,2009-05-13,R Bhatia,0,1,0.0,0.0,0,0,1,2.0,0.0,PP Ojha,caught
+Delhi Daredevils,Deccan Chargers,392223,2009-05-13,TM Dilshan,37,19,7.0,1.0,0,0,0,50.0,194.73684210526315,A Symonds,caught
+Delhi Daredevils,Deccan Chargers,392223,2009-05-13,V Sehwag,11,10,1.0,0.0,0,0,0,16.0,110.0,WPUJC Vaas,caught

@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Kings XI Punjab,419149,2010-04-11,A Mishra,10,12,0.0,0.0,0,0,0,14.0,83.33333333333334,0,0
+Delhi Daredevils,Kings XI Punjab,419149,2010-04-11,A Nehra,1,4,0.0,0.0,0,0,0,5.0,25.0,IK Pathan,caught
+Delhi Daredevils,Kings XI Punjab,419149,2010-04-11,DA Warner,6,11,1.0,0.0,0,0,0,11.0,54.54545454545454,RR Powar,run out
+Delhi Daredevils,Kings XI Punjab,419149,2010-04-11,DL Vettori,2,4,0.0,0.0,0,0,0,6.0,50.0,PP Chawla,bowled
+Delhi Daredevils,Kings XI Punjab,419149,2010-04-11,G Gambhir,26,15,5.0,0.0,0,0,0,35.0,173.33333333333334,L Ablish,run out
+Delhi Daredevils,Kings XI Punjab,419149,2010-04-11,KD Karthik,17,36,1.0,0.0,0,0,0,22.0,47.22222222222222,IK Pathan,caught
+Delhi Daredevils,Kings XI Punjab,419149,2010-04-11,M Manhas,26,28,1.0,0.0,0,0,0,31.0,92.85714285714286,J Theron,bowled
+Delhi Daredevils,Kings XI Punjab,419149,2010-04-11,MF Maharoof,0,2,0.0,0.0,0,0,1,2.0,0.0,L Ablish,bowled
+Delhi Daredevils,Kings XI Punjab,419149,2010-04-11,PD Collingwood,4,8,0.0,0.0,0,0,0,8.0,50.0,PP Chawla,lbw
+Delhi Daredevils,Kings XI Punjab,419149,2010-04-11,R Bhatia,1,5,0.0,0.0,0,0,0,5.0,20.0,Yuvraj Singh,caught
+Delhi Daredevils,Kings XI Punjab,419149,2010-04-11,V Sehwag,0,1,0.0,0.0,0,0,1,2.0,0.0,IK Pathan,caught
+Kings XI Punjab,Delhi Daredevils,419149,2010-04-11,AB Barath,2,5,0.0,0.0,0,0,0,6.0,40.0,0,0
+Kings XI Punjab,Delhi Daredevils,419149,2010-04-11,DPMD Jayawardene,38,35,4.0,1.0,0,0,0,48.0,108.57142857142856,PD Collingwood,caught
+Kings XI Punjab,Delhi Daredevils,419149,2010-04-11,IK Pathan,12,17,1.0,0.0,0,0,0,17.0,70.58823529411765,A Mishra,caught
+Kings XI Punjab,Delhi Daredevils,419149,2010-04-11,KC Sangakkara,33,31,4.0,0.0,0,0,0,41.0,106.4516129032258,PD Collingwood,bowled
+Kings XI Punjab,Delhi Daredevils,419149,2010-04-11,Yuvraj Singh,21,25,2.0,1.0,0,0,0,29.0,84.0,0,0

@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Kolkata Knight Riders,548335,2012-04-22,A Mishra,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Deccan Chargers,Kolkata Knight Riders,548335,2012-04-22,Ankit Sharma,1,2,0.0,0.0,0,0,0,5.0,50.0,L Balaji,caught
+Deccan Chargers,Kolkata Knight Riders,548335,2012-04-22,CL White,10,9,1.0,0.0,0,0,0,15.0,111.11111111111111,B Lee,caught
+Deccan Chargers,Kolkata Knight Riders,548335,2012-04-22,DW Steyn,7,3,0.0,1.0,0,0,0,13.0,233.3333333333333,SP Narine,caught
+Deccan Chargers,Kolkata Knight Riders,548335,2012-04-22,IR Jaggi,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,SP Narine,caught
+Deccan Chargers,Kolkata Knight Riders,548335,2012-04-22,JP Duminy,16,15,1.0,0.0,0,0,0,21.0,106.66666666666669,0,0
+Deccan Chargers,Kolkata Knight Riders,548335,2012-04-22,KC Sangakkara,12,15,1.0,0.0,0,0,0,17.0,80.0,L Balaji,bowled
+Deccan Chargers,Kolkata Knight Riders,548335,2012-04-22,PA Patel,23,19,2.0,0.0,0,0,0,29.0,121.05263157894736,R Bhatia,run out
+Deccan Chargers,Kolkata Knight Riders,548335,2012-04-22,S Dhawan,50,50,4.0,1.0,1,0,0,68.0,100.0,R Bhatia,caught
+Kolkata Knight Riders,Deccan Chargers,548335,2012-04-22,BB McCullum,10,9,1.0,0.0,0,0,0,15.0,111.11111111111111,DW Steyn,lbw
+Kolkata Knight Riders,Deccan Chargers,548335,2012-04-22,DB Das,9,8,1.0,0.0,0,0,0,14.0,112.5,0,0
+Kolkata Knight Riders,Deccan Chargers,548335,2012-04-22,G Gambhir,30,31,4.0,0.0,0,0,0,38.0,96.7741935483871,Anand Rajan,caught
+Kolkata Knight Riders,Deccan Chargers,548335,2012-04-22,JH Kallis,23,24,2.0,0.0,0,0,0,29.0,95.83333333333334,DW Steyn,caught
+Kolkata Knight Riders,Deccan Chargers,548335,2012-04-22,MK Tiwary,30,30,2.0,0.0,0,0,0,36.0,100.0,0,0
+Kolkata Knight Riders,Deccan Chargers,548335,2012-04-22,MS Bisla,10,14,2.0,0.0,0,0,0,16.0,71.42857142857143,A Mishra,bowled
+Kolkata Knight Riders,Deccan Chargers,548335,2012-04-22,YK Pathan,6,5,0.0,1.0,0,0,0,12.0,120.0,Ankit Sharma,bowled

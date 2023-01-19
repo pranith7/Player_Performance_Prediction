@@ -1,0 +1,20 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Kolkata Knight Riders,501230,2011-04-28,DA Warner,2,7,0.0,0.0,0,0,0,6.0,28.57142857142857,L Balaji,bowled
+Delhi Daredevils,Kolkata Knight Riders,501230,2011-04-28,IK Pathan,9,12,0.0,1.0,0,0,0,15.0,75.0,Iqbal Abdulla,caught
+Delhi Daredevils,Kolkata Knight Riders,501230,2011-04-28,JR Hopes,25,31,1.0,1.0,0,0,0,32.0,80.64516129032258,Iqbal Abdulla,caught
+Delhi Daredevils,Kolkata Knight Riders,501230,2011-04-28,M Morkel,6,5,1.0,0.0,0,0,0,11.0,120.0,0,0
+Delhi Daredevils,Kolkata Knight Riders,501230,2011-04-28,NV Ojha,1,2,0.0,0.0,0,0,0,5.0,50.0,Iqbal Abdulla,caught
+Delhi Daredevils,Kolkata Knight Riders,501230,2011-04-28,TR Birt,8,11,0.0,0.0,0,0,0,12.0,72.72727272727273,YK Pathan,caught
+Delhi Daredevils,Kolkata Knight Riders,501230,2011-04-28,UT Yadav,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Delhi Daredevils,Kolkata Knight Riders,501230,2011-04-28,V Sehwag,34,23,5.0,1.0,0,0,0,45.0,147.82608695652172,JD Unadkat,caught
+Delhi Daredevils,Kolkata Knight Riders,501230,2011-04-28,Y Nagar,19,14,0.0,2.0,0,0,0,27.0,135.71428571428572,L Balaji,caught
+Delhi Daredevils,Kolkata Knight Riders,501230,2011-04-28,Y Venugopal Rao,19,18,2.0,0.0,0,0,0,25.0,105.55555555555556,B Lee,run out
+Kolkata Knight Riders,Delhi Daredevils,501230,2011-04-28,B Lee,1,1,0.0,0.0,0,0,0,5.0,100.0,AB Agarkar,run out
+Kolkata Knight Riders,Delhi Daredevils,501230,2011-04-28,EJG Morgan,0,1,0.0,0.0,0,0,1,2.0,0.0,UT Yadav,caught
+Kolkata Knight Riders,Delhi Daredevils,501230,2011-04-28,G Gambhir,18,19,2.0,0.0,0,0,0,24.0,94.73684210526316,JR Hopes,caught
+Kolkata Knight Riders,Delhi Daredevils,501230,2011-04-28,JH Kallis,11,11,2.0,0.0,0,0,0,17.0,100.0,IK Pathan,bowled
+Kolkata Knight Riders,Delhi Daredevils,501230,2011-04-28,L Balaji,3,1,0.0,0.0,0,0,0,7.0,300.0,0,0
+Kolkata Knight Riders,Delhi Daredevils,501230,2011-04-28,MK Tiwary,61,50,2.0,3.0,1,0,0,81.0,122.0,0,0
+Kolkata Knight Riders,Delhi Daredevils,501230,2011-04-28,RN ten Doeschate,19,13,2.0,1.0,0,0,0,27.0,146.15384615384613,M Morkel,caught
+Kolkata Knight Riders,Delhi Daredevils,501230,2011-04-28,SP Goswami,22,21,4.0,0.0,0,0,0,30.0,104.76190476190476,AB Agarkar,caught
+Kolkata Knight Riders,Delhi Daredevils,501230,2011-04-28,YK Pathan,5,9,0.0,0.0,0,0,0,9.0,55.55555555555556,UT Yadav,caught

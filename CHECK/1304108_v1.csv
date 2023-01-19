@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Gujarat Titans,1304108,2022-05-15,DP Conway,5,9,0.0,0.0,0,0,0,9.0,55.55555555555556,Mohammed Shami,caught
+Chennai Super Kings,Gujarat Titans,1304108,2022-05-15,MJ Santner,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Chennai Super Kings,Gujarat Titans,1304108,2022-05-15,MM Ali,21,18,0.0,2.0,0,0,0,29.0,116.66666666666669,R Sai Kishore,caught
+Chennai Super Kings,Gujarat Titans,1304108,2022-05-15,MS Dhoni,7,10,0.0,0.0,0,0,0,11.0,70.0,Mohammed Shami,caught
+Chennai Super Kings,Gujarat Titans,1304108,2022-05-15,N Jagadeesan,39,36,3.0,1.0,0,0,0,48.0,108.33333333333331,0,0
+Chennai Super Kings,Gujarat Titans,1304108,2022-05-15,RD Gaikwad,53,49,4.0,1.0,1,0,0,71.0,108.16326530612244,Rashid Khan,caught
+Chennai Super Kings,Gujarat Titans,1304108,2022-05-15,S Dube,0,2,0.0,0.0,0,0,1,2.0,0.0,AS Joseph,caught
+Gujarat Titans,Chennai Super Kings,1304108,2022-05-15,DA Miller,15,21,1.0,0.0,0,0,0,20.0,71.42857142857143,0,0
+Gujarat Titans,Chennai Super Kings,1304108,2022-05-15,HH Pandya,7,6,1.0,0.0,0,0,0,12.0,116.66666666666669,M Pathirana,caught
+Gujarat Titans,Chennai Super Kings,1304108,2022-05-15,MS Wade,20,16,2.0,0.0,0,0,0,26.0,125.0,MM Ali,caught
+Gujarat Titans,Chennai Super Kings,1304108,2022-05-15,Shubman Gill,18,17,3.0,0.0,0,0,0,25.0,105.88235294117648,M Pathirana,lbw
+Gujarat Titans,Chennai Super Kings,1304108,2022-05-15,WP Saha,67,59,8.0,1.0,1,0,0,89.0,113.55932203389833,0,0

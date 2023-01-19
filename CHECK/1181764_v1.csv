@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Mumbai Indians,1181764,2019-05-07,AT Rayudu,42,38,3.0,1.0,0,0,0,51.0,110.5263157894737,0,0
+Chennai Super Kings,Mumbai Indians,1181764,2019-05-07,F du Plessis,6,11,1.0,0.0,0,0,0,11.0,54.54545454545454,RD Chahar,caught
+Chennai Super Kings,Mumbai Indians,1181764,2019-05-07,M Vijay,26,26,3.0,0.0,0,0,0,33.0,100.0,RD Chahar,stumped
+Chennai Super Kings,Mumbai Indians,1181764,2019-05-07,MS Dhoni,37,29,0.0,3.0,0,0,0,47.0,127.58620689655172,0,0
+Chennai Super Kings,Mumbai Indians,1181764,2019-05-07,SK Raina,5,7,1.0,0.0,0,0,0,10.0,71.42857142857143,J Yadav,caught and bowled
+Chennai Super Kings,Mumbai Indians,1181764,2019-05-07,SR Watson,10,13,2.0,0.0,0,0,0,16.0,76.92307692307693,KH Pandya,caught
+Mumbai Indians,Chennai Super Kings,1181764,2019-05-07,HH Pandya,13,11,1.0,0.0,0,0,0,18.0,118.1818181818182,0,0
+Mumbai Indians,Chennai Super Kings,1181764,2019-05-07,Ishan Kishan,28,32,1.0,1.0,0,0,0,35.0,87.5,Imran Tahir,bowled
+Mumbai Indians,Chennai Super Kings,1181764,2019-05-07,KH Pandya,0,1,0.0,0.0,0,0,1,2.0,0.0,Imran Tahir,caught and bowled
+Mumbai Indians,Chennai Super Kings,1181764,2019-05-07,Q de Kock,8,13,2.0,0.0,0,0,0,14.0,61.53846153846154,Harbhajan Singh,caught
+Mumbai Indians,Chennai Super Kings,1181764,2019-05-07,RG Sharma,4,2,1.0,0.0,0,0,0,9.0,200.0,DL Chahar,lbw
+Mumbai Indians,Chennai Super Kings,1181764,2019-05-07,SA Yadav,71,54,10.0,0.0,1,0,0,93.0,131.4814814814815,0,0

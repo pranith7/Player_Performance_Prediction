@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Kolkata Knight Riders,1082639,2017-05-09,AR Patel,8,10,0.0,0.0,0,0,0,12.0,80.0,0,0
+Kings XI Punjab,Kolkata Knight Riders,1082639,2017-05-09,GJ Maxwell,44,27,1.0,4.0,0,0,0,57.0,162.96296296296296,Kuldeep Yadav,caught
+Kings XI Punjab,Kolkata Knight Riders,1082639,2017-05-09,M Vohra,25,18,4.0,0.0,0,0,0,33.0,138.88888888888889,UT Yadav,caught
+Kings XI Punjab,Kolkata Knight Riders,1082639,2017-05-09,MJ Guptill,12,16,1.0,0.0,0,0,0,17.0,75.0,SP Narine,lbw
+Kings XI Punjab,Kolkata Knight Riders,1082639,2017-05-09,R Tewatia,15,8,3.0,0.0,0,0,0,22.0,187.5,0,0
+Kings XI Punjab,Kolkata Knight Riders,1082639,2017-05-09,SE Marsh,11,11,2.0,0.0,0,0,0,17.0,100.0,CR Woakes,bowled
+Kings XI Punjab,Kolkata Knight Riders,1082639,2017-05-09,Swapnil Singh,2,2,0.0,0.0,0,0,0,6.0,100.0,CR Woakes,bowled
+Kings XI Punjab,Kolkata Knight Riders,1082639,2017-05-09,WP Saha,38,34,2.0,1.0,0,0,0,46.0,111.76470588235294,Kuldeep Yadav,stumped
+Kolkata Knight Riders,Kings XI Punjab,1082639,2017-05-09,C de Grandhomme,11,7,1.0,0.0,0,0,0,16.0,157.14285714285714,0,0
+Kolkata Knight Riders,Kings XI Punjab,1082639,2017-05-09,CA Lynn,84,54,8.0,3.0,1,0,0,110.0,155.55555555555557,MJ Henry,run out
+Kolkata Knight Riders,Kings XI Punjab,1082639,2017-05-09,CR Woakes,8,6,0.0,1.0,0,0,0,14.0,133.33333333333331,0,0
+Kolkata Knight Riders,Kings XI Punjab,1082639,2017-05-09,G Gambhir,8,18,0.0,0.0,0,0,0,12.0,44.44444444444444,R Tewatia,caught
+Kolkata Knight Riders,Kings XI Punjab,1082639,2017-05-09,MK Pandey,18,23,1.0,0.0,0,0,0,23.0,78.26086956521739,MJ Henry,caught
+Kolkata Knight Riders,Kings XI Punjab,1082639,2017-05-09,RV Uthappa,0,1,0.0,0.0,0,0,1,2.0,0.0,R Tewatia,caught
+Kolkata Knight Riders,Kings XI Punjab,1082639,2017-05-09,SP Narine,18,10,4.0,0.0,0,0,0,26.0,180.0,MM Sharma,bowled
+Kolkata Knight Riders,Kings XI Punjab,1082639,2017-05-09,YK Pathan,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,MM Sharma,caught

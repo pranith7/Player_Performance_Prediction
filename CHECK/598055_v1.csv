@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Pune Warriors,598055,2013-05-11,AT Rayudu,26,23,2.0,1.0,0,0,0,34.0,113.04347826086956,AB Dinda,caught
+Mumbai Indians,Pune Warriors,598055,2013-05-11,DR Smith,0,1,0.0,0.0,0,0,1,2.0,0.0,AB Dinda,bowled
+Mumbai Indians,Pune Warriors,598055,2013-05-11,GJ Maxwell,13,7,1.0,1.0,0,0,0,20.0,185.7142857142857,0,0
+Mumbai Indians,Pune Warriors,598055,2013-05-11,Harbhajan Singh,4,3,1.0,0.0,0,0,0,9.0,133.33333333333331,0,0
+Mumbai Indians,Pune Warriors,598055,2013-05-11,KD Karthik,17,25,1.0,1.0,0,0,0,24.0,68.0,Yuvraj Singh,caught
+Mumbai Indians,Pune Warriors,598055,2013-05-11,RG Sharma,37,42,3.0,0.0,0,0,0,44.0,88.09523809523809,KW Richardson,caught
+Mumbai Indians,Pune Warriors,598055,2013-05-11,SR Tendulkar,15,15,3.0,0.0,0,0,0,22.0,100.0,BAW Mendis,caught
+Pune Warriors,Mumbai Indians,598055,2013-05-11,AD Mathews,0,2,0.0,0.0,0,0,1,2.0,0.0,Harbhajan Singh,run out
+Pune Warriors,Mumbai Indians,598055,2013-05-11,AJ Finch,10,11,2.0,0.0,0,0,0,16.0,90.9090909090909,MG Johnson,caught
+Pune Warriors,Mumbai Indians,598055,2013-05-11,AM Nayar,11,14,0.0,0.0,0,0,0,15.0,78.57142857142857,AN Ahmed,caught
+Pune Warriors,Mumbai Indians,598055,2013-05-11,B Kumar,2,2,0.0,0.0,0,0,0,6.0,100.0,AN Ahmed,caught
+Pune Warriors,Mumbai Indians,598055,2013-05-11,KW Richardson,8,16,0.0,0.0,0,0,0,12.0,50.0,MG Johnson,caught
+Pune Warriors,Mumbai Indians,598055,2013-05-11,MK Pandey,29,29,1.0,1.0,0,0,0,36.0,100.0,SL Malinga,caught
+Pune Warriors,Mumbai Indians,598055,2013-05-11,Parvez Rasool,4,5,0.0,0.0,0,0,0,8.0,80.0,0,0
+Pune Warriors,Mumbai Indians,598055,2013-05-11,RV Uthappa,11,13,1.0,0.0,0,0,0,16.0,84.61538461538461,SL Malinga,lbw
+Pune Warriors,Mumbai Indians,598055,2013-05-11,Yuvraj Singh,33,29,1.0,2.0,0,0,0,42.0,113.79310344827589,Harbhajan Singh,lbw

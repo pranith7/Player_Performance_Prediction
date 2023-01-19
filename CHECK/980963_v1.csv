@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Kolkata Knight Riders,980963,2016-05-04,AR Patel,21,7,1.0,2.0,0,0,0,30.0,300.0,AD Russell,run out
+Kings XI Punjab,Kolkata Knight Riders,980963,2016-05-04,DA Miller,13,18,0.0,0.0,0,0,0,17.0,72.22222222222221,AD Russell,caught
+Kings XI Punjab,Kolkata Knight Riders,980963,2016-05-04,GJ Maxwell,68,43,6.0,4.0,1,0,0,94.0,158.13953488372093,PP Chawla,lbw
+Kings XI Punjab,Kolkata Knight Riders,980963,2016-05-04,Gurkeerat Singh,11,12,1.0,0.0,0,0,0,16.0,91.66666666666666,AD Russell,run out
+Kings XI Punjab,Kolkata Knight Riders,980963,2016-05-04,M Vijay,6,12,1.0,0.0,0,0,0,11.0,50.0,M Morkel,caught
+Kings XI Punjab,Kolkata Knight Riders,980963,2016-05-04,M Vohra,0,6,0.0,0.0,0,0,1,2.0,0.0,AD Russell,caught
+Kings XI Punjab,Kolkata Knight Riders,980963,2016-05-04,MM Sharma,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Kings XI Punjab,Kolkata Knight Riders,980963,2016-05-04,MP Stoinis,0,3,0.0,0.0,0,0,1,2.0,0.0,AD Russell,caught
+Kings XI Punjab,Kolkata Knight Riders,980963,2016-05-04,Sandeep Sharma,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Kings XI Punjab,Kolkata Knight Riders,980963,2016-05-04,Swapnil Singh,0,1,0.0,0.0,0,0,1,2.0,0.0,AD Russell,lbw
+Kings XI Punjab,Kolkata Knight Riders,980963,2016-05-04,WP Saha,24,20,3.0,0.0,0,0,0,31.0,120.0,PP Chawla,bowled
+Kolkata Knight Riders,Kings XI Punjab,980963,2016-05-04,AD Russell,16,13,1.0,1.0,0,0,0,23.0,123.07692307692308,Sandeep Sharma,run out
+Kolkata Knight Riders,Kings XI Punjab,980963,2016-05-04,G Gambhir,54,45,6.0,1.0,1,0,0,74.0,120.0,Sandeep Sharma,run out
+Kolkata Knight Riders,Kings XI Punjab,980963,2016-05-04,RV Uthappa,70,49,6.0,2.0,1,0,0,92.0,142.85714285714286,MM Sharma,run out
+Kolkata Knight Riders,Kings XI Punjab,980963,2016-05-04,YK Pathan,19,16,0.0,1.0,0,0,0,25.0,118.75,0,0

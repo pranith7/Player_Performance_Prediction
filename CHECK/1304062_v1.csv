@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Gujarat Titans,Punjab Kings,1304062,2022-04-08,B Sai Sudharsan,35,30,4.0,1.0,0,0,0,45.0,116.66666666666669,RD Chahar,caught
+Gujarat Titans,Punjab Kings,1304062,2022-04-08,DA Miller,6,5,1.0,0.0,0,0,0,11.0,120.0,0,0
+Gujarat Titans,Punjab Kings,1304062,2022-04-08,HH Pandya,27,18,5.0,0.0,0,0,0,36.0,150.0,OF Smith,run out
+Gujarat Titans,Punjab Kings,1304062,2022-04-08,MS Wade,6,7,1.0,0.0,0,0,0,11.0,85.71428571428571,K Rabada,caught
+Gujarat Titans,Punjab Kings,1304062,2022-04-08,R Tewatia,13,3,0.0,2.0,0,0,0,21.0,433.3333333333333,0,0
+Gujarat Titans,Punjab Kings,1304062,2022-04-08,Shubman Gill,96,61,11.0,1.0,1,0,0,121.0,157.37704918032787,K Rabada,caught
+Punjab Kings,Gujarat Titans,1304062,2022-04-08,Arshdeep Singh,10,5,1.0,0.0,0,0,0,15.0,200.0,0,0
+Punjab Kings,Gujarat Titans,1304062,2022-04-08,JM Bairstow,8,8,2.0,0.0,0,0,0,14.0,100.0,LH Ferguson,caught
+Punjab Kings,Gujarat Titans,1304062,2022-04-08,JM Sharma,23,11,1.0,2.0,0,0,0,32.0,209.0909090909091,DG Nalkande,caught
+Punjab Kings,Gujarat Titans,1304062,2022-04-08,K Rabada,1,1,0.0,0.0,0,0,0,5.0,100.0,LH Ferguson,run out
+Punjab Kings,Gujarat Titans,1304062,2022-04-08,LS Livingstone,64,29,7.0,4.0,1,0,0,91.0,220.6896551724137,Rashid Khan,caught
+Punjab Kings,Gujarat Titans,1304062,2022-04-08,M Shahrukh Khan,15,8,0.0,2.0,0,0,0,23.0,187.5,Rashid Khan,lbw
+Punjab Kings,Gujarat Titans,1304062,2022-04-08,MA Agarwal,5,9,1.0,0.0,0,0,0,10.0,55.55555555555556,HH Pandya,caught
+Punjab Kings,Gujarat Titans,1304062,2022-04-08,OF Smith,0,1,0.0,0.0,0,0,1,2.0,0.0,DG Nalkande,caught
+Punjab Kings,Gujarat Titans,1304062,2022-04-08,RD Chahar,22,14,2.0,1.0,0,0,0,30.0,157.14285714285714,0,0
+Punjab Kings,Gujarat Titans,1304062,2022-04-08,S Dhawan,35,30,4.0,0.0,0,0,0,43.0,116.66666666666669,Rashid Khan,caught
+Punjab Kings,Gujarat Titans,1304062,2022-04-08,VG Arora,2,7,0.0,0.0,0,0,0,6.0,28.57142857142857,Mohammed Shami,bowled

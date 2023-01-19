@@ -1,0 +1,23 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Mumbai Indians,335991,2008-04-25,B Lee,16,9,2.0,1.0,0,0,0,24.0,177.77777777777777,0,0
+Kings XI Punjab,Mumbai Indians,335991,2008-04-25,DPMD Jayawardene,12,7,0.0,1.0,0,0,0,18.0,171.42857142857142,Harbhajan Singh,caught
+Kings XI Punjab,Mumbai Indians,335991,2008-04-25,IK Pathan,6,3,0.0,0.0,0,0,0,10.0,200.0,A Nehra,caught
+Kings XI Punjab,Mumbai Indians,335991,2008-04-25,K Goel,18,21,1.0,1.0,0,0,0,25.0,85.71428571428571,Harbhajan Singh,run out
+Kings XI Punjab,Mumbai Indians,335991,2008-04-25,KC Sangakkara,94,58,13.0,1.0,1,0,0,121.0,162.06896551724137,Harbhajan Singh,caught
+Kings XI Punjab,Mumbai Indians,335991,2008-04-25,PP Chawla,0,1,0.0,0.0,0,0,1,2.0,0.0,Harbhajan Singh,lbw
+Kings XI Punjab,Mumbai Indians,335991,2008-04-25,RR Sarwan,7,9,0.0,0.0,0,0,0,11.0,77.77777777777779,A Nehra,caught
+Kings XI Punjab,Mumbai Indians,335991,2008-04-25,S Sohal,0,4,0.0,0.0,0,0,1,2.0,0.0,DS Kulkarni,caught
+Kings XI Punjab,Mumbai Indians,335991,2008-04-25,S Sreesanth,0,1,0.0,0.0,0,0,1,2.0,0.0,DS Kulkarni,caught
+Kings XI Punjab,Mumbai Indians,335991,2008-04-25,VRV Singh,4,2,1.0,0.0,0,0,0,9.0,200.0,DS Kulkarni,run out
+Kings XI Punjab,Mumbai Indians,335991,2008-04-25,Yuvraj Singh,18,9,1.0,1.0,0,0,0,25.0,200.0,SM Pollock,caught
+Mumbai Indians,Kings XI Punjab,335991,2008-04-25,A Nehra,2,10,0.0,0.0,0,0,0,6.0,20.0,0,0
+Mumbai Indians,Kings XI Punjab,335991,2008-04-25,AM Nayar,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,IK Pathan,caught
+Mumbai Indians,Kings XI Punjab,335991,2008-04-25,DJ Bravo,23,22,4.0,0.0,0,0,0,31.0,104.54545454545456,PP Chawla,bowled
+Mumbai Indians,Kings XI Punjab,335991,2008-04-25,DS Kulkarni,2,17,0.0,0.0,0,0,0,6.0,11.76470588235294,0,0
+Mumbai Indians,Kings XI Punjab,335991,2008-04-25,Harbhajan Singh,0,1,0.0,0.0,0,0,1,2.0,0.0,IK Pathan,lbw
+Mumbai Indians,Kings XI Punjab,335991,2008-04-25,L Ronchi,11,9,1.0,1.0,0,0,0,18.0,122.22222222222224,B Lee,run out
+Mumbai Indians,Kings XI Punjab,335991,2008-04-25,MA Khote,8,7,1.0,0.0,0,0,0,13.0,114.28571428571428,S Sreesanth,hit wicket
+Mumbai Indians,Kings XI Punjab,335991,2008-04-25,RV Uthappa,21,19,2.0,1.0,0,0,0,29.0,110.5263157894737,VRV Singh,caught
+Mumbai Indians,Kings XI Punjab,335991,2008-04-25,SM Pollock,22,21,2.0,1.0,0,0,0,30.0,104.76190476190476,S Sreesanth,caught
+Mumbai Indians,Kings XI Punjab,335991,2008-04-25,SS Tiwary,17,10,2.0,1.0,0,0,0,25.0,170.0,PP Chawla,bowled
+Mumbai Indians,Kings XI Punjab,335991,2008-04-25,ST Jayasuriya,1,7,0.0,0.0,0,0,0,5.0,14.285714285714285,B Lee,caught and bowled

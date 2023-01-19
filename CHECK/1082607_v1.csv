@@ -1,0 +1,21 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Rising Pune Supergiant,Royal Challengers Bangalore,1082607,2017-04-16,AM Rahane,30,26,5.0,0.0,0,0,0,39.0,115.38461538461536,S Badree,bowled
+Rising Pune Supergiant,Royal Challengers Bangalore,1082607,2017-04-16,BA Stokes,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,AF Milne,bowled
+Rising Pune Supergiant,Royal Challengers Bangalore,1082607,2017-04-16,DT Christian,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,S Aravind,caught
+Rising Pune Supergiant,Royal Challengers Bangalore,1082607,2017-04-16,JD Unadkat,2,5,0.0,0.0,0,0,0,6.0,40.0,0,0
+Rising Pune Supergiant,Royal Challengers Bangalore,1082607,2017-04-16,MK Tiwary,27,12,3.0,2.0,0,0,0,38.0,225.0,AF Milne,run out
+Rising Pune Supergiant,Royal Challengers Bangalore,1082607,2017-04-16,MS Dhoni,28,26,3.0,1.0,0,0,0,37.0,107.6923076923077,SR Watson,bowled
+Rising Pune Supergiant,Royal Challengers Bangalore,1082607,2017-04-16,RA Tripathi,31,24,3.0,1.0,0,0,0,40.0,129.16666666666669,P Negi,caught
+Rising Pune Supergiant,Royal Challengers Bangalore,1082607,2017-04-16,SN Thakur,0,1,0.0,0.0,0,0,1,2.0,0.0,AF Milne,caught
+Rising Pune Supergiant,Royal Challengers Bangalore,1082607,2017-04-16,SPD Smith,27,26,3.0,0.0,0,0,0,34.0,103.84615384615384,S Aravind,bowled
+Royal Challengers Bangalore,Rising Pune Supergiant,1082607,2017-04-16,AB de Villiers,29,32,1.0,2.0,0,0,0,38.0,90.625,Imran Tahir,stumped
+Royal Challengers Bangalore,Rising Pune Supergiant,1082607,2017-04-16,AF Milne,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,BA Stokes,bowled
+Royal Challengers Bangalore,Rising Pune Supergiant,1082607,2017-04-16,KM Jadhav,18,24,0.0,0.0,0,0,0,22.0,75.0,JD Unadkat,bowled
+Royal Challengers Bangalore,Rising Pune Supergiant,1082607,2017-04-16,Mandeep Singh,0,3,0.0,0.0,0,0,1,2.0,0.0,SN Thakur,caught
+Royal Challengers Bangalore,Rising Pune Supergiant,1082607,2017-04-16,P Negi,10,7,0.0,1.0,0,0,0,16.0,142.85714285714286,SN Thakur,caught
+Royal Challengers Bangalore,Rising Pune Supergiant,1082607,2017-04-16,S Aravind,6,7,0.0,0.0,0,0,0,10.0,85.71428571428571,0,0
+Royal Challengers Bangalore,Rising Pune Supergiant,1082607,2017-04-16,S Badree,0,1,0.0,0.0,0,0,1,2.0,0.0,JD Unadkat,bowled
+Royal Challengers Bangalore,Rising Pune Supergiant,1082607,2017-04-16,SR Watson,14,18,1.0,0.0,0,0,0,19.0,77.77777777777779,BA Stokes,bowled
+Royal Challengers Bangalore,Rising Pune Supergiant,1082607,2017-04-16,STR Binny,18,8,2.0,1.0,0,0,0,26.0,225.0,SN Thakur,bowled
+Royal Challengers Bangalore,Rising Pune Supergiant,1082607,2017-04-16,V Kohli,28,19,3.0,1.0,0,0,0,37.0,147.36842105263156,BA Stokes,caught
+Royal Challengers Bangalore,Rising Pune Supergiant,1082607,2017-04-16,YS Chahal,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0

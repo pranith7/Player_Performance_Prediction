@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Kolkata Knight Riders,392207,2009-05-03,DPMD Jayawardene,52,44,7.0,0.0,1,0,0,71.0,118.1818181818182,0,0
+Kings XI Punjab,Kolkata Knight Riders,392207,2009-05-03,IK Pathan,19,16,2.0,0.0,0,0,0,25.0,118.75,0,0
+Kings XI Punjab,Kolkata Knight Riders,392207,2009-05-03,KC Sangakkara,0,2,0.0,0.0,0,0,1,2.0,0.0,I Sharma,caught
+Kings XI Punjab,Kolkata Knight Riders,392207,2009-05-03,S Sohal,25,18,0.0,3.0,0,0,0,35.0,138.88888888888889,AB Agarkar,caught
+Kings XI Punjab,Kolkata Knight Riders,392207,2009-05-03,SM Katich,34,29,3.0,1.0,0,0,0,43.0,117.2413793103448,BJ Hodge,caught
+Kings XI Punjab,Kolkata Knight Riders,392207,2009-05-03,Yuvraj Singh,14,17,1.0,0.0,0,0,0,19.0,82.35294117647058,I Sharma,caught
+Kolkata Knight Riders,Kings XI Punjab,392207,2009-05-03,BB McCullum,19,33,1.0,0.0,0,0,0,24.0,57.57575757575758,PP Chawla,caught
+Kolkata Knight Riders,Kings XI Punjab,392207,2009-05-03,BJ Hodge,70,44,10.0,1.0,1,0,0,94.0,159.0909090909091,0,0
+Kolkata Knight Riders,Kings XI Punjab,392207,2009-05-03,CH Gayle,17,17,3.0,0.0,0,0,0,24.0,100.0,YA Abdulla,caught
+Kolkata Knight Riders,Kings XI Punjab,392207,2009-05-03,MN van Wyk,18,12,1.0,1.0,0,0,0,25.0,150.0,0,0
+Kolkata Knight Riders,Kings XI Punjab,392207,2009-05-03,SC Ganguly,22,17,1.0,1.0,0,0,0,29.0,129.41176470588235,PP Chawla,caught

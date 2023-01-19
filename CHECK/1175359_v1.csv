@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Rajasthan Royals,1175359,2019-03-25,CH Gayle,79,52,8.0,4.0,1,0,0,107.0,151.9230769230769,BA Stokes,caught
+Kings XI Punjab,Rajasthan Royals,1175359,2019-03-25,KL Rahul,4,4,1.0,0.0,0,0,0,9.0,100.0,DS Kulkarni,caught
+Kings XI Punjab,Rajasthan Royals,1175359,2019-03-25,MA Agarwal,22,25,1.0,2.0,0,0,0,31.0,88.0,K Gowtham,caught
+Kings XI Punjab,Rajasthan Royals,1175359,2019-03-25,Mandeep Singh,5,2,0.0,0.0,0,0,0,9.0,250.0,0,0
+Kings XI Punjab,Rajasthan Royals,1175359,2019-03-25,N Pooran,12,15,1.0,0.0,0,0,0,17.0,80.0,BA Stokes,caught
+Kings XI Punjab,Rajasthan Royals,1175359,2019-03-25,SN Khan,46,30,6.0,1.0,0,0,0,58.0,153.33333333333334,0,0
+Rajasthan Royals,Kings XI Punjab,1175359,2019-03-25,AM Rahane,27,20,4.0,0.0,0,0,0,35.0,135.0,R Ashwin,bowled
+Rajasthan Royals,Kings XI Punjab,1175359,2019-03-25,BA Stokes,6,2,0.0,1.0,0,0,0,12.0,300.0,Mujeeb Ur Rahman,caught
+Rajasthan Royals,Kings XI Punjab,1175359,2019-03-25,DS Kulkarni,5,3,1.0,0.0,0,0,0,10.0,166.66666666666669,0,0
+Rajasthan Royals,Kings XI Punjab,1175359,2019-03-25,JC Archer,2,2,0.0,0.0,0,0,0,6.0,100.0,Mohammed Shami,run out
+Rajasthan Royals,Kings XI Punjab,1175359,2019-03-25,JC Buttler,69,43,10.0,2.0,1,0,0,95.0,160.46511627906978,R Ashwin,run out
+Rajasthan Royals,Kings XI Punjab,1175359,2019-03-25,JD Unadkat,1,2,0.0,0.0,0,0,0,5.0,50.0,AS Rajpoot,caught and bowled
+Rajasthan Royals,Kings XI Punjab,1175359,2019-03-25,K Gowtham,3,4,0.0,0.0,0,0,0,7.0,75.0,AS Rajpoot,caught
+Rajasthan Royals,Kings XI Punjab,1175359,2019-03-25,RA Tripathi,1,5,0.0,0.0,0,0,0,5.0,20.0,Mujeeb Ur Rahman,caught
+Rajasthan Royals,Kings XI Punjab,1175359,2019-03-25,S Gopal,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Rajasthan Royals,Kings XI Punjab,1175359,2019-03-25,SPD Smith,20,17,1.0,1.0,0,0,0,27.0,117.64705882352942,SM Curran,caught
+Rajasthan Royals,Kings XI Punjab,1175359,2019-03-25,SV Samson,30,25,0.0,1.0,0,0,0,36.0,120.0,SM Curran,caught

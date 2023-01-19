@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Royal Challengers Bangalore,419119,2010-03-20,AP Tare,9,12,2.0,0.0,0,0,0,15.0,75.0,JH Kallis,caught
+Mumbai Indians,Royal Challengers Bangalore,419119,2010-03-20,AT Rayudu,3,4,0.0,0.0,0,0,0,7.0,75.0,R Vinay Kumar,caught
+Mumbai Indians,Royal Challengers Bangalore,419119,2010-03-20,DJ Bravo,1,2,0.0,0.0,0,0,0,5.0,50.0,R Vinay Kumar,lbw
+Mumbai Indians,Royal Challengers Bangalore,419119,2010-03-20,Harbhajan Singh,4,6,0.0,0.0,0,0,0,8.0,66.66666666666666,P Kumar,caught
+Mumbai Indians,Royal Challengers Bangalore,419119,2010-03-20,KA Pollard,21,19,1.0,1.0,0,0,0,28.0,110.5263157894737,DW Steyn,caught
+Mumbai Indians,Royal Challengers Bangalore,419119,2010-03-20,R Sathish,24,22,3.0,0.0,0,0,0,31.0,109.09090909090908,DW Steyn,caught
+Mumbai Indians,Royal Challengers Bangalore,419119,2010-03-20,SR Tendulkar,25,23,4.0,0.0,0,0,0,33.0,108.69565217391305,R Vinay Kumar,bowled
+Mumbai Indians,Royal Challengers Bangalore,419119,2010-03-20,SS Tiwary,25,21,3.0,0.0,0,0,0,32.0,119.04761904761904,A Kumble,bowled
+Mumbai Indians,Royal Challengers Bangalore,419119,2010-03-20,ST Jayasuriya,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,DW Steyn,lbw
+Mumbai Indians,Royal Challengers Bangalore,419119,2010-03-20,Z Khan,23,9,3.0,1.0,0,0,0,32.0,255.5555555555556,0,0
+Royal Challengers Bangalore,Mumbai Indians,419119,2010-03-20,EJG Morgan,7,6,0.0,0.0,0,0,0,11.0,116.66666666666669,0,0
+Royal Challengers Bangalore,Mumbai Indians,419119,2010-03-20,JH Kallis,66,55,10.0,0.0,1,0,0,88.0,120.0,0,0
+Royal Challengers Bangalore,Mumbai Indians,419119,2010-03-20,MK Pandey,40,27,3.0,2.0,0,0,0,51.0,148.14814814814815,Harbhajan Singh,caught
+Royal Challengers Bangalore,Mumbai Indians,419119,2010-03-20,RV Uthappa,23,15,2.0,1.0,0,0,0,31.0,153.33333333333334,Z Khan,caught
+Royal Challengers Bangalore,Mumbai Indians,419119,2010-03-20,V Kohli,17,12,0.0,2.0,0,0,0,25.0,141.66666666666669,Z Khan,run out

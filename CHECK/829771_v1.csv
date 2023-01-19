@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Royal Challengers Bangalore,829771,2015-05-02,AD Russell,45,17,5.0,3.0,0,0,0,60.0,264.7058823529412,HV Patel,run out
+Kolkata Knight Riders,Royal Challengers Bangalore,829771,2015-05-02,G Gambhir,12,10,2.0,0.0,0,0,0,18.0,120.0,D Wiese,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,829771,2015-05-02,RN ten Doeschate,12,7,1.0,1.0,0,0,0,19.0,171.42857142857142,MA Starc,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,829771,2015-05-02,RV Uthappa,23,22,3.0,0.0,0,0,0,30.0,104.54545454545456,YS Chahal,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,829771,2015-05-02,SA Yadav,0,2,0.0,0.0,0,0,1,2.0,0.0,0,0
+Kolkata Knight Riders,Royal Challengers Bangalore,829771,2015-05-02,YK Pathan,11,7,0.0,1.0,0,0,0,17.0,157.14285714285714,0,0
+Royal Challengers Bangalore,Kolkata Knight Riders,829771,2015-05-02,AB de Villiers,2,4,0.0,0.0,0,0,0,6.0,50.0,PP Chawla,bowled
+Royal Challengers Bangalore,Kolkata Knight Riders,829771,2015-05-02,CH Gayle,21,12,0.0,3.0,0,0,0,31.0,175.0,GB Hogg,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,829771,2015-05-02,D Wiese,9,8,0.0,0.0,0,0,0,13.0,112.5,0,0
+Royal Challengers Bangalore,Kolkata Knight Riders,829771,2015-05-02,Mandeep Singh,45,18,4.0,3.0,0,0,0,59.0,250.0,0,0
+Royal Challengers Bangalore,Kolkata Knight Riders,829771,2015-05-02,V Kohli,34,20,2.0,3.0,0,0,0,46.0,170.0,AD Russell,caught

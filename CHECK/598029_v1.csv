@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Mumbai Indians,598029,2013-04-24,DB Das,6,7,1.0,0.0,0,0,0,11.0,85.71428571428571,SL Malinga,bowled
+Kolkata Knight Riders,Mumbai Indians,598029,2013-04-24,EJG Morgan,31,25,4.0,1.0,0,0,0,41.0,124.0,MG Johnson,caught
+Kolkata Knight Riders,Mumbai Indians,598029,2013-04-24,G Gambhir,26,20,2.0,1.0,0,0,0,34.0,130.0,PP Ojha,caught
+Kolkata Knight Riders,Mumbai Indians,598029,2013-04-24,JH Kallis,37,38,4.0,0.0,0,0,0,45.0,97.36842105263158,PP Ojha,caught
+Kolkata Knight Riders,Mumbai Indians,598029,2013-04-24,MK Tiwary,33,24,2.0,1.0,0,0,0,41.0,137.5,SL Malinga,bowled
+Kolkata Knight Riders,Mumbai Indians,598029,2013-04-24,R Bhatia,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Kolkata Knight Riders,Mumbai Indians,598029,2013-04-24,YK Pathan,19,7,3.0,1.0,0,0,0,28.0,271.42857142857144,MG Johnson,caught
+Mumbai Indians,Kolkata Knight Riders,598029,2013-04-24,AT Rayudu,13,8,1.0,0.0,0,0,0,18.0,162.5,0,0
+Mumbai Indians,Kolkata Knight Riders,598029,2013-04-24,DR Smith,62,45,3.0,5.0,1,0,0,87.0,137.77777777777777,SP Narine,caught
+Mumbai Indians,Kolkata Knight Riders,598029,2013-04-24,Harbhajan Singh,7,2,0.0,1.0,0,0,0,13.0,350.0,0,0
+Mumbai Indians,Kolkata Knight Riders,598029,2013-04-24,KA Pollard,33,24,2.0,1.0,0,0,0,41.0,137.5,R Bhatia,caught
+Mumbai Indians,Kolkata Knight Riders,598029,2013-04-24,KD Karthik,7,6,1.0,0.0,0,0,0,12.0,116.66666666666669,SMSM Senanayake,lbw
+Mumbai Indians,Kolkata Knight Riders,598029,2013-04-24,RG Sharma,34,28,1.0,2.0,0,0,0,43.0,121.42857142857142,SP Narine,caught and bowled
+Mumbai Indians,Kolkata Knight Riders,598029,2013-04-24,SR Tendulkar,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,SP Narine,bowled

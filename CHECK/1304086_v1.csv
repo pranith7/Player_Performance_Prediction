@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Gujarat Titans,Sunrisers Hyderabad,1304086,2022-04-27,A Manohar,0,2,0.0,0.0,0,0,1,2.0,0.0,Umran Malik,bowled
+Gujarat Titans,Sunrisers Hyderabad,1304086,2022-04-27,DA Miller,17,20,1.0,0.0,0,0,0,22.0,85.0,Umran Malik,bowled
+Gujarat Titans,Sunrisers Hyderabad,1304086,2022-04-27,HH Pandya,10,6,2.0,0.0,0,0,0,16.0,166.66666666666669,Umran Malik,caught
+Gujarat Titans,Sunrisers Hyderabad,1304086,2022-04-27,R Tewatia,40,22,4.0,2.0,0,0,0,52.0,181.8181818181818,0,0
+Gujarat Titans,Sunrisers Hyderabad,1304086,2022-04-27,Rashid Khan,31,11,0.0,4.0,0,0,0,43.0,281.8181818181818,0,0
+Gujarat Titans,Sunrisers Hyderabad,1304086,2022-04-27,Shubman Gill,22,25,1.0,1.0,0,0,0,29.0,88.0,Umran Malik,bowled
+Gujarat Titans,Sunrisers Hyderabad,1304086,2022-04-27,WP Saha,68,39,11.0,1.0,1,0,0,93.0,174.35897435897436,Umran Malik,bowled
+Sunrisers Hyderabad,Gujarat Titans,1304086,2022-04-27,AK Markram,56,41,2.0,3.0,1,0,0,76.0,136.58536585365854,Yash Dayal,caught
+Sunrisers Hyderabad,Gujarat Titans,1304086,2022-04-27,Abhishek Sharma,65,46,6.0,3.0,1,0,0,89.0,141.30434782608697,AS Joseph,bowled
+Sunrisers Hyderabad,Gujarat Titans,1304086,2022-04-27,KS Williamson,5,8,1.0,0.0,0,0,0,10.0,62.5,Mohammed Shami,bowled
+Sunrisers Hyderabad,Gujarat Titans,1304086,2022-04-27,M Jansen,8,5,0.0,1.0,0,0,0,14.0,160.0,0,0
+Sunrisers Hyderabad,Gujarat Titans,1304086,2022-04-27,N Pooran,3,5,0.0,0.0,0,0,0,7.0,60.0,Mohammed Shami,caught
+Sunrisers Hyderabad,Gujarat Titans,1304086,2022-04-27,RA Tripathi,16,10,2.0,1.0,0,0,0,24.0,160.0,Mohammed Shami,lbw
+Sunrisers Hyderabad,Gujarat Titans,1304086,2022-04-27,Shashank Singh,25,6,1.0,3.0,0,0,0,36.0,416.6666666666667,0,0
+Sunrisers Hyderabad,Gujarat Titans,1304086,2022-04-27,Washington Sundar,3,5,0.0,0.0,0,0,0,7.0,60.0,AS Joseph,run out

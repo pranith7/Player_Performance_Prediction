@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Sunrisers Hyderabad,981015,2016-05-25,C Munro,16,17,1.0,0.0,0,0,0,21.0,94.11764705882352,MC Henriques,run out
+Kolkata Knight Riders,Sunrisers Hyderabad,981015,2016-05-25,G Gambhir,28,28,2.0,1.0,0,0,0,36.0,100.0,BCJ Cutting,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,981015,2016-05-25,JO Holder,6,7,1.0,0.0,0,0,0,11.0,85.71428571428571,B Kumar,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,981015,2016-05-25,MK Pandey,36,28,2.0,1.0,0,0,0,44.0,128.57142857142858,B Kumar,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,981015,2016-05-25,R Sathish,8,9,0.0,0.0,0,0,0,12.0,88.88888888888889,B Kumar,bowled
+Kolkata Knight Riders,Sunrisers Hyderabad,981015,2016-05-25,RV Uthappa,11,7,1.0,0.0,0,0,0,16.0,157.14285714285714,BB Sran,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,981015,2016-05-25,SA Yadav,23,15,1.0,1.0,0,0,0,30.0,153.33333333333334,MC Henriques,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,981015,2016-05-25,SP Narine,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,0,0
+Kolkata Knight Riders,Sunrisers Hyderabad,981015,2016-05-25,YK Pathan,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,MC Henriques,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,981015,2016-05-25,B Kumar,1,2,0.0,0.0,0,0,0,5.0,50.0,M Morkel,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,981015,2016-05-25,BCJ Cutting,0,1,0.0,0.0,0,0,1,2.0,0.0,Kuldeep Yadav,stumped
+Sunrisers Hyderabad,Kolkata Knight Riders,981015,2016-05-25,Bipul Sharma,14,6,0.0,2.0,0,0,0,22.0,233.3333333333333,0,0
+Sunrisers Hyderabad,Kolkata Knight Riders,981015,2016-05-25,DA Warner,28,29,3.0,0.0,0,0,0,35.0,96.55172413793105,Kuldeep Yadav,bowled
+Sunrisers Hyderabad,Kolkata Knight Riders,981015,2016-05-25,DJ Hooda,21,13,0.0,2.0,0,0,0,29.0,161.53846153846155,JO Holder,run out
+Sunrisers Hyderabad,Kolkata Knight Riders,981015,2016-05-25,MC Henriques,31,21,1.0,2.0,0,0,0,40.0,147.61904761904762,Kuldeep Yadav,caught and bowled
+Sunrisers Hyderabad,Kolkata Knight Riders,981015,2016-05-25,NV Ojha,7,11,0.0,0.0,0,0,0,11.0,63.63636363636363,JO Holder,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,981015,2016-05-25,S Dhawan,10,10,2.0,0.0,0,0,0,16.0,100.0,M Morkel,bowled
+Sunrisers Hyderabad,Kolkata Knight Riders,981015,2016-05-25,Yuvraj Singh,44,31,8.0,1.0,0,0,0,58.0,141.93548387096774,JO Holder,bowled

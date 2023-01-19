@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Royal Challengers Bangalore,1082636,2017-05-07,C de Grandhomme,31,28,1.0,2.0,0,0,0,40.0,110.71428571428572,P Negi,stumped
+Kolkata Knight Riders,Royal Challengers Bangalore,1082636,2017-05-07,CA Lynn,50,22,5.0,4.0,1,0,0,75.0,227.27272727272728,P Negi,bowled
+Kolkata Knight Riders,Royal Challengers Bangalore,1082636,2017-05-07,G Gambhir,14,16,0.0,0.0,0,0,0,18.0,87.5,YS Chahal,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,1082636,2017-05-07,MK Pandey,4,3,0.0,0.0,0,0,0,8.0,133.33333333333331,0,0
+Kolkata Knight Riders,Royal Challengers Bangalore,1082636,2017-05-07,SP Narine,54,19,6.0,4.0,1,0,0,80.0,284.2105263157895,A Choudhary,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,1082636,2017-05-07,YK Pathan,0,6,0.0,0.0,0,0,1,2.0,0.0,0,0
+Royal Challengers Bangalore,Kolkata Knight Riders,1082636,2017-05-07,AB de Villiers,10,8,2.0,0.0,0,0,0,16.0,125.0,SP Narine,bowled
+Royal Challengers Bangalore,Kolkata Knight Riders,1082636,2017-05-07,CH Gayle,0,1,0.0,0.0,0,0,1,2.0,0.0,UT Yadav,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,1082636,2017-05-07,KM Jadhav,8,9,1.0,0.0,0,0,0,13.0,88.88888888888889,CR Woakes,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,1082636,2017-05-07,Mandeep Singh,52,44,4.0,1.0,1,0,0,70.0,118.1818181818182,SP Narine,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,1082636,2017-05-07,P Negi,5,3,1.0,0.0,0,0,0,10.0,166.66666666666669,UT Yadav,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,1082636,2017-05-07,TM Head,75,48,3.0,5.0,1,0,0,100.0,156.25,0,0
+Royal Challengers Bangalore,Kolkata Knight Riders,1082636,2017-05-07,V Kohli,5,9,0.0,0.0,0,0,0,9.0,55.55555555555556,UT Yadav,lbw

@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Kings XI Punjab,392216,2009-05-09,A Symonds,60,37,2.0,4.0,1,0,0,82.0,162.16216216216216,0,0
+Deccan Chargers,Kings XI Punjab,392216,2009-05-09,AC Gilchrist,20,17,3.0,1.0,0,0,0,29.0,117.64705882352942,S Sreesanth,caught
+Deccan Chargers,Kings XI Punjab,392216,2009-05-09,HH Gibbs,13,13,1.0,0.0,0,0,0,18.0,100.0,PP Chawla,caught
+Deccan Chargers,Kings XI Punjab,392216,2009-05-09,RG Sharma,9,15,1.0,0.0,0,0,0,14.0,60.0,B Lee,caught
+Deccan Chargers,Kings XI Punjab,392216,2009-05-09,TL Suman,27,17,1.0,2.0,0,0,0,36.0,158.8235294117647,WA Mota,caught
+Deccan Chargers,Kings XI Punjab,392216,2009-05-09,Y Venugopal Rao,32,26,1.0,2.0,0,0,0,41.0,123.07692307692308,IK Pathan,run out
+Kings XI Punjab,Deccan Chargers,392216,2009-05-09,B Lee,14,10,0.0,1.0,0,0,0,20.0,140.0,0,0
+Kings XI Punjab,Deccan Chargers,392216,2009-05-09,DPMD Jayawardene,43,29,1.0,3.0,0,0,0,54.0,148.27586206896552,PP Ojha,run out
+Kings XI Punjab,Deccan Chargers,392216,2009-05-09,IK Pathan,10,12,1.0,0.0,0,0,0,15.0,83.33333333333334,TL Suman,caught
+Kings XI Punjab,Deccan Chargers,392216,2009-05-09,KC Sangakkara,25,19,1.0,1.0,0,0,0,32.0,131.57894736842107,Shoaib Ahmed,bowled
+Kings XI Punjab,Deccan Chargers,392216,2009-05-09,PP Chawla,8,6,1.0,0.0,0,0,0,13.0,133.33333333333331,0,0
+Kings XI Punjab,Deccan Chargers,392216,2009-05-09,S Sohal,30,18,4.0,1.0,0,0,0,40.0,166.66666666666669,RG Sharma,caught
+Kings XI Punjab,Deccan Chargers,392216,2009-05-09,SM Katich,9,11,1.0,0.0,0,0,0,14.0,81.81818181818183,RG Sharma,caught
+Kings XI Punjab,Deccan Chargers,392216,2009-05-09,WA Mota,3,4,0.0,0.0,0,0,0,7.0,75.0,TL Suman,run out
+Kings XI Punjab,Deccan Chargers,392216,2009-05-09,Yuvraj Singh,18,13,1.0,1.0,0,0,0,25.0,138.46153846153845,Shoaib Ahmed,caught

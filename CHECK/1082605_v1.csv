@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Kings XI Punjab,1082605,2017-04-15,CH Morris,16,9,1.0,1.0,0,0,0,23.0,177.77777777777777,Sandeep Sharma,caught
+Delhi Daredevils,Kings XI Punjab,1082605,2017-04-15,CJ Anderson,39,23,3.0,3.0,0,0,0,52.0,169.56521739130434,0,0
+Delhi Daredevils,Kings XI Punjab,1082605,2017-04-15,KK Nair,0,3,0.0,0.0,0,0,1,2.0,0.0,VR Aaron,caught
+Delhi Daredevils,Kings XI Punjab,1082605,2017-04-15,PJ Cummins,12,6,2.0,0.0,0,0,0,18.0,200.0,0,0
+Delhi Daredevils,Kings XI Punjab,1082605,2017-04-15,RR Pant,15,9,3.0,0.0,0,0,0,22.0,166.66666666666669,VR Aaron,caught
+Delhi Daredevils,Kings XI Punjab,1082605,2017-04-15,SS Iyer,22,18,3.0,0.0,0,0,0,29.0,122.22222222222224,MM Sharma,caught
+Delhi Daredevils,Kings XI Punjab,1082605,2017-04-15,SV Samson,19,18,2.0,1.0,0,0,0,27.0,105.55555555555556,KC Cariappa,caught
+Delhi Daredevils,Kings XI Punjab,1082605,2017-04-15,SW Billings,55,41,9.0,0.0,1,0,0,76.0,134.14634146341464,AR Patel,caught
+Kings XI Punjab,Delhi Daredevils,1082605,2017-04-15,AR Patel,44,29,1.0,3.0,0,0,0,55.0,151.72413793103448,CH Morris,bowled
+Kings XI Punjab,Delhi Daredevils,1082605,2017-04-15,DA Miller,24,29,1.0,0.0,0,0,0,29.0,82.75862068965517,CJ Anderson,lbw
+Kings XI Punjab,Delhi Daredevils,1082605,2017-04-15,EJG Morgan,22,20,3.0,0.0,0,0,0,29.0,110.0,PJ Cummins,caught
+Kings XI Punjab,Delhi Daredevils,1082605,2017-04-15,GJ Maxwell,0,2,0.0,0.0,0,0,1,2.0,0.0,A Mishra,caught
+Kings XI Punjab,Delhi Daredevils,1082605,2017-04-15,HM Amla,19,12,4.0,0.0,0,0,0,27.0,158.33333333333331,CH Morris,caught
+Kings XI Punjab,Delhi Daredevils,1082605,2017-04-15,KC Cariappa,1,2,0.0,0.0,0,0,0,5.0,50.0,CH Morris,bowled
+Kings XI Punjab,Delhi Daredevils,1082605,2017-04-15,M Vohra,3,6,0.0,0.0,0,0,0,7.0,50.0,S Nadeem,lbw
+Kings XI Punjab,Delhi Daredevils,1082605,2017-04-15,MM Sharma,13,14,1.0,0.0,0,0,0,18.0,92.85714285714286,PJ Cummins,bowled
+Kings XI Punjab,Delhi Daredevils,1082605,2017-04-15,Sandeep Sharma,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Kings XI Punjab,Delhi Daredevils,1082605,2017-04-15,WP Saha,7,5,1.0,0.0,0,0,0,12.0,140.0,S Nadeem,caught

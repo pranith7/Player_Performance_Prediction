@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Delhi Daredevils,548321,2012-04-19,A Mishra,6,7,0.0,0.0,0,0,0,10.0,85.71428571428571,M Morkel,run out
+Deccan Chargers,Delhi Daredevils,548321,2012-04-19,AA Jhunjhunwala,4,6,1.0,0.0,0,0,0,9.0,66.66666666666666,M Morkel,caught
+Deccan Chargers,Delhi Daredevils,548321,2012-04-19,Ankit Sharma,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Deccan Chargers,Delhi Daredevils,548321,2012-04-19,B Chipli,25,17,3.0,1.0,0,0,0,34.0,147.05882352941177,0,0
+Deccan Chargers,Delhi Daredevils,548321,2012-04-19,DT Christian,19,22,1.0,0.0,0,0,0,24.0,86.36363636363636,UT Yadav,caught
+Deccan Chargers,Delhi Daredevils,548321,2012-04-19,DW Steyn,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,M Morkel,caught
+Deccan Chargers,Delhi Daredevils,548321,2012-04-19,JP Duminy,4,5,0.0,0.0,0,0,0,8.0,80.0,S Nadeem,caught
+Deccan Chargers,Delhi Daredevils,548321,2012-04-19,KC Sangakkara,1,7,0.0,0.0,0,0,0,5.0,14.285714285714285,M Morkel,caught
+Deccan Chargers,Delhi Daredevils,548321,2012-04-19,PA Patel,45,27,5.0,1.0,0,0,0,56.0,166.66666666666669,S Nadeem,caught
+Deccan Chargers,Delhi Daredevils,548321,2012-04-19,S Dhawan,44,31,5.0,1.0,0,0,0,55.0,141.93548387096774,S Nadeem,lbw
+Delhi Daredevils,Deccan Chargers,548321,2012-04-19,DPMD Jayawardene,6,5,1.0,0.0,0,0,0,11.0,120.0,DT Christian,caught
+Delhi Daredevils,Deccan Chargers,548321,2012-04-19,IK Pathan,5,13,0.0,0.0,0,0,0,9.0,38.46153846153847,DW Steyn,caught
+Delhi Daredevils,Deccan Chargers,548321,2012-04-19,KP Pietersen,103,66,6.0,9.0,1,1,0,155.0,156.06060606060606,0,0
+Delhi Daredevils,Deccan Chargers,548321,2012-04-19,LRPL Taylor,13,11,1.0,0.0,0,0,0,18.0,118.1818181818182,DT Christian,run out
+Delhi Daredevils,Deccan Chargers,548321,2012-04-19,NV Ojha,1,4,0.0,0.0,0,0,0,5.0,25.0,V Pratap Singh,caught
+Delhi Daredevils,Deccan Chargers,548321,2012-04-19,V Sehwag,7,5,1.0,0.0,0,0,0,12.0,140.0,DW Steyn,caught
+Delhi Daredevils,Deccan Chargers,548321,2012-04-19,Y Nagar,23,15,3.0,0.0,0,0,0,30.0,153.33333333333334,0,0

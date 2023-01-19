@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Rajasthan Royals,598026,2013-04-22,CH Morris,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Chennai Super Kings,Rajasthan Royals,598026,2013-04-22,DJ Bravo,15,9,0.0,1.0,0,0,0,21.0,166.66666666666669,0,0
+Chennai Super Kings,Rajasthan Royals,598026,2013-04-22,M Vijay,3,5,0.0,0.0,0,0,0,7.0,60.0,A Chandila,caught and bowled
+Chennai Super Kings,Rajasthan Royals,598026,2013-04-22,MEK Hussey,88,52,13.0,1.0,1,0,0,115.0,169.23076923076923,JP Faulkner,run out
+Chennai Super Kings,Rajasthan Royals,598026,2013-04-22,MS Dhoni,21,17,1.0,0.0,0,0,0,26.0,123.52941176470588,JP Faulkner,caught
+Chennai Super Kings,Rajasthan Royals,598026,2013-04-22,RA Jadeja,0,2,0.0,0.0,0,0,1,2.0,0.0,JP Faulkner,bowled
+Chennai Super Kings,Rajasthan Royals,598026,2013-04-22,SK Raina,51,35,4.0,2.0,1,0,0,71.0,145.7142857142857,JP Faulkner,lbw
+Rajasthan Royals,Chennai Super Kings,598026,2013-04-22,AM Rahane,16,16,1.0,0.0,0,0,0,21.0,100.0,R Ashwin,bowled
+Rajasthan Royals,Chennai Super Kings,598026,2013-04-22,BJ Hodge,9,6,1.0,0.0,0,0,0,14.0,150.0,0,0
+Rajasthan Royals,Chennai Super Kings,598026,2013-04-22,DH Yagnik,7,8,1.0,0.0,0,0,0,12.0,87.5,R Ashwin,caught and bowled
+Rajasthan Royals,Chennai Super Kings,598026,2013-04-22,R Dravid,6,10,0.0,0.0,0,0,0,10.0,60.0,DJ Bravo,caught
+Rajasthan Royals,Chennai Super Kings,598026,2013-04-22,SR Watson,101,64,6.0,6.0,1,1,0,147.0,157.8125,DJ Bravo,caught
+Rajasthan Royals,Chennai Super Kings,598026,2013-04-22,STR Binny,36,23,3.0,1.0,0,0,0,45.0,156.52173913043478,0,0

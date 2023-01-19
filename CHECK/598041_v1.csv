@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Kings XI Punjab,598041,2013-05-02,JA Morkel,23,16,2.0,1.0,0,0,0,31.0,143.75,P Awana,caught
+Chennai Super Kings,Kings XI Punjab,598041,2013-05-02,MEK Hussey,35,30,3.0,0.0,0,0,0,42.0,116.66666666666669,PP Chawla,stumped
+Chennai Super Kings,Kings XI Punjab,598041,2013-05-02,MS Dhoni,2,2,0.0,0.0,0,0,0,6.0,100.0,R Sathish,run out
+Chennai Super Kings,Kings XI Punjab,598041,2013-05-02,RA Jadeja,5,2,1.0,0.0,0,0,0,10.0,250.0,0,0
+Chennai Super Kings,Kings XI Punjab,598041,2013-05-02,SK Raina,100,54,7.0,6.0,1,1,0,147.0,185.1851851851852,0,0
+Chennai Super Kings,Kings XI Punjab,598041,2013-05-02,WP Saha,18,18,1.0,1.0,0,0,0,25.0,100.0,P Awana,caught
+Kings XI Punjab,Chennai Super Kings,598041,2013-05-02,DA Miller,51,26,5.0,2.0,1,0,0,72.0,196.15384615384613,0,0
+Kings XI Punjab,Chennai Super Kings,598041,2013-05-02,DJ Hussey,22,16,2.0,1.0,0,0,0,30.0,137.5,R Ashwin,caught
+Kings XI Punjab,Chennai Super Kings,598041,2013-05-02,Gurkeerat Singh,0,1,0.0,0.0,0,0,1,2.0,0.0,DJ Bravo,caught
+Kings XI Punjab,Chennai Super Kings,598041,2013-05-02,LA Pomersbach,7,9,1.0,0.0,0,0,0,12.0,77.77777777777779,MM Sharma,bowled
+Kings XI Punjab,Chennai Super Kings,598041,2013-05-02,MS Gony,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Kings XI Punjab,Chennai Super Kings,598041,2013-05-02,Mandeep Singh,15,15,2.0,0.0,0,0,0,21.0,100.0,MM Sharma,caught
+Kings XI Punjab,Chennai Super Kings,598041,2013-05-02,R Sathish,0,1,0.0,0.0,0,0,1,2.0,0.0,DJ Bravo,lbw
+Kings XI Punjab,Chennai Super Kings,598041,2013-05-02,SE Marsh,73,51,8.0,2.0,1,0,0,97.0,143.13725490196077,DJ Bravo,bowled

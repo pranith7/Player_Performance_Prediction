@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Royal Challengers Bangalore,419140,2010-04-04,DA Warner,33,22,3.0,2.0,0,0,0,44.0,150.0,A Kumble,caught
+Delhi Daredevils,Royal Challengers Bangalore,419140,2010-04-04,DL Vettori,19,17,2.0,0.0,0,0,0,25.0,111.76470588235294,0,0
+Delhi Daredevils,Royal Challengers Bangalore,419140,2010-04-04,G Gambhir,1,1,0.0,0.0,0,0,0,5.0,100.0,JH Kallis,run out
+Delhi Daredevils,Royal Challengers Bangalore,419140,2010-04-04,KD Karthik,6,4,1.0,0.0,0,0,0,11.0,150.0,KP Appanna,caught
+Delhi Daredevils,Royal Challengers Bangalore,419140,2010-04-04,KM Jadhav,7,10,0.0,0.0,0,0,0,11.0,70.0,KP Appanna,run out
+Delhi Daredevils,Royal Challengers Bangalore,419140,2010-04-04,PD Collingwood,75,47,3.0,7.0,1,0,0,104.0,159.5744680851064,0,0
+Delhi Daredevils,Royal Challengers Bangalore,419140,2010-04-04,V Sehwag,35,22,5.0,2.0,0,0,0,48.0,159.0909090909091,A Mithun,bowled
+Royal Challengers Bangalore,Delhi Daredevils,419140,2010-04-04,A Kumble,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Royal Challengers Bangalore,Delhi Daredevils,419140,2010-04-04,A Mithun,5,4,1.0,0.0,0,0,0,10.0,125.0,A Mishra,bowled
+Royal Challengers Bangalore,Delhi Daredevils,419140,2010-04-04,CL White,4,11,0.0,0.0,0,0,0,8.0,36.36363636363637,A Mishra,caught
+Royal Challengers Bangalore,Delhi Daredevils,419140,2010-04-04,JH Kallis,54,42,5.0,1.0,1,0,0,73.0,128.57142857142858,PJ Sangwan,caught
+Royal Challengers Bangalore,Delhi Daredevils,419140,2010-04-04,KP Appanna,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Royal Challengers Bangalore,Delhi Daredevils,419140,2010-04-04,KP Pietersen,16,19,0.0,1.0,0,0,0,22.0,84.21052631578947,PJ Sangwan,bowled
+Royal Challengers Bangalore,Delhi Daredevils,419140,2010-04-04,LRPL Taylor,22,10,0.0,3.0,0,0,0,32.0,220.00000000000003,R Bhatia,lbw
+Royal Challengers Bangalore,Delhi Daredevils,419140,2010-04-04,R Dravid,14,9,2.0,0.0,0,0,0,20.0,155.55555555555557,A Mishra,caught
+Royal Challengers Bangalore,Delhi Daredevils,419140,2010-04-04,R Vinay Kumar,3,3,0.0,0.0,0,0,0,7.0,100.0,DL Vettori,bowled
+Royal Challengers Bangalore,Delhi Daredevils,419140,2010-04-04,RV Uthappa,12,9,0.0,1.0,0,0,0,18.0,133.33333333333331,PJ Sangwan,caught
+Royal Challengers Bangalore,Delhi Daredevils,419140,2010-04-04,V Kohli,13,11,1.0,0.0,0,0,0,18.0,118.1818181818182,MF Maharoof,bowled

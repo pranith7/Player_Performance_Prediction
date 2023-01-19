@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Kolkata Knight Riders,419106,2010-03-12,A Symonds,5,9,0.0,0.0,0,0,0,9.0,55.55555555555556,I Sharma,caught
+Deccan Chargers,Kolkata Knight Riders,419106,2010-03-12,AC Gilchrist,54,39,3.0,3.0,1,0,0,75.0,138.46153846153845,BJ Hodge,caught
+Deccan Chargers,Kolkata Knight Riders,419106,2010-03-12,Anirudh Singh,14,14,1.0,0.0,0,0,0,19.0,100.0,LR Shukla,caught and bowled
+Deccan Chargers,Kolkata Knight Riders,419106,2010-03-12,HH Gibbs,19,24,2.0,0.0,0,0,0,25.0,79.16666666666666,CK Langeveldt,caught
+Deccan Chargers,Kolkata Knight Riders,419106,2010-03-12,Jaskaran Singh,4,4,0.0,0.0,0,0,0,8.0,100.0,0,0
+Deccan Chargers,Kolkata Knight Riders,419106,2010-03-12,RG Sharma,13,12,2.0,0.0,0,0,0,19.0,108.33333333333331,AD Mathews,caught
+Deccan Chargers,Kolkata Knight Riders,419106,2010-03-12,TL Suman,7,10,1.0,0.0,0,0,0,12.0,70.0,0,0
+Deccan Chargers,Kolkata Knight Riders,419106,2010-03-12,VVS Laxman,22,14,2.0,1.0,0,0,0,30.0,157.14285714285714,M Kartik,caught and bowled
+Deccan Chargers,Kolkata Knight Riders,419106,2010-03-12,WPUJC Vaas,0,1,0.0,0.0,0,0,1,2.0,0.0,CK Langeveldt,bowled
+Kolkata Knight Riders,Deccan Chargers,419106,2010-03-12,AD Mathews,65,49,5.0,4.0,1,0,0,90.0,132.6530612244898,0,0
+Kolkata Knight Riders,Deccan Chargers,419106,2010-03-12,BJ Hodge,13,12,1.0,1.0,0,0,0,20.0,108.33333333333331,Jaskaran Singh,caught
+Kolkata Knight Riders,Deccan Chargers,419106,2010-03-12,CA Pujara,10,16,2.0,0.0,0,0,0,16.0,62.5,RP Singh,caught
+Kolkata Knight Riders,Deccan Chargers,419106,2010-03-12,MK Tiwary,0,1,0.0,0.0,0,0,1,2.0,0.0,WPUJC Vaas,caught
+Kolkata Knight Riders,Deccan Chargers,419106,2010-03-12,OA Shah,58,46,3.0,3.0,1,0,0,79.0,126.08695652173914,0,0
+Kolkata Knight Riders,Deccan Chargers,419106,2010-03-12,SC Ganguly,0,3,0.0,0.0,0,0,1,2.0,0.0,WPUJC Vaas,caught

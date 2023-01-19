@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Deccan Chargers,392196,2009-04-27,JA Morkel,13,7,1.0,1.0,0,0,0,20.0,185.7142857142857,Y Venugopal Rao,caught
+Chennai Super Kings,Deccan Chargers,392196,2009-04-27,JDP Oram,41,29,4.0,2.0,0,0,0,53.0,141.3793103448276,0,0
+Chennai Super Kings,Deccan Chargers,392196,2009-04-27,ML Hayden,49,36,8.0,0.0,0,0,0,61.0,136.11111111111111,PP Ojha,caught
+Chennai Super Kings,Deccan Chargers,392196,2009-04-27,MS Dhoni,22,24,1.0,1.0,0,0,0,29.0,91.66666666666666,PP Ojha,caught
+Chennai Super Kings,Deccan Chargers,392196,2009-04-27,PA Patel,0,2,0.0,0.0,0,0,1,2.0,0.0,FH Edwards,caught
+Chennai Super Kings,Deccan Chargers,392196,2009-04-27,S Badrinath,8,9,1.0,0.0,0,0,0,13.0,88.88888888888889,RP Singh,caught and bowled
+Chennai Super Kings,Deccan Chargers,392196,2009-04-27,SK Raina,25,20,1.0,2.0,0,0,0,34.0,125.0,RG Sharma,caught and bowled
+Deccan Chargers,Chennai Super Kings,392196,2009-04-27,AA Bilakhia,12,14,1.0,0.0,0,0,0,17.0,85.71428571428571,0,0
+Deccan Chargers,Chennai Super Kings,392196,2009-04-27,AC Gilchrist,44,20,5.0,3.0,0,0,0,59.0,220.00000000000003,SK Raina,caught
+Deccan Chargers,Chennai Super Kings,392196,2009-04-27,DR Smith,12,5,1.0,1.0,0,0,0,19.0,240.0,M Muralitharan,lbw
+Deccan Chargers,Chennai Super Kings,392196,2009-04-27,HH Gibbs,69,57,6.0,2.0,1,0,0,91.0,121.05263157894736,0,0
+Deccan Chargers,Chennai Super Kings,392196,2009-04-27,RG Sharma,18,20,0.0,1.0,0,0,0,24.0,90.0,L Balaji,caught
+Deccan Chargers,Chennai Super Kings,392196,2009-04-27,VVS Laxman,4,5,0.0,0.0,0,0,0,8.0,80.0,SK Raina,caught

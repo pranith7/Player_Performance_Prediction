@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Royal Challengers Bangalore,Sunrisers Hyderabad,1304082,2022-04-23,Anuj Rawat,0,2,0.0,0.0,0,0,1,2.0,0.0,M Jansen,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,1304082,2022-04-23,F du Plessis,5,7,1.0,0.0,0,0,0,10.0,71.42857142857143,M Jansen,bowled
+Royal Challengers Bangalore,Sunrisers Hyderabad,1304082,2022-04-23,GJ Maxwell,12,13,2.0,0.0,0,0,0,18.0,92.3076923076923,T Natarajan,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,1304082,2022-04-23,HV Patel,4,9,0.0,0.0,0,0,0,8.0,44.44444444444444,T Natarajan,bowled
+Royal Challengers Bangalore,Sunrisers Hyderabad,1304082,2022-04-23,JR Hazlewood,3,11,0.0,0.0,0,0,0,7.0,27.27272727272727,0,0
+Royal Challengers Bangalore,Sunrisers Hyderabad,1304082,2022-04-23,KD Karthik,0,3,0.0,0.0,0,0,1,2.0,0.0,J Suchith,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,1304082,2022-04-23,Mohammed Siraj,2,4,0.0,0.0,0,0,0,6.0,50.0,B Kumar,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,1304082,2022-04-23,PWH de Silva,8,20,1.0,0.0,0,0,0,13.0,40.0,T Natarajan,bowled
+Royal Challengers Bangalore,Sunrisers Hyderabad,1304082,2022-04-23,SS Prabhudessai,15,22,1.0,0.0,0,0,0,20.0,68.18181818181817,J Suchith,stumped
+Royal Challengers Bangalore,Sunrisers Hyderabad,1304082,2022-04-23,Shahbaz Ahmed,7,13,1.0,0.0,0,0,0,12.0,53.84615384615385,Umran Malik,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,1304082,2022-04-23,V Kohli,0,1,0.0,0.0,0,0,1,2.0,0.0,M Jansen,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,1304082,2022-04-23,Abhishek Sharma,47,28,8.0,1.0,0,0,0,61.0,167.85714285714286,HV Patel,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,1304082,2022-04-23,KS Williamson,16,18,2.0,0.0,0,0,0,22.0,88.88888888888889,0,0
+Sunrisers Hyderabad,Royal Challengers Bangalore,1304082,2022-04-23,RA Tripathi,7,3,0.0,1.0,0,0,0,13.0,233.3333333333333,0,0

@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Kings XI Punjab,1136562,2018-04-08,C Munro,4,6,0.0,0.0,0,0,0,8.0,66.66666666666666,Mujeeb Ur Rahman,lbw
+Delhi Daredevils,Kings XI Punjab,1136562,2018-04-08,CH Morris,27,16,1.0,1.0,0,0,0,34.0,168.75,0,0
+Delhi Daredevils,Kings XI Punjab,1136562,2018-04-08,DT Christian,13,13,0.0,1.0,0,0,0,19.0,100.0,MM Sharma,bowled
+Delhi Daredevils,Kings XI Punjab,1136562,2018-04-08,G Gambhir,55,42,5.0,1.0,1,0,0,74.0,130.95238095238096,AJ Tye,run out
+Delhi Daredevils,Kings XI Punjab,1136562,2018-04-08,R Tewatia,9,7,1.0,0.0,0,0,0,14.0,128.57142857142858,R Ashwin,lbw
+Delhi Daredevils,Kings XI Punjab,1136562,2018-04-08,RR Pant,28,13,4.0,1.0,0,0,0,38.0,215.3846153846154,Mujeeb Ur Rahman,caught
+Delhi Daredevils,Kings XI Punjab,1136562,2018-04-08,SS Iyer,11,13,0.0,1.0,0,0,0,17.0,84.61538461538461,AR Patel,caught
+Delhi Daredevils,Kings XI Punjab,1136562,2018-04-08,V Shankar,13,14,0.0,0.0,0,0,0,17.0,92.85714285714286,MM Sharma,caught
+Kings XI Punjab,Delhi Daredevils,1136562,2018-04-08,DA Miller,24,23,1.0,0.0,0,0,0,29.0,104.34782608695652,0,0
+Kings XI Punjab,Delhi Daredevils,1136562,2018-04-08,KK Nair,50,33,5.0,2.0,1,0,0,71.0,151.5151515151515,DT Christian,caught
+Kings XI Punjab,Delhi Daredevils,1136562,2018-04-08,KL Rahul,51,16,6.0,4.0,1,0,0,77.0,318.75,TA Boult,caught
+Kings XI Punjab,Delhi Daredevils,1136562,2018-04-08,MA Agarwal,7,5,0.0,1.0,0,0,0,13.0,140.0,CH Morris,caught
+Kings XI Punjab,Delhi Daredevils,1136562,2018-04-08,MP Stoinis,22,15,2.0,0.0,0,0,0,28.0,146.66666666666666,0,0
+Kings XI Punjab,Delhi Daredevils,1136562,2018-04-08,Yuvraj Singh,12,22,2.0,0.0,0,0,0,18.0,54.54545454545454,R Tewatia,caught

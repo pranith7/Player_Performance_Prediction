@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Mumbai Indians,392212,2009-05-06,AC Gilchrist,25,31,2.0,1.0,0,0,0,33.0,80.64516129032258,RR Raje,bowled
+Deccan Chargers,Mumbai Indians,392212,2009-05-06,DB Ravi Teja,4,4,0.0,0.0,0,0,0,8.0,100.0,0,0
+Deccan Chargers,Mumbai Indians,392212,2009-05-06,DR Smith,16,12,1.0,1.0,0,0,0,23.0,133.33333333333331,ST Jayasuriya,bowled
+Deccan Chargers,Mumbai Indians,392212,2009-05-06,HH Gibbs,0,6,0.0,0.0,0,0,1,2.0,0.0,DS Kulkarni,caught
+Deccan Chargers,Mumbai Indians,392212,2009-05-06,RG Sharma,38,36,2.0,1.0,0,0,0,46.0,105.55555555555556,SL Malinga,caught
+Deccan Chargers,Mumbai Indians,392212,2009-05-06,RJ Harris,5,4,0.0,0.0,0,0,0,9.0,125.0,0,0
+Deccan Chargers,Mumbai Indians,392212,2009-05-06,TL Suman,20,13,1.0,2.0,0,0,0,29.0,153.84615384615387,DJ Bravo,caught
+Deccan Chargers,Mumbai Indians,392212,2009-05-06,Y Venugopal Rao,28,18,2.0,1.0,0,0,0,36.0,155.55555555555557,SL Malinga,run out
+Mumbai Indians,Deccan Chargers,392212,2009-05-06,AM Nayar,1,4,0.0,0.0,0,0,0,5.0,25.0,RG Sharma,bowled
+Mumbai Indians,Deccan Chargers,392212,2009-05-06,DJ Bravo,13,16,0.0,0.0,0,0,0,17.0,81.25,TL Suman,caught
+Mumbai Indians,Deccan Chargers,392212,2009-05-06,DS Kulkarni,7,9,0.0,0.0,0,0,0,11.0,77.77777777777779,0,0
+Mumbai Indians,Deccan Chargers,392212,2009-05-06,Harbhajan Singh,0,1,0.0,0.0,0,0,1,2.0,0.0,RG Sharma,bowled
+Mumbai Indians,Deccan Chargers,392212,2009-05-06,JP Duminy,52,49,7.0,0.0,1,0,0,71.0,106.12244897959184,RG Sharma,caught
+Mumbai Indians,Deccan Chargers,392212,2009-05-06,PR Shah,29,19,3.0,2.0,0,0,0,40.0,152.63157894736844,TL Suman,caught
+Mumbai Indians,Deccan Chargers,392212,2009-05-06,RR Raje,11,7,0.0,1.0,0,0,0,17.0,157.14285714285714,0,0
+Mumbai Indians,Deccan Chargers,392212,2009-05-06,SR Tendulkar,2,4,0.0,0.0,0,0,0,6.0,50.0,RP Singh,bowled
+Mumbai Indians,Deccan Chargers,392212,2009-05-06,SS Tiwary,3,5,0.0,0.0,0,0,0,7.0,60.0,RG Sharma,stumped
+Mumbai Indians,Deccan Chargers,392212,2009-05-06,ST Jayasuriya,5,7,1.0,0.0,0,0,0,10.0,71.42857142857143,RP Singh,caught

@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Rajasthan Royals,501214,2011-04-17,G Gambhir,35,39,3.0,0.0,0,0,0,42.0,89.74358974358975,0,0
+Kolkata Knight Riders,Rajasthan Royals,501214,2011-04-17,JH Kallis,0,2,0.0,0.0,0,0,1,2.0,0.0,SW Tait,caught
+Kolkata Knight Riders,Rajasthan Royals,501214,2011-04-17,MK Tiwary,30,26,4.0,1.0,0,0,0,40.0,115.38461538461536,0,0
+Kolkata Knight Riders,Rajasthan Royals,501214,2011-04-17,MS Bisla,9,22,0.0,0.0,0,0,0,13.0,40.909090909090914,SK Warne,caught
+Rajasthan Royals,Kolkata Knight Riders,501214,2011-04-17,A Singh,0,2,0.0,0.0,0,0,1,2.0,0.0,Shakib Al Hasan,bowled
+Rajasthan Royals,Kolkata Knight Riders,501214,2011-04-17,AG Paunikar,15,15,2.0,0.0,0,0,0,21.0,100.0,Iqbal Abdulla,stumped
+Rajasthan Royals,Kolkata Knight Riders,501214,2011-04-17,AL Menaria,21,19,1.0,1.0,0,0,0,28.0,110.5263157894737,L Balaji,caught
+Rajasthan Royals,Kolkata Knight Riders,501214,2011-04-17,AM Rahane,6,9,0.0,0.0,0,0,0,10.0,66.66666666666666,L Balaji,bowled
+Rajasthan Royals,Kolkata Knight Riders,501214,2011-04-17,AS Raut,11,15,1.0,0.0,0,0,0,16.0,73.33333333333333,R Bhatia,run out
+Rajasthan Royals,Kolkata Knight Riders,501214,2011-04-17,FY Fazal,3,4,0.0,0.0,0,0,0,7.0,75.0,Iqbal Abdulla,run out
+Rajasthan Royals,Kolkata Knight Riders,501214,2011-04-17,LRPL Taylor,6,10,0.0,0.0,0,0,0,10.0,60.0,YK Pathan,stumped
+Rajasthan Royals,Kolkata Knight Riders,501214,2011-04-17,SK Trivedi,0,2,0.0,0.0,0,0,1,2.0,0.0,B Lee,bowled
+Rajasthan Royals,Kolkata Knight Riders,501214,2011-04-17,SK Warne,3,6,0.0,0.0,0,0,0,7.0,50.0,0,0
+Rajasthan Royals,Kolkata Knight Riders,501214,2011-04-17,SR Watson,11,13,2.0,0.0,0,0,0,17.0,84.61538461538461,L Balaji,bowled
+Rajasthan Royals,Kolkata Knight Riders,501214,2011-04-17,SW Tait,0,1,0.0,0.0,0,0,1,2.0,0.0,Shakib Al Hasan,bowled

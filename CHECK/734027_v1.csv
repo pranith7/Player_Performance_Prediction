@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Royal Challengers Bangalore,734027,2014-05-22,G Gambhir,4,4,1.0,0.0,0,0,0,9.0,100.0,MA Starc,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,734027,2014-05-22,MK Pandey,13,13,3.0,0.0,0,0,0,20.0,100.0,AB Dinda,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,734027,2014-05-22,RN ten Doeschate,6,3,0.0,1.0,0,0,0,12.0,200.0,0,0
+Kolkata Knight Riders,Royal Challengers Bangalore,734027,2014-05-22,RV Uthappa,83,53,10.0,1.0,1,0,0,107.0,156.60377358490567,0,0
+Kolkata Knight Riders,Royal Challengers Bangalore,734027,2014-05-22,Shakib Al Hasan,60,39,5.0,3.0,1,0,0,83.0,153.84615384615387,AN Ahmed,bowled
+Kolkata Knight Riders,Royal Challengers Bangalore,734027,2014-05-22,YK Pathan,22,13,1.0,2.0,0,0,0,31.0,169.23076923076923,Yuvraj Singh,run out
+Royal Challengers Bangalore,Kolkata Knight Riders,734027,2014-05-22,AB de Villiers,13,13,1.0,0.0,0,0,0,18.0,100.0,SP Narine,bowled
+Royal Challengers Bangalore,Kolkata Knight Riders,734027,2014-05-22,CH Gayle,6,9,1.0,0.0,0,0,0,11.0,66.66666666666666,UT Yadav,lbw
+Royal Challengers Bangalore,Kolkata Knight Riders,734027,2014-05-22,MA Starc,12,8,1.0,0.0,0,0,0,17.0,150.0,0,0
+Royal Challengers Bangalore,Kolkata Knight Riders,734027,2014-05-22,S Rana,19,12,2.0,0.0,0,0,0,25.0,158.33333333333331,0,0
+Royal Challengers Bangalore,Kolkata Knight Riders,734027,2014-05-22,V Kohli,38,31,3.0,1.0,0,0,0,47.0,122.58064516129032,SP Narine,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,734027,2014-05-22,YV Takawale,45,36,5.0,1.0,0,0,0,56.0,125.0,SP Narine,bowled
+Royal Challengers Bangalore,Kolkata Knight Riders,734027,2014-05-22,Yuvraj Singh,22,13,1.0,2.0,0,0,0,31.0,169.23076923076923,SP Narine,caught

@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Delhi Capitals,1181767,2019-05-10,AT Rayudu,20,20,3.0,0.0,0,0,0,27.0,100.0,0,0
+Chennai Super Kings,Delhi Capitals,1181767,2019-05-10,DJ Bravo,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Chennai Super Kings,Delhi Capitals,1181767,2019-05-10,F du Plessis,50,39,7.0,1.0,1,0,0,71.0,128.2051282051282,TA Boult,caught
+Chennai Super Kings,Delhi Capitals,1181767,2019-05-10,MS Dhoni,9,9,1.0,0.0,0,0,0,14.0,100.0,I Sharma,caught
+Chennai Super Kings,Delhi Capitals,1181767,2019-05-10,SK Raina,11,13,0.0,0.0,0,0,0,15.0,84.61538461538461,AR Patel,bowled
+Chennai Super Kings,Delhi Capitals,1181767,2019-05-10,SR Watson,50,34,3.0,4.0,1,0,0,73.0,147.05882352941177,A Mishra,caught
+Delhi Capitals,Chennai Super Kings,1181767,2019-05-10,A Mishra,6,3,1.0,0.0,0,0,0,11.0,200.0,0,0
+Delhi Capitals,Chennai Super Kings,1181767,2019-05-10,AR Patel,3,6,0.0,0.0,0,0,0,7.0,50.0,DJ Bravo,caught
+Delhi Capitals,Chennai Super Kings,1181767,2019-05-10,C Munro,27,24,4.0,0.0,0,0,0,35.0,112.5,RA Jadeja,caught
+Delhi Capitals,Chennai Super Kings,1181767,2019-05-10,I Sharma,10,3,1.0,1.0,0,0,0,17.0,333.33333333333337,0,0
+Delhi Capitals,Chennai Super Kings,1181767,2019-05-10,KMA Paul,3,8,0.0,0.0,0,0,0,7.0,37.5,DJ Bravo,bowled
+Delhi Capitals,Chennai Super Kings,1181767,2019-05-10,PP Shaw,5,7,1.0,0.0,0,0,0,10.0,71.42857142857143,DL Chahar,lbw
+Delhi Capitals,Chennai Super Kings,1181767,2019-05-10,RR Pant,38,25,2.0,1.0,0,0,0,46.0,152.0,DL Chahar,caught
+Delhi Capitals,Chennai Super Kings,1181767,2019-05-10,S Dhawan,18,14,3.0,0.0,0,0,0,25.0,128.57142857142858,Harbhajan Singh,caught
+Delhi Capitals,Chennai Super Kings,1181767,2019-05-10,SE Rutherford,10,12,0.0,1.0,0,0,0,16.0,83.33333333333334,Harbhajan Singh,caught
+Delhi Capitals,Chennai Super Kings,1181767,2019-05-10,SS Iyer,13,18,1.0,0.0,0,0,0,18.0,72.22222222222221,Imran Tahir,caught
+Delhi Capitals,Chennai Super Kings,1181767,2019-05-10,TA Boult,6,3,0.0,1.0,0,0,0,12.0,200.0,RA Jadeja,bowled

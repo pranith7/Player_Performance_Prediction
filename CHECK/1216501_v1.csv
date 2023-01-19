@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Kolkata Knight Riders,1216501,2020-10-07,AT Rayudu,30,28,3.0,0.0,0,0,0,37.0,107.14285714285714,KL Nagarkoti,caught
+Chennai Super Kings,Kolkata Knight Riders,1216501,2020-10-07,F du Plessis,17,10,3.0,0.0,0,0,0,24.0,170.0,Shivam Mavi,caught
+Chennai Super Kings,Kolkata Knight Riders,1216501,2020-10-07,KM Jadhav,7,12,1.0,0.0,0,0,0,12.0,58.333333333333336,0,0
+Chennai Super Kings,Kolkata Knight Riders,1216501,2020-10-07,MS Dhoni,11,12,1.0,0.0,0,0,0,16.0,91.66666666666666,CV Varun,bowled
+Chennai Super Kings,Kolkata Knight Riders,1216501,2020-10-07,RA Jadeja,21,8,3.0,1.0,0,0,0,30.0,262.5,0,0
+Chennai Super Kings,Kolkata Knight Riders,1216501,2020-10-07,SM Curran,17,11,1.0,1.0,0,0,0,24.0,154.54545454545453,AD Russell,caught
+Chennai Super Kings,Kolkata Knight Riders,1216501,2020-10-07,SR Watson,50,41,6.0,1.0,1,0,0,70.0,121.95121951219512,SP Narine,lbw
+Kolkata Knight Riders,Chennai Super Kings,1216501,2020-10-07,AD Russell,2,4,0.0,0.0,0,0,0,6.0,50.0,SN Thakur,caught
+Kolkata Knight Riders,Chennai Super Kings,1216501,2020-10-07,CV Varun,1,1,0.0,0.0,0,0,0,5.0,100.0,DJ Bravo,run out
+Kolkata Knight Riders,Chennai Super Kings,1216501,2020-10-07,EJG Morgan,7,10,1.0,0.0,0,0,0,12.0,70.0,SM Curran,caught
+Kolkata Knight Riders,Chennai Super Kings,1216501,2020-10-07,KD Karthik,12,11,1.0,0.0,0,0,0,17.0,109.09090909090908,SM Curran,caught
+Kolkata Knight Riders,Chennai Super Kings,1216501,2020-10-07,KL Nagarkoti,0,3,0.0,0.0,0,0,1,2.0,0.0,DJ Bravo,caught
+Kolkata Knight Riders,Chennai Super Kings,1216501,2020-10-07,N Rana,9,10,1.0,0.0,0,0,0,14.0,90.0,KV Sharma,caught
+Kolkata Knight Riders,Chennai Super Kings,1216501,2020-10-07,PJ Cummins,17,10,1.0,1.0,0,0,0,24.0,170.0,0,0
+Kolkata Knight Riders,Chennai Super Kings,1216501,2020-10-07,RA Tripathi,81,53,8.0,3.0,1,0,0,107.0,152.83018867924528,DJ Bravo,caught
+Kolkata Knight Riders,Chennai Super Kings,1216501,2020-10-07,SP Narine,17,10,1.0,1.0,0,0,0,24.0,170.0,KV Sharma,caught
+Kolkata Knight Riders,Chennai Super Kings,1216501,2020-10-07,Shivam Mavi,0,1,0.0,0.0,0,0,1,2.0,0.0,DJ Bravo,caught
+Kolkata Knight Riders,Chennai Super Kings,1216501,2020-10-07,Shubman Gill,11,13,1.0,0.0,0,0,0,16.0,84.61538461538461,SN Thakur,caught

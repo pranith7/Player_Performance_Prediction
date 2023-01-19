@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Sunrisers Hyderabad,829799,2015-05-11,AR Patel,15,13,2.0,0.0,0,0,0,21.0,115.38461538461536,B Kumar,caught
+Kings XI Punjab,Sunrisers Hyderabad,829799,2015-05-11,DA Miller,89,45,2.0,9.0,1,0,0,121.0,197.77777777777777,0,0
+Kings XI Punjab,Sunrisers Hyderabad,829799,2015-05-11,GJ Bailey,6,11,0.0,0.0,0,0,0,10.0,54.54545454545454,MC Henriques,caught
+Kings XI Punjab,Sunrisers Hyderabad,829799,2015-05-11,GJ Maxwell,11,6,1.0,1.0,0,0,0,18.0,183.3333333333333,TA Boult,caught
+Kings XI Punjab,Sunrisers Hyderabad,829799,2015-05-11,Gurkeerat Singh,3,5,0.0,0.0,0,0,0,7.0,60.0,MC Henriques,caught
+Kings XI Punjab,Sunrisers Hyderabad,829799,2015-05-11,M Vijay,24,18,4.0,1.0,0,0,0,34.0,133.33333333333331,Bipul Sharma,caught
+Kings XI Punjab,Sunrisers Hyderabad,829799,2015-05-11,M Vohra,20,15,2.0,1.0,0,0,0,28.0,133.33333333333331,Bipul Sharma,caught
+Kings XI Punjab,Sunrisers Hyderabad,829799,2015-05-11,WP Saha,5,11,0.0,0.0,0,0,0,9.0,45.45454545454545,MC Henriques,caught
+Sunrisers Hyderabad,Kings XI Punjab,829799,2015-05-11,DA Warner,81,54,6.0,5.0,1,0,0,109.0,150.0,BE Hendricks,caught
+Sunrisers Hyderabad,Kings XI Punjab,829799,2015-05-11,EJG Morgan,17,7,1.0,2.0,0,0,0,26.0,242.85714285714283,BE Hendricks,caught
+Sunrisers Hyderabad,Kings XI Punjab,829799,2015-05-11,KL Rahul,17,10,1.0,1.0,0,0,0,24.0,170.0,0,0
+Sunrisers Hyderabad,Kings XI Punjab,829799,2015-05-11,KV Sharma,11,7,0.0,1.0,0,0,0,17.0,157.14285714285714,0,0
+Sunrisers Hyderabad,Kings XI Punjab,829799,2015-05-11,MC Henriques,28,24,4.0,0.0,0,0,0,36.0,116.66666666666669,Gurkeerat Singh,caught
+Sunrisers Hyderabad,Kings XI Punjab,829799,2015-05-11,NV Ojha,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,BE Hendricks,run out
+Sunrisers Hyderabad,Kings XI Punjab,829799,2015-05-11,S Dhawan,24,19,4.0,0.0,0,0,0,32.0,126.3157894736842,GJ Maxwell,stumped

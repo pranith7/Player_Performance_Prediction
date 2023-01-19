@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Royal Challengers Bangalore,335985,2008-04-20,AM Nayar,20,15,1.0,1.0,0,0,0,27.0,133.33333333333331,P Kumar,caught
+Mumbai Indians,Royal Challengers Bangalore,335985,2008-04-20,DJ Thornely,0,6,0.0,0.0,0,0,1,2.0,0.0,Z Khan,retired hurt
+Mumbai Indians,Royal Challengers Bangalore,335985,2008-04-20,Harbhajan Singh,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Mumbai Indians,Royal Challengers Bangalore,335985,2008-04-20,L Ronchi,8,10,2.0,0.0,0,0,0,14.0,80.0,Z Khan,caught
+Mumbai Indians,Royal Challengers Bangalore,335985,2008-04-20,PR Shah,19,23,2.0,0.0,0,0,0,25.0,82.6086956521739,B Akhil,caught
+Mumbai Indians,Royal Challengers Bangalore,335985,2008-04-20,RV Uthappa,48,38,5.0,1.0,0,0,0,59.0,126.3157894736842,B Akhil,stumped
+Mumbai Indians,Royal Challengers Bangalore,335985,2008-04-20,SM Pollock,28,12,3.0,2.0,0,0,0,39.0,233.3333333333333,Z Khan,bowled
+Mumbai Indians,Royal Challengers Bangalore,335985,2008-04-20,ST Jayasuriya,29,17,5.0,1.0,0,0,0,40.0,170.58823529411765,Z Khan,run out
+Royal Challengers Bangalore,Mumbai Indians,335985,2008-04-20,B Akhil,3,6,0.0,0.0,0,0,0,7.0,50.0,0,0
+Royal Challengers Bangalore,Mumbai Indians,335985,2008-04-20,JH Kallis,25,24,0.0,1.0,0,0,0,31.0,104.16666666666669,Harbhajan Singh,caught
+Royal Challengers Bangalore,Mumbai Indians,335985,2008-04-20,LRPL Taylor,23,13,1.0,2.0,0,0,0,32.0,176.9230769230769,ST Jayasuriya,caught
+Royal Challengers Bangalore,Mumbai Indians,335985,2008-04-20,MV Boucher,39,20,4.0,2.0,0,0,0,51.0,195.0,0,0
+Royal Challengers Bangalore,Mumbai Indians,335985,2008-04-20,R Dravid,32,33,4.0,0.0,0,0,0,40.0,96.96969696969695,Harbhajan Singh,caught and bowled
+Royal Challengers Bangalore,Mumbai Indians,335985,2008-04-20,S Chanderpaul,16,12,3.0,0.0,0,0,0,23.0,133.33333333333331,DS Kulkarni,caught
+Royal Challengers Bangalore,Mumbai Indians,335985,2008-04-20,V Kohli,23,15,3.0,1.0,0,0,0,32.0,153.33333333333334,A Nehra,caught

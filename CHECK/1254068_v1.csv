@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Capitals,Punjab Kings,1254068,2021-04-18,Lalit Yadav,12,6,2.0,0.0,0,0,0,18.0,200.0,0,0
+Delhi Capitals,Punjab Kings,1254068,2021-04-18,MP Stoinis,27,13,3.0,1.0,0,0,0,36.0,207.6923076923077,0,0
+Delhi Capitals,Punjab Kings,1254068,2021-04-18,PP Shaw,32,17,3.0,2.0,0,0,0,43.0,188.23529411764704,Arshdeep Singh,caught
+Delhi Capitals,Punjab Kings,1254068,2021-04-18,RR Pant,15,17,0.0,1.0,0,0,0,21.0,88.23529411764706,JA Richardson,caught
+Delhi Capitals,Punjab Kings,1254068,2021-04-18,S Dhawan,92,50,13.0,2.0,1,0,0,121.0,184.0,JA Richardson,bowled
+Delhi Capitals,Punjab Kings,1254068,2021-04-18,SPD Smith,9,12,0.0,0.0,0,0,0,13.0,75.0,RP Meredith,caught
+Punjab Kings,Delhi Capitals,1254068,2021-04-18,CH Gayle,11,9,0.0,1.0,0,0,0,17.0,122.22222222222224,CR Woakes,caught
+Punjab Kings,Delhi Capitals,1254068,2021-04-18,DJ Hooda,22,13,0.0,2.0,0,0,0,30.0,169.23076923076923,0,0
+Punjab Kings,Delhi Capitals,1254068,2021-04-18,KL Rahul,61,51,7.0,2.0,1,0,0,84.0,119.6078431372549,K Rabada,caught
+Punjab Kings,Delhi Capitals,1254068,2021-04-18,M Shahrukh Khan,15,5,2.0,1.0,0,0,0,23.0,300.0,0,0
+Punjab Kings,Delhi Capitals,1254068,2021-04-18,MA Agarwal,69,36,7.0,4.0,1,0,0,96.0,191.66666666666669,LI Meriwala,caught
+Punjab Kings,Delhi Capitals,1254068,2021-04-18,N Pooran,9,8,1.0,0.0,0,0,0,14.0,112.5,Avesh Khan,caught

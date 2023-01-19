@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Sunrisers Hyderabad,598021,2013-04-19,AC Gilchrist,26,25,4.0,0.0,0,0,0,34.0,104.0,KV Sharma,caught
+Kings XI Punjab,Sunrisers Hyderabad,598021,2013-04-19,AD Mascarenhas,5,5,0.0,0.0,0,0,0,9.0,100.0,0,0
+Kings XI Punjab,Sunrisers Hyderabad,598021,2013-04-19,Azhar Mahmood,4,4,1.0,0.0,0,0,0,9.0,100.0,A Mishra,caught
+Kings XI Punjab,Sunrisers Hyderabad,598021,2013-04-19,DJ Hussey,22,24,1.0,1.0,0,0,0,29.0,91.66666666666666,I Sharma,caught
+Kings XI Punjab,Sunrisers Hyderabad,598021,2013-04-19,Gurkeerat Singh,17,12,1.0,1.0,0,0,0,24.0,141.66666666666669,DW Steyn,bowled
+Kings XI Punjab,Sunrisers Hyderabad,598021,2013-04-19,M Vohra,0,1,0.0,0.0,0,0,1,2.0,0.0,A Mishra,caught
+Kings XI Punjab,Sunrisers Hyderabad,598021,2013-04-19,Mandeep Singh,10,12,1.0,0.0,0,0,0,15.0,83.33333333333334,I Sharma,caught
+Kings XI Punjab,Sunrisers Hyderabad,598021,2013-04-19,P Kumar,3,6,0.0,0.0,0,0,0,7.0,50.0,0,0
+Kings XI Punjab,Sunrisers Hyderabad,598021,2013-04-19,PC Valthaty,6,17,0.0,0.0,0,0,0,10.0,35.294117647058826,KV Sharma,caught
+Kings XI Punjab,Sunrisers Hyderabad,598021,2013-04-19,PP Chawla,23,16,1.0,2.0,0,0,0,32.0,143.75,NLTC Perera,run out
+Sunrisers Hyderabad,Kings XI Punjab,598021,2013-04-19,A Ashish Reddy,7,7,1.0,0.0,0,0,0,12.0,100.0,0,0
+Sunrisers Hyderabad,Kings XI Punjab,598021,2013-04-19,BB Samantray,10,12,1.0,0.0,0,0,0,15.0,83.33333333333334,Azhar Mahmood,lbw
+Sunrisers Hyderabad,Kings XI Punjab,598021,2013-04-19,CL White,16,23,1.0,0.0,0,0,0,21.0,69.56521739130434,MS Gony,bowled
+Sunrisers Hyderabad,Kings XI Punjab,598021,2013-04-19,GH Vihari,46,39,5.0,0.0,0,0,0,55.0,117.94871794871796,PP Chawla,caught
+Sunrisers Hyderabad,Kings XI Punjab,598021,2013-04-19,NLTC Perera,23,12,0.0,3.0,0,0,0,33.0,191.66666666666669,0,0
+Sunrisers Hyderabad,Kings XI Punjab,598021,2013-04-19,PA Reddy,19,17,2.0,0.0,0,0,0,25.0,111.76470588235294,MS Gony,caught
+Sunrisers Hyderabad,Kings XI Punjab,598021,2013-04-19,Q de Kock,0,4,0.0,0.0,0,0,1,2.0,0.0,P Kumar,bowled

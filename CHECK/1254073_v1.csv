@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Rajasthan Royals,Royal Challengers Bangalore,1254073,2021-04-22,C Sakariya,0,1,0.0,0.0,0,0,1,2.0,0.0,HV Patel,caught
+Rajasthan Royals,Royal Challengers Bangalore,1254073,2021-04-22,CH Morris,10,10,0.0,1.0,0,0,0,16.0,100.0,HV Patel,caught
+Rajasthan Royals,Royal Challengers Bangalore,1254073,2021-04-22,DA Miller,0,2,0.0,0.0,0,0,1,2.0,0.0,Mohammed Siraj,lbw
+Rajasthan Royals,Royal Challengers Bangalore,1254073,2021-04-22,JC Buttler,8,8,2.0,0.0,0,0,0,14.0,100.0,Mohammed Siraj,bowled
+Rajasthan Royals,Royal Challengers Bangalore,1254073,2021-04-22,M Vohra,7,9,1.0,0.0,0,0,0,12.0,77.77777777777779,KA Jamieson,caught
+Rajasthan Royals,Royal Challengers Bangalore,1254073,2021-04-22,R Parag,25,16,4.0,0.0,0,0,0,33.0,156.25,HV Patel,caught
+Rajasthan Royals,Royal Challengers Bangalore,1254073,2021-04-22,R Tewatia,40,25,4.0,2.0,0,0,0,52.0,160.0,Mohammed Siraj,caught
+Rajasthan Royals,Royal Challengers Bangalore,1254073,2021-04-22,S Dube,46,34,5.0,2.0,0,0,0,59.0,135.29411764705884,KW Richardson,caught
+Rajasthan Royals,Royal Challengers Bangalore,1254073,2021-04-22,S Gopal,7,4,0.0,1.0,0,0,0,13.0,175.0,0,0
+Rajasthan Royals,Royal Challengers Bangalore,1254073,2021-04-22,SV Samson,21,19,2.0,1.0,0,0,0,29.0,110.5263157894737,Washington Sundar,caught
+Royal Challengers Bangalore,Rajasthan Royals,1254073,2021-04-22,D Padikkal,101,54,11.0,6.0,1,1,0,152.0,187.03703703703704,0,0
+Royal Challengers Bangalore,Rajasthan Royals,1254073,2021-04-22,V Kohli,72,47,6.0,3.0,1,0,0,96.0,153.19148936170214,0,0

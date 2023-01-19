@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kochi Tuskers Kerala,Royal Challengers Bangalore,501247,2011-05-08,BB McCullum,22,17,3.0,0.0,0,0,0,29.0,129.41176470588235,DL Vettori,caught
+Kochi Tuskers Kerala,Royal Challengers Bangalore,501247,2011-05-08,BJ Hodge,5,13,0.0,0.0,0,0,0,9.0,38.46153846153847,S Aravind,caught
+Kochi Tuskers Kerala,Royal Challengers Bangalore,501247,2011-05-08,DPMD Jayawardene,3,10,0.0,0.0,0,0,0,7.0,30.0,DL Vettori,caught
+Kochi Tuskers Kerala,Royal Challengers Bangalore,501247,2011-05-08,M Klinger,24,25,3.0,0.0,0,0,0,31.0,96.0,CH Gayle,bowled
+Kochi Tuskers Kerala,Royal Challengers Bangalore,501247,2011-05-08,P Parameswaran,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Kochi Tuskers Kerala,Royal Challengers Bangalore,501247,2011-05-08,PA Patel,19,14,3.0,0.0,0,0,0,26.0,135.71428571428572,CH Gayle,run out
+Kochi Tuskers Kerala,Royal Challengers Bangalore,501247,2011-05-08,R Vinay Kumar,3,4,0.0,0.0,0,0,0,7.0,75.0,Z Khan,caught
+Kochi Tuskers Kerala,Royal Challengers Bangalore,501247,2011-05-08,RA Jadeja,23,23,2.0,0.0,0,0,0,29.0,100.0,A Mithun,caught
+Kochi Tuskers Kerala,Royal Challengers Bangalore,501247,2011-05-08,RR Powar,8,6,0.0,0.0,0,0,0,12.0,133.33333333333331,0,0
+Kochi Tuskers Kerala,Royal Challengers Bangalore,501247,2011-05-08,RV Gomez,7,16,1.0,0.0,0,0,0,12.0,43.75,S Aravind,caught
+Royal Challengers Bangalore,Kochi Tuskers Kerala,501247,2011-05-08,CH Gayle,44,17,3.0,5.0,0,0,0,61.0,258.8235294117647,R Vinay Kumar,bowled
+Royal Challengers Bangalore,Kochi Tuskers Kerala,501247,2011-05-08,TM Dilshan,52,31,8.0,1.0,1,0,0,74.0,167.74193548387098,0,0
+Royal Challengers Bangalore,Kochi Tuskers Kerala,501247,2011-05-08,V Kohli,27,34,3.0,0.0,0,0,0,34.0,79.41176470588235,0,0

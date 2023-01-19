@@ -1,0 +1,20 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Sunrisers Hyderabad,1136619,2018-05-25,AD Russell,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,Rashid Khan,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1136619,2018-05-25,CA Lynn,48,31,6.0,2.0,0,0,0,62.0,154.83870967741936,Rashid Khan,lbw
+Kolkata Knight Riders,Sunrisers Hyderabad,1136619,2018-05-25,KD Karthik,8,6,1.0,0.0,0,0,0,13.0,133.33333333333331,Shakib Al Hasan,bowled
+Kolkata Knight Riders,Sunrisers Hyderabad,1136619,2018-05-25,Kuldeep Yadav,0,3,0.0,0.0,0,0,1,2.0,0.0,0,0
+Kolkata Knight Riders,Sunrisers Hyderabad,1136619,2018-05-25,N Rana,22,16,1.0,2.0,0,0,0,31.0,137.5,Shakib Al Hasan,run out
+Kolkata Knight Riders,Sunrisers Hyderabad,1136619,2018-05-25,PP Chawla,12,13,0.0,1.0,0,0,0,18.0,92.3076923076923,S Kaul,bowled
+Kolkata Knight Riders,Sunrisers Hyderabad,1136619,2018-05-25,RV Uthappa,2,8,0.0,0.0,0,0,0,6.0,25.0,Rashid Khan,bowled
+Kolkata Knight Riders,Sunrisers Hyderabad,1136619,2018-05-25,SP Narine,26,13,4.0,1.0,0,0,0,36.0,200.0,S Kaul,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1136619,2018-05-25,Shivam Mavi,6,4,1.0,0.0,0,0,0,11.0,150.0,CR Brathwaite,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1136619,2018-05-25,Shubman Gill,30,20,2.0,1.0,0,0,0,38.0,150.0,CR Brathwaite,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,1136619,2018-05-25,B Kumar,5,2,1.0,0.0,0,0,0,10.0,250.0,0,0
+Sunrisers Hyderabad,Kolkata Knight Riders,1136619,2018-05-25,CR Brathwaite,8,5,0.0,1.0,0,0,0,14.0,160.0,M Prasidh Krishna,run out
+Sunrisers Hyderabad,Kolkata Knight Riders,1136619,2018-05-25,DJ Hooda,19,19,0.0,1.0,0,0,0,25.0,100.0,SP Narine,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,1136619,2018-05-25,KS Williamson,3,3,0.0,0.0,0,0,0,7.0,100.0,Kuldeep Yadav,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,1136619,2018-05-25,Rashid Khan,34,11,2.0,4.0,0,0,0,48.0,309.09090909090907,0,0
+Sunrisers Hyderabad,Kolkata Knight Riders,1136619,2018-05-25,S Dhawan,34,25,4.0,1.0,0,0,0,44.0,136.0,Kuldeep Yadav,lbw
+Sunrisers Hyderabad,Kolkata Knight Riders,1136619,2018-05-25,Shakib Al Hasan,28,24,4.0,0.0,0,0,0,36.0,116.66666666666669,Kuldeep Yadav,run out
+Sunrisers Hyderabad,Kolkata Knight Riders,1136619,2018-05-25,WP Saha,35,28,5.0,0.0,0,0,0,44.0,125.0,PP Chawla,stumped
+Sunrisers Hyderabad,Kolkata Knight Riders,1136619,2018-05-25,YK Pathan,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,Shivam Mavi,caught

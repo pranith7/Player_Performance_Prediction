@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Rising Pune Supergiants,980965,2016-05-05,CR Brathwaite,20,8,0.0,3.0,0,0,0,30.0,250.0,SM Boland,caught
+Delhi Daredevils,Rising Pune Supergiants,980965,2016-05-05,J Yadav,1,5,0.0,0.0,0,0,0,5.0,20.0,R Ashwin,run out
+Delhi Daredevils,Rising Pune Supergiants,980965,2016-05-05,JP Duminy,34,33,1.0,0.0,0,0,0,39.0,103.03030303030305,SM Boland,run out
+Delhi Daredevils,Rising Pune Supergiants,980965,2016-05-05,KK Nair,32,23,5.0,0.0,0,0,0,41.0,139.1304347826087,R Bhatia,caught
+Delhi Daredevils,Rising Pune Supergiants,980965,2016-05-05,Mohammed Shami,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,0,0
+Delhi Daredevils,Rising Pune Supergiants,980965,2016-05-05,P Negi,19,12,1.0,1.0,0,0,0,26.0,158.33333333333331,0,0
+Delhi Daredevils,Rising Pune Supergiants,980965,2016-05-05,RR Pant,2,9,0.0,0.0,0,0,0,6.0,22.22222222222222,AB Dinda,bowled
+Delhi Daredevils,Rising Pune Supergiants,980965,2016-05-05,SV Samson,20,17,3.0,0.0,0,0,0,27.0,117.64705882352942,SM Boland,caught
+Delhi Daredevils,Rising Pune Supergiants,980965,2016-05-05,SW Billings,24,17,1.0,2.0,0,0,0,33.0,141.1764705882353,R Bhatia,caught
+Rising Pune Supergiants,Delhi Daredevils,980965,2016-05-05,AM Rahane,63,51,7.0,0.0,1,0,0,82.0,123.52941176470588,0,0
+Rising Pune Supergiants,Delhi Daredevils,980965,2016-05-05,MS Dhoni,27,20,1.0,2.0,0,0,0,36.0,135.0,Imran Tahir,caught
+Rising Pune Supergiants,Delhi Daredevils,980965,2016-05-05,NLTC Perera,14,5,0.0,2.0,0,0,0,22.0,280.0,0,0
+Rising Pune Supergiants,Delhi Daredevils,980965,2016-05-05,SS Tiwary,21,18,1.0,1.0,0,0,0,28.0,116.66666666666669,Imran Tahir,caught
+Rising Pune Supergiants,Delhi Daredevils,980965,2016-05-05,UT Khawaja,30,27,2.0,1.0,0,0,0,38.0,111.11111111111111,A Mishra,stumped

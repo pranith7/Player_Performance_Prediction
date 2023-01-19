@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Sunrisers Hyderabad,829773,2015-05-02,BB McCullum,12,5,3.0,0.0,0,0,0,19.0,240.0,B Kumar,bowled
+Chennai Super Kings,Sunrisers Hyderabad,829773,2015-05-02,DJ Bravo,25,21,3.0,0.0,0,0,0,32.0,119.04761904761904,0,0
+Chennai Super Kings,Sunrisers Hyderabad,829773,2015-05-02,DR Smith,21,20,3.0,1.0,0,0,0,30.0,105.0,MC Henriques,caught
+Chennai Super Kings,Sunrisers Hyderabad,829773,2015-05-02,F du Plessis,33,24,4.0,0.0,0,0,0,41.0,137.5,A Ashish Reddy,run out
+Chennai Super Kings,Sunrisers Hyderabad,829773,2015-05-02,MS Dhoni,20,16,2.0,0.0,0,0,0,26.0,125.0,A Ashish Reddy,bowled
+Chennai Super Kings,Sunrisers Hyderabad,829773,2015-05-02,P Negi,15,11,1.0,1.0,0,0,0,22.0,136.36363636363637,B Kumar,bowled
+Chennai Super Kings,Sunrisers Hyderabad,829773,2015-05-02,RA Jadeja,14,12,0.0,0.0,0,0,0,18.0,116.66666666666669,0,0
+Chennai Super Kings,Sunrisers Hyderabad,829773,2015-05-02,SK Raina,23,15,0.0,3.0,0,0,0,33.0,153.33333333333334,MC Henriques,caught
+Sunrisers Hyderabad,Chennai Super Kings,829773,2015-05-02,A Ashish Reddy,6,6,1.0,0.0,0,0,0,11.0,100.0,DJ Bravo,caught
+Sunrisers Hyderabad,Chennai Super Kings,829773,2015-05-02,DA Warner,61,28,11.0,1.0,1,0,0,86.0,217.85714285714283,SK Raina,caught
+Sunrisers Hyderabad,Chennai Super Kings,829773,2015-05-02,EJG Morgan,32,27,1.0,2.0,0,0,0,41.0,118.5185185185185,0,0
+Sunrisers Hyderabad,Chennai Super Kings,829773,2015-05-02,GH Vihari,8,5,1.0,0.0,0,0,0,13.0,160.0,DJ Bravo,caught
+Sunrisers Hyderabad,Chennai Super Kings,829773,2015-05-02,KV Sharma,4,2,1.0,0.0,0,0,0,9.0,200.0,DJ Bravo,caught
+Sunrisers Hyderabad,Chennai Super Kings,829773,2015-05-02,MC Henriques,19,9,1.0,2.0,0,0,0,28.0,211.11111111111111,P Negi,stumped
+Sunrisers Hyderabad,Chennai Super Kings,829773,2015-05-02,NV Ojha,20,13,3.0,1.0,0,0,0,29.0,153.84615384615387,A Nehra,bowled
+Sunrisers Hyderabad,Chennai Super Kings,829773,2015-05-02,S Dhawan,37,34,4.0,0.0,0,0,0,45.0,108.8235294117647,SK Raina,run out

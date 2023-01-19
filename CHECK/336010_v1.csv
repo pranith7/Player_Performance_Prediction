@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Royal Challengers Bangalore,336010,2008-05-08,A Chopra,2,5,0.0,0.0,0,0,0,6.0,40.0,DW Steyn,lbw
+Kolkata Knight Riders,Royal Challengers Bangalore,336010,2008-05-08,BJ Hodge,10,12,2.0,0.0,0,0,0,16.0,83.33333333333334,Z Khan,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,336010,2008-05-08,DJ Hussey,26,12,1.0,3.0,0,0,0,37.0,216.66666666666663,A Kumble,run out
+Kolkata Knight Riders,Royal Challengers Bangalore,336010,2008-05-08,LR Shukla,11,9,2.0,0.0,0,0,0,17.0,122.22222222222224,DW Steyn,bowled
+Kolkata Knight Riders,Royal Challengers Bangalore,336010,2008-05-08,M Kartik,17,13,2.0,0.0,0,0,0,23.0,130.76923076923077,P Kumar,caught and bowled
+Kolkata Knight Riders,Royal Challengers Bangalore,336010,2008-05-08,SC Ganguly,20,23,2.0,0.0,0,0,0,26.0,86.95652173913044,R Vinay Kumar,run out
+Kolkata Knight Riders,Royal Challengers Bangalore,336010,2008-05-08,T Taibu,15,12,2.0,0.0,0,0,0,21.0,125.0,DW Steyn,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,336010,2008-05-08,Umar Gul,6,2,0.0,1.0,0,0,0,12.0,300.0,0,0
+Kolkata Knight Riders,Royal Challengers Bangalore,336010,2008-05-08,WP Saha,17,10,1.0,1.0,0,0,0,24.0,170.0,0,0
+Royal Challengers Bangalore,Kolkata Knight Riders,336010,2008-05-08,CL White,30,16,3.0,1.0,0,0,0,39.0,187.5,M Kartik,run out
+Royal Challengers Bangalore,Kolkata Knight Riders,336010,2008-05-08,J Arunkumar,22,18,5.0,0.0,0,0,0,31.0,122.22222222222224,Umar Gul,run out
+Royal Challengers Bangalore,Kolkata Knight Riders,336010,2008-05-08,MV Boucher,50,40,5.0,1.0,1,0,0,69.0,125.0,0,0
+Royal Challengers Bangalore,Kolkata Knight Riders,336010,2008-05-08,P Kumar,4,2,1.0,0.0,0,0,0,9.0,200.0,0,0
+Royal Challengers Bangalore,Kolkata Knight Riders,336010,2008-05-08,R Dravid,5,11,0.0,0.0,0,0,0,9.0,45.45454545454545,SC Ganguly,bowled
+Royal Challengers Bangalore,Kolkata Knight Riders,336010,2008-05-08,S Chanderpaul,7,12,1.0,0.0,0,0,0,12.0,58.333333333333336,I Sharma,caught

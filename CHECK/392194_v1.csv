@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Royal Challengers Bangalore,392194,2009-04-26,AB de Villiers,21,23,0.0,0.0,0,0,0,25.0,91.30434782608695,KP Appanna,bowled
+Delhi Daredevils,Royal Challengers Bangalore,392194,2009-04-26,G Gambhir,16,19,1.0,0.0,0,0,0,21.0,84.21052631578947,Pankaj Singh,caught
+Delhi Daredevils,Royal Challengers Bangalore,392194,2009-04-26,KD Karthik,12,10,1.0,1.0,0,0,0,19.0,120.0,B Akhil,caught
+Delhi Daredevils,Royal Challengers Bangalore,392194,2009-04-26,M Manhas,23,13,3.0,0.0,0,0,0,30.0,176.9230769230769,0,0
+Delhi Daredevils,Royal Challengers Bangalore,392194,2009-04-26,TM Dilshan,67,49,5.0,2.0,1,0,0,88.0,136.73469387755102,0,0
+Delhi Daredevils,Royal Challengers Bangalore,392194,2009-04-26,V Sehwag,7,6,0.0,1.0,0,0,0,13.0,116.66666666666669,Pankaj Singh,caught
+Royal Challengers Bangalore,Delhi Daredevils,392194,2009-04-26,B Akhil,8,5,0.0,1.0,0,0,0,14.0,160.0,0,0
+Royal Challengers Bangalore,Delhi Daredevils,392194,2009-04-26,JH Kallis,0,1,0.0,0.0,0,0,1,2.0,0.0,DP Nannes,bowled
+Royal Challengers Bangalore,Delhi Daredevils,392194,2009-04-26,KP Pietersen,37,26,2.0,2.0,0,0,0,47.0,142.30769230769232,DL Vettori,bowled
+Royal Challengers Bangalore,Delhi Daredevils,392194,2009-04-26,LRPL Taylor,31,36,3.0,0.0,0,0,0,38.0,86.11111111111111,A Mishra,lbw
+Royal Challengers Bangalore,Delhi Daredevils,392194,2009-04-26,MV Boucher,36,29,2.0,2.0,0,0,0,46.0,124.13793103448276,PJ Sangwan,caught
+Royal Challengers Bangalore,Delhi Daredevils,392194,2009-04-26,Pankaj Singh,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Royal Challengers Bangalore,Delhi Daredevils,392194,2009-04-26,RV Uthappa,3,4,0.0,0.0,0,0,0,7.0,75.0,A Nehra,caught
+Royal Challengers Bangalore,Delhi Daredevils,392194,2009-04-26,V Kohli,22,24,1.0,0.0,0,0,0,27.0,91.66666666666666,A Nehra,caught

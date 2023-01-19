@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Kings XI Punjab,1136572,2018-04-15,AT Rayudu,49,37,5.0,1.0,0,0,0,60.0,132.43243243243242,BB Sran,run out
+Chennai Super Kings,Kings XI Punjab,1136572,2018-04-15,DJ Bravo,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Chennai Super Kings,Kings XI Punjab,1136572,2018-04-15,M Vijay,12,11,0.0,1.0,0,0,0,18.0,109.09090909090908,AJ Tye,caught
+Chennai Super Kings,Kings XI Punjab,1136572,2018-04-15,MS Dhoni,79,47,6.0,5.0,1,0,0,107.0,168.08510638297872,0,0
+Chennai Super Kings,Kings XI Punjab,1136572,2018-04-15,RA Jadeja,19,15,1.0,1.0,0,0,0,26.0,126.66666666666666,AJ Tye,caught
+Chennai Super Kings,Kings XI Punjab,1136572,2018-04-15,SR Watson,11,10,2.0,0.0,0,0,0,17.0,110.0,MM Sharma,caught
+Chennai Super Kings,Kings XI Punjab,1136572,2018-04-15,SW Billings,9,8,1.0,0.0,0,0,0,14.0,112.5,R Ashwin,lbw
+Kings XI Punjab,Chennai Super Kings,1136572,2018-04-15,AJ Finch,0,1,0.0,0.0,0,0,1,2.0,0.0,Imran Tahir,lbw
+Kings XI Punjab,Chennai Super Kings,1136572,2018-04-15,AJ Tye,3,4,0.0,0.0,0,0,0,7.0,75.0,0,0
+Kings XI Punjab,Chennai Super Kings,1136572,2018-04-15,CH Gayle,63,34,7.0,4.0,1,0,0,90.0,185.29411764705884,SR Watson,caught
+Kings XI Punjab,Chennai Super Kings,1136572,2018-04-15,KK Nair,29,17,2.0,1.0,0,0,0,37.0,170.58823529411765,DJ Bravo,caught
+Kings XI Punjab,Chennai Super Kings,1136572,2018-04-15,KL Rahul,37,22,7.0,0.0,0,0,0,48.0,168.1818181818182,Harbhajan Singh,caught
+Kings XI Punjab,Chennai Super Kings,1136572,2018-04-15,MA Agarwal,30,19,1.0,2.0,0,0,0,39.0,157.89473684210526,Imran Tahir,caught
+Kings XI Punjab,Chennai Super Kings,1136572,2018-04-15,R Ashwin,14,11,0.0,1.0,0,0,0,20.0,127.27272727272728,SN Thakur,caught
+Kings XI Punjab,Chennai Super Kings,1136572,2018-04-15,Yuvraj Singh,20,13,2.0,1.0,0,0,0,28.0,153.84615384615387,SN Thakur,caught

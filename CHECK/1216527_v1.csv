@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Rajasthan Royals,1216527,2020-09-27,GJ Maxwell,13,10,2.0,0.0,0,0,0,19.0,130.0,0,0
+Kings XI Punjab,Rajasthan Royals,1216527,2020-09-27,KL Rahul,69,56,7.0,1.0,1,0,0,90.0,123.21428571428572,AS Rajpoot,caught
+Kings XI Punjab,Rajasthan Royals,1216527,2020-09-27,MA Agarwal,106,53,10.0,7.0,1,1,0,158.0,200.0,TK Curran,caught
+Kings XI Punjab,Rajasthan Royals,1216527,2020-09-27,N Pooran,25,8,1.0,3.0,0,0,0,36.0,312.5,0,0
+Rajasthan Royals,Kings XI Punjab,1216527,2020-09-27,JC Archer,13,3,0.0,2.0,0,0,0,21.0,433.3333333333333,0,0
+Rajasthan Royals,Kings XI Punjab,1216527,2020-09-27,JC Buttler,4,8,0.0,0.0,0,0,0,8.0,50.0,SS Cottrell,caught
+Rajasthan Royals,Kings XI Punjab,1216527,2020-09-27,R Parag,0,2,0.0,0.0,0,0,1,2.0,0.0,M Ashwin,bowled
+Rajasthan Royals,Kings XI Punjab,1216527,2020-09-27,R Tewatia,53,32,0.0,7.0,1,0,0,79.0,165.625,Mohammed Shami,caught
+Rajasthan Royals,Kings XI Punjab,1216527,2020-09-27,RV Uthappa,9,4,2.0,0.0,0,0,0,15.0,225.0,Mohammed Shami,caught
+Rajasthan Royals,Kings XI Punjab,1216527,2020-09-27,SPD Smith,50,29,7.0,2.0,1,0,0,73.0,172.41379310344826,JDS Neesham,caught
+Rajasthan Royals,Kings XI Punjab,1216527,2020-09-27,SV Samson,85,44,4.0,7.0,1,0,0,115.0,193.1818181818182,Mohammed Shami,caught
+Rajasthan Royals,Kings XI Punjab,1216527,2020-09-27,TK Curran,4,1,1.0,0.0,0,0,0,9.0,400.0,0,0

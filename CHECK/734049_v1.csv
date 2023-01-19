@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Kolkata Knight Riders,734049,2014-06-01,DA Miller,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Kings XI Punjab,Kolkata Knight Riders,734049,2014-06-01,GJ Bailey,1,2,0.0,0.0,0,0,0,5.0,50.0,SP Narine,bowled
+Kings XI Punjab,Kolkata Knight Riders,734049,2014-06-01,GJ Maxwell,0,1,0.0,0.0,0,0,1,2.0,0.0,PP Chawla,caught
+Kings XI Punjab,Kolkata Knight Riders,734049,2014-06-01,M Vohra,67,52,6.0,2.0,1,0,0,89.0,128.84615384615387,PP Chawla,caught and bowled
+Kings XI Punjab,Kolkata Knight Riders,734049,2014-06-01,V Sehwag,7,10,1.0,0.0,0,0,0,12.0,70.0,UT Yadav,caught
+Kings XI Punjab,Kolkata Knight Riders,734049,2014-06-01,WP Saha,115,56,10.0,8.0,1,1,0,169.0,205.35714285714283,0,0
+Kolkata Knight Riders,Kings XI Punjab,734049,2014-06-01,G Gambhir,23,19,3.0,0.0,0,0,0,30.0,121.05263157894736,Karanveer Singh,caught
+Kolkata Knight Riders,Kings XI Punjab,734049,2014-06-01,MK Pandey,94,52,7.0,6.0,1,0,0,125.0,180.7692307692308,Karanveer Singh,caught
+Kolkata Knight Riders,Kings XI Punjab,734049,2014-06-01,PP Chawla,13,6,1.0,1.0,0,0,0,20.0,216.66666666666663,0,0
+Kolkata Knight Riders,Kings XI Punjab,734049,2014-06-01,RN ten Doeschate,4,3,1.0,0.0,0,0,0,9.0,133.33333333333331,Karanveer Singh,caught
+Kolkata Knight Riders,Kings XI Punjab,734049,2014-06-01,RV Uthappa,5,3,1.0,0.0,0,0,0,10.0,166.66666666666669,MG Johnson,caught
+Kolkata Knight Riders,Kings XI Punjab,734049,2014-06-01,SA Yadav,5,6,0.0,0.0,0,0,0,9.0,83.33333333333334,MG Johnson,caught
+Kolkata Knight Riders,Kings XI Punjab,734049,2014-06-01,SP Narine,2,4,0.0,0.0,0,0,0,6.0,50.0,0,0
+Kolkata Knight Riders,Kings XI Punjab,734049,2014-06-01,Shakib Al Hasan,12,7,2.0,0.0,0,0,0,18.0,171.42857142857142,AR Patel,run out
+Kolkata Knight Riders,Kings XI Punjab,734049,2014-06-01,YK Pathan,36,23,0.0,4.0,0,0,0,48.0,156.52173913043478,Karanveer Singh,caught

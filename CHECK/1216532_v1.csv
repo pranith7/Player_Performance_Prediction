@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Capitals,Sunrisers Hyderabad,1216532,2020-09-29,A Nortje,3,2,0.0,0.0,0,0,0,7.0,150.0,0,0
+Delhi Capitals,Sunrisers Hyderabad,1216532,2020-09-29,AR Patel,5,7,0.0,0.0,0,0,0,9.0,71.42857142857143,KK Ahmed,bowled
+Delhi Capitals,Sunrisers Hyderabad,1216532,2020-09-29,K Rabada,15,7,1.0,1.0,0,0,0,22.0,214.28571428571428,0,0
+Delhi Capitals,Sunrisers Hyderabad,1216532,2020-09-29,MP Stoinis,11,9,1.0,0.0,0,0,0,16.0,122.22222222222224,T Natarajan,lbw
+Delhi Capitals,Sunrisers Hyderabad,1216532,2020-09-29,PP Shaw,2,5,0.0,0.0,0,0,0,6.0,40.0,B Kumar,caught
+Delhi Capitals,Sunrisers Hyderabad,1216532,2020-09-29,RR Pant,28,28,1.0,2.0,0,0,0,37.0,100.0,Rashid Khan,caught
+Delhi Capitals,Sunrisers Hyderabad,1216532,2020-09-29,S Dhawan,34,31,4.0,0.0,0,0,0,42.0,109.6774193548387,Rashid Khan,caught
+Delhi Capitals,Sunrisers Hyderabad,1216532,2020-09-29,SO Hetmyer,21,13,0.0,2.0,0,0,0,29.0,161.53846153846155,B Kumar,caught
+Delhi Capitals,Sunrisers Hyderabad,1216532,2020-09-29,SS Iyer,17,22,2.0,0.0,0,0,0,23.0,77.27272727272727,Rashid Khan,caught
+Sunrisers Hyderabad,Delhi Capitals,1216532,2020-09-29,Abdul Samad,12,7,1.0,1.0,0,0,0,19.0,171.42857142857142,0,0
+Sunrisers Hyderabad,Delhi Capitals,1216532,2020-09-29,Abhishek Sharma,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Sunrisers Hyderabad,Delhi Capitals,1216532,2020-09-29,DA Warner,45,33,3.0,2.0,0,0,0,56.0,136.36363636363637,A Mishra,caught
+Sunrisers Hyderabad,Delhi Capitals,1216532,2020-09-29,JM Bairstow,53,51,2.0,1.0,1,0,0,69.0,103.921568627451,K Rabada,caught
+Sunrisers Hyderabad,Delhi Capitals,1216532,2020-09-29,KS Williamson,41,26,5.0,0.0,0,0,0,50.0,157.69230769230768,K Rabada,caught
+Sunrisers Hyderabad,Delhi Capitals,1216532,2020-09-29,MK Pandey,3,5,0.0,0.0,0,0,0,7.0,60.0,A Mishra,caught

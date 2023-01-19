@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Royal Challengers Bangalore,548310,2012-04-07,AJ Finch,25,24,3.0,0.0,0,0,0,32.0,104.16666666666669,M Muralitharan,lbw
+Delhi Daredevils,Royal Challengers Bangalore,548310,2012-04-07,DAJ Bracewell,12,9,1.0,0.0,0,0,0,17.0,133.33333333333331,0,0
+Delhi Daredevils,Royal Challengers Bangalore,548310,2012-04-07,GJ Maxwell,3,4,0.0,0.0,0,0,0,7.0,75.0,M Muralitharan,caught
+Delhi Daredevils,Royal Challengers Bangalore,548310,2012-04-07,IK Pathan,24,16,2.0,1.0,0,0,0,32.0,150.0,Z Khan,run out
+Delhi Daredevils,Royal Challengers Bangalore,548310,2012-04-07,M Morkel,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,0,0
+Delhi Daredevils,Royal Challengers Bangalore,548310,2012-04-07,NV Ojha,33,27,4.0,1.0,0,0,0,43.0,122.22222222222224,M Muralitharan,caught
+Delhi Daredevils,Royal Challengers Bangalore,548310,2012-04-07,V Sehwag,0,1,0.0,0.0,0,0,1,2.0,0.0,Z Khan,caught
+Delhi Daredevils,Royal Challengers Bangalore,548310,2012-04-07,Y Nagar,16,15,2.0,0.0,0,0,0,22.0,106.66666666666669,DL Vettori,caught
+Delhi Daredevils,Royal Challengers Bangalore,548310,2012-04-07,Y Venugopal Rao,18,23,1.0,0.0,0,0,0,23.0,78.26086956521739,AB McDonald,caught
+Royal Challengers Bangalore,Delhi Daredevils,548310,2012-04-07,AB McDonald,30,19,4.0,2.0,0,0,0,42.0,157.89473684210526,M Morkel,caught
+Royal Challengers Bangalore,Delhi Daredevils,548310,2012-04-07,AB de Villiers,64,42,6.0,2.0,1,0,0,86.0,152.38095238095238,0,0
+Royal Challengers Bangalore,Delhi Daredevils,548310,2012-04-07,CA Pujara,11,13,1.0,0.0,0,0,0,16.0,84.61538461538461,M Morkel,caught
+Royal Challengers Bangalore,Delhi Daredevils,548310,2012-04-07,DL Vettori,3,5,0.0,0.0,0,0,0,7.0,60.0,GJ Maxwell,run out
+Royal Challengers Bangalore,Delhi Daredevils,548310,2012-04-07,HV Patel,0,1,0.0,0.0,0,0,1,2.0,0.0,DAJ Bracewell,bowled
+Royal Challengers Bangalore,Delhi Daredevils,548310,2012-04-07,MA Agarwal,16,15,1.0,1.0,0,0,0,23.0,106.66666666666669,S Nadeem,caught
+Royal Challengers Bangalore,Delhi Daredevils,548310,2012-04-07,R Vinay Kumar,18,16,1.0,0.0,0,0,0,23.0,112.5,DAJ Bracewell,caught
+Royal Challengers Bangalore,Delhi Daredevils,548310,2012-04-07,SS Tiwary,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,GJ Maxwell,lbw
+Royal Challengers Bangalore,Delhi Daredevils,548310,2012-04-07,V Kohli,8,8,1.0,0.0,0,0,0,13.0,100.0,DAJ Bracewell,caught

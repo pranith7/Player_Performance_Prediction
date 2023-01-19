@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Rajasthan Royals,Royal Challengers Bangalore,419154,2010-04-14,AA Jhunjhunwala,13,22,1.0,0.0,0,0,0,18.0,59.09090909090909,Pankaj Singh,caught
+Rajasthan Royals,Royal Challengers Bangalore,419154,2010-04-14,AC Voges,28,27,3.0,0.0,0,0,0,35.0,103.7037037037037,0,0
+Rajasthan Royals,Royal Challengers Bangalore,419154,2010-04-14,AG Paunikar,0,1,0.0,0.0,0,0,1,2.0,0.0,R Vinay Kumar,caught
+Rajasthan Royals,Royal Challengers Bangalore,419154,2010-04-14,AS Raut,32,20,3.0,1.0,0,0,0,41.0,160.0,0,0
+Rajasthan Royals,Royal Challengers Bangalore,419154,2010-04-14,MJ Lumb,9,8,1.0,0.0,0,0,0,14.0,112.5,R Vinay Kumar,run out
+Rajasthan Royals,Royal Challengers Bangalore,419154,2010-04-14,NV Ojha,7,10,1.0,0.0,0,0,0,12.0,70.0,Pankaj Singh,caught
+Rajasthan Royals,Royal Challengers Bangalore,419154,2010-04-14,SR Watson,22,25,3.0,0.0,0,0,0,29.0,88.0,JH Kallis,caught
+Rajasthan Royals,Royal Challengers Bangalore,419154,2010-04-14,YK Pathan,11,10,2.0,0.0,0,0,0,17.0,110.0,DW Steyn,bowled
+Royal Challengers Bangalore,Rajasthan Royals,419154,2010-04-14,JH Kallis,0,3,0.0,0.0,0,0,1,2.0,0.0,Kamran Khan,bowled
+Royal Challengers Bangalore,Rajasthan Royals,419154,2010-04-14,KP Pietersen,62,29,10.0,2.0,1,0,0,88.0,213.79310344827584,Kamran Khan,run out
+Royal Challengers Bangalore,Rajasthan Royals,419154,2010-04-14,LRPL Taylor,10,11,0.0,1.0,0,0,0,16.0,90.9090909090909,0,0
+Royal Challengers Bangalore,Rajasthan Royals,419154,2010-04-14,MK Pandey,14,13,3.0,0.0,0,0,0,21.0,107.6923076923077,SK Trivedi,caught
+Royal Challengers Bangalore,Rajasthan Royals,419154,2010-04-14,R Dravid,5,4,1.0,0.0,0,0,0,10.0,125.0,0,0
+Royal Challengers Bangalore,Rajasthan Royals,419154,2010-04-14,RV Uthappa,26,21,2.0,1.0,0,0,0,34.0,123.8095238095238,SK Warne,stumped
+Royal Challengers Bangalore,Rajasthan Royals,419154,2010-04-14,V Kohli,14,13,2.0,0.0,0,0,0,20.0,107.6923076923077,SK Trivedi,caught

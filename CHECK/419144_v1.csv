@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Kolkata Knight Riders,419144,2010-04-07,A Mishra,4,6,0.0,0.0,0,0,0,8.0,66.66666666666666,0,0
+Delhi Daredevils,Kolkata Knight Riders,419144,2010-04-07,DA Warner,0,5,0.0,0.0,0,0,1,2.0,0.0,AB Dinda,bowled
+Delhi Daredevils,Kolkata Knight Riders,419144,2010-04-07,DL Vettori,12,7,2.0,0.0,0,0,0,18.0,171.42857142857142,0,0
+Delhi Daredevils,Kolkata Knight Riders,419144,2010-04-07,G Gambhir,47,29,6.0,1.0,0,0,0,59.0,162.06896551724137,AB Dinda,run out
+Delhi Daredevils,Kolkata Knight Riders,419144,2010-04-07,KD Karthik,20,17,2.0,0.0,0,0,0,26.0,117.64705882352942,AB Dinda,caught
+Delhi Daredevils,Kolkata Knight Riders,419144,2010-04-07,KM Jadhav,5,8,0.0,0.0,0,0,0,9.0,62.5,BAW Mendis,caught
+Delhi Daredevils,Kolkata Knight Riders,419144,2010-04-07,MF Maharoof,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,Iqbal Abdulla,bowled
+Delhi Daredevils,Kolkata Knight Riders,419144,2010-04-07,PD Collingwood,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,BAW Mendis,caught
+Delhi Daredevils,Kolkata Knight Riders,419144,2010-04-07,R Bhatia,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,Iqbal Abdulla,run out
+Delhi Daredevils,Kolkata Knight Riders,419144,2010-04-07,V Sehwag,64,43,6.0,3.0,1,0,0,88.0,148.8372093023256,AB Agarkar,bowled
+Kolkata Knight Riders,Delhi Daredevils,419144,2010-04-07,AD Mathews,46,28,3.0,2.0,0,0,0,57.0,164.28571428571428,0,0
+Kolkata Knight Riders,Delhi Daredevils,419144,2010-04-07,BB McCullum,6,7,0.0,0.0,0,0,0,10.0,85.71428571428571,DL Vettori,run out
+Kolkata Knight Riders,Delhi Daredevils,419144,2010-04-07,CH Gayle,40,22,5.0,2.0,0,0,0,53.0,181.8181818181818,R Bhatia,bowled
+Kolkata Knight Riders,Delhi Daredevils,419144,2010-04-07,MK Tiwary,26,19,1.0,1.0,0,0,0,33.0,136.8421052631579,0,0
+Kolkata Knight Riders,Delhi Daredevils,419144,2010-04-07,SC Ganguly,56,50,8.0,1.0,1,0,0,78.0,112.0,DL Vettori,bowled

@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Kolkata Knight Riders,501203,2011-04-11,A Mishra,12,6,1.0,1.0,0,0,0,19.0,200.0,0,0
+Deccan Chargers,Kolkata Knight Riders,501203,2011-04-11,B Chipli,48,41,6.0,1.0,0,0,0,60.0,117.07317073170732,R Bhatia,caught
+Deccan Chargers,Kolkata Knight Riders,501203,2011-04-11,DB Ravi Teja,14,10,1.0,1.0,0,0,0,21.0,140.0,JD Unadkat,caught
+Deccan Chargers,Kolkata Knight Riders,501203,2011-04-11,DT Christian,25,13,1.0,2.0,0,0,0,34.0,192.30769230769232,Iqbal Abdulla,caught
+Deccan Chargers,Kolkata Knight Riders,501203,2011-04-11,DW Steyn,13,13,1.0,0.0,0,0,0,18.0,100.0,JD Unadkat,bowled
+Deccan Chargers,Kolkata Knight Riders,501203,2011-04-11,I Sharma,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Deccan Chargers,Kolkata Knight Riders,501203,2011-04-11,IR Jaggi,3,9,0.0,0.0,0,0,0,7.0,33.33333333333333,Iqbal Abdulla,bowled
+Deccan Chargers,Kolkata Knight Riders,501203,2011-04-11,JP Duminy,6,8,0.0,0.0,0,0,0,10.0,75.0,Iqbal Abdulla,caught
+Deccan Chargers,Kolkata Knight Riders,501203,2011-04-11,KC Sangakkara,16,15,2.0,0.0,0,0,0,22.0,106.66666666666669,R Bhatia,caught
+Deccan Chargers,Kolkata Knight Riders,501203,2011-04-11,S Dhawan,7,8,1.0,0.0,0,0,0,12.0,87.5,L Balaji,run out
+Kolkata Knight Riders,Deccan Chargers,501203,2011-04-11,G Gambhir,29,19,4.0,0.0,0,0,0,37.0,152.63157894736844,A Mishra,bowled
+Kolkata Knight Riders,Deccan Chargers,501203,2011-04-11,JH Kallis,53,45,7.0,1.0,1,0,0,74.0,117.7777777777778,JP Duminy,caught
+Kolkata Knight Riders,Deccan Chargers,501203,2011-04-11,MK Tiwary,30,22,2.0,2.0,0,0,0,40.0,136.36363636363637,0,0
+Kolkata Knight Riders,Deccan Chargers,501203,2011-04-11,MS Bisla,19,21,3.0,0.0,0,0,0,26.0,90.47619047619048,A Mishra,lbw
+Kolkata Knight Riders,Deccan Chargers,501203,2011-04-11,YK Pathan,22,16,4.0,0.0,0,0,0,30.0,137.5,DW Steyn,caught

@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Mumbai Indians,598037,2013-04-29,Azhar Mahmood,9,13,1.0,0.0,0,0,0,14.0,69.23076923076923,Harbhajan Singh,caught
+Kings XI Punjab,Mumbai Indians,598037,2013-04-29,DA Miller,56,35,1.0,5.0,1,0,0,79.0,160.0,MG Johnson,caught
+Kings XI Punjab,Mumbai Indians,598037,2013-04-29,DJ Hussey,34,18,5.0,1.0,0,0,0,45.0,188.88888888888889,PP Ojha,caught
+Kings XI Punjab,Mumbai Indians,598037,2013-04-29,Gurkeerat Singh,2,4,0.0,0.0,0,0,0,6.0,50.0,Harbhajan Singh,caught
+Kings XI Punjab,Mumbai Indians,598037,2013-04-29,M Vohra,1,2,0.0,0.0,0,0,0,5.0,50.0,MG Johnson,caught
+Kings XI Punjab,Mumbai Indians,598037,2013-04-29,MS Gony,0,3,0.0,0.0,0,0,1,2.0,0.0,Harbhajan Singh,caught
+Kings XI Punjab,Mumbai Indians,598037,2013-04-29,Mandeep Singh,9,9,2.0,0.0,0,0,0,15.0,100.0,SL Malinga,bowled
+Kings XI Punjab,Mumbai Indians,598037,2013-04-29,P Awana,0,2,0.0,0.0,0,0,1,2.0,0.0,0,0
+Kings XI Punjab,Mumbai Indians,598037,2013-04-29,P Kumar,24,16,1.0,2.0,0,0,0,33.0,150.0,DS Kulkarni,caught
+Kings XI Punjab,Mumbai Indians,598037,2013-04-29,PP Chawla,12,11,0.0,1.0,0,0,0,18.0,109.09090909090908,DS Kulkarni,caught
+Kings XI Punjab,Mumbai Indians,598037,2013-04-29,SE Marsh,10,13,1.0,0.0,0,0,0,15.0,76.92307692307693,PP Ojha,caught
+Mumbai Indians,Kings XI Punjab,598037,2013-04-29,DR Smith,33,33,3.0,1.0,0,0,0,42.0,100.0,PP Chawla,caught
+Mumbai Indians,Kings XI Punjab,598037,2013-04-29,KA Pollard,20,22,1.0,1.0,0,0,0,27.0,90.9090909090909,0,0
+Mumbai Indians,Kings XI Punjab,598037,2013-04-29,KD Karthik,25,20,2.0,1.0,0,0,0,33.0,125.0,MS Gony,bowled
+Mumbai Indians,Kings XI Punjab,598037,2013-04-29,RG Sharma,79,40,6.0,6.0,1,0,0,109.0,197.5,0,0
+Mumbai Indians,Kings XI Punjab,598037,2013-04-29,SR Tendulkar,9,10,2.0,0.0,0,0,0,15.0,90.0,P Kumar,bowled

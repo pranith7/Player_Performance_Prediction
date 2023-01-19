@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Gujarat Lions,Kings XI Punjab,1082637,2017-05-07,AJ Finch,2,2,0.0,0.0,0,0,0,6.0,100.0,Sandeep Sharma,caught
+Gujarat Lions,Kings XI Punjab,1082637,2017-05-07,DR Smith,74,39,8.0,4.0,1,0,0,102.0,189.74358974358967,GJ Maxwell,caught
+Gujarat Lions,Kings XI Punjab,1082637,2017-05-07,Ishan Kishan,29,24,3.0,0.0,0,0,0,36.0,120.83333333333331,T Natarajan,caught
+Gujarat Lions,Kings XI Punjab,1082637,2017-05-07,KD Karthik,35,23,2.0,1.0,0,0,0,43.0,152.17391304347828,0,0
+Gujarat Lions,Kings XI Punjab,1082637,2017-05-07,RA Jadeja,7,8,0.0,0.0,0,0,0,11.0,87.5,0,0
+Gujarat Lions,Kings XI Punjab,1082637,2017-05-07,SK Raina,39,25,4.0,1.0,0,0,0,49.0,156.0,Sandeep Sharma,caught
+Kings XI Punjab,Gujarat Lions,1082637,2017-05-07,AR Patel,2,1,0.0,0.0,0,0,0,6.0,200.0,0,0
+Kings XI Punjab,Gujarat Lions,1082637,2017-05-07,GJ Maxwell,20,11,0.0,2.0,0,0,0,28.0,181.8181818181818,0,0
+Kings XI Punjab,Gujarat Lions,1082637,2017-05-07,HM Amla,104,61,8.0,5.0,1,1,0,150.0,170.4918032786885,Basil Thampi,lbw
+Kings XI Punjab,Gujarat Lions,1082637,2017-05-07,MJ Guptill,2,5,0.0,0.0,0,0,0,6.0,40.0,PJ Sangwan,caught
+Kings XI Punjab,Gujarat Lions,1082637,2017-05-07,SE Marsh,58,45,6.0,0.0,1,0,0,76.0,128.88888888888889,DS Kulkarni,caught

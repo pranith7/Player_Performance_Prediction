@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Sunrisers Hyderabad,1216528,2020-10-13,AT Rayudu,41,34,3.0,2.0,0,0,0,52.0,120.58823529411764,KK Ahmed,caught
+Chennai Super Kings,Sunrisers Hyderabad,1216528,2020-10-13,DJ Bravo,0,1,0.0,0.0,0,0,1,2.0,0.0,KK Ahmed,bowled
+Chennai Super Kings,Sunrisers Hyderabad,1216528,2020-10-13,DL Chahar,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Chennai Super Kings,Sunrisers Hyderabad,1216528,2020-10-13,F du Plessis,0,1,0.0,0.0,0,0,1,2.0,0.0,Sandeep Sharma,caught
+Chennai Super Kings,Sunrisers Hyderabad,1216528,2020-10-13,MS Dhoni,21,13,2.0,1.0,0,0,0,29.0,161.53846153846155,T Natarajan,caught
+Chennai Super Kings,Sunrisers Hyderabad,1216528,2020-10-13,RA Jadeja,25,11,3.0,1.0,0,0,0,34.0,227.27272727272728,0,0
+Chennai Super Kings,Sunrisers Hyderabad,1216528,2020-10-13,SM Curran,31,22,3.0,2.0,0,0,0,42.0,140.9090909090909,Sandeep Sharma,bowled
+Chennai Super Kings,Sunrisers Hyderabad,1216528,2020-10-13,SR Watson,42,38,1.0,3.0,0,0,0,53.0,110.5263157894737,T Natarajan,caught
+Sunrisers Hyderabad,Chennai Super Kings,1216528,2020-10-13,DA Warner,9,13,0.0,0.0,0,0,0,13.0,69.23076923076923,SM Curran,caught and bowled
+Sunrisers Hyderabad,Chennai Super Kings,1216528,2020-10-13,JM Bairstow,23,26,2.0,0.0,0,0,0,29.0,88.46153846153845,RA Jadeja,bowled
+Sunrisers Hyderabad,Chennai Super Kings,1216528,2020-10-13,KS Williamson,57,39,7.0,0.0,1,0,0,76.0,146.15384615384613,KV Sharma,caught
+Sunrisers Hyderabad,Chennai Super Kings,1216528,2020-10-13,MK Pandey,4,3,1.0,0.0,0,0,0,9.0,133.33333333333331,SM Curran,run out
+Sunrisers Hyderabad,Chennai Super Kings,1216528,2020-10-13,PK Garg,16,21,1.0,0.0,0,0,0,21.0,76.19047619047619,KV Sharma,caught
+Sunrisers Hyderabad,Chennai Super Kings,1216528,2020-10-13,Rashid Khan,14,9,1.0,1.0,0,0,0,21.0,155.55555555555557,SN Thakur,hit wicket
+Sunrisers Hyderabad,Chennai Super Kings,1216528,2020-10-13,S Nadeem,5,5,1.0,0.0,0,0,0,10.0,100.0,DJ Bravo,caught and bowled
+Sunrisers Hyderabad,Chennai Super Kings,1216528,2020-10-13,Sandeep Sharma,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Sunrisers Hyderabad,Chennai Super Kings,1216528,2020-10-13,T Natarajan,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Sunrisers Hyderabad,Chennai Super Kings,1216528,2020-10-13,V Shankar,12,7,0.0,1.0,0,0,0,18.0,171.42857142857142,DJ Bravo,caught

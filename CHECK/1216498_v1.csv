@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Sunrisers Hyderabad,1216498,2020-10-24,CH Gayle,20,21,2.0,1.0,0,0,0,28.0,95.23809523809524,JO Holder,caught
+Kings XI Punjab,Sunrisers Hyderabad,1216498,2020-10-24,CJ Jordan,7,14,0.0,0.0,0,0,0,11.0,50.0,JO Holder,caught
+Kings XI Punjab,Sunrisers Hyderabad,1216498,2020-10-24,DJ Hooda,0,3,0.0,0.0,0,0,1,2.0,0.0,Rashid Khan,stumped
+Kings XI Punjab,Sunrisers Hyderabad,1216498,2020-10-24,GJ Maxwell,12,13,0.0,0.0,0,0,0,16.0,92.3076923076923,Sandeep Sharma,caught
+Kings XI Punjab,Sunrisers Hyderabad,1216498,2020-10-24,KL Rahul,27,27,2.0,1.0,0,0,0,35.0,100.0,Rashid Khan,bowled
+Kings XI Punjab,Sunrisers Hyderabad,1216498,2020-10-24,M Ashwin,4,4,0.0,0.0,0,0,0,8.0,100.0,KK Ahmed,run out
+Kings XI Punjab,Sunrisers Hyderabad,1216498,2020-10-24,Mandeep Singh,17,14,1.0,0.0,0,0,0,22.0,121.42857142857142,Sandeep Sharma,caught
+Kings XI Punjab,Sunrisers Hyderabad,1216498,2020-10-24,N Pooran,32,29,2.0,0.0,0,0,0,38.0,110.34482758620688,0,0
+Sunrisers Hyderabad,Kings XI Punjab,1216498,2020-10-24,Abdul Samad,7,5,1.0,0.0,0,0,0,12.0,140.0,Mohammed Shami,caught
+Sunrisers Hyderabad,Kings XI Punjab,1216498,2020-10-24,DA Warner,35,21,3.0,2.0,0,0,0,46.0,166.66666666666669,Ravi Bishnoi,caught
+Sunrisers Hyderabad,Kings XI Punjab,1216498,2020-10-24,JM Bairstow,19,21,4.0,0.0,0,0,0,27.0,90.47619047619048,M Ashwin,bowled
+Sunrisers Hyderabad,Kings XI Punjab,1216498,2020-10-24,JO Holder,5,8,0.0,0.0,0,0,0,9.0,62.5,CJ Jordan,caught
+Sunrisers Hyderabad,Kings XI Punjab,1216498,2020-10-24,KK Ahmed,0,2,0.0,0.0,0,0,1,2.0,0.0,Arshdeep Singh,run out
+Sunrisers Hyderabad,Kings XI Punjab,1216498,2020-10-24,MK Pandey,15,30,0.0,0.0,0,0,0,19.0,50.0,CJ Jordan,caught
+Sunrisers Hyderabad,Kings XI Punjab,1216498,2020-10-24,PK Garg,3,5,0.0,0.0,0,0,0,7.0,60.0,Arshdeep Singh,caught
+Sunrisers Hyderabad,Kings XI Punjab,1216498,2020-10-24,Rashid Khan,0,1,0.0,0.0,0,0,1,2.0,0.0,CJ Jordan,caught
+Sunrisers Hyderabad,Kings XI Punjab,1216498,2020-10-24,Sandeep Sharma,0,2,0.0,0.0,0,0,1,2.0,0.0,Arshdeep Singh,caught
+Sunrisers Hyderabad,Kings XI Punjab,1216498,2020-10-24,V Shankar,26,28,4.0,0.0,0,0,0,34.0,92.85714285714286,Arshdeep Singh,caught

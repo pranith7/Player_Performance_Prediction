@@ -1,0 +1,23 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Royal Challengers Bangalore,1082617,2017-04-23,C de Grandhomme,0,2,0.0,0.0,0,0,1,2.0,0.0,YS Chahal,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,1082617,2017-04-23,CR Woakes,18,21,3.0,0.0,0,0,0,25.0,85.71428571428571,TS Mills,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,1082617,2017-04-23,G Gambhir,14,12,1.0,1.0,0,0,0,21.0,116.66666666666669,TS Mills,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,1082617,2017-04-23,Kuldeep Yadav,4,7,0.0,0.0,0,0,0,8.0,57.14285714285714,S Aravind,bowled
+Kolkata Knight Riders,Royal Challengers Bangalore,1082617,2017-04-23,MK Pandey,15,16,1.0,0.0,0,0,0,20.0,93.75,YS Chahal,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,1082617,2017-04-23,NM Coulter-Nile,2,4,0.0,0.0,0,0,0,6.0,50.0,P Negi,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,1082617,2017-04-23,RV Uthappa,11,9,2.0,0.0,0,0,0,17.0,122.22222222222224,S Badree,lbw
+Kolkata Knight Riders,Royal Challengers Bangalore,1082617,2017-04-23,SA Yadav,15,19,1.0,0.0,0,0,0,20.0,78.94736842105263,P Negi,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,1082617,2017-04-23,SP Narine,34,18,6.0,1.0,0,0,0,46.0,188.88888888888889,STR Binny,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,1082617,2017-04-23,UT Yadav,2,4,0.0,0.0,0,0,0,6.0,50.0,0,0
+Kolkata Knight Riders,Royal Challengers Bangalore,1082617,2017-04-23,YK Pathan,8,9,0.0,0.0,0,0,0,12.0,88.88888888888889,YS Chahal,stumped
+Royal Challengers Bangalore,Kolkata Knight Riders,1082617,2017-04-23,AB de Villiers,8,6,2.0,0.0,0,0,0,14.0,133.33333333333331,NM Coulter-Nile,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,1082617,2017-04-23,CH Gayle,7,18,1.0,0.0,0,0,0,12.0,38.88888888888889,CR Woakes,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,1082617,2017-04-23,KM Jadhav,9,8,2.0,0.0,0,0,0,15.0,112.5,NM Coulter-Nile,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,1082617,2017-04-23,Mandeep Singh,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,UT Yadav,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,1082617,2017-04-23,P Negi,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,C de Grandhomme,lbw
+Royal Challengers Bangalore,Kolkata Knight Riders,1082617,2017-04-23,S Aravind,5,4,1.0,0.0,0,0,0,10.0,125.0,0,0
+Royal Challengers Bangalore,Kolkata Knight Riders,1082617,2017-04-23,S Badree,0,3,0.0,0.0,0,0,1,2.0,0.0,CR Woakes,lbw
+Royal Challengers Bangalore,Kolkata Knight Riders,1082617,2017-04-23,STR Binny,8,9,2.0,0.0,0,0,0,14.0,88.88888888888889,CR Woakes,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,1082617,2017-04-23,TS Mills,2,5,0.0,0.0,0,0,0,6.0,40.0,C de Grandhomme,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,1082617,2017-04-23,V Kohli,0,1,0.0,0.0,0,0,1,2.0,0.0,NM Coulter-Nile,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,1082617,2017-04-23,YS Chahal,0,2,0.0,0.0,0,0,1,2.0,0.0,C de Grandhomme,caught

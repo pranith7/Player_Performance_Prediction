@@ -1,0 +1,23 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Rajasthan Royals,Sunrisers Hyderabad,733989,2014-05-08,AM Rahane,0,3,0.0,0.0,0,0,1,2.0,0.0,B Kumar,caught
+Rajasthan Royals,Sunrisers Hyderabad,733989,2014-05-08,DS Kulkarni,7,8,1.0,0.0,0,0,0,12.0,87.5,0,0
+Rajasthan Royals,Sunrisers Hyderabad,733989,2014-05-08,JP Faulkner,4,6,0.0,0.0,0,0,0,8.0,66.66666666666666,B Kumar,caught
+Rajasthan Royals,Sunrisers Hyderabad,733989,2014-05-08,KK Nair,12,9,3.0,0.0,0,0,0,19.0,133.33333333333331,DW Steyn,caught
+Rajasthan Royals,Sunrisers Hyderabad,733989,2014-05-08,KW Richardson,1,2,0.0,0.0,0,0,0,5.0,50.0,B Kumar,caught and bowled
+Rajasthan Royals,Sunrisers Hyderabad,733989,2014-05-08,PV Tambe,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,IK Pathan,caught
+Rajasthan Royals,Sunrisers Hyderabad,733989,2014-05-08,R Bhatia,4,8,0.0,0.0,0,0,0,8.0,50.0,B Kumar,caught
+Rajasthan Royals,Sunrisers Hyderabad,733989,2014-05-08,SPD Smith,22,34,0.0,0.0,0,0,0,26.0,64.70588235294117,DW Steyn,caught
+Rajasthan Royals,Sunrisers Hyderabad,733989,2014-05-08,SR Watson,11,11,1.0,0.0,0,0,0,16.0,100.0,MC Henriques,caught
+Rajasthan Royals,Sunrisers Hyderabad,733989,2014-05-08,STR Binny,12,19,0.0,0.0,0,0,0,16.0,63.1578947368421,IK Pathan,run out
+Rajasthan Royals,Sunrisers Hyderabad,733989,2014-05-08,SV Samson,16,17,1.0,1.0,0,0,0,23.0,94.11764705882352,KV Sharma,bowled
+Sunrisers Hyderabad,Rajasthan Royals,733989,2014-05-08,A Mishra,0,2,0.0,0.0,0,0,1,2.0,0.0,JP Faulkner,run out
+Sunrisers Hyderabad,Rajasthan Royals,733989,2014-05-08,AJ Finch,9,10,1.0,0.0,0,0,0,14.0,90.0,R Bhatia,caught
+Sunrisers Hyderabad,Rajasthan Royals,733989,2014-05-08,B Kumar,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Sunrisers Hyderabad,Rajasthan Royals,733989,2014-05-08,DA Warner,6,7,0.0,0.0,0,0,0,10.0,85.71428571428571,PV Tambe,stumped
+Sunrisers Hyderabad,Rajasthan Royals,733989,2014-05-08,DW Steyn,9,8,1.0,0.0,0,0,0,14.0,112.5,JP Faulkner,run out
+Sunrisers Hyderabad,Rajasthan Royals,733989,2014-05-08,IK Pathan,21,22,2.0,0.0,0,0,0,27.0,95.45454545454544,0,0
+Sunrisers Hyderabad,Rajasthan Royals,733989,2014-05-08,KL Rahul,18,18,2.0,0.0,0,0,0,24.0,100.0,R Bhatia,bowled
+Sunrisers Hyderabad,Rajasthan Royals,733989,2014-05-08,KV Sharma,0,1,0.0,0.0,0,0,1,2.0,0.0,SR Watson,caught
+Sunrisers Hyderabad,Rajasthan Royals,733989,2014-05-08,MC Henriques,9,13,1.0,0.0,0,0,0,14.0,69.23076923076923,SR Watson,caught
+Sunrisers Hyderabad,Rajasthan Royals,733989,2014-05-08,NV Ojha,17,20,1.0,0.0,0,0,0,22.0,85.0,R Bhatia,bowled
+Sunrisers Hyderabad,Rajasthan Royals,733989,2014-05-08,S Dhawan,33,20,7.0,0.0,0,0,0,44.0,165.0,SR Watson,bowled

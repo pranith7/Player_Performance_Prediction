@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Mumbai Indians,419152,2010-04-13,A Mishra,12,17,0.0,0.0,0,0,0,16.0,70.58823529411765,CRD Fernando,bowled
+Delhi Daredevils,Mumbai Indians,419152,2010-04-13,AB McDonald,33,31,0.0,1.0,0,0,0,39.0,106.4516129032258,0,0
+Delhi Daredevils,Mumbai Indians,419152,2010-04-13,AB de Villiers,4,7,0.0,0.0,0,0,0,8.0,57.14285714285714,AG Murtaza,lbw
+Delhi Daredevils,Mumbai Indians,419152,2010-04-13,DA Warner,31,15,5.0,1.0,0,0,0,42.0,206.66666666666669,CRD Fernando,caught
+Delhi Daredevils,Mumbai Indians,419152,2010-04-13,G Gambhir,17,9,3.0,0.0,0,0,0,24.0,188.88888888888889,Harbhajan Singh,caught and bowled
+Delhi Daredevils,Mumbai Indians,419152,2010-04-13,KD Karthik,11,14,0.0,0.0,0,0,0,15.0,78.57142857142857,AG Murtaza,bowled
+Delhi Daredevils,Mumbai Indians,419152,2010-04-13,PD Collingwood,2,5,0.0,0.0,0,0,0,6.0,40.0,KA Pollard,run out
+Delhi Daredevils,Mumbai Indians,419152,2010-04-13,PJ Sangwan,6,5,0.0,0.0,0,0,0,10.0,120.0,0,0
+Delhi Daredevils,Mumbai Indians,419152,2010-04-13,V Sehwag,20,19,3.0,0.0,0,0,0,27.0,105.26315789473684,AG Murtaza,run out
+Mumbai Indians,Delhi Daredevils,419152,2010-04-13,AT Rayudu,24,21,2.0,0.0,0,0,0,30.0,114.28571428571428,A Nehra,caught
+Mumbai Indians,Delhi Daredevils,419152,2010-04-13,C Madan,15,21,3.0,0.0,0,0,0,22.0,71.42857142857143,AB McDonald,caught
+Mumbai Indians,Delhi Daredevils,419152,2010-04-13,JP Duminy,21,15,3.0,0.0,0,0,0,28.0,140.0,0,0
+Mumbai Indians,Delhi Daredevils,419152,2010-04-13,KA Pollard,45,13,2.0,5.0,0,0,0,61.0,346.1538461538462,0,0
+Mumbai Indians,Delhi Daredevils,419152,2010-04-13,SR Tendulkar,30,26,3.0,0.0,0,0,0,37.0,115.38461538461536,PJ Sangwan,caught
+Mumbai Indians,Delhi Daredevils,419152,2010-04-13,SS Tiwary,38,28,1.0,2.0,0,0,0,47.0,135.71428571428572,PJ Sangwan,bowled

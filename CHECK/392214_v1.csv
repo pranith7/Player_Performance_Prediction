@@ -1,0 +1,11 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Kings XI Punjab,392214,2009-05-07,JA Morkel,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Chennai Super Kings,Kings XI Punjab,392214,2009-05-07,ML Hayden,89,58,8.0,6.0,1,0,0,121.0,153.44827586206898,S Sreesanth,caught
+Chennai Super Kings,Kings XI Punjab,392214,2009-05-07,MS Dhoni,56,27,7.0,2.0,1,0,0,79.0,207.4074074074074,0,0
+Chennai Super Kings,Kings XI Punjab,392214,2009-05-07,S Badrinath,0,1,0.0,0.0,0,0,1,2.0,0.0,IK Pathan,caught
+Chennai Super Kings,Kings XI Punjab,392214,2009-05-07,SK Raina,32,21,4.0,1.0,0,0,0,42.0,152.38095238095238,PP Chawla,caught
+Kings XI Punjab,Chennai Super Kings,392214,2009-05-07,DPMD Jayawardene,44,25,3.0,2.0,0,0,0,55.0,176.0,0,0
+Kings XI Punjab,Chennai Super Kings,392214,2009-05-07,K Goel,14,21,1.0,0.0,0,0,0,19.0,66.66666666666666,SB Jakati,caught
+Kings XI Punjab,Chennai Super Kings,392214,2009-05-07,S Sohal,2,2,0.0,0.0,0,0,0,6.0,100.0,JA Morkel,bowled
+Kings XI Punjab,Chennai Super Kings,392214,2009-05-07,SM Katich,50,25,3.0,4.0,1,0,0,73.0,200.0,L Balaji,caught
+Kings XI Punjab,Chennai Super Kings,392214,2009-05-07,Yuvraj Singh,58,38,5.0,2.0,1,0,0,79.0,152.63157894736844,0,0

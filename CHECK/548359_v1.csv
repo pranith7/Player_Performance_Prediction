@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Kings XI Punjab,548359,2012-05-08,A Ashish Reddy,8,8,1.0,0.0,0,0,0,13.0,100.0,P Awana,caught
+Deccan Chargers,Kings XI Punjab,548359,2012-05-08,A Mishra,8,5,1.0,0.0,0,0,0,13.0,160.0,0,0
+Deccan Chargers,Kings XI Punjab,548359,2012-05-08,AA Jhunjhunwala,19,20,0.0,1.0,0,0,0,25.0,95.0,P Kumar,run out
+Deccan Chargers,Kings XI Punjab,548359,2012-05-08,CL White,8,15,1.0,0.0,0,0,0,13.0,53.333333333333336,DJ Hussey,caught
+Deccan Chargers,Kings XI Punjab,548359,2012-05-08,DJ Harris,30,30,2.0,1.0,0,0,0,38.0,100.0,DJ Hussey,caught
+Deccan Chargers,Kings XI Punjab,548359,2012-05-08,J Theron,7,6,1.0,0.0,0,0,0,12.0,116.66666666666669,0,0
+Deccan Chargers,Kings XI Punjab,548359,2012-05-08,KC Sangakkara,4,6,0.0,0.0,0,0,0,8.0,66.66666666666666,P Kumar,caught
+Deccan Chargers,Kings XI Punjab,548359,2012-05-08,PA Patel,17,13,1.0,1.0,0,0,0,24.0,130.76923076923077,P Awana,bowled
+Deccan Chargers,Kings XI Punjab,548359,2012-05-08,PA Reddy,24,14,2.0,1.0,0,0,0,32.0,171.42857142857142,PP Chawla,stumped
+Deccan Chargers,Kings XI Punjab,548359,2012-05-08,S Dhawan,8,6,1.0,0.0,0,0,0,13.0,133.33333333333331,P Kumar,caught
+Kings XI Punjab,Deccan Chargers,548359,2012-05-08,Azhar Mahmood,14,9,2.0,0.0,0,0,0,20.0,155.55555555555557,J Theron,run out
+Kings XI Punjab,Deccan Chargers,548359,2012-05-08,DA Miller,28,18,3.0,1.0,0,0,0,37.0,155.55555555555557,0,0
+Kings XI Punjab,Deccan Chargers,548359,2012-05-08,DJ Hussey,16,17,1.0,1.0,0,0,0,23.0,94.11764705882352,V Pratap Singh,caught
+Kings XI Punjab,Deccan Chargers,548359,2012-05-08,Mandeep Singh,75,50,8.0,3.0,1,0,0,101.0,150.0,A Ashish Reddy,bowled
+Kings XI Punjab,Deccan Chargers,548359,2012-05-08,N Saini,2,4,0.0,0.0,0,0,0,6.0,50.0,A Ashish Reddy,lbw
+Kings XI Punjab,Deccan Chargers,548359,2012-05-08,SD Chitnis,6,5,0.0,0.0,0,0,0,10.0,120.0,0,0
+Kings XI Punjab,Deccan Chargers,548359,2012-05-08,SE Marsh,22,20,3.0,0.0,0,0,0,29.0,110.0,S Dhawan,bowled

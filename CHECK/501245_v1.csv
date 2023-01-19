@@ -1,0 +1,10 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Kolkata Knight Riders,501245,2011-05-07,JA Morkel,30,32,3.0,0.0,0,0,0,37.0,93.75,0,0
+Chennai Super Kings,Kolkata Knight Riders,501245,2011-05-07,M Vijay,5,14,0.0,0.0,0,0,0,9.0,35.714285714285715,Iqbal Abdulla,caught and bowled
+Chennai Super Kings,Kolkata Knight Riders,501245,2011-05-07,MEK Hussey,15,26,0.0,0.0,0,0,0,19.0,57.692307692307686,L Balaji,caught
+Chennai Super Kings,Kolkata Knight Riders,501245,2011-05-07,S Badrinath,54,41,3.0,2.0,1,0,0,73.0,131.70731707317074,L Balaji,run out
+Chennai Super Kings,Kolkata Knight Riders,501245,2011-05-07,SK Raina,4,10,0.0,0.0,0,0,0,8.0,40.0,YK Pathan,caught
+Kolkata Knight Riders,Chennai Super Kings,501245,2011-05-07,EJG Morgan,5,8,1.0,0.0,0,0,0,10.0,62.5,R Ashwin,bowled
+Kolkata Knight Riders,Chennai Super Kings,501245,2011-05-07,G Gambhir,16,19,2.0,0.0,0,0,0,22.0,84.21052631578947,R Ashwin,caught
+Kolkata Knight Riders,Chennai Super Kings,501245,2011-05-07,JH Kallis,21,23,2.0,0.0,0,0,0,27.0,91.30434782608695,0,0
+Kolkata Knight Riders,Chennai Super Kings,501245,2011-05-07,MK Tiwary,15,13,2.0,0.0,0,0,0,21.0,115.38461538461536,0,0

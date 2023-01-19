@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Kochi Tuskers Kerala,501215,2011-04-18,JA Morkel,9,4,0.0,1.0,0,0,0,15.0,225.0,0,0
+Chennai Super Kings,Kochi Tuskers Kerala,501215,2011-04-18,M Vijay,28,19,6.0,0.0,0,0,0,38.0,147.36842105263156,NLTC Perera,lbw
+Chennai Super Kings,Kochi Tuskers Kerala,501215,2011-04-18,MEK Hussey,8,10,2.0,0.0,0,0,0,14.0,80.0,RP Singh,caught
+Chennai Super Kings,Kochi Tuskers Kerala,501215,2011-04-18,MS Dhoni,14,13,1.0,1.0,0,0,0,21.0,107.6923076923077,0,0
+Chennai Super Kings,Kochi Tuskers Kerala,501215,2011-04-18,S Badrinath,19,17,1.0,0.0,0,0,0,24.0,111.76470588235294,RV Gomez,lbw
+Chennai Super Kings,Kochi Tuskers Kerala,501215,2011-04-18,SK Raina,50,41,5.0,1.0,1,0,0,69.0,121.95121951219512,NLTC Perera,run out
+Kochi Tuskers Kerala,Chennai Super Kings,501215,2011-04-18,BB McCullum,47,33,4.0,3.0,0,0,0,61.0,142.42424242424244,R Ashwin,caught
+Kochi Tuskers Kerala,Chennai Super Kings,501215,2011-04-18,BJ Hodge,19,14,2.0,0.0,0,0,0,25.0,135.71428571428572,0,0
+Kochi Tuskers Kerala,Chennai Super Kings,501215,2011-04-18,DPMD Jayawardene,16,11,2.0,1.0,0,0,0,24.0,145.45454545454547,R Ashwin,caught
+Kochi Tuskers Kerala,Chennai Super Kings,501215,2011-04-18,PA Patel,34,27,4.0,1.0,0,0,0,44.0,125.92592592592592,DE Bollinger,caught
+Kochi Tuskers Kerala,Chennai Super Kings,501215,2011-04-18,RA Jadeja,16,7,0.0,2.0,0,0,0,24.0,228.57142857142856,0,0

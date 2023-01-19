@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Capitals,Sunrisers Hyderabad,1181766,2019-05-08,A Mishra,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,KK Ahmed,obstructing the field
+Delhi Capitals,Sunrisers Hyderabad,1181766,2019-05-08,AR Patel,0,3,0.0,0.0,0,0,1,2.0,0.0,Rashid Khan,lbw
+Delhi Capitals,Sunrisers Hyderabad,1181766,2019-05-08,C Munro,14,13,1.0,1.0,0,0,0,21.0,107.6923076923077,Rashid Khan,lbw
+Delhi Capitals,Sunrisers Hyderabad,1181766,2019-05-08,KMA Paul,5,4,1.0,0.0,0,0,0,10.0,125.0,0,0
+Delhi Capitals,Sunrisers Hyderabad,1181766,2019-05-08,PP Shaw,56,40,6.0,2.0,1,0,0,78.0,140.0,KK Ahmed,caught
+Delhi Capitals,Sunrisers Hyderabad,1181766,2019-05-08,RR Pant,49,22,2.0,5.0,0,0,0,65.0,222.72727272727272,B Kumar,caught
+Delhi Capitals,Sunrisers Hyderabad,1181766,2019-05-08,S Dhawan,17,17,3.0,0.0,0,0,0,24.0,100.0,DJ Hooda,stumped
+Delhi Capitals,Sunrisers Hyderabad,1181766,2019-05-08,SE Rutherford,9,12,0.0,1.0,0,0,0,15.0,75.0,B Kumar,caught
+Delhi Capitals,Sunrisers Hyderabad,1181766,2019-05-08,SS Iyer,8,10,1.0,0.0,0,0,0,13.0,80.0,KK Ahmed,caught
+Sunrisers Hyderabad,Delhi Capitals,1181766,2019-05-08,Basil Thampi,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Sunrisers Hyderabad,Delhi Capitals,1181766,2019-05-08,DJ Hooda,4,7,0.0,0.0,0,0,0,8.0,57.14285714285714,KMA Paul,run out
+Sunrisers Hyderabad,Delhi Capitals,1181766,2019-05-08,KS Williamson,28,29,2.0,0.0,0,0,0,34.0,96.55172413793105,I Sharma,bowled
+Sunrisers Hyderabad,Delhi Capitals,1181766,2019-05-08,MJ Guptill,36,19,1.0,4.0,0,0,0,49.0,189.4736842105263,A Mishra,caught
+Sunrisers Hyderabad,Delhi Capitals,1181766,2019-05-08,MK Pandey,30,38,3.0,0.0,0,0,0,37.0,78.94736842105263,KMA Paul,caught
+Sunrisers Hyderabad,Delhi Capitals,1181766,2019-05-08,Mohammad Nabi,20,13,3.0,1.0,0,0,0,29.0,153.84615384615387,KMA Paul,caught
+Sunrisers Hyderabad,Delhi Capitals,1181766,2019-05-08,Rashid Khan,0,1,0.0,0.0,0,0,1,2.0,0.0,KMA Paul,caught
+Sunrisers Hyderabad,Delhi Capitals,1181766,2019-05-08,V Shankar,25,11,2.0,2.0,0,0,0,35.0,227.27272727272728,TA Boult,caught
+Sunrisers Hyderabad,Delhi Capitals,1181766,2019-05-08,WP Saha,8,9,1.0,0.0,0,0,0,13.0,88.88888888888889,I Sharma,caught

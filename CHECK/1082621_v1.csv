@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Gujarat Lions,Royal Challengers Bangalore,1082621,2017-04-27,AJ Finch,72,36,5.0,6.0,1,0,0,101.0,200.0,P Negi,caught
+Gujarat Lions,Royal Challengers Bangalore,1082621,2017-04-27,BB McCullum,3,6,0.0,0.0,0,0,0,7.0,50.0,S Badree,caught
+Gujarat Lions,Royal Challengers Bangalore,1082621,2017-04-27,Ishan Kishan,16,11,4.0,0.0,0,0,0,24.0,145.45454545454547,S Badree,lbw
+Gujarat Lions,Royal Challengers Bangalore,1082621,2017-04-27,RA Jadeja,2,5,0.0,0.0,0,0,0,6.0,40.0,0,0
+Gujarat Lions,Royal Challengers Bangalore,1082621,2017-04-27,SK Raina,34,31,4.0,1.0,0,0,0,44.0,109.6774193548387,0,0
+Royal Challengers Bangalore,Gujarat Lions,1082621,2017-04-27,A Choudhary,15,12,1.0,0.0,0,0,0,20.0,125.0,0,0
+Royal Challengers Bangalore,Gujarat Lions,1082621,2017-04-27,AB de Villiers,5,12,0.0,0.0,0,0,0,9.0,41.66666666666667,Ankit Soni,run out
+Royal Challengers Bangalore,Gujarat Lions,1082621,2017-04-27,CH Gayle,8,12,1.0,0.0,0,0,0,13.0,66.66666666666666,AJ Tye,caught
+Royal Challengers Bangalore,Gujarat Lions,1082621,2017-04-27,KM Jadhav,31,18,4.0,1.0,0,0,0,41.0,172.22222222222223,RA Jadeja,bowled
+Royal Challengers Bangalore,Gujarat Lions,1082621,2017-04-27,Mandeep Singh,8,14,0.0,0.0,0,0,0,12.0,57.14285714285714,AJ Tye,caught
+Royal Challengers Bangalore,Gujarat Lions,1082621,2017-04-27,P Negi,32,19,3.0,2.0,0,0,0,43.0,168.42105263157893,Ankit Soni,caught
+Royal Challengers Bangalore,Gujarat Lions,1082621,2017-04-27,S Aravind,9,16,0.0,0.0,0,0,0,13.0,56.25,JP Faulkner,caught
+Royal Challengers Bangalore,Gujarat Lions,1082621,2017-04-27,S Badree,3,3,0.0,0.0,0,0,0,7.0,100.0,RA Jadeja,caught
+Royal Challengers Bangalore,Gujarat Lions,1082621,2017-04-27,TM Head,0,1,0.0,0.0,0,0,1,2.0,0.0,AJ Tye,caught
+Royal Challengers Bangalore,Gujarat Lions,1082621,2017-04-27,V Kohli,10,14,0.0,1.0,0,0,0,16.0,71.42857142857143,Basil Thampi,caught
+Royal Challengers Bangalore,Gujarat Lions,1082621,2017-04-27,YS Chahal,1,2,0.0,0.0,0,0,0,5.0,50.0,JP Faulkner,run out

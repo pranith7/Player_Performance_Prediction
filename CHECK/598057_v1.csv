@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Royal Challengers Bangalore,598057,2013-05-12,G Gambhir,14,16,3.0,0.0,0,0,0,21.0,87.5,R Vinay Kumar,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,598057,2013-05-12,JH Kallis,41,47,4.0,0.0,0,0,0,49.0,87.2340425531915,A Mithun,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,598057,2013-05-12,MK Tiwary,24,27,3.0,0.0,0,0,0,31.0,88.88888888888889,R Vinay Kumar,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,598057,2013-05-12,MS Bisla,0,2,0.0,0.0,0,0,1,2.0,0.0,R Rampaul,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,598057,2013-05-12,R Bhatia,3,4,0.0,0.0,0,0,0,7.0,75.0,0,0
+Kolkata Knight Riders,Royal Challengers Bangalore,598057,2013-05-12,RN ten Doeschate,11,7,2.0,0.0,0,0,0,17.0,157.14285714285714,0,0
+Kolkata Knight Riders,Royal Challengers Bangalore,598057,2013-05-12,YK Pathan,18,17,1.0,1.0,0,0,0,25.0,105.88235294117648,M Kartik,lbw
+Royal Challengers Bangalore,Kolkata Knight Riders,598057,2013-05-12,A Mithun,2,2,0.0,0.0,0,0,0,6.0,100.0,SP Narine,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,598057,2013-05-12,AB de Villiers,28,22,1.0,1.0,0,0,0,35.0,127.27272727272728,L Balaji,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,598057,2013-05-12,CA Pujara,5,14,0.0,0.0,0,0,0,9.0,35.714285714285715,SMSM Senanayake,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,598057,2013-05-12,CH Gayle,33,37,1.0,1.0,0,0,0,40.0,89.1891891891892,SP Narine,stumped
+Royal Challengers Bangalore,Kolkata Knight Riders,598057,2013-05-12,JD Unadkat,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Royal Challengers Bangalore,Kolkata Knight Riders,598057,2013-05-12,M Kartik,0,1,0.0,0.0,0,0,1,2.0,0.0,L Balaji,bowled
+Royal Challengers Bangalore,Kolkata Knight Riders,598057,2013-05-12,MC Henriques,11,11,0.0,0.0,0,0,0,15.0,100.0,JH Kallis,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,598057,2013-05-12,R Rampaul,0,3,0.0,0.0,0,0,1,2.0,0.0,SP Narine,lbw
+Royal Challengers Bangalore,Kolkata Knight Riders,598057,2013-05-12,R Vinay Kumar,14,13,1.0,0.0,0,0,0,19.0,107.6923076923077,0,0
+Royal Challengers Bangalore,Kolkata Knight Riders,598057,2013-05-12,SS Tiwary,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,SP Narine,lbw
+Royal Challengers Bangalore,Kolkata Knight Riders,598057,2013-05-12,V Kohli,17,14,2.0,0.0,0,0,0,23.0,121.42857142857142,JH Kallis,bowled

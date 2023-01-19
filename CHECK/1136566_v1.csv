@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Rajasthan Royals,1136566,2018-04-11,CH Morris,17,7,2.0,1.0,0,0,0,25.0,242.85714285714283,0,0
+Delhi Daredevils,Rajasthan Royals,1136566,2018-04-11,GJ Maxwell,17,12,2.0,1.0,0,0,0,25.0,141.66666666666669,B Laughlin,caught
+Delhi Daredevils,Rajasthan Royals,1136566,2018-04-11,RR Pant,20,15,3.0,0.0,0,0,0,27.0,133.33333333333331,JD Unadkat,caught
+Delhi Daredevils,Rajasthan Royals,1136566,2018-04-11,V Shankar,3,3,0.0,0.0,0,0,0,7.0,100.0,B Laughlin,caught
+Rajasthan Royals,Delhi Daredevils,1136566,2018-04-11,AM Rahane,45,40,5.0,0.0,0,0,0,54.0,112.5,S Nadeem,caught
+Rajasthan Royals,Delhi Daredevils,1136566,2018-04-11,BA Stokes,16,12,1.0,1.0,0,0,0,23.0,133.33333333333331,TA Boult,caught
+Rajasthan Royals,Delhi Daredevils,1136566,2018-04-11,DJM Short,6,3,1.0,0.0,0,0,0,11.0,200.0,S Nadeem,run out
+Rajasthan Royals,Delhi Daredevils,1136566,2018-04-11,JC Buttler,29,19,2.0,2.0,0,0,0,39.0,152.63157894736844,Mohammed Shami,bowled
+Rajasthan Royals,Delhi Daredevils,1136566,2018-04-11,K Gowtham,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Rajasthan Royals,Delhi Daredevils,1136566,2018-04-11,RA Tripathi,15,11,0.0,1.0,0,0,0,21.0,136.36363636363637,0,0
+Rajasthan Royals,Delhi Daredevils,1136566,2018-04-11,SV Samson,37,22,2.0,2.0,0,0,0,47.0,168.1818181818182,S Nadeem,bowled

@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Sunrisers Hyderabad,734007,2014-05-14,DA Miller,24,24,1.0,0.0,0,0,0,29.0,100.0,0,0
+Kings XI Punjab,Sunrisers Hyderabad,734007,2014-05-14,GJ Bailey,35,19,2.0,3.0,0,0,0,47.0,184.21052631578948,0,0
+Kings XI Punjab,Sunrisers Hyderabad,734007,2014-05-14,GJ Maxwell,43,22,2.0,5.0,0,0,0,59.0,195.45454545454547,A Mishra,caught
+Kings XI Punjab,Sunrisers Hyderabad,734007,2014-05-14,M Vohra,47,20,5.0,2.0,0,0,0,60.0,235.0,B Kumar,run out
+Kings XI Punjab,Sunrisers Hyderabad,734007,2014-05-14,V Sehwag,4,2,1.0,0.0,0,0,0,9.0,200.0,B Kumar,caught and bowled
+Kings XI Punjab,Sunrisers Hyderabad,734007,2014-05-14,WP Saha,54,26,8.0,2.0,1,0,0,78.0,207.6923076923077,KV Sharma,stumped
+Sunrisers Hyderabad,Kings XI Punjab,734007,2014-05-14,AJ Finch,20,25,2.0,0.0,0,0,0,26.0,80.0,Shivam Sharma,bowled
+Sunrisers Hyderabad,Kings XI Punjab,734007,2014-05-14,DA Warner,44,24,3.0,3.0,0,0,0,57.0,183.3333333333333,Sandeep Sharma,run out
+Sunrisers Hyderabad,Kings XI Punjab,734007,2014-05-14,IK Pathan,1,2,0.0,0.0,0,0,0,5.0,50.0,R Dhawan,caught
+Sunrisers Hyderabad,Kings XI Punjab,734007,2014-05-14,KV Sharma,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Sunrisers Hyderabad,Kings XI Punjab,734007,2014-05-14,MC Henriques,0,1,0.0,0.0,0,0,1,2.0,0.0,Sandeep Sharma,caught
+Sunrisers Hyderabad,Kings XI Punjab,734007,2014-05-14,NV Ojha,79,37,4.0,7.0,1,0,0,109.0,213.51351351351352,0,0
+Sunrisers Hyderabad,Kings XI Punjab,734007,2014-05-14,S Dhawan,45,39,5.0,2.0,0,0,0,58.0,115.38461538461536,R Dhawan,caught

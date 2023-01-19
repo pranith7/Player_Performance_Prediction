@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Mumbai Indians,501256,2011-05-14,A Mishra,18,7,4.0,0.0,0,0,0,26.0,257.1428571428572,0,0
+Deccan Chargers,Mumbai Indians,501256,2011-05-14,B Chipli,10,11,1.0,0.0,0,0,0,15.0,90.9090909090909,DS Kulkarni,caught
+Deccan Chargers,Mumbai Indians,501256,2011-05-14,DT Christian,18,23,0.0,0.0,0,0,0,22.0,78.26086956521739,DS Kulkarni,bowled
+Deccan Chargers,Mumbai Indians,501256,2011-05-14,JP Duminy,8,10,1.0,0.0,0,0,0,13.0,80.0,Harbhajan Singh,stumped
+Deccan Chargers,Mumbai Indians,501256,2011-05-14,KC Sangakkara,27,28,1.0,1.0,0,0,0,34.0,96.42857142857144,DS Kulkarni,caught
+Deccan Chargers,Mumbai Indians,501256,2011-05-14,MJ Lumb,0,2,0.0,0.0,0,0,1,2.0,0.0,SL Malinga,bowled
+Deccan Chargers,Mumbai Indians,501256,2011-05-14,S Dhawan,27,18,2.0,1.0,0,0,0,35.0,150.0,0,0
+Deccan Chargers,Mumbai Indians,501256,2011-05-14,S Sohal,20,22,0.0,2.0,0,0,0,28.0,90.9090909090909,KA Pollard,caught
+Mumbai Indians,Deccan Chargers,501256,2011-05-14,A Symonds,8,19,0.0,0.0,0,0,0,12.0,42.10526315789473,A Mishra,caught
+Mumbai Indians,Deccan Chargers,501256,2011-05-14,AC Blizzard,1,7,0.0,0.0,0,0,0,5.0,14.285714285714285,JP Duminy,bowled
+Mumbai Indians,Deccan Chargers,501256,2011-05-14,AT Rayudu,2,8,0.0,0.0,0,0,0,6.0,25.0,I Sharma,bowled
+Mumbai Indians,Deccan Chargers,501256,2011-05-14,Harbhajan Singh,17,13,1.0,1.0,0,0,0,24.0,130.76923076923077,0,0
+Mumbai Indians,Deccan Chargers,501256,2011-05-14,KA Pollard,24,14,3.0,1.0,0,0,0,33.0,171.42857142857142,Anand Rajan,caught
+Mumbai Indians,Deccan Chargers,501256,2011-05-14,RG Sharma,4,6,1.0,0.0,0,0,0,9.0,66.66666666666666,I Sharma,caught
+Mumbai Indians,Deccan Chargers,501256,2011-05-14,SR Tendulkar,37,46,3.0,0.0,0,0,0,44.0,80.43478260869566,Anand Rajan,lbw
+Mumbai Indians,Deccan Chargers,501256,2011-05-14,TL Suman,14,15,0.0,2.0,0,0,0,22.0,93.33333333333331,Anand Rajan,caught

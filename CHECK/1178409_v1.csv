@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Capitals,Mumbai Indians,1178409,2019-04-18,A Mishra,6,9,0.0,0.0,0,0,0,10.0,66.66666666666666,0,0
+Delhi Capitals,Mumbai Indians,1178409,2019-04-18,AR Patel,26,24,1.0,1.0,0,0,0,33.0,108.33333333333331,JJ Bumrah,bowled
+Delhi Capitals,Mumbai Indians,1178409,2019-04-18,C Munro,3,10,0.0,0.0,0,0,0,7.0,30.0,KH Pandya,bowled
+Delhi Capitals,Mumbai Indians,1178409,2019-04-18,CH Morris,11,9,0.0,1.0,0,0,0,17.0,122.22222222222224,SL Malinga,caught
+Delhi Capitals,Mumbai Indians,1178409,2019-04-18,K Rabada,9,8,0.0,1.0,0,0,0,15.0,112.5,HH Pandya,caught
+Delhi Capitals,Mumbai Indians,1178409,2019-04-18,PP Shaw,20,24,2.0,0.0,0,0,0,26.0,83.33333333333334,RD Chahar,caught
+Delhi Capitals,Mumbai Indians,1178409,2019-04-18,RR Pant,7,11,0.0,0.0,0,0,0,11.0,63.63636363636363,JJ Bumrah,bowled
+Delhi Capitals,Mumbai Indians,1178409,2019-04-18,S Dhawan,35,22,5.0,1.0,0,0,0,46.0,159.0909090909091,RD Chahar,bowled
+Delhi Capitals,Mumbai Indians,1178409,2019-04-18,SS Iyer,3,6,0.0,0.0,0,0,0,7.0,50.0,RD Chahar,bowled
+Mumbai Indians,Delhi Capitals,1178409,2019-04-18,BCJ Cutting,2,4,0.0,0.0,0,0,0,6.0,50.0,AR Patel,lbw
+Mumbai Indians,Delhi Capitals,1178409,2019-04-18,HH Pandya,32,15,2.0,3.0,0,0,0,44.0,213.3333333333333,K Rabada,caught
+Mumbai Indians,Delhi Capitals,1178409,2019-04-18,KH Pandya,37,29,5.0,0.0,0,0,0,46.0,127.58620689655172,0,0
+Mumbai Indians,Delhi Capitals,1178409,2019-04-18,Q de Kock,35,27,2.0,2.0,0,0,0,45.0,129.62962962962962,AR Patel,run out
+Mumbai Indians,Delhi Capitals,1178409,2019-04-18,RG Sharma,30,22,3.0,1.0,0,0,0,39.0,136.36363636363637,A Mishra,bowled
+Mumbai Indians,Delhi Capitals,1178409,2019-04-18,SA Yadav,26,27,2.0,0.0,0,0,0,32.0,96.29629629629628,K Rabada,caught

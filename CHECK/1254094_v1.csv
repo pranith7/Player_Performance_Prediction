@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Punjab Kings,1254094,2021-10-07,AT Rayudu,4,5,0.0,0.0,0,0,0,8.0,80.0,CJ Jordan,caught
+Chennai Super Kings,Punjab Kings,1254094,2021-10-07,DJ Bravo,4,3,1.0,0.0,0,0,0,9.0,133.33333333333331,0,0
+Chennai Super Kings,Punjab Kings,1254094,2021-10-07,F du Plessis,76,61,8.0,2.0,1,0,0,100.0,124.59016393442624,Mohammed Shami,caught
+Chennai Super Kings,Punjab Kings,1254094,2021-10-07,MM Ali,0,6,0.0,0.0,0,0,1,2.0,0.0,Arshdeep Singh,caught
+Chennai Super Kings,Punjab Kings,1254094,2021-10-07,MS Dhoni,12,15,2.0,0.0,0,0,0,18.0,80.0,Ravi Bishnoi,bowled
+Chennai Super Kings,Punjab Kings,1254094,2021-10-07,RA Jadeja,15,17,1.0,0.0,0,0,0,20.0,88.23529411764706,0,0
+Chennai Super Kings,Punjab Kings,1254094,2021-10-07,RD Gaikwad,12,14,1.0,0.0,0,0,0,17.0,85.71428571428571,Arshdeep Singh,caught
+Chennai Super Kings,Punjab Kings,1254094,2021-10-07,RV Uthappa,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,CJ Jordan,caught
+Punjab Kings,Chennai Super Kings,1254094,2021-10-07,AK Markram,13,8,0.0,1.0,0,0,0,19.0,162.5,SN Thakur,caught
+Punjab Kings,Chennai Super Kings,1254094,2021-10-07,KL Rahul,98,47,7.0,8.0,1,0,0,133.0,208.5106382978724,0,0
+Punjab Kings,Chennai Super Kings,1254094,2021-10-07,M Shahrukh Khan,8,10,0.0,1.0,0,0,0,14.0,80.0,DL Chahar,caught
+Punjab Kings,Chennai Super Kings,1254094,2021-10-07,MA Agarwal,12,12,2.0,0.0,0,0,0,18.0,100.0,SN Thakur,lbw
+Punjab Kings,Chennai Super Kings,1254094,2021-10-07,MC Henriques,3,3,0.0,0.0,0,0,0,7.0,100.0,0,0
+Punjab Kings,Chennai Super Kings,1254094,2021-10-07,SN Khan,0,3,0.0,0.0,0,0,1,2.0,0.0,SN Thakur,caught

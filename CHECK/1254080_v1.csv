@@ -1,0 +1,11 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Sunrisers Hyderabad,1254080,2021-04-28,F du Plessis,56,38,6,1.0,1,0,0,76.0,147.36842105263156,Rashid Khan,lbw
+Chennai Super Kings,Sunrisers Hyderabad,1254080,2021-04-28,MM Ali,15,9,3,0.0,0,0,0,22.0,166.66666666666669,Rashid Khan,caught
+Chennai Super Kings,Sunrisers Hyderabad,1254080,2021-04-28,RA Jadeja,7,7,1,0.0,0,0,0,12.0,100.0,0,0
+Chennai Super Kings,Sunrisers Hyderabad,1254080,2021-04-28,RD Gaikwad,75,45,12,0.0,1,0,0,99.0,166.66666666666669,Rashid Khan,bowled
+Chennai Super Kings,Sunrisers Hyderabad,1254080,2021-04-28,SK Raina,17,15,3,0.0,0,0,0,24.0,113.33333333333331,0,0
+Sunrisers Hyderabad,Chennai Super Kings,1254080,2021-04-28,DA Warner,57,57,3,2.0,1,0,0,76.0,100.0,L Ngidi,caught
+Sunrisers Hyderabad,Chennai Super Kings,1254080,2021-04-28,JM Bairstow,7,6,1,0.0,0,0,0,12.0,116.66666666666669,SM Curran,caught
+Sunrisers Hyderabad,Chennai Super Kings,1254080,2021-04-28,KM Jadhav,12,4,1,1.0,0,0,0,19.0,300.0,0,0
+Sunrisers Hyderabad,Chennai Super Kings,1254080,2021-04-28,KS Williamson,26,10,4,1.0,0,0,0,36.0,260.0,0,0
+Sunrisers Hyderabad,Chennai Super Kings,1254080,2021-04-28,MK Pandey,61,49,5,1.0,1,0,0,80.0,124.48979591836736,L Ngidi,caught

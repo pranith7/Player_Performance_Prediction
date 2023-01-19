@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Sunrisers Hyderabad,829793,2015-05-09,JP Duminy,12,16,0.0,0.0,0,0,0,16.0,75.0,KV Sharma,bowled
+Delhi Daredevils,Sunrisers Hyderabad,829793,2015-05-09,KM Jadhav,63,34,8.0,2.0,1,0,0,87.0,185.29411764705884,0,0
+Delhi Daredevils,Sunrisers Hyderabad,829793,2015-05-09,Q de Kock,50,31,9.0,1.0,1,0,0,73.0,161.29032258064515,KV Sharma,stumped
+Delhi Daredevils,Sunrisers Hyderabad,829793,2015-05-09,SS Iyer,0,7,0.0,0.0,0,0,1,2.0,0.0,B Kumar,caught and bowled
+Delhi Daredevils,Sunrisers Hyderabad,829793,2015-05-09,SS Tiwary,26,26,2.0,1.0,0,0,0,34.0,100.0,0,0
+Delhi Daredevils,Sunrisers Hyderabad,829793,2015-05-09,Yuvraj Singh,2,7,0.0,0.0,0,0,0,6.0,28.57142857142857,Parvez Rasool,caught
+Sunrisers Hyderabad,Delhi Daredevils,829793,2015-05-09,DA Warner,17,16,1.0,1.0,0,0,0,24.0,106.25,NM Coulter-Nile,caught
+Sunrisers Hyderabad,Delhi Daredevils,829793,2015-05-09,EJG Morgan,22,25,2.0,0.0,0,0,0,28.0,88.0,J Yadav,caught
+Sunrisers Hyderabad,Delhi Daredevils,829793,2015-05-09,KV Sharma,16,13,2.0,0.0,0,0,0,22.0,123.07692307692308,NM Coulter-Nile,caught
+Sunrisers Hyderabad,Delhi Daredevils,829793,2015-05-09,MC Henriques,74,48,1.0,5.0,1,0,0,97.0,154.16666666666669,0,0
+Sunrisers Hyderabad,Delhi Daredevils,829793,2015-05-09,RS Bopara,17,11,1.0,0.0,0,0,0,22.0,154.54545454545453,0,0
+Sunrisers Hyderabad,Delhi Daredevils,829793,2015-05-09,S Dhawan,13,10,2.0,0.0,0,0,0,19.0,130.0,Z Khan,caught

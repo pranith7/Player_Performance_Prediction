@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Rising Pune Supergiant,1082594,2017-04-08,AR Patel,24,25,1.0,1.0,0,0,0,31.0,96.0,Imran Tahir,caught and bowled
+Kings XI Punjab,Rising Pune Supergiant,1082594,2017-04-08,DA Miller,30,27,1.0,2.0,0,0,0,39.0,111.11111111111111,0,0
+Kings XI Punjab,Rising Pune Supergiant,1082594,2017-04-08,GJ Maxwell,44,23,3.0,4.0,0,0,0,59.0,191.30434782608697,0,0
+Kings XI Punjab,Rising Pune Supergiant,1082594,2017-04-08,HM Amla,28,27,2.0,1.0,0,0,0,36.0,103.7037037037037,RD Chahar,caught
+Kings XI Punjab,Rising Pune Supergiant,1082594,2017-04-08,M Vohra,14,11,1.0,1.0,0,0,0,21.0,127.27272727272728,AB Dinda,caught
+Kings XI Punjab,Rising Pune Supergiant,1082594,2017-04-08,WP Saha,14,9,3.0,0.0,0,0,0,21.0,155.55555555555557,Imran Tahir,bowled
+Rising Pune Supergiant,Kings XI Punjab,1082594,2017-04-08,AM Rahane,19,15,1.0,1.0,0,0,0,26.0,126.66666666666666,T Natarajan,caught
+Rising Pune Supergiant,Kings XI Punjab,1082594,2017-04-08,BA Stokes,50,34,2.0,3.0,1,0,0,70.0,147.05882352941177,AR Patel,caught and bowled
+Rising Pune Supergiant,Kings XI Punjab,1082594,2017-04-08,DT Christian,17,8,2.0,1.0,0,0,0,25.0,212.5,Sandeep Sharma,caught
+Rising Pune Supergiant,Kings XI Punjab,1082594,2017-04-08,MA Agarwal,0,4,0.0,0.0,0,0,1,2.0,0.0,Sandeep Sharma,bowled
+Rising Pune Supergiant,Kings XI Punjab,1082594,2017-04-08,MK Tiwary,40,23,3.0,2.0,0,0,0,51.0,173.91304347826087,0,0
+Rising Pune Supergiant,Kings XI Punjab,1082594,2017-04-08,MS Dhoni,5,13,0.0,0.0,0,0,0,9.0,38.46153846153847,Swapnil Singh,caught and bowled
+Rising Pune Supergiant,Kings XI Punjab,1082594,2017-04-08,SPD Smith,26,28,3.0,0.0,0,0,0,33.0,92.85714285714286,MP Stoinis,caught

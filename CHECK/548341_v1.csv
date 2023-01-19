@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Pune Warriors,548341,2012-04-26,CL White,78,46,6.0,5.0,1,0,0,106.0,169.56521739130434,MN Samuels,caught
+Deccan Chargers,Pune Warriors,548341,2012-04-26,IR Jaggi,10,8,0.0,0.0,0,0,0,14.0,125.0,0,0
+Deccan Chargers,Pune Warriors,548341,2012-04-26,JP Duminy,26,24,0.0,1.0,0,0,0,32.0,108.33333333333331,0,0
+Deccan Chargers,Pune Warriors,548341,2012-04-26,KC Sangakkara,12,15,1.0,0.0,0,0,0,17.0,80.0,R Sharma,bowled
+Deccan Chargers,Pune Warriors,548341,2012-04-26,PA Patel,24,18,3.0,1.0,0,0,0,33.0,133.33333333333331,B Kumar,caught
+Deccan Chargers,Pune Warriors,548341,2012-04-26,S Dhawan,16,11,1.0,1.0,0,0,0,23.0,145.45454545454547,B Kumar,run out
+Pune Warriors,Deccan Chargers,548341,2012-04-26,AC Thomas,12,9,0.0,1.0,0,0,0,18.0,133.33333333333331,MS Gony,run out
+Pune Warriors,Deccan Chargers,548341,2012-04-26,B Kumar,7,4,1.0,0.0,0,0,0,12.0,175.0,0,0
+Pune Warriors,Deccan Chargers,548341,2012-04-26,JD Ryder,7,6,1.0,0.0,0,0,0,12.0,116.66666666666669,Ankit Sharma,caught
+Pune Warriors,Deccan Chargers,548341,2012-04-26,M Manhas,22,15,0.0,2.0,0,0,0,30.0,146.66666666666666,0,0
+Pune Warriors,Deccan Chargers,548341,2012-04-26,MK Pandey,21,22,2.0,1.0,0,0,0,29.0,95.45454545454544,J Theron,bowled
+Pune Warriors,Deccan Chargers,548341,2012-04-26,MN Samuels,3,8,0.0,0.0,0,0,0,7.0,37.5,A Ashish Reddy,caught
+Pune Warriors,Deccan Chargers,548341,2012-04-26,RV Uthappa,29,27,2.0,1.0,0,0,0,37.0,107.40740740740742,A Ashish Reddy,bowled
+Pune Warriors,Deccan Chargers,548341,2012-04-26,SC Ganguly,23,21,3.0,1.0,0,0,0,32.0,109.52380952380952,MS Gony,caught
+Pune Warriors,Deccan Chargers,548341,2012-04-26,SPD Smith,26,14,0.0,3.0,0,0,0,36.0,185.7142857142857,J Theron,caught

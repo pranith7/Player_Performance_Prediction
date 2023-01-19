@@ -1,0 +1,20 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Deccan Chargers,419163,2010-04-22,JA Morkel,4,4,0.0,0.0,0,0,0,8.0,100.0,PP Ojha,caught
+Chennai Super Kings,Deccan Chargers,419163,2010-04-22,M Vijay,15,11,1.0,1.0,0,0,0,22.0,136.36363636363637,RJ Harris,lbw
+Chennai Super Kings,Deccan Chargers,419163,2010-04-22,ML Hayden,8,10,2.0,0.0,0,0,0,14.0,80.0,RJ Harris,caught
+Chennai Super Kings,Deccan Chargers,419163,2010-04-22,MS Dhoni,30,33,3.0,0.0,0,0,0,37.0,90.9090909090909,Harmeet Singh,caught
+Chennai Super Kings,Deccan Chargers,419163,2010-04-22,R Ashwin,6,5,1.0,0.0,0,0,0,11.0,120.0,0,0
+Chennai Super Kings,Deccan Chargers,419163,2010-04-22,S Anirudha,24,15,1.0,2.0,0,0,0,33.0,160.0,RJ Harris,caught
+Chennai Super Kings,Deccan Chargers,419163,2010-04-22,S Badrinath,37,41,3.0,1.0,0,0,0,46.0,90.2439024390244,RP Singh,run out
+Chennai Super Kings,Deccan Chargers,419163,2010-04-22,SK Raina,2,4,0.0,0.0,0,0,0,6.0,50.0,A Symonds,caught
+Deccan Chargers,Chennai Super Kings,419163,2010-04-22,A Symonds,23,23,3.0,0.0,0,0,0,30.0,100.0,R Ashwin,caught
+Deccan Chargers,Chennai Super Kings,419163,2010-04-22,AC Gilchrist,15,20,1.0,1.0,0,0,0,22.0,75.0,DE Bollinger,caught
+Deccan Chargers,Chennai Super Kings,419163,2010-04-22,B Sumanth,16,19,2.0,0.0,0,0,0,22.0,84.21052631578947,DE Bollinger,bowled
+Deccan Chargers,Chennai Super Kings,419163,2010-04-22,HH Gibbs,18,26,1.0,0.0,0,0,0,23.0,69.23076923076923,SB Jakati,bowled
+Deccan Chargers,Chennai Super Kings,419163,2010-04-22,Harmeet Singh,0,1,0.0,0.0,0,0,1,2.0,0.0,M Muralitharan,lbw
+Deccan Chargers,Chennai Super Kings,419163,2010-04-22,MD Mishra,2,5,0.0,0.0,0,0,0,6.0,40.0,SB Jakati,stumped
+Deccan Chargers,Chennai Super Kings,419163,2010-04-22,PP Ojha,1,4,0.0,0.0,0,0,0,5.0,25.0,SK Raina,caught
+Deccan Chargers,Chennai Super Kings,419163,2010-04-22,RG Sharma,2,5,0.0,0.0,0,0,0,6.0,40.0,JA Morkel,caught
+Deccan Chargers,Chennai Super Kings,419163,2010-04-22,RJ Harris,15,8,1.0,1.0,0,0,0,22.0,187.5,DE Bollinger,caught
+Deccan Chargers,Chennai Super Kings,419163,2010-04-22,RP Singh,0,3,0.0,0.0,0,0,1,2.0,0.0,0,0
+Deccan Chargers,Chennai Super Kings,419163,2010-04-22,TL Suman,4,4,1.0,0.0,0,0,0,9.0,100.0,DE Bollinger,caught

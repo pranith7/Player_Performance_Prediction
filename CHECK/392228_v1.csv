@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Kolkata Knight Riders,392228,2009-05-16,A Symonds,18,13,0.0,1.0,0,0,0,24.0,138.46153846153845,Mashrafe Mortaza,run out
+Deccan Chargers,Kolkata Knight Riders,392228,2009-05-16,AC Gilchrist,43,32,5.0,2.0,0,0,0,56.0,134.375,BJ Hodge,caught
+Deccan Chargers,Kolkata Knight Riders,392228,2009-05-16,HH Gibbs,28,34,3.0,0.0,0,0,0,35.0,82.35294117647058,M Kartik,caught
+Deccan Chargers,Kolkata Knight Riders,392228,2009-05-16,RG Sharma,32,14,3.0,2.0,0,0,0,43.0,228.57142857142856,0,0
+Deccan Chargers,Kolkata Knight Riders,392228,2009-05-16,TL Suman,31,24,3.0,1.0,0,0,0,40.0,129.16666666666669,AB Agarkar,run out
+Deccan Chargers,Kolkata Knight Riders,392228,2009-05-16,Y Venugopal Rao,7,7,0.0,0.0,0,0,0,11.0,100.0,0,0
+Kolkata Knight Riders,Deccan Chargers,392228,2009-05-16,BB McCullum,20,19,1.0,1.0,0,0,0,27.0,105.26315789473684,RJ Harris,caught
+Kolkata Knight Riders,Deccan Chargers,392228,2009-05-16,BJ Hodge,48,41,5.0,0.0,0,0,0,57.0,117.07317073170732,RJ Harris,caught
+Kolkata Knight Riders,Deccan Chargers,392228,2009-05-16,DJ Hussey,43,18,2.0,4.0,0,0,0,57.0,238.88888888888889,A Symonds,run out
+Kolkata Knight Riders,Deccan Chargers,392228,2009-05-16,Mashrafe Mortaza,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Kolkata Knight Riders,Deccan Chargers,392228,2009-05-16,SC Ganguly,33,41,3.0,0.0,0,0,0,40.0,80.48780487804879,RG Sharma,caught
+Kolkata Knight Riders,Deccan Chargers,392228,2009-05-16,WP Saha,7,3,0.0,1.0,0,0,0,13.0,233.3333333333333,A Symonds,caught

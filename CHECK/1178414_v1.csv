@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Royal Challengers Bangalore,1178414,2019-04-21,AT Rayudu,29,29,2.0,1.0,0,0,0,37.0,100.0,YS Chahal,bowled
+Chennai Super Kings,Royal Challengers Bangalore,1178414,2019-04-21,DJ Bravo,5,4,0.0,0.0,0,0,0,9.0,125.0,NA Saini,caught
+Chennai Super Kings,Royal Challengers Bangalore,1178414,2019-04-21,F du Plessis,5,16,0.0,0.0,0,0,0,9.0,31.25,UT Yadav,caught
+Chennai Super Kings,Royal Challengers Bangalore,1178414,2019-04-21,KM Jadhav,9,9,2.0,0.0,0,0,0,15.0,100.0,UT Yadav,caught
+Chennai Super Kings,Royal Challengers Bangalore,1178414,2019-04-21,MS Dhoni,84,48,5.0,7.0,1,0,0,115.0,175.0,0,0
+Chennai Super Kings,Royal Challengers Bangalore,1178414,2019-04-21,RA Jadeja,11,13,0.0,0.0,0,0,0,15.0,84.61538461538461,NA Saini,run out
+Chennai Super Kings,Royal Challengers Bangalore,1178414,2019-04-21,SK Raina,0,1,0.0,0.0,0,0,1,2.0,0.0,DW Steyn,bowled
+Chennai Super Kings,Royal Challengers Bangalore,1178414,2019-04-21,SR Watson,5,3,1.0,0.0,0,0,0,10.0,166.66666666666669,DW Steyn,caught
+Royal Challengers Bangalore,Chennai Super Kings,1178414,2019-04-21,AB de Villiers,25,20,3.0,1.0,0,0,0,34.0,125.0,RA Jadeja,caught
+Royal Challengers Bangalore,Chennai Super Kings,1178414,2019-04-21,AD Nath,24,20,1.0,1.0,0,0,0,31.0,120.0,RA Jadeja,caught
+Royal Challengers Bangalore,Chennai Super Kings,1178414,2019-04-21,MM Ali,26,17,5.0,0.0,0,0,0,35.0,152.94117647058823,DJ Bravo,caught
+Royal Challengers Bangalore,Chennai Super Kings,1178414,2019-04-21,MP Stoinis,14,13,0.0,1.0,0,0,0,20.0,107.6923076923077,Imran Tahir,caught
+Royal Challengers Bangalore,Chennai Super Kings,1178414,2019-04-21,P Negi,5,6,0.0,0.0,0,0,0,9.0,83.33333333333334,DL Chahar,caught
+Royal Challengers Bangalore,Chennai Super Kings,1178414,2019-04-21,PA Patel,53,37,2.0,4.0,1,0,0,75.0,143.24324324324326,DJ Bravo,caught
+Royal Challengers Bangalore,Chennai Super Kings,1178414,2019-04-21,UT Yadav,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Royal Challengers Bangalore,Chennai Super Kings,1178414,2019-04-21,V Kohli,9,8,2.0,0.0,0,0,0,15.0,112.5,DL Chahar,caught

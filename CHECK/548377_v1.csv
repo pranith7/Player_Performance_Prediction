@@ -1,0 +1,10 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Rajasthan Royals,548377,2012-05-20,DR Smith,87,60,10,3.0,1,0,0,115.0,145.0,0,0
+Mumbai Indians,Rajasthan Royals,548377,2012-05-20,SR Tendulkar,58,58,6,0.0,1,0,0,76.0,100.0,0,0
+Rajasthan Royals,Mumbai Indians,548377,2012-05-20,AL Menaria,21,22,1,1.0,0,0,0,28.0,95.45454545454544,DS Kulkarni,caught and bowled
+Rajasthan Royals,Mumbai Indians,548377,2012-05-20,AM Rahane,13,19,2,0.0,0,0,0,19.0,68.42105263157895,DS Kulkarni,caught
+Rajasthan Royals,Mumbai Indians,548377,2012-05-20,DH Yagnik,6,4,1,0.0,0,0,0,11.0,150.0,SL Malinga,caught and bowled
+Rajasthan Royals,Mumbai Indians,548377,2012-05-20,OA Shah,28,26,1,1.0,0,0,0,35.0,107.6923076923077,0,0
+Rajasthan Royals,Mumbai Indians,548377,2012-05-20,R Dravid,5,6,1,0.0,0,0,0,10.0,83.33333333333334,DS Kulkarni,caught
+Rajasthan Royals,Mumbai Indians,548377,2012-05-20,SR Watson,45,38,4,2.0,0,0,0,57.0,118.42105263157892,KA Pollard,caught
+Rajasthan Royals,Mumbai Indians,548377,2012-05-20,STR Binny,30,17,3,2.0,0,0,0,41.0,176.47058823529412,KA Pollard,run out

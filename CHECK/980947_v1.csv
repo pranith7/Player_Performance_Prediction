@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Mumbai Indians,980947,2016-04-28,AD Russell,22,16,3.0,0.0,0,0,0,29.0,137.5,TG Southee,bowled
+Kolkata Knight Riders,Mumbai Indians,980947,2016-04-28,CA Lynn,10,10,0.0,0.0,0,0,0,14.0,100.0,0,0
+Kolkata Knight Riders,Mumbai Indians,980947,2016-04-28,G Gambhir,59,45,6.0,1.0,1,0,0,79.0,131.11111111111111,MJ McClenaghan,caught
+Kolkata Knight Riders,Mumbai Indians,980947,2016-04-28,RV Uthappa,36,20,1.0,2.0,0,0,0,45.0,180.0,Harbhajan Singh,caught
+Kolkata Knight Riders,Mumbai Indians,980947,2016-04-28,SA Yadav,21,17,2.0,0.0,0,0,0,27.0,123.52941176470588,TG Southee,caught and bowled
+Kolkata Knight Riders,Mumbai Indians,980947,2016-04-28,Shakib Al Hasan,6,4,1.0,0.0,0,0,0,11.0,150.0,HH Pandya,caught
+Kolkata Knight Riders,Mumbai Indians,980947,2016-04-28,YK Pathan,19,8,4.0,0.0,0,0,0,27.0,237.5,0,0
+Mumbai Indians,Kolkata Knight Riders,980947,2016-04-28,AT Rayudu,32,22,5.0,1.0,0,0,0,43.0,145.45454545454547,Shakib Al Hasan,caught
+Mumbai Indians,Kolkata Knight Riders,980947,2016-04-28,JC Buttler,15,15,2.0,0.0,0,0,0,21.0,100.0,SP Narine,caught
+Mumbai Indians,Kolkata Knight Riders,980947,2016-04-28,KA Pollard,51,20,2.0,6.0,1,0,0,77.0,255.0,0,0
+Mumbai Indians,Kolkata Knight Riders,980947,2016-04-28,KH Pandya,6,5,1.0,0.0,0,0,0,11.0,120.0,SP Narine,bowled
+Mumbai Indians,Kolkata Knight Riders,980947,2016-04-28,PA Patel,1,2,0.0,0.0,0,0,0,5.0,50.0,UT Yadav,caught
+Mumbai Indians,Kolkata Knight Riders,980947,2016-04-28,RG Sharma,68,49,8.0,2.0,1,0,0,92.0,138.77551020408163,0,0

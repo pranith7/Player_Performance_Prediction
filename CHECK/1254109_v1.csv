@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Sunrisers Hyderabad,1254109,2021-10-03,EJG Morgan,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Kolkata Knight Riders,Sunrisers Hyderabad,1254109,2021-10-03,KD Karthik,18,12,3.0,0.0,0,0,0,25.0,150.0,0,0
+Kolkata Knight Riders,Sunrisers Hyderabad,1254109,2021-10-03,N Rana,25,35,3.0,0.0,0,0,0,32.0,71.42857142857143,JO Holder,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1254109,2021-10-03,RA Tripathi,7,6,1.0,0.0,0,0,0,12.0,116.66666666666669,Rashid Khan,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1254109,2021-10-03,Shubman Gill,57,51,10.0,0.0,1,0,0,79.0,111.76470588235294,S Kaul,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1254109,2021-10-03,VR Iyer,8,14,0.0,0.0,0,0,0,12.0,57.14285714285714,JO Holder,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,1254109,2021-10-03,Abdul Samad,25,18,0.0,3.0,0,0,0,35.0,138.88888888888889,TG Southee,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,1254109,2021-10-03,Abhishek Sharma,6,10,0.0,0.0,0,0,0,10.0,60.0,Shakib Al Hasan,stumped
+Sunrisers Hyderabad,Kolkata Knight Riders,1254109,2021-10-03,B Kumar,7,7,0.0,0.0,0,0,0,11.0,100.0,0,0
+Sunrisers Hyderabad,Kolkata Knight Riders,1254109,2021-10-03,JJ Roy,10,13,2.0,0.0,0,0,0,16.0,76.92307692307693,Shivam Mavi,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,1254109,2021-10-03,JO Holder,2,9,0.0,0.0,0,0,0,6.0,22.22222222222222,CV Varun,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,1254109,2021-10-03,KS Williamson,26,21,4.0,0.0,0,0,0,34.0,123.8095238095238,Shakib Al Hasan,run out
+Sunrisers Hyderabad,Kolkata Knight Riders,1254109,2021-10-03,PK Garg,21,31,0.0,1.0,0,0,0,27.0,67.74193548387096,CV Varun,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,1254109,2021-10-03,Rashid Khan,8,6,1.0,0.0,0,0,0,13.0,133.33333333333331,Shivam Mavi,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,1254109,2021-10-03,S Kaul,7,5,1.0,0.0,0,0,0,12.0,140.0,0,0
+Sunrisers Hyderabad,Kolkata Knight Riders,1254109,2021-10-03,WP Saha,0,1,0.0,0.0,0,0,1,2.0,0.0,TG Southee,lbw

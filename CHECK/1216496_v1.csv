@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Rajasthan Royals,1216496,2020-09-22,F du Plessis,72,38,1.0,7.0,1,0,0,99.0,189.4736842105263,JC Archer,caught
+Chennai Super Kings,Rajasthan Royals,1216496,2020-09-22,KM Jadhav,22,17,3.0,0.0,0,0,0,29.0,129.41176470588235,TK Curran,caught
+Chennai Super Kings,Rajasthan Royals,1216496,2020-09-22,M Vijay,21,21,3.0,0.0,0,0,0,28.0,100.0,S Gopal,caught
+Chennai Super Kings,Rajasthan Royals,1216496,2020-09-22,MS Dhoni,29,17,0.0,3.0,0,0,0,39.0,170.58823529411765,0,0
+Chennai Super Kings,Rajasthan Royals,1216496,2020-09-22,RA Jadeja,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Chennai Super Kings,Rajasthan Royals,1216496,2020-09-22,RD Gaikwad,0,1,0.0,0.0,0,0,1,2.0,0.0,R Tewatia,stumped
+Chennai Super Kings,Rajasthan Royals,1216496,2020-09-22,SM Curran,17,6,1.0,2.0,0,0,0,26.0,283.33333333333337,R Tewatia,stumped
+Chennai Super Kings,Rajasthan Royals,1216496,2020-09-22,SR Watson,33,22,1.0,4.0,0,0,0,46.0,150.0,R Tewatia,bowled
+Rajasthan Royals,Chennai Super Kings,1216496,2020-09-22,JC Archer,27,9,0.0,4.0,0,0,0,39.0,300.0,0,0
+Rajasthan Royals,Chennai Super Kings,1216496,2020-09-22,R Parag,6,4,1.0,0.0,0,0,0,11.0,150.0,SM Curran,caught
+Rajasthan Royals,Chennai Super Kings,1216496,2020-09-22,R Tewatia,10,8,1.0,0.0,0,0,0,15.0,125.0,SM Curran,lbw
+Rajasthan Royals,Chennai Super Kings,1216496,2020-09-22,RV Uthappa,5,9,0.0,0.0,0,0,0,9.0,55.55555555555556,PP Chawla,caught
+Rajasthan Royals,Chennai Super Kings,1216496,2020-09-22,SPD Smith,69,51,4.0,4.0,1,0,0,93.0,135.29411764705884,SM Curran,caught
+Rajasthan Royals,Chennai Super Kings,1216496,2020-09-22,SV Samson,74,32,1.0,9.0,1,0,0,105.0,231.25,L Ngidi,caught
+Rajasthan Royals,Chennai Super Kings,1216496,2020-09-22,TK Curran,10,9,1.0,0.0,0,0,0,15.0,111.11111111111111,0,0
+Rajasthan Royals,Chennai Super Kings,1216496,2020-09-22,YBK Jaiswal,6,6,1.0,0.0,0,0,0,11.0,100.0,DL Chahar,caught and bowled

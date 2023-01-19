@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Royal Challengers Bangalore,336016,2008-05-12,JR Hopes,27,19,0.0,3.0,0,0,0,37.0,142.10526315789474,R Vinay Kumar,caught
+Kings XI Punjab,Royal Challengers Bangalore,336016,2008-05-12,LA Pomersbach,34,24,3.0,2.0,0,0,0,45.0,141.66666666666669,0,0
+Kings XI Punjab,Royal Challengers Bangalore,336016,2008-05-12,SE Marsh,74,54,9.0,2.0,1,0,0,99.0,137.03703703703704,0,0
+Royal Challengers Bangalore,Kings XI Punjab,336016,2008-05-12,A Kumble,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Royal Challengers Bangalore,Kings XI Punjab,336016,2008-05-12,CL White,10,15,0.0,0.0,0,0,0,14.0,66.66666666666666,PP Chawla,caught and bowled
+Royal Challengers Bangalore,Kings XI Punjab,336016,2008-05-12,J Arunkumar,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,S Sreesanth,caught
+Royal Challengers Bangalore,Kings XI Punjab,336016,2008-05-12,MV Boucher,39,33,4.0,1.0,0,0,0,49.0,118.1818181818182,IK Pathan,run out
+Royal Challengers Bangalore,Kings XI Punjab,336016,2008-05-12,Misbah-ul-Haq,21,8,3.0,1.0,0,0,0,30.0,262.5,S Sreesanth,hit wicket
+Royal Challengers Bangalore,Kings XI Punjab,336016,2008-05-12,P Kumar,5,7,0.0,0.0,0,0,0,9.0,71.42857142857143,S Sreesanth,bowled
+Royal Challengers Bangalore,Kings XI Punjab,336016,2008-05-12,R Dravid,29,26,2.0,0.0,0,0,0,35.0,111.53846153846156,IK Pathan,bowled
+Royal Challengers Bangalore,Kings XI Punjab,336016,2008-05-12,R Vinay Kumar,1,4,0.0,0.0,0,0,0,5.0,25.0,VRV Singh,bowled
+Royal Challengers Bangalore,Kings XI Punjab,336016,2008-05-12,V Kohli,21,23,4.0,0.0,0,0,0,29.0,91.30434782608695,PP Chawla,bowled
+Royal Challengers Bangalore,Kings XI Punjab,336016,2008-05-12,Z Khan,1,4,0.0,0.0,0,0,0,5.0,25.0,0,0

@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Mumbai Indians,829717,2015-04-12,DA Miller,24,24,3.0,0.0,0,0,0,31.0,100.0,SL Malinga,caught
+Kings XI Punjab,Mumbai Indians,829717,2015-04-12,GJ Bailey,61,33,4.0,3.0,1,0,0,83.0,184.84848484848484,0,0
+Kings XI Punjab,Mumbai Indians,829717,2015-04-12,GJ Maxwell,6,4,1.0,0.0,0,0,0,11.0,150.0,J Suchith,caught
+Kings XI Punjab,Mumbai Indians,829717,2015-04-12,M Vijay,35,29,6.0,0.0,0,0,0,45.0,120.6896551724138,Harbhajan Singh,caught
+Kings XI Punjab,Mumbai Indians,829717,2015-04-12,MG Johnson,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,0,0
+Kings XI Punjab,Mumbai Indians,829717,2015-04-12,R Dhawan,6,6,1.0,0.0,0,0,0,11.0,100.0,SL Malinga,caught
+Kings XI Punjab,Mumbai Indians,829717,2015-04-12,V Sehwag,36,20,6.0,1.0,0,0,0,48.0,180.0,Harbhajan Singh,caught
+Mumbai Indians,Kings XI Punjab,829717,2015-04-12,AJ Finch,8,14,1.0,0.0,0,0,0,13.0,57.14285714285714,MG Johnson,bowled
+Mumbai Indians,Kings XI Punjab,829717,2015-04-12,AP Tare,7,10,0.0,0.0,0,0,0,11.0,70.0,Anureet Singh,caught
+Mumbai Indians,Kings XI Punjab,829717,2015-04-12,AT Rayudu,13,19,2.0,0.0,0,0,0,19.0,68.42105263157895,MG Johnson,caught
+Mumbai Indians,Kings XI Punjab,829717,2015-04-12,CJ Anderson,5,11,1.0,0.0,0,0,0,10.0,45.45454545454545,AR Patel,stumped
+Mumbai Indians,Kings XI Punjab,829717,2015-04-12,Harbhajan Singh,64,27,5.0,6.0,1,0,0,93.0,237.037037037037,Anureet Singh,caught
+Mumbai Indians,Kings XI Punjab,829717,2015-04-12,J Suchith,34,21,4.0,2.0,0,0,0,46.0,161.9047619047619,0,0
+Mumbai Indians,Kings XI Punjab,829717,2015-04-12,KA Pollard,20,21,1.0,1.0,0,0,0,27.0,95.23809523809524,AR Patel,caught
+Mumbai Indians,Kings XI Punjab,829717,2015-04-12,RG Sharma,0,2,0.0,0.0,0,0,1,2.0,0.0,Sandeep Sharma,lbw

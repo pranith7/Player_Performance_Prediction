@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Royal Challengers Bangalore,598033,2013-04-27,DR Smith,50,37,4.0,3.0,1,0,0,72.0,135.13513513513513,J Syed Mohammad,bowled
+Mumbai Indians,Royal Challengers Bangalore,598033,2013-04-27,Harbhajan Singh,16,8,3.0,0.0,0,0,0,23.0,200.0,R Rampaul,caught
+Mumbai Indians,Royal Challengers Bangalore,598033,2013-04-27,KA Pollard,34,17,2.0,3.0,0,0,0,46.0,200.0,R Vinay Kumar,caught
+Mumbai Indians,Royal Challengers Bangalore,598033,2013-04-27,KD Karthik,43,34,3.0,1.0,0,0,0,52.0,126.47058823529412,R Vinay Kumar,run out
+Mumbai Indians,Royal Challengers Bangalore,598033,2013-04-27,MG Johnson,9,5,0.0,1.0,0,0,0,15.0,180.0,0,0
+Mumbai Indians,Royal Challengers Bangalore,598033,2013-04-27,RG Sharma,10,8,1.0,0.0,0,0,0,15.0,125.0,J Syed Mohammad,run out
+Mumbai Indians,Royal Challengers Bangalore,598033,2013-04-27,SL Malinga,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Mumbai Indians,Royal Challengers Bangalore,598033,2013-04-27,SR Tendulkar,23,13,5.0,0.0,0,0,0,32.0,176.9230769230769,RP Singh,lbw
+Royal Challengers Bangalore,Mumbai Indians,598033,2013-04-27,AB de Villiers,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,DS Kulkarni,caught
+Royal Challengers Bangalore,Mumbai Indians,598033,2013-04-27,CH Gayle,18,20,2.0,1.0,0,0,0,26.0,90.0,Harbhajan Singh,caught
+Royal Challengers Bangalore,Mumbai Indians,598033,2013-04-27,J Syed Mohammad,9,11,1.0,0.0,0,0,0,14.0,81.81818181818183,DR Smith,caught
+Royal Challengers Bangalore,Mumbai Indians,598033,2013-04-27,KB Arun Karthik,12,8,0.0,1.0,0,0,0,18.0,150.0,Harbhajan Singh,stumped
+Royal Challengers Bangalore,Mumbai Indians,598033,2013-04-27,R Rampaul,23,18,3.0,0.0,0,0,0,30.0,127.77777777777776,0,0
+Royal Challengers Bangalore,Mumbai Indians,598033,2013-04-27,R Vinay Kumar,26,20,4.0,0.0,0,0,0,34.0,130.0,0,0
+Royal Challengers Bangalore,Mumbai Indians,598033,2013-04-27,SS Tiwary,21,21,0.0,1.0,0,0,0,27.0,100.0,DR Smith,caught
+Royal Challengers Bangalore,Mumbai Indians,598033,2013-04-27,TM Dilshan,13,19,2.0,0.0,0,0,0,19.0,68.42105263157895,DS Kulkarni,caught
+Royal Challengers Bangalore,Mumbai Indians,598033,2013-04-27,V Kohli,1,4,0.0,0.0,0,0,0,5.0,25.0,DS Kulkarni,caught

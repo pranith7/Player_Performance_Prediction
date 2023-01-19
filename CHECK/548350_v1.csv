@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Royal Challengers Bangalore,548350,2012-05-02,AM Nayar,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,Z Khan,run out
+Kings XI Punjab,Royal Challengers Bangalore,548350,2012-05-02,Azhar Mahmood,2,4,0.0,0.0,0,0,0,6.0,50.0,DL Vettori,run out
+Kings XI Punjab,Royal Challengers Bangalore,548350,2012-05-02,DJ Hussey,45,29,2.0,4.0,0,0,0,59.0,155.17241379310346,Z Khan,run out
+Kings XI Punjab,Royal Challengers Bangalore,548350,2012-05-02,Mandeep Singh,43,31,6.0,1.0,0,0,0,55.0,138.70967741935485,KP Appanna,lbw
+Kings XI Punjab,Royal Challengers Bangalore,548350,2012-05-02,N Saini,50,36,5.0,0.0,1,0,0,67.0,138.88888888888889,AB McDonald,caught
+Kings XI Punjab,Royal Challengers Bangalore,548350,2012-05-02,P Dogra,3,5,0.0,0.0,0,0,0,7.0,60.0,0,0
+Kings XI Punjab,Royal Challengers Bangalore,548350,2012-05-02,PP Chawla,6,2,0.0,1.0,0,0,0,12.0,300.0,0,0
+Kings XI Punjab,Royal Challengers Bangalore,548350,2012-05-02,SE Marsh,8,10,1.0,0.0,0,0,0,13.0,80.0,AB McDonald,bowled
+Royal Challengers Bangalore,Kings XI Punjab,548350,2012-05-02,AB McDonald,9,11,1.0,0.0,0,0,0,14.0,81.81818181818183,Azhar Mahmood,caught
+Royal Challengers Bangalore,Kings XI Punjab,548350,2012-05-02,AB de Villiers,17,13,1.0,1.0,0,0,0,24.0,130.76923076923077,Azhar Mahmood,caught
+Royal Challengers Bangalore,Kings XI Punjab,548350,2012-05-02,AUK Pathan,2,4,0.0,0.0,0,0,0,6.0,50.0,0,0
+Royal Challengers Bangalore,Kings XI Punjab,548350,2012-05-02,CH Gayle,71,44,6.0,4.0,1,0,0,97.0,161.36363636363637,Azhar Mahmood,caught
+Royal Challengers Bangalore,Kings XI Punjab,548350,2012-05-02,MA Agarwal,7,9,0.0,1.0,0,0,0,13.0,77.77777777777779,RJ Harris,bowled
+Royal Challengers Bangalore,Kings XI Punjab,548350,2012-05-02,SS Tiwary,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Royal Challengers Bangalore,Kings XI Punjab,548350,2012-05-02,V Kohli,45,42,3.0,2.0,0,0,0,56.0,107.14285714285714,PP Chawla,bowled

@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Royal Challengers Bangalore,980959,2016-05-02,AD Russell,39,27,1.0,4.0,0,0,0,52.0,144.44444444444443,YS Chahal,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,980959,2016-05-02,CA Lynn,15,13,0.0,1.0,0,0,0,21.0,115.38461538461536,YS Chahal,bowled
+Kolkata Knight Riders,Royal Challengers Bangalore,980959,2016-05-02,G Gambhir,37,33,4.0,1.0,0,0,0,47.0,112.12121212121212,S Aravind,lbw
+Kolkata Knight Riders,Royal Challengers Bangalore,980959,2016-05-02,MK Pandey,8,12,0.0,0.0,0,0,0,12.0,66.66666666666666,SR Watson,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,980959,2016-05-02,RV Uthappa,1,4,0.0,0.0,0,0,0,5.0,25.0,STR Binny,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,980959,2016-05-02,SA Yadav,10,5,2.0,0.0,0,0,0,16.0,200.0,0,0
+Kolkata Knight Riders,Royal Challengers Bangalore,980959,2016-05-02,YK Pathan,60,30,6.0,3.0,1,0,0,84.0,200.0,0,0
+Royal Challengers Bangalore,Kolkata Knight Riders,980959,2016-05-02,AB de Villiers,4,6,0.0,0.0,0,0,0,8.0,66.66666666666666,PP Chawla,lbw
+Royal Challengers Bangalore,Kolkata Knight Riders,980959,2016-05-02,CH Gayle,7,7,0.0,1.0,0,0,0,13.0,100.0,M Morkel,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,980959,2016-05-02,KL Rahul,52,33,6.0,2.0,1,0,0,74.0,157.57575757575756,PP Chawla,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,980959,2016-05-02,SR Watson,34,21,5.0,1.0,0,0,0,45.0,161.9047619047619,UT Yadav,run out
+Royal Challengers Bangalore,Kolkata Knight Riders,980959,2016-05-02,STR Binny,16,4,1.0,2.0,0,0,0,25.0,400.0,UT Yadav,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,980959,2016-05-02,Sachin Baby,16,9,2.0,1.0,0,0,0,24.0,177.77777777777777,AD Russell,caught and bowled
+Royal Challengers Bangalore,Kolkata Knight Riders,980959,2016-05-02,V Kohli,52,44,4.0,0.0,1,0,0,68.0,118.1818181818182,M Morkel,caught

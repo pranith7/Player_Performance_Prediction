@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kochi Tuskers Kerala,Pune Warriors,501207,2011-04-13,BB McCullum,0,1,0.0,0.0,0,0,1,2.0,0.0,AC Thomas,caught
+Kochi Tuskers Kerala,Pune Warriors,501207,2011-04-13,BJ Hodge,39,36,2.0,2.0,0,0,0,49.0,108.33333333333331,R Sharma,caught
+Kochi Tuskers Kerala,Pune Warriors,501207,2011-04-13,DPMD Jayawardene,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,WD Parnell,caught
+Kochi Tuskers Kerala,Pune Warriors,501207,2011-04-13,PA Patel,21,19,4.0,0.0,0,0,0,29.0,110.5263157894737,WD Parnell,caught
+Kochi Tuskers Kerala,Pune Warriors,501207,2011-04-13,R Vinay Kumar,1,1,0.0,0.0,0,0,0,5.0,100.0,JD Ryder,run out
+Kochi Tuskers Kerala,Pune Warriors,501207,2011-04-13,RA Jadeja,47,34,3.0,3.0,0,0,0,60.0,138.23529411764704,JD Ryder,caught
+Kochi Tuskers Kerala,Pune Warriors,501207,2011-04-13,RP Singh,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Kochi Tuskers Kerala,Pune Warriors,501207,2011-04-13,RV Gomez,26,19,3.0,0.0,0,0,0,33.0,136.8421052631579,0,0
+Kochi Tuskers Kerala,Pune Warriors,501207,2011-04-13,S Sreesanth,1,6,0.0,0.0,0,0,0,5.0,16.666666666666664,WD Parnell,run out
+Kochi Tuskers Kerala,Pune Warriors,501207,2011-04-13,VVS Laxman,0,3,0.0,0.0,0,0,1,2.0,0.0,WD Parnell,bowled
+Pune Warriors,Kochi Tuskers Kerala,501207,2011-04-13,GC Smith,24,27,3.0,0.0,0,0,0,31.0,88.88888888888889,RA Jadeja,caught
+Pune Warriors,Kochi Tuskers Kerala,501207,2011-04-13,JD Ryder,17,11,3.0,0.0,0,0,0,24.0,154.54545454545453,R Vinay Kumar,caught and bowled
+Pune Warriors,Kochi Tuskers Kerala,501207,2011-04-13,M Manhas,12,19,1.0,0.0,0,0,0,17.0,63.1578947368421,BJ Hodge,caught
+Pune Warriors,Kochi Tuskers Kerala,501207,2011-04-13,MD Mishra,37,21,2.0,2.0,0,0,0,47.0,176.19047619047618,0,0
+Pune Warriors,Kochi Tuskers Kerala,501207,2011-04-13,R Sharma,10,11,0.0,1.0,0,0,0,16.0,90.9090909090909,0,0
+Pune Warriors,Kochi Tuskers Kerala,501207,2011-04-13,RV Uthappa,31,15,3.0,2.0,0,0,0,42.0,206.66666666666669,M Muralitharan,bowled
+Pune Warriors,Kochi Tuskers Kerala,501207,2011-04-13,WD Parnell,1,6,0.0,0.0,0,0,0,5.0,16.666666666666664,RA Jadeja,run out
+Pune Warriors,Kochi Tuskers Kerala,501207,2011-04-13,Yuvraj Singh,8,13,0.0,0.0,0,0,0,12.0,61.53846153846154,BJ Hodge,caught

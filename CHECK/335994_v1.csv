@@ -1,0 +1,11 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Mumbai Indians,335994,2008-04-27,AC Gilchrist,109,50,9.0,10.0,1,1,0,166.0,218.00000000000003,0,0
+Deccan Chargers,Mumbai Indians,335994,2008-04-27,VVS Laxman,37,27,4.0,1.0,0,0,0,47.0,137.03703703703704,0,0
+Mumbai Indians,Deccan Chargers,335994,2008-04-27,AM Nayar,34,20,1.0,3.0,0,0,0,45.0,170.0,DNT Zoysa,caught
+Mumbai Indians,Deccan Chargers,335994,2008-04-27,AM Rahane,0,7,0.0,0.0,0,0,1,2.0,0.0,SB Bangar,caught
+Mumbai Indians,Deccan Chargers,335994,2008-04-27,DJ Bravo,34,18,3.0,1.0,0,0,0,43.0,188.88888888888889,RP Singh,caught
+Mumbai Indians,Deccan Chargers,335994,2008-04-27,L Ronchi,13,11,3.0,0.0,0,0,0,20.0,118.1818181818182,RP Singh,caught
+Mumbai Indians,Deccan Chargers,335994,2008-04-27,MA Khote,7,10,1.0,0.0,0,0,0,12.0,70.0,0,0
+Mumbai Indians,Deccan Chargers,335994,2008-04-27,RV Uthappa,6,5,1.0,0.0,0,0,0,11.0,120.0,Shahid Afridi,caught
+Mumbai Indians,Deccan Chargers,335994,2008-04-27,SM Pollock,31,31,3.0,1.0,0,0,0,40.0,100.0,SB Bangar,bowled
+Mumbai Indians,Deccan Chargers,335994,2008-04-27,ST Jayasuriya,18,23,2.0,0.0,0,0,0,24.0,78.26086956521739,Shahid Afridi,caught

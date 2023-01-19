@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Royal Challengers Bangalore,1082602,2017-04-14,HH Pandya,9,5,0.0,1.0,0,0,0,15.0,180.0,0,0
+Mumbai Indians,Royal Challengers Bangalore,1082602,2017-04-14,JC Buttler,2,5,0.0,0.0,0,0,0,6.0,40.0,STR Binny,caught
+Mumbai Indians,Royal Challengers Bangalore,1082602,2017-04-14,KA Pollard,70,49,3.0,5.0,1,0,0,95.0,142.85714285714286,YS Chahal,caught
+Mumbai Indians,Royal Challengers Bangalore,1082602,2017-04-14,KH Pandya,37,32,3.0,1.0,0,0,0,46.0,115.625,0,0
+Mumbai Indians,Royal Challengers Bangalore,1082602,2017-04-14,MJ McClenaghan,0,1,0.0,0.0,0,0,1,2.0,0.0,S Badree,caught
+Mumbai Indians,Royal Challengers Bangalore,1082602,2017-04-14,N Rana,11,16,1.0,0.0,0,0,0,16.0,68.75,S Badree,caught
+Mumbai Indians,Royal Challengers Bangalore,1082602,2017-04-14,PA Patel,3,9,0.0,0.0,0,0,0,7.0,33.33333333333333,S Badree,caught
+Mumbai Indians,Royal Challengers Bangalore,1082602,2017-04-14,RG Sharma,0,2,0.0,0.0,0,0,1,2.0,0.0,S Badree,bowled
+Royal Challengers Bangalore,Mumbai Indians,1082602,2017-04-14,AB de Villiers,19,22,0.0,1.0,0,0,0,25.0,86.36363636363636,KH Pandya,caught
+Royal Challengers Bangalore,Mumbai Indians,1082602,2017-04-14,CH Gayle,22,28,2.0,1.0,0,0,0,30.0,78.57142857142857,HH Pandya,caught
+Royal Challengers Bangalore,Mumbai Indians,1082602,2017-04-14,KM Jadhav,9,8,0.0,0.0,0,0,0,13.0,112.5,JJ Bumrah,run out
+Royal Challengers Bangalore,Mumbai Indians,1082602,2017-04-14,Mandeep Singh,0,1,0.0,0.0,0,0,1,2.0,0.0,MJ McClenaghan,bowled
+Royal Challengers Bangalore,Mumbai Indians,1082602,2017-04-14,P Negi,13,13,0.0,0.0,0,0,0,17.0,100.0,0,0
+Royal Challengers Bangalore,Mumbai Indians,1082602,2017-04-14,STR Binny,6,4,0.0,0.0,0,0,0,10.0,150.0,0,0
+Royal Challengers Bangalore,Mumbai Indians,1082602,2017-04-14,V Kohli,62,48,5.0,2.0,1,0,0,83.0,129.16666666666669,MJ McClenaghan,caught

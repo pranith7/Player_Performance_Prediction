@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Rajasthan Royals,1216537,2020-10-30,CH Gayle,99,69,6.0,8.0,1,0,0,133.0,143.47826086956522,JC Archer,bowled
+Kings XI Punjab,Rajasthan Royals,1216537,2020-10-30,DJ Hooda,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Kings XI Punjab,Rajasthan Royals,1216537,2020-10-30,GJ Maxwell,6,6,1.0,0.0,0,0,0,11.0,100.0,0,0
+Kings XI Punjab,Rajasthan Royals,1216537,2020-10-30,KL Rahul,46,42,3.0,2.0,0,0,0,57.0,109.52380952380952,BA Stokes,caught
+Kings XI Punjab,Rajasthan Royals,1216537,2020-10-30,Mandeep Singh,0,1,0.0,0.0,0,0,1,2.0,0.0,JC Archer,caught
+Kings XI Punjab,Rajasthan Royals,1216537,2020-10-30,N Pooran,22,10,0.0,3.0,0,0,0,32.0,220.00000000000003,BA Stokes,caught
+Rajasthan Royals,Kings XI Punjab,1216537,2020-10-30,BA Stokes,50,26,6.0,3.0,1,0,0,74.0,192.30769230769232,CJ Jordan,caught
+Rajasthan Royals,Kings XI Punjab,1216537,2020-10-30,JC Buttler,22,12,1.0,2.0,0,0,0,31.0,183.3333333333333,0,0
+Rajasthan Royals,Kings XI Punjab,1216537,2020-10-30,RV Uthappa,30,24,1.0,2.0,0,0,0,39.0,125.0,M Ashwin,caught
+Rajasthan Royals,Kings XI Punjab,1216537,2020-10-30,SPD Smith,31,21,5.0,0.0,0,0,0,40.0,147.61904761904762,0,0
+Rajasthan Royals,Kings XI Punjab,1216537,2020-10-30,SV Samson,48,25,4.0,3.0,0,0,0,62.0,192.0,Ravi Bishnoi,run out

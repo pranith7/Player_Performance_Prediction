@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Capitals,Sunrisers Hyderabad,1304096,2022-05-05,DA Warner,92,63,12.0,3.0,1,0,0,122.0,146.03174603174602,0,0
+Delhi Capitals,Sunrisers Hyderabad,1304096,2022-05-05,MR Marsh,10,7,2.0,0.0,0,0,0,16.0,142.85714285714286,SA Abbott,caught and bowled
+Delhi Capitals,Sunrisers Hyderabad,1304096,2022-05-05,Mandeep Singh,0,5,0.0,0.0,0,0,1,2.0,0.0,B Kumar,caught
+Delhi Capitals,Sunrisers Hyderabad,1304096,2022-05-05,R Powell,67,36,3.0,6.0,1,0,0,94.0,186.11111111111111,0,0
+Delhi Capitals,Sunrisers Hyderabad,1304096,2022-05-05,RR Pant,26,16,1.0,3.0,0,0,0,37.0,162.5,S Gopal,bowled
+Sunrisers Hyderabad,Delhi Capitals,1304096,2022-05-05,AK Markram,42,26,4.0,3.0,0,0,0,56.0,161.53846153846155,KK Ahmed,caught
+Sunrisers Hyderabad,Delhi Capitals,1304096,2022-05-05,Abhishek Sharma,7,7,1.0,0.0,0,0,0,12.0,100.0,KK Ahmed,caught
+Sunrisers Hyderabad,Delhi Capitals,1304096,2022-05-05,B Kumar,5,3,1.0,0.0,0,0,0,10.0,166.66666666666669,0,0
+Sunrisers Hyderabad,Delhi Capitals,1304096,2022-05-05,KS Williamson,4,11,1.0,0.0,0,0,0,9.0,36.36363636363637,A Nortje,caught
+Sunrisers Hyderabad,Delhi Capitals,1304096,2022-05-05,Kartik Tyagi,7,5,1.0,0.0,0,0,0,12.0,140.0,Kuldeep Yadav,bowled
+Sunrisers Hyderabad,Delhi Capitals,1304096,2022-05-05,N Pooran,62,38,2.0,6.0,1,0,0,88.0,163.1578947368421,SN Thakur,caught
+Sunrisers Hyderabad,Delhi Capitals,1304096,2022-05-05,RA Tripathi,22,18,2.0,1.0,0,0,0,30.0,122.22222222222224,MR Marsh,caught
+Sunrisers Hyderabad,Delhi Capitals,1304096,2022-05-05,S Gopal,9,7,2.0,0.0,0,0,0,15.0,128.57142857142858,0,0
+Sunrisers Hyderabad,Delhi Capitals,1304096,2022-05-05,SA Abbott,7,5,0.0,1.0,0,0,0,13.0,140.0,KK Ahmed,caught
+Sunrisers Hyderabad,Delhi Capitals,1304096,2022-05-05,Shashank Singh,10,6,2.0,0.0,0,0,0,16.0,166.66666666666669,SN Thakur,caught

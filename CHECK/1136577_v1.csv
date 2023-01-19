@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Rajasthan Royals,1136577,2018-04-20,AT Rayudu,12,8,2.0,0.0,0,0,0,18.0,150.0,B Laughlin,caught
+Chennai Super Kings,Rajasthan Royals,1136577,2018-04-20,DJ Bravo,24,18,4.0,0.0,0,0,0,32.0,133.33333333333331,0,0
+Chennai Super Kings,Rajasthan Royals,1136577,2018-04-20,MS Dhoni,5,3,1.0,0.0,0,0,0,10.0,166.66666666666669,S Gopal,caught
+Chennai Super Kings,Rajasthan Royals,1136577,2018-04-20,RA Jadeja,2,1,0.0,0.0,0,0,0,6.0,200.0,0,0
+Chennai Super Kings,Rajasthan Royals,1136577,2018-04-20,SK Raina,46,31,9.0,0.0,0,0,0,59.0,148.38709677419354,S Gopal,caught
+Chennai Super Kings,Rajasthan Royals,1136577,2018-04-20,SR Watson,106,58,9.0,6.0,1,1,0,155.0,182.7586206896552,B Laughlin,caught
+Chennai Super Kings,Rajasthan Royals,1136577,2018-04-20,SW Billings,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,S Gopal,caught
+Rajasthan Royals,Chennai Super Kings,1136577,2018-04-20,AM Rahane,16,13,1.0,1.0,0,0,0,23.0,123.07692307692308,DL Chahar,bowled
+Rajasthan Royals,Chennai Super Kings,1136577,2018-04-20,B Laughlin,0,1,0.0,0.0,0,0,1,2.0,0.0,KV Sharma,caught
+Rajasthan Royals,Chennai Super Kings,1136577,2018-04-20,BA Stokes,45,38,3.0,1.0,0,0,0,54.0,118.42105263157892,Imran Tahir,caught
+Rajasthan Royals,Chennai Super Kings,1136577,2018-04-20,H Klaasen,7,7,1.0,0.0,0,0,0,12.0,100.0,SN Thakur,bowled
+Rajasthan Royals,Chennai Super Kings,1136577,2018-04-20,JC Buttler,22,20,1.0,1.0,0,0,0,29.0,110.0,DJ Bravo,caught
+Rajasthan Royals,Chennai Super Kings,1136577,2018-04-20,JD Unadkat,16,10,3.0,0.0,0,0,0,23.0,160.0,KV Sharma,bowled
+Rajasthan Royals,Chennai Super Kings,1136577,2018-04-20,K Gowtham,1,2,0.0,0.0,0,0,0,5.0,50.0,SR Watson,caught
+Rajasthan Royals,Chennai Super Kings,1136577,2018-04-20,RA Tripathi,5,7,0.0,0.0,0,0,0,9.0,71.42857142857143,DJ Bravo,caught
+Rajasthan Royals,Chennai Super Kings,1136577,2018-04-20,S Gopal,8,10,0.0,0.0,0,0,0,12.0,80.0,0,0
+Rajasthan Royals,Chennai Super Kings,1136577,2018-04-20,STR Binny,10,8,1.0,0.0,0,0,0,15.0,125.0,SN Thakur,caught and bowled
+Rajasthan Royals,Chennai Super Kings,1136577,2018-04-20,SV Samson,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,DL Chahar,caught

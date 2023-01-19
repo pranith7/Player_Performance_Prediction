@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Royal Challengers Bangalore,548331,2012-04-20,Azhar Mahmood,33,14,3.0,2.0,0,0,0,44.0,235.7142857142857,0,0
+Kings XI Punjab,Royal Challengers Bangalore,548331,2012-04-20,DA Miller,8,14,0.0,0.0,0,0,0,12.0,57.14285714285714,AB McDonald,caught
+Kings XI Punjab,Royal Challengers Bangalore,548331,2012-04-20,DJ Hussey,41,36,4.0,0.0,0,0,0,49.0,113.88888888888889,HV Patel,bowled
+Kings XI Punjab,Royal Challengers Bangalore,548331,2012-04-20,Mandeep Singh,20,15,0.0,0.0,0,0,0,24.0,133.33333333333331,R Vinay Kumar,caught
+Kings XI Punjab,Royal Challengers Bangalore,548331,2012-04-20,N Saini,14,12,1.0,0.0,0,0,0,19.0,116.66666666666669,Z Khan,bowled
+Kings XI Punjab,Royal Challengers Bangalore,548331,2012-04-20,PC Valthaty,6,12,1.0,0.0,0,0,0,11.0,50.0,Z Khan,caught
+Kings XI Punjab,Royal Challengers Bangalore,548331,2012-04-20,PP Chawla,7,3,1.0,0.0,0,0,0,12.0,233.3333333333333,0,0
+Kings XI Punjab,Royal Challengers Bangalore,548331,2012-04-20,SE Marsh,26,17,3.0,1.0,0,0,0,35.0,152.94117647058823,AB McDonald,bowled
+Royal Challengers Bangalore,Kings XI Punjab,548331,2012-04-20,AB McDonald,8,6,1.0,0.0,0,0,0,13.0,133.33333333333331,0,0
+Royal Challengers Bangalore,Kings XI Punjab,548331,2012-04-20,AB de Villiers,52,41,6.0,0.0,1,0,0,70.0,126.82926829268293,PP Chawla,lbw
+Royal Challengers Bangalore,Kings XI Punjab,548331,2012-04-20,CH Gayle,87,61,8.0,4.0,1,0,0,115.0,142.62295081967213,P Awana,caught
+Royal Challengers Bangalore,Kings XI Punjab,548331,2012-04-20,DL Vettori,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,0,0
+Royal Challengers Bangalore,Kings XI Punjab,548331,2012-04-20,MA Agarwal,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,P Awana,lbw
+Royal Challengers Bangalore,Kings XI Punjab,548331,2012-04-20,SS Tiwary,4,7,0.0,0.0,0,0,0,8.0,57.14285714285714,P Awana,caught
+Royal Challengers Bangalore,Kings XI Punjab,548331,2012-04-20,V Kohli,4,4,1.0,0.0,0,0,0,9.0,100.0,P Awana,caught

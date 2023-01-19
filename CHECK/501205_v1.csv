@@ -1,0 +1,10 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Royal Challengers Bangalore,501205,2011-04-12,AT Rayudu,63,50,9.0,0.0,1,0,0,84.0,126.0,0,0
+Mumbai Indians,Royal Challengers Bangalore,501205,2011-04-12,DJ Jacobs,22,17,2.0,2.0,0,0,0,32.0,129.41176470588235,DP Nannes,bowled
+Mumbai Indians,Royal Challengers Bangalore,501205,2011-04-12,SR Tendulkar,55,46,7.0,0.0,1,0,0,74.0,119.56521739130434,0,0
+Royal Challengers Bangalore,Mumbai Indians,501205,2011-04-12,AB de Villiers,38,37,3.0,1.0,0,0,0,47.0,102.7027027027027,KA Pollard,caught and bowled
+Royal Challengers Bangalore,Mumbai Indians,501205,2011-04-12,AUK Pathan,0,2,0.0,0.0,0,0,1,2.0,0.0,SL Malinga,bowled
+Royal Challengers Bangalore,Mumbai Indians,501205,2011-04-12,MA Agarwal,0,1,0.0,0.0,0,0,1,2.0,0.0,SL Malinga,bowled
+Royal Challengers Bangalore,Mumbai Indians,501205,2011-04-12,SS Tiwary,16,11,3.0,0.0,0,0,0,23.0,145.45454545454547,0,0
+Royal Challengers Bangalore,Mumbai Indians,501205,2011-04-12,TM Dilshan,59,54,4.0,2.0,1,0,0,79.0,109.25925925925924,0,0
+Royal Challengers Bangalore,Mumbai Indians,501205,2011-04-12,V Kohli,12,19,2.0,0.0,0,0,0,18.0,63.1578947368421,KA Pollard,caught

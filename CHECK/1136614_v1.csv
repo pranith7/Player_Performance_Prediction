@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Sunrisers Hyderabad,1136614,2018-05-19,AD Russell,4,4,1.0,0.0,0,0,0,9.0,100.0,S Kaul,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1136614,2018-05-19,CA Lynn,55,44,4.0,3.0,1,0,0,77.0,125.0,S Kaul,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1136614,2018-05-19,KD Karthik,26,24,1.0,1.0,0,0,0,33.0,108.33333333333331,0,0
+Kolkata Knight Riders,Sunrisers Hyderabad,1136614,2018-05-19,N Rana,7,5,1.0,0.0,0,0,0,12.0,140.0,CR Brathwaite,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1136614,2018-05-19,RV Uthappa,45,34,3.0,2.0,0,0,0,56.0,132.35294117647058,CR Brathwaite,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1136614,2018-05-19,SP Narine,29,12,4.0,2.0,0,0,0,41.0,241.66666666666663,Shakib Al Hasan,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,1136614,2018-05-19,B Kumar,0,1,0.0,0.0,0,0,1,2.0,0.0,M Prasidh Krishna,run out
+Sunrisers Hyderabad,Kolkata Knight Riders,1136614,2018-05-19,CR Brathwaite,3,4,0.0,0.0,0,0,0,7.0,75.0,AD Russell,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,1136614,2018-05-19,KS Williamson,36,17,1.0,3.0,0,0,0,47.0,211.76470588235296,JPR Scantlebury-Searles,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,1136614,2018-05-19,MK Pandey,25,23,2.0,1.0,0,0,0,33.0,108.69565217391305,M Prasidh Krishna,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,1136614,2018-05-19,Rashid Khan,0,1,0.0,0.0,0,0,1,2.0,0.0,M Prasidh Krishna,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,1136614,2018-05-19,S Dhawan,50,40,5.0,1.0,1,0,0,69.0,125.0,M Prasidh Krishna,lbw
+Sunrisers Hyderabad,Kolkata Knight Riders,1136614,2018-05-19,SP Goswami,35,28,4.0,1.0,0,0,0,45.0,125.0,Kuldeep Yadav,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,1136614,2018-05-19,Shakib Al Hasan,10,7,2.0,0.0,0,0,0,16.0,142.85714285714286,M Prasidh Krishna,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,1136614,2018-05-19,YK Pathan,2,5,0.0,0.0,0,0,0,6.0,40.0,SP Narine,caught

@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Rajasthan Royals,Sunrisers Hyderabad,1254085,2021-05-02,DA Miller,7,3,0.0,1.0,0,0,0,13.0,233.3333333333333,0,0
+Rajasthan Royals,Sunrisers Hyderabad,1254085,2021-05-02,JC Buttler,124,69,11.0,8.0,1,1,0,179.0,179.71014492753622,Sandeep Sharma,bowled
+Rajasthan Royals,Sunrisers Hyderabad,1254085,2021-05-02,R Parag,15,8,0.0,1.0,0,0,0,21.0,187.5,0,0
+Rajasthan Royals,Sunrisers Hyderabad,1254085,2021-05-02,SV Samson,48,35,4.0,2.0,0,0,0,60.0,137.14285714285714,V Shankar,caught
+Rajasthan Royals,Sunrisers Hyderabad,1254085,2021-05-02,YBK Jaiswal,12,13,2.0,0.0,0,0,0,18.0,92.3076923076923,Rashid Khan,lbw
+Sunrisers Hyderabad,Rajasthan Royals,1254085,2021-05-02,Abdul Samad,10,10,0.0,1.0,0,0,0,16.0,100.0,CH Morris,caught
+Sunrisers Hyderabad,Rajasthan Royals,1254085,2021-05-02,B Kumar,14,10,2.0,0.0,0,0,0,20.0,140.0,0,0
+Sunrisers Hyderabad,Rajasthan Royals,1254085,2021-05-02,JM Bairstow,30,21,4.0,1.0,0,0,0,40.0,142.85714285714286,R Tewatia,caught
+Sunrisers Hyderabad,Rajasthan Royals,1254085,2021-05-02,KM Jadhav,19,21,0.0,1.0,0,0,0,25.0,90.47619047619048,CH Morris,bowled
+Sunrisers Hyderabad,Rajasthan Royals,1254085,2021-05-02,KS Williamson,20,22,1.0,0.0,0,0,0,25.0,90.9090909090909,Kartik Tyagi,caught
+Sunrisers Hyderabad,Rajasthan Royals,1254085,2021-05-02,MK Pandey,31,21,3.0,2.0,0,0,0,42.0,147.61904761904762,Mustafizur Rahman,bowled
+Sunrisers Hyderabad,Rajasthan Royals,1254085,2021-05-02,Mohammad Nabi,17,5,1.0,2.0,0,0,0,26.0,340.0,Mustafizur Rahman,caught
+Sunrisers Hyderabad,Rajasthan Royals,1254085,2021-05-02,Rashid Khan,0,3,0.0,0.0,0,0,1,2.0,0.0,Mustafizur Rahman,caught
+Sunrisers Hyderabad,Rajasthan Royals,1254085,2021-05-02,Sandeep Sharma,8,6,1.0,0.0,0,0,0,13.0,133.33333333333331,0,0
+Sunrisers Hyderabad,Rajasthan Royals,1254085,2021-05-02,V Shankar,8,8,1.0,0.0,0,0,0,13.0,100.0,CH Morris,caught

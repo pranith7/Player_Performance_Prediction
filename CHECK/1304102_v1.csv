@@ -1,0 +1,21 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Mumbai Indians,1304102,2022-05-09,AD Russell,9,5,0.0,1.0,0,0,0,15.0,180.0,JJ Bumrah,caught
+Kolkata Knight Riders,Mumbai Indians,1304102,2022-05-09,AM Rahane,25,25,3.0,0.0,0,0,0,32.0,100.0,K Kartikeya,bowled
+Kolkata Knight Riders,Mumbai Indians,1304102,2022-05-09,N Rana,43,28,3.0,4.0,0,0,0,58.0,153.57142857142858,JJ Bumrah,caught
+Kolkata Knight Riders,Mumbai Indians,1304102,2022-05-09,PJ Cummins,0,2,0.0,0.0,0,0,1,2.0,0.0,JJ Bumrah,caught
+Kolkata Knight Riders,Mumbai Indians,1304102,2022-05-09,RK Singh,23,20,2.0,1.0,0,0,0,31.0,115.0,0,0
+Kolkata Knight Riders,Mumbai Indians,1304102,2022-05-09,SP Jackson,5,7,0.0,0.0,0,0,0,9.0,71.42857142857143,JJ Bumrah,caught
+Kolkata Knight Riders,Mumbai Indians,1304102,2022-05-09,SP Narine,0,1,0.0,0.0,0,0,1,2.0,0.0,JJ Bumrah,caught and bowled
+Kolkata Knight Riders,Mumbai Indians,1304102,2022-05-09,SS Iyer,6,8,1.0,0.0,0,0,0,11.0,75.0,M Ashwin,caught
+Kolkata Knight Riders,Mumbai Indians,1304102,2022-05-09,TG Southee,0,4,0.0,0.0,0,0,1,2.0,0.0,DR Sams,caught
+Kolkata Knight Riders,Mumbai Indians,1304102,2022-05-09,VR Iyer,43,26,3.0,4.0,0,0,0,58.0,165.3846153846154,K Kartikeya,caught
+Mumbai Indians,Kolkata Knight Riders,1304102,2022-05-09,DR Sams,1,2,0.0,0.0,0,0,0,5.0,50.0,PJ Cummins,caught
+Mumbai Indians,Kolkata Knight Riders,1304102,2022-05-09,Ishan Kishan,51,43,5.0,1.0,1,0,0,70.0,118.6046511627907,PJ Cummins,caught
+Mumbai Indians,Kolkata Knight Riders,1304102,2022-05-09,K Kartikeya,3,6,0.0,0.0,0,0,0,7.0,50.0,PJ Cummins,run out
+Mumbai Indians,Kolkata Knight Riders,1304102,2022-05-09,KA Pollard,15,16,0.0,1.0,0,0,0,21.0,93.75,AD Russell,run out
+Mumbai Indians,Kolkata Knight Riders,1304102,2022-05-09,M Ashwin,0,2,0.0,0.0,0,0,1,2.0,0.0,PJ Cummins,caught
+Mumbai Indians,Kolkata Knight Riders,1304102,2022-05-09,RG Sharma,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,TG Southee,caught
+Mumbai Indians,Kolkata Knight Riders,1304102,2022-05-09,RP Meredith,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Mumbai Indians,Kolkata Knight Riders,1304102,2022-05-09,Ramandeep Singh,12,17,0.0,0.0,0,0,0,16.0,70.58823529411765,AD Russell,caught
+Mumbai Indians,Kolkata Knight Riders,1304102,2022-05-09,TH David,13,9,3.0,0.0,0,0,0,20.0,144.44444444444443,CV Varun,caught
+Mumbai Indians,Kolkata Knight Riders,1304102,2022-05-09,Tilak Varma,6,5,1.0,0.0,0,0,0,11.0,120.0,AD Russell,caught

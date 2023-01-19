@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Rajasthan Royals,1304090,2022-04-30,DR Sams,6,1,0.0,1.0,0,0,0,12.0,600.0,0,0
+Mumbai Indians,Rajasthan Royals,1304090,2022-04-30,Ishan Kishan,26,19,4.0,1.0,0,0,0,36.0,136.8421052631579,TA Boult,caught
+Mumbai Indians,Rajasthan Royals,1304090,2022-04-30,KA Pollard,10,15,0.0,0.0,0,0,0,14.0,66.66666666666666,KR Sen,caught
+Mumbai Indians,Rajasthan Royals,1304090,2022-04-30,RG Sharma,2,5,0.0,0.0,0,0,0,6.0,40.0,R Ashwin,caught
+Mumbai Indians,Rajasthan Royals,1304090,2022-04-30,SA Yadav,51,39,5.0,2.0,1,0,0,72.0,130.76923076923077,YS Chahal,caught
+Mumbai Indians,Rajasthan Royals,1304090,2022-04-30,TH David,20,10,2.0,1.0,0,0,0,28.0,200.0,0,0
+Mumbai Indians,Rajasthan Royals,1304090,2022-04-30,Tilak Varma,35,31,1.0,2.0,0,0,0,44.0,112.90322580645164,M Prasidh Krishna,caught
+Rajasthan Royals,Mumbai Indians,1304090,2022-04-30,D Padikkal,15,15,3.0,0.0,0,0,0,22.0,100.0,HR Shokeen,caught
+Rajasthan Royals,Mumbai Indians,1304090,2022-04-30,DJ Mitchell,17,21,1.0,0.0,0,0,0,22.0,80.95238095238095,DR Sams,caught
+Rajasthan Royals,Mumbai Indians,1304090,2022-04-30,JC Buttler,67,54,5.0,4.0,1,0,0,92.0,124.07407407407408,HR Shokeen,caught
+Rajasthan Royals,Mumbai Indians,1304090,2022-04-30,R Ashwin,21,10,3.0,1.0,0,0,0,30.0,210.0,RP Meredith,caught
+Rajasthan Royals,Mumbai Indians,1304090,2022-04-30,R Parag,3,3,0.0,0.0,0,0,0,7.0,100.0,RP Meredith,caught
+Rajasthan Royals,Mumbai Indians,1304090,2022-04-30,SO Hetmyer,6,16,0.0,0.0,0,0,0,10.0,37.5,0,0
+Rajasthan Royals,Mumbai Indians,1304090,2022-04-30,SV Samson,16,7,0.0,2.0,0,0,0,24.0,228.57142857142856,K Kartikeya,caught
+Rajasthan Royals,Mumbai Indians,1304090,2022-04-30,TA Boult,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0

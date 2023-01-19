@@ -1,0 +1,22 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Punjab Kings,1304057,2022-04-03,AT Rayudu,13,22,2.0,0.0,0,0,0,19.0,59.09090909090909,OF Smith,caught
+Chennai Super Kings,Punjab Kings,1304057,2022-04-03,CJ Jordan,5,5,0.0,0.0,0,0,0,9.0,100.0,RD Chahar,caught
+Chennai Super Kings,Punjab Kings,1304057,2022-04-03,D Pretorius,8,4,0.0,1.0,0,0,0,14.0,200.0,RD Chahar,caught
+Chennai Super Kings,Punjab Kings,1304057,2022-04-03,DJ Bravo,0,1,0.0,0.0,0,0,1,2.0,0.0,LS Livingstone,caught and bowled
+Chennai Super Kings,Punjab Kings,1304057,2022-04-03,MM Ali,0,2,0.0,0.0,0,0,1,2.0,0.0,VG Arora,bowled
+Chennai Super Kings,Punjab Kings,1304057,2022-04-03,MS Dhoni,23,29,1.0,1.0,0,0,0,30.0,79.3103448275862,RD Chahar,caught
+Chennai Super Kings,Punjab Kings,1304057,2022-04-03,Mukesh Choudhary,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Chennai Super Kings,Punjab Kings,1304057,2022-04-03,RA Jadeja,0,3,0.0,0.0,0,0,1,2.0,0.0,Arshdeep Singh,bowled
+Chennai Super Kings,Punjab Kings,1304057,2022-04-03,RD Gaikwad,1,4,0.0,0.0,0,0,0,5.0,25.0,K Rabada,caught
+Chennai Super Kings,Punjab Kings,1304057,2022-04-03,RV Uthappa,13,10,2.0,0.0,0,0,0,19.0,130.0,VG Arora,caught
+Chennai Super Kings,Punjab Kings,1304057,2022-04-03,S Dube,57,30,6.0,3.0,1,0,0,81.0,190.0,LS Livingstone,caught
+Punjab Kings,Chennai Super Kings,1304057,2022-04-03,JM Sharma,26,18,0.0,3.0,0,0,0,36.0,144.44444444444443,D Pretorius,caught
+Punjab Kings,Chennai Super Kings,1304057,2022-04-03,K Rabada,12,14,1.0,0.0,0,0,0,17.0,85.71428571428571,0,0
+Punjab Kings,Chennai Super Kings,1304057,2022-04-03,LS Livingstone,60,35,5.0,5.0,1,0,0,87.0,171.42857142857142,RA Jadeja,caught
+Punjab Kings,Chennai Super Kings,1304057,2022-04-03,M Shahrukh Khan,6,12,0.0,0.0,0,0,0,10.0,50.0,CJ Jordan,caught
+Punjab Kings,Chennai Super Kings,1304057,2022-04-03,MA Agarwal,4,2,1.0,0.0,0,0,0,9.0,200.0,Mukesh Choudhary,caught
+Punjab Kings,Chennai Super Kings,1304057,2022-04-03,OF Smith,3,9,0.0,0.0,0,0,0,7.0,33.33333333333333,CJ Jordan,caught
+Punjab Kings,Chennai Super Kings,1304057,2022-04-03,PBB Rajapaksa,9,6,0.0,1.0,0,0,0,15.0,150.0,CJ Jordan,run out
+Punjab Kings,Chennai Super Kings,1304057,2022-04-03,RD Chahar,12,8,1.0,1.0,0,0,0,19.0,150.0,D Pretorius,caught
+Punjab Kings,Chennai Super Kings,1304057,2022-04-03,S Dhawan,33,27,4.0,1.0,0,0,0,43.0,122.22222222222224,DJ Bravo,caught
+Punjab Kings,Chennai Super Kings,1304057,2022-04-03,VG Arora,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0

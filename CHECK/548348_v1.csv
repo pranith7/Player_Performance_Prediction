@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Pune Warriors,548348,2012-05-01,BB Samantray,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Deccan Chargers,Pune Warriors,548348,2012-05-01,CL White,74,45,4.0,4.0,1,0,0,98.0,164.44444444444443,WD Parnell,caught
+Deccan Chargers,Pune Warriors,548348,2012-05-01,JP Duminy,4,3,0.0,0.0,0,0,0,8.0,133.33333333333331,0,0
+Deccan Chargers,Pune Warriors,548348,2012-05-01,KC Sangakkara,82,52,10.0,2.0,1,0,0,108.0,157.69230769230768,A Nehra,bowled
+Deccan Chargers,Pune Warriors,548348,2012-05-01,PA Patel,0,1,0.0,0.0,0,0,1,2.0,0.0,MN Samuels,bowled
+Deccan Chargers,Pune Warriors,548348,2012-05-01,S Dhawan,13,18,2.0,0.0,0,0,0,19.0,72.22222222222221,B Kumar,bowled
+Pune Warriors,Deccan Chargers,548348,2012-05-01,M Manhas,7,4,0.0,1.0,0,0,0,13.0,175.0,V Pratap Singh,caught
+Pune Warriors,Deccan Chargers,548348,2012-05-01,MJ Clarke,41,31,7.0,0.0,0,0,0,52.0,132.25806451612902,V Pratap Singh,run out
+Pune Warriors,Deccan Chargers,548348,2012-05-01,MK Pandey,0,1,0.0,0.0,0,0,1,2.0,0.0,Ankit Sharma,caught
+Pune Warriors,Deccan Chargers,548348,2012-05-01,MN Samuels,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Pune Warriors,Deccan Chargers,548348,2012-05-01,RV Uthappa,26,18,1.0,1.0,0,0,0,33.0,144.44444444444443,A Ashish Reddy,caught
+Pune Warriors,Deccan Chargers,548348,2012-05-01,SC Ganguly,45,43,5.0,1.0,0,0,0,56.0,104.65116279069768,S Dhawan,caught
+Pune Warriors,Deccan Chargers,548348,2012-05-01,SPD Smith,47,27,3.0,2.0,0,0,0,58.0,174.07407407407408,0,0

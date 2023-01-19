@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Pune Warriors,501262,2011-05-19,G Gambhir,54,48,7.0,0.0,1,0,0,73.0,112.5,0,0
+Kolkata Knight Riders,Pune Warriors,501262,2011-05-19,MK Tiwary,24,24,1.0,1.0,0,0,0,31.0,100.0,B Kumar,bowled
+Kolkata Knight Riders,Pune Warriors,501262,2011-05-19,R Bhatia,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,0,0
+Kolkata Knight Riders,Pune Warriors,501262,2011-05-19,SP Goswami,6,3,1.0,0.0,0,0,0,11.0,200.0,AC Thomas,caught
+Kolkata Knight Riders,Pune Warriors,501262,2011-05-19,YK Pathan,29,25,3.0,1.0,0,0,0,38.0,116.0,WD Parnell,caught
+Pune Warriors,Kolkata Knight Riders,501262,2011-05-19,CJ Ferguson,16,19,2.0,0.0,0,0,0,22.0,84.21052631578947,Shakib Al Hasan,stumped
+Pune Warriors,Kolkata Knight Riders,501262,2011-05-19,JD Ryder,1,6,0.0,0.0,0,0,0,5.0,16.666666666666664,YK Pathan,caught
+Pune Warriors,Kolkata Knight Riders,501262,2011-05-19,MK Pandey,16,12,3.0,0.0,0,0,0,23.0,133.33333333333331,Iqbal Abdulla,lbw
+Pune Warriors,Kolkata Knight Riders,501262,2011-05-19,RV Uthappa,12,20,1.0,0.0,0,0,0,17.0,60.0,YK Pathan,caught
+Pune Warriors,Kolkata Knight Riders,501262,2011-05-19,S Rana,18,16,2.0,0.0,0,0,0,24.0,112.5,L Balaji,bowled
+Pune Warriors,Kolkata Knight Riders,501262,2011-05-19,SC Ganguly,18,24,0.0,1.0,0,0,0,24.0,75.0,Shakib Al Hasan,caught
+Pune Warriors,Kolkata Knight Riders,501262,2011-05-19,WD Parnell,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Pune Warriors,Kolkata Knight Riders,501262,2011-05-19,Yuvraj Singh,24,26,2.0,0.0,0,0,0,30.0,92.3076923076923,L Balaji,caught

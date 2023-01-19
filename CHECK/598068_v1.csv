@@ -1,0 +1,11 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Royal Challengers Bangalore,598068,2013-05-18,DJ Bravo,11,10,0.0,1.0,0,0,0,17.0,110.0,R Vinay Kumar,caught
+Chennai Super Kings,Royal Challengers Bangalore,598068,2013-05-18,M Vijay,32,19,2.0,2.0,0,0,0,42.0,168.42105263157893,R Rampaul,caught
+Chennai Super Kings,Royal Challengers Bangalore,598068,2013-05-18,MEK Hussey,6,5,1.0,0.0,0,0,0,11.0,120.0,Z Khan,caught
+Chennai Super Kings,Royal Challengers Bangalore,598068,2013-05-18,MS Dhoni,24,11,2.0,2.0,0,0,0,34.0,218.18181818181816,Z Khan,caught
+Chennai Super Kings,Royal Challengers Bangalore,598068,2013-05-18,RA Jadeja,7,4,1.0,0.0,0,0,0,12.0,175.0,Z Khan,caught and bowled
+Chennai Super Kings,Royal Challengers Bangalore,598068,2013-05-18,SK Raina,0,1,0.0,0.0,0,0,1,2.0,0.0,Z Khan,caught
+Royal Challengers Bangalore,Chennai Super Kings,598068,2013-05-18,AB de Villiers,5,3,1.0,0.0,0,0,0,10.0,166.66666666666669,MM Sharma,caught
+Royal Challengers Bangalore,Chennai Super Kings,598068,2013-05-18,CH Gayle,28,14,0.0,4.0,0,0,0,40.0,200.0,DJ Bravo,caught
+Royal Challengers Bangalore,Chennai Super Kings,598068,2013-05-18,MC Henriques,12,4,3.0,0.0,0,0,0,19.0,300.0,0,0
+Royal Challengers Bangalore,Chennai Super Kings,598068,2013-05-18,V Kohli,56,29,6.0,4.0,1,0,0,82.0,193.1034482758621,0,0

@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Gujarat Titans,Sunrisers Hyderabad,1304067,2022-04-11,A Manohar,35,22,5.0,1.0,0,0,0,46.0,159.0909090909091,B Kumar,caught
+Gujarat Titans,Sunrisers Hyderabad,1304067,2022-04-11,B Sai Sudharsan,11,9,2.0,0.0,0,0,0,17.0,122.22222222222224,T Natarajan,caught
+Gujarat Titans,Sunrisers Hyderabad,1304067,2022-04-11,DA Miller,12,16,0.0,0.0,0,0,0,16.0,75.0,M Jansen,caught
+Gujarat Titans,Sunrisers Hyderabad,1304067,2022-04-11,HH Pandya,50,45,4.0,1.0,1,0,0,68.0,111.11111111111111,0,0
+Gujarat Titans,Sunrisers Hyderabad,1304067,2022-04-11,MS Wade,19,21,3.0,0.0,0,0,0,26.0,90.47619047619048,Umran Malik,lbw
+Gujarat Titans,Sunrisers Hyderabad,1304067,2022-04-11,R Tewatia,6,4,1.0,0.0,0,0,0,11.0,150.0,T Natarajan,run out
+Gujarat Titans,Sunrisers Hyderabad,1304067,2022-04-11,Rashid Khan,0,1,0.0,0.0,0,0,1,2.0,0.0,T Natarajan,bowled
+Gujarat Titans,Sunrisers Hyderabad,1304067,2022-04-11,Shubman Gill,7,10,1.0,0.0,0,0,0,12.0,70.0,B Kumar,caught
+Sunrisers Hyderabad,Gujarat Titans,1304067,2022-04-11,AK Markram,12,8,1.0,0.0,0,0,0,17.0,150.0,0,0
+Sunrisers Hyderabad,Gujarat Titans,1304067,2022-04-11,Abhishek Sharma,42,32,6.0,0.0,0,0,0,52.0,131.25,Rashid Khan,caught
+Sunrisers Hyderabad,Gujarat Titans,1304067,2022-04-11,KS Williamson,57,47,2.0,4.0,1,0,0,79.0,121.27659574468086,HH Pandya,caught
+Sunrisers Hyderabad,Gujarat Titans,1304067,2022-04-11,N Pooran,34,19,2.0,2.0,0,0,0,44.0,178.94736842105263,0,0
+Sunrisers Hyderabad,Gujarat Titans,1304067,2022-04-11,RA Tripathi,17,12,1.0,1.0,0,0,0,24.0,141.66666666666669,R Tewatia,retired hurt

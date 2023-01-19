@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Deccan Chargers,336007,2008-05-06,JA Morkel,29,19,1.0,2.0,0,0,0,38.0,152.63157894736844,0,0
+Chennai Super Kings,Deccan Chargers,336007,2008-05-06,Joginder Sharma,16,10,1.0,1.0,0,0,0,23.0,160.0,RP Singh,bowled
+Chennai Super Kings,Deccan Chargers,336007,2008-05-06,MS Dhoni,23,32,2.0,0.0,0,0,0,29.0,71.875,PP Ojha,caught
+Chennai Super Kings,Deccan Chargers,336007,2008-05-06,MS Gony,15,6,0.0,2.0,0,0,0,23.0,250.0,0,0
+Chennai Super Kings,Deccan Chargers,336007,2008-05-06,PA Patel,4,6,1.0,0.0,0,0,0,9.0,66.66666666666666,DP Vijaykumar,caught
+Chennai Super Kings,Deccan Chargers,336007,2008-05-06,S Anirudha,1,8,0.0,0.0,0,0,0,5.0,12.5,RP Singh,caught
+Chennai Super Kings,Deccan Chargers,336007,2008-05-06,S Badrinath,0,5,0.0,0.0,0,0,1,2.0,0.0,Shahid Afridi,caught
+Chennai Super Kings,Deccan Chargers,336007,2008-05-06,SK Raina,32,21,5.0,0.0,0,0,0,41.0,152.38095238095238,SB Bangar,caught
+Chennai Super Kings,Deccan Chargers,336007,2008-05-06,SP Fleming,14,17,2.0,0.0,0,0,0,20.0,82.35294117647058,SB Styris,caught
+Deccan Chargers,Chennai Super Kings,336007,2008-05-06,AC Gilchrist,54,37,7.0,2.0,1,0,0,77.0,145.94594594594594,JA Morkel,caught
+Deccan Chargers,Chennai Super Kings,336007,2008-05-06,HH Gibbs,10,10,1.0,1.0,0,0,0,17.0,100.0,MS Gony,caught and bowled
+Deccan Chargers,Chennai Super Kings,336007,2008-05-06,RG Sharma,23,17,2.0,1.0,0,0,0,31.0,135.29411764705884,M Muralitharan,caught
+Deccan Chargers,Chennai Super Kings,336007,2008-05-06,SB Styris,36,42,3.0,1.0,0,0,0,45.0,85.71428571428571,0,0
+Deccan Chargers,Chennai Super Kings,336007,2008-05-06,Shahid Afridi,20,6,2.0,2.0,0,0,0,30.0,333.33333333333337,0,0

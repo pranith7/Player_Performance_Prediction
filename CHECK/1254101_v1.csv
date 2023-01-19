@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Capitals,Royal Challengers Bangalore,1254101,2021-10-08,PP Shaw,48,33,4.0,2.0,0,0,0,60.0,145.45454545454547,YS Chahal,caught
+Delhi Capitals,Royal Challengers Bangalore,1254101,2021-10-08,RR Pant,10,8,1.0,0.0,0,0,0,15.0,125.0,DT Christian,caught
+Delhi Capitals,Royal Challengers Bangalore,1254101,2021-10-08,RV Patel,7,9,1.0,0.0,0,0,0,12.0,77.77777777777779,0,0
+Delhi Capitals,Royal Challengers Bangalore,1254101,2021-10-08,S Dhawan,43,35,3.0,2.0,0,0,0,54.0,122.85714285714286,HV Patel,caught
+Delhi Capitals,Royal Challengers Bangalore,1254101,2021-10-08,SO Hetmyer,29,22,2.0,2.0,0,0,0,39.0,131.8181818181818,Mohammed Siraj,caught
+Delhi Capitals,Royal Challengers Bangalore,1254101,2021-10-08,SS Iyer,18,19,1.0,0.0,0,0,0,23.0,94.73684210526316,Mohammed Siraj,caught
+Royal Challengers Bangalore,Delhi Capitals,1254101,2021-10-08,AB de Villiers,26,26,2.0,1.0,0,0,0,34.0,100.0,AR Patel,caught
+Royal Challengers Bangalore,Delhi Capitals,1254101,2021-10-08,D Padikkal,0,1,0.0,0.0,0,0,1,2.0,0.0,A Nortje,caught
+Royal Challengers Bangalore,Delhi Capitals,1254101,2021-10-08,GJ Maxwell,51,34,8.0,0.0,1,0,0,71.0,150.0,0,0
+Royal Challengers Bangalore,Delhi Capitals,1254101,2021-10-08,KS Bharat,78,56,3.0,4.0,1,0,0,101.0,139.28571428571428,0,0
+Royal Challengers Bangalore,Delhi Capitals,1254101,2021-10-08,V Kohli,4,8,0.0,0.0,0,0,0,8.0,50.0,A Nortje,caught

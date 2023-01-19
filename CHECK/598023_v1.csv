@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Rajasthan Royals,Royal Challengers Bangalore,598023,2013-04-20,A Chandila,4,6,0.0,0.0,0,0,0,8.0,66.66666666666666,0,0
+Rajasthan Royals,Royal Challengers Bangalore,598023,2013-04-20,AM Rahane,14,13,2.0,1.0,0,0,0,22.0,107.6923076923077,JD Unadkat,caught
+Rajasthan Royals,Royal Challengers Bangalore,598023,2013-04-20,BJ Hodge,13,17,1.0,0.0,0,0,0,18.0,76.47058823529412,R Vinay Kumar,caught
+Rajasthan Royals,Royal Challengers Bangalore,598023,2013-04-20,DH Yagnik,5,4,1.0,0.0,0,0,0,10.0,125.0,RP Singh,caught
+Rajasthan Royals,Royal Challengers Bangalore,598023,2013-04-20,JP Faulkner,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,RP Singh,caught
+Rajasthan Royals,Royal Challengers Bangalore,598023,2013-04-20,R Dravid,35,31,5.0,0.0,0,0,0,44.0,112.90322580645164,M Kartik,caught
+Rajasthan Royals,Royal Challengers Bangalore,598023,2013-04-20,S Sreesanth,0,2,0.0,0.0,0,0,1,2.0,0.0,R Vinay Kumar,lbw
+Rajasthan Royals,Royal Challengers Bangalore,598023,2013-04-20,SK Trivedi,3,6,0.0,0.0,0,0,0,7.0,50.0,R Rampaul,caught
+Rajasthan Royals,Royal Challengers Bangalore,598023,2013-04-20,SR Watson,6,9,1.0,0.0,0,0,0,11.0,66.66666666666666,R Rampaul,caught
+Rajasthan Royals,Royal Challengers Bangalore,598023,2013-04-20,STR Binny,33,20,4.0,1.0,0,0,0,43.0,165.0,R Vinay Kumar,caught
+Rajasthan Royals,Royal Challengers Bangalore,598023,2013-04-20,SW Tait,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,RP Singh,bowled
+Royal Challengers Bangalore,Rajasthan Royals,598023,2013-04-20,AB de Villiers,7,8,1.0,0.0,0,0,0,12.0,87.5,SR Watson,caught
+Royal Challengers Bangalore,Rajasthan Royals,598023,2013-04-20,CH Gayle,49,49,4.0,1.0,0,0,0,59.0,100.0,0,0
+Royal Challengers Bangalore,Rajasthan Royals,598023,2013-04-20,SS Tiwary,25,30,2.0,1.0,0,0,0,33.0,83.33333333333334,0,0
+Royal Challengers Bangalore,Rajasthan Royals,598023,2013-04-20,TM Dilshan,25,22,5.0,0.0,0,0,0,34.0,113.63636363636364,SR Watson,caught
+Royal Challengers Bangalore,Rajasthan Royals,598023,2013-04-20,V Kohli,1,5,0.0,0.0,0,0,0,5.0,20.0,JP Faulkner,bowled

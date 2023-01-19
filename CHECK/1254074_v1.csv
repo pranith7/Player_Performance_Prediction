@@ -1,0 +1,11 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Punjab Kings,1254074,2021-04-23,HH Pandya,1,5,0.0,0.0,0,0,0,5.0,20.0,Arshdeep Singh,caught
+Mumbai Indians,Punjab Kings,1254074,2021-04-23,Ishan Kishan,6,17,0.0,0.0,0,0,0,10.0,35.294117647058826,Ravi Bishnoi,caught
+Mumbai Indians,Punjab Kings,1254074,2021-04-23,KA Pollard,16,12,0.0,1.0,0,0,0,22.0,133.33333333333331,0,0
+Mumbai Indians,Punjab Kings,1254074,2021-04-23,KH Pandya,3,3,0.0,0.0,0,0,0,7.0,100.0,Mohammed Shami,caught
+Mumbai Indians,Punjab Kings,1254074,2021-04-23,Q de Kock,3,5,0.0,0.0,0,0,0,7.0,60.0,DJ Hooda,caught
+Mumbai Indians,Punjab Kings,1254074,2021-04-23,RG Sharma,63,52,5.0,2.0,1,0,0,84.0,121.15384615384616,Mohammed Shami,caught
+Mumbai Indians,Punjab Kings,1254074,2021-04-23,SA Yadav,33,28,3.0,1.0,0,0,0,42.0,117.85714285714286,Ravi Bishnoi,caught
+Punjab Kings,Mumbai Indians,1254074,2021-04-23,CH Gayle,43,38,5.0,2.0,0,0,0,56.0,113.1578947368421,0,0
+Punjab Kings,Mumbai Indians,1254074,2021-04-23,KL Rahul,60,52,3.0,3.0,1,0,0,81.0,115.38461538461536,0,0
+Punjab Kings,Mumbai Indians,1254074,2021-04-23,MA Agarwal,25,20,4.0,1.0,0,0,0,35.0,125.0,RD Chahar,caught

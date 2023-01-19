@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Sunrisers Hyderabad,1304107,2022-05-14,AD Russell,49,31,3.0,4.0,0,0,0,64.0,158.06451612903226,0,0
+Kolkata Knight Riders,Sunrisers Hyderabad,1304107,2022-05-14,AM Rahane,28,25,0.0,3.0,0,0,0,38.0,112.0,Umran Malik,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1304107,2022-05-14,N Rana,26,16,1.0,3.0,0,0,0,37.0,162.5,Umran Malik,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1304107,2022-05-14,RK Singh,5,7,0.0,0.0,0,0,0,9.0,71.42857142857143,T Natarajan,lbw
+Kolkata Knight Riders,Sunrisers Hyderabad,1304107,2022-05-14,SP Narine,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Kolkata Knight Riders,Sunrisers Hyderabad,1304107,2022-05-14,SS Iyer,15,9,2.0,0.0,0,0,0,21.0,166.66666666666669,Umran Malik,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1304107,2022-05-14,SW Billings,34,31,3.0,1.0,0,0,0,43.0,109.6774193548387,B Kumar,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1304107,2022-05-14,VR Iyer,7,7,1.0,0.0,0,0,0,12.0,100.0,M Jansen,bowled
+Sunrisers Hyderabad,Kolkata Knight Riders,1304107,2022-05-14,AK Markram,32,25,0.0,3.0,0,0,0,42.0,128.0,UT Yadav,bowled
+Sunrisers Hyderabad,Kolkata Knight Riders,1304107,2022-05-14,Abhishek Sharma,43,28,4.0,2.0,0,0,0,55.0,153.57142857142858,CV Varun,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,1304107,2022-05-14,B Kumar,6,8,1.0,0.0,0,0,0,11.0,75.0,0,0
+Sunrisers Hyderabad,Kolkata Knight Riders,1304107,2022-05-14,KS Williamson,9,17,1.0,0.0,0,0,0,14.0,52.94117647058824,AD Russell,bowled
+Sunrisers Hyderabad,Kolkata Knight Riders,1304107,2022-05-14,M Jansen,1,2,0.0,0.0,0,0,0,5.0,50.0,AD Russell,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,1304107,2022-05-14,N Pooran,2,4,0.0,0.0,0,0,0,6.0,50.0,SP Narine,caught and bowled
+Sunrisers Hyderabad,Kolkata Knight Riders,1304107,2022-05-14,RA Tripathi,9,13,1.0,0.0,0,0,0,14.0,69.23076923076923,TG Southee,caught and bowled
+Sunrisers Hyderabad,Kolkata Knight Riders,1304107,2022-05-14,Shashank Singh,11,12,1.0,0.0,0,0,0,16.0,91.66666666666666,TG Southee,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,1304107,2022-05-14,Umran Malik,3,5,0.0,0.0,0,0,0,7.0,60.0,0,0
+Sunrisers Hyderabad,Kolkata Knight Riders,1304107,2022-05-14,Washington Sundar,4,9,0.0,0.0,0,0,0,8.0,44.44444444444444,AD Russell,caught

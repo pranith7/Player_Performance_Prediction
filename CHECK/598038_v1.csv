@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Pune Warriors,598038,2013-04-30,MEK Hussey,5,8,1.0,0.0,0,0,0,10.0,62.5,KW Richardson,bowled
+Chennai Super Kings,Pune Warriors,598038,2013-04-30,MS Dhoni,45,16,4.0,3.0,0,0,0,59.0,281.25,0,0
+Chennai Super Kings,Pune Warriors,598038,2013-04-30,S Badrinath,34,32,2.0,0.0,0,0,0,40.0,106.25,LJ Wright,caught
+Chennai Super Kings,Pune Warriors,598038,2013-04-30,SK Raina,63,50,5.0,1.0,1,0,0,82.0,126.0,0,0
+Chennai Super Kings,Pune Warriors,598038,2013-04-30,WP Saha,13,15,1.0,1.0,0,0,0,20.0,86.66666666666667,R Sharma,lbw
+Pune Warriors,Chennai Super Kings,598038,2013-04-30,AB Dinda,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Pune Warriors,Chennai Super Kings,598038,2013-04-30,AJ Finch,15,9,2.0,1.0,0,0,0,23.0,166.66666666666669,MM Sharma,caught
+Pune Warriors,Chennai Super Kings,598038,2013-04-30,AM Nayar,2,4,0.0,0.0,0,0,0,6.0,50.0,R Ashwin,run out
+Pune Warriors,Chennai Super Kings,598038,2013-04-30,B Kumar,24,25,1.0,1.0,0,0,0,31.0,96.0,0,0
+Pune Warriors,Chennai Super Kings,598038,2013-04-30,KW Richardson,26,20,2.0,1.0,0,0,0,34.0,130.0,CH Morris,caught
+Pune Warriors,Chennai Super Kings,598038,2013-04-30,LJ Wright,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,JA Morkel,run out
+Pune Warriors,Chennai Super Kings,598038,2013-04-30,R Sharma,0,1,0.0,0.0,0,0,1,2.0,0.0,DJ Bravo,caught
+Pune Warriors,Chennai Super Kings,598038,2013-04-30,RV Uthappa,10,11,0.0,1.0,0,0,0,16.0,90.9090909090909,CH Morris,run out
+Pune Warriors,Chennai Super Kings,598038,2013-04-30,SPD Smith,35,40,3.0,0.0,0,0,0,42.0,87.5,RA Jadeja,caught and bowled
+Pune Warriors,Chennai Super Kings,598038,2013-04-30,TL Suman,0,1,0.0,0.0,0,0,1,2.0,0.0,MM Sharma,lbw
+Pune Warriors,Chennai Super Kings,598038,2013-04-30,Yuvraj Singh,5,5,1.0,0.0,0,0,0,10.0,100.0,MM Sharma,caught

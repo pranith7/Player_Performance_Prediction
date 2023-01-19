@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Kings XI Punjab,336013,2008-05-10,JA Morkel,7,6,0.0,0.0,0,0,0,11.0,116.66666666666669,0,0
+Chennai Super Kings,Kings XI Punjab,336013,2008-05-10,MS Dhoni,60,44,2.0,4.0,1,0,0,82.0,136.36363636363637,0,0
+Chennai Super Kings,Kings XI Punjab,336013,2008-05-10,S Badrinath,64,52,6.0,3.0,1,0,0,88.0,123.07692307692308,VRV Singh,caught
+Chennai Super Kings,Kings XI Punjab,336013,2008-05-10,S Vidyut,8,6,2.0,0.0,0,0,0,14.0,133.33333333333331,S Sreesanth,caught
+Chennai Super Kings,Kings XI Punjab,336013,2008-05-10,SK Raina,26,19,4.0,0.0,0,0,0,34.0,136.8421052631579,PP Chawla,caught
+Chennai Super Kings,Kings XI Punjab,336013,2008-05-10,SP Fleming,1,4,0.0,0.0,0,0,0,5.0,25.0,S Sreesanth,caught
+Kings XI Punjab,Chennai Super Kings,336013,2008-05-10,DPMD Jayawardene,8,6,0.0,1.0,0,0,0,14.0,133.33333333333331,M Muralitharan,caught
+Kings XI Punjab,Chennai Super Kings,336013,2008-05-10,IK Pathan,40,18,3.0,3.0,0,0,0,53.0,222.22222222222223,L Balaji,caught
+Kings XI Punjab,Chennai Super Kings,336013,2008-05-10,JR Hopes,14,7,1.0,1.0,0,0,0,21.0,200.0,JA Morkel,caught
+Kings XI Punjab,Chennai Super Kings,336013,2008-05-10,K Goel,1,7,0.0,0.0,0,0,0,5.0,14.285714285714285,MS Gony,caught
+Kings XI Punjab,Chennai Super Kings,336013,2008-05-10,PP Chawla,17,16,1.0,1.0,0,0,0,24.0,106.25,L Balaji,caught
+Kings XI Punjab,Chennai Super Kings,336013,2008-05-10,RR Sarwan,20,22,0.0,0.0,0,0,0,24.0,90.9090909090909,L Balaji,bowled
+Kings XI Punjab,Chennai Super Kings,336013,2008-05-10,SE Marsh,58,39,3.0,4.0,1,0,0,81.0,148.71794871794873,L Balaji,caught
+Kings XI Punjab,Chennai Super Kings,336013,2008-05-10,U Kaul,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Kings XI Punjab,Chennai Super Kings,336013,2008-05-10,VRV Singh,0,1,0.0,0.0,0,0,1,2.0,0.0,L Balaji,caught
+Kings XI Punjab,Chennai Super Kings,336013,2008-05-10,Yuvraj Singh,2,5,0.0,0.0,0,0,0,6.0,40.0,P Amarnath,caught

@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Gujarat Lions,Royal Challengers Bangalore,1082610,2017-04-18,AJ Finch,19,16,2.0,1.0,0,0,0,27.0,118.75,P Negi,stumped
+Gujarat Lions,Royal Challengers Bangalore,1082610,2017-04-18,AJ Tye,6,6,0.0,0.0,0,0,0,10.0,100.0,0,0
+Gujarat Lions,Royal Challengers Bangalore,1082610,2017-04-18,BB McCullum,72,48,2.0,7.0,1,0,0,100.0,150.0,YS Chahal,caught
+Gujarat Lions,Royal Challengers Bangalore,1082610,2017-04-18,Basil Thampi,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Gujarat Lions,Royal Challengers Bangalore,1082610,2017-04-18,DR Smith,1,4,0.0,0.0,0,0,0,5.0,25.0,YS Chahal,caught
+Gujarat Lions,Royal Challengers Bangalore,1082610,2017-04-18,Ishan Kishan,39,17,2.0,4.0,0,0,0,53.0,229.41176470588235,AF Milne,caught
+Gujarat Lions,Royal Challengers Bangalore,1082610,2017-04-18,KD Karthik,1,4,0.0,0.0,0,0,0,5.0,25.0,S Aravind,caught
+Gujarat Lions,Royal Challengers Bangalore,1082610,2017-04-18,RA Jadeja,23,22,2.0,0.0,0,0,0,29.0,104.54545454545456,TM Head,run out
+Gujarat Lions,Royal Challengers Bangalore,1082610,2017-04-18,SK Raina,23,8,2.0,2.0,0,0,0,33.0,287.5,YS Chahal,caught
+Royal Challengers Bangalore,Gujarat Lions,1082610,2017-04-18,CH Gayle,77,40,5.0,7.0,1,0,0,108.0,192.5,Basil Thampi,lbw
+Royal Challengers Bangalore,Gujarat Lions,1082610,2017-04-18,KM Jadhav,38,16,5.0,2.0,0,0,0,51.0,237.5,0,0
+Royal Challengers Bangalore,Gujarat Lions,1082610,2017-04-18,TM Head,30,16,2.0,1.0,0,0,0,38.0,187.5,0,0
+Royal Challengers Bangalore,Gujarat Lions,1082610,2017-04-18,V Kohli,64,51,7.0,1.0,1,0,0,85.0,125.49019607843135,DS Kulkarni,caught

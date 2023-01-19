@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Gujarat Titans,1304075,2022-04-17,AT Rayudu,46,31,4.0,2.0,0,0,0,58.0,148.38709677419354,AS Joseph,caught
+Chennai Super Kings,Gujarat Titans,1304075,2022-04-17,MM Ali,1,4,0.0,0.0,0,0,0,5.0,25.0,AS Joseph,bowled
+Chennai Super Kings,Gujarat Titans,1304075,2022-04-17,RA Jadeja,22,12,0.0,2.0,0,0,0,30.0,183.3333333333333,0,0
+Chennai Super Kings,Gujarat Titans,1304075,2022-04-17,RD Gaikwad,73,49,5.0,5.0,1,0,0,100.0,148.9795918367347,Yash Dayal,caught
+Chennai Super Kings,Gujarat Titans,1304075,2022-04-17,RV Uthappa,3,12,0.0,0.0,0,0,0,7.0,25.0,Mohammed Shami,lbw
+Chennai Super Kings,Gujarat Titans,1304075,2022-04-17,S Dube,19,17,2.0,0.0,0,0,0,25.0,111.76470588235294,LH Ferguson,run out
+Gujarat Titans,Chennai Super Kings,1304075,2022-04-17,A Manohar,12,12,2.0,0.0,0,0,0,18.0,100.0,M Theekshana,caught
+Gujarat Titans,Chennai Super Kings,1304075,2022-04-17,AS Joseph,0,1,0.0,0.0,0,0,1,2.0,0.0,DJ Bravo,caught
+Gujarat Titans,Chennai Super Kings,1304075,2022-04-17,DA Miller,94,52,8.0,6.0,1,0,0,126.0,180.7692307692308,0,0
+Gujarat Titans,Chennai Super Kings,1304075,2022-04-17,R Tewatia,6,14,0.0,0.0,0,0,0,10.0,42.85714285714285,DJ Bravo,caught
+Gujarat Titans,Chennai Super Kings,1304075,2022-04-17,Rashid Khan,40,21,2.0,3.0,0,0,0,52.0,190.47619047619045,DJ Bravo,caught
+Gujarat Titans,Chennai Super Kings,1304075,2022-04-17,Shubman Gill,0,1,0.0,0.0,0,0,1,2.0,0.0,Mukesh Choudhary,caught
+Gujarat Titans,Chennai Super Kings,1304075,2022-04-17,V Shankar,0,2,0.0,0.0,0,0,1,2.0,0.0,M Theekshana,caught
+Gujarat Titans,Chennai Super Kings,1304075,2022-04-17,WP Saha,11,18,0.0,0.0,0,0,0,15.0,61.11111111111112,RA Jadeja,caught

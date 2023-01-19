@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Royal Challengers Bangalore,Sunrisers Hyderabad,829719,2015-04-13,AB de Villiers,46,29,5.0,2.0,0,0,0,59.0,158.6206896551724,TA Boult,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,829719,2015-04-13,AN Ahmed,4,2,1.0,0.0,0,0,0,9.0,200.0,B Kumar,bowled
+Royal Challengers Bangalore,Sunrisers Hyderabad,829719,2015-04-13,CH Gayle,21,16,3.0,1.0,0,0,0,30.0,131.25,P Kumar,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,829719,2015-04-13,DJG Sammy,6,9,0.0,0.0,0,0,0,10.0,66.66666666666666,A Ashish Reddy,bowled
+Royal Challengers Bangalore,Sunrisers Hyderabad,829719,2015-04-13,HV Patel,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,TA Boult,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,829719,2015-04-13,KD Karthik,9,11,1.0,0.0,0,0,0,14.0,81.81818181818183,KV Sharma,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,829719,2015-04-13,Mandeep Singh,0,1,0.0,0.0,0,0,1,2.0,0.0,RS Bopara,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,829719,2015-04-13,SA Abbott,14,9,1.0,1.0,0,0,0,21.0,155.55555555555557,TA Boult,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,829719,2015-04-13,V Kohli,41,42,4.0,2.0,0,0,0,53.0,97.61904761904762,RS Bopara,bowled
+Royal Challengers Bangalore,Sunrisers Hyderabad,829719,2015-04-13,VR Aaron,6,3,0.0,1.0,0,0,0,12.0,200.0,B Kumar,bowled
+Royal Challengers Bangalore,Sunrisers Hyderabad,829719,2015-04-13,YS Chahal,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Sunrisers Hyderabad,Royal Challengers Bangalore,829719,2015-04-13,DA Warner,57,28,6.0,4.0,1,0,0,83.0,203.57142857142856,YS Chahal,lbw
+Sunrisers Hyderabad,Royal Challengers Bangalore,829719,2015-04-13,KL Rahul,44,32,4.0,1.0,0,0,0,54.0,137.5,0,0
+Sunrisers Hyderabad,Royal Challengers Bangalore,829719,2015-04-13,KS Williamson,5,9,0.0,0.0,0,0,0,9.0,55.55555555555556,YS Chahal,stumped
+Sunrisers Hyderabad,Royal Challengers Bangalore,829719,2015-04-13,S Dhawan,50,42,4.0,2.0,1,0,0,70.0,119.04761904761904,0,0

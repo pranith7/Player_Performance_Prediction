@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Pune Warriors,548313,2012-04-08,AC Gilchrist,6,11,1.0,0.0,0,0,0,11.0,54.54545454545454,MN Samuels,run out
+Kings XI Punjab,Pune Warriors,548313,2012-04-08,AD Mascarenhas,5,5,0.0,0.0,0,0,0,9.0,100.0,MN Samuels,caught
+Kings XI Punjab,Pune Warriors,548313,2012-04-08,AM Nayar,24,28,2.0,0.0,0,0,0,30.0,85.71428571428571,A Nehra,caught
+Kings XI Punjab,Pune Warriors,548313,2012-04-08,Bipul Sharma,35,18,3.0,2.0,0,0,0,46.0,194.44444444444443,0,0
+Kings XI Punjab,Pune Warriors,548313,2012-04-08,DJ Hussey,18,18,0.0,1.0,0,0,0,24.0,100.0,R Sharma,bowled
+Kings XI Punjab,Pune Warriors,548313,2012-04-08,JP Faulkner,3,5,0.0,0.0,0,0,0,7.0,60.0,AB Dinda,caught
+Kings XI Punjab,Pune Warriors,548313,2012-04-08,Mandeep Singh,24,24,3.0,0.0,0,0,0,31.0,100.0,JD Ryder,caught
+Kings XI Punjab,Pune Warriors,548313,2012-04-08,P Kumar,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Kings XI Punjab,Pune Warriors,548313,2012-04-08,PC Valthaty,1,5,0.0,0.0,0,0,0,5.0,20.0,AB Dinda,run out
+Kings XI Punjab,Pune Warriors,548313,2012-04-08,PP Chawla,16,8,2.0,1.0,0,0,0,24.0,200.0,R Sharma,caught
+Pune Warriors,Kings XI Punjab,548313,2012-04-08,CJ Ferguson,3,6,0.0,0.0,0,0,0,7.0,50.0,Harmeet Singh,caught and bowled
+Pune Warriors,Kings XI Punjab,548313,2012-04-08,JD Ryder,8,9,0.0,0.0,0,0,0,12.0,88.88888888888889,P Kumar,run out
+Pune Warriors,Kings XI Punjab,548313,2012-04-08,MK Pandey,12,4,1.0,1.0,0,0,0,19.0,300.0,0,0
+Pune Warriors,Kings XI Punjab,548313,2012-04-08,MN Samuels,46,39,4.0,2.0,0,0,0,58.0,117.94871794871796,Harmeet Singh,bowled
+Pune Warriors,Kings XI Punjab,548313,2012-04-08,R Sharma,0,2,0.0,0.0,0,0,1,2.0,0.0,0,0
+Pune Warriors,Kings XI Punjab,548313,2012-04-08,RV Uthappa,40,34,2.0,2.0,0,0,0,50.0,117.64705882352942,Harmeet Singh,bowled
+Pune Warriors,Kings XI Punjab,548313,2012-04-08,SC Ganguly,20,18,3.0,0.0,0,0,0,27.0,111.11111111111111,AD Mascarenhas,caught
+Pune Warriors,Kings XI Punjab,548313,2012-04-08,SPD Smith,25,12,0.0,3.0,0,0,0,35.0,208.3333333333333,JP Faulkner,bowled

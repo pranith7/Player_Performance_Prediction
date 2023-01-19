@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Rising Pune Supergiants,980989,2016-05-14,G Gambhir,0,1,0.0,0.0,0,0,1,2.0,0.0,R Ashwin,lbw
+Kolkata Knight Riders,Rising Pune Supergiants,980989,2016-05-14,MK Pandey,15,11,1.0,0.0,0,0,0,20.0,136.36363636363637,0,0
+Kolkata Knight Riders,Rising Pune Supergiants,980989,2016-05-14,RV Uthappa,4,2,1.0,0.0,0,0,0,9.0,200.0,R Ashwin,stumped
+Kolkata Knight Riders,Rising Pune Supergiants,980989,2016-05-14,YK Pathan,37,20,4.0,3.0,0,0,0,51.0,185.0,0,0
+Rising Pune Supergiants,Kolkata Knight Riders,980989,2016-05-14,AM Rahane,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,AD Russell,bowled
+Rising Pune Supergiants,Kolkata Knight Riders,980989,2016-05-14,GJ Bailey,33,27,3.0,1.0,0,0,0,42.0,122.22222222222224,PP Chawla,stumped
+Rising Pune Supergiants,Kolkata Knight Riders,980989,2016-05-14,IK Pathan,7,9,0.0,0.0,0,0,0,11.0,77.77777777777779,SP Narine,run out
+Rising Pune Supergiants,Kolkata Knight Riders,980989,2016-05-14,MS Dhoni,8,22,0.0,0.0,0,0,0,12.0,36.36363636363637,0,0
+Rising Pune Supergiants,Kolkata Knight Riders,980989,2016-05-14,NLTC Perera,13,11,0.0,1.0,0,0,0,19.0,118.1818181818182,PP Chawla,caught
+Rising Pune Supergiants,Kolkata Knight Riders,980989,2016-05-14,R Ashwin,0,4,0.0,0.0,0,0,1,2.0,0.0,0,0
+Rising Pune Supergiants,Kolkata Knight Riders,980989,2016-05-14,SS Tiwary,13,12,1.0,0.0,0,0,0,18.0,108.33333333333331,AS Rajpoot,caught
+Rising Pune Supergiants,Kolkata Knight Riders,980989,2016-05-14,UT Khawaja,21,17,3.0,0.0,0,0,0,28.0,123.52941176470588,Shakib Al Hasan,caught

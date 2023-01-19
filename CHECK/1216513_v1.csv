@@ -1,0 +1,9 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Kings XI Punjab,1216513,2020-10-04,F du Plessis,87,55,11.0,1.0,1,0,0,112.0,158.1818181818182,0,0
+Chennai Super Kings,Kings XI Punjab,1216513,2020-10-04,SR Watson,83,58,11.0,3.0,1,0,0,112.0,143.10344827586206,0,0
+Kings XI Punjab,Chennai Super Kings,1216513,2020-10-04,GJ Maxwell,11,7,1.0,0.0,0,0,0,16.0,157.14285714285714,0,0
+Kings XI Punjab,Chennai Super Kings,1216513,2020-10-04,KL Rahul,63,52,7.0,1.0,1,0,0,84.0,121.15384615384616,SN Thakur,caught
+Kings XI Punjab,Chennai Super Kings,1216513,2020-10-04,MA Agarwal,26,21,3.0,0.0,0,0,0,33.0,123.8095238095238,PP Chawla,caught
+Kings XI Punjab,Chennai Super Kings,1216513,2020-10-04,Mandeep Singh,27,16,0.0,2.0,0,0,0,35.0,168.75,RA Jadeja,caught
+Kings XI Punjab,Chennai Super Kings,1216513,2020-10-04,N Pooran,33,17,1.0,3.0,0,0,0,44.0,194.1176470588236,SN Thakur,caught
+Kings XI Punjab,Chennai Super Kings,1216513,2020-10-04,SN Khan,14,10,2.0,0.0,0,0,0,20.0,140.0,0,0

@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Rajasthan Royals,1136609,2018-05-15,AD Russell,11,5,2.0,0.0,0,0,0,17.0,220.00000000000003,0,0
+Kolkata Knight Riders,Rajasthan Royals,1136609,2018-05-15,CA Lynn,45,42,5.0,1.0,0,0,0,56.0,107.14285714285714,BA Stokes,caught
+Kolkata Knight Riders,Rajasthan Royals,1136609,2018-05-15,KD Karthik,41,31,5.0,1.0,0,0,0,52.0,132.25806451612902,0,0
+Kolkata Knight Riders,Rajasthan Royals,1136609,2018-05-15,N Rana,21,18,2.0,1.0,0,0,0,29.0,116.66666666666669,IS Sodhi,lbw
+Kolkata Knight Riders,Rajasthan Royals,1136609,2018-05-15,RV Uthappa,4,6,0.0,0.0,0,0,0,8.0,66.66666666666666,BA Stokes,caught
+Kolkata Knight Riders,Rajasthan Royals,1136609,2018-05-15,SP Narine,21,7,2.0,2.0,0,0,0,31.0,300.0,BA Stokes,caught
+Rajasthan Royals,Kolkata Knight Riders,1136609,2018-05-15,AM Rahane,11,12,1.0,0.0,0,0,0,16.0,91.66666666666666,Kuldeep Yadav,bowled
+Rajasthan Royals,Kolkata Knight Riders,1136609,2018-05-15,Anureet Singh,3,4,0.0,0.0,0,0,0,7.0,75.0,0,0
+Rajasthan Royals,Kolkata Knight Riders,1136609,2018-05-15,BA Stokes,11,13,0.0,0.0,0,0,0,15.0,84.61538461538461,Kuldeep Yadav,caught and bowled
+Rajasthan Royals,Kolkata Knight Riders,1136609,2018-05-15,IS Sodhi,1,6,0.0,0.0,0,0,0,5.0,16.666666666666664,M Prasidh Krishna,caught
+Rajasthan Royals,Kolkata Knight Riders,1136609,2018-05-15,JC Archer,6,5,1.0,0.0,0,0,0,11.0,120.0,AD Russell,caught
+Rajasthan Royals,Kolkata Knight Riders,1136609,2018-05-15,JC Buttler,39,23,5.0,2.0,0,0,0,52.0,169.56521739130434,Kuldeep Yadav,caught
+Rajasthan Royals,Kolkata Knight Riders,1136609,2018-05-15,JD Unadkat,26,18,3.0,1.0,0,0,0,35.0,144.44444444444443,M Prasidh Krishna,bowled
+Rajasthan Royals,Kolkata Knight Riders,1136609,2018-05-15,K Gowtham,3,5,0.0,0.0,0,0,0,7.0,60.0,Shivam Mavi,caught
+Rajasthan Royals,Kolkata Knight Riders,1136609,2018-05-15,RA Tripathi,27,15,4.0,1.0,0,0,0,37.0,180.0,AD Russell,caught
+Rajasthan Royals,Kolkata Knight Riders,1136609,2018-05-15,STR Binny,1,4,0.0,0.0,0,0,0,5.0,25.0,Kuldeep Yadav,stumped
+Rajasthan Royals,Kolkata Knight Riders,1136609,2018-05-15,SV Samson,12,10,2.0,0.0,0,0,0,18.0,120.0,SP Narine,lbw

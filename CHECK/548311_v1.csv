@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Deccan Chargers,548311,2012-04-07,DJ Bravo,43,19,0.0,5.0,0,0,0,57.0,226.3157894736842,0,0
+Chennai Super Kings,Deccan Chargers,548311,2012-04-07,F du Plessis,39,25,1.0,4.0,0,0,0,52.0,156.0,TP Sudhindra,caught
+Chennai Super Kings,Deccan Chargers,548311,2012-04-07,JA Morkel,2,4,0.0,0.0,0,0,0,6.0,50.0,0,0
+Chennai Super Kings,Deccan Chargers,548311,2012-04-07,M Vijay,2,5,0.0,0.0,0,0,0,6.0,40.0,Ankit Sharma,bowled
+Chennai Super Kings,Deccan Chargers,548311,2012-04-07,MS Dhoni,7,10,0.0,0.0,0,0,0,11.0,70.0,DW Steyn,caught
+Chennai Super Kings,Deccan Chargers,548311,2012-04-07,RA Jadeja,48,29,3.0,3.0,0,0,0,61.0,165.51724137931035,DW Steyn,hit wicket
+Chennai Super Kings,Deccan Chargers,548311,2012-04-07,S Badrinath,25,22,3.0,0.0,0,0,0,32.0,113.63636363636364,DT Christian,caught
+Chennai Super Kings,Deccan Chargers,548311,2012-04-07,SK Raina,16,13,3.0,0.0,0,0,0,23.0,123.07692307692308,DT Christian,caught and bowled
+Deccan Chargers,Chennai Super Kings,548311,2012-04-07,Ankit Sharma,15,8,0.0,2.0,0,0,0,23.0,187.5,DE Bollinger,caught
+Deccan Chargers,Chennai Super Kings,548311,2012-04-07,B Chipli,10,9,0.0,1.0,0,0,0,16.0,111.11111111111111,RA Jadeja,bowled
+Deccan Chargers,Chennai Super Kings,548311,2012-04-07,CL White,23,16,2.0,1.0,0,0,0,31.0,143.75,SB Jakati,caught
+Deccan Chargers,Chennai Super Kings,548311,2012-04-07,DB Ravi Teja,0,2,0.0,0.0,0,0,1,2.0,0.0,RA Jadeja,stumped
+Deccan Chargers,Chennai Super Kings,548311,2012-04-07,DJ Harris,15,14,3.0,0.0,0,0,0,22.0,107.14285714285714,DE Bollinger,caught
+Deccan Chargers,Chennai Super Kings,548311,2012-04-07,DT Christian,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,SB Jakati,caught
+Deccan Chargers,Chennai Super Kings,548311,2012-04-07,DW Steyn,5,8,0.0,0.0,0,0,0,9.0,62.5,RA Jadeja,lbw
+Deccan Chargers,Chennai Super Kings,548311,2012-04-07,MS Gony,4,8,0.0,0.0,0,0,0,8.0,50.0,RA Jadeja,caught
+Deccan Chargers,Chennai Super Kings,548311,2012-04-07,PA Patel,20,17,3.0,0.0,0,0,0,27.0,117.64705882352942,RA Jadeja,bowled
+Deccan Chargers,Chennai Super Kings,548311,2012-04-07,S Dhawan,21,21,3.0,0.0,0,0,0,28.0,100.0,SK Raina,caught

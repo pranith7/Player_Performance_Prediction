@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Capitals,Lucknow Super Giants,1304061,2022-04-07,DA Warner,4,12,0.0,0.0,0,0,0,8.0,33.33333333333333,Ravi Bishnoi,caught
+Delhi Capitals,Lucknow Super Giants,1304061,2022-04-07,PP Shaw,61,36,9.0,2.0,1,0,0,86.0,169.44444444444443,K Gowtham,caught
+Delhi Capitals,Lucknow Super Giants,1304061,2022-04-07,R Powell,3,10,0.0,0.0,0,0,0,7.0,30.0,Ravi Bishnoi,bowled
+Delhi Capitals,Lucknow Super Giants,1304061,2022-04-07,RR Pant,39,37,3.0,2.0,0,0,0,50.0,105.4054054054054,0,0
+Delhi Capitals,Lucknow Super Giants,1304061,2022-04-07,SN Khan,36,29,3.0,0.0,0,0,0,43.0,124.13793103448276,0,0
+Lucknow Super Giants,Delhi Capitals,1304061,2022-04-07,A Badoni,10,3,1.0,1.0,0,0,0,17.0,333.33333333333337,0,0
+Lucknow Super Giants,Delhi Capitals,1304061,2022-04-07,DJ Hooda,11,13,0.0,0.0,0,0,0,15.0,84.61538461538461,SN Thakur,caught
+Lucknow Super Giants,Delhi Capitals,1304061,2022-04-07,E Lewis,5,13,0.0,0.0,0,0,0,9.0,38.46153846153847,Lalit Yadav,caught
+Lucknow Super Giants,Delhi Capitals,1304061,2022-04-07,KH Pandya,19,14,0.0,1.0,0,0,0,25.0,135.71428571428572,0,0
+Lucknow Super Giants,Delhi Capitals,1304061,2022-04-07,KL Rahul,24,25,1.0,1.0,0,0,0,31.0,96.0,Kuldeep Yadav,caught
+Lucknow Super Giants,Delhi Capitals,1304061,2022-04-07,Q de Kock,80,54,9.0,2.0,1,0,0,105.0,148.14814814814815,Kuldeep Yadav,caught

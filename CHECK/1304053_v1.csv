@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Lucknow Super Giants,1304053,2022-03-31,AT Rayudu,27,20,2.0,2.0,0,0,0,37.0,135.0,Ravi Bishnoi,bowled
+Chennai Super Kings,Lucknow Super Giants,1304053,2022-03-31,D Pretorius,0,1,0.0,0.0,0,0,1,2.0,0.0,AJ Tye,lbw
+Chennai Super Kings,Lucknow Super Giants,1304053,2022-03-31,DJ Bravo,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Chennai Super Kings,Lucknow Super Giants,1304053,2022-03-31,MM Ali,35,22,4.0,2.0,0,0,0,47.0,159.0909090909091,Avesh Khan,bowled
+Chennai Super Kings,Lucknow Super Giants,1304053,2022-03-31,MS Dhoni,16,6,2.0,1.0,0,0,0,24.0,266.66666666666663,0,0
+Chennai Super Kings,Lucknow Super Giants,1304053,2022-03-31,RA Jadeja,17,9,3.0,0.0,0,0,0,24.0,188.88888888888889,AJ Tye,caught
+Chennai Super Kings,Lucknow Super Giants,1304053,2022-03-31,RD Gaikwad,1,4,0.0,0.0,0,0,0,5.0,25.0,AJ Tye,run out
+Chennai Super Kings,Lucknow Super Giants,1304053,2022-03-31,RV Uthappa,50,28,8.0,1.0,1,0,0,72.0,178.57142857142858,Ravi Bishnoi,lbw
+Chennai Super Kings,Lucknow Super Giants,1304053,2022-03-31,S Dube,49,32,5.0,2.0,0,0,0,62.0,153.125,Avesh Khan,caught
+Lucknow Super Giants,Chennai Super Kings,1304053,2022-03-31,A Badoni,19,14,0.0,2.0,0,0,0,27.0,135.71428571428572,0,0
+Lucknow Super Giants,Chennai Super Kings,1304053,2022-03-31,DJ Hooda,13,8,1.0,1.0,0,0,0,20.0,162.5,DJ Bravo,caught
+Lucknow Super Giants,Chennai Super Kings,1304053,2022-03-31,E Lewis,55,25,6.0,3.0,1,0,0,79.0,220.00000000000003,0,0
+Lucknow Super Giants,Chennai Super Kings,1304053,2022-03-31,KL Rahul,40,26,2.0,3.0,0,0,0,52.0,153.84615384615387,D Pretorius,caught
+Lucknow Super Giants,Chennai Super Kings,1304053,2022-03-31,MK Pandey,5,8,0.0,0.0,0,0,0,9.0,62.5,TU Deshpande,caught
+Lucknow Super Giants,Chennai Super Kings,1304053,2022-03-31,Q de Kock,61,48,9.0,0.0,1,0,0,82.0,127.08333333333331,D Pretorius,caught

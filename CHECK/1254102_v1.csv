@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Punjab Kings,1254102,2021-10-01,EJG Morgan,2,2,0.0,0.0,0,0,0,6.0,100.0,Mohammed Shami,lbw
+Kolkata Knight Riders,Punjab Kings,1254102,2021-10-01,KD Karthik,11,11,0.0,0.0,0,0,0,15.0,100.0,Arshdeep Singh,bowled
+Kolkata Knight Riders,Punjab Kings,1254102,2021-10-01,N Rana,31,18,2.0,2.0,0,0,0,41.0,172.22222222222223,Arshdeep Singh,caught
+Kolkata Knight Riders,Punjab Kings,1254102,2021-10-01,RA Tripathi,34,27,3.0,1.0,0,0,0,43.0,125.92592592592592,Ravi Bishnoi,caught
+Kolkata Knight Riders,Punjab Kings,1254102,2021-10-01,SP Narine,3,3,0.0,0.0,0,0,0,7.0,100.0,0,0
+Kolkata Knight Riders,Punjab Kings,1254102,2021-10-01,Shubman Gill,7,8,1.0,0.0,0,0,0,12.0,87.5,Arshdeep Singh,bowled
+Kolkata Knight Riders,Punjab Kings,1254102,2021-10-01,TL Seifert,2,5,0.0,0.0,0,0,0,6.0,40.0,Mohammed Shami,run out
+Kolkata Knight Riders,Punjab Kings,1254102,2021-10-01,VR Iyer,67,50,9.0,1.0,1,0,0,90.0,134.0,Ravi Bishnoi,caught
+Punjab Kings,Kolkata Knight Riders,1254102,2021-10-01,AK Markram,18,18,0.0,1.0,0,0,0,24.0,100.0,SP Narine,caught
+Punjab Kings,Kolkata Knight Riders,1254102,2021-10-01,DJ Hooda,3,4,0.0,0.0,0,0,0,7.0,75.0,Shivam Mavi,caught
+Punjab Kings,Kolkata Knight Riders,1254102,2021-10-01,KL Rahul,67,56,4.0,2.0,1,0,0,87.0,119.64285714285714,VR Iyer,caught
+Punjab Kings,Kolkata Knight Riders,1254102,2021-10-01,M Shahrukh Khan,22,9,1.0,2.0,0,0,0,31.0,244.44444444444449,0,0
+Punjab Kings,Kolkata Knight Riders,1254102,2021-10-01,MA Agarwal,40,27,3.0,3.0,0,0,0,53.0,148.14814814814815,CV Varun,caught
+Punjab Kings,Kolkata Knight Riders,1254102,2021-10-01,N Pooran,12,7,0.0,1.0,0,0,0,18.0,171.42857142857142,CV Varun,caught

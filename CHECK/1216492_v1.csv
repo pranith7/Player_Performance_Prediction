@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Mumbai Indians,1216492,2020-09-19,AT Rayudu,71,49,6.0,3.0,1,0,0,95.0,144.89795918367346,RD Chahar,caught and bowled
+Chennai Super Kings,Mumbai Indians,1216492,2020-09-19,F du Plessis,58,45,6.0,0.0,1,0,0,76.0,128.88888888888889,0,0
+Chennai Super Kings,Mumbai Indians,1216492,2020-09-19,M Vijay,1,8,0.0,0.0,0,0,0,5.0,12.5,JL Pattinson,lbw
+Chennai Super Kings,Mumbai Indians,1216492,2020-09-19,MS Dhoni,0,2,0.0,0.0,0,0,1,2.0,0.0,0,0
+Chennai Super Kings,Mumbai Indians,1216492,2020-09-19,RA Jadeja,10,5,2.0,0.0,0,0,0,16.0,200.0,KH Pandya,lbw
+Chennai Super Kings,Mumbai Indians,1216492,2020-09-19,SM Curran,18,6,1.0,2.0,0,0,0,27.0,300.0,JJ Bumrah,caught
+Chennai Super Kings,Mumbai Indians,1216492,2020-09-19,SR Watson,4,5,1.0,0.0,0,0,0,9.0,80.0,TA Boult,lbw
+Mumbai Indians,Chennai Super Kings,1216492,2020-09-19,HH Pandya,14,10,0.0,2.0,0,0,0,22.0,140.0,RA Jadeja,caught
+Mumbai Indians,Chennai Super Kings,1216492,2020-09-19,JJ Bumrah,5,3,0.0,0.0,0,0,0,9.0,166.66666666666669,0,0
+Mumbai Indians,Chennai Super Kings,1216492,2020-09-19,JL Pattinson,11,8,2.0,0.0,0,0,0,17.0,137.5,L Ngidi,caught
+Mumbai Indians,Chennai Super Kings,1216492,2020-09-19,KA Pollard,18,14,1.0,1.0,0,0,0,25.0,128.57142857142858,L Ngidi,caught
+Mumbai Indians,Chennai Super Kings,1216492,2020-09-19,KH Pandya,3,3,0.0,0.0,0,0,0,7.0,100.0,L Ngidi,caught
+Mumbai Indians,Chennai Super Kings,1216492,2020-09-19,Q de Kock,33,22,5.0,0.0,0,0,0,42.0,150.0,SM Curran,caught
+Mumbai Indians,Chennai Super Kings,1216492,2020-09-19,RD Chahar,2,4,0.0,0.0,0,0,0,6.0,50.0,0,0
+Mumbai Indians,Chennai Super Kings,1216492,2020-09-19,RG Sharma,12,10,2.0,0.0,0,0,0,18.0,120.0,PP Chawla,caught
+Mumbai Indians,Chennai Super Kings,1216492,2020-09-19,SA Yadav,17,18,2.0,0.0,0,0,0,23.0,94.44444444444444,DL Chahar,caught
+Mumbai Indians,Chennai Super Kings,1216492,2020-09-19,SS Tiwary,42,31,3.0,1.0,0,0,0,51.0,135.48387096774192,RA Jadeja,caught
+Mumbai Indians,Chennai Super Kings,1216492,2020-09-19,TA Boult,0,1,0.0,0.0,0,0,1,2.0,0.0,DL Chahar,bowled

@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Rajasthan Royals,Royal Challengers Bangalore,392213,2009-05-07,GC Smith,20,22,4.0,0.0,0,0,0,28.0,90.9090909090909,JH Kallis,bowled
+Rajasthan Royals,Royal Challengers Bangalore,392213,2009-05-07,LA Carseldine,9,8,1.0,0.0,0,0,0,14.0,112.5,A Kumble,run out
+Rajasthan Royals,Royal Challengers Bangalore,392213,2009-05-07,NV Ojha,52,38,3.0,3.0,1,0,0,73.0,136.8421052631579,0,0
+Rajasthan Royals,Royal Challengers Bangalore,392213,2009-05-07,RA Jadeja,1,4,0.0,0.0,0,0,0,5.0,25.0,0,0
+Rajasthan Royals,Royal Challengers Bangalore,392213,2009-05-07,YK Pathan,22,21,2.0,0.0,0,0,0,28.0,104.76190476190476,D du Preez,caught
+Royal Challengers Bangalore,Rajasthan Royals,392213,2009-05-07,D du Preez,10,13,0.0,0.0,0,0,0,14.0,76.92307692307693,A Singh,caught
+Royal Challengers Bangalore,Rajasthan Royals,392213,2009-05-07,JH Kallis,10,15,0.0,1.0,0,0,0,16.0,66.66666666666666,MM Patel,caught
+Royal Challengers Bangalore,Rajasthan Royals,392213,2009-05-07,MV Boucher,6,8,0.0,0.0,0,0,0,10.0,75.0,RA Jadeja,bowled
+Royal Challengers Bangalore,Rajasthan Royals,392213,2009-05-07,P Kumar,7,4,0.0,1.0,0,0,0,13.0,175.0,M Morkel,run out
+Royal Challengers Bangalore,Rajasthan Royals,392213,2009-05-07,R Dravid,0,2,0.0,0.0,0,0,1,2.0,0.0,LA Carseldine,caught
+Royal Challengers Bangalore,Rajasthan Royals,392213,2009-05-07,R Vinay Kumar,12,13,0.0,1.0,0,0,0,18.0,92.3076923076923,A Singh,bowled
+Royal Challengers Bangalore,Rajasthan Royals,392213,2009-05-07,RE van der Merwe,15,17,1.0,0.0,0,0,0,20.0,88.23529411764706,A Singh,bowled
+Royal Challengers Bangalore,Rajasthan Royals,392213,2009-05-07,RV Uthappa,17,22,3.0,0.0,0,0,0,24.0,77.27272727272727,RA Jadeja,lbw
+Royal Challengers Bangalore,Rajasthan Royals,392213,2009-05-07,V Kohli,15,22,1.0,0.0,0,0,0,20.0,68.18181818181817,RA Jadeja,caught
+Royal Challengers Bangalore,Rajasthan Royals,392213,2009-05-07,W Jaffer,8,9,1.0,0.0,0,0,0,13.0,88.88888888888889,A Singh,caught

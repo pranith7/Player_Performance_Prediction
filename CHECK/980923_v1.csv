@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Sunrisers Hyderabad,980923,2016-04-18,AT Rayudu,54,50,3.0,2.0,1,0,0,73.0,108.0,BB Sran,caught
+Mumbai Indians,Sunrisers Hyderabad,980923,2016-04-18,HH Pandya,2,5,0.0,0.0,0,0,0,6.0,40.0,Mustafizur Rahman,bowled
+Mumbai Indians,Sunrisers Hyderabad,980923,2016-04-18,Harbhajan Singh,1,4,0.0,0.0,0,0,0,5.0,25.0,0,0
+Mumbai Indians,Sunrisers Hyderabad,980923,2016-04-18,JC Buttler,11,11,1.0,0.0,0,0,0,16.0,100.0,BB Sran,caught
+Mumbai Indians,Sunrisers Hyderabad,980923,2016-04-18,KH Pandya,49,29,3.0,3.0,0,0,0,62.0,168.9655172413793,0,0
+Mumbai Indians,Sunrisers Hyderabad,980923,2016-04-18,MJ Guptill,2,4,0.0,0.0,0,0,0,6.0,50.0,B Kumar,caught
+Mumbai Indians,Sunrisers Hyderabad,980923,2016-04-18,PA Patel,10,15,2.0,0.0,0,0,0,16.0,66.66666666666666,BB Sran,bowled
+Mumbai Indians,Sunrisers Hyderabad,980923,2016-04-18,RG Sharma,5,8,0.0,0.0,0,0,0,9.0,62.5,Bipul Sharma,run out
+Sunrisers Hyderabad,Mumbai Indians,980923,2016-04-18,DA Warner,90,61,7.0,4.0,1,0,0,117.0,147.54098360655738,0,0
+Sunrisers Hyderabad,Mumbai Indians,980923,2016-04-18,DJ Hooda,17,9,2.0,0.0,0,0,0,23.0,188.88888888888889,0,0
+Sunrisers Hyderabad,Mumbai Indians,980923,2016-04-18,EJG Morgan,11,12,1.0,0.0,0,0,0,16.0,91.66666666666666,TG Southee,caught
+Sunrisers Hyderabad,Mumbai Indians,980923,2016-04-18,MC Henriques,20,22,1.0,1.0,0,0,0,27.0,90.9090909090909,TG Southee,caught
+Sunrisers Hyderabad,Mumbai Indians,980923,2016-04-18,S Dhawan,2,4,0.0,0.0,0,0,0,6.0,50.0,TG Southee,bowled

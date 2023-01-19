@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Delhi Capitals,1175360,2019-03-26,AT Rayudu,5,5,1.0,0.0,0,0,0,10.0,100.0,I Sharma,caught
+Chennai Super Kings,Delhi Capitals,1175360,2019-03-26,DJ Bravo,4,3,1.0,0.0,0,0,0,9.0,133.33333333333331,0,0
+Chennai Super Kings,Delhi Capitals,1175360,2019-03-26,KM Jadhav,27,34,2.0,0.0,0,0,0,33.0,79.41176470588235,K Rabada,caught
+Chennai Super Kings,Delhi Capitals,1175360,2019-03-26,MS Dhoni,32,36,2.0,1.0,0,0,0,40.0,88.88888888888889,0,0
+Chennai Super Kings,Delhi Capitals,1175360,2019-03-26,SK Raina,30,16,4.0,1.0,0,0,0,40.0,187.5,A Mishra,caught
+Chennai Super Kings,Delhi Capitals,1175360,2019-03-26,SR Watson,44,27,4.0,3.0,0,0,0,58.0,162.96296296296296,A Mishra,stumped
+Delhi Capitals,Chennai Super Kings,1175360,2019-03-26,AR Patel,9,9,1.0,0.0,0,0,0,14.0,100.0,0,0
+Delhi Capitals,Chennai Super Kings,1175360,2019-03-26,CA Ingram,2,2,0.0,0.0,0,0,0,6.0,100.0,DJ Bravo,caught
+Delhi Capitals,Chennai Super Kings,1175360,2019-03-26,KMA Paul,0,4,0.0,0.0,0,0,1,2.0,0.0,RA Jadeja,bowled
+Delhi Capitals,Chennai Super Kings,1175360,2019-03-26,PP Shaw,24,18,5.0,0.0,0,0,0,33.0,133.33333333333331,DL Chahar,caught
+Delhi Capitals,Chennai Super Kings,1175360,2019-03-26,R Tewatia,11,9,1.0,0.0,0,0,0,16.0,122.22222222222224,0,0
+Delhi Capitals,Chennai Super Kings,1175360,2019-03-26,RR Pant,25,16,2.0,1.0,0,0,0,33.0,156.25,DJ Bravo,caught
+Delhi Capitals,Chennai Super Kings,1175360,2019-03-26,S Dhawan,51,47,7.0,0.0,1,0,0,70.0,108.51063829787232,DJ Bravo,caught
+Delhi Capitals,Chennai Super Kings,1175360,2019-03-26,SS Iyer,18,20,0.0,1.0,0,0,0,24.0,90.0,Imran Tahir,lbw

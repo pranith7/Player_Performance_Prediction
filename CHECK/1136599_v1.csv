@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Royal Challengers Bangalore,Sunrisers Hyderabad,1136599,2018-05-07,AB de Villiers,5,9,0.0,0.0,0,0,0,9.0,55.55555555555556,Rashid Khan,bowled
+Royal Challengers Bangalore,Sunrisers Hyderabad,1136599,2018-05-07,C de Grandhomme,33,30,1.0,2.0,0,0,0,42.0,110.0,B Kumar,bowled
+Royal Challengers Bangalore,Sunrisers Hyderabad,1136599,2018-05-07,M Vohra,8,11,0.0,0.0,0,0,0,12.0,72.72727272727273,Sandeep Sharma,bowled
+Royal Challengers Bangalore,Sunrisers Hyderabad,1136599,2018-05-07,MM Ali,10,7,2.0,0.0,0,0,0,16.0,142.85714285714286,S Kaul,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,1136599,2018-05-07,Mandeep Singh,21,23,1.0,0.0,0,0,0,26.0,91.30434782608695,0,0
+Royal Challengers Bangalore,Sunrisers Hyderabad,1136599,2018-05-07,PA Patel,20,13,4.0,0.0,0,0,0,28.0,153.84615384615387,Shakib Al Hasan,lbw
+Royal Challengers Bangalore,Sunrisers Hyderabad,1136599,2018-05-07,V Kohli,39,30,5.0,1.0,0,0,0,50.0,130.0,Shakib Al Hasan,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,1136599,2018-05-07,AD Hales,5,5,1.0,0.0,0,0,0,10.0,100.0,TG Southee,bowled
+Sunrisers Hyderabad,Royal Challengers Bangalore,1136599,2018-05-07,B Kumar,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Sunrisers Hyderabad,Royal Challengers Bangalore,1136599,2018-05-07,KS Williamson,56,41,5.0,2.0,1,0,0,77.0,136.58536585365854,UT Yadav,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,1136599,2018-05-07,MK Pandey,5,7,0.0,0.0,0,0,0,9.0,71.42857142857143,YS Chahal,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,1136599,2018-05-07,Rashid Khan,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,TG Southee,run out
+Sunrisers Hyderabad,Royal Challengers Bangalore,1136599,2018-05-07,S Dhawan,13,20,1.0,0.0,0,0,0,18.0,65.0,Mohammed Siraj,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,1136599,2018-05-07,S Kaul,1,1,0.0,0.0,0,0,0,5.0,100.0,TG Southee,run out
+Sunrisers Hyderabad,Royal Challengers Bangalore,1136599,2018-05-07,Sandeep Sharma,0,1,0.0,0.0,0,0,1,2.0,0.0,TG Southee,lbw
+Sunrisers Hyderabad,Royal Challengers Bangalore,1136599,2018-05-07,Shakib Al Hasan,35,34,5.0,0.0,0,0,0,44.0,102.94117647058825,TG Southee,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,1136599,2018-05-07,WP Saha,8,5,0.0,1.0,0,0,0,14.0,160.0,Mohammed Siraj,bowled
+Sunrisers Hyderabad,Royal Challengers Bangalore,1136599,2018-05-07,YK Pathan,12,7,2.0,0.0,0,0,0,18.0,171.42857142857142,Mohammed Siraj,bowled

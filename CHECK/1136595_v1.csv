@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Royal Challengers Bangalore,1136595,2018-05-05,AT Rayudu,32,25,3.0,2.0,0,0,0,43.0,128.0,M Ashwin,caught
+Chennai Super Kings,Royal Challengers Bangalore,1136595,2018-05-05,DJ Bravo,14,17,0.0,1.0,0,0,0,20.0,82.35294117647058,0,0
+Chennai Super Kings,Royal Challengers Bangalore,1136595,2018-05-05,DR Shorey,8,9,0.0,1.0,0,0,0,14.0,88.88888888888889,C de Grandhomme,caught
+Chennai Super Kings,Royal Challengers Bangalore,1136595,2018-05-05,MS Dhoni,31,26,1.0,3.0,0,0,0,42.0,119.23076923076924,0,0
+Chennai Super Kings,Royal Challengers Bangalore,1136595,2018-05-05,SK Raina,25,21,2.0,1.0,0,0,0,33.0,119.04761904761904,UT Yadav,caught
+Chennai Super Kings,Royal Challengers Bangalore,1136595,2018-05-05,SR Watson,11,14,2.0,0.0,0,0,0,17.0,78.57142857142857,UT Yadav,bowled
+Royal Challengers Bangalore,Chennai Super Kings,1136595,2018-05-05,AB de Villiers,1,4,0.0,0.0,0,0,0,5.0,25.0,Harbhajan Singh,stumped
+Royal Challengers Bangalore,Chennai Super Kings,1136595,2018-05-05,BB McCullum,5,4,1.0,0.0,0,0,0,10.0,125.0,L Ngidi,caught
+Royal Challengers Bangalore,Chennai Super Kings,1136595,2018-05-05,C de Grandhomme,8,8,1.0,0.0,0,0,0,13.0,100.0,DJ Willey,caught
+Royal Challengers Bangalore,Chennai Super Kings,1136595,2018-05-05,M Ashwin,1,2,0.0,0.0,0,0,0,5.0,50.0,Harbhajan Singh,stumped
+Royal Challengers Bangalore,Chennai Super Kings,1136595,2018-05-05,Mandeep Singh,7,13,0.0,0.0,0,0,0,11.0,53.84615384615385,RA Jadeja,caught
+Royal Challengers Bangalore,Chennai Super Kings,1136595,2018-05-05,Mohammed Siraj,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,DJ Bravo,run out
+Royal Challengers Bangalore,Chennai Super Kings,1136595,2018-05-05,PA Patel,53,41,5.0,2.0,1,0,0,74.0,129.26829268292684,RA Jadeja,caught and bowled
+Royal Challengers Bangalore,Chennai Super Kings,1136595,2018-05-05,TG Southee,36,26,3.0,1.0,0,0,0,45.0,138.46153846153845,0,0
+Royal Challengers Bangalore,Chennai Super Kings,1136595,2018-05-05,UT Yadav,1,5,0.0,0.0,0,0,0,5.0,20.0,L Ngidi,run out
+Royal Challengers Bangalore,Chennai Super Kings,1136595,2018-05-05,V Kohli,8,11,1.0,0.0,0,0,0,13.0,72.72727272727273,RA Jadeja,bowled

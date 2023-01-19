@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Rajasthan Royals,729291,2014-04-20,CA Pujara,40,38,3.0,0.0,0,0,0,47.0,105.26315789473684,0,0
+Kings XI Punjab,Rajasthan Royals,729291,2014-04-20,DA Miller,51,20,0.0,6.0,1,0,0,75.0,255.0,0,0
+Kings XI Punjab,Rajasthan Royals,729291,2014-04-20,GJ Maxwell,89,47,8.0,6.0,1,0,0,121.0,189.3617021276596,KW Richardson,caught
+Kings XI Punjab,Rajasthan Royals,729291,2014-04-20,V Sehwag,2,8,0.0,0.0,0,0,0,6.0,25.0,DS Kulkarni,caught
+Kings XI Punjab,Rajasthan Royals,729291,2014-04-20,WP Saha,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,JP Faulkner,caught
+Rajasthan Royals,Kings XI Punjab,729291,2014-04-20,AM Nayar,23,21,2.0,1.0,0,0,0,31.0,109.52380952380952,M Kartik,lbw
+Rajasthan Royals,Kings XI Punjab,729291,2014-04-20,AM Rahane,13,8,2.0,0.0,0,0,0,19.0,162.5,P Awana,run out
+Rajasthan Royals,Kings XI Punjab,729291,2014-04-20,JP Faulkner,8,7,0.0,1.0,0,0,0,14.0,114.28571428571428,0,0
+Rajasthan Royals,Kings XI Punjab,729291,2014-04-20,SPD Smith,27,15,5.0,0.0,0,0,0,36.0,180.0,0,0
+Rajasthan Royals,Kings XI Punjab,729291,2014-04-20,SR Watson,50,30,5.0,3.0,1,0,0,73.0,166.66666666666669,AR Patel,bowled
+Rajasthan Royals,Kings XI Punjab,729291,2014-04-20,STR Binny,12,8,0.0,1.0,0,0,0,18.0,150.0,MG Johnson,caught
+Rajasthan Royals,Kings XI Punjab,729291,2014-04-20,SV Samson,52,34,3.0,4.0,1,0,0,75.0,152.94117647058823,P Awana,bowled

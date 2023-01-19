@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Rising Pune Supergiants,Sunrisers Hyderabad,980943,2016-04-26,AM Rahane,0,5,0.0,0.0,0,0,1,2.0,0.0,B Kumar,caught
+Rising Pune Supergiants,Sunrisers Hyderabad,980943,2016-04-26,F du Plessis,30,23,3.0,2.0,0,0,0,41.0,130.43478260869566,MC Henriques,caught
+Rising Pune Supergiants,Sunrisers Hyderabad,980943,2016-04-26,MS Dhoni,5,4,1.0,0.0,0,0,0,10.0,125.0,A Nehra,caught
+Rising Pune Supergiants,Sunrisers Hyderabad,980943,2016-04-26,SPD Smith,46,41,7.0,0.0,0,0,0,57.0,112.19512195121952,0,0
+Sunrisers Hyderabad,Rising Pune Supergiants,980943,2016-04-26,AP Tare,8,14,1.0,0.0,0,0,0,13.0,57.14285714285714,AB Dinda,caught
+Sunrisers Hyderabad,Rising Pune Supergiants,980943,2016-04-26,B Kumar,21,9,3.0,1.0,0,0,0,30.0,233.3333333333333,NLTC Perera,caught
+Sunrisers Hyderabad,Rising Pune Supergiants,980943,2016-04-26,Bipul Sharma,5,5,0.0,0.0,0,0,0,9.0,100.0,AB Dinda,run out
+Sunrisers Hyderabad,Rising Pune Supergiants,980943,2016-04-26,DA Warner,0,4,0.0,0.0,0,0,1,2.0,0.0,AB Dinda,caught
+Sunrisers Hyderabad,Rising Pune Supergiants,980943,2016-04-26,DJ Hooda,1,9,0.0,0.0,0,0,0,5.0,11.11111111111111,R Ashwin,caught
+Sunrisers Hyderabad,Rising Pune Supergiants,980943,2016-04-26,EJG Morgan,0,2,0.0,0.0,0,0,1,2.0,0.0,MR Marsh,caught
+Sunrisers Hyderabad,Rising Pune Supergiants,980943,2016-04-26,MC Henriques,1,4,0.0,0.0,0,0,0,5.0,25.0,MR Marsh,caught
+Sunrisers Hyderabad,Rising Pune Supergiants,980943,2016-04-26,NV Ojha,18,21,0.0,1.0,0,0,0,24.0,85.71428571428571,AB Dinda,bowled
+Sunrisers Hyderabad,Rising Pune Supergiants,980943,2016-04-26,S Dhawan,56,55,2.0,1.0,1,0,0,72.0,101.8181818181818,0,0

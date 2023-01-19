@@ -1,0 +1,21 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Capitals,Sunrisers Hyderabad,1178405,2019-04-14,AR Patel,14,12,1.0,0.0,0,0,0,19.0,116.66666666666669,0,0
+Delhi Capitals,Sunrisers Hyderabad,1178405,2019-04-14,C Munro,40,25,4.0,3.0,0,0,0,54.0,160.0,Abhishek Sharma,caught
+Delhi Capitals,Sunrisers Hyderabad,1178405,2019-04-14,CH Morris,4,8,0.0,0.0,0,0,0,8.0,50.0,Rashid Khan,bowled
+Delhi Capitals,Sunrisers Hyderabad,1178405,2019-04-14,K Rabada,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Delhi Capitals,Sunrisers Hyderabad,1178405,2019-04-14,KMA Paul,7,4,0.0,1.0,0,0,0,13.0,175.0,B Kumar,lbw
+Delhi Capitals,Sunrisers Hyderabad,1178405,2019-04-14,PP Shaw,4,5,0.0,0.0,0,0,0,8.0,80.0,KK Ahmed,caught
+Delhi Capitals,Sunrisers Hyderabad,1178405,2019-04-14,RR Pant,23,19,3.0,0.0,0,0,0,30.0,121.05263157894736,KK Ahmed,caught
+Delhi Capitals,Sunrisers Hyderabad,1178405,2019-04-14,S Dhawan,7,8,1.0,0.0,0,0,0,12.0,87.5,KK Ahmed,caught
+Delhi Capitals,Sunrisers Hyderabad,1178405,2019-04-14,SS Iyer,45,41,5.0,0.0,0,0,0,54.0,109.75609756097562,B Kumar,caught
+Sunrisers Hyderabad,Delhi Capitals,1178405,2019-04-14,Abhishek Sharma,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,CH Morris,caught
+Sunrisers Hyderabad,Delhi Capitals,1178405,2019-04-14,B Kumar,2,4,0.0,0.0,0,0,0,6.0,50.0,K Rabada,caught and bowled
+Sunrisers Hyderabad,Delhi Capitals,1178405,2019-04-14,DA Warner,51,47,3.0,1.0,1,0,0,68.0,108.51063829787232,K Rabada,caught
+Sunrisers Hyderabad,Delhi Capitals,1178405,2019-04-14,DJ Hooda,3,4,0.0,0.0,0,0,0,7.0,75.0,CH Morris,bowled
+Sunrisers Hyderabad,Delhi Capitals,1178405,2019-04-14,JM Bairstow,41,32,5.0,1.0,0,0,0,52.0,128.125,KMA Paul,caught
+Sunrisers Hyderabad,Delhi Capitals,1178405,2019-04-14,KK Ahmed,0,1,0.0,0.0,0,0,1,2.0,0.0,K Rabada,bowled
+Sunrisers Hyderabad,Delhi Capitals,1178405,2019-04-14,KS Williamson,3,8,0.0,0.0,0,0,0,7.0,37.5,KMA Paul,caught
+Sunrisers Hyderabad,Delhi Capitals,1178405,2019-04-14,RK Bhui,7,13,0.0,0.0,0,0,0,11.0,53.84615384615385,KMA Paul,caught
+Sunrisers Hyderabad,Delhi Capitals,1178405,2019-04-14,Rashid Khan,0,1,0.0,0.0,0,0,1,2.0,0.0,CH Morris,caught
+Sunrisers Hyderabad,Delhi Capitals,1178405,2019-04-14,Sandeep Sharma,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Sunrisers Hyderabad,Delhi Capitals,1178405,2019-04-14,V Shankar,1,2,0.0,0.0,0,0,0,5.0,50.0,K Rabada,caught

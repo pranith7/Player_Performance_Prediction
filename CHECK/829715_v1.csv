@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Rajasthan Royals,829715,2015-04-12,AD Mathews,27,15,3.0,1.0,0,0,0,36.0,180.0,0,0
+Delhi Daredevils,Rajasthan Royals,829715,2015-04-12,JP Duminy,44,40,0.0,3.0,0,0,0,54.0,110.0,0,0
+Delhi Daredevils,Rajasthan Royals,829715,2015-04-12,MA Agarwal,37,21,6.0,1.0,0,0,0,49.0,176.19047619047618,PV Tambe,caught and bowled
+Delhi Daredevils,Rajasthan Royals,829715,2015-04-12,SS Iyer,40,34,3.0,3.0,0,0,0,53.0,117.64705882352942,CH Morris,caught
+Delhi Daredevils,Rajasthan Royals,829715,2015-04-12,Yuvraj Singh,27,17,0.0,2.0,0,0,0,35.0,158.8235294117647,CH Morris,caught
+Rajasthan Royals,Delhi Daredevils,829715,2015-04-12,AM Rahane,47,41,2.0,3.0,0,0,0,59.0,114.6341463414634,Imran Tahir,bowled
+Rajasthan Royals,Delhi Daredevils,829715,2015-04-12,CH Morris,13,6,1.0,1.0,0,0,0,20.0,216.66666666666663,0,0
+Rajasthan Royals,Delhi Daredevils,829715,2015-04-12,DJ Hooda,54,28,3.0,4.0,1,0,0,77.0,192.8571428571429,Imran Tahir,caught
+Rajasthan Royals,Delhi Daredevils,829715,2015-04-12,JP Faulkner,17,11,2.0,0.0,0,0,0,23.0,154.54545454545453,Imran Tahir,bowled
+Rajasthan Royals,Delhi Daredevils,829715,2015-04-12,KK Nair,20,12,3.0,0.0,0,0,0,27.0,166.66666666666669,A Mishra,stumped
+Rajasthan Royals,Delhi Daredevils,829715,2015-04-12,SPD Smith,10,9,2.0,0.0,0,0,0,16.0,111.11111111111111,A Mishra,caught
+Rajasthan Royals,Delhi Daredevils,829715,2015-04-12,STR Binny,1,2,0.0,0.0,0,0,0,5.0,50.0,Imran Tahir,lbw
+Rajasthan Royals,Delhi Daredevils,829715,2015-04-12,SV Samson,11,12,1.0,0.0,0,0,0,16.0,91.66666666666666,AD Mathews,caught
+Rajasthan Royals,Delhi Daredevils,829715,2015-04-12,TG Southee,7,4,1.0,0.0,0,0,0,12.0,175.0,0,0

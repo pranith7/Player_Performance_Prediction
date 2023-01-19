@@ -1,0 +1,20 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Sunrisers Hyderabad,829759,2015-04-27,AR Patel,17,13,0.0,1.0,0,0,0,23.0,130.76923076923077,TA Boult,bowled
+Kings XI Punjab,Sunrisers Hyderabad,829759,2015-04-27,Anureet Singh,0,2,0.0,0.0,0,0,1,2.0,0.0,P Kumar,caught
+Kings XI Punjab,Sunrisers Hyderabad,829759,2015-04-27,DA Miller,15,14,1.0,0.0,0,0,0,20.0,107.14285714285714,KV Sharma,caught
+Kings XI Punjab,Sunrisers Hyderabad,829759,2015-04-27,GJ Bailey,22,18,3.0,0.0,0,0,0,29.0,122.22222222222224,MC Henriques,caught
+Kings XI Punjab,Sunrisers Hyderabad,829759,2015-04-27,M Vijay,12,16,0.0,0.0,0,0,0,16.0,75.0,KV Sharma,run out
+Kings XI Punjab,Sunrisers Hyderabad,829759,2015-04-27,M Vohra,5,10,1.0,0.0,0,0,0,10.0,50.0,TA Boult,bowled
+Kings XI Punjab,Sunrisers Hyderabad,829759,2015-04-27,MG Johnson,4,6,0.0,0.0,0,0,0,8.0,66.66666666666666,0,0
+Kings XI Punjab,Sunrisers Hyderabad,829759,2015-04-27,R Dhawan,4,6,0.0,0.0,0,0,0,8.0,66.66666666666666,B Kumar,lbw
+Kings XI Punjab,Sunrisers Hyderabad,829759,2015-04-27,SE Marsh,1,6,0.0,0.0,0,0,0,5.0,16.666666666666664,B Kumar,bowled
+Kings XI Punjab,Sunrisers Hyderabad,829759,2015-04-27,Sandeep Sharma,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Kings XI Punjab,Sunrisers Hyderabad,829759,2015-04-27,WP Saha,42,33,2.0,1.0,0,0,0,50.0,127.27272727272728,TA Boult,caught
+Sunrisers Hyderabad,Kings XI Punjab,829759,2015-04-27,A Ashish Reddy,22,8,1.0,2.0,0,0,0,31.0,275.0,0,0
+Sunrisers Hyderabad,Kings XI Punjab,829759,2015-04-27,DA Warner,58,41,10.0,1.0,1,0,0,82.0,141.46341463414635,AR Patel,caught
+Sunrisers Hyderabad,Kings XI Punjab,829759,2015-04-27,GH Vihari,9,8,2.0,0.0,0,0,0,15.0,112.5,Anureet Singh,caught
+Sunrisers Hyderabad,Kings XI Punjab,829759,2015-04-27,KV Sharma,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Sunrisers Hyderabad,Kings XI Punjab,829759,2015-04-27,MC Henriques,30,32,1.0,0.0,0,0,0,35.0,93.75,Sandeep Sharma,bowled
+Sunrisers Hyderabad,Kings XI Punjab,829759,2015-04-27,NV Ojha,28,26,3.0,0.0,0,0,0,35.0,107.6923076923077,AR Patel,caught
+Sunrisers Hyderabad,Kings XI Punjab,829759,2015-04-27,RS Bopara,0,2,0.0,0.0,0,0,1,2.0,0.0,MG Johnson,caught
+Sunrisers Hyderabad,Kings XI Punjab,829759,2015-04-27,S Dhawan,1,2,0.0,0.0,0,0,0,5.0,50.0,MG Johnson,caught

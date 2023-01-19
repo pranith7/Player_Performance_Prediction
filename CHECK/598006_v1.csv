@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Mumbai Indians,598006,2013-04-09,A Nehra,1,5,0.0,0.0,0,0,0,5.0,20.0,KA Pollard,caught
+Delhi Daredevils,Mumbai Indians,598006,2013-04-09,BMAJ Mendis,0,1,0.0,0.0,0,0,1,2.0,0.0,KA Pollard,caught and bowled
+Delhi Daredevils,Mumbai Indians,598006,2013-04-09,DA Warner,61,38,5.0,4.0,1,0,0,86.0,160.5263157894737,MG Johnson,caught
+Delhi Daredevils,Mumbai Indians,598006,2013-04-09,DPMD Jayawardene,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,MG Johnson,caught
+Delhi Daredevils,Mumbai Indians,598006,2013-04-09,IK Pathan,10,12,0.0,0.0,0,0,0,14.0,83.33333333333334,PP Ojha,caught
+Delhi Daredevils,Mumbai Indians,598006,2013-04-09,KM Jadhav,1,2,0.0,0.0,0,0,0,5.0,50.0,SL Malinga,caught and bowled
+Delhi Daredevils,Mumbai Indians,598006,2013-04-09,M Morkel,23,9,3.0,1.0,0,0,0,32.0,255.5555555555556,0,0
+Delhi Daredevils,Mumbai Indians,598006,2013-04-09,MC Juneja,49,42,6.0,0.0,0,0,0,59.0,116.66666666666669,SL Malinga,run out
+Delhi Daredevils,Mumbai Indians,598006,2013-04-09,S Nadeem,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,PP Ojha,caught
+Delhi Daredevils,Mumbai Indians,598006,2013-04-09,UBT Chand,0,1,0.0,0.0,0,0,1,2.0,0.0,Harbhajan Singh,caught
+Delhi Daredevils,Mumbai Indians,598006,2013-04-09,UT Yadav,5,4,1.0,0.0,0,0,0,10.0,125.0,0,0
+Mumbai Indians,Delhi Daredevils,598006,2013-04-09,AT Rayudu,24,8,2.0,2.0,0,0,0,34.0,300.0,A Nehra,caught and bowled
+Mumbai Indians,Delhi Daredevils,598006,2013-04-09,Harbhajan Singh,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Mumbai Indians,Delhi Daredevils,598006,2013-04-09,KA Pollard,13,8,1.0,1.0,0,0,0,20.0,162.5,A Nehra,caught
+Mumbai Indians,Delhi Daredevils,598006,2013-04-09,KD Karthik,86,49,14.0,2.0,1,0,0,116.0,175.51020408163265,M Morkel,caught
+Mumbai Indians,Delhi Daredevils,598006,2013-04-09,RG Sharma,74,51,4.0,5.0,1,0,0,100.0,145.09803921568627,0,0
+Mumbai Indians,Delhi Daredevils,598006,2013-04-09,RT Ponting,0,6,0.0,0.0,0,0,1,2.0,0.0,IK Pathan,caught
+Mumbai Indians,Delhi Daredevils,598006,2013-04-09,SR Tendulkar,1,1,0.0,0.0,0,0,0,5.0,100.0,A Nehra,run out

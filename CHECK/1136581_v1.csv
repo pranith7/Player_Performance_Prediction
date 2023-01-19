@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Rajasthan Royals,1136581,2018-04-22,E Lewis,0,1,0.0,0.0,0,0,1,2.0,0.0,DS Kulkarni,bowled
+Mumbai Indians,Rajasthan Royals,1136581,2018-04-22,HH Pandya,4,2,1.0,0.0,0,0,0,9.0,200.0,JC Archer,bowled
+Mumbai Indians,Rajasthan Royals,1136581,2018-04-22,Ishan Kishan,58,42,4.0,3.0,1,0,0,80.0,138.0952380952381,DS Kulkarni,caught
+Mumbai Indians,Rajasthan Royals,1136581,2018-04-22,KA Pollard,21,20,1.0,1.0,0,0,0,28.0,105.0,0,0
+Mumbai Indians,Rajasthan Royals,1136581,2018-04-22,KH Pandya,7,6,1.0,0.0,0,0,0,12.0,116.66666666666669,JC Archer,caught
+Mumbai Indians,Rajasthan Royals,1136581,2018-04-22,M Markande,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Mumbai Indians,Rajasthan Royals,1136581,2018-04-22,MJ McClenaghan,0,1,0.0,0.0,0,0,1,2.0,0.0,JC Archer,bowled
+Mumbai Indians,Rajasthan Royals,1136581,2018-04-22,RG Sharma,0,1,0.0,0.0,0,0,1,2.0,0.0,JD Unadkat,run out
+Mumbai Indians,Rajasthan Royals,1136581,2018-04-22,SA Yadav,72,50,6.0,3.0,1,0,0,96.0,144.0,JD Unadkat,caught
+Rajasthan Royals,Mumbai Indians,1136581,2018-04-22,AM Rahane,14,17,1.0,0.0,0,0,0,19.0,82.35294117647058,MJ McClenaghan,caught
+Rajasthan Royals,Mumbai Indians,1136581,2018-04-22,BA Stokes,40,29,3.0,1.0,0,0,0,49.0,137.93103448275863,HH Pandya,bowled
+Rajasthan Royals,Mumbai Indians,1136581,2018-04-22,H Klaasen,0,1,0.0,0.0,0,0,1,2.0,0.0,Mustafizur Rahman,caught
+Rajasthan Royals,Mumbai Indians,1136581,2018-04-22,JC Archer,8,9,1.0,0.0,0,0,0,13.0,88.88888888888889,HH Pandya,caught and bowled
+Rajasthan Royals,Mumbai Indians,1136581,2018-04-22,JC Buttler,6,8,0.0,0.0,0,0,0,10.0,75.0,JJ Bumrah,bowled
+Rajasthan Royals,Mumbai Indians,1136581,2018-04-22,K Gowtham,33,11,4.0,2.0,0,0,0,45.0,300.0,0,0
+Rajasthan Royals,Mumbai Indians,1136581,2018-04-22,RA Tripathi,9,9,1.0,0.0,0,0,0,14.0,100.0,KH Pandya,caught
+Rajasthan Royals,Mumbai Indians,1136581,2018-04-22,SV Samson,52,40,4.0,0.0,1,0,0,68.0,130.0,JJ Bumrah,caught

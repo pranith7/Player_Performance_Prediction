@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Kolkata Knight Riders,1136565,2018-04-10,AT Rayudu,39,26,3.0,2.0,0,0,0,50.0,150.0,Kuldeep Yadav,caught
+Chennai Super Kings,Kolkata Knight Riders,1136565,2018-04-10,DJ Bravo,11,5,0.0,1.0,0,0,0,17.0,220.00000000000003,0,0
+Chennai Super Kings,Kolkata Knight Riders,1136565,2018-04-10,MS Dhoni,25,30,1.0,1.0,0,0,0,32.0,83.33333333333334,PP Chawla,caught
+Chennai Super Kings,Kolkata Knight Riders,1136565,2018-04-10,RA Jadeja,11,8,0.0,1.0,0,0,0,17.0,137.5,0,0
+Chennai Super Kings,Kolkata Knight Riders,1136565,2018-04-10,SK Raina,14,12,0.0,1.0,0,0,0,20.0,116.66666666666669,SP Narine,caught
+Chennai Super Kings,Kolkata Knight Riders,1136565,2018-04-10,SR Watson,42,19,3.0,3.0,0,0,0,55.0,221.0526315789474,TK Curran,caught
+Chennai Super Kings,Kolkata Knight Riders,1136565,2018-04-10,SW Billings,56,23,2.0,5.0,1,0,0,80.0,243.47826086956525,TK Curran,caught
+Kolkata Knight Riders,Chennai Super Kings,1136565,2018-04-10,AD Russell,88,36,1.0,11.0,1,0,0,123.0,244.44444444444449,0,0
+Kolkata Knight Riders,Chennai Super Kings,1136565,2018-04-10,CA Lynn,22,16,4.0,0.0,0,0,0,30.0,137.5,RA Jadeja,bowled
+Kolkata Knight Riders,Chennai Super Kings,1136565,2018-04-10,KD Karthik,26,26,2.0,1.0,0,0,0,34.0,100.0,SR Watson,lbw
+Kolkata Knight Riders,Chennai Super Kings,1136565,2018-04-10,N Rana,16,14,2.0,0.0,0,0,0,22.0,114.28571428571428,SR Watson,caught
+Kolkata Knight Riders,Chennai Super Kings,1136565,2018-04-10,RK Singh,2,4,0.0,0.0,0,0,0,6.0,50.0,SN Thakur,caught
+Kolkata Knight Riders,Chennai Super Kings,1136565,2018-04-10,RV Uthappa,29,17,2.0,3.0,0,0,0,41.0,170.58823529411765,SR Watson,run out
+Kolkata Knight Riders,Chennai Super Kings,1136565,2018-04-10,SP Narine,12,5,0.0,2.0,0,0,0,20.0,240.0,Harbhajan Singh,caught
+Kolkata Knight Riders,Chennai Super Kings,1136565,2018-04-10,TK Curran,2,5,0.0,0.0,0,0,0,6.0,40.0,0,0

@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Rajasthan Royals,Royal Challengers Bangalore,1304059,2022-04-05,D Padikkal,37,30,2.0,2.0,0,0,0,47.0,123.33333333333334,HV Patel,caught
+Rajasthan Royals,Royal Challengers Bangalore,1304059,2022-04-05,JC Buttler,70,49,0.0,6.0,1,0,0,94.0,142.85714285714286,0,0
+Rajasthan Royals,Royal Challengers Bangalore,1304059,2022-04-05,SO Hetmyer,42,32,4.0,2.0,0,0,0,54.0,131.25,0,0
+Rajasthan Royals,Royal Challengers Bangalore,1304059,2022-04-05,SV Samson,8,8,0.0,1.0,0,0,0,14.0,100.0,PWH de Silva,caught and bowled
+Rajasthan Royals,Royal Challengers Bangalore,1304059,2022-04-05,YBK Jaiswal,4,6,0.0,0.0,0,0,0,8.0,66.66666666666666,DJ Willey,bowled
+Royal Challengers Bangalore,Rajasthan Royals,1304059,2022-04-05,Anuj Rawat,26,26,4.0,0.0,0,0,0,34.0,100.0,NA Saini,caught
+Royal Challengers Bangalore,Rajasthan Royals,1304059,2022-04-05,DJ Willey,0,2,0.0,0.0,0,0,1,2.0,0.0,YS Chahal,bowled
+Royal Challengers Bangalore,Rajasthan Royals,1304059,2022-04-05,F du Plessis,29,20,5.0,0.0,0,0,0,38.0,145.0,YS Chahal,caught
+Royal Challengers Bangalore,Rajasthan Royals,1304059,2022-04-05,HV Patel,9,4,0.0,1.0,0,0,0,15.0,225.0,0,0
+Royal Challengers Bangalore,Rajasthan Royals,1304059,2022-04-05,KD Karthik,44,24,7.0,1.0,0,0,0,57.0,183.3333333333333,0,0
+Royal Challengers Bangalore,Rajasthan Royals,1304059,2022-04-05,SE Rutherford,5,12,0.0,0.0,0,0,0,9.0,41.66666666666667,TA Boult,caught
+Royal Challengers Bangalore,Rajasthan Royals,1304059,2022-04-05,Shahbaz Ahmed,45,28,4.0,3.0,0,0,0,59.0,160.71428571428572,TA Boult,bowled
+Royal Challengers Bangalore,Rajasthan Royals,1304059,2022-04-05,V Kohli,5,6,0.0,0.0,0,0,0,9.0,83.33333333333334,YS Chahal,run out

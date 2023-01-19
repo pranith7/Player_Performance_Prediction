@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Kings XI Punjab,829725,2015-04-15,AD Mathews,6,4,1.0,0.0,0,0,0,11.0,150.0,0,0
+Delhi Daredevils,Kings XI Punjab,829725,2015-04-15,JP Duminy,21,19,3.0,0.0,0,0,0,28.0,110.5263157894737,AR Patel,run out
+Delhi Daredevils,Kings XI Punjab,829725,2015-04-15,KM Jadhav,3,5,0.0,0.0,0,0,0,7.0,60.0,AR Patel,caught
+Delhi Daredevils,Kings XI Punjab,829725,2015-04-15,MA Agarwal,68,51,7.0,2.0,1,0,0,91.0,133.33333333333331,Anureet Singh,bowled
+Delhi Daredevils,Kings XI Punjab,829725,2015-04-15,SS Iyer,6,7,1.0,0.0,0,0,0,11.0,85.71428571428571,Sandeep Sharma,caught
+Delhi Daredevils,Kings XI Punjab,829725,2015-04-15,Yuvraj Singh,54,41,5.0,3.0,1,0,0,77.0,131.70731707317074,Anureet Singh,caught
+Kings XI Punjab,Delhi Daredevils,829725,2015-04-15,AR Patel,13,10,0.0,1.0,0,0,0,19.0,130.0,Imran Tahir,caught
+Kings XI Punjab,Delhi Daredevils,829725,2015-04-15,DA Miller,5,8,0.0,0.0,0,0,0,9.0,62.5,JP Duminy,bowled
+Kings XI Punjab,Delhi Daredevils,829725,2015-04-15,GJ Bailey,19,11,1.0,1.0,0,0,0,26.0,172.72727272727272,Imran Tahir,caught
+Kings XI Punjab,Delhi Daredevils,829725,2015-04-15,GJ Maxwell,15,5,0.0,2.0,0,0,0,23.0,300.0,Imran Tahir,caught
+Kings XI Punjab,Delhi Daredevils,829725,2015-04-15,M Vijay,19,18,2.0,1.0,0,0,0,27.0,105.55555555555556,AD Mathews,caught
+Kings XI Punjab,Delhi Daredevils,829725,2015-04-15,V Sehwag,47,44,4.0,2.0,0,0,0,59.0,106.8181818181818,JP Duminy,caught
+Kings XI Punjab,Delhi Daredevils,829725,2015-04-15,WP Saha,39,30,0.0,3.0,0,0,0,49.0,130.0,A Mishra,bowled

@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Kolkata Knight Riders,548368,2012-05-14,DJ Bravo,11,7,0.0,1.0,0,0,0,17.0,157.14285714285714,0,0
+Chennai Super Kings,Kolkata Knight Riders,548368,2012-05-14,F du Plessis,13,16,0.0,0.0,0,0,0,17.0,81.25,R Bhatia,caught
+Chennai Super Kings,Kolkata Knight Riders,548368,2012-05-14,M Vijay,36,25,5.0,1.0,0,0,0,47.0,144.0,SP Narine,bowled
+Chennai Super Kings,Kolkata Knight Riders,548368,2012-05-14,MEK Hussey,56,40,4.0,4.0,1,0,0,80.0,140.0,SP Narine,caught
+Chennai Super Kings,Kolkata Knight Riders,548368,2012-05-14,MS Dhoni,28,21,3.0,1.0,0,0,0,37.0,133.33333333333331,R Bhatia,bowled
+Chennai Super Kings,Kolkata Knight Riders,548368,2012-05-14,RA Jadeja,3,2,0.0,0.0,0,0,0,7.0,150.0,0,0
+Chennai Super Kings,Kolkata Knight Riders,548368,2012-05-14,SK Raina,8,10,1.0,0.0,0,0,0,13.0,80.0,L Balaji,run out
+Kolkata Knight Riders,Chennai Super Kings,548368,2012-05-14,BB McCullum,37,29,4.0,1.0,0,0,0,47.0,127.58620689655172,DJ Bravo,run out
+Kolkata Knight Riders,Chennai Super Kings,548368,2012-05-14,DB Das,19,11,2.0,1.0,0,0,0,27.0,172.72727272727272,0,0
+Kolkata Knight Riders,Chennai Super Kings,548368,2012-05-14,G Gambhir,62,43,6.0,3.0,1,0,0,86.0,144.1860465116279,SB Jakati,bowled
+Kolkata Knight Riders,Chennai Super Kings,548368,2012-05-14,JH Kallis,4,9,0.0,0.0,0,0,0,8.0,44.44444444444444,SB Jakati,caught
+Kolkata Knight Riders,Chennai Super Kings,548368,2012-05-14,LR Shukla,9,6,0.0,1.0,0,0,0,15.0,150.0,BW Hilfenhaus,caught
+Kolkata Knight Riders,Chennai Super Kings,548368,2012-05-14,MK Tiwary,12,14,1.0,0.0,0,0,0,17.0,85.71428571428571,RA Jadeja,caught
+Kolkata Knight Riders,Chennai Super Kings,548368,2012-05-14,R Bhatia,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Kolkata Knight Riders,Chennai Super Kings,548368,2012-05-14,YK Pathan,11,8,0.0,1.0,0,0,0,17.0,137.5,R Ashwin,caught

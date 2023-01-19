@@ -1,0 +1,20 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Capitals,Gujarat Titans,1304056,2022-04-02,AR Patel,8,4,2.0,0.0,0,0,0,14.0,200.0,LH Ferguson,caught
+Delhi Capitals,Gujarat Titans,1304056,2022-04-02,KK Ahmed,0,1,0.0,0.0,0,0,1,2.0,0.0,Mohammed Shami,caught
+Delhi Capitals,Gujarat Titans,1304056,2022-04-02,Kuldeep Yadav,14,14,0.0,1.0,0,0,0,20.0,100.0,0,0
+Delhi Capitals,Gujarat Titans,1304056,2022-04-02,Lalit Yadav,25,22,2.0,1.0,0,0,0,33.0,113.63636363636364,V Shankar,run out
+Delhi Capitals,Gujarat Titans,1304056,2022-04-02,Mandeep Singh,18,17,4.0,0.0,0,0,0,26.0,105.88235294117648,LH Ferguson,caught
+Delhi Capitals,Gujarat Titans,1304056,2022-04-02,Mustafizur Rahman,3,5,0.0,0.0,0,0,0,7.0,60.0,0,0
+Delhi Capitals,Gujarat Titans,1304056,2022-04-02,PP Shaw,10,7,1.0,0.0,0,0,0,15.0,142.85714285714286,LH Ferguson,caught
+Delhi Capitals,Gujarat Titans,1304056,2022-04-02,R Powell,20,12,2.0,1.0,0,0,0,28.0,166.66666666666669,Mohammed Shami,lbw
+Delhi Capitals,Gujarat Titans,1304056,2022-04-02,RR Pant,43,30,7.0,0.0,0,0,0,54.0,143.33333333333334,LH Ferguson,caught
+Delhi Capitals,Gujarat Titans,1304056,2022-04-02,SN Thakur,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,Rashid Khan,lbw
+Delhi Capitals,Gujarat Titans,1304056,2022-04-02,TL Seifert,3,5,0.0,0.0,0,0,0,7.0,60.0,HH Pandya,caught
+Gujarat Titans,Delhi Capitals,1304056,2022-04-02,A Manohar,1,2,0.0,0.0,0,0,0,5.0,50.0,Mustafizur Rahman,caught
+Gujarat Titans,Delhi Capitals,1304056,2022-04-02,DA Miller,20,15,2.0,0.0,0,0,0,26.0,133.33333333333331,0,0
+Gujarat Titans,Delhi Capitals,1304056,2022-04-02,HH Pandya,31,27,4.0,0.0,0,0,0,39.0,114.8148148148148,KK Ahmed,caught
+Gujarat Titans,Delhi Capitals,1304056,2022-04-02,MS Wade,1,2,0.0,0.0,0,0,0,5.0,50.0,Mustafizur Rahman,caught
+Gujarat Titans,Delhi Capitals,1304056,2022-04-02,R Tewatia,14,9,1.0,1.0,0,0,0,21.0,155.55555555555557,Mustafizur Rahman,caught
+Gujarat Titans,Delhi Capitals,1304056,2022-04-02,Rashid Khan,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Gujarat Titans,Delhi Capitals,1304056,2022-04-02,Shubman Gill,84,48,6.0,4.0,1,0,0,110.0,175.0,KK Ahmed,caught
+Gujarat Titans,Delhi Capitals,1304056,2022-04-02,V Shankar,13,20,1.0,0.0,0,0,0,18.0,65.0,Kuldeep Yadav,bowled

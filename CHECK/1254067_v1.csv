@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Royal Challengers Bangalore,1254067,2021-04-18,AD Russell,31,21,3.0,2.0,0,0,0,42.0,147.61904761904762,HV Patel,bowled
+Kolkata Knight Riders,Royal Challengers Bangalore,1254067,2021-04-18,CV Varun,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,0,0
+Kolkata Knight Riders,Royal Challengers Bangalore,1254067,2021-04-18,EJG Morgan,29,24,1.0,2.0,0,0,0,38.0,120.83333333333331,HV Patel,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,1254067,2021-04-18,Harbhajan Singh,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Kolkata Knight Riders,Royal Challengers Bangalore,1254067,2021-04-18,KD Karthik,2,5,0.0,0.0,0,0,0,6.0,40.0,YS Chahal,lbw
+Kolkata Knight Riders,Royal Challengers Bangalore,1254067,2021-04-18,N Rana,18,11,2.0,1.0,0,0,0,26.0,163.63636363636363,YS Chahal,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,1254067,2021-04-18,PJ Cummins,6,2,0.0,1.0,0,0,0,12.0,300.0,KA Jamieson,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,1254067,2021-04-18,RA Tripathi,25,20,5.0,0.0,0,0,0,34.0,125.0,Washington Sundar,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,1254067,2021-04-18,Shakib Al Hasan,26,25,1.0,1.0,0,0,0,33.0,104.0,KA Jamieson,bowled
+Kolkata Knight Riders,Royal Challengers Bangalore,1254067,2021-04-18,Shubman Gill,21,10,2.0,2.0,0,0,0,31.0,210.0,KA Jamieson,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,1254067,2021-04-18,AB de Villiers,76,36,9.0,3.0,1,0,0,103.0,211.11111111111111,0,0
+Royal Challengers Bangalore,Kolkata Knight Riders,1254067,2021-04-18,D Padikkal,25,29,2.0,0.0,0,0,0,31.0,86.20689655172413,M Prasidh Krishna,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,1254067,2021-04-18,GJ Maxwell,78,51,9.0,3.0,1,0,0,105.0,152.94117647058823,PJ Cummins,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,1254067,2021-04-18,KA Jamieson,11,4,1.0,1.0,0,0,0,18.0,275.0,0,0
+Royal Challengers Bangalore,Kolkata Knight Riders,1254067,2021-04-18,RM Patidar,1,2,0.0,0.0,0,0,0,5.0,50.0,CV Varun,bowled
+Royal Challengers Bangalore,Kolkata Knight Riders,1254067,2021-04-18,V Kohli,5,6,1.0,0.0,0,0,0,10.0,83.33333333333334,CV Varun,caught

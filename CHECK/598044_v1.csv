@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Sunrisers Hyderabad,598044,2013-05-04,A Nehra,0,1,0.0,0.0,0,0,1,2.0,0.0,NLTC Perera,bowled
+Delhi Daredevils,Sunrisers Hyderabad,598044,2013-05-04,BMAJ Mendis,11,9,0.0,0.0,0,0,0,15.0,122.22222222222224,DJG Sammy,caught
+Delhi Daredevils,Sunrisers Hyderabad,598044,2013-05-04,DA Warner,8,15,0.0,0.0,0,0,0,12.0,53.333333333333336,A Mishra,stumped
+Delhi Daredevils,Sunrisers Hyderabad,598044,2013-05-04,DPMD Jayawardene,11,12,1.0,1.0,0,0,0,18.0,91.66666666666666,I Sharma,lbw
+Delhi Daredevils,Sunrisers Hyderabad,598044,2013-05-04,IK Pathan,13,19,0.0,0.0,0,0,0,17.0,68.42105263157895,DW Steyn,bowled
+Delhi Daredevils,Sunrisers Hyderabad,598044,2013-05-04,J Botha,1,7,0.0,0.0,0,0,0,5.0,14.285714285714285,NLTC Perera,caught
+Delhi Daredevils,Sunrisers Hyderabad,598044,2013-05-04,KM Jadhav,3,4,0.0,0.0,0,0,0,7.0,75.0,KV Sharma,caught and bowled
+Delhi Daredevils,Sunrisers Hyderabad,598044,2013-05-04,S Nadeem,0,3,0.0,0.0,0,0,1,2.0,0.0,DJG Sammy,run out
+Delhi Daredevils,Sunrisers Hyderabad,598044,2013-05-04,UBT Chand,17,25,3.0,0.0,0,0,0,24.0,68.0,DW Steyn,bowled
+Delhi Daredevils,Sunrisers Hyderabad,598044,2013-05-04,UT Yadav,2,5,0.0,0.0,0,0,0,6.0,40.0,0,0
+Delhi Daredevils,Sunrisers Hyderabad,598044,2013-05-04,V Sehwag,8,17,0.0,0.0,0,0,0,12.0,47.05882352941176,DJG Sammy,bowled
+Sunrisers Hyderabad,Delhi Daredevils,598044,2013-05-04,A Ashish Reddy,5,7,1.0,0.0,0,0,0,10.0,71.42857142857143,A Nehra,caught
+Sunrisers Hyderabad,Delhi Daredevils,598044,2013-05-04,DJG Sammy,18,20,0.0,1.0,0,0,0,24.0,90.0,0,0
+Sunrisers Hyderabad,Delhi Daredevils,598044,2013-05-04,GH Vihari,11,11,2.0,0.0,0,0,0,17.0,100.0,0,0
+Sunrisers Hyderabad,Delhi Daredevils,598044,2013-05-04,KC Sangakkara,8,14,0.0,0.0,0,0,0,12.0,57.14285714285714,J Botha,caught
+Sunrisers Hyderabad,Delhi Daredevils,598044,2013-05-04,PA Patel,14,18,1.0,0.0,0,0,0,19.0,77.77777777777779,BMAJ Mendis,stumped
+Sunrisers Hyderabad,Delhi Daredevils,598044,2013-05-04,S Dhawan,22,16,4.0,0.0,0,0,0,30.0,137.5,J Botha,lbw

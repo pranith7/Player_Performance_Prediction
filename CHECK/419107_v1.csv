@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Rajasthan Royals,419107,2010-03-13,AP Tare,23,16,3.0,1.0,0,0,0,32.0,143.75,AD Mascarenhas,caught
+Mumbai Indians,Rajasthan Royals,419107,2010-03-13,AT Rayudu,55,34,6.0,2.0,1,0,0,77.0,161.76470588235296,A Uniyal,caught
+Mumbai Indians,Rajasthan Royals,419107,2010-03-13,Harbhajan Singh,8,6,1.0,0.0,0,0,0,13.0,133.33333333333331,SW Tait,retired hurt
+Mumbai Indians,Rajasthan Royals,419107,2010-03-13,R McLaren,11,5,2.0,0.0,0,0,0,17.0,220.00000000000003,0,0
+Mumbai Indians,Rajasthan Royals,419107,2010-03-13,R Sathish,6,6,1.0,0.0,0,0,0,11.0,100.0,A Uniyal,run out
+Mumbai Indians,Rajasthan Royals,419107,2010-03-13,SR Tendulkar,17,13,3.0,0.0,0,0,0,24.0,130.76923076923077,AD Mascarenhas,lbw
+Mumbai Indians,Rajasthan Royals,419107,2010-03-13,SS Tiwary,53,34,4.0,2.0,1,0,0,73.0,155.88235294117646,SW Tait,caught
+Mumbai Indians,Rajasthan Royals,419107,2010-03-13,ST Jayasuriya,23,15,3.0,1.0,0,0,0,32.0,153.33333333333334,A Uniyal,lbw
+Rajasthan Royals,Mumbai Indians,419107,2010-03-13,A Uniyal,0,1,0.0,0.0,0,0,1,2.0,0.0,SL Malinga,bowled
+Rajasthan Royals,Mumbai Indians,419107,2010-03-13,AA Jhunjhunwala,14,11,1.0,1.0,0,0,0,21.0,127.27272727272728,SL Malinga,bowled
+Rajasthan Royals,Mumbai Indians,419107,2010-03-13,AD Mascarenhas,9,8,0.0,0.0,0,0,0,13.0,112.5,0,0
+Rajasthan Royals,Mumbai Indians,419107,2010-03-13,GC Smith,26,22,4.0,0.0,0,0,0,34.0,118.1818181818182,R Sathish,caught and bowled
+Rajasthan Royals,Mumbai Indians,419107,2010-03-13,NV Ojha,12,12,2.0,0.0,0,0,0,18.0,100.0,AG Murtaza,caught
+Rajasthan Royals,Mumbai Indians,419107,2010-03-13,P Dogra,41,30,2.0,2.0,0,0,0,51.0,136.66666666666666,SL Malinga,run out
+Rajasthan Royals,Mumbai Indians,419107,2010-03-13,SK Warne,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Rajasthan Royals,Mumbai Indians,419107,2010-03-13,YK Pathan,100,40,9.0,8.0,1,1,0,153.0,250.0,R Sathish,run out

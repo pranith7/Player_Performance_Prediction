@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Rising Pune Supergiant,1082650,2017-05-21,AT Rayudu,12,16,1.0,0.0,0,0,0,17.0,75.0,LH Ferguson,run out
+Mumbai Indians,Rising Pune Supergiant,1082650,2017-05-21,HH Pandya,10,9,0.0,1.0,0,0,0,16.0,111.11111111111111,DT Christian,lbw
+Mumbai Indians,Rising Pune Supergiant,1082650,2017-05-21,KA Pollard,7,3,0.0,1.0,0,0,0,13.0,233.3333333333333,A Zampa,caught
+Mumbai Indians,Rising Pune Supergiant,1082650,2017-05-21,KH Pandya,47,41,3.0,2.0,0,0,0,58.0,114.6341463414634,DT Christian,caught
+Mumbai Indians,Rising Pune Supergiant,1082650,2017-05-21,KV Sharma,1,5,0.0,0.0,0,0,0,5.0,20.0,SN Thakur,run out
+Mumbai Indians,Rising Pune Supergiant,1082650,2017-05-21,LMP Simmons,3,8,0.0,0.0,0,0,0,7.0,37.5,JD Unadkat,caught and bowled
+Mumbai Indians,Rising Pune Supergiant,1082650,2017-05-21,MG Johnson,13,14,0.0,1.0,0,0,0,19.0,92.85714285714286,0,0
+Mumbai Indians,Rising Pune Supergiant,1082650,2017-05-21,PA Patel,4,6,0.0,0.0,0,0,0,8.0,66.66666666666666,JD Unadkat,caught
+Mumbai Indians,Rising Pune Supergiant,1082650,2017-05-21,RG Sharma,24,23,4.0,0.0,0,0,0,32.0,104.34782608695652,A Zampa,caught
+Rising Pune Supergiant,Mumbai Indians,1082650,2017-05-21,AM Rahane,44,38,5.0,0.0,0,0,0,53.0,115.78947368421052,MG Johnson,caught
+Rising Pune Supergiant,Mumbai Indians,1082650,2017-05-21,DT Christian,4,2,0.0,0.0,0,0,0,8.0,200.0,0,0
+Rising Pune Supergiant,Mumbai Indians,1082650,2017-05-21,MK Tiwary,7,8,1.0,0.0,0,0,0,12.0,87.5,MG Johnson,caught
+Rising Pune Supergiant,Mumbai Indians,1082650,2017-05-21,MS Dhoni,10,13,1.0,0.0,0,0,0,15.0,76.92307692307693,JJ Bumrah,caught
+Rising Pune Supergiant,Mumbai Indians,1082650,2017-05-21,RA Tripathi,3,8,0.0,0.0,0,0,0,7.0,37.5,JJ Bumrah,lbw
+Rising Pune Supergiant,Mumbai Indians,1082650,2017-05-21,SPD Smith,51,53,2.0,2.0,1,0,0,69.0,96.22641509433964,MG Johnson,caught
+Rising Pune Supergiant,Mumbai Indians,1082650,2017-05-21,Washington Sundar,0,1,0.0,0.0,0,0,1,2.0,0.0,MG Johnson,run out

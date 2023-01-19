@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Sunrisers Hyderabad,1216542,2020-10-08,Arshdeep Singh,0,3,0.0,0.0,0,0,1,2.0,0.0,T Natarajan,caught
+Kings XI Punjab,Sunrisers Hyderabad,1216542,2020-10-08,GJ Maxwell,7,13,0.0,0.0,0,0,0,11.0,53.84615384615385,T Natarajan,run out
+Kings XI Punjab,Sunrisers Hyderabad,1216542,2020-10-08,KL Rahul,11,16,0.0,0.0,0,0,0,15.0,68.75,Abhishek Sharma,caught
+Kings XI Punjab,Sunrisers Hyderabad,1216542,2020-10-08,MA Agarwal,9,6,1.0,0.0,0,0,0,14.0,150.0,KK Ahmed,run out
+Kings XI Punjab,Sunrisers Hyderabad,1216542,2020-10-08,Mandeep Singh,6,7,0.0,0.0,0,0,0,10.0,85.71428571428571,Rashid Khan,bowled
+Kings XI Punjab,Sunrisers Hyderabad,1216542,2020-10-08,Mohammed Shami,0,1,0.0,0.0,0,0,1,2.0,0.0,Rashid Khan,lbw
+Kings XI Punjab,Sunrisers Hyderabad,1216542,2020-10-08,Mujeeb Ur Rahman,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,KK Ahmed,caught
+Kings XI Punjab,Sunrisers Hyderabad,1216542,2020-10-08,N Pooran,77,37,5.0,7.0,1,0,0,108.0,208.10810810810813,Rashid Khan,caught
+Kings XI Punjab,Sunrisers Hyderabad,1216542,2020-10-08,P Simran Singh,11,8,2.0,0.0,0,0,0,17.0,137.5,KK Ahmed,caught
+Kings XI Punjab,Sunrisers Hyderabad,1216542,2020-10-08,Ravi Bishnoi,6,7,1.0,0.0,0,0,0,11.0,85.71428571428571,0,0
+Kings XI Punjab,Sunrisers Hyderabad,1216542,2020-10-08,SS Cottrell,0,2,0.0,0.0,0,0,1,2.0,0.0,T Natarajan,bowled
+Sunrisers Hyderabad,Kings XI Punjab,1216542,2020-10-08,Abdul Samad,8,7,1.0,0.0,0,0,0,13.0,114.28571428571428,Ravi Bishnoi,caught
+Sunrisers Hyderabad,Kings XI Punjab,1216542,2020-10-08,Abhishek Sharma,12,6,1.0,1.0,0,0,0,19.0,200.0,Mohammed Shami,caught
+Sunrisers Hyderabad,Kings XI Punjab,1216542,2020-10-08,DA Warner,52,42,5.0,1.0,1,0,0,71.0,123.8095238095238,Ravi Bishnoi,caught
+Sunrisers Hyderabad,Kings XI Punjab,1216542,2020-10-08,JM Bairstow,97,57,7.0,6.0,1,0,0,128.0,170.17543859649123,Ravi Bishnoi,lbw
+Sunrisers Hyderabad,Kings XI Punjab,1216542,2020-10-08,KS Williamson,20,10,1.0,1.0,0,0,0,27.0,200.0,0,0
+Sunrisers Hyderabad,Kings XI Punjab,1216542,2020-10-08,MK Pandey,1,2,0.0,0.0,0,0,0,5.0,50.0,Arshdeep Singh,caught and bowled
+Sunrisers Hyderabad,Kings XI Punjab,1216542,2020-10-08,PK Garg,0,1,0.0,0.0,0,0,1,2.0,0.0,Arshdeep Singh,caught

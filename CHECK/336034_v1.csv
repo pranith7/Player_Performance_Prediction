@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Royal Challengers Bangalore,336034,2008-05-03,AC Gilchrist,10,12,2.0,0.0,0,0,0,16.0,83.33333333333334,Z Khan,caught
+Deccan Chargers,Royal Challengers Bangalore,336034,2008-05-03,AS Yadav,3,4,0.0,0.0,0,0,0,7.0,75.0,0,0
+Deccan Chargers,Royal Challengers Bangalore,336034,2008-05-03,HH Gibbs,5,7,1.0,0.0,0,0,0,10.0,71.42857142857143,P Kumar,caught
+Deccan Chargers,Royal Challengers Bangalore,336034,2008-05-03,RG Sharma,57,43,5.0,3.0,1,0,0,80.0,132.5581395348837,JH Kallis,caught
+Deccan Chargers,Royal Challengers Bangalore,336034,2008-05-03,SB Bangar,17,7,0.0,2.0,0,0,0,25.0,242.85714285714283,0,0
+Deccan Chargers,Royal Challengers Bangalore,336034,2008-05-03,SB Styris,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,Z Khan,lbw
+Deccan Chargers,Royal Challengers Bangalore,336034,2008-05-03,Shahid Afridi,1,2,0.0,0.0,0,0,0,5.0,50.0,P Kumar,caught
+Deccan Chargers,Royal Challengers Bangalore,336034,2008-05-03,VVS Laxman,52,44,7.0,0.0,1,0,0,71.0,118.1818181818182,P Kumar,lbw
+Royal Challengers Bangalore,Deccan Chargers,336034,2008-05-03,B Chipli,10,7,2.0,0.0,0,0,0,16.0,142.85714285714286,RP Singh,bowled
+Royal Challengers Bangalore,Deccan Chargers,336034,2008-05-03,JH Kallis,6,5,1.0,0.0,0,0,0,11.0,120.0,PP Ojha,bowled
+Royal Challengers Bangalore,Deccan Chargers,336034,2008-05-03,MV Boucher,16,14,2.0,0.0,0,0,0,22.0,114.28571428571428,RP Singh,bowled
+Royal Challengers Bangalore,Deccan Chargers,336034,2008-05-03,Misbah-ul-Haq,3,5,0.0,0.0,0,0,0,7.0,60.0,Shahid Afridi,lbw
+Royal Challengers Bangalore,Deccan Chargers,336034,2008-05-03,P Kumar,8,4,2.0,0.0,0,0,0,14.0,200.0,SB Styris,run out
+Royal Challengers Bangalore,Deccan Chargers,336034,2008-05-03,R Dravid,26,19,1.0,2.0,0,0,0,35.0,136.8421052631579,SB Styris,caught
+Royal Challengers Bangalore,Deccan Chargers,336034,2008-05-03,V Kohli,38,31,1.0,2.0,0,0,0,47.0,122.58064516129032,RP Singh,caught
+Royal Challengers Bangalore,Deccan Chargers,336034,2008-05-03,W Jaffer,44,37,6.0,0.0,0,0,0,54.0,118.91891891891892,PP Ojha,caught

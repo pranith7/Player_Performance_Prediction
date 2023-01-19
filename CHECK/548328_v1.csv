@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Kolkata Knight Riders,548328,2012-04-18,AC Gilchrist,40,30,3.0,1.0,0,0,0,49.0,133.33333333333331,0,0
+Kings XI Punjab,Kolkata Knight Riders,548328,2012-04-18,AD Mascarenhas,9,10,1.0,0.0,0,0,0,14.0,90.0,R Bhatia,caught
+Kings XI Punjab,Kolkata Knight Riders,548328,2012-04-18,DJ Hussey,10,14,0.0,0.0,0,0,0,14.0,71.42857142857143,R Bhatia,run out
+Kings XI Punjab,Kolkata Knight Riders,548328,2012-04-18,Mandeep Singh,6,10,0.0,0.0,0,0,0,10.0,60.0,L Balaji,caught
+Kings XI Punjab,Kolkata Knight Riders,548328,2012-04-18,P Dogra,6,9,0.0,0.0,0,0,0,10.0,66.66666666666666,SP Narine,caught
+Kings XI Punjab,Kolkata Knight Riders,548328,2012-04-18,PC Valthaty,8,9,1.0,0.0,0,0,0,13.0,88.88888888888889,B Lee,caught
+Kings XI Punjab,Kolkata Knight Riders,548328,2012-04-18,PP Chawla,9,10,0.0,0.0,0,0,0,13.0,90.0,SP Narine,bowled
+Kings XI Punjab,Kolkata Knight Riders,548328,2012-04-18,SE Marsh,33,30,4.0,0.0,0,0,0,41.0,110.0,B Lee,caught
+Kolkata Knight Riders,Kings XI Punjab,548328,2012-04-18,BB McCullum,15,18,3.0,0.0,0,0,0,22.0,83.33333333333334,PP Chawla,caught
+Kolkata Knight Riders,Kings XI Punjab,548328,2012-04-18,G Gambhir,66,44,7.0,1.0,1,0,0,87.0,150.0,0,0
+Kolkata Knight Riders,Kings XI Punjab,548328,2012-04-18,JH Kallis,30,23,2.0,1.0,0,0,0,38.0,130.43478260869566,0,0
+Kolkata Knight Riders,Kings XI Punjab,548328,2012-04-18,MS Bisla,11,15,0.0,1.0,0,0,0,17.0,73.33333333333333,PP Chawla,bowled

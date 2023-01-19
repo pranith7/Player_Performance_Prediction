@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Gujarat Lions,Sunrisers Hyderabad,980967,2016-05-06,AJ Finch,51,43,3.0,1.0,1,0,0,68.0,118.6046511627907,0,0
+Gujarat Lions,Sunrisers Hyderabad,980967,2016-05-06,BB McCullum,7,21,0.0,0.0,0,0,0,11.0,33.33333333333333,MC Henriques,caught
+Gujarat Lions,Sunrisers Hyderabad,980967,2016-05-06,DJ Bravo,18,22,1.0,0.0,0,0,0,23.0,81.81818181818183,BB Sran,caught
+Gujarat Lions,Sunrisers Hyderabad,980967,2016-05-06,DR Smith,1,9,0.0,0.0,0,0,0,5.0,11.11111111111111,B Kumar,caught
+Gujarat Lions,Sunrisers Hyderabad,980967,2016-05-06,KD Karthik,0,3,0.0,0.0,0,0,1,2.0,0.0,Mustafizur Rahman,caught
+Gujarat Lions,Sunrisers Hyderabad,980967,2016-05-06,P Kumar,6,4,1.0,0.0,0,0,0,11.0,150.0,0,0
+Gujarat Lions,Sunrisers Hyderabad,980967,2016-05-06,RA Jadeja,18,13,2.0,0.0,0,0,0,24.0,138.46153846153845,Mustafizur Rahman,caught
+Gujarat Lions,Sunrisers Hyderabad,980967,2016-05-06,SK Raina,20,10,1.0,2.0,0,0,0,29.0,200.0,B Kumar,caught and bowled
+Sunrisers Hyderabad,Gujarat Lions,980967,2016-05-06,DA Warner,24,18,1.0,2.0,0,0,0,33.0,133.33333333333331,DS Kulkarni,caught
+Sunrisers Hyderabad,Gujarat Lions,980967,2016-05-06,DJ Hooda,18,12,2.0,0.0,0,0,0,24.0,150.0,DJ Bravo,caught
+Sunrisers Hyderabad,Gujarat Lions,980967,2016-05-06,KS Williamson,6,9,1.0,0.0,0,0,0,11.0,66.66666666666666,P Kumar,caught
+Sunrisers Hyderabad,Gujarat Lions,980967,2016-05-06,MC Henriques,14,17,2.0,0.0,0,0,0,20.0,82.35294117647058,DJ Bravo,caught
+Sunrisers Hyderabad,Gujarat Lions,980967,2016-05-06,NV Ojha,9,7,1.0,0.0,0,0,0,14.0,128.57142857142858,0,0
+Sunrisers Hyderabad,Gujarat Lions,980967,2016-05-06,S Dhawan,47,40,6.0,0.0,0,0,0,57.0,117.5,0,0
+Sunrisers Hyderabad,Gujarat Lions,980967,2016-05-06,Yuvraj Singh,5,14,0.0,0.0,0,0,0,9.0,35.714285714285715,DS Kulkarni,caught

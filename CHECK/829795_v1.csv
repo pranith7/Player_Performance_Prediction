@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Royal Challengers Bangalore,829795,2015-05-10,AT Rayudu,14,5,0.0,2.0,0,0,0,22.0,280.0,HV Patel,caught
+Mumbai Indians,Royal Challengers Bangalore,829795,2015-05-10,HH Pandya,8,4,0.0,1.0,0,0,0,14.0,200.0,YS Chahal,stumped
+Mumbai Indians,Royal Challengers Bangalore,829795,2015-05-10,Harbhajan Singh,3,3,0.0,0.0,0,0,0,7.0,100.0,MA Starc,caught
+Mumbai Indians,Royal Challengers Bangalore,829795,2015-05-10,J Suchith,4,4,0.0,0.0,0,0,0,8.0,100.0,YS Chahal,caught
+Mumbai Indians,Royal Challengers Bangalore,829795,2015-05-10,KA Pollard,49,24,6.0,2.0,0,0,0,63.0,204.16666666666663,S Aravind,caught
+Mumbai Indians,Royal Challengers Bangalore,829795,2015-05-10,LMP Simmons,68,53,5.0,3.0,1,0,0,91.0,128.30188679245282,0,0
+Mumbai Indians,Royal Challengers Bangalore,829795,2015-05-10,MJ McClenaghan,12,4,0.0,2.0,0,0,0,20.0,300.0,0,0
+Mumbai Indians,Royal Challengers Bangalore,829795,2015-05-10,PA Patel,19,12,3.0,0.0,0,0,0,26.0,158.33333333333331,S Aravind,run out
+Mumbai Indians,Royal Challengers Bangalore,829795,2015-05-10,RG Sharma,15,14,1.0,1.0,0,0,0,22.0,107.14285714285714,HV Patel,caught
+Royal Challengers Bangalore,Mumbai Indians,829795,2015-05-10,AB de Villiers,133,61,19.0,4.0,1,1,0,188.0,218.0327868852459,0,0
+Royal Challengers Bangalore,Mumbai Indians,829795,2015-05-10,CH Gayle,13,13,1.0,1.0,0,0,0,20.0,100.0,SL Malinga,caught
+Royal Challengers Bangalore,Mumbai Indians,829795,2015-05-10,V Kohli,82,51,6.0,4.0,1,0,0,108.0,160.7843137254902,0,0

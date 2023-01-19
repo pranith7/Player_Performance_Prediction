@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Pune Warriors,598025,2013-04-21,AC Gilchrist,4,3,1.0,0.0,0,0,0,9.0,133.33333333333331,B Kumar,caught
+Kings XI Punjab,Pune Warriors,598025,2013-04-21,Azhar Mahmood,0,4,0.0,0.0,0,0,1,2.0,0.0,BAW Mendis,lbw
+Kings XI Punjab,Pune Warriors,598025,2013-04-21,DA Miller,80,42,5.0,5.0,1,0,0,107.0,190.47619047619045,0,0
+Kings XI Punjab,Pune Warriors,598025,2013-04-21,M Vohra,22,13,3.0,0.0,0,0,0,29.0,169.23076923076923,Yuvraj Singh,bowled
+Kings XI Punjab,Pune Warriors,598025,2013-04-21,Mandeep Singh,77,58,7.0,0.0,1,0,0,96.0,132.75862068965515,0,0
+Pune Warriors,Kings XI Punjab,598025,2013-04-21,AJ Finch,64,43,8.0,2.0,1,0,0,88.0,148.8372093023256,MS Gony,caught
+Pune Warriors,Kings XI Punjab,598025,2013-04-21,AM Nayar,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Pune Warriors,Kings XI Punjab,598025,2013-04-21,LJ Wright,34,11,6.0,1.0,0,0,0,46.0,309.09090909090907,Azhar Mahmood,caught
+Pune Warriors,Kings XI Punjab,598025,2013-04-21,RV Uthappa,37,34,4.0,0.0,0,0,0,45.0,108.8235294117647,P Awana,caught
+Pune Warriors,Kings XI Punjab,598025,2013-04-21,SPD Smith,6,9,0.0,0.0,0,0,0,10.0,66.66666666666666,0,0
+Pune Warriors,Kings XI Punjab,598025,2013-04-21,Yuvraj Singh,34,25,2.0,3.0,0,0,0,46.0,136.0,Azhar Mahmood,caught

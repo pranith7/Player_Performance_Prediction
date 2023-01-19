@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Kolkata Knight Riders,829739,2015-04-20,A Mishra,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Delhi Daredevils,Kolkata Knight Riders,829739,2015-04-20,AD Mathews,28,22,1.0,2.0,0,0,0,37.0,127.27272727272728,UT Yadav,caught
+Delhi Daredevils,Kolkata Knight Riders,829739,2015-04-20,JP Duminy,5,8,1.0,0.0,0,0,0,10.0,62.5,SP Narine,bowled
+Delhi Daredevils,Kolkata Knight Riders,829739,2015-04-20,KM Jadhav,12,9,1.0,1.0,0,0,0,19.0,133.33333333333331,UT Yadav,caught
+Delhi Daredevils,Kolkata Knight Riders,829739,2015-04-20,MA Agarwal,1,10,0.0,0.0,0,0,0,5.0,10.0,M Morkel,caught
+Delhi Daredevils,Kolkata Knight Riders,829739,2015-04-20,MK Tiwary,32,29,5.0,0.0,0,0,0,41.0,110.34482758620688,M Morkel,caught
+Delhi Daredevils,Kolkata Knight Riders,829739,2015-04-20,NM Coulter-Nile,2,2,0.0,0.0,0,0,0,6.0,100.0,UT Yadav,run out
+Delhi Daredevils,Kolkata Knight Riders,829739,2015-04-20,SS Iyer,31,26,3.0,1.0,0,0,0,40.0,119.23076923076924,PP Chawla,bowled
+Delhi Daredevils,Kolkata Knight Riders,829739,2015-04-20,Yuvraj Singh,21,19,2.0,1.0,0,0,0,29.0,110.5263157894737,PP Chawla,stumped
+Kolkata Knight Riders,Delhi Daredevils,829739,2015-04-20,G Gambhir,60,50,8.0,0.0,1,0,0,80.0,120.0,Imran Tahir,bowled
+Kolkata Knight Riders,Delhi Daredevils,829739,2015-04-20,MK Pandey,0,3,0.0,0.0,0,0,1,2.0,0.0,DJ Muthuswami,caught
+Kolkata Knight Riders,Delhi Daredevils,829739,2015-04-20,RN ten Doeschate,3,2,0.0,0.0,0,0,0,7.0,150.0,0,0
+Kolkata Knight Riders,Delhi Daredevils,829739,2015-04-20,RV Uthappa,13,14,2.0,0.0,0,0,0,19.0,92.85714285714286,DJ Muthuswami,caught
+Kolkata Knight Riders,Delhi Daredevils,829739,2015-04-20,SA Yadav,24,17,2.0,1.0,0,0,0,32.0,141.1764705882353,NM Coulter-Nile,caught
+Kolkata Knight Riders,Delhi Daredevils,829739,2015-04-20,YK Pathan,40,26,6.0,1.0,0,0,0,52.0,153.84615384615387,0,0

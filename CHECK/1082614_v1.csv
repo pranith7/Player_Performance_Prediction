@@ -1,0 +1,20 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Mumbai Indians,1082614,2017-04-22,AP Tare,0,1,0.0,0.0,0,0,1,2.0,0.0,MG Johnson,run out
+Delhi Daredevils,Mumbai Indians,1082614,2017-04-22,CH Morris,52,42,5.0,1.0,1,0,0,71.0,123.8095238095238,0,0
+Delhi Daredevils,Mumbai Indians,1082614,2017-04-22,CJ Anderson,0,4,0.0,0.0,0,0,1,2.0,0.0,MJ McClenaghan,lbw
+Delhi Daredevils,Mumbai Indians,1082614,2017-04-22,K Rabada,44,42,4.0,1.0,0,0,0,54.0,104.76190476190476,JJ Bumrah,bowled
+Delhi Daredevils,Mumbai Indians,1082614,2017-04-22,KK Nair,5,15,0.0,0.0,0,0,0,9.0,33.33333333333333,HH Pandya,bowled
+Delhi Daredevils,Mumbai Indians,1082614,2017-04-22,PJ Cummins,4,5,0.0,0.0,0,0,0,8.0,80.0,0,0
+Delhi Daredevils,Mumbai Indians,1082614,2017-04-22,RR Pant,0,3,0.0,0.0,0,0,1,2.0,0.0,JJ Bumrah,caught
+Delhi Daredevils,Mumbai Indians,1082614,2017-04-22,SS Iyer,6,7,1.0,0.0,0,0,0,11.0,85.71428571428571,MJ McClenaghan,caught
+Delhi Daredevils,Mumbai Indians,1082614,2017-04-22,SV Samson,9,6,2.0,0.0,0,0,0,15.0,150.0,MJ McClenaghan,caught
+Mumbai Indians,Delhi Daredevils,1082614,2017-04-22,HH Pandya,24,23,0.0,2.0,0,0,0,32.0,104.34782608695652,CH Morris,run out
+Mumbai Indians,Delhi Daredevils,1082614,2017-04-22,Harbhajan Singh,2,2,0.0,0.0,0,0,0,6.0,100.0,K Rabada,run out
+Mumbai Indians,Delhi Daredevils,1082614,2017-04-22,JC Buttler,28,20,3.0,2.0,0,0,0,39.0,140.0,CH Morris,run out
+Mumbai Indians,Delhi Daredevils,1082614,2017-04-22,KA Pollard,26,31,4.0,0.0,0,0,0,34.0,83.87096774193549,PJ Cummins,caught
+Mumbai Indians,Delhi Daredevils,1082614,2017-04-22,KH Pandya,17,16,1.0,0.0,0,0,0,22.0,106.25,A Mishra,caught
+Mumbai Indians,Delhi Daredevils,1082614,2017-04-22,MG Johnson,7,3,1.0,0.0,0,0,0,12.0,233.3333333333333,0,0
+Mumbai Indians,Delhi Daredevils,1082614,2017-04-22,MJ McClenaghan,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Mumbai Indians,Delhi Daredevils,1082614,2017-04-22,N Rana,8,9,1.0,0.0,0,0,0,13.0,88.88888888888889,PJ Cummins,caught
+Mumbai Indians,Delhi Daredevils,1082614,2017-04-22,PA Patel,8,13,1.0,0.0,0,0,0,13.0,61.53846153846154,K Rabada,bowled
+Mumbai Indians,Delhi Daredevils,1082614,2017-04-22,RG Sharma,5,9,0.0,0.0,0,0,0,9.0,55.55555555555556,A Mishra,caught

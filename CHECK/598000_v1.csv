@@ -1,0 +1,20 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Pune Warriors,Sunrisers Hyderabad,598000,2013-04-05,AB Dinda,0,2,0.0,0.0,0,0,1,2.0,0.0,DW Steyn,caught
+Pune Warriors,Sunrisers Hyderabad,598000,2013-04-05,AD Mathews,8,6,1.0,0.0,0,0,0,13.0,133.33333333333331,0,0
+Pune Warriors,Sunrisers Hyderabad,598000,2013-04-05,AM Nayar,19,14,2.0,0.0,0,0,0,25.0,135.71428571428572,A Mishra,caught
+Pune Warriors,Sunrisers Hyderabad,598000,2013-04-05,B Kumar,3,3,0.0,0.0,0,0,0,7.0,100.0,DW Steyn,bowled
+Pune Warriors,Sunrisers Hyderabad,598000,2013-04-05,LRPL Taylor,19,19,0.0,0.0,0,0,0,23.0,100.0,A Ashish Reddy,bowled
+Pune Warriors,Sunrisers Hyderabad,598000,2013-04-05,MK Pandey,15,29,0.0,0.0,0,0,0,19.0,51.72413793103448,A Mishra,caught
+Pune Warriors,Sunrisers Hyderabad,598000,2013-04-05,MN Samuels,5,9,1.0,0.0,0,0,0,10.0,55.55555555555556,NLTC Perera,caught
+Pune Warriors,Sunrisers Hyderabad,598000,2013-04-05,MR Marsh,7,3,0.0,1.0,0,0,0,13.0,233.3333333333333,NLTC Perera,run out
+Pune Warriors,Sunrisers Hyderabad,598000,2013-04-05,R Sharma,0,1,0.0,0.0,0,0,1,2.0,0.0,DW Steyn,bowled
+Pune Warriors,Sunrisers Hyderabad,598000,2013-04-05,RV Uthappa,24,24,2.0,1.0,0,0,0,32.0,100.0,NLTC Perera,caught
+Pune Warriors,Sunrisers Hyderabad,598000,2013-04-05,Yuvraj Singh,2,5,0.0,0.0,0,0,0,6.0,40.0,A Mishra,stumped
+Sunrisers Hyderabad,Pune Warriors,598000,2013-04-05,A Ashish Reddy,7,4,1.0,0.0,0,0,0,12.0,175.0,0,0
+Sunrisers Hyderabad,Pune Warriors,598000,2013-04-05,CL White,10,18,0.0,0.0,0,0,0,14.0,55.55555555555556,MN Samuels,caught
+Sunrisers Hyderabad,Pune Warriors,598000,2013-04-05,DB Ravi Teja,4,4,0.0,0.0,0,0,0,8.0,100.0,0,0
+Sunrisers Hyderabad,Pune Warriors,598000,2013-04-05,GH Vihari,11,12,1.0,0.0,0,0,0,16.0,91.66666666666666,B Kumar,caught
+Sunrisers Hyderabad,Pune Warriors,598000,2013-04-05,KC Sangakkara,15,16,2.0,0.0,0,0,0,21.0,93.75,R Sharma,bowled
+Sunrisers Hyderabad,Pune Warriors,598000,2013-04-05,NLTC Perera,30,18,3.0,1.0,0,0,0,39.0,166.66666666666669,AB Dinda,caught
+Sunrisers Hyderabad,Pune Warriors,598000,2013-04-05,PA Patel,19,19,3.0,0.0,0,0,0,26.0,100.0,AB Dinda,bowled
+Sunrisers Hyderabad,Pune Warriors,598000,2013-04-05,PA Reddy,27,31,2.0,0.0,0,0,0,33.0,87.09677419354838,Yuvraj Singh,bowled

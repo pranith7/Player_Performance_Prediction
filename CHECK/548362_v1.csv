@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Pune Warriors,Royal Challengers Bangalore,548362,2012-05-11,AC Thomas,7,6,1.0,0.0,0,0,0,12.0,116.66666666666669,R Vinay Kumar,bowled
+Pune Warriors,Royal Challengers Bangalore,548362,2012-05-11,AD Mathews,4,10,0.0,0.0,0,0,0,8.0,40.0,KP Appanna,stumped
+Pune Warriors,Royal Challengers Bangalore,548362,2012-05-11,AP Majumdar,31,27,4.0,0.0,0,0,0,39.0,114.8148148148148,HV Patel,caught
+Pune Warriors,Royal Challengers Bangalore,548362,2012-05-11,B Kumar,2,4,0.0,0.0,0,0,0,6.0,50.0,M Muralitharan,bowled
+Pune Warriors,Royal Challengers Bangalore,548362,2012-05-11,K Upadhyay,11,8,0.0,1.0,0,0,0,17.0,137.5,0,0
+Pune Warriors,Royal Challengers Bangalore,548362,2012-05-11,MD Mishra,4,4,1.0,0.0,0,0,0,9.0,100.0,Z Khan,lbw
+Pune Warriors,Royal Challengers Bangalore,548362,2012-05-11,MJ Clarke,13,10,2.0,0.0,0,0,0,19.0,130.0,R Vinay Kumar,caught
+Pune Warriors,Royal Challengers Bangalore,548362,2012-05-11,MK Pandey,0,2,0.0,0.0,0,0,1,2.0,0.0,Z Khan,bowled
+Pune Warriors,Royal Challengers Bangalore,548362,2012-05-11,R Sharma,0,2,0.0,0.0,0,0,1,2.0,0.0,R Vinay Kumar,bowled
+Pune Warriors,Royal Challengers Bangalore,548362,2012-05-11,RV Uthappa,38,23,5.0,1.0,0,0,0,49.0,165.2173913043478,M Muralitharan,stumped
+Pune Warriors,Royal Challengers Bangalore,548362,2012-05-11,SPD Smith,24,25,1.0,0.0,0,0,0,29.0,96.0,0,0
+Royal Challengers Bangalore,Pune Warriors,548362,2012-05-11,AB de Villiers,9,4,0.0,1.0,0,0,0,15.0,225.0,0,0
+Royal Challengers Bangalore,Pune Warriors,548362,2012-05-11,CH Gayle,57,32,3.0,6.0,1,0,0,84.0,178.125,AD Mathews,caught
+Royal Challengers Bangalore,Pune Warriors,548362,2012-05-11,SS Tiwary,36,30,3.0,1.0,0,0,0,45.0,120.0,0,0
+Royal Challengers Bangalore,Pune Warriors,548362,2012-05-11,TM Dilshan,53,47,6.0,1.0,1,0,0,73.0,112.7659574468085,AC Thomas,run out
+Royal Challengers Bangalore,Pune Warriors,548362,2012-05-11,V Kohli,9,12,1.0,0.0,0,0,0,14.0,75.0,R Sharma,caught

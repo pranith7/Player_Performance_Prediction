@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Kings XI Punjab,392226,2009-05-15,A Nehra,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Delhi Daredevils,Kings XI Punjab,392226,2009-05-15,AB de Villiers,11,12,1.0,0.0,0,0,0,16.0,91.66666666666666,S Sreesanth,caught
+Delhi Daredevils,Kings XI Punjab,392226,2009-05-15,DL Vettori,1,2,0.0,0.0,0,0,0,5.0,50.0,IK Pathan,caught
+Delhi Daredevils,Kings XI Punjab,392226,2009-05-15,G Gambhir,8,11,0.0,0.0,0,0,0,12.0,72.72727272727273,IK Pathan,run out
+Delhi Daredevils,Kings XI Punjab,392226,2009-05-15,KD Karthik,32,29,0.0,1.0,0,0,0,38.0,110.34482758620688,IK Pathan,caught
+Delhi Daredevils,Kings XI Punjab,392226,2009-05-15,M Manhas,26,28,2.0,0.0,0,0,0,32.0,92.85714285714286,WA Mota,caught
+Delhi Daredevils,Kings XI Punjab,392226,2009-05-15,MF Maharoof,3,8,0.0,0.0,0,0,0,7.0,37.5,B Lee,bowled
+Delhi Daredevils,Kings XI Punjab,392226,2009-05-15,PJ Sangwan,5,5,0.0,0.0,0,0,0,9.0,100.0,0,0
+Delhi Daredevils,Kings XI Punjab,392226,2009-05-15,R Bhatia,0,1,0.0,0.0,0,0,1,2.0,0.0,B Lee,caught
+Delhi Daredevils,Kings XI Punjab,392226,2009-05-15,TM Dilshan,10,20,1.0,0.0,0,0,0,15.0,50.0,S Sreesanth,caught
+Delhi Daredevils,Kings XI Punjab,392226,2009-05-15,V Sehwag,9,10,2.0,0.0,0,0,0,15.0,90.0,B Lee,caught
+Kings XI Punjab,Delhi Daredevils,392226,2009-05-15,IK Pathan,21,12,0.0,3.0,0,0,0,31.0,175.0,0,0
+Kings XI Punjab,Delhi Daredevils,392226,2009-05-15,KC Sangakkara,43,48,6.0,0.0,0,0,0,53.0,89.58333333333334,0,0
+Kings XI Punjab,Delhi Daredevils,392226,2009-05-15,LA Pomersbach,9,8,2.0,0.0,0,0,0,15.0,112.5,MF Maharoof,caught
+Kings XI Punjab,Delhi Daredevils,392226,2009-05-15,S Sohal,3,12,0.0,0.0,0,0,0,7.0,25.0,A Nehra,bowled
+Kings XI Punjab,Delhi Daredevils,392226,2009-05-15,SM Katich,20,10,3.0,1.0,0,0,0,29.0,200.0,MF Maharoof,caught
+Kings XI Punjab,Delhi Daredevils,392226,2009-05-15,Yuvraj Singh,18,32,1.0,0.0,0,0,0,23.0,56.25,PJ Sangwan,caught

@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Punjab Kings,1254065,2021-04-16,AT Rayudu,0,1,0.0,0.0,0,0,1,2.0,0.0,Mohammed Shami,caught
+Chennai Super Kings,Punjab Kings,1254065,2021-04-16,F du Plessis,36,33,4.0,1.0,0,0,0,46.0,109.09090909090908,0,0
+Chennai Super Kings,Punjab Kings,1254065,2021-04-16,MM Ali,46,32,7.0,1.0,0,0,0,59.0,143.75,M Ashwin,caught
+Chennai Super Kings,Punjab Kings,1254065,2021-04-16,RD Gaikwad,5,16,0.0,0.0,0,0,0,9.0,31.25,Arshdeep Singh,caught
+Chennai Super Kings,Punjab Kings,1254065,2021-04-16,SK Raina,8,10,1.0,0.0,0,0,0,13.0,80.0,Mohammed Shami,caught
+Chennai Super Kings,Punjab Kings,1254065,2021-04-16,SM Curran,5,4,1.0,0.0,0,0,0,10.0,125.0,0,0
+Punjab Kings,Chennai Super Kings,1254065,2021-04-16,CH Gayle,10,10,2.0,0.0,0,0,0,16.0,100.0,DL Chahar,caught
+Punjab Kings,Chennai Super Kings,1254065,2021-04-16,DJ Hooda,10,16,1.0,0.0,0,0,0,15.0,62.5,DL Chahar,caught
+Punjab Kings,Chennai Super Kings,1254065,2021-04-16,JA Richardson,15,23,2.0,0.0,0,0,0,21.0,65.21739130434783,MM Ali,bowled
+Punjab Kings,Chennai Super Kings,1254065,2021-04-16,KL Rahul,5,7,1.0,0.0,0,0,0,10.0,71.42857142857143,DL Chahar,run out
+Punjab Kings,Chennai Super Kings,1254065,2021-04-16,M Ashwin,6,14,0.0,0.0,0,0,0,10.0,42.85714285714285,DJ Bravo,caught
+Punjab Kings,Chennai Super Kings,1254065,2021-04-16,M Shahrukh Khan,47,38,4.0,2.0,0,0,0,59.0,123.6842105263158,SM Curran,caught
+Punjab Kings,Chennai Super Kings,1254065,2021-04-16,MA Agarwal,0,2,0.0,0.0,0,0,1,2.0,0.0,DL Chahar,bowled
+Punjab Kings,Chennai Super Kings,1254065,2021-04-16,Mohammed Shami,9,12,0.0,0.0,0,0,0,13.0,75.0,0,0
+Punjab Kings,Chennai Super Kings,1254065,2021-04-16,N Pooran,0,2,0.0,0.0,0,0,1,2.0,0.0,DL Chahar,caught

@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Rajasthan Royals,392190,2009-04-23,AB Agarkar,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Kolkata Knight Riders,Rajasthan Royals,392190,2009-04-23,BB McCullum,4,10,0.0,0.0,0,0,0,8.0,40.0,AD Mascarenhas,caught
+Kolkata Knight Riders,Rajasthan Royals,392190,2009-04-23,BJ Hodge,5,7,0.0,0.0,0,0,0,9.0,71.42857142857143,MM Patel,caught
+Kolkata Knight Riders,Rajasthan Royals,392190,2009-04-23,CH Gayle,54,38,5.0,4.0,1,0,0,79.0,142.10526315789474,SK Warne,caught
+Kolkata Knight Riders,Rajasthan Royals,392190,2009-04-23,I Sharma,1,1,0.0,0.0,0,0,0,5.0,100.0,Kamran Khan,caught
+Kolkata Knight Riders,Rajasthan Royals,392190,2009-04-23,LR Shukla,13,13,1.0,0.0,0,0,0,18.0,100.0,Kamran Khan,run out
+Kolkata Knight Riders,Rajasthan Royals,392190,2009-04-23,SB Bangar,2,9,0.0,0.0,0,0,0,6.0,22.22222222222222,Kamran Khan,caught
+Kolkata Knight Riders,Rajasthan Royals,392190,2009-04-23,SC Ganguly,46,34,4.0,2.0,0,0,0,58.0,135.29411764705884,Kamran Khan,caught
+Kolkata Knight Riders,Rajasthan Royals,392190,2009-04-23,Yashpal Singh,20,18,3.0,0.0,0,0,0,27.0,111.11111111111111,Kamran Khan,caught
+Rajasthan Royals,Kolkata Knight Riders,392190,2009-04-23,AD Mascarenhas,27,28,2.0,0.0,0,0,0,33.0,96.42857142857144,SK Warne,caught
+Rajasthan Royals,Kolkata Knight Riders,392190,2009-04-23,AS Raut,21,17,1.0,2.0,0,0,0,30.0,123.52941176470588,Anureet Singh,bowled
+Rajasthan Royals,Kolkata Knight Riders,392190,2009-04-23,GC Smith,15,21,1.0,0.0,0,0,0,20.0,71.42857142857143,0,0
+Rajasthan Royals,Kolkata Knight Riders,392190,2009-04-23,PC Valthaty,5,7,1.0,0.0,0,0,0,10.0,71.42857142857143,BAW Mendis,caught
+Rajasthan Royals,Kolkata Knight Riders,392190,2009-04-23,RA Jadeja,22,27,0.0,0.0,0,0,0,26.0,81.48148148148148,Anureet Singh,caught
+Rajasthan Royals,Kolkata Knight Riders,392190,2009-04-23,RJ Quiney,6,2,0.0,1.0,0,0,0,12.0,300.0,I Sharma,caught
+Rajasthan Royals,Kolkata Knight Riders,392190,2009-04-23,SK Warne,2,2,0.0,0.0,0,0,0,6.0,100.0,I Sharma,caught
+Rajasthan Royals,Kolkata Knight Riders,392190,2009-04-23,YK Pathan,60,26,7.0,4.0,1,0,0,87.0,230.7692307692308,0,0

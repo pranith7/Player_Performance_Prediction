@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Rajasthan Royals,1178400,2019-04-11,AT Rayudu,57,48,2.0,3.0,1,0,0,77.0,118.75,BA Stokes,caught
+Chennai Super Kings,Rajasthan Royals,1178400,2019-04-11,F du Plessis,7,10,0.0,0.0,0,0,0,11.0,70.0,JD Unadkat,caught
+Chennai Super Kings,Rajasthan Royals,1178400,2019-04-11,KM Jadhav,1,6,0.0,0.0,0,0,0,5.0,16.666666666666664,JC Archer,caught
+Chennai Super Kings,Rajasthan Royals,1178400,2019-04-11,MJ Santner,10,4,0.0,1.0,0,0,0,16.0,250.0,0,0
+Chennai Super Kings,Rajasthan Royals,1178400,2019-04-11,MS Dhoni,58,44,2.0,3.0,1,0,0,78.0,131.8181818181818,BA Stokes,bowled
+Chennai Super Kings,Rajasthan Royals,1178400,2019-04-11,RA Jadeja,9,4,0.0,1.0,0,0,0,15.0,225.0,0,0
+Chennai Super Kings,Rajasthan Royals,1178400,2019-04-11,SK Raina,4,4,1.0,0.0,0,0,0,9.0,100.0,JD Unadkat,run out
+Chennai Super Kings,Rajasthan Royals,1178400,2019-04-11,SR Watson,0,4,0.0,0.0,0,0,1,2.0,0.0,DS Kulkarni,bowled
+Rajasthan Royals,Chennai Super Kings,1178400,2019-04-11,AM Rahane,14,12,3.0,0.0,0,0,0,21.0,116.66666666666669,DL Chahar,lbw
+Rajasthan Royals,Chennai Super Kings,1178400,2019-04-11,BA Stokes,28,27,1.0,0.0,0,0,0,33.0,103.7037037037037,DL Chahar,bowled
+Rajasthan Royals,Chennai Super Kings,1178400,2019-04-11,JC Archer,13,12,1.0,0.0,0,0,0,18.0,108.33333333333331,0,0
+Rajasthan Royals,Chennai Super Kings,1178400,2019-04-11,JC Buttler,23,10,4.0,1.0,0,0,0,33.0,230.0,SN Thakur,caught
+Rajasthan Royals,Chennai Super Kings,1178400,2019-04-11,R Parag,16,14,2.0,0.0,0,0,0,22.0,114.28571428571428,SN Thakur,caught
+Rajasthan Royals,Chennai Super Kings,1178400,2019-04-11,RA Tripathi,10,12,1.0,0.0,0,0,0,15.0,83.33333333333334,RA Jadeja,caught
+Rajasthan Royals,Chennai Super Kings,1178400,2019-04-11,S Gopal,19,7,2.0,1.0,0,0,0,27.0,271.42857142857144,0,0
+Rajasthan Royals,Chennai Super Kings,1178400,2019-04-11,SPD Smith,15,22,1.0,0.0,0,0,0,20.0,68.18181818181817,RA Jadeja,caught
+Rajasthan Royals,Chennai Super Kings,1178400,2019-04-11,SV Samson,6,6,1.0,0.0,0,0,0,11.0,100.0,MJ Santner,caught

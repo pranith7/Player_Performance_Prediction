@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Royal Challengers Bangalore,Sunrisers Hyderabad,1304100,2022-05-08,F du Plessis,73,52,8.0,2.0,1,0,0,97.0,140.3846153846154,0,0
+Royal Challengers Bangalore,Sunrisers Hyderabad,1304100,2022-05-08,GJ Maxwell,33,25,3.0,2.0,0,0,0,44.0,132.0,Kartik Tyagi,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,1304100,2022-05-08,KD Karthik,30,8,1.0,4.0,0,0,0,43.0,375.0,0,0
+Royal Challengers Bangalore,Sunrisers Hyderabad,1304100,2022-05-08,RM Patidar,48,40,4.0,2.0,0,0,0,60.0,120.0,J Suchith,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,1304100,2022-05-08,V Kohli,0,1,0.0,0.0,0,0,1,2.0,0.0,J Suchith,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,1304100,2022-05-08,AK Markram,21,27,1.0,1.0,0,0,0,28.0,77.77777777777779,PWH de Silva,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,1304100,2022-05-08,Abhishek Sharma,0,3,0.0,0.0,0,0,1,2.0,0.0,GJ Maxwell,bowled
+Sunrisers Hyderabad,Royal Challengers Bangalore,1304100,2022-05-08,B Kumar,8,10,1.0,0.0,0,0,0,13.0,80.0,HV Patel,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,1304100,2022-05-08,Fazalhaq Farooqi,2,8,0.0,0.0,0,0,0,6.0,25.0,0,0
+Sunrisers Hyderabad,Royal Challengers Bangalore,1304100,2022-05-08,J Suchith,2,7,0.0,0.0,0,0,0,6.0,28.57142857142857,PWH de Silva,stumped
+Sunrisers Hyderabad,Royal Challengers Bangalore,1304100,2022-05-08,Kartik Tyagi,0,1,0.0,0.0,0,0,1,2.0,0.0,JR Hazlewood,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,1304100,2022-05-08,N Pooran,19,14,2.0,1.0,0,0,0,27.0,135.71428571428572,PWH de Silva,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,1304100,2022-05-08,RA Tripathi,58,40,6.0,2.0,1,0,0,80.0,145.0,JR Hazlewood,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,1304100,2022-05-08,Shashank Singh,8,9,0.0,1.0,0,0,0,14.0,88.88888888888889,PWH de Silva,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,1304100,2022-05-08,Umran Malik,0,1,0.0,0.0,0,0,1,2.0,0.0,PWH de Silva,lbw

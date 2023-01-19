@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Capitals,Royal Challengers Bangalore,1254079,2021-04-27,MP Stoinis,22,17,3.0,0.0,0,0,0,29.0,129.41176470588235,HV Patel,caught
+Delhi Capitals,Royal Challengers Bangalore,1254079,2021-04-27,PP Shaw,21,18,3.0,0.0,0,0,0,28.0,116.66666666666669,HV Patel,caught
+Delhi Capitals,Royal Challengers Bangalore,1254079,2021-04-27,RR Pant,58,50,6.0,0.0,1,0,0,76.0,116.0,0,0
+Delhi Capitals,Royal Challengers Bangalore,1254079,2021-04-27,S Dhawan,6,7,1.0,0.0,0,0,0,11.0,85.71428571428571,KA Jamieson,caught
+Delhi Capitals,Royal Challengers Bangalore,1254079,2021-04-27,SO Hetmyer,53,25,2.0,4.0,1,0,0,75.0,212.0,0,0
+Delhi Capitals,Royal Challengers Bangalore,1254079,2021-04-27,SPD Smith,4,5,1.0,0.0,0,0,0,9.0,80.0,Mohammed Siraj,caught
+Royal Challengers Bangalore,Delhi Capitals,1254079,2021-04-27,AB de Villiers,75,43,3.0,5.0,1,0,0,100.0,174.41860465116278,0,0
+Royal Challengers Bangalore,Delhi Capitals,1254079,2021-04-27,D Padikkal,17,14,3.0,0.0,0,0,0,24.0,121.42857142857142,I Sharma,bowled
+Royal Challengers Bangalore,Delhi Capitals,1254079,2021-04-27,DR Sams,3,2,0.0,0.0,0,0,0,7.0,150.0,0,0
+Royal Challengers Bangalore,Delhi Capitals,1254079,2021-04-27,GJ Maxwell,25,20,1.0,2.0,0,0,0,34.0,125.0,A Mishra,caught
+Royal Challengers Bangalore,Delhi Capitals,1254079,2021-04-27,RM Patidar,31,22,0.0,2.0,0,0,0,39.0,140.9090909090909,AR Patel,caught
+Royal Challengers Bangalore,Delhi Capitals,1254079,2021-04-27,V Kohli,12,12,2.0,0.0,0,0,0,18.0,100.0,Avesh Khan,bowled
+Royal Challengers Bangalore,Delhi Capitals,1254079,2021-04-27,Washington Sundar,6,9,0.0,0.0,0,0,0,10.0,66.66666666666666,K Rabada,caught and bowled

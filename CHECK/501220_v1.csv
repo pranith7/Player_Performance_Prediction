@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Rajasthan Royals,501220,2011-04-21,AC Gilchrist,28,17,4.0,1.0,0,0,0,38.0,164.70588235294116,SR Watson,caught
+Kings XI Punjab,Rajasthan Royals,501220,2011-04-21,AM Nayar,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,SR Watson,run out
+Kings XI Punjab,Rajasthan Royals,501220,2011-04-21,KD Karthik,21,17,3.0,0.0,0,0,0,28.0,123.52941176470588,SW Tait,caught
+Kings XI Punjab,Rajasthan Royals,501220,2011-04-21,PC Valthaty,46,32,4.0,3.0,0,0,0,60.0,143.75,SK Warne,caught
+Kings XI Punjab,Rajasthan Royals,501220,2011-04-21,PP Chawla,4,3,1.0,0.0,0,0,0,9.0,133.33333333333331,SW Tait,bowled
+Kings XI Punjab,Rajasthan Royals,501220,2011-04-21,R McLaren,2,8,0.0,0.0,0,0,0,6.0,25.0,SW Tait,caught
+Kings XI Punjab,Rajasthan Royals,501220,2011-04-21,SE Marsh,71,43,6.0,3.0,1,0,0,95.0,165.11627906976744,SR Watson,caught and bowled
+Kings XI Punjab,Rajasthan Royals,501220,2011-04-21,Sunny Singh,5,5,1.0,0.0,0,0,0,10.0,100.0,0,0
+Rajasthan Royals,Kings XI Punjab,501220,2011-04-21,AL Menaria,34,26,2.0,1.0,0,0,0,42.0,130.76923076923077,BA Bhatt,caught
+Rajasthan Royals,Kings XI Punjab,501220,2011-04-21,AS Raut,25,21,3.0,0.0,0,0,0,32.0,119.04761904761904,BA Bhatt,caught
+Rajasthan Royals,Kings XI Punjab,501220,2011-04-21,DH Yagnik,10,10,1.0,0.0,0,0,0,15.0,100.0,0,0
+Rajasthan Royals,Kings XI Punjab,501220,2011-04-21,LRPL Taylor,0,5,0.0,0.0,0,0,1,2.0,0.0,PP Chawla,lbw
+Rajasthan Royals,Kings XI Punjab,501220,2011-04-21,R Dravid,8,7,2.0,0.0,0,0,0,14.0,114.28571428571428,RJ Harris,bowled
+Rajasthan Royals,Kings XI Punjab,501220,2011-04-21,SA Asnodkar,9,9,1.0,0.0,0,0,0,14.0,100.0,P Kumar,bowled
+Rajasthan Royals,Kings XI Punjab,501220,2011-04-21,SK Warne,5,3,1.0,0.0,0,0,0,10.0,166.66666666666669,0,0
+Rajasthan Royals,Kings XI Punjab,501220,2011-04-21,SR Watson,24,16,4.0,0.0,0,0,0,32.0,150.0,P Kumar,caught
+Rajasthan Royals,Kings XI Punjab,501220,2011-04-21,STR Binny,30,24,2.0,1.0,0,0,0,38.0,125.0,R McLaren,caught

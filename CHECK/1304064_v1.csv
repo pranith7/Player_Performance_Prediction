@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Royal Challengers Bangalore,1304064,2022-04-09,D Brevis,8,11,1.0,0.0,0,0,0,13.0,72.72727272727273,PWH de Silva,lbw
+Mumbai Indians,Royal Challengers Bangalore,1304064,2022-04-09,Ishan Kishan,26,28,3.0,0.0,0,0,0,33.0,92.85714285714286,Akash Deep,caught
+Mumbai Indians,Royal Challengers Bangalore,1304064,2022-04-09,JD Unadkat,13,14,1.0,0.0,0,0,0,18.0,92.85714285714286,0,0
+Mumbai Indians,Royal Challengers Bangalore,1304064,2022-04-09,KA Pollard,0,1,0.0,0.0,0,0,1,2.0,0.0,PWH de Silva,lbw
+Mumbai Indians,Royal Challengers Bangalore,1304064,2022-04-09,RG Sharma,26,16,4.0,1.0,0,0,0,36.0,162.5,HV Patel,caught and bowled
+Mumbai Indians,Royal Challengers Bangalore,1304064,2022-04-09,Ramandeep Singh,6,12,0.0,0.0,0,0,0,10.0,50.0,HV Patel,caught
+Mumbai Indians,Royal Challengers Bangalore,1304064,2022-04-09,SA Yadav,68,37,5.0,6.0,1,0,0,97.0,183.7837837837838,0,0
+Mumbai Indians,Royal Challengers Bangalore,1304064,2022-04-09,Tilak Varma,0,3,0.0,0.0,0,0,1,2.0,0.0,Akash Deep,run out
+Royal Challengers Bangalore,Mumbai Indians,1304064,2022-04-09,Anuj Rawat,66,49,2.0,6.0,1,0,0,92.0,134.6938775510204,JD Unadkat,run out
+Royal Challengers Bangalore,Mumbai Indians,1304064,2022-04-09,F du Plessis,16,25,1.0,0.0,0,0,0,21.0,64.0,JD Unadkat,caught
+Royal Challengers Bangalore,Mumbai Indians,1304064,2022-04-09,GJ Maxwell,8,2,2.0,0.0,0,0,0,14.0,400.0,0,0
+Royal Challengers Bangalore,Mumbai Indians,1304064,2022-04-09,KD Karthik,7,2,0.0,1.0,0,0,0,13.0,350.0,0,0
+Royal Challengers Bangalore,Mumbai Indians,1304064,2022-04-09,V Kohli,48,36,5.0,0.0,0,0,0,57.0,133.33333333333331,D Brevis,lbw

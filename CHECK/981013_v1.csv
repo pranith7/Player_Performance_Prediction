@@ -1,0 +1,20 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Gujarat Lions,Royal Challengers Bangalore,981013,2016-05-24,AJ Finch,4,6,1.0,0.0,0,0,0,9.0,66.66666666666666,Iqbal Abdulla,caught
+Gujarat Lions,Royal Challengers Bangalore,981013,2016-05-24,BB McCullum,1,4,0.0,0.0,0,0,0,5.0,25.0,Iqbal Abdulla,caught
+Gujarat Lions,Royal Challengers Bangalore,981013,2016-05-24,DJ Bravo,8,7,1.0,0.0,0,0,0,13.0,114.28571428571428,SR Watson,bowled
+Gujarat Lions,Royal Challengers Bangalore,981013,2016-05-24,DR Smith,73,41,5.0,6.0,1,0,0,102.0,178.0487804878049,YS Chahal,caught
+Gujarat Lions,Royal Challengers Bangalore,981013,2016-05-24,DS Kulkarni,10,4,2.0,0.0,0,0,0,16.0,250.0,CJ Jordan,run out
+Gujarat Lions,Royal Challengers Bangalore,981013,2016-05-24,ER Dwivedi,19,9,1.0,2.0,0,0,0,28.0,211.11111111111111,SR Watson,caught
+Gujarat Lions,Royal Challengers Bangalore,981013,2016-05-24,KD Karthik,26,32,2.0,0.0,0,0,0,32.0,81.25,CJ Jordan,bowled
+Gujarat Lions,Royal Challengers Bangalore,981013,2016-05-24,P Kumar,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,CJ Jordan,bowled
+Gujarat Lions,Royal Challengers Bangalore,981013,2016-05-24,RA Jadeja,3,8,0.0,0.0,0,0,0,7.0,37.5,SR Watson,caught
+Gujarat Lions,Royal Challengers Bangalore,981013,2016-05-24,SB Jakati,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Gujarat Lions,Royal Challengers Bangalore,981013,2016-05-24,SK Raina,1,9,0.0,0.0,0,0,0,5.0,11.11111111111111,SR Watson,caught
+Royal Challengers Bangalore,Gujarat Lions,981013,2016-05-24,AB de Villiers,79,48,5.0,5.0,1,0,0,106.0,164.58333333333331,0,0
+Royal Challengers Bangalore,Gujarat Lions,981013,2016-05-24,CH Gayle,9,14,2.0,0.0,0,0,0,15.0,64.28571428571429,DS Kulkarni,bowled
+Royal Challengers Bangalore,Gujarat Lions,981013,2016-05-24,Iqbal Abdulla,33,25,3.0,1.0,0,0,0,42.0,132.0,0,0
+Royal Challengers Bangalore,Gujarat Lions,981013,2016-05-24,KL Rahul,0,1,0.0,0.0,0,0,1,2.0,0.0,DS Kulkarni,caught
+Royal Challengers Bangalore,Gujarat Lions,981013,2016-05-24,SR Watson,1,6,0.0,0.0,0,0,0,5.0,16.666666666666664,RA Jadeja,caught
+Royal Challengers Bangalore,Gujarat Lions,981013,2016-05-24,STR Binny,21,16,2.0,1.0,0,0,0,29.0,131.25,RA Jadeja,lbw
+Royal Challengers Bangalore,Gujarat Lions,981013,2016-05-24,Sachin Baby,0,3,0.0,0.0,0,0,1,2.0,0.0,DS Kulkarni,caught
+Royal Challengers Bangalore,Gujarat Lions,981013,2016-05-24,V Kohli,0,2,0.0,0.0,0,0,1,2.0,0.0,DS Kulkarni,bowled

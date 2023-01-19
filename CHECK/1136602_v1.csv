@@ -1,0 +1,10 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Sunrisers Hyderabad,1136602,2018-05-10,GJ Maxwell,9,8,1.0,0.0,0,0,0,14.0,112.5,B Kumar,caught
+Delhi Daredevils,Sunrisers Hyderabad,1136602,2018-05-10,HV Patel,24,17,0.0,2.0,0,0,0,32.0,141.1764705882353,Rashid Khan,run out
+Delhi Daredevils,Sunrisers Hyderabad,1136602,2018-05-10,JJ Roy,11,13,2.0,0.0,0,0,0,17.0,84.61538461538461,Shakib Al Hasan,caught
+Delhi Daredevils,Sunrisers Hyderabad,1136602,2018-05-10,PP Shaw,9,11,1.0,0.0,0,0,0,14.0,81.81818181818183,Shakib Al Hasan,caught
+Delhi Daredevils,Sunrisers Hyderabad,1136602,2018-05-10,RR Pant,128,64,15.0,7.0,1,1,0,185.0,200.0,0,0
+Delhi Daredevils,Sunrisers Hyderabad,1136602,2018-05-10,SS Iyer,3,8,0.0,0.0,0,0,0,7.0,37.5,Sandeep Sharma,run out
+Sunrisers Hyderabad,Delhi Daredevils,1136602,2018-05-10,AD Hales,14,10,3.0,0.0,0,0,0,21.0,140.0,HV Patel,lbw
+Sunrisers Hyderabad,Delhi Daredevils,1136602,2018-05-10,KS Williamson,83,53,8.0,2.0,1,0,0,107.0,156.60377358490567,0,0
+Sunrisers Hyderabad,Delhi Daredevils,1136602,2018-05-10,S Dhawan,92,51,9.0,4.0,1,0,0,121.0,180.3921568627451,0,0

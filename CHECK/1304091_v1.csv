@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Capitals,Lucknow Super Giants,1304091,2022-05-01,AR Patel,42,25,1.0,3.0,0,0,0,53.0,168.0,0,0
+Delhi Capitals,Lucknow Super Giants,1304091,2022-05-01,DA Warner,3,4,0.0,0.0,0,0,0,7.0,75.0,Mohsin Khan (2),caught
+Delhi Capitals,Lucknow Super Giants,1304091,2022-05-01,Kuldeep Yadav,16,9,1.0,1.0,0,0,0,23.0,177.77777777777777,0,0
+Delhi Capitals,Lucknow Super Giants,1304091,2022-05-01,Lalit Yadav,3,4,0.0,0.0,0,0,0,7.0,75.0,Ravi Bishnoi,bowled
+Delhi Capitals,Lucknow Super Giants,1304091,2022-05-01,MR Marsh,37,20,3.0,3.0,0,0,0,50.0,185.0,K Gowtham,caught
+Delhi Capitals,Lucknow Super Giants,1304091,2022-05-01,PP Shaw,5,7,1.0,0.0,0,0,0,10.0,71.42857142857143,PVD Chameera,caught
+Delhi Capitals,Lucknow Super Giants,1304091,2022-05-01,R Powell,35,21,3.0,2.0,0,0,0,46.0,166.66666666666669,Mohsin Khan (2),caught
+Delhi Capitals,Lucknow Super Giants,1304091,2022-05-01,RR Pant,44,31,7.0,1.0,0,0,0,57.0,141.93548387096774,Mohsin Khan (2),bowled
+Delhi Capitals,Lucknow Super Giants,1304091,2022-05-01,SN Thakur,1,2,0.0,0.0,0,0,0,5.0,50.0,Mohsin Khan (2),caught
+Lucknow Super Giants,Delhi Capitals,1304091,2022-05-01,DJ Hooda,52,36,6.0,1.0,1,0,0,72.0,144.44444444444443,SN Thakur,caught and bowled
+Lucknow Super Giants,Delhi Capitals,1304091,2022-05-01,KH Pandya,9,9,0.0,0.0,0,0,0,13.0,100.0,0,0
+Lucknow Super Giants,Delhi Capitals,1304091,2022-05-01,KL Rahul,77,56,4.0,5.0,1,0,0,103.0,137.5,SN Thakur,caught
+Lucknow Super Giants,Delhi Capitals,1304091,2022-05-01,MP Stoinis,17,18,1.0,1.0,0,0,0,24.0,94.44444444444444,0,0
+Lucknow Super Giants,Delhi Capitals,1304091,2022-05-01,Q de Kock,23,13,3.0,1.0,0,0,0,32.0,176.9230769230769,SN Thakur,caught

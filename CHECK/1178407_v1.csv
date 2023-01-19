@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Rajasthan Royals,1178407,2019-04-16,CH Gayle,30,22,2.0,3.0,0,0,0,42.0,136.36363636363637,JC Archer,caught
+Kings XI Punjab,Rajasthan Royals,1178407,2019-04-16,DA Miller,40,28,2.0,2.0,0,0,0,50.0,142.85714285714286,DS Kulkarni,caught
+Kings XI Punjab,Rajasthan Royals,1178407,2019-04-16,KL Rahul,52,47,3.0,2.0,1,0,0,71.0,110.63829787234044,JD Unadkat,caught
+Kings XI Punjab,Rajasthan Royals,1178407,2019-04-16,MA Agarwal,26,12,1.0,2.0,0,0,0,35.0,216.66666666666663,IS Sodhi,caught
+Kings XI Punjab,Rajasthan Royals,1178407,2019-04-16,Mandeep Singh,0,2,0.0,0.0,0,0,1,2.0,0.0,JC Archer,bowled
+Kings XI Punjab,Rajasthan Royals,1178407,2019-04-16,Mujeeb Ur Rahman,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Kings XI Punjab,Rajasthan Royals,1178407,2019-04-16,N Pooran,5,6,0.0,0.0,0,0,0,9.0,83.33333333333334,JC Archer,caught
+Kings XI Punjab,Rajasthan Royals,1178407,2019-04-16,R Ashwin,17,4,1.0,2.0,0,0,0,26.0,425.0,0,0
+Rajasthan Royals,Kings XI Punjab,1178407,2019-04-16,AJ Turner,0,2,0.0,0.0,0,0,1,2.0,0.0,M Ashwin,caught
+Rajasthan Royals,Kings XI Punjab,1178407,2019-04-16,AM Rahane,26,21,1.0,0.0,0,0,0,31.0,123.8095238095238,Arshdeep Singh,caught
+Rajasthan Royals,Kings XI Punjab,1178407,2019-04-16,JC Archer,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,Mohammed Shami,caught
+Rajasthan Royals,Kings XI Punjab,1178407,2019-04-16,JC Buttler,23,20,1.0,2.0,0,0,0,32.0,115.0,Arshdeep Singh,caught
+Rajasthan Royals,Kings XI Punjab,1178407,2019-04-16,RA Tripathi,50,46,4.0,0.0,1,0,0,66.0,108.69565217391305,R Ashwin,caught
+Rajasthan Royals,Kings XI Punjab,1178407,2019-04-16,S Gopal,0,1,0.0,0.0,0,0,1,2.0,0.0,Mohammed Shami,caught
+Rajasthan Royals,Kings XI Punjab,1178407,2019-04-16,STR Binny,33,11,2.0,3.0,0,0,0,45.0,300.0,0,0
+Rajasthan Royals,Kings XI Punjab,1178407,2019-04-16,SV Samson,27,22,2.0,0.0,0,0,0,33.0,122.72727272727272,R Ashwin,bowled

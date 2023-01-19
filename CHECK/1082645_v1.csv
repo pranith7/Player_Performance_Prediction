@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Rising Pune Supergiant,1082645,2017-05-14,AR Patel,22,21,1.0,1.0,0,0,0,29.0,104.76190476190476,DT Christian,caught
+Kings XI Punjab,Rising Pune Supergiant,1082645,2017-05-14,EJG Morgan,4,4,1.0,0.0,0,0,0,9.0,100.0,BA Stokes,run out
+Kings XI Punjab,Rising Pune Supergiant,1082645,2017-05-14,GJ Maxwell,0,4,0.0,0.0,0,0,1,2.0,0.0,SN Thakur,caught
+Kings XI Punjab,Rising Pune Supergiant,1082645,2017-05-14,I Sharma,1,5,0.0,0.0,0,0,0,5.0,20.0,A Zampa,caught
+Kings XI Punjab,Rising Pune Supergiant,1082645,2017-05-14,MJ Guptill,0,1,0.0,0.0,0,0,1,2.0,0.0,JD Unadkat,caught
+Kings XI Punjab,Rising Pune Supergiant,1082645,2017-05-14,MM Sharma,6,12,0.0,0.0,0,0,0,10.0,50.0,A Zampa,caught
+Kings XI Punjab,Rising Pune Supergiant,1082645,2017-05-14,R Tewatia,4,3,1.0,0.0,0,0,0,9.0,133.33333333333331,SN Thakur,caught
+Kings XI Punjab,Rising Pune Supergiant,1082645,2017-05-14,SE Marsh,10,13,2.0,0.0,0,0,0,16.0,76.92307692307693,SN Thakur,caught
+Kings XI Punjab,Rising Pune Supergiant,1082645,2017-05-14,Swapnil Singh,10,17,0.0,0.0,0,0,0,14.0,58.82352941176471,JD Unadkat,caught
+Kings XI Punjab,Rising Pune Supergiant,1082645,2017-05-14,WP Saha,13,18,0.0,1.0,0,0,0,19.0,72.22222222222221,DT Christian,caught
+Rising Pune Supergiant,Kings XI Punjab,1082645,2017-05-14,AM Rahane,34,34,1.0,1.0,0,0,0,41.0,100.0,0,0
+Rising Pune Supergiant,Kings XI Punjab,1082645,2017-05-14,RA Tripathi,28,21,4.0,1.0,0,0,0,38.0,133.33333333333331,AR Patel,bowled
+Rising Pune Supergiant,Kings XI Punjab,1082645,2017-05-14,SPD Smith,15,18,0.0,0.0,0,0,0,19.0,83.33333333333334,0,0

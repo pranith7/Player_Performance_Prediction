@@ -1,0 +1,10 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Mumbai Indians,419122,2010-03-22,AD Mathews,3,3,0.0,0.0,0,0,0,7.0,100.0,0,0
+Kolkata Knight Riders,Mumbai Indians,419122,2010-03-22,CH Gayle,75,65,7.0,2.0,1,0,0,98.0,115.38461538461536,Z Khan,lbw
+Kolkata Knight Riders,Mumbai Indians,419122,2010-03-22,OA Shah,31,23,3.0,0.0,0,0,0,38.0,134.7826086956522,Z Khan,bowled
+Kolkata Knight Riders,Mumbai Indians,419122,2010-03-22,SC Ganguly,31,35,5.0,0.0,0,0,0,40.0,88.57142857142857,Harbhajan Singh,bowled
+Mumbai Indians,Kolkata Knight Riders,419122,2010-03-22,KA Pollard,7,7,1.0,0.0,0,0,0,12.0,100.0,I Sharma,lbw
+Mumbai Indians,Kolkata Knight Riders,419122,2010-03-22,R Sathish,21,11,3.0,0.0,0,0,0,28.0,190.9090909090909,0,0
+Mumbai Indians,Kolkata Knight Riders,419122,2010-03-22,S Dhawan,23,21,4.0,0.0,0,0,0,31.0,109.52380952380952,M Kartik,caught
+Mumbai Indians,Kolkata Knight Riders,419122,2010-03-22,SR Tendulkar,71,52,10.0,0.0,1,0,0,93.0,136.53846153846155,0,0
+Mumbai Indians,Kolkata Knight Riders,419122,2010-03-22,SS Tiwary,30,24,3.0,1.0,0,0,0,39.0,125.0,I Sharma,caught

@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Sunrisers Hyderabad,829711,2015-04-11,BB McCullum,100,59,7.0,9.0,1,1,0,153.0,169.4915254237288,0,0
+Chennai Super Kings,Sunrisers Hyderabad,829711,2015-04-11,DR Smith,27,27,4.0,1.0,0,0,0,37.0,100.0,RS Bopara,run out
+Chennai Super Kings,Sunrisers Hyderabad,829711,2015-04-11,MS Dhoni,53,29,4.0,4.0,1,0,0,77.0,182.7586206896552,TA Boult,caught
+Chennai Super Kings,Sunrisers Hyderabad,829711,2015-04-11,RA Jadeja,0,1,0.0,0.0,0,0,1,2.0,0.0,TA Boult,run out
+Chennai Super Kings,Sunrisers Hyderabad,829711,2015-04-11,SK Raina,14,12,1.0,0.0,0,0,0,19.0,116.66666666666669,RS Bopara,run out
+Sunrisers Hyderabad,Chennai Super Kings,829711,2015-04-11,DA Warner,53,43,1.0,3.0,1,0,0,72.0,123.25581395348836,IC Pandey,caught
+Sunrisers Hyderabad,Chennai Super Kings,829711,2015-04-11,KL Rahul,5,8,1.0,0.0,0,0,0,10.0,62.5,MM Sharma,bowled
+Sunrisers Hyderabad,Chennai Super Kings,829711,2015-04-11,KS Williamson,26,20,1.0,1.0,0,0,0,33.0,130.0,0,0
+Sunrisers Hyderabad,Chennai Super Kings,829711,2015-04-11,KV Sharma,4,7,0.0,0.0,0,0,0,8.0,57.14285714285714,DJ Bravo,caught
+Sunrisers Hyderabad,Chennai Super Kings,829711,2015-04-11,NV Ojha,15,11,0.0,1.0,0,0,0,21.0,136.36363636363637,R Ashwin,caught
+Sunrisers Hyderabad,Chennai Super Kings,829711,2015-04-11,Parvez Rasool,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Sunrisers Hyderabad,Chennai Super Kings,829711,2015-04-11,RS Bopara,22,15,0.0,2.0,0,0,0,30.0,146.66666666666666,DJ Bravo,bowled
+Sunrisers Hyderabad,Chennai Super Kings,829711,2015-04-11,S Dhawan,26,18,5.0,0.0,0,0,0,35.0,144.44444444444443,MM Sharma,caught

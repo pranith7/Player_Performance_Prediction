@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Rising Pune Supergiant,1082592,2017-04-06,AT Rayudu,10,12,0.0,0.0,0,0,0,14.0,83.33333333333334,R Bhatia,caught and bowled
+Mumbai Indians,Rising Pune Supergiant,1082592,2017-04-06,HH Pandya,35,17,1.0,4.0,0,0,0,48.0,205.8823529411765,0,0
+Mumbai Indians,Rising Pune Supergiant,1082592,2017-04-06,JC Buttler,38,19,3.0,3.0,0,0,0,51.0,200.0,Imran Tahir,lbw
+Mumbai Indians,Rising Pune Supergiant,1082592,2017-04-06,KA Pollard,27,17,3.0,1.0,0,0,0,36.0,158.8235294117647,BA Stokes,caught
+Mumbai Indians,Rising Pune Supergiant,1082592,2017-04-06,KH Pandya,3,6,0.0,0.0,0,0,0,7.0,50.0,R Bhatia,caught
+Mumbai Indians,Rising Pune Supergiant,1082592,2017-04-06,N Rana,34,29,1.0,2.0,0,0,0,43.0,117.2413793103448,A Zampa,caught
+Mumbai Indians,Rising Pune Supergiant,1082592,2017-04-06,PA Patel,19,15,4.0,0.0,0,0,0,27.0,126.66666666666666,Imran Tahir,bowled
+Mumbai Indians,Rising Pune Supergiant,1082592,2017-04-06,RG Sharma,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,Imran Tahir,bowled
+Mumbai Indians,Rising Pune Supergiant,1082592,2017-04-06,TG Southee,7,3,0.0,1.0,0,0,0,13.0,233.3333333333333,AB Dinda,run out
+Rising Pune Supergiant,Mumbai Indians,1082592,2017-04-06,AM Rahane,60,34,6.0,3.0,1,0,0,84.0,176.47058823529412,TG Southee,caught
+Rising Pune Supergiant,Mumbai Indians,1082592,2017-04-06,BA Stokes,21,15,3.0,0.0,0,0,0,28.0,140.0,HH Pandya,caught
+Rising Pune Supergiant,Mumbai Indians,1082592,2017-04-06,MA Agarwal,6,6,1.0,0.0,0,0,0,11.0,100.0,MJ McClenaghan,caught
+Rising Pune Supergiant,Mumbai Indians,1082592,2017-04-06,MS Dhoni,12,12,1.0,0.0,0,0,0,17.0,100.0,0,0
+Rising Pune Supergiant,Mumbai Indians,1082592,2017-04-06,SPD Smith,84,55,7.0,3.0,1,0,0,109.0,152.72727272727275,0,0

@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Kings XI Punjab,419159,2010-04-18,JA Morkel,14,8,2.0,0.0,0,0,0,20.0,175.0,0,0
+Chennai Super Kings,Kings XI Punjab,419159,2010-04-18,M Vijay,13,12,2.0,0.0,0,0,0,19.0,108.33333333333331,RR Powar,stumped
+Chennai Super Kings,Kings XI Punjab,419159,2010-04-18,ML Hayden,5,8,1.0,0.0,0,0,0,10.0,62.5,RR Powar,caught
+Chennai Super Kings,Kings XI Punjab,419159,2010-04-18,MS Dhoni,54,29,5.0,2.0,1,0,0,75.0,186.20689655172413,0,0
+Chennai Super Kings,Kings XI Punjab,419159,2010-04-18,S Badrinath,53,37,7.0,2.0,1,0,0,76.0,143.24324324324326,PP Chawla,stumped
+Chennai Super Kings,Kings XI Punjab,419159,2010-04-18,SK Raina,46,29,5.0,3.0,0,0,0,61.0,158.6206896551724,J Theron,caught
+Kings XI Punjab,Chennai Super Kings,419159,2010-04-18,DPMD Jayawardene,21,9,2.0,2.0,0,0,0,31.0,233.3333333333333,JA Morkel,caught
+Kings XI Punjab,Chennai Super Kings,419159,2010-04-18,IK Pathan,44,27,4.0,1.0,0,0,0,54.0,162.96296296296296,0,0
+Kings XI Punjab,Chennai Super Kings,419159,2010-04-18,KC Sangakkara,33,24,5.0,0.0,0,0,0,42.0,137.5,R Ashwin,bowled
+Kings XI Punjab,Chennai Super Kings,419159,2010-04-18,SE Marsh,88,59,8.0,5.0,1,0,0,118.0,149.15254237288136,0,0
+Kings XI Punjab,Chennai Super Kings,419159,2010-04-18,Yuvraj Singh,1,4,0.0,0.0,0,0,0,5.0,25.0,SK Raina,lbw

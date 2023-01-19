@@ -1,0 +1,20 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Royal Challengers Bangalore,829745,2015-04-22,A Nehra,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Chennai Super Kings,Royal Challengers Bangalore,829745,2015-04-22,BB McCullum,4,6,1.0,0.0,0,0,0,9.0,66.66666666666666,YS Chahal,caught
+Chennai Super Kings,Royal Challengers Bangalore,829745,2015-04-22,DJ Bravo,5,4,1.0,0.0,0,0,0,10.0,125.0,Iqbal Abdulla,caught
+Chennai Super Kings,Royal Challengers Bangalore,829745,2015-04-22,DR Smith,39,29,3.0,3.0,0,0,0,52.0,134.48275862068965,HV Patel,caught
+Chennai Super Kings,Royal Challengers Bangalore,829745,2015-04-22,F du Plessis,33,19,4.0,1.0,0,0,0,43.0,173.6842105263158,0,0
+Chennai Super Kings,Royal Challengers Bangalore,829745,2015-04-22,MM Sharma,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,MA Starc,bowled
+Chennai Super Kings,Royal Challengers Bangalore,829745,2015-04-22,MS Dhoni,13,14,2.0,0.0,0,0,0,19.0,92.85714285714286,YS Chahal,caught
+Chennai Super Kings,Royal Challengers Bangalore,829745,2015-04-22,R Ashwin,5,4,1.0,0.0,0,0,0,10.0,125.0,D Wiese,caught
+Chennai Super Kings,Royal Challengers Bangalore,829745,2015-04-22,RA Jadeja,8,8,1.0,0.0,0,0,0,13.0,100.0,Iqbal Abdulla,caught
+Chennai Super Kings,Royal Challengers Bangalore,829745,2015-04-22,SK Raina,62,32,4.0,6.0,1,0,0,90.0,193.75,YS Chahal,caught
+Royal Challengers Bangalore,Chennai Super Kings,829745,2015-04-22,AB de Villiers,14,10,0.0,2.0,0,0,0,22.0,140.0,RA Jadeja,run out
+Royal Challengers Bangalore,Chennai Super Kings,829745,2015-04-22,D Wiese,22,20,2.0,1.0,0,0,0,30.0,110.0,DJ Bravo,caught
+Royal Challengers Bangalore,Chennai Super Kings,829745,2015-04-22,HV Patel,0,1,0.0,0.0,0,0,1,2.0,0.0,A Nehra,caught
+Royal Challengers Bangalore,Chennai Super Kings,829745,2015-04-22,KD Karthik,10,11,1.0,0.0,0,0,0,15.0,90.9090909090909,IC Pandey,caught
+Royal Challengers Bangalore,Chennai Super Kings,829745,2015-04-22,MA Starc,9,6,1.0,0.0,0,0,0,14.0,150.0,0,0
+Royal Challengers Bangalore,Chennai Super Kings,829745,2015-04-22,MS Bisla,17,14,3.0,0.0,0,0,0,24.0,121.42857142857142,A Nehra,caught
+Royal Challengers Bangalore,Chennai Super Kings,829745,2015-04-22,RR Rossouw,14,9,1.0,1.0,0,0,0,21.0,155.55555555555557,A Nehra,bowled
+Royal Challengers Bangalore,Chennai Super Kings,829745,2015-04-22,SN Khan,11,7,0.0,1.0,0,0,0,17.0,157.14285714285714,RA Jadeja,caught
+Royal Challengers Bangalore,Chennai Super Kings,829745,2015-04-22,V Kohli,51,43,4.0,2.0,1,0,0,71.0,118.6046511627907,A Nehra,caught

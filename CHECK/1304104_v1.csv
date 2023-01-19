@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Capitals,Rajasthan Royals,1304104,2022-05-11,DA Warner,52,44,5.0,1.0,1,0,0,71.0,118.1818181818182,0,0
+Delhi Capitals,Rajasthan Royals,1304104,2022-05-11,KS Bharat,0,2,0.0,0.0,0,0,1,2.0,0.0,TA Boult,caught
+Delhi Capitals,Rajasthan Royals,1304104,2022-05-11,MR Marsh,89,64,5.0,7.0,1,0,0,120.0,139.0625,YS Chahal,caught
+Delhi Capitals,Rajasthan Royals,1304104,2022-05-11,RR Pant,13,4,0.0,2.0,0,0,0,21.0,325.0,0,0
+Rajasthan Royals,Delhi Capitals,1304104,2022-05-11,D Padikkal,48,31,6.0,2.0,0,0,0,62.0,154.83870967741936,A Nortje,caught
+Rajasthan Royals,Delhi Capitals,1304104,2022-05-11,HE van der Dussen,12,10,1.0,0.0,0,0,0,17.0,120.0,0,0
+Rajasthan Royals,Delhi Capitals,1304104,2022-05-11,JC Buttler,7,13,1.0,0.0,0,0,0,12.0,53.84615384615385,C Sakariya,caught
+Rajasthan Royals,Delhi Capitals,1304104,2022-05-11,R Ashwin,50,38,4.0,2.0,1,0,0,70.0,131.57894736842107,MR Marsh,caught
+Rajasthan Royals,Delhi Capitals,1304104,2022-05-11,R Parag,9,6,0.0,1.0,0,0,0,15.0,150.0,C Sakariya,caught
+Rajasthan Royals,Delhi Capitals,1304104,2022-05-11,SV Samson,6,4,1.0,0.0,0,0,0,11.0,150.0,A Nortje,caught
+Rajasthan Royals,Delhi Capitals,1304104,2022-05-11,TA Boult,3,4,0.0,0.0,0,0,0,7.0,75.0,0,0
+Rajasthan Royals,Delhi Capitals,1304104,2022-05-11,YBK Jaiswal,19,19,1.0,1.0,0,0,0,26.0,100.0,MR Marsh,caught

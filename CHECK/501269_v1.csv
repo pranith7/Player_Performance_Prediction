@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Mumbai Indians,501269,2011-05-25,B Lee,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,0,0
+Kolkata Knight Riders,Mumbai Indians,501269,2011-05-25,G Gambhir,4,9,1.0,0.0,0,0,0,9.0,44.44444444444444,Harbhajan Singh,bowled
+Kolkata Knight Riders,Mumbai Indians,501269,2011-05-25,JH Kallis,7,7,1.0,0.0,0,0,0,12.0,100.0,MM Patel,caught
+Kolkata Knight Riders,Mumbai Indians,501269,2011-05-25,MK Tiwary,4,7,0.0,0.0,0,0,0,8.0,57.14285714285714,DS Kulkarni,lbw
+Kolkata Knight Riders,Mumbai Indians,501269,2011-05-25,R Bhatia,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,DS Kulkarni,run out
+Kolkata Knight Riders,Mumbai Indians,501269,2011-05-25,RN ten Doeschate,70,51,6.0,3.0,1,0,0,94.0,137.2549019607843,0,0
+Kolkata Knight Riders,Mumbai Indians,501269,2011-05-25,SP Goswami,0,3,0.0,0.0,0,0,1,2.0,0.0,MM Patel,caught
+Kolkata Knight Riders,Mumbai Indians,501269,2011-05-25,Shakib Al Hasan,26,17,4.0,0.0,0,0,0,34.0,152.94117647058823,SL Malinga,bowled
+Kolkata Knight Riders,Mumbai Indians,501269,2011-05-25,YK Pathan,26,24,3.0,0.0,0,0,0,33.0,108.33333333333331,MM Patel,caught
+Mumbai Indians,Kolkata Knight Riders,501269,2011-05-25,AC Blizzard,51,30,7.0,2.0,1,0,0,74.0,170.0,B Lee,caught
+Mumbai Indians,Kolkata Knight Riders,501269,2011-05-25,AT Rayudu,12,16,2.0,0.0,0,0,0,18.0,75.0,JH Kallis,caught
+Mumbai Indians,Kolkata Knight Riders,501269,2011-05-25,Harbhajan Singh,11,5,1.0,1.0,0,0,0,18.0,220.00000000000003,0,0
+Mumbai Indians,Kolkata Knight Riders,501269,2011-05-25,JEC Franklin,29,26,2.0,0.0,0,0,0,35.0,111.53846153846156,0,0
+Mumbai Indians,Kolkata Knight Riders,501269,2011-05-25,KA Pollard,3,5,0.0,0.0,0,0,0,7.0,60.0,Shakib Al Hasan,lbw
+Mumbai Indians,Kolkata Knight Riders,501269,2011-05-25,SR Tendulkar,36,28,6.0,0.0,0,0,0,46.0,128.57142857142858,JH Kallis,caught
+Mumbai Indians,Kolkata Knight Riders,501269,2011-05-25,TL Suman,2,7,0.0,0.0,0,0,0,6.0,28.57142857142857,Shakib Al Hasan,caught

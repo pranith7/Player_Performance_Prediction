@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Royal Challengers Bangalore,Sunrisers Hyderabad,1178429,2019-05-04,AB de Villiers,1,2,0.0,0.0,0,0,0,5.0,50.0,B Kumar,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,1178429,2019-05-04,C de Grandhomme,3,4,0.0,0.0,0,0,0,7.0,75.0,0,0
+Royal Challengers Bangalore,Sunrisers Hyderabad,1178429,2019-05-04,Gurkeerat Singh,65,50,8.0,1.0,1,0,0,87.0,130.0,KK Ahmed,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,1178429,2019-05-04,PA Patel,0,4,0.0,0.0,0,0,1,2.0,0.0,B Kumar,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,1178429,2019-05-04,SO Hetmyer,75,50,4.0,6.0,1,0,0,103.0,150.0,Rashid Khan,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,1178429,2019-05-04,UT Yadav,9,4,2.0,0.0,0,0,0,15.0,225.0,0,0
+Royal Challengers Bangalore,Sunrisers Hyderabad,1178429,2019-05-04,V Kohli,16,7,2.0,1.0,0,0,0,24.0,228.57142857142856,KK Ahmed,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,1178429,2019-05-04,Washington Sundar,0,2,0.0,0.0,0,0,1,2.0,0.0,KK Ahmed,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,1178429,2019-05-04,B Kumar,7,5,1.0,0.0,0,0,0,12.0,140.0,0,0
+Sunrisers Hyderabad,Royal Challengers Bangalore,1178429,2019-05-04,KS Williamson,70,44,5.0,4.0,1,0,0,95.0,159.0909090909091,0,0
+Sunrisers Hyderabad,Royal Challengers Bangalore,1178429,2019-05-04,MJ Guptill,30,23,2.0,2.0,0,0,0,40.0,130.43478260869566,Washington Sundar,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,1178429,2019-05-04,MK Pandey,9,12,1.0,0.0,0,0,0,14.0,75.0,Washington Sundar,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,1178429,2019-05-04,Mohammad Nabi,4,3,1.0,0.0,0,0,0,9.0,133.33333333333331,NA Saini,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,1178429,2019-05-04,Rashid Khan,1,2,0.0,0.0,0,0,0,5.0,50.0,K Khejroliya,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,1178429,2019-05-04,V Shankar,27,18,0.0,3.0,0,0,0,37.0,150.0,Washington Sundar,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,1178429,2019-05-04,WP Saha,20,11,4.0,0.0,0,0,0,28.0,181.8181818181818,NA Saini,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,1178429,2019-05-04,YK Pathan,3,5,0.0,0.0,0,0,0,7.0,60.0,YS Chahal,caught

@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Mumbai Indians,501201,2011-04-10,AB Dinda,0,5,0.0,0.0,0,0,1,2.0,0.0,SL Malinga,caught
+Delhi Daredevils,Mumbai Indians,501201,2011-04-10,AJ Finch,8,13,1.0,0.0,0,0,0,13.0,61.53846153846154,Harbhajan Singh,caught
+Delhi Daredevils,Mumbai Indians,501201,2011-04-10,DA Warner,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,SL Malinga,bowled
+Delhi Daredevils,Mumbai Indians,501201,2011-04-10,IK Pathan,0,1,0.0,0.0,0,0,1,2.0,0.0,AG Murtaza,run out
+Delhi Daredevils,Mumbai Indians,501201,2011-04-10,M Morkel,0,2,0.0,0.0,0,0,1,2.0,0.0,SL Malinga,bowled
+Delhi Daredevils,Mumbai Indians,501201,2011-04-10,NV Ojha,29,31,2.0,1.0,0,0,0,37.0,93.5483870967742,AG Murtaza,caught
+Delhi Daredevils,Mumbai Indians,501201,2011-04-10,RE van der Merwe,8,6,1.0,0.0,0,0,0,13.0,133.33333333333331,0,0
+Delhi Daredevils,Mumbai Indians,501201,2011-04-10,UBT Chand,0,2,0.0,0.0,0,0,1,2.0,0.0,SL Malinga,bowled
+Delhi Daredevils,Mumbai Indians,501201,2011-04-10,UT Yadav,0,5,0.0,0.0,0,0,1,2.0,0.0,Harbhajan Singh,stumped
+Delhi Daredevils,Mumbai Indians,501201,2011-04-10,V Sehwag,19,16,2.0,1.0,0,0,0,27.0,118.75,AG Murtaza,run out
+Delhi Daredevils,Mumbai Indians,501201,2011-04-10,Y Venugopal Rao,26,26,3.0,0.0,0,0,0,33.0,100.0,SL Malinga,bowled
+Mumbai Indians,Delhi Daredevils,501201,2011-04-10,AT Rayudu,14,16,2.0,0.0,0,0,0,20.0,87.5,IK Pathan,run out
+Mumbai Indians,Delhi Daredevils,501201,2011-04-10,DJ Jacobs,1,6,0.0,0.0,0,0,0,5.0,16.666666666666664,M Morkel,bowled
+Mumbai Indians,Delhi Daredevils,501201,2011-04-10,RG Sharma,27,31,3.0,0.0,0,0,0,34.0,87.09677419354838,0,0
+Mumbai Indians,Delhi Daredevils,501201,2011-04-10,SR Tendulkar,46,55,3.0,1.0,0,0,0,55.0,83.63636363636363,0,0

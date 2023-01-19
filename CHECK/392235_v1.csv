@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Mumbai Indians,392235,2009-05-21,A Mishra,13,4,1.0,1.0,0,0,0,20.0,325.0,0,0
+Delhi Daredevils,Mumbai Indians,392235,2009-05-21,AB de Villiers,6,7,1.0,0.0,0,0,0,11.0,85.71428571428571,Harbhajan Singh,caught
+Delhi Daredevils,Mumbai Indians,392235,2009-05-21,DA Warner,15,9,1.0,1.0,0,0,0,22.0,166.66666666666669,DS Kulkarni,caught
+Delhi Daredevils,Mumbai Indians,392235,2009-05-21,G Gambhir,47,38,7.0,0.0,0,0,0,58.0,123.6842105263158,SL Malinga,caught
+Delhi Daredevils,Mumbai Indians,392235,2009-05-21,KD Karthik,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Delhi Daredevils,Mumbai Indians,392235,2009-05-21,R Bhatia,2,7,0.0,0.0,0,0,0,6.0,28.57142857142857,Harbhajan Singh,bowled
+Delhi Daredevils,Mumbai Indians,392235,2009-05-21,TM Dilshan,24,15,2.0,2.0,0,0,0,34.0,160.0,Harbhajan Singh,caught
+Delhi Daredevils,Mumbai Indians,392235,2009-05-21,V Sehwag,50,29,5.0,2.0,1,0,0,71.0,172.41379310344826,Harbhajan Singh,bowled
+Mumbai Indians,Delhi Daredevils,392235,2009-05-21,AM Nayar,4,4,0.0,0.0,0,0,0,8.0,100.0,AM Salvi,lbw
+Mumbai Indians,Delhi Daredevils,392235,2009-05-21,AM Rahane,56,43,5.0,2.0,1,0,0,77.0,130.2325581395349,PJ Sangwan,caught
+Mumbai Indians,Delhi Daredevils,392235,2009-05-21,Harbhajan Singh,12,8,2.0,0.0,0,0,0,18.0,150.0,0,0
+Mumbai Indians,Delhi Daredevils,392235,2009-05-21,JP Duminy,9,6,2.0,0.0,0,0,0,15.0,150.0,DP Nannes,caught
+Mumbai Indians,Delhi Daredevils,392235,2009-05-21,Mohammad Ashraful,2,12,0.0,0.0,0,0,0,6.0,16.666666666666664,PJ Sangwan,caught
+Mumbai Indians,Delhi Daredevils,392235,2009-05-21,PR Shah,12,11,1.0,0.0,0,0,0,17.0,109.09090909090908,DP Nannes,caught and bowled
+Mumbai Indians,Delhi Daredevils,392235,2009-05-21,SR Tendulkar,46,44,8.0,0.0,0,0,0,58.0,104.54545454545456,R Bhatia,bowled
+Mumbai Indians,Delhi Daredevils,392235,2009-05-21,ST Jayasuriya,0,3,0.0,0.0,0,0,1,2.0,0.0,DP Nannes,lbw

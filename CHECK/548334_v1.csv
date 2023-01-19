@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Mumbai Indians,548334,2012-04-22,Azhar Mahmood,10,8,0.0,1.0,0,0,0,16.0,125.0,PP Ojha,caught
+Kings XI Punjab,Mumbai Indians,548334,2012-04-22,DA Miller,5,5,0.0,0.0,0,0,0,9.0,100.0,0,0
+Kings XI Punjab,Mumbai Indians,548334,2012-04-22,DJ Hussey,21,19,2.0,0.0,0,0,0,27.0,110.5263157894737,KA Pollard,caught
+Kings XI Punjab,Mumbai Indians,548334,2012-04-22,Mandeep Singh,24,21,3.0,0.0,0,0,0,31.0,114.28571428571428,KA Pollard,caught
+Kings XI Punjab,Mumbai Indians,548334,2012-04-22,N Saini,30,25,5.0,0.0,0,0,0,39.0,120.0,PP Ojha,lbw
+Kings XI Punjab,Mumbai Indians,548334,2012-04-22,SE Marsh,68,43,5.0,3.0,1,0,0,91.0,158.13953488372093,0,0
+Mumbai Indians,Kings XI Punjab,548334,2012-04-22,AT Rayudu,3,4,0.0,0.0,0,0,0,7.0,75.0,0,0
+Mumbai Indians,Kings XI Punjab,548334,2012-04-22,Harbhajan Singh,4,3,1.0,0.0,0,0,0,9.0,133.33333333333331,P Kumar,caught
+Mumbai Indians,Kings XI Punjab,548334,2012-04-22,JEC Franklin,79,51,6.0,4.0,1,0,0,105.0,154.90196078431373,P Kumar,caught
+Mumbai Indians,Kings XI Punjab,548334,2012-04-22,KA Pollard,7,10,1.0,0.0,0,0,0,12.0,70.0,P Awana,caught
+Mumbai Indians,Kings XI Punjab,548334,2012-04-22,KD Karthik,35,20,5.0,0.0,0,0,0,44.0,175.0,PP Chawla,run out
+Mumbai Indians,Kings XI Punjab,548334,2012-04-22,NLTC Perera,4,7,0.0,0.0,0,0,0,8.0,57.14285714285714,0,0
+Mumbai Indians,Kings XI Punjab,548334,2012-04-22,RG Sharma,2,5,0.0,0.0,0,0,0,6.0,40.0,P Awana,caught
+Mumbai Indians,Kings XI Punjab,548334,2012-04-22,SR Tendulkar,23,24,3.0,0.0,0,0,0,30.0,95.83333333333334,PP Chawla,run out

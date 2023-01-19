@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Kolkata Knight Riders,548307,2012-04-05,AJ Finch,30,28,5.0,0.0,0,0,0,39.0,107.14285714285714,JH Kallis,bowled
+Delhi Daredevils,Kolkata Knight Riders,548307,2012-04-05,GJ Maxwell,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,0,0
+Delhi Daredevils,Kolkata Knight Riders,548307,2012-04-05,IK Pathan,42,20,2.0,3.0,0,0,0,54.0,210.0,0,0
+Delhi Daredevils,Kolkata Knight Riders,548307,2012-04-05,V Sehwag,20,13,1.0,1.0,0,0,0,27.0,153.84615384615387,R Bhatia,caught
+Kolkata Knight Riders,Delhi Daredevils,548307,2012-04-05,B Lee,9,5,0.0,1.0,0,0,0,15.0,180.0,RE van der Merwe,run out
+Kolkata Knight Riders,Delhi Daredevils,548307,2012-04-05,BB McCullum,9,8,2.0,0.0,0,0,0,15.0,112.5,RE van der Merwe,lbw
+Kolkata Knight Riders,Delhi Daredevils,548307,2012-04-05,DB Das,18,10,0.0,2.0,0,0,0,26.0,180.0,M Morkel,run out
+Kolkata Knight Riders,Delhi Daredevils,548307,2012-04-05,G Gambhir,16,15,2.0,0.0,0,0,0,22.0,106.66666666666669,M Morkel,bowled
+Kolkata Knight Riders,Delhi Daredevils,548307,2012-04-05,Iqbal Abdulla,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Kolkata Knight Riders,Delhi Daredevils,548307,2012-04-05,JH Kallis,4,4,1.0,0.0,0,0,0,9.0,100.0,M Morkel,bowled
+Kolkata Knight Riders,Delhi Daredevils,548307,2012-04-05,LR Shukla,26,17,1.0,2.0,0,0,0,35.0,152.94117647058823,UT Yadav,caught
+Kolkata Knight Riders,Delhi Daredevils,548307,2012-04-05,MK Tiwary,0,1,0.0,0.0,0,0,1,2.0,0.0,M Morkel,bowled
+Kolkata Knight Riders,Delhi Daredevils,548307,2012-04-05,R Bhatia,7,9,0.0,0.0,0,0,0,11.0,77.77777777777779,RE van der Merwe,stumped
+Kolkata Knight Riders,Delhi Daredevils,548307,2012-04-05,YK Pathan,0,4,0.0,0.0,0,0,1,2.0,0.0,UT Yadav,caught

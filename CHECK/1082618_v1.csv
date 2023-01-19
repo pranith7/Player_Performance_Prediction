@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Rising Pune Supergiant,1082618,2017-04-24,HH Pandya,13,12,2.0,0.0,0,0,0,19.0,108.33333333333331,JD Unadkat,caught
+Mumbai Indians,Rising Pune Supergiant,1082618,2017-04-24,Harbhajan Singh,7,2,0.0,1.0,0,0,0,13.0,350.0,0,0
+Mumbai Indians,Rising Pune Supergiant,1082618,2017-04-24,JC Buttler,17,13,3.0,0.0,0,0,0,24.0,130.76923076923077,BA Stokes,caught
+Mumbai Indians,Rising Pune Supergiant,1082618,2017-04-24,KA Pollard,9,9,1.0,0.0,0,0,0,14.0,100.0,Imran Tahir,caught
+Mumbai Indians,Rising Pune Supergiant,1082618,2017-04-24,KV Sharma,11,10,0.0,1.0,0,0,0,17.0,110.0,BA Stokes,bowled
+Mumbai Indians,Rising Pune Supergiant,1082618,2017-04-24,N Rana,3,9,0.0,0.0,0,0,0,7.0,33.33333333333333,DT Christian,caught
+Mumbai Indians,Rising Pune Supergiant,1082618,2017-04-24,PA Patel,33,28,4.0,0.0,0,0,0,41.0,117.85714285714286,Washington Sundar,bowled
+Mumbai Indians,Rising Pune Supergiant,1082618,2017-04-24,RG Sharma,58,40,6.0,3.0,1,0,0,82.0,145.0,JD Unadkat,caught and bowled
+Rising Pune Supergiant,Mumbai Indians,1082618,2017-04-24,AM Rahane,38,33,5.0,1.0,0,0,0,49.0,115.15151515151516,KV Sharma,caught and bowled
+Rising Pune Supergiant,Mumbai Indians,1082618,2017-04-24,BA Stokes,17,12,2.0,0.0,0,0,0,23.0,141.66666666666669,MG Johnson,bowled
+Rising Pune Supergiant,Mumbai Indians,1082618,2017-04-24,DT Christian,8,8,1.0,0.0,0,0,0,13.0,100.0,0,0
+Rising Pune Supergiant,Mumbai Indians,1082618,2017-04-24,MK Tiwary,22,13,4.0,0.0,0,0,0,30.0,169.23076923076923,JJ Bumrah,lbw
+Rising Pune Supergiant,Mumbai Indians,1082618,2017-04-24,MS Dhoni,7,11,0.0,0.0,0,0,0,11.0,63.63636363636363,JJ Bumrah,bowled
+Rising Pune Supergiant,Mumbai Indians,1082618,2017-04-24,RA Tripathi,45,31,3.0,2.0,0,0,0,56.0,145.16129032258064,KV Sharma,caught
+Rising Pune Supergiant,Mumbai Indians,1082618,2017-04-24,SPD Smith,17,12,2.0,0.0,0,0,0,23.0,141.66666666666669,Harbhajan Singh,bowled
+Rising Pune Supergiant,Mumbai Indians,1082618,2017-04-24,Washington Sundar,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0

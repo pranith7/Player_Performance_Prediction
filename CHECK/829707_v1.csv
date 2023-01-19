@@ -1,0 +1,20 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Delhi Daredevils,829707,2015-04-09,BB McCullum,4,2,1.0,0.0,0,0,0,9.0,200.0,NM Coulter-Nile,caught
+Chennai Super Kings,Delhi Daredevils,829707,2015-04-09,DJ Bravo,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,DJ Muthuswami,lbw
+Chennai Super Kings,Delhi Daredevils,829707,2015-04-09,DR Smith,34,31,6.0,0.0,0,0,0,44.0,109.6774193548387,Imran Tahir,caught
+Chennai Super Kings,Delhi Daredevils,829707,2015-04-09,F du Plessis,32,25,3.0,0.0,0,0,0,39.0,128.0,JP Duminy,caught
+Chennai Super Kings,Delhi Daredevils,829707,2015-04-09,MM Sharma,2,1,0.0,0.0,0,0,0,6.0,200.0,0,0
+Chennai Super Kings,Delhi Daredevils,829707,2015-04-09,MS Dhoni,30,27,1.0,2.0,0,0,0,39.0,111.11111111111111,NM Coulter-Nile,caught
+Chennai Super Kings,Delhi Daredevils,829707,2015-04-09,R Ashwin,12,8,1.0,0.0,0,0,0,17.0,150.0,0,0
+Chennai Super Kings,Delhi Daredevils,829707,2015-04-09,RA Jadeja,17,19,1.0,1.0,0,0,0,24.0,89.47368421052632,A Mishra,stumped
+Chennai Super Kings,Delhi Daredevils,829707,2015-04-09,SK Raina,4,7,0.0,0.0,0,0,0,8.0,57.14285714285714,NM Coulter-Nile,bowled
+Delhi Daredevils,Chennai Super Kings,829707,2015-04-09,A Mishra,4,5,0.0,0.0,0,0,0,8.0,80.0,A Nehra,run out
+Delhi Daredevils,Chennai Super Kings,829707,2015-04-09,CM Gautam,4,5,0.0,0.0,0,0,0,8.0,80.0,A Nehra,caught
+Delhi Daredevils,Chennai Super Kings,829707,2015-04-09,Imran Tahir,2,2,0.0,0.0,0,0,0,6.0,100.0,DJ Bravo,caught
+Delhi Daredevils,Chennai Super Kings,829707,2015-04-09,JA Morkel,73,59,8.0,1.0,1,0,0,95.0,123.72881355932203,0,0
+Delhi Daredevils,Chennai Super Kings,829707,2015-04-09,JP Duminy,5,5,0.0,0.0,0,0,0,9.0,100.0,IC Pandey,bowled
+Delhi Daredevils,Chennai Super Kings,829707,2015-04-09,KM Jadhav,20,20,2.0,0.0,0,0,0,26.0,100.0,MM Sharma,caught
+Delhi Daredevils,Chennai Super Kings,829707,2015-04-09,MA Agarwal,15,12,2.0,1.0,0,0,0,23.0,125.0,A Nehra,caught
+Delhi Daredevils,Chennai Super Kings,829707,2015-04-09,NM Coulter-Nile,5,4,1.0,0.0,0,0,0,10.0,125.0,R Ashwin,bowled
+Delhi Daredevils,Chennai Super Kings,829707,2015-04-09,SS Iyer,7,7,1.0,0.0,0,0,0,12.0,100.0,A Nehra,caught
+Delhi Daredevils,Chennai Super Kings,829707,2015-04-09,Yuvraj Singh,9,6,1.0,0.0,0,0,0,14.0,150.0,DJ Bravo,caught

@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Royal Challengers Bangalore,335998,2008-04-30,G Gambhir,86,54,11.0,1.0,1,0,0,111.0,159.25925925925927,Z Khan,caught
+Delhi Daredevils,Royal Challengers Bangalore,335998,2008-04-30,KD Karthik,2,4,0.0,0.0,0,0,0,6.0,50.0,JH Kallis,bowled
+Delhi Daredevils,Royal Challengers Bangalore,335998,2008-04-30,MK Tiwary,11,9,1.0,0.0,0,0,0,16.0,122.22222222222224,0,0
+Delhi Daredevils,Royal Challengers Bangalore,335998,2008-04-30,R Bhatia,8,5,1.0,0.0,0,0,0,13.0,160.0,0,0
+Delhi Daredevils,Royal Challengers Bangalore,335998,2008-04-30,S Dhawan,50,33,4.0,3.0,1,0,0,72.0,151.5151515151515,JH Kallis,caught
+Delhi Daredevils,Royal Challengers Bangalore,335998,2008-04-30,Shoaib Malik,6,4,1.0,0.0,0,0,0,11.0,150.0,DW Steyn,bowled
+Delhi Daredevils,Royal Challengers Bangalore,335998,2008-04-30,V Sehwag,24,13,3.0,1.0,0,0,0,33.0,184.6153846153846,DW Steyn,run out
+Royal Challengers Bangalore,Delhi Daredevils,335998,2008-04-30,JH Kallis,54,44,6.0,1.0,1,0,0,74.0,122.72727272727272,DL Vettori,bowled
+Royal Challengers Bangalore,Delhi Daredevils,335998,2008-04-30,LRPL Taylor,29,15,3.0,2.0,0,0,0,40.0,193.3333333333333,GD McGrath,caught
+Royal Challengers Bangalore,Delhi Daredevils,335998,2008-04-30,MV Boucher,31,17,2.0,2.0,0,0,0,41.0,182.35294117647047,0,0
+Royal Challengers Bangalore,Delhi Daredevils,335998,2008-04-30,P Kumar,6,5,1.0,0.0,0,0,0,11.0,120.0,GD McGrath,caught
+Royal Challengers Bangalore,Delhi Daredevils,335998,2008-04-30,R Dravid,38,30,4.0,1.0,0,0,0,48.0,126.66666666666666,GD McGrath,caught
+Royal Challengers Bangalore,Delhi Daredevils,335998,2008-04-30,V Kohli,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Royal Challengers Bangalore,Delhi Daredevils,335998,2008-04-30,W Jaffer,10,9,0.0,1.0,0,0,0,16.0,111.11111111111111,GD McGrath,caught

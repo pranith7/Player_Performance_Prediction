@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Capitals,Royal Challengers Bangalore,1178421,2019-04-28,AR Patel,16,9,3.0,0.0,0,0,0,23.0,177.77777777777777,0,0
+Delhi Capitals,Royal Challengers Bangalore,1178421,2019-04-28,CA Ingram,11,7,1.0,1.0,0,0,0,18.0,157.14285714285714,NA Saini,caught
+Delhi Capitals,Royal Challengers Bangalore,1178421,2019-04-28,PP Shaw,18,10,4.0,0.0,0,0,0,26.0,180.0,UT Yadav,caught
+Delhi Capitals,Royal Challengers Bangalore,1178421,2019-04-28,RR Pant,7,7,1.0,0.0,0,0,0,12.0,100.0,YS Chahal,lbw
+Delhi Capitals,Royal Challengers Bangalore,1178421,2019-04-28,S Dhawan,50,37,5.0,2.0,1,0,0,71.0,135.13513513513513,YS Chahal,caught
+Delhi Capitals,Royal Challengers Bangalore,1178421,2019-04-28,SE Rutherford,28,13,1.0,3.0,0,0,0,39.0,215.3846153846154,0,0
+Delhi Capitals,Royal Challengers Bangalore,1178421,2019-04-28,SS Iyer,52,37,2.0,3.0,1,0,0,72.0,140.54054054054055,Washington Sundar,caught
+Royal Challengers Bangalore,Delhi Capitals,1178421,2019-04-28,AB de Villiers,17,19,0.0,1.0,0,0,0,23.0,89.47368421052632,SE Rutherford,caught
+Royal Challengers Bangalore,Delhi Capitals,1178421,2019-04-28,Gurkeerat Singh,27,20,2.0,1.0,0,0,0,35.0,135.0,I Sharma,caught
+Royal Challengers Bangalore,Delhi Capitals,1178421,2019-04-28,H Klaasen,3,3,0.0,0.0,0,0,0,7.0,100.0,A Mishra,caught
+Royal Challengers Bangalore,Delhi Capitals,1178421,2019-04-28,MP Stoinis,32,25,1.0,2.0,0,0,0,41.0,128.0,0,0
+Royal Challengers Bangalore,Delhi Capitals,1178421,2019-04-28,PA Patel,39,20,7.0,1.0,0,0,0,52.0,195.0,K Rabada,caught
+Royal Challengers Bangalore,Delhi Capitals,1178421,2019-04-28,S Dube,24,16,0.0,2.0,0,0,0,32.0,150.0,A Mishra,caught
+Royal Challengers Bangalore,Delhi Capitals,1178421,2019-04-28,V Kohli,23,17,2.0,1.0,0,0,0,31.0,135.29411764705884,AR Patel,caught
+Royal Challengers Bangalore,Delhi Capitals,1178421,2019-04-28,Washington Sundar,1,2,0.0,0.0,0,0,0,5.0,50.0,K Rabada,caught

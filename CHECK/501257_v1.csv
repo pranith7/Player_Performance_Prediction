@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Kings XI Punjab,501257,2011-05-15,DA Warner,29,29,4.0,1.0,0,0,0,39.0,100.0,SJ Srivastava,caught
+Delhi Daredevils,Kings XI Punjab,501257,2011-05-15,IK Pathan,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,PC Valthaty,caught
+Delhi Daredevils,Kings XI Punjab,501257,2011-05-15,JR Hopes,7,7,1.0,0.0,0,0,0,12.0,100.0,PP Chawla,caught
+Delhi Daredevils,Kings XI Punjab,501257,2011-05-15,M Morkel,16,6,1.0,1.0,0,0,0,23.0,266.66666666666663,0,0
+Delhi Daredevils,Kings XI Punjab,501257,2011-05-15,NV Ojha,28,31,2.0,2.0,0,0,0,38.0,90.32258064516128,SJ Srivastava,caught
+Delhi Daredevils,Kings XI Punjab,501257,2011-05-15,S Sriram,4,7,0.0,0.0,0,0,0,8.0,57.14285714285714,PP Chawla,caught
+Delhi Daredevils,Kings XI Punjab,501257,2011-05-15,TR Birt,16,11,2.0,1.0,0,0,0,24.0,145.45454545454547,P Kumar,caught
+Delhi Daredevils,Kings XI Punjab,501257,2011-05-15,VR Aaron,0,5,0.0,0.0,0,0,1,2.0,0.0,0,0
+Delhi Daredevils,Kings XI Punjab,501257,2011-05-15,Y Nagar,10,8,2.0,0.0,0,0,0,16.0,125.0,RJ Harris,lbw
+Delhi Daredevils,Kings XI Punjab,501257,2011-05-15,Y Venugopal Rao,16,13,1.0,1.0,0,0,0,23.0,123.07692307692308,PP Chawla,caught
+Kings XI Punjab,Delhi Daredevils,501257,2011-05-15,AC Gilchrist,9,9,2.0,0.0,0,0,0,15.0,100.0,M Morkel,caught
+Kings XI Punjab,Delhi Daredevils,501257,2011-05-15,DJ Hussey,3,4,0.0,0.0,0,0,0,7.0,75.0,AM Salvi,caught
+Kings XI Punjab,Delhi Daredevils,501257,2011-05-15,KD Karthik,27,22,4.0,0.0,0,0,0,35.0,122.72727272727272,AM Salvi,caught
+Kings XI Punjab,Delhi Daredevils,501257,2011-05-15,Mandeep Singh,11,7,2.0,0.0,0,0,0,17.0,157.14285714285714,IK Pathan,bowled
+Kings XI Punjab,Delhi Daredevils,501257,2011-05-15,PC Valthaty,62,54,7.0,3.0,1,0,0,87.0,114.8148148148148,IK Pathan,bowled
+Kings XI Punjab,Delhi Daredevils,501257,2011-05-15,PP Chawla,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Kings XI Punjab,Delhi Daredevils,501257,2011-05-15,RJ Harris,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Kings XI Punjab,Delhi Daredevils,501257,2011-05-15,SE Marsh,46,28,5.0,3.0,0,0,0,61.0,164.28571428571428,IK Pathan,caught

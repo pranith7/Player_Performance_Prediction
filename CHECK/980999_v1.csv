@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Royal Challengers Bangalore,980999,2016-05-18,AR Patel,13,12,1.0,1.0,0,0,0,20.0,108.33333333333331,SR Watson,caught
+Kings XI Punjab,Royal Challengers Bangalore,980999,2016-05-18,DA Miller,3,8,0.0,0.0,0,0,0,7.0,37.5,SR Watson,caught
+Kings XI Punjab,Royal Challengers Bangalore,980999,2016-05-18,F Behardien,0,1,0.0,0.0,0,0,1,2.0,0.0,YS Chahal,caught
+Kings XI Punjab,Royal Challengers Bangalore,980999,2016-05-18,Gurkeerat Singh,18,18,2.0,0.0,0,0,0,24.0,100.0,YS Chahal,caught
+Kings XI Punjab,Royal Challengers Bangalore,980999,2016-05-18,HM Amla,9,6,0.0,1.0,0,0,0,15.0,150.0,S Aravind,caught
+Kings XI Punjab,Royal Challengers Bangalore,980999,2016-05-18,KC Cariappa,12,8,0.0,1.0,0,0,0,18.0,150.0,0,0
+Kings XI Punjab,Royal Challengers Bangalore,980999,2016-05-18,KJ Abbott,0,1,0.0,0.0,0,0,1,2.0,0.0,YS Chahal,caught
+Kings XI Punjab,Royal Challengers Bangalore,980999,2016-05-18,M Vijay,16,8,2.0,1.0,0,0,0,24.0,200.0,S Aravind,bowled
+Kings XI Punjab,Royal Challengers Bangalore,980999,2016-05-18,MM Sharma,14,12,2.0,0.0,0,0,0,20.0,116.66666666666669,Sachin Baby,run out
+Kings XI Punjab,Royal Challengers Bangalore,980999,2016-05-18,Sandeep Sharma,5,5,0.0,0.0,0,0,0,9.0,100.0,0,0
+Kings XI Punjab,Royal Challengers Bangalore,980999,2016-05-18,WP Saha,24,10,5.0,0.0,0,0,0,33.0,240.0,YS Chahal,lbw
+Royal Challengers Bangalore,Kings XI Punjab,980999,2016-05-18,AB de Villiers,0,2,0.0,0.0,0,0,1,2.0,0.0,KJ Abbott,bowled
+Royal Challengers Bangalore,Kings XI Punjab,980999,2016-05-18,CH Gayle,73,35,4.0,8.0,1,0,0,105.0,208.57142857142856,AR Patel,caught
+Royal Challengers Bangalore,Kings XI Punjab,980999,2016-05-18,KL Rahul,16,7,3.0,0.0,0,0,0,23.0,228.57142857142856,0,0
+Royal Challengers Bangalore,Kings XI Punjab,980999,2016-05-18,SR Watson,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Royal Challengers Bangalore,Kings XI Punjab,980999,2016-05-18,V Kohli,113,51,12.0,8.0,1,1,0,169.0,221.5686274509804,Sandeep Sharma,caught

@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Royal Challengers Bangalore,1216525,2020-10-10,AT Rayudu,42,42,4.0,0.0,0,0,0,50.0,100.0,I Udana,bowled
+Chennai Super Kings,Royal Challengers Bangalore,1216525,2020-10-10,DJ Bravo,7,5,0.0,0.0,0,0,0,11.0,140.0,CH Morris,caught
+Chennai Super Kings,Royal Challengers Bangalore,1216525,2020-10-10,DL Chahar,5,5,0.0,0.0,0,0,0,9.0,100.0,0,0
+Chennai Super Kings,Royal Challengers Bangalore,1216525,2020-10-10,F du Plessis,8,11,0.0,0.0,0,0,0,12.0,72.72727272727273,Washington Sundar,caught
+Chennai Super Kings,Royal Challengers Bangalore,1216525,2020-10-10,MS Dhoni,10,6,0.0,1.0,0,0,0,16.0,166.66666666666669,YS Chahal,caught
+Chennai Super Kings,Royal Challengers Bangalore,1216525,2020-10-10,N Jagadeesan,33,30,4.0,0.0,0,0,0,41.0,110.0,NA Saini,run out
+Chennai Super Kings,Royal Challengers Bangalore,1216525,2020-10-10,RA Jadeja,7,6,1.0,0.0,0,0,0,12.0,116.66666666666669,CH Morris,caught
+Chennai Super Kings,Royal Challengers Bangalore,1216525,2020-10-10,SM Curran,0,1,0.0,0.0,0,0,1,2.0,0.0,CH Morris,caught
+Chennai Super Kings,Royal Challengers Bangalore,1216525,2020-10-10,SN Thakur,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Chennai Super Kings,Royal Challengers Bangalore,1216525,2020-10-10,SR Watson,14,18,3.0,0.0,0,0,0,21.0,77.77777777777779,Washington Sundar,bowled
+Royal Challengers Bangalore,Chennai Super Kings,1216525,2020-10-10,AB de Villiers,0,2,0.0,0.0,0,0,1,2.0,0.0,SN Thakur,caught
+Royal Challengers Bangalore,Chennai Super Kings,1216525,2020-10-10,AJ Finch,2,9,0.0,0.0,0,0,0,6.0,22.22222222222222,DL Chahar,bowled
+Royal Challengers Bangalore,Chennai Super Kings,1216525,2020-10-10,D Padikkal,33,38,2.0,1.0,0,0,0,41.0,86.8421052631579,SN Thakur,caught
+Royal Challengers Bangalore,Chennai Super Kings,1216525,2020-10-10,S Dube,22,15,2.0,1.0,0,0,0,30.0,146.66666666666666,0,0
+Royal Challengers Bangalore,Chennai Super Kings,1216525,2020-10-10,V Kohli,90,57,4.0,4.0,1,0,0,114.0,157.89473684210526,0,0
+Royal Challengers Bangalore,Chennai Super Kings,1216525,2020-10-10,Washington Sundar,10,10,0.0,1.0,0,0,0,16.0,100.0,SM Curran,caught

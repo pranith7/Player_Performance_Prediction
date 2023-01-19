@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Punjab Kings,Rajasthan Royals,1304098,2022-05-07,JM Bairstow,56,42,8.0,1.0,1,0,0,78.0,133.33333333333331,YS Chahal,lbw
+Punjab Kings,Rajasthan Royals,1304098,2022-05-07,JM Sharma,38,20,4.0,2.0,0,0,0,50.0,190.0,0,0
+Punjab Kings,Rajasthan Royals,1304098,2022-05-07,LS Livingstone,22,17,1.0,2.0,0,0,0,31.0,129.41176470588235,M Prasidh Krishna,bowled
+Punjab Kings,Rajasthan Royals,1304098,2022-05-07,MA Agarwal,15,14,2.0,0.0,0,0,0,21.0,107.14285714285714,YS Chahal,caught
+Punjab Kings,Rajasthan Royals,1304098,2022-05-07,PBB Rajapaksa,27,18,2.0,2.0,0,0,0,37.0,150.0,YS Chahal,bowled
+Punjab Kings,Rajasthan Royals,1304098,2022-05-07,R Dhawan,5,2,1.0,0.0,0,0,0,10.0,250.0,0,0
+Punjab Kings,Rajasthan Royals,1304098,2022-05-07,S Dhawan,12,18,2.0,0.0,0,0,0,18.0,66.66666666666666,R Ashwin,caught
+Rajasthan Royals,Punjab Kings,1304098,2022-05-07,D Padikkal,31,35,3.0,0.0,0,0,0,38.0,88.57142857142857,Arshdeep Singh,caught
+Rajasthan Royals,Punjab Kings,1304098,2022-05-07,JC Buttler,30,16,5.0,1.0,0,0,0,41.0,187.5,K Rabada,caught
+Rajasthan Royals,Punjab Kings,1304098,2022-05-07,R Parag,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Rajasthan Royals,Punjab Kings,1304098,2022-05-07,SO Hetmyer,31,18,3.0,2.0,0,0,0,42.0,172.22222222222223,0,0
+Rajasthan Royals,Punjab Kings,1304098,2022-05-07,SV Samson,23,12,4.0,0.0,0,0,0,31.0,191.66666666666669,R Dhawan,caught
+Rajasthan Royals,Punjab Kings,1304098,2022-05-07,YBK Jaiswal,68,42,9.0,2.0,1,0,0,93.0,161.9047619047619,Arshdeep Singh,caught

@@ -1,0 +1,10 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Mumbai Indians,598024,2013-04-21,DA Warner,7,6,1.0,0.0,0,0,0,12.0,116.66666666666669,0,0
+Delhi Daredevils,Mumbai Indians,598024,2013-04-21,DPMD Jayawardene,59,43,8.0,1.0,1,0,0,81.0,137.2093023255814,SL Malinga,lbw
+Delhi Daredevils,Mumbai Indians,598024,2013-04-21,V Sehwag,95,57,13.0,2.0,1,0,0,124.0,166.66666666666669,0,0
+Mumbai Indians,Delhi Daredevils,598024,2013-04-21,AT Rayudu,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Mumbai Indians,Delhi Daredevils,598024,2013-04-21,DR Smith,8,12,1.0,0.0,0,0,0,13.0,66.66666666666666,RE van der Merwe,caught
+Mumbai Indians,Delhi Daredevils,598024,2013-04-21,KA Pollard,19,10,1.0,1.0,0,0,0,26.0,190.0,0,0
+Mumbai Indians,Delhi Daredevils,598024,2013-04-21,KD Karthik,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,UT Yadav,run out
+Mumbai Indians,Delhi Daredevils,598024,2013-04-21,RG Sharma,73,44,5.0,5.0,1,0,0,100.0,165.9090909090909,UT Yadav,caught
+Mumbai Indians,Delhi Daredevils,598024,2013-04-21,SR Tendulkar,54,48,4.0,2.0,1,0,0,74.0,112.5,UT Yadav,caught

@@ -1,0 +1,20 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Sunrisers Hyderabad,1082609,2017-04-17,AR Patel,7,12,0.0,0.0,0,0,0,11.0,58.333333333333336,MC Henriques,caught
+Kings XI Punjab,Sunrisers Hyderabad,1082609,2017-04-17,DA Miller,1,6,0.0,0.0,0,0,0,5.0,16.666666666666664,Rashid Khan,bowled
+Kings XI Punjab,Sunrisers Hyderabad,1082609,2017-04-17,EJG Morgan,13,17,0.0,1.0,0,0,0,19.0,76.47058823529412,Mohammad Nabi,bowled
+Kings XI Punjab,Sunrisers Hyderabad,1082609,2017-04-17,GJ Maxwell,10,12,2.0,0.0,0,0,0,16.0,83.33333333333334,B Kumar,caught
+Kings XI Punjab,Sunrisers Hyderabad,1082609,2017-04-17,HM Amla,0,1,0.0,0.0,0,0,1,2.0,0.0,B Kumar,lbw
+Kings XI Punjab,Sunrisers Hyderabad,1082609,2017-04-17,I Sharma,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,S Kaul,bowled
+Kings XI Punjab,Sunrisers Hyderabad,1082609,2017-04-17,KC Cariappa,1,5,0.0,0.0,0,0,0,5.0,20.0,B Kumar,bowled
+Kings XI Punjab,Sunrisers Hyderabad,1082609,2017-04-17,M Vohra,95,52,9.0,5.0,1,0,0,126.0,182.69230769230768,B Kumar,lbw
+Kings XI Punjab,Sunrisers Hyderabad,1082609,2017-04-17,MM Sharma,10,6,0.0,1.0,0,0,0,16.0,166.66666666666669,B Kumar,caught
+Kings XI Punjab,Sunrisers Hyderabad,1082609,2017-04-17,Sandeep Sharma,5,5,0.0,0.0,0,0,0,9.0,100.0,0,0
+Kings XI Punjab,Sunrisers Hyderabad,1082609,2017-04-17,WP Saha,0,2,0.0,0.0,0,0,1,2.0,0.0,Rashid Khan,bowled
+Sunrisers Hyderabad,Kings XI Punjab,1082609,2017-04-17,DA Warner,70,57,7.0,2.0,1,0,0,93.0,122.80701754385966,0,0
+Sunrisers Hyderabad,Kings XI Punjab,1082609,2017-04-17,DJ Hooda,12,10,1.0,0.0,0,0,0,17.0,120.0,MM Sharma,caught
+Sunrisers Hyderabad,Kings XI Punjab,1082609,2017-04-17,MC Henriques,9,16,0.0,0.0,0,0,0,13.0,56.25,AR Patel,stumped
+Sunrisers Hyderabad,Kings XI Punjab,1082609,2017-04-17,Mohammad Nabi,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,Sandeep Sharma,caught
+Sunrisers Hyderabad,Kings XI Punjab,1082609,2017-04-17,NV Ojha,34,22,2.0,1.0,0,0,0,42.0,154.54545454545453,KC Cariappa,stumped
+Sunrisers Hyderabad,Kings XI Punjab,1082609,2017-04-17,Rashid Khan,6,1,0.0,1.0,0,0,0,12.0,600.0,0,0
+Sunrisers Hyderabad,Kings XI Punjab,1082609,2017-04-17,S Dhawan,15,15,1.0,0.0,0,0,0,20.0,100.0,MM Sharma,caught
+Sunrisers Hyderabad,Kings XI Punjab,1082609,2017-04-17,Yuvraj Singh,0,1,0.0,0.0,0,0,1,2.0,0.0,AR Patel,caught

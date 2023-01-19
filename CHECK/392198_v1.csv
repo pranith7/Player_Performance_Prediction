@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Rajasthan Royals,392198,2009-04-28,A Mishra,0,4,0.0,0.0,0,0,1,2.0,0.0,Kamran Khan,bowled
+Delhi Daredevils,Rajasthan Royals,392198,2009-04-28,AB de Villiers,50,41,5.0,1.0,1,0,0,69.0,121.95121951219512,SK Warne,lbw
+Delhi Daredevils,Rajasthan Royals,392198,2009-04-28,DL Vettori,29,28,3.0,0.0,0,0,0,36.0,103.57142857142858,MM Patel,bowled
+Delhi Daredevils,Rajasthan Royals,392198,2009-04-28,G Gambhir,8,6,1.0,0.0,0,0,0,13.0,133.33333333333331,AD Mascarenhas,caught
+Delhi Daredevils,Rajasthan Royals,392198,2009-04-28,KD Karthik,4,5,0.0,0.0,0,0,0,8.0,80.0,SK Warne,caught and bowled
+Delhi Daredevils,Rajasthan Royals,392198,2009-04-28,M Manhas,23,16,2.0,1.0,0,0,0,31.0,143.75,0,0
+Delhi Daredevils,Rajasthan Royals,392198,2009-04-28,PJ Sangwan,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Delhi Daredevils,Rajasthan Royals,392198,2009-04-28,TM Dilshan,7,10,1.0,0.0,0,0,0,12.0,70.0,MM Patel,caught
+Delhi Daredevils,Rajasthan Royals,392198,2009-04-28,V Sehwag,16,11,2.0,1.0,0,0,0,24.0,145.45454545454547,AD Mascarenhas,caught
+Rajasthan Royals,Delhi Daredevils,392198,2009-04-28,GC Smith,44,48,5.0,0.0,0,0,0,53.0,91.66666666666666,0,0
+Rajasthan Royals,Delhi Daredevils,392198,2009-04-28,PC Valthaty,1,5,0.0,0.0,0,0,0,5.0,20.0,A Mishra,caught
+Rajasthan Royals,Delhi Daredevils,392198,2009-04-28,RA Jadeja,16,14,1.0,0.0,0,0,0,21.0,114.28571428571428,A Mishra,caught
+Rajasthan Royals,Delhi Daredevils,392198,2009-04-28,RJ Quiney,4,11,1.0,0.0,0,0,0,9.0,36.36363636363637,A Nehra,lbw
+Rajasthan Royals,Delhi Daredevils,392198,2009-04-28,SA Asnodkar,11,8,1.0,1.0,0,0,0,18.0,137.5,PJ Sangwan,run out
+Rajasthan Royals,Delhi Daredevils,392198,2009-04-28,SK Warne,0,2,0.0,0.0,0,0,1,2.0,0.0,A Mishra,stumped
+Rajasthan Royals,Delhi Daredevils,392198,2009-04-28,YK Pathan,62,30,3.0,6.0,1,0,0,89.0,206.66666666666669,0,0

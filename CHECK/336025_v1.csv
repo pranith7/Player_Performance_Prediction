@@ -1,0 +1,10 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Kolkata Knight Riders,336025,2008-05-18,PA Patel,19,30,2.0,0.0,0,0,0,25.0,63.33333333333333,0,0
+Chennai Super Kings,Kolkata Knight Riders,336025,2008-05-18,SP Fleming,32,21,6.0,0.0,0,0,0,42.0,152.38095238095238,0,0
+Kolkata Knight Riders,Chennai Super Kings,336025,2008-05-18,DB Das,27,32,1.0,2.0,0,0,0,36.0,84.375,M Ntini,bowled
+Kolkata Knight Riders,Chennai Super Kings,336025,2008-05-18,DJ Hussey,0,1,0.0,0.0,0,0,1,2.0,0.0,M Ntini,bowled
+Kolkata Knight Riders,Chennai Super Kings,336025,2008-05-18,LR Shukla,13,12,2.0,0.0,0,0,0,19.0,108.33333333333331,0,0
+Kolkata Knight Riders,Chennai Super Kings,336025,2008-05-18,Mohammad Hafeez,6,6,1.0,0.0,0,0,0,11.0,100.0,M Ntini,caught
+Kolkata Knight Riders,Chennai Super Kings,336025,2008-05-18,SC Ganguly,2,8,0.0,0.0,0,0,0,6.0,25.0,M Ntini,bowled
+Kolkata Knight Riders,Chennai Super Kings,336025,2008-05-18,Salman Butt,73,56,10.0,1.0,1,0,0,97.0,130.35714285714286,L Balaji,lbw
+Kolkata Knight Riders,Chennai Super Kings,336025,2008-05-18,WP Saha,15,9,1.0,0.0,0,0,0,20.0,166.66666666666669,0,0

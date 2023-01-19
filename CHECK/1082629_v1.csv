@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Gujarat Lions,Rising Pune Supergiant,1082629,2017-05-01,AJ Finch,13,7,1.0,1.0,0,0,0,20.0,185.7142857142857,Imran Tahir,caught and bowled
+Gujarat Lions,Rising Pune Supergiant,1082629,2017-05-01,Ankit Soni,0,1,0.0,0.0,0,0,1,2.0,0.0,JD Unadkat,bowled
+Gujarat Lions,Rising Pune Supergiant,1082629,2017-05-01,BB McCullum,45,28,5.0,2.0,0,0,0,58.0,160.71428571428572,SN Thakur,caught
+Gujarat Lions,Rising Pune Supergiant,1082629,2017-05-01,Basil Thampi,2,5,0.0,0.0,0,0,0,6.0,40.0,0,0
+Gujarat Lions,Rising Pune Supergiant,1082629,2017-05-01,DR Smith,0,1,0.0,0.0,0,0,1,2.0,0.0,Imran Tahir,bowled
+Gujarat Lions,Rising Pune Supergiant,1082629,2017-05-01,Ishan Kishan,31,24,3.0,2.0,0,0,0,42.0,129.16666666666669,Imran Tahir,caught
+Gujarat Lions,Rising Pune Supergiant,1082629,2017-05-01,JP Faulkner,6,7,0.0,0.0,0,0,0,10.0,85.71428571428571,JD Unadkat,caught
+Gujarat Lions,Rising Pune Supergiant,1082629,2017-05-01,KD Karthik,29,26,3.0,0.0,0,0,0,36.0,111.53846153846156,JD Unadkat,run out
+Gujarat Lions,Rising Pune Supergiant,1082629,2017-05-01,PJ Sangwan,1,2,0.0,0.0,0,0,0,5.0,50.0,JD Unadkat,caught
+Gujarat Lions,Rising Pune Supergiant,1082629,2017-05-01,RA Jadeja,19,12,3.0,0.0,0,0,0,26.0,158.33333333333331,DT Christian,caught
+Gujarat Lions,Rising Pune Supergiant,1082629,2017-05-01,SK Raina,8,8,0.0,0.0,0,0,0,12.0,100.0,Imran Tahir,run out
+Rising Pune Supergiant,Gujarat Lions,1082629,2017-05-01,AM Rahane,4,4,1.0,0.0,0,0,0,9.0,100.0,PJ Sangwan,lbw
+Rising Pune Supergiant,Gujarat Lions,1082629,2017-05-01,BA Stokes,103,64,7.0,6.0,1,1,0,150.0,160.9375,0,0
+Rising Pune Supergiant,Gujarat Lions,1082629,2017-05-01,DT Christian,17,8,1.0,1.0,0,0,0,24.0,212.5,0,0
+Rising Pune Supergiant,Gujarat Lions,1082629,2017-05-01,MK Tiwary,0,3,0.0,0.0,0,0,1,2.0,0.0,Basil Thampi,lbw
+Rising Pune Supergiant,Gujarat Lions,1082629,2017-05-01,MS Dhoni,26,35,1.0,1.0,0,0,0,33.0,74.28571428571429,Basil Thampi,caught
+Rising Pune Supergiant,Gujarat Lions,1082629,2017-05-01,RA Tripathi,6,7,1.0,0.0,0,0,0,11.0,85.71428571428571,JP Faulkner,run out
+Rising Pune Supergiant,Gujarat Lions,1082629,2017-05-01,SPD Smith,4,2,1.0,0.0,0,0,0,9.0,200.0,PJ Sangwan,caught

@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Mumbai Indians,336024,2008-05-18,AC Gilchrist,13,17,2.0,0.0,0,0,0,19.0,76.47058823529412,CRD Fernando,caught
+Deccan Chargers,Mumbai Indians,336024,2008-05-18,DB Ravi Teja,37,27,2.0,3.0,0,0,0,49.0,137.03703703703704,DJ Bravo,bowled
+Deccan Chargers,Mumbai Indians,336024,2008-05-18,DNT Zoysa,10,7,1.0,0.0,0,0,0,15.0,142.85714285714286,0,0
+Deccan Chargers,Mumbai Indians,336024,2008-05-18,H Das,2,5,0.0,0.0,0,0,0,6.0,40.0,CRD Fernando,run out
+Deccan Chargers,Mumbai Indians,336024,2008-05-18,LPC Silva,17,15,3.0,0.0,0,0,0,24.0,113.33333333333331,AM Nayar,caught
+Deccan Chargers,Mumbai Indians,336024,2008-05-18,RG Sharma,6,10,1.0,0.0,0,0,0,11.0,60.0,CRD Fernando,lbw
+Deccan Chargers,Mumbai Indians,336024,2008-05-18,RP Singh,3,3,0.0,0.0,0,0,0,7.0,100.0,0,0
+Deccan Chargers,Mumbai Indians,336024,2008-05-18,Shahid Afridi,0,1,0.0,0.0,0,0,1,2.0,0.0,DJ Bravo,caught
+Deccan Chargers,Mumbai Indians,336024,2008-05-18,Y Venugopal Rao,57,39,4.0,3.0,1,0,0,79.0,146.15384615384613,DJ Bravo,caught
+Mumbai Indians,Deccan Chargers,336024,2008-05-18,AM Nayar,38,24,3.0,2.0,0,0,0,49.0,158.33333333333331,RP Singh,caught
+Mumbai Indians,Deccan Chargers,336024,2008-05-18,DJ Bravo,30,17,2.0,2.0,0,0,0,40.0,176.47058823529412,RP Singh,bowled
+Mumbai Indians,Deccan Chargers,336024,2008-05-18,DJ Thornely,8,18,0.0,0.0,0,0,0,12.0,44.44444444444444,Shahid Afridi,lbw
+Mumbai Indians,Deccan Chargers,336024,2008-05-18,PR Shah,10,8,2.0,0.0,0,0,0,16.0,125.0,RP Singh,bowled
+Mumbai Indians,Deccan Chargers,336024,2008-05-18,RR Raje,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Mumbai Indians,Deccan Chargers,336024,2008-05-18,RV Uthappa,7,18,0.0,0.0,0,0,0,11.0,38.88888888888889,Y Venugopal Rao,caught
+Mumbai Indians,Deccan Chargers,336024,2008-05-18,SR Tendulkar,23,19,4.0,0.0,0,0,0,31.0,121.05263157894736,Shahid Afridi,caught
+Mumbai Indians,Deccan Chargers,336024,2008-05-18,ST Jayasuriya,36,16,6.0,2.0,0,0,0,50.0,225.0,Y Venugopal Rao,caught
+Mumbai Indians,Deccan Chargers,336024,2008-05-18,YV Takawale,5,5,0.0,0.0,0,0,0,9.0,100.0,0,0

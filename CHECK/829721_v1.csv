@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Rajasthan Royals,829721,2015-04-14,AJ Finch,10,14,2.0,0.0,0,0,0,16.0,71.42857142857143,STR Binny,retired hurt
+Mumbai Indians,Rajasthan Royals,829721,2015-04-14,CJ Anderson,50,38,5.0,3.0,1,0,0,73.0,131.57894736842107,CH Morris,bowled
+Mumbai Indians,Rajasthan Royals,829721,2015-04-14,J Suchith,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Mumbai Indians,Rajasthan Royals,829721,2015-04-14,KA Pollard,70,34,7.0,5.0,1,0,0,99.0,205.8823529411765,TG Southee,caught
+Mumbai Indians,Rajasthan Royals,829721,2015-04-14,PA Patel,16,11,2.0,0.0,0,0,0,22.0,145.45454545454547,DS Kulkarni,caught
+Mumbai Indians,Rajasthan Royals,829721,2015-04-14,RG Sharma,0,5,0.0,0.0,0,0,1,2.0,0.0,STR Binny,caught
+Mumbai Indians,Rajasthan Royals,829721,2015-04-14,S Gopal,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Mumbai Indians,Rajasthan Royals,829721,2015-04-14,UBT Chand,12,17,1.0,0.0,0,0,0,17.0,70.58823529411765,PV Tambe,bowled
+Rajasthan Royals,Mumbai Indians,829721,2015-04-14,AM Rahane,46,39,4.0,0.0,0,0,0,54.0,117.94871794871796,S Gopal,caught
+Rajasthan Royals,Mumbai Indians,829721,2015-04-14,DJ Hooda,13,4,0.0,2.0,0,0,0,21.0,325.0,SL Malinga,bowled
+Rajasthan Royals,Mumbai Indians,829721,2015-04-14,JP Faulkner,6,6,0.0,0.0,0,0,0,10.0,100.0,0,0
+Rajasthan Royals,Mumbai Indians,829721,2015-04-14,SPD Smith,79,54,8.0,1.0,1,0,0,101.0,146.2962962962963,0,0
+Rajasthan Royals,Mumbai Indians,829721,2015-04-14,SV Samson,17,16,3.0,0.0,0,0,0,24.0,106.25,R Vinay Kumar,caught

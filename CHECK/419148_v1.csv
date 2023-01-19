@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Royal Challengers Bangalore,419148,2010-04-10,AB Agarkar,6,7,0.0,0.0,0,0,0,10.0,85.71428571428571,0,0
+Kolkata Knight Riders,Royal Challengers Bangalore,419148,2010-04-10,AB Dinda,0,1,0.0,0.0,0,0,1,2.0,0.0,R Vinay Kumar,run out
+Kolkata Knight Riders,Royal Challengers Bangalore,419148,2010-04-10,AD Mathews,1,2,0.0,0.0,0,0,0,5.0,50.0,R Vinay Kumar,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,419148,2010-04-10,BAW Mendis,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Kolkata Knight Riders,Royal Challengers Bangalore,419148,2010-04-10,BB McCullum,45,38,5.0,2.0,0,0,0,58.0,118.42105263157892,A Kumble,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,419148,2010-04-10,CA Pujara,16,9,0.0,2.0,0,0,0,24.0,177.77777777777777,JH Kallis,run out
+Kolkata Knight Riders,Royal Challengers Bangalore,419148,2010-04-10,CH Gayle,34,17,6.0,1.0,0,0,0,46.0,200.0,JH Kallis,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,419148,2010-04-10,I Sharma,0,2,0.0,0.0,0,0,1,2.0,0.0,R Vinay Kumar,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,419148,2010-04-10,MK Tiwary,0,2,0.0,0.0,0,0,1,2.0,0.0,JH Kallis,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,419148,2010-04-10,SC Ganguly,33,32,2.0,2.0,0,0,0,43.0,103.125,R Vinay Kumar,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,419148,2010-04-10,WP Saha,13,15,0.0,1.0,0,0,0,19.0,86.66666666666667,DW Steyn,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,419148,2010-04-10,JH Kallis,8,11,0.0,0.0,0,0,0,12.0,72.72727272727273,AB Dinda,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,419148,2010-04-10,LRPL Taylor,14,6,1.0,1.0,0,0,0,21.0,233.3333333333333,0,0
+Royal Challengers Bangalore,Kolkata Knight Riders,419148,2010-04-10,R Dravid,52,35,5.0,2.0,1,0,0,73.0,148.57142857142858,AD Mathews,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,419148,2010-04-10,RV Uthappa,50,23,4.0,4.0,1,0,0,74.0,217.3913043478261,0,0
+Royal Challengers Bangalore,Kolkata Knight Riders,419148,2010-04-10,S Sriram,27,31,3.0,0.0,0,0,0,34.0,87.09677419354838,AB Dinda,bowled

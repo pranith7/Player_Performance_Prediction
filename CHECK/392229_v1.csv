@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Kings XI Punjab,392229,2009-05-17,A Symonds,25,26,1.0,0.0,0,0,0,30.0,96.15384615384616,Yuvraj Singh,stumped
+Deccan Chargers,Kings XI Punjab,392229,2009-05-17,AC Gilchrist,23,13,4.0,1.0,0,0,0,33.0,176.9230769230769,RR Powar,stumped
+Deccan Chargers,Kings XI Punjab,392229,2009-05-17,DB Ravi Teja,10,15,1.0,0.0,0,0,0,15.0,66.66666666666666,B Lee,run out
+Deccan Chargers,Kings XI Punjab,392229,2009-05-17,HH Gibbs,26,37,3.0,0.0,0,0,0,33.0,70.27027027027027,Yuvraj Singh,caught
+Deccan Chargers,Kings XI Punjab,392229,2009-05-17,RG Sharma,42,27,3.0,3.0,0,0,0,55.0,155.55555555555557,IK Pathan,bowled
+Deccan Chargers,Kings XI Punjab,392229,2009-05-17,RJ Harris,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Deccan Chargers,Kings XI Punjab,392229,2009-05-17,RP Singh,0,2,0.0,0.0,0,0,1,2.0,0.0,IK Pathan,caught and bowled
+Deccan Chargers,Kings XI Punjab,392229,2009-05-17,TL Suman,0,1,0.0,0.0,0,0,1,2.0,0.0,RR Powar,bowled
+Deccan Chargers,Kings XI Punjab,392229,2009-05-17,Y Venugopal Rao,0,1,0.0,0.0,0,0,1,2.0,0.0,Yuvraj Singh,bowled
+Kings XI Punjab,Deccan Chargers,392229,2009-05-17,B Lee,0,6,0.0,0.0,0,0,1,2.0,0.0,0,0
+Kings XI Punjab,Deccan Chargers,392229,2009-05-17,IK Pathan,17,11,2.0,0.0,0,0,0,23.0,154.54545454545453,RP Singh,caught
+Kings XI Punjab,Deccan Chargers,392229,2009-05-17,KC Sangakkara,56,43,4.0,1.0,1,0,0,74.0,130.2325581395349,RP Singh,caught
+Kings XI Punjab,Deccan Chargers,392229,2009-05-17,LA Pomersbach,1,2,0.0,0.0,0,0,0,5.0,50.0,A Symonds,run out
+Kings XI Punjab,Deccan Chargers,392229,2009-05-17,PP Chawla,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Kings XI Punjab,Deccan Chargers,392229,2009-05-17,S Sohal,9,15,0.0,1.0,0,0,0,15.0,60.0,RP Singh,caught
+Kings XI Punjab,Deccan Chargers,392229,2009-05-17,SM Katich,11,11,2.0,0.0,0,0,0,17.0,100.0,A Symonds,caught
+Kings XI Punjab,Deccan Chargers,392229,2009-05-17,WA Mota,12,19,0.0,0.0,0,0,0,16.0,63.1578947368421,TL Suman,caught
+Kings XI Punjab,Deccan Chargers,392229,2009-05-17,Yuvraj Singh,20,18,2.0,1.0,0,0,0,28.0,111.11111111111111,Y Venugopal Rao,bowled

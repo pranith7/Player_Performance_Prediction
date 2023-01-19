@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Rajasthan Royals,1178402,2019-04-13,HH Pandya,28,13,1.0,3.0,0,0,0,39.0,215.3846153846154,0,0
+Mumbai Indians,Rajasthan Royals,1178402,2019-04-13,Ishan Kishan,5,3,1.0,0.0,0,0,0,10.0,166.66666666666669,JD Unadkat,caught
+Mumbai Indians,Rajasthan Royals,1178402,2019-04-13,KA Pollard,6,12,0.0,0.0,0,0,0,10.0,50.0,JC Archer,caught
+Mumbai Indians,Rajasthan Royals,1178402,2019-04-13,Q de Kock,81,53,6.0,4.0,1,0,0,107.0,152.83018867924528,JC Archer,caught
+Mumbai Indians,Rajasthan Royals,1178402,2019-04-13,RG Sharma,47,32,6.0,1.0,0,0,0,59.0,146.875,JC Archer,caught
+Mumbai Indians,Rajasthan Royals,1178402,2019-04-13,SA Yadav,16,10,0.0,1.0,0,0,0,22.0,160.0,DS Kulkarni,bowled
+Rajasthan Royals,Mumbai Indians,1178402,2019-04-13,AM Rahane,37,21,6.0,1.0,0,0,0,49.0,176.19047619047618,KH Pandya,caught
+Rajasthan Royals,Mumbai Indians,1178402,2019-04-13,JC Buttler,89,44,8.0,7.0,1,0,0,123.0,202.27272727272728,RD Chahar,caught
+Rajasthan Royals,Mumbai Indians,1178402,2019-04-13,K Gowtham,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Rajasthan Royals,Mumbai Indians,1178402,2019-04-13,LS Livingstone,1,2,0.0,0.0,0,0,0,5.0,50.0,KH Pandya,bowled
+Rajasthan Royals,Mumbai Indians,1178402,2019-04-13,RA Tripathi,1,2,0.0,0.0,0,0,0,5.0,50.0,KH Pandya,caught and bowled
+Rajasthan Royals,Mumbai Indians,1178402,2019-04-13,S Gopal,13,7,2.0,0.0,0,0,0,19.0,185.7142857142857,0,0
+Rajasthan Royals,Mumbai Indians,1178402,2019-04-13,SPD Smith,12,15,1.0,0.0,0,0,0,17.0,80.0,JJ Bumrah,caught
+Rajasthan Royals,Mumbai Indians,1178402,2019-04-13,SV Samson,31,27,2.0,1.0,0,0,0,39.0,114.8148148148148,JJ Bumrah,lbw

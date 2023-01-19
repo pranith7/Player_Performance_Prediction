@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Royal Challengers Bangalore,392191,2009-04-24,DPMD Jayawardene,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Kings XI Punjab,Royal Challengers Bangalore,392191,2009-04-24,K Goel,19,21,1.0,0.0,0,0,0,24.0,90.47619047619048,JH Kallis,run out
+Kings XI Punjab,Royal Challengers Bangalore,392191,2009-04-24,KC Sangakkara,26,18,2.0,1.0,0,0,0,34.0,144.44444444444443,A Kumble,caught
+Kings XI Punjab,Royal Challengers Bangalore,392191,2009-04-24,RS Bopara,84,61,4.0,5.0,1,0,0,110.0,137.70491803278688,JH Kallis,caught
+Kings XI Punjab,Royal Challengers Bangalore,392191,2009-04-24,Yuvraj Singh,30,18,3.0,1.0,0,0,0,39.0,166.66666666666669,0,0
+Royal Challengers Bangalore,Kings XI Punjab,392191,2009-04-24,A Kumble,5,3,1.0,0.0,0,0,0,10.0,166.66666666666669,0,0
+Royal Challengers Bangalore,Kings XI Punjab,392191,2009-04-24,JD Ryder,32,21,6.0,0.0,0,0,0,42.0,152.38095238095238,YA Abdulla,bowled
+Royal Challengers Bangalore,Kings XI Punjab,392191,2009-04-24,JH Kallis,62,48,5.0,2.0,1,0,0,83.0,129.16666666666669,YA Abdulla,caught
+Royal Challengers Bangalore,Kings XI Punjab,392191,2009-04-24,KP Pietersen,0,2,0.0,0.0,0,0,1,2.0,0.0,YA Abdulla,caught
+Royal Challengers Bangalore,Kings XI Punjab,392191,2009-04-24,LRPL Taylor,35,23,4.0,2.0,0,0,0,47.0,152.17391304347828,YA Abdulla,caught
+Royal Challengers Bangalore,Kings XI Punjab,392191,2009-04-24,P Kumar,13,7,0.0,1.0,0,0,0,19.0,185.7142857142857,IK Pathan,lbw
+Royal Challengers Bangalore,Kings XI Punjab,392191,2009-04-24,Pankaj Singh,0,1,0.0,0.0,0,0,1,2.0,0.0,IK Pathan,bowled
+Royal Challengers Bangalore,Kings XI Punjab,392191,2009-04-24,R Dravid,10,13,0.0,0.0,0,0,0,14.0,76.92307692307693,PP Chawla,caught
+Royal Challengers Bangalore,Kings XI Punjab,392191,2009-04-24,R Vinay Kumar,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Royal Challengers Bangalore,Kings XI Punjab,392191,2009-04-24,RV Uthappa,0,1,0.0,0.0,0,0,1,2.0,0.0,IK Pathan,caught
+Royal Challengers Bangalore,Kings XI Punjab,392191,2009-04-24,V Kohli,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,VRV Singh,caught

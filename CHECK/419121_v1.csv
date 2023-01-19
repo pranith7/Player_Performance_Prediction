@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Kings XI Punjab,419121,2010-03-21,JA Morkel,13,13,1.0,0.0,0,0,0,18.0,100.0,0,0
+Chennai Super Kings,Kings XI Punjab,419121,2010-03-21,M Vijay,0,4,0.0,0.0,0,0,1,2.0,0.0,J Theron,lbw
+Chennai Super Kings,Kings XI Punjab,419121,2010-03-21,ML Hayden,33,26,4.0,2.0,0,0,0,45.0,126.92307692307692,RR Powar,bowled
+Chennai Super Kings,Kings XI Punjab,419121,2010-03-21,MS Gony,2,7,0.0,0.0,0,0,0,6.0,28.57142857142857,J Theron,bowled
+Chennai Super Kings,Kings XI Punjab,419121,2010-03-21,PA Patel,57,60,4.0,2.0,1,0,0,77.0,95.0,J Theron,bowled
+Chennai Super Kings,Kings XI Punjab,419121,2010-03-21,R Ashwin,2,5,0.0,0.0,0,0,0,6.0,40.0,PP Chawla,stumped
+Chennai Super Kings,Kings XI Punjab,419121,2010-03-21,S Badrinath,2,2,0.0,0.0,0,0,0,6.0,100.0,IK Pathan,caught
+Chennai Super Kings,Kings XI Punjab,419121,2010-03-21,SK Raina,23,16,0.0,2.0,0,0,0,31.0,143.75,Yuvraj Singh,caught
+Kings XI Punjab,Chennai Super Kings,419121,2010-03-21,DPMD Jayawardene,9,7,0.0,1.0,0,0,0,15.0,128.57142857142858,J Theron,run out
+Kings XI Punjab,Chennai Super Kings,419121,2010-03-21,IK Pathan,39,32,5.0,1.0,0,0,0,50.0,121.875,J Theron,caught
+Kings XI Punjab,Chennai Super Kings,419121,2010-03-21,J Theron,0,2,0.0,0.0,0,0,1,2.0,0.0,M Muralitharan,lbw
+Kings XI Punjab,Chennai Super Kings,419121,2010-03-21,KC Sangakkara,15,16,2.0,0.0,0,0,0,21.0,93.75,M Muralitharan,caught
+Kings XI Punjab,Chennai Super Kings,419121,2010-03-21,M Kaif,14,17,0.0,0.0,0,0,0,18.0,82.35294117647058,L Balaji,bowled
+Kings XI Punjab,Chennai Super Kings,419121,2010-03-21,MS Bisla,7,9,1.0,0.0,0,0,0,12.0,77.77777777777779,L Balaji,run out
+Kings XI Punjab,Chennai Super Kings,419121,2010-03-21,PP Chawla,8,4,2.0,0.0,0,0,0,14.0,200.0,M Muralitharan,stumped
+Kings XI Punjab,Chennai Super Kings,419121,2010-03-21,RR Powar,2,1,0.0,0.0,0,0,0,6.0,200.0,M Muralitharan,caught
+Kings XI Punjab,Chennai Super Kings,419121,2010-03-21,RS Bopara,1,8,0.0,0.0,0,0,0,5.0,12.5,JA Morkel,run out
+Kings XI Punjab,Chennai Super Kings,419121,2010-03-21,Yuvraj Singh,47,30,5.0,2.0,0,0,0,60.0,156.66666666666666,0,0

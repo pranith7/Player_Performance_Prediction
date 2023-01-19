@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Capitals,Rajasthan Royals,1216543,2020-10-14,AM Rahane,2,11,0.0,0.0,0,0,0,6.0,18.181818181818183,JC Archer,caught
+Delhi Capitals,Rajasthan Royals,1216543,2020-10-14,AR Patel,7,4,1.0,0.0,0,0,0,12.0,175.0,JD Unadkat,caught
+Delhi Capitals,Rajasthan Royals,1216543,2020-10-14,AT Carey,14,13,0.0,1.0,0,0,0,20.0,107.6923076923077,JD Unadkat,caught
+Delhi Capitals,Rajasthan Royals,1216543,2020-10-14,MP Stoinis,18,20,1.0,0.0,0,0,0,23.0,90.0,JC Archer,caught
+Delhi Capitals,Rajasthan Royals,1216543,2020-10-14,PP Shaw,0,1,0.0,0.0,0,0,1,2.0,0.0,JC Archer,bowled
+Delhi Capitals,Rajasthan Royals,1216543,2020-10-14,S Dhawan,57,34,6.0,2.0,1,0,0,79.0,167.64705882352942,S Gopal,caught
+Delhi Capitals,Rajasthan Royals,1216543,2020-10-14,SS Iyer,53,45,3.0,2.0,1,0,0,72.0,117.7777777777778,Kartik Tyagi,caught
+Rajasthan Royals,Delhi Capitals,1216543,2020-10-14,BA Stokes,41,35,6.0,0.0,0,0,0,51.0,117.14285714285715,TU Deshpande,caught
+Rajasthan Royals,Delhi Capitals,1216543,2020-10-14,JC Archer,1,4,0.0,0.0,0,0,0,5.0,25.0,K Rabada,caught
+Rajasthan Royals,Delhi Capitals,1216543,2020-10-14,JC Buttler,22,9,3.0,1.0,0,0,0,31.0,244.44444444444449,A Nortje,bowled
+Rajasthan Royals,Delhi Capitals,1216543,2020-10-14,R Parag,1,2,0.0,0.0,0,0,0,5.0,50.0,AR Patel,run out
+Rajasthan Royals,Delhi Capitals,1216543,2020-10-14,R Tewatia,14,19,1.0,0.0,0,0,0,19.0,73.68421052631578,0,0
+Rajasthan Royals,Delhi Capitals,1216543,2020-10-14,RV Uthappa,32,29,3.0,1.0,0,0,0,41.0,110.34482758620688,A Nortje,bowled
+Rajasthan Royals,Delhi Capitals,1216543,2020-10-14,S Gopal,6,4,1.0,0.0,0,0,0,11.0,150.0,TU Deshpande,caught
+Rajasthan Royals,Delhi Capitals,1216543,2020-10-14,SPD Smith,1,4,0.0,0.0,0,0,0,5.0,25.0,R Ashwin,caught and bowled
+Rajasthan Royals,Delhi Capitals,1216543,2020-10-14,SV Samson,25,18,0.0,2.0,0,0,0,33.0,138.88888888888889,AR Patel,bowled

@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Rajasthan Royals,Sunrisers Hyderabad,729285,2014-04-18,AM Nayar,4,3,1.0,0.0,0,0,0,9.0,133.33333333333331,DW Steyn,lbw
+Rajasthan Royals,Sunrisers Hyderabad,729285,2014-04-18,AM Rahane,59,55,6.0,0.0,1,0,0,77.0,107.27272727272728,A Mishra,caught
+Rajasthan Royals,Sunrisers Hyderabad,729285,2014-04-18,BJ Hodge,1,8,0.0,0.0,0,0,0,5.0,12.5,A Mishra,caught
+Rajasthan Royals,Sunrisers Hyderabad,729285,2014-04-18,JP Faulkner,8,2,2.0,0.0,0,0,0,14.0,400.0,0,0
+Rajasthan Royals,Sunrisers Hyderabad,729285,2014-04-18,R Bhatia,4,3,1.0,0.0,0,0,0,9.0,133.33333333333331,DW Steyn,caught
+Rajasthan Royals,Sunrisers Hyderabad,729285,2014-04-18,SR Watson,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,I Sharma,caught
+Rajasthan Royals,Sunrisers Hyderabad,729285,2014-04-18,STR Binny,48,32,4.0,1.0,0,0,0,58.0,150.0,0,0
+Rajasthan Royals,Sunrisers Hyderabad,729285,2014-04-18,SV Samson,3,9,0.0,0.0,0,0,0,7.0,33.33333333333333,B Kumar,caught
+Sunrisers Hyderabad,Rajasthan Royals,729285,2014-04-18,AJ Finch,2,5,0.0,0.0,0,0,0,6.0,40.0,DS Kulkarni,caught
+Sunrisers Hyderabad,Rajasthan Royals,729285,2014-04-18,DA Warner,32,35,1.0,0.0,0,0,0,37.0,91.42857142857144,R Bhatia,caught
+Sunrisers Hyderabad,Rajasthan Royals,729285,2014-04-18,DJG Sammy,6,12,0.0,0.0,0,0,0,10.0,50.0,KW Richardson,caught
+Sunrisers Hyderabad,Rajasthan Royals,729285,2014-04-18,KL Rahul,20,19,1.0,1.0,0,0,0,27.0,105.26315789473684,DS Kulkarni,caught
+Sunrisers Hyderabad,Rajasthan Royals,729285,2014-04-18,KV Sharma,4,5,0.0,0.0,0,0,0,8.0,80.0,KW Richardson,caught
+Sunrisers Hyderabad,Rajasthan Royals,729285,2014-04-18,S Dhawan,38,37,3.0,1.0,0,0,0,47.0,102.7027027027027,R Bhatia,caught
+Sunrisers Hyderabad,Rajasthan Royals,729285,2014-04-18,Y Venugopal Rao,16,12,1.0,0.0,0,0,0,21.0,133.33333333333331,0,0

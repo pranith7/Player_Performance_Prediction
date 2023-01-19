@@ -1,0 +1,11 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Rajasthan Royals,Royal Challengers Bangalore,1178424,2019-04-30,LS Livingstone,11,7,1.0,1.0,0,0,0,18.0,157.14285714285714,0,0
+Rajasthan Royals,Royal Challengers Bangalore,1178424,2019-04-30,SV Samson,28,13,2.0,3.0,0,0,0,40.0,215.3846153846154,YS Chahal,caught
+Royal Challengers Bangalore,Rajasthan Royals,1178424,2019-04-30,AB de Villiers,10,4,2.0,0.0,0,0,0,16.0,250.0,S Gopal,caught
+Royal Challengers Bangalore,Rajasthan Royals,1178424,2019-04-30,Gurkeerat Singh,6,3,1.0,0.0,0,0,0,11.0,200.0,R Parag,caught
+Royal Challengers Bangalore,Rajasthan Royals,1178424,2019-04-30,H Klaasen,6,7,0.0,0.0,0,0,0,10.0,85.71428571428571,O Thomas,caught
+Royal Challengers Bangalore,Rajasthan Royals,1178424,2019-04-30,MP Stoinis,0,1,0.0,0.0,0,0,1,2.0,0.0,S Gopal,caught
+Royal Challengers Bangalore,Rajasthan Royals,1178424,2019-04-30,NA Saini,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Royal Challengers Bangalore,Rajasthan Royals,1178424,2019-04-30,P Negi,4,3,1.0,0.0,0,0,0,9.0,133.33333333333331,O Thomas,caught
+Royal Challengers Bangalore,Rajasthan Royals,1178424,2019-04-30,PA Patel,8,5,1.0,0.0,0,0,0,13.0,160.0,JD Unadkat,caught
+Royal Challengers Bangalore,Rajasthan Royals,1178424,2019-04-30,V Kohli,25,7,1.0,3.0,0,0,0,36.0,357.1428571428572,S Gopal,caught

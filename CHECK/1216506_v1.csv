@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Kings XI Punjab,1216506,2020-11-01,AT Rayudu,30,31,2.0,0.0,0,0,0,36.0,96.7741935483871,0,0
+Chennai Super Kings,Kings XI Punjab,1216506,2020-11-01,F du Plessis,48,35,4.0,2.0,0,0,0,60.0,137.14285714285714,CJ Jordan,caught
+Chennai Super Kings,Kings XI Punjab,1216506,2020-11-01,RD Gaikwad,62,50,6.0,1.0,1,0,0,82.0,124.0,0,0
+Kings XI Punjab,Chennai Super Kings,1216506,2020-11-01,CH Gayle,12,19,0.0,0.0,0,0,0,16.0,63.1578947368421,Imran Tahir,lbw
+Kings XI Punjab,Chennai Super Kings,1216506,2020-11-01,CJ Jordan,4,5,0.0,0.0,0,0,0,8.0,80.0,0,0
+Kings XI Punjab,Chennai Super Kings,1216506,2020-11-01,DJ Hooda,62,31,3.0,4.0,1,0,0,85.0,200.0,0,0
+Kings XI Punjab,Chennai Super Kings,1216506,2020-11-01,JDS Neesham,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,L Ngidi,caught
+Kings XI Punjab,Chennai Super Kings,1216506,2020-11-01,KL Rahul,29,27,3.0,1.0,0,0,0,38.0,107.40740740740742,L Ngidi,bowled
+Kings XI Punjab,Chennai Super Kings,1216506,2020-11-01,MA Agarwal,26,15,5.0,0.0,0,0,0,35.0,173.33333333333334,L Ngidi,bowled
+Kings XI Punjab,Chennai Super Kings,1216506,2020-11-01,Mandeep Singh,14,15,1.0,0.0,0,0,0,19.0,93.33333333333331,RA Jadeja,bowled
+Kings XI Punjab,Chennai Super Kings,1216506,2020-11-01,N Pooran,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,SN Thakur,caught

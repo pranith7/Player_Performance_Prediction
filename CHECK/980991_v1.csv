@@ -1,0 +1,11 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Sunrisers Hyderabad,980991,2016-05-15,DA Miller,20,9,2.0,1.0,0,0,0,28.0,222.22222222222223,0,0
+Kings XI Punjab,Sunrisers Hyderabad,980991,2016-05-15,Gurkeerat Singh,27,20,4.0,0.0,0,0,0,35.0,135.0,B Kumar,bowled
+Kings XI Punjab,Sunrisers Hyderabad,980991,2016-05-15,HM Amla,96,56,14.0,2.0,1,0,0,126.0,171.42857142857142,B Kumar,caught
+Kings XI Punjab,Sunrisers Hyderabad,980991,2016-05-15,M Vijay,6,12,0.0,0.0,0,0,0,10.0,50.0,Mustafizur Rahman,caught
+Kings XI Punjab,Sunrisers Hyderabad,980991,2016-05-15,WP Saha,27,23,3.0,0.0,0,0,0,34.0,117.3913043478261,MC Henriques,caught
+Sunrisers Hyderabad,Kings XI Punjab,980991,2016-05-15,BCJ Cutting,18,11,0.0,2.0,0,0,0,26.0,163.63636363636363,0,0
+Sunrisers Hyderabad,Kings XI Punjab,980991,2016-05-15,DA Warner,52,42,5.0,1.0,1,0,0,71.0,123.8095238095238,AR Patel,hit wicket
+Sunrisers Hyderabad,Kings XI Punjab,980991,2016-05-15,DJ Hooda,34,22,3.0,1.0,0,0,0,43.0,154.54545454545453,Sandeep Sharma,caught
+Sunrisers Hyderabad,Kings XI Punjab,980991,2016-05-15,S Dhawan,25,23,4.0,0.0,0,0,0,33.0,108.69565217391305,Anureet Singh,run out
+Sunrisers Hyderabad,Kings XI Punjab,980991,2016-05-15,Yuvraj Singh,42,25,3.0,3.0,0,0,0,55.0,168.0,0,0

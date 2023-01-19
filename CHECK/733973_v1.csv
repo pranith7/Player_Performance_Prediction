@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Mumbai Indians,733973,2014-05-03,CA Pujara,19,20,4.0,0.0,0,0,0,27.0,95.0,CJ Anderson,caught
+Kings XI Punjab,Mumbai Indians,733973,2014-05-03,DA Miller,16,12,1.0,1.0,0,0,0,23.0,133.33333333333331,SL Malinga,caught
+Kings XI Punjab,Mumbai Indians,733973,2014-05-03,GJ Bailey,15,14,2.0,0.0,0,0,0,21.0,107.14285714285714,Harbhajan Singh,caught
+Kings XI Punjab,Mumbai Indians,733973,2014-05-03,GJ Maxwell,45,29,5.0,2.0,0,0,0,58.0,155.17241379310346,Harbhajan Singh,caught
+Kings XI Punjab,Mumbai Indians,733973,2014-05-03,MG Johnson,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Kings XI Punjab,Mumbai Indians,733973,2014-05-03,V Sehwag,1,2,0.0,0.0,0,0,0,5.0,50.0,Z Khan,run out
+Kings XI Punjab,Mumbai Indians,733973,2014-05-03,WP Saha,59,47,4.0,3.0,1,0,0,81.0,125.531914893617,0,0
+Mumbai Indians,Kings XI Punjab,733973,2014-05-03,AP Tare,16,6,1.0,1.0,0,0,0,23.0,266.66666666666663,0,0
+Mumbai Indians,Kings XI Punjab,733973,2014-05-03,AT Rayudu,8,5,2.0,0.0,0,0,0,14.0,160.0,Sandeep Sharma,lbw
+Mumbai Indians,Kings XI Punjab,733973,2014-05-03,BR Dunk,5,4,1.0,0.0,0,0,0,10.0,125.0,Sandeep Sharma,caught
+Mumbai Indians,Kings XI Punjab,733973,2014-05-03,CJ Anderson,35,25,3.0,2.0,0,0,0,46.0,140.0,R Dhawan,caught
+Mumbai Indians,Kings XI Punjab,733973,2014-05-03,CM Gautam,33,30,2.0,2.0,0,0,0,43.0,110.0,R Dhawan,lbw
+Mumbai Indians,Kings XI Punjab,733973,2014-05-03,KA Pollard,28,13,2.0,2.0,0,0,0,38.0,215.3846153846154,0,0
+Mumbai Indians,Kings XI Punjab,733973,2014-05-03,RG Sharma,39,35,4.0,2.0,0,0,0,51.0,111.42857142857144,L Balaji,caught

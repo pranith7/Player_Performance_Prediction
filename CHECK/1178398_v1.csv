@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Kolkata Knight Riders,1178398,2019-04-09,AT Rayudu,21,31,2.0,0.0,0,0,0,27.0,67.74193548387096,PP Chawla,caught
+Chennai Super Kings,Kolkata Knight Riders,1178398,2019-04-09,F du Plessis,43,46,3.0,0.0,0,0,0,50.0,93.47826086956522,0,0
+Chennai Super Kings,Kolkata Knight Riders,1178398,2019-04-09,KM Jadhav,8,8,1.0,0.0,0,0,0,13.0,100.0,0,0
+Chennai Super Kings,Kolkata Knight Riders,1178398,2019-04-09,SK Raina,14,14,1.0,1.0,0,0,0,21.0,100.0,SP Narine,caught
+Chennai Super Kings,Kolkata Knight Riders,1178398,2019-04-09,SR Watson,17,9,2.0,1.0,0,0,0,25.0,188.88888888888889,SP Narine,caught
+Kolkata Knight Riders,Chennai Super Kings,1178398,2019-04-09,AD Russell,50,46,5.0,3.0,1,0,0,73.0,108.69565217391305,0,0
+Kolkata Knight Riders,Chennai Super Kings,1178398,2019-04-09,CA Lynn,0,5,0.0,0.0,0,0,1,2.0,0.0,DL Chahar,lbw
+Kolkata Knight Riders,Chennai Super Kings,1178398,2019-04-09,HF Gurney,1,5,0.0,0.0,0,0,0,5.0,20.0,0,0
+Kolkata Knight Riders,Chennai Super Kings,1178398,2019-04-09,KD Karthik,19,21,3.0,0.0,0,0,0,26.0,90.47619047619048,Imran Tahir,caught
+Kolkata Knight Riders,Chennai Super Kings,1178398,2019-04-09,Kuldeep Yadav,0,1,0.0,0.0,0,0,1,2.0,0.0,Harbhajan Singh,run out
+Kolkata Knight Riders,Chennai Super Kings,1178398,2019-04-09,M Prasidh Krishna,0,2,0.0,0.0,0,0,1,2.0,0.0,RA Jadeja,caught
+Kolkata Knight Riders,Chennai Super Kings,1178398,2019-04-09,N Rana,0,4,0.0,0.0,0,0,1,2.0,0.0,DL Chahar,caught
+Kolkata Knight Riders,Chennai Super Kings,1178398,2019-04-09,PP Chawla,8,13,0.0,1.0,0,0,0,14.0,61.53846153846154,Harbhajan Singh,stumped
+Kolkata Knight Riders,Chennai Super Kings,1178398,2019-04-09,RV Uthappa,11,9,2.0,0.0,0,0,0,17.0,122.22222222222224,DL Chahar,caught
+Kolkata Knight Riders,Chennai Super Kings,1178398,2019-04-09,SP Narine,6,5,0.0,0.0,0,0,0,10.0,120.0,Harbhajan Singh,caught
+Kolkata Knight Riders,Chennai Super Kings,1178398,2019-04-09,Shubman Gill,9,12,0.0,0.0,0,0,0,13.0,75.0,Imran Tahir,stumped

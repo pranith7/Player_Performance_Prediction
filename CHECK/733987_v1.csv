@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Kings XI Punjab,733987,2014-05-07,BB McCullum,33,30,3.0,0.0,0,0,0,40.0,110.0,M Kartik,run out
+Chennai Super Kings,Kings XI Punjab,733987,2014-05-07,DR Smith,4,5,1.0,0.0,0,0,0,9.0,80.0,Sandeep Sharma,caught
+Chennai Super Kings,Kings XI Punjab,733987,2014-05-07,F du Plessis,52,25,7.0,1.0,1,0,0,73.0,208.0,MG Johnson,caught
+Chennai Super Kings,Kings XI Punjab,733987,2014-05-07,M Manhas,8,4,0.0,1.0,0,0,0,14.0,200.0,0,0
+Chennai Super Kings,Kings XI Punjab,733987,2014-05-07,MS Dhoni,23,20,0.0,1.0,0,0,0,29.0,115.0,MG Johnson,caught
+Chennai Super Kings,Kings XI Punjab,733987,2014-05-07,R Ashwin,11,4,2.0,0.0,0,0,0,17.0,275.0,0,0
+Chennai Super Kings,Kings XI Punjab,733987,2014-05-07,RA Jadeja,17,8,3.0,0.0,0,0,0,24.0,212.5,R Dhawan,bowled
+Chennai Super Kings,Kings XI Punjab,733987,2014-05-07,SK Raina,35,27,3.0,1.0,0,0,0,44.0,129.62962962962962,GJ Maxwell,caught
+Kings XI Punjab,Chennai Super Kings,733987,2014-05-07,DA Miller,47,33,5.0,2.0,0,0,0,60.0,142.42424242424244,DR Smith,bowled
+Kings XI Punjab,Chennai Super Kings,733987,2014-05-07,GJ Bailey,40,13,6.0,2.0,0,0,0,54.0,307.69230769230774,0,0
+Kings XI Punjab,Chennai Super Kings,733987,2014-05-07,GJ Maxwell,90,40,6.0,8.0,1,0,0,124.0,225.0,MM Sharma,caught
+Kings XI Punjab,Chennai Super Kings,733987,2014-05-07,MG Johnson,11,6,2.0,0.0,0,0,0,17.0,183.3333333333333,0,0
+Kings XI Punjab,Chennai Super Kings,733987,2014-05-07,Mandeep Singh,3,8,0.0,0.0,0,0,0,7.0,37.5,MM Sharma,caught
+Kings XI Punjab,Chennai Super Kings,733987,2014-05-07,V Sehwag,30,25,5.0,1.0,0,0,0,41.0,120.0,BW Hilfenhaus,bowled

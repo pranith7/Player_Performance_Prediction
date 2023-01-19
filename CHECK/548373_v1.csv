@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Rajasthan Royals,548373,2012-05-18,A Ashish Reddy,10,4,2.0,0.0,0,0,0,16.0,250.0,0,0
+Deccan Chargers,Rajasthan Royals,548373,2012-05-18,CA Lynn,6,10,1.0,0.0,0,0,0,11.0,60.0,SK Trivedi,caught
+Deccan Chargers,Rajasthan Royals,548373,2012-05-18,CL White,1,4,0.0,0.0,0,0,0,5.0,25.0,A Chandila,caught and bowled
+Deccan Chargers,Rajasthan Royals,548373,2012-05-18,JP Duminy,24,33,0.0,0.0,0,0,0,28.0,72.72727272727273,STR Binny,caught
+Deccan Chargers,Rajasthan Royals,548373,2012-05-18,PA Patel,10,5,1.0,0.0,0,0,0,15.0,200.0,0,0
+Deccan Chargers,Rajasthan Royals,548373,2012-05-18,PA Reddy,42,37,4.0,1.0,0,0,0,52.0,113.51351351351352,SK Trivedi,caught
+Deccan Chargers,Rajasthan Royals,548373,2012-05-18,S Dhawan,26,26,2.0,2.0,0,0,0,36.0,100.0,J Botha,caught
+Rajasthan Royals,Deccan Chargers,548373,2012-05-18,A Chandila,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Rajasthan Royals,Deccan Chargers,548373,2012-05-18,AL Menaria,20,17,1.0,1.0,0,0,0,27.0,117.64705882352942,V Pratap Singh,caught
+Rajasthan Royals,Deccan Chargers,548373,2012-05-18,AM Rahane,6,7,1.0,0.0,0,0,0,11.0,85.71428571428571,DW Steyn,caught
+Rajasthan Royals,Deccan Chargers,548373,2012-05-18,J Botha,3,4,0.0,0.0,0,0,0,7.0,75.0,DW Steyn,caught and bowled
+Rajasthan Royals,Deccan Chargers,548373,2012-05-18,OA Shah,28,34,1.0,0.0,0,0,0,33.0,82.35294117647058,V Pratap Singh,run out
+Rajasthan Royals,Deccan Chargers,548373,2012-05-18,R Dravid,39,37,5.0,0.0,0,0,0,48.0,105.4054054054054,MS Gony,caught
+Rajasthan Royals,Deccan Chargers,548373,2012-05-18,SP Goswami,3,3,0.0,0.0,0,0,0,7.0,100.0,V Pratap Singh,bowled
+Rajasthan Royals,Deccan Chargers,548373,2012-05-18,SR Watson,13,13,1.0,1.0,0,0,0,20.0,100.0,A Mishra,bowled
+Rajasthan Royals,Deccan Chargers,548373,2012-05-18,STR Binny,7,8,1.0,0.0,0,0,0,12.0,87.5,A Mishra,bowled

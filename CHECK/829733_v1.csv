@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Kolkata Knight Riders,829733,2015-04-18,AR Patel,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,SP Narine,caught
+Kings XI Punjab,Kolkata Knight Riders,829733,2015-04-18,Anureet Singh,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Kings XI Punjab,Kolkata Knight Riders,829733,2015-04-18,GJ Bailey,60,46,5.0,2.0,1,0,0,81.0,130.43478260869566,M Morkel,run out
+Kings XI Punjab,Kolkata Knight Riders,829733,2015-04-18,GJ Maxwell,33,28,2.0,2.0,0,0,0,43.0,117.85714285714286,UT Yadav,caught
+Kings XI Punjab,Kolkata Knight Riders,829733,2015-04-18,Gurkeerat Singh,11,10,0.0,1.0,0,0,0,17.0,110.0,UT Yadav,caught
+Kings XI Punjab,Kolkata Knight Riders,829733,2015-04-18,M Vijay,0,4,0.0,0.0,0,0,1,2.0,0.0,UT Yadav,caught
+Kings XI Punjab,Kolkata Knight Riders,829733,2015-04-18,MG Johnson,1,2,0.0,0.0,0,0,0,5.0,50.0,M Morkel,caught
+Kings XI Punjab,Kolkata Knight Riders,829733,2015-04-18,NLTC Perera,9,8,0.0,1.0,0,0,0,15.0,112.5,AD Russell,caught
+Kings XI Punjab,Kolkata Knight Riders,829733,2015-04-18,V Sehwag,11,10,2.0,0.0,0,0,0,17.0,110.0,AD Russell,caught
+Kings XI Punjab,Kolkata Knight Riders,829733,2015-04-18,WP Saha,15,11,1.0,1.0,0,0,0,22.0,136.36363636363637,M Morkel,caught
+Kolkata Knight Riders,Kings XI Punjab,829733,2015-04-18,AD Russell,66,36,9.0,2.0,1,0,0,91.0,183.3333333333333,MG Johnson,bowled
+Kolkata Knight Riders,Kings XI Punjab,829733,2015-04-18,G Gambhir,11,19,1.0,0.0,0,0,0,16.0,57.89473684210527,Sandeep Sharma,caught
+Kolkata Knight Riders,Kings XI Punjab,829733,2015-04-18,MK Pandey,12,6,2.0,0.0,0,0,0,18.0,200.0,Sandeep Sharma,caught
+Kolkata Knight Riders,Kings XI Punjab,829733,2015-04-18,PP Chawla,4,1,1.0,0.0,0,0,0,9.0,400.0,0,0
+Kolkata Knight Riders,Kings XI Punjab,829733,2015-04-18,RN ten Doeschate,0,1,0.0,0.0,0,0,1,2.0,0.0,Sandeep Sharma,lbw
+Kolkata Knight Riders,Kings XI Punjab,829733,2015-04-18,RV Uthappa,13,10,2.0,0.0,0,0,0,19.0,130.0,Sandeep Sharma,lbw
+Kolkata Knight Riders,Kings XI Punjab,829733,2015-04-18,SA Yadav,23,10,2.0,2.0,0,0,0,33.0,230.0,NLTC Perera,caught
+Kolkata Knight Riders,Kings XI Punjab,829733,2015-04-18,YK Pathan,28,25,4.0,0.0,0,0,0,36.0,112.0,0,0

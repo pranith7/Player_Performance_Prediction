@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Royal Challengers Bangalore,336026,2008-05-19,AB de Villiers,21,25,1.0,0.0,0,0,0,26.0,84.0,DW Steyn,caught
+Delhi Daredevils,Royal Challengers Bangalore,336026,2008-05-19,G Gambhir,39,32,6.0,0.0,0,0,0,49.0,121.875,B Akhil,run out
+Delhi Daredevils,Royal Challengers Bangalore,336026,2008-05-19,KD Karthik,6,4,1.0,0.0,0,0,0,11.0,150.0,A Kumble,caught
+Delhi Daredevils,Royal Challengers Bangalore,336026,2008-05-19,MF Maharoof,13,8,1.0,1.0,0,0,0,20.0,162.5,0,0
+Delhi Daredevils,Royal Challengers Bangalore,336026,2008-05-19,S Dhawan,16,13,1.0,1.0,0,0,0,23.0,123.07692307692308,0,0
+Delhi Daredevils,Royal Challengers Bangalore,336026,2008-05-19,TM Dilshan,4,10,0.0,0.0,0,0,0,8.0,40.0,A Kumble,stumped
+Delhi Daredevils,Royal Challengers Bangalore,336026,2008-05-19,V Sehwag,47,19,9.0,1.0,0,0,0,62.0,247.3684210526316,P Kumar,caught
+Royal Challengers Bangalore,Delhi Daredevils,336026,2008-05-19,B Akhil,3,3,0.0,0.0,0,0,0,7.0,100.0,MF Maharoof,run out
+Royal Challengers Bangalore,Delhi Daredevils,336026,2008-05-19,B Chipli,2,11,0.0,0.0,0,0,0,6.0,18.181818181818183,GD McGrath,caught
+Royal Challengers Bangalore,Delhi Daredevils,336026,2008-05-19,CL White,1,2,0.0,0.0,0,0,0,5.0,50.0,MF Maharoof,run out
+Royal Challengers Bangalore,Delhi Daredevils,336026,2008-05-19,JH Kallis,25,24,3.0,1.0,0,0,0,34.0,104.16666666666669,MF Maharoof,caught
+Royal Challengers Bangalore,Delhi Daredevils,336026,2008-05-19,Misbah-ul-Haq,47,25,2.0,4.0,0,0,0,61.0,188.0,0,0
+Royal Challengers Bangalore,Delhi Daredevils,336026,2008-05-19,P Kumar,2,5,0.0,0.0,0,0,0,6.0,40.0,GD McGrath,bowled
+Royal Challengers Bangalore,Delhi Daredevils,336026,2008-05-19,R Dravid,9,11,1.0,0.0,0,0,0,14.0,81.81818181818183,TM Dilshan,bowled
+Royal Challengers Bangalore,Delhi Daredevils,336026,2008-05-19,SP Goswami,52,43,7.0,1.0,1,0,0,73.0,120.93023255813952,MF Maharoof,caught
+Royal Challengers Bangalore,Delhi Daredevils,336026,2008-05-19,Z Khan,4,1,1.0,0.0,0,0,0,9.0,400.0,0,0

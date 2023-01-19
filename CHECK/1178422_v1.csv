@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Mumbai Indians,1178422,2019-04-28,AD Russell,80,44,6.0,8.0,1,0,0,114.0,181.8181818181818,0,0
+Kolkata Knight Riders,Mumbai Indians,1178422,2019-04-28,CA Lynn,54,29,8.0,2.0,1,0,0,78.0,186.20689655172413,RD Chahar,caught
+Kolkata Knight Riders,Mumbai Indians,1178422,2019-04-28,KD Karthik,15,7,1.0,1.0,0,0,0,22.0,214.28571428571428,0,0
+Kolkata Knight Riders,Mumbai Indians,1178422,2019-04-28,Shubman Gill,76,46,6.0,4.0,1,0,0,102.0,165.2173913043478,HH Pandya,caught
+Mumbai Indians,Kolkata Knight Riders,1178422,2019-04-28,BB Sran,3,3,0.0,0.0,0,0,0,7.0,100.0,0,0
+Mumbai Indians,Kolkata Knight Riders,1178422,2019-04-28,E Lewis,15,16,1.0,1.0,0,0,0,22.0,93.75,AD Russell,caught
+Mumbai Indians,Kolkata Knight Riders,1178422,2019-04-28,HH Pandya,91,34,6.0,9.0,1,0,0,127.0,267.6470588235294,HF Gurney,caught
+Mumbai Indians,Kolkata Knight Riders,1178422,2019-04-28,KA Pollard,20,21,2.0,0.0,0,0,0,26.0,95.23809523809524,SP Narine,caught
+Mumbai Indians,Kolkata Knight Riders,1178422,2019-04-28,KH Pandya,24,18,0.0,2.0,0,0,0,32.0,133.33333333333331,PP Chawla,caught and bowled
+Mumbai Indians,Kolkata Knight Riders,1178422,2019-04-28,Q de Kock,0,4,0.0,0.0,0,0,1,2.0,0.0,SP Narine,caught
+Mumbai Indians,Kolkata Knight Riders,1178422,2019-04-28,RD Chahar,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Mumbai Indians,Kolkata Knight Riders,1178422,2019-04-28,RG Sharma,12,9,3.0,0.0,0,0,0,19.0,133.33333333333331,HF Gurney,lbw
+Mumbai Indians,Kolkata Knight Riders,1178422,2019-04-28,SA Yadav,26,14,2.0,2.0,0,0,0,36.0,185.7142857142857,AD Russell,caught

@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Rajasthan Royals,Sunrisers Hyderabad,1175363,2019-03-29,AM Rahane,70,49,4.0,3.0,1,0,0,92.0,142.85714285714286,S Nadeem,caught
+Rajasthan Royals,Sunrisers Hyderabad,1175363,2019-03-29,BA Stokes,16,9,3.0,0.0,0,0,0,23.0,177.77777777777777,0,0
+Rajasthan Royals,Sunrisers Hyderabad,1175363,2019-03-29,JC Buttler,5,9,1.0,0.0,0,0,0,10.0,55.55555555555556,Rashid Khan,bowled
+Rajasthan Royals,Sunrisers Hyderabad,1175363,2019-03-29,SV Samson,102,57,10.0,4.0,1,1,0,148.0,178.94736842105263,0,0
+Sunrisers Hyderabad,Rajasthan Royals,1175363,2019-03-29,DA Warner,69,38,9.0,2.0,1,0,0,94.0,181.57894736842107,BA Stokes,caught
+Sunrisers Hyderabad,Rajasthan Royals,1175363,2019-03-29,JM Bairstow,45,28,6.0,1.0,0,0,0,57.0,160.71428571428572,S Gopal,caught
+Sunrisers Hyderabad,Rajasthan Royals,1175363,2019-03-29,KS Williamson,14,10,2.0,0.0,0,0,0,20.0,140.0,JD Unadkat,caught
+Sunrisers Hyderabad,Rajasthan Royals,1175363,2019-03-29,MK Pandey,1,5,0.0,0.0,0,0,0,5.0,20.0,S Gopal,lbw
+Sunrisers Hyderabad,Rajasthan Royals,1175363,2019-03-29,Rashid Khan,15,10,1.0,1.0,0,0,0,22.0,150.0,0,0
+Sunrisers Hyderabad,Rajasthan Royals,1175363,2019-03-29,V Shankar,35,15,1.0,3.0,0,0,0,46.0,233.3333333333333,S Gopal,caught
+Sunrisers Hyderabad,Rajasthan Royals,1175363,2019-03-29,YK Pathan,16,13,0.0,1.0,0,0,0,22.0,123.07692307692308,0,0

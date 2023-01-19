@@ -1,0 +1,6 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Pune Warriors,501265,2011-05-21,CA Ingram,13,12,1.0,0.0,0,0,0,18.0,108.33333333333331,0,0
+Delhi Daredevils,Pune Warriors,501265,2011-05-21,DA Warner,19,10,1.0,2.0,0,0,0,28.0,190.0,JP Faulkner,bowled
+Delhi Daredevils,Pune Warriors,501265,2011-05-21,MS Wade,11,20,0.0,0.0,0,0,0,15.0,55.00000000000001,MR Marsh,bowled
+Delhi Daredevils,Pune Warriors,501265,2011-05-21,NV Ojha,8,20,1.0,0.0,0,0,0,13.0,40.0,SS Mundhe,caught
+Delhi Daredevils,Pune Warriors,501265,2011-05-21,Y Venugopal Rao,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0

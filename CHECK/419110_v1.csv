@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Deccan Chargers,419110,2010-03-14,JA Morkel,42,28,1.0,3.0,0,0,0,53.0,150.0,0,0
+Chennai Super Kings,Deccan Chargers,419110,2010-03-14,JM Kemp,22,16,1.0,1.0,0,0,0,29.0,137.5,PP Ojha,stumped
+Chennai Super Kings,Deccan Chargers,419110,2010-03-14,L Balaji,15,10,1.0,1.0,0,0,0,22.0,150.0,RP Singh,caught
+Chennai Super Kings,Deccan Chargers,419110,2010-03-14,M Muralitharan,1,2,0.0,0.0,0,0,0,5.0,50.0,A Symonds,lbw
+Chennai Super Kings,Deccan Chargers,419110,2010-03-14,M Vijay,3,6,0.0,0.0,0,0,0,7.0,50.0,WPUJC Vaas,bowled
+Chennai Super Kings,Deccan Chargers,419110,2010-03-14,ML Hayden,17,11,0.0,2.0,0,0,0,25.0,154.54545454545453,WPUJC Vaas,caught
+Chennai Super Kings,Deccan Chargers,419110,2010-03-14,MS Dhoni,42,30,3.0,2.0,0,0,0,53.0,140.0,A Symonds,bowled
+Chennai Super Kings,Deccan Chargers,419110,2010-03-14,R Ashwin,0,1,0.0,0.0,0,0,1,2.0,0.0,RG Sharma,caught
+Chennai Super Kings,Deccan Chargers,419110,2010-03-14,S Badrinath,5,12,1.0,0.0,0,0,0,10.0,41.66666666666667,PP Ojha,caught
+Chennai Super Kings,Deccan Chargers,419110,2010-03-14,S Tyagi,3,4,0.0,0.0,0,0,0,7.0,75.0,0,0
+Chennai Super Kings,Deccan Chargers,419110,2010-03-14,SK Raina,6,3,0.0,1.0,0,0,0,12.0,200.0,WPUJC Vaas,caught
+Deccan Chargers,Chennai Super Kings,419110,2010-03-14,A Symonds,50,46,3.0,3.0,1,0,0,71.0,108.69565217391305,L Balaji,run out
+Deccan Chargers,Chennai Super Kings,419110,2010-03-14,AC Gilchrist,38,20,4.0,3.0,0,0,0,52.0,190.0,R Ashwin,bowled
+Deccan Chargers,Chennai Super Kings,419110,2010-03-14,HH Gibbs,45,39,5.0,1.0,0,0,0,56.0,115.38461538461536,JA Morkel,run out
+Deccan Chargers,Chennai Super Kings,419110,2010-03-14,RG Sharma,19,10,2.0,1.0,0,0,0,27.0,190.0,0,0
+Deccan Chargers,Chennai Super Kings,419110,2010-03-14,TL Suman,10,5,2.0,0.0,0,0,0,16.0,200.0,0,0
+Deccan Chargers,Chennai Super Kings,419110,2010-03-14,VVS Laxman,12,11,2.0,0.0,0,0,0,18.0,109.09090909090908,R Ashwin,run out

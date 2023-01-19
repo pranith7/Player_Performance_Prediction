@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Kolkata Knight Riders,829723,2015-04-30,A Nehra,1,4,0.0,0.0,0,0,0,5.0,25.0,0,0
+Chennai Super Kings,Kolkata Knight Riders,829723,2015-04-30,BB McCullum,32,14,3.0,3.0,0,0,0,45.0,228.57142857142856,GB Hogg,lbw
+Chennai Super Kings,Kolkata Knight Riders,829723,2015-04-30,DJ Bravo,30,32,4.0,0.0,0,0,0,38.0,93.75,AD Russell,bowled
+Chennai Super Kings,Kolkata Knight Riders,829723,2015-04-30,DR Smith,0,1,0.0,0.0,0,0,1,2.0,0.0,PJ Cummins,caught
+Chennai Super Kings,Kolkata Knight Riders,829723,2015-04-30,F du Plessis,20,11,5.0,0.0,0,0,0,29.0,181.8181818181818,GB Hogg,stumped
+Chennai Super Kings,Kolkata Knight Riders,829723,2015-04-30,MM Sharma,0,1,0.0,0.0,0,0,1,2.0,0.0,AD Russell,caught
+Chennai Super Kings,Kolkata Knight Riders,829723,2015-04-30,MS Dhoni,1,4,0.0,0.0,0,0,0,5.0,25.0,PP Chawla,bowled
+Chennai Super Kings,Kolkata Knight Riders,829723,2015-04-30,P Negi,27,13,4.0,1.0,0,0,0,37.0,207.6923076923077,GB Hogg,bowled
+Chennai Super Kings,Kolkata Knight Riders,829723,2015-04-30,RA Jadeja,24,30,1.0,1.0,0,0,0,31.0,80.0,GB Hogg,caught
+Chennai Super Kings,Kolkata Knight Riders,829723,2015-04-30,RG More,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Chennai Super Kings,Kolkata Knight Riders,829723,2015-04-30,SK Raina,8,10,2.0,0.0,0,0,0,14.0,80.0,UT Yadav,caught
+Kolkata Knight Riders,Chennai Super Kings,829723,2015-04-30,AD Russell,55,33,4.0,4.0,1,0,0,79.0,166.66666666666669,0,0
+Kolkata Knight Riders,Chennai Super Kings,829723,2015-04-30,G Gambhir,19,17,0.0,2.0,0,0,0,27.0,111.76470588235294,MM Sharma,caught
+Kolkata Knight Riders,Chennai Super Kings,829723,2015-04-30,MK Pandey,3,11,0.0,0.0,0,0,0,7.0,27.27272727272727,P Negi,caught
+Kolkata Knight Riders,Chennai Super Kings,829723,2015-04-30,RV Uthappa,80,60,7.0,1.0,1,0,0,101.0,133.33333333333331,0,0
+Kolkata Knight Riders,Chennai Super Kings,829723,2015-04-30,SA Yadav,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,RG More,caught

@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Delhi Daredevils,392237,2009-05-22,A Symonds,24,15,2.0,1.0,0,0,0,32.0,160.0,A Mishra,caught
+Deccan Chargers,Delhi Daredevils,392237,2009-05-22,AA Bilakhia,10,21,0.0,0.0,0,0,0,14.0,47.61904761904761,A Mishra,stumped
+Deccan Chargers,Delhi Daredevils,392237,2009-05-22,AC Gilchrist,85,36,10.0,5.0,1,0,0,117.0,236.11111111111111,A Mishra,caught
+Deccan Chargers,Delhi Daredevils,392237,2009-05-22,HH Gibbs,0,3,0.0,0.0,0,0,1,2.0,0.0,A Nehra,bowled
+Deccan Chargers,Delhi Daredevils,392237,2009-05-22,RG Sharma,5,12,0.0,0.0,0,0,0,9.0,41.66666666666667,0,0
+Deccan Chargers,Delhi Daredevils,392237,2009-05-22,TL Suman,24,25,3.0,0.0,0,0,0,31.0,96.0,0,0
+Delhi Daredevils,Deccan Chargers,392237,2009-05-22,A Mishra,0,1,0.0,0.0,0,0,1,2.0,0.0,RP Singh,run out
+Delhi Daredevils,Deccan Chargers,392237,2009-05-22,AB de Villiers,26,21,0.0,2.0,0,0,0,34.0,123.8095238095238,RP Singh,caught
+Delhi Daredevils,Deccan Chargers,392237,2009-05-22,DA Warner,0,1,0.0,0.0,0,0,1,2.0,0.0,RJ Harris,caught
+Delhi Daredevils,Deccan Chargers,392237,2009-05-22,G Gambhir,0,5,0.0,0.0,0,0,1,2.0,0.0,RJ Harris,caught
+Delhi Daredevils,Deccan Chargers,392237,2009-05-22,KD Karthik,9,9,0.0,1.0,0,0,0,15.0,100.0,RJ Harris,bowled
+Delhi Daredevils,Deccan Chargers,392237,2009-05-22,PJ Sangwan,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Delhi Daredevils,Deccan Chargers,392237,2009-05-22,R Bhatia,4,2,1.0,0.0,0,0,0,9.0,200.0,RP Singh,caught
+Delhi Daredevils,Deccan Chargers,392237,2009-05-22,TM Dilshan,65,53,7.0,1.0,1,0,0,86.0,122.64150943396226,RP Singh,run out
+Delhi Daredevils,Deccan Chargers,392237,2009-05-22,V Sehwag,39,32,5.0,0.0,0,0,0,48.0,121.875,A Symonds,lbw

@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Capitals,Royal Challengers Bangalore,1178395,2019-04-07,AR Patel,4,1,1.0,0.0,0,0,0,9.0,400.0,0,0
+Delhi Capitals,Royal Challengers Bangalore,1178395,2019-04-07,CA Ingram,22,22,2.0,1.0,0,0,0,30.0,100.0,MM Ali,lbw
+Delhi Capitals,Royal Challengers Bangalore,1178395,2019-04-07,CH Morris,0,3,0.0,0.0,0,0,1,2.0,0.0,NA Saini,caught
+Delhi Capitals,Royal Challengers Bangalore,1178395,2019-04-07,PP Shaw,28,22,5.0,0.0,0,0,0,37.0,127.27272727272728,P Negi,caught
+Delhi Capitals,Royal Challengers Bangalore,1178395,2019-04-07,R Tewatia,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Delhi Capitals,Royal Challengers Bangalore,1178395,2019-04-07,RR Pant,18,14,2.0,0.0,0,0,0,24.0,128.57142857142858,Mohammed Siraj,caught
+Delhi Capitals,Royal Challengers Bangalore,1178395,2019-04-07,S Dhawan,0,1,0.0,0.0,0,0,1,2.0,0.0,TG Southee,caught
+Delhi Capitals,Royal Challengers Bangalore,1178395,2019-04-07,SS Iyer,67,55,8.0,2.0,1,0,0,91.0,121.81818181818184,NA Saini,caught
+Royal Challengers Bangalore,Delhi Capitals,1178395,2019-04-07,AB de Villiers,17,17,1.0,1.0,0,0,0,24.0,100.0,K Rabada,caught
+Royal Challengers Bangalore,Delhi Capitals,1178395,2019-04-07,AD Nath,19,12,4.0,0.0,0,0,0,27.0,158.33333333333331,K Rabada,caught
+Royal Challengers Bangalore,Delhi Capitals,1178395,2019-04-07,MM Ali,32,19,1.0,3.0,0,0,0,43.0,168.42105263157893,S Lamichhane,stumped
+Royal Challengers Bangalore,Delhi Capitals,1178395,2019-04-07,MP Stoinis,15,17,0.0,1.0,0,0,0,21.0,88.23529411764706,AR Patel,caught
+Royal Challengers Bangalore,Delhi Capitals,1178395,2019-04-07,Mohammed Siraj,1,5,0.0,0.0,0,0,0,5.0,20.0,CH Morris,lbw
+Royal Challengers Bangalore,Delhi Capitals,1178395,2019-04-07,P Negi,0,1,0.0,0.0,0,0,1,2.0,0.0,K Rabada,caught
+Royal Challengers Bangalore,Delhi Capitals,1178395,2019-04-07,PA Patel,9,10,1.0,0.0,0,0,0,14.0,90.0,CH Morris,caught
+Royal Challengers Bangalore,Delhi Capitals,1178395,2019-04-07,TG Southee,9,9,0.0,0.0,0,0,0,13.0,100.0,0,0
+Royal Challengers Bangalore,Delhi Capitals,1178395,2019-04-07,V Kohli,41,33,1.0,2.0,0,0,0,50.0,124.24242424242424,K Rabada,caught
+Royal Challengers Bangalore,Delhi Capitals,1178395,2019-04-07,YS Chahal,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0

@@ -1,0 +1,22 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Pune Warriors,Sunrisers Hyderabad,598018,2013-04-17,AB Dinda,0,1,0.0,0.0,0,0,1,2.0,0.0,A Mishra,bowled
+Pune Warriors,Sunrisers Hyderabad,598018,2013-04-17,AD Mathews,20,24,1.0,0.0,0,0,0,25.0,83.33333333333334,A Mishra,caught
+Pune Warriors,Sunrisers Hyderabad,598018,2013-04-17,AJ Finch,16,13,3.0,0.0,0,0,0,23.0,123.07692307692308,NLTC Perera,caught
+Pune Warriors,Sunrisers Hyderabad,598018,2013-04-17,AM Nayar,0,2,0.0,0.0,0,0,1,2.0,0.0,NLTC Perera,caught
+Pune Warriors,Sunrisers Hyderabad,598018,2013-04-17,B Kumar,0,1,0.0,0.0,0,0,1,2.0,0.0,A Mishra,lbw
+Pune Warriors,Sunrisers Hyderabad,598018,2013-04-17,MK Pandey,7,6,1.0,0.0,0,0,0,12.0,116.66666666666669,0,0
+Pune Warriors,Sunrisers Hyderabad,598018,2013-04-17,MR Marsh,14,13,1.0,1.0,0,0,0,21.0,107.6923076923077,DW Steyn,caught
+Pune Warriors,Sunrisers Hyderabad,598018,2013-04-17,R Sharma,0,1,0.0,0.0,0,0,1,2.0,0.0,A Mishra,bowled
+Pune Warriors,Sunrisers Hyderabad,598018,2013-04-17,RV Uthappa,22,14,4.0,0.0,0,0,0,30.0,157.14285714285714,NLTC Perera,caught
+Pune Warriors,Sunrisers Hyderabad,598018,2013-04-17,SPD Smith,17,25,0.0,0.0,0,0,0,21.0,68.0,I Sharma,caught
+Pune Warriors,Sunrisers Hyderabad,598018,2013-04-17,TL Suman,12,14,1.0,0.0,0,0,0,17.0,85.71428571428571,KV Sharma,lbw
+Sunrisers Hyderabad,Pune Warriors,598018,2013-04-17,A Ashish Reddy,19,15,0.0,1.0,0,0,0,25.0,126.66666666666666,0,0
+Sunrisers Hyderabad,Pune Warriors,598018,2013-04-17,A Mishra,30,26,3.0,0.0,0,0,0,37.0,115.38461538461536,AB Dinda,run out
+Sunrisers Hyderabad,Pune Warriors,598018,2013-04-17,BB Samantray,37,37,3.0,1.0,0,0,0,46.0,100.0,R Sharma,caught
+Sunrisers Hyderabad,Pune Warriors,598018,2013-04-17,CL White,0,1,0.0,0.0,0,0,1,2.0,0.0,B Kumar,bowled
+Sunrisers Hyderabad,Pune Warriors,598018,2013-04-17,DW Steyn,4,1,1.0,0.0,0,0,0,9.0,400.0,0,0
+Sunrisers Hyderabad,Pune Warriors,598018,2013-04-17,GH Vihari,1,9,0.0,0.0,0,0,0,5.0,11.11111111111111,B Kumar,caught
+Sunrisers Hyderabad,Pune Warriors,598018,2013-04-17,KV Sharma,7,14,0.0,0.0,0,0,0,11.0,50.0,R Sharma,lbw
+Sunrisers Hyderabad,Pune Warriors,598018,2013-04-17,NLTC Perera,2,4,0.0,0.0,0,0,0,6.0,50.0,MR Marsh,caught
+Sunrisers Hyderabad,Pune Warriors,598018,2013-04-17,PA Patel,12,9,2.0,0.0,0,0,0,18.0,133.33333333333331,B Kumar,bowled
+Sunrisers Hyderabad,Pune Warriors,598018,2013-04-17,Q de Kock,2,9,0.0,0.0,0,0,0,6.0,22.22222222222222,AB Dinda,caught

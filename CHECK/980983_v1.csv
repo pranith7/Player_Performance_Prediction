@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Sunrisers Hyderabad,980983,2016-05-12,KK Nair,20,17,3.0,0.0,0,0,0,27.0,117.64705882352942,MC Henriques,bowled
+Delhi Daredevils,Sunrisers Hyderabad,980983,2016-05-12,MA Agarwal,10,9,2.0,0.0,0,0,0,16.0,111.11111111111111,A Nehra,caught
+Delhi Daredevils,Sunrisers Hyderabad,980983,2016-05-12,Q de Kock,44,32,5.0,2.0,0,0,0,57.0,137.5,MC Henriques,caught
+Delhi Daredevils,Sunrisers Hyderabad,980983,2016-05-12,RR Pant,39,27,2.0,3.0,0,0,0,51.0,144.44444444444443,0,0
+Delhi Daredevils,Sunrisers Hyderabad,980983,2016-05-12,SV Samson,34,27,0.0,2.0,0,0,0,42.0,125.92592592592592,0,0
+Sunrisers Hyderabad,Delhi Daredevils,980983,2016-05-12,A Nehra,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Sunrisers Hyderabad,Delhi Daredevils,980983,2016-05-12,B Kumar,1,2,0.0,0.0,0,0,0,5.0,50.0,CH Morris,run out
+Sunrisers Hyderabad,Delhi Daredevils,980983,2016-05-12,BB Sran,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Sunrisers Hyderabad,Delhi Daredevils,980983,2016-05-12,DA Warner,46,31,6.0,1.0,0,0,0,58.0,148.38709677419354,J Yadav,bowled
+Sunrisers Hyderabad,Delhi Daredevils,980983,2016-05-12,DJ Hooda,10,9,1.0,0.0,0,0,0,15.0,111.11111111111111,NM Coulter-Nile,hit wicket
+Sunrisers Hyderabad,Delhi Daredevils,980983,2016-05-12,KS Williamson,27,26,3.0,0.0,0,0,0,34.0,103.84615384615384,CH Morris,bowled
+Sunrisers Hyderabad,Delhi Daredevils,980983,2016-05-12,MC Henriques,0,1,0.0,0.0,0,0,1,2.0,0.0,Mohammed Shami,lbw
+Sunrisers Hyderabad,Delhi Daredevils,980983,2016-05-12,NV Ojha,7,9,1.0,0.0,0,0,0,12.0,77.77777777777779,NM Coulter-Nile,caught
+Sunrisers Hyderabad,Delhi Daredevils,980983,2016-05-12,S Dhawan,34,37,3.0,0.0,0,0,0,41.0,91.8918918918919,A Mishra,caught
+Sunrisers Hyderabad,Delhi Daredevils,980983,2016-05-12,Yuvraj Singh,8,8,0.0,1.0,0,0,0,14.0,100.0,A Mishra,caught
