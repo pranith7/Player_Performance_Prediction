@@ -5,7 +5,7 @@ data = pd.read_csv("/home/pranith/Desktop/Development/Player_Performance_Predict
 # df = data.copy()
 # df = df.rename(columns={'0': 'Strike_Rate'})
 
-print(data)
+print("Top rows of",data)
 
 
 # data1 = pd.read_csv("/home/pranith/Desktop/Development/Player_Performance_Prediction/CHECK1/335985.csv")

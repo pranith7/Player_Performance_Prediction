@@ -1,0 +1,910 @@
+,batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+9004,Mumbai Indians,Royal Challengers Bangalore,1254058,2021-04-09,Ishan Kishan,28,20,2.0,1.0,0,0,0,36.0,140.0,SR Watson,caught
+9003,Mumbai Indians,Royal Challengers Bangalore,1254058,2021-04-09,HH Pandya,13,10,2.0,0.0,0,0,0,19.0,130.0,Imran Tahir,caught
+9005,Mumbai Indians,Royal Challengers Bangalore,1254058,2021-04-09,JJ Bumrah,1,2,0.0,0.0,0,0,0,5.0,50.0,A Nehra,run out
+9006,Mumbai Indians,Royal Challengers Bangalore,1254058,2021-04-09,KA Pollard,7,9,1.0,0.0,0,0,0,12.0,77.77777777777779,Swapnil Singh,caught and bowled
+9002,Mumbai Indians,Royal Challengers Bangalore,1254058,2021-04-09,CA Lynn,49,36,4.0,3.0,0,0,0,63.0,136.11111111111111,JJ Bumrah,caught
+12643,Royal Challengers Bangalore,Mumbai Indians,1254058,2021-04-09,Mohammed Siraj,0,1,0.0,0.0,0,0,1,2.0,0.0,DW Steyn,caught
+9008,Mumbai Indians,Royal Challengers Bangalore,1254058,2021-04-09,M Jansen,0,2,0.0,0.0,0,0,1,2.0,0.0,RA Jadeja,lbw
+9009,Mumbai Indians,Royal Challengers Bangalore,1254058,2021-04-09,RG Sharma,19,15,1.0,1.0,0,0,0,26.0,126.66666666666666,SR Watson,bowled
+9010,Mumbai Indians,Royal Challengers Bangalore,1254058,2021-04-09,SA Yadav,31,23,4.0,1.0,0,0,0,41.0,134.7826086956522,JJ Bumrah,bowled
+12644,Royal Challengers Bangalore,Mumbai Indians,1254058,2021-04-09,RM Patidar,8,9,1.0,0.0,0,0,0,13.0,88.88888888888889,M Morkel,caught
+12639,Royal Challengers Bangalore,Mumbai Indians,1254058,2021-04-09,DT Christian,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,RA Jadeja,caught
+12638,Royal Challengers Bangalore,Mumbai Indians,1254058,2021-04-09,AB de Villiers,48,27,4.0,2.0,0,0,0,60.0,177.77777777777777,PP Ojha,stumped
+12640,Royal Challengers Bangalore,Mumbai Indians,1254058,2021-04-09,GJ Maxwell,39,30,3.0,2.0,0,0,0,50.0,130.0,Z Khan,caught
+12642,Royal Challengers Bangalore,Mumbai Indians,1254058,2021-04-09,KA Jamieson,4,4,0.0,0.0,0,0,0,8.0,100.0,PP Ojha,run out
+9007,Mumbai Indians,Royal Challengers Bangalore,1254058,2021-04-09,KH Pandya,7,7,1.0,0.0,0,0,0,12.0,100.0,A Mishra,caught
+12647,Royal Challengers Bangalore,Mumbai Indians,1254058,2021-04-09,Washington Sundar,10,17,0.0,0.0,0,0,0,14.0,58.82352941176471,BA Bhatt,run out
+12646,Royal Challengers Bangalore,Mumbai Indians,1254058,2021-04-09,V Kohli,33,29,4.0,0.0,0,0,0,41.0,113.79310344827589,AB Dinda,caught
+12645,Royal Challengers Bangalore,Mumbai Indians,1254058,2021-04-09,Shahbaz Ahmed,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,Z Khan,caught
+12641,Royal Challengers Bangalore,Mumbai Indians,1254058,2021-04-09,HV Patel,4,3,0.0,0.0,0,0,0,8.0,133.33333333333331,S Aravind,caught
+2078,Delhi Capitals,Chennai Super Kings,1254059,2021-04-10,RR Pant,15,13,2.0,0.0,0,0,0,21.0,115.38461538461536,P Negi,caught
+2079,Delhi Capitals,Chennai Super Kings,1254059,2021-04-10,S Dhawan,85,55,10.0,2.0,1,0,0,111.0,154.54545454545453,UT Yadav,bowled
+2076,Delhi Capitals,Chennai Super Kings,1254059,2021-04-10,MP Stoinis,14,10,3.0,0.0,0,0,0,21.0,140.0,L Balaji,bowled
+2077,Delhi Capitals,Chennai Super Kings,1254059,2021-04-10,PP Shaw,72,38,9.0,3.0,1,0,0,99.0,189.4736842105263,Shivam Sharma,caught
+115,Chennai Super Kings,Delhi Capitals,1254059,2021-04-10,SK Raina,54,36,3.0,4.0,1,0,0,77.0,150.0,PV Tambe,caught
+114,Chennai Super Kings,Delhi Capitals,1254059,2021-04-10,RD Gaikwad,5,9,1.0,0.0,0,0,0,10.0,55.55555555555556,PP Ojha,bowled
+109,Chennai Super Kings,Delhi Capitals,1254059,2021-04-10,AT Rayudu,23,16,1.0,2.0,0,0,0,32.0,143.75,RP Singh,bowled
+116,Chennai Super Kings,Delhi Capitals,1254059,2021-04-10,SM Curran,34,16,4.0,2.0,0,0,0,46.0,212.5,L Balaji,bowled
+112,Chennai Super Kings,Delhi Capitals,1254059,2021-04-10,MS Dhoni,0,2,0.0,0.0,0,0,1,2.0,0.0,AB Dinda,caught
+113,Chennai Super Kings,Delhi Capitals,1254059,2021-04-10,RA Jadeja,26,17,3.0,0.0,0,0,0,33.0,152.94117647058823,P Awana,caught
+111,Chennai Super Kings,Delhi Capitals,1254059,2021-04-10,MM Ali,36,24,4.0,2.0,0,0,0,48.0,150.0,UT Yadav,caught
+110,Chennai Super Kings,Delhi Capitals,1254059,2021-04-10,F du Plessis,0,3,0.0,0.0,0,0,1,2.0,0.0,Azhar Mahmood,caught
+7296,Kolkata Knight Riders,Sunrisers Hyderabad,1254060,2021-04-11,RA Tripathi,53,29,5.0,2.0,1,0,0,74.0,182.7586206896552,DP Nannes,caught
+7292,Kolkata Knight Riders,Sunrisers Hyderabad,1254060,2021-04-11,AD Russell,5,6,1.0,0.0,0,0,0,10.0,83.33333333333334,DW Steyn,caught
+13699,Sunrisers Hyderabad,Kolkata Knight Riders,1254060,2021-04-11,V Shankar,11,7,0.0,1.0,0,0,0,17.0,157.14285714285714,HV Patel,caught
+7293,Kolkata Knight Riders,Sunrisers Hyderabad,1254060,2021-04-11,EJG Morgan,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,SR Watson,caught
+7294,Kolkata Knight Riders,Sunrisers Hyderabad,1254060,2021-04-11,KD Karthik,22,10,2.0,1.0,0,0,0,30.0,220.00000000000003,KA Pollard,caught and bowled
+7295,Kolkata Knight Riders,Sunrisers Hyderabad,1254060,2021-04-11,N Rana,80,56,9.0,4.0,1,0,0,109.0,142.85714285714286,PP Ojha,bowled
+13697,Sunrisers Hyderabad,Kolkata Knight Riders,1254060,2021-04-11,MK Pandey,61,46,2.0,3.0,1,0,0,81.0,132.6086956521739,SL Malinga,bowled
+13698,Sunrisers Hyderabad,Kolkata Knight Riders,1254060,2021-04-11,Mohammad Nabi,14,13,2.0,0.0,0,0,0,20.0,107.6923076923077,MM Sharma,caught
+7297,Kolkata Knight Riders,Sunrisers Hyderabad,1254060,2021-04-11,Shakib Al Hasan,3,6,0.0,0.0,0,0,0,7.0,50.0,Harmeet Singh,caught
+13700,Sunrisers Hyderabad,Kolkata Knight Riders,1254060,2021-04-11,WP Saha,7,6,0.0,1.0,0,0,0,13.0,116.66666666666669,A Nehra,caught
+13696,Sunrisers Hyderabad,Kolkata Knight Riders,1254060,2021-04-11,JM Bairstow,55,41,5.0,3.0,1,0,0,78.0,134.14634146341464,HV Patel,caught
+13694,Sunrisers Hyderabad,Kolkata Knight Riders,1254060,2021-04-11,Abdul Samad,19,8,0.0,2.0,0,0,0,27.0,237.5,Z Khan,caught
+13695,Sunrisers Hyderabad,Kolkata Knight Riders,1254060,2021-04-11,DA Warner,3,4,0.0,0.0,0,0,0,7.0,75.0,Harbhajan Singh,lbw
+7298,Kolkata Knight Riders,Sunrisers Hyderabad,1254060,2021-04-11,Shubman Gill,15,13,1.0,1.0,0,0,0,22.0,115.38461538461536,Z Khan,caught
+10901,Rajasthan Royals,Punjab Kings,1254061,2021-04-12,BA Stokes,0,3,0.0,0.0,0,0,1,2.0,0.0,Harbhajan Singh,lbw
+9698,Punjab Kings,Rajasthan Royals,1254061,2021-04-12,N Pooran,0,1,0.0,0.0,0,0,1,2.0,0.0,PP Ojha,caught
+9697,Punjab Kings,Rajasthan Royals,1254061,2021-04-12,MA Agarwal,14,10,2.0,0.0,0,0,0,20.0,140.0,DL Vettori,caught
+10902,Rajasthan Royals,Punjab Kings,1254061,2021-04-12,CH Morris,2,4,0.0,0.0,0,0,0,6.0,50.0,HV Patel,caught
+10903,Rajasthan Royals,Punjab Kings,1254061,2021-04-12,JC Buttler,25,13,5.0,0.0,0,0,0,34.0,192.30769230769232,SL Malinga,bowled
+10904,Rajasthan Royals,Punjab Kings,1254061,2021-04-12,M Vohra,12,9,1.0,1.0,0,0,0,19.0,133.33333333333331,MM Sharma,caught
+9695,Punjab Kings,Rajasthan Royals,1254061,2021-04-12,KL Rahul,91,52,7.0,5.0,1,0,0,120.0,175.0,SL Malinga,bowled
+9692,Punjab Kings,Rajasthan Royals,1254061,2021-04-12,CH Gayle,40,29,4.0,2.0,0,0,0,52.0,137.93103448275863,R Vinay Kumar,caught
+10908,Rajasthan Royals,Punjab Kings,1254061,2021-04-12,SV Samson,119,66,12.0,7.0,1,1,0,173.0,180.3030303030303,Imran Tahir,caught
+10907,Rajasthan Royals,Punjab Kings,1254061,2021-04-12,S Dube,23,15,3.0,0.0,0,0,0,30.0,153.33333333333334,JJ Bumrah,caught
+9693,Punjab Kings,Rajasthan Royals,1254061,2021-04-12,DJ Hooda,64,28,4.0,6.0,1,0,0,92.0,228.57142857142856,Sohail Tanvir,caught
+10906,Rajasthan Royals,Punjab Kings,1254061,2021-04-12,R Tewatia,2,5,0.0,0.0,0,0,0,6.0,40.0,A Nehra,caught
+9694,Punjab Kings,Rajasthan Royals,1254061,2021-04-12,JA Richardson,0,2,0.0,0.0,0,0,1,2.0,0.0,PP Ojha,caught
+10905,Rajasthan Royals,Punjab Kings,1254061,2021-04-12,R Parag,25,12,1.0,3.0,0,0,0,36.0,208.3333333333333,HV Patel,caught
+9696,Punjab Kings,Rajasthan Royals,1254061,2021-04-12,M Shahrukh Khan,6,4,1.0,0.0,0,0,0,11.0,150.0,P Kumar,caught
+6630,Kolkata Knight Riders,Mumbai Indians,1254062,2021-04-13,PJ Cummins,0,1,0.0,0.0,0,0,1,2.0,0.0,RD Chahar,caught
+6631,Kolkata Knight Riders,Mumbai Indians,1254062,2021-04-13,RA Tripathi,5,5,0.0,0.0,0,0,0,9.0,100.0,M Jansen,caught
+6632,Kolkata Knight Riders,Mumbai Indians,1254062,2021-04-13,Shakib Al Hasan,9,9,1.0,0.0,0,0,0,14.0,100.0,R Dhawan,caught
+6626,Kolkata Knight Riders,Mumbai Indians,1254062,2021-04-13,EJG Morgan,7,7,1.0,0.0,0,0,0,12.0,100.0,AF Milne,caught
+6627,Kolkata Knight Riders,Mumbai Indians,1254062,2021-04-13,Harbhajan Singh,2,2,0.0,0.0,0,0,0,6.0,100.0,CV Varun,bowled
+6628,Kolkata Knight Riders,Mumbai Indians,1254062,2021-04-13,KD Karthik,8,11,0.0,0.0,0,0,0,12.0,72.72727272727273,Avesh Khan,caught
+6629,Kolkata Knight Riders,Mumbai Indians,1254062,2021-04-13,N Rana,57,48,6.0,2.0,1,0,0,79.0,118.75,Ravi Bishnoi,bowled
+6625,Kolkata Knight Riders,Mumbai Indians,1254062,2021-04-13,AD Russell,9,15,1.0,0.0,0,0,0,14.0,60.0,AD Russell,caught
+6633,Kolkata Knight Riders,Mumbai Indians,1254062,2021-04-13,Shubman Gill,33,24,5.0,1.0,0,0,0,44.0,137.5,T Natarajan,caught
+8455,Mumbai Indians,Kolkata Knight Riders,1254062,2021-04-13,RD Chahar,8,7,0.0,0.0,0,0,0,12.0,114.28571428571428,AB Dinda,caught
+8450,Mumbai Indians,Kolkata Knight Riders,1254062,2021-04-13,JJ Bumrah,0,1,0.0,0.0,0,0,1,2.0,0.0,S Aravind,caught
+8456,Mumbai Indians,Kolkata Knight Riders,1254062,2021-04-13,RG Sharma,43,32,3.0,1.0,0,0,0,52.0,134.375,BA Bhatt,run out
+8454,Mumbai Indians,Kolkata Knight Riders,1254062,2021-04-13,Q de Kock,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,Z Khan,caught
+8457,Mumbai Indians,Kolkata Knight Riders,1254062,2021-04-13,SA Yadav,56,38,7.0,2.0,1,0,0,79.0,147.36842105263156,DT Christian,bowled
+8453,Mumbai Indians,Kolkata Knight Riders,1254062,2021-04-13,M Jansen,0,2,0.0,0.0,0,0,1,2.0,0.0,M Morkel,caught
+8448,Mumbai Indians,Kolkata Knight Riders,1254062,2021-04-13,HH Pandya,15,17,2.0,0.0,0,0,0,21.0,88.23529411764706,RA Jadeja,caught
+8452,Mumbai Indians,Kolkata Knight Riders,1254062,2021-04-13,KH Pandya,15,9,3.0,0.0,0,0,0,22.0,166.66666666666669,DW Steyn,caught
+8451,Mumbai Indians,Kolkata Knight Riders,1254062,2021-04-13,KA Pollard,5,8,1.0,0.0,0,0,0,10.0,62.5,PP Ojha,run out
+8449,Mumbai Indians,Kolkata Knight Riders,1254062,2021-04-13,Ishan Kishan,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,Z Khan,caught
+14198,Sunrisers Hyderabad,Royal Challengers Bangalore,1254063,2021-04-14,Abdul Samad,0,2,0.0,0.0,0,0,1,2.0,0.0,AD Russell,caught
+14204,Sunrisers Hyderabad,Royal Challengers Bangalore,1254063,2021-04-14,Rashid Khan,17,9,1.0,1.0,0,0,0,24.0,188.88888888888889,HV Patel,caught
+14207,Sunrisers Hyderabad,Royal Challengers Bangalore,1254063,2021-04-14,WP Saha,1,9,0.0,0.0,0,0,0,5.0,11.11111111111111,HV Patel,caught
+14206,Sunrisers Hyderabad,Royal Challengers Bangalore,1254063,2021-04-14,V Shankar,3,5,0.0,0.0,0,0,0,7.0,60.0,MM Sharma,caught
+13089,Royal Challengers Bangalore,Sunrisers Hyderabad,1254063,2021-04-14,Shahbaz Ahmed,14,10,0.0,1.0,0,0,0,20.0,140.0,Rashid Khan,bowled
+14205,Sunrisers Hyderabad,Royal Challengers Bangalore,1254063,2021-04-14,S Nadeem,0,1,0.0,0.0,0,0,1,2.0,0.0,SL Malinga,bowled
+13087,Royal Challengers Bangalore,Sunrisers Hyderabad,1254063,2021-04-14,GJ Maxwell,59,45,5.0,3.0,1,0,0,82.0,131.11111111111111,MJ McClenaghan,caught
+13084,Royal Challengers Bangalore,Sunrisers Hyderabad,1254063,2021-04-14,AB de Villiers,1,5,0.0,0.0,0,0,0,5.0,20.0,M Markande,lbw
+13088,Royal Challengers Bangalore,Sunrisers Hyderabad,1254063,2021-04-14,KA Jamieson,12,9,2.0,0.0,0,0,0,18.0,133.33333333333331,TA Boult,caught
+14203,Sunrisers Hyderabad,Royal Challengers Bangalore,1254063,2021-04-14,MK Pandey,38,41,2.0,2.0,0,0,0,48.0,92.6829268292683,Harbhajan Singh,lbw
+13091,Royal Challengers Bangalore,Sunrisers Hyderabad,1254063,2021-04-14,Washington Sundar,8,11,1.0,0.0,0,0,0,13.0,72.72727272727273,HH Pandya,run out
+14199,Sunrisers Hyderabad,Royal Challengers Bangalore,1254063,2021-04-14,B Kumar,2,2,0.0,0.0,0,0,0,6.0,100.0,PP Chawla,bowled
+13090,Royal Challengers Bangalore,Sunrisers Hyderabad,1254063,2021-04-14,V Kohli,33,30,4.0,0.0,0,0,0,41.0,110.0,I Sharma,caught
+13085,Royal Challengers Bangalore,Sunrisers Hyderabad,1254063,2021-04-14,D Padikkal,11,15,2.0,0.0,0,0,0,17.0,73.33333333333333,PP Chawla,caught
+13086,Royal Challengers Bangalore,Sunrisers Hyderabad,1254063,2021-04-14,DT Christian,1,2,0.0,0.0,0,0,0,5.0,50.0,S Gopal,caught
+14200,Sunrisers Hyderabad,Royal Challengers Bangalore,1254063,2021-04-14,DA Warner,54,39,7.0,1.0,1,0,0,75.0,138.46153846153845,A Ashish Reddy,bowled
+14201,Sunrisers Hyderabad,Royal Challengers Bangalore,1254063,2021-04-14,JM Bairstow,12,13,1.0,0.0,0,0,0,17.0,92.3076923076923,D Wiese,caught
+14202,Sunrisers Hyderabad,Royal Challengers Bangalore,1254063,2021-04-14,JO Holder,4,5,0.0,0.0,0,0,0,8.0,80.0,Z Khan,caught
+10089,Rajasthan Royals,Delhi Capitals,1254064,2021-04-15,JC Buttler,2,7,0.0,0.0,0,0,0,6.0,28.57142857142857,PP Ojha,bowled
+10088,Rajasthan Royals,Delhi Capitals,1254064,2021-04-15,DA Miller,62,43,7.0,2.0,1,0,0,85.0,144.1860465116279,KA Pollard,caught and bowled
+10091,Rajasthan Royals,Delhi Capitals,1254064,2021-04-15,M Vohra,9,11,2.0,0.0,0,0,0,15.0,81.81818181818183,Harmeet Singh,caught
+10092,Rajasthan Royals,Delhi Capitals,1254064,2021-04-15,R Parag,2,5,0.0,0.0,0,0,0,6.0,40.0,Z Khan,caught
+10087,Rajasthan Royals,Delhi Capitals,1254064,2021-04-15,CH Morris,36,18,0.0,4.0,0,0,0,48.0,200.0,SR Watson,caught
+10093,Rajasthan Royals,Delhi Capitals,1254064,2021-04-15,R Tewatia,19,18,2.0,0.0,0,0,0,25.0,105.55555555555556,JH Kallis,caught
+10090,Rajasthan Royals,Delhi Capitals,1254064,2021-04-15,JD Unadkat,11,7,0.0,1.0,0,0,0,17.0,157.14285714285714,DP Nannes,caught
+2367,Delhi Capitals,Rajasthan Royals,1254064,2021-04-15,PP Shaw,2,5,0.0,0.0,0,0,0,6.0,40.0,DW Steyn,bowled
+10095,Rajasthan Royals,Delhi Capitals,1254064,2021-04-15,SV Samson,4,3,1.0,0.0,0,0,0,9.0,133.33333333333331,Z Khan,caught
+2363,Delhi Capitals,Rajasthan Royals,1254064,2021-04-15,CR Woakes,15,11,2.0,0.0,0,0,0,21.0,136.36363636363637,DS Kulkarni,caught
+2364,Delhi Capitals,Rajasthan Royals,1254064,2021-04-15,K Rabada,9,4,1.0,0.0,0,0,0,14.0,225.0,DW Steyn,caught
+2365,Delhi Capitals,Rajasthan Royals,1254064,2021-04-15,Lalit Yadav,20,25,3.0,0.0,0,0,0,27.0,80.0,Sohail Tanvir,caught
+2366,Delhi Capitals,Rajasthan Royals,1254064,2021-04-15,MP Stoinis,0,5,0.0,0.0,0,0,1,2.0,0.0,YK Pathan,caught
+10094,Rajasthan Royals,Delhi Capitals,1254064,2021-04-15,S Dube,2,7,0.0,0.0,0,0,0,6.0,28.57142857142857,RJ Harris,bowled
+2368,Delhi Capitals,Rajasthan Royals,1254064,2021-04-15,R Ashwin,7,5,1.0,0.0,0,0,0,12.0,140.0,Y Venugopal Rao,caught
+2369,Delhi Capitals,Rajasthan Royals,1254064,2021-04-15,RR Pant,51,33,9.0,0.0,1,0,0,72.0,154.54545454545453,A Nehra,caught and bowled
+2370,Delhi Capitals,Rajasthan Royals,1254064,2021-04-15,S Dhawan,9,11,1.0,0.0,0,0,0,14.0,81.81818181818183,P Kumar,caught
+2371,Delhi Capitals,Rajasthan Royals,1254064,2021-04-15,TK Curran,21,16,2.0,0.0,0,0,0,27.0,131.25,TM Dilshan,caught
+2362,Delhi Capitals,Rajasthan Royals,1254064,2021-04-15,AM Rahane,8,9,1.0,0.0,0,0,0,13.0,88.88888888888889,GD McGrath,run out
+9556,Punjab Kings,Chennai Super Kings,1254065,2021-04-16,DJ Hooda,10,16,1.0,0.0,0,0,0,15.0,62.5,Mohammed Shami,caught
+9557,Punjab Kings,Chennai Super Kings,1254065,2021-04-16,JA Richardson,15,23,2.0,0.0,0,0,0,21.0,65.21739130434783,YS Chahal,caught
+9558,Punjab Kings,Chennai Super Kings,1254065,2021-04-16,KL Rahul,5,7,1.0,0.0,0,0,0,10.0,71.42857142857143,JR Hopes,lbw
+9560,Punjab Kings,Chennai Super Kings,1254065,2021-04-16,M Shahrukh Khan,47,38,4.0,2.0,0,0,0,59.0,123.6842105263158,Z Khan,caught
+9555,Punjab Kings,Chennai Super Kings,1254065,2021-04-16,CH Gayle,10,10,2.0,0.0,0,0,0,16.0,100.0,JR Hazlewood,caught
+9559,Punjab Kings,Chennai Super Kings,1254065,2021-04-16,M Ashwin,6,14,0.0,0.0,0,0,0,10.0,42.85714285714285,MA Khote,caught
+9563,Punjab Kings,Chennai Super Kings,1254065,2021-04-16,N Pooran,0,2,0.0,0.0,0,0,1,2.0,0.0,PP Ojha,caught
+907,Chennai Super Kings,Punjab Kings,1254065,2021-04-16,AT Rayudu,0,1,0.0,0.0,0,0,1,2.0,0.0,Azhar Mahmood,caught
+908,Chennai Super Kings,Punjab Kings,1254065,2021-04-16,F du Plessis,36,33,4.0,1.0,0,0,0,46.0,109.09090909090908,AA Jhunjhunwala,bowled
+909,Chennai Super Kings,Punjab Kings,1254065,2021-04-16,MM Ali,46,32,7.0,1.0,0,0,0,59.0,143.75,RP Singh,bowled
+910,Chennai Super Kings,Punjab Kings,1254065,2021-04-16,RD Gaikwad,5,16,0.0,0.0,0,0,0,9.0,31.25,Azhar Mahmood,caught
+9562,Punjab Kings,Chennai Super Kings,1254065,2021-04-16,Mohammed Shami,9,12,0.0,0.0,0,0,0,13.0,75.0,SK Warne,caught
+911,Chennai Super Kings,Punjab Kings,1254065,2021-04-16,SK Raina,8,10,1.0,0.0,0,0,0,13.0,80.0,UT Yadav,caught
+912,Chennai Super Kings,Punjab Kings,1254065,2021-04-16,SM Curran,5,4,1.0,0.0,0,0,0,10.0,125.0,AB Dinda,caught
+9561,Punjab Kings,Chennai Super Kings,1254065,2021-04-16,MA Agarwal,0,2,0.0,0.0,0,0,1,2.0,0.0,Mohammad Asif,caught
+13862,Sunrisers Hyderabad,Mumbai Indians,1254066,2021-04-17,Rashid Khan,0,1,0.0,0.0,0,0,1,2.0,0.0,Avesh Khan,bowled
+13861,Sunrisers Hyderabad,Mumbai Indians,1254066,2021-04-17,Mujeeb Ur Rahman,1,1,0.0,0.0,0,0,0,5.0,100.0,CV Varun,bowled
+9163,Mumbai Indians,Sunrisers Hyderabad,1254066,2021-04-17,RG Sharma,32,26,2.0,2.0,0,0,0,42.0,123.07692307692308,Avesh Khan,bowled
+9162,Mumbai Indians,Sunrisers Hyderabad,1254066,2021-04-17,Q de Kock,40,40,5.0,0.0,0,0,0,49.0,100.0,CV Varun,bowled
+13860,Sunrisers Hyderabad,Mumbai Indians,1254066,2021-04-17,MK Pandey,2,7,0.0,0.0,0,0,0,6.0,28.57142857142857,RD Chahar,caught
+13858,Sunrisers Hyderabad,Mumbai Indians,1254066,2021-04-17,JM Bairstow,43,23,3.0,4.0,0,0,0,58.0,186.95652173913044,A Nortje,caught
+13856,Sunrisers Hyderabad,Mumbai Indians,1254066,2021-04-17,B Kumar,1,2,0.0,0.0,0,0,0,5.0,50.0,YS Chahal,caught
+13857,Sunrisers Hyderabad,Mumbai Indians,1254066,2021-04-17,DA Warner,36,35,2.0,2.0,0,0,0,46.0,102.85714285714285,T Natarajan,caught
+13863,Sunrisers Hyderabad,Mumbai Indians,1254066,2021-04-17,V Shankar,28,25,0.0,2.0,0,0,0,36.0,112.0,C Sakariya,caught
+13859,Sunrisers Hyderabad,Mumbai Indians,1254066,2021-04-17,KK Ahmed,1,2,0.0,0.0,0,0,0,5.0,50.0,Kartik Tyagi,run out
+9161,Mumbai Indians,Sunrisers Hyderabad,1254066,2021-04-17,KH Pandya,3,3,0.0,0.0,0,0,0,7.0,100.0,RD Chahar,caught
+9160,Mumbai Indians,Sunrisers Hyderabad,1254066,2021-04-17,KA Pollard,35,23,1.0,3.0,0,0,0,46.0,152.17391304347828,Kartik Tyagi,run out
+13864,Sunrisers Hyderabad,Mumbai Indians,1254066,2021-04-17,Virat Singh,11,12,1.0,0.0,0,0,0,16.0,91.66666666666666,AD Russell,caught
+9158,Mumbai Indians,Sunrisers Hyderabad,1254066,2021-04-17,HH Pandya,7,6,1.0,0.0,0,0,0,12.0,116.66666666666669,T Natarajan,caught
+9159,Mumbai Indians,Sunrisers Hyderabad,1254066,2021-04-17,Ishan Kishan,12,21,0.0,0.0,0,0,0,16.0,57.14285714285714,A Nortje,caught
+13854,Sunrisers Hyderabad,Mumbai Indians,1254066,2021-04-17,Abdul Samad,7,8,1.0,0.0,0,0,0,12.0,87.5,K Rabada,caught
+13855,Sunrisers Hyderabad,Mumbai Indians,1254066,2021-04-17,Abhishek Sharma,2,4,0.0,0.0,0,0,0,6.0,50.0,CV Varun,bowled
+9164,Mumbai Indians,Sunrisers Hyderabad,1254066,2021-04-17,SA Yadav,10,6,1.0,1.0,0,0,0,17.0,166.66666666666669,C Sakariya,caught
+7134,Kolkata Knight Riders,Royal Challengers Bangalore,1254067,2021-04-18,Shakib Al Hasan,26,25,1.0,1.0,0,0,0,33.0,104.0,AF Milne,caught
+7135,Kolkata Knight Riders,Royal Challengers Bangalore,1254067,2021-04-18,Shubman Gill,21,10,2.0,2.0,0,0,0,31.0,210.0,CV Varun,bowled
+12398,Royal Challengers Bangalore,Kolkata Knight Riders,1254067,2021-04-18,V Kohli,5,6,1.0,0.0,0,0,0,10.0,83.33333333333334,P Awana,caught
+12397,Royal Challengers Bangalore,Kolkata Knight Riders,1254067,2021-04-18,RM Patidar,1,2,0.0,0.0,0,0,0,5.0,50.0,R Bhatia,bowled
+12396,Royal Challengers Bangalore,Kolkata Knight Riders,1254067,2021-04-18,KA Jamieson,11,4,1.0,1.0,0,0,0,18.0,275.0,SK Trivedi,caught
+12395,Royal Challengers Bangalore,Kolkata Knight Riders,1254067,2021-04-18,GJ Maxwell,78,51,9.0,3.0,1,0,0,105.0,152.94117647058823,RP Singh,caught
+12394,Royal Challengers Bangalore,Kolkata Knight Riders,1254067,2021-04-18,D Padikkal,25,29,2.0,0.0,0,0,0,31.0,86.20689655172413,DT Christian,bowled
+12393,Royal Challengers Bangalore,Kolkata Knight Riders,1254067,2021-04-18,AB de Villiers,76,36,9.0,3.0,1,0,0,103.0,211.11111111111111,BA Bhatt,run out
+7127,Kolkata Knight Riders,Royal Challengers Bangalore,1254067,2021-04-18,CV Varun,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,A Nortje,caught
+9585,Punjab Kings,Delhi Capitals,1254068,2021-04-18,CH Gayle,11,9,0.0,1.0,0,0,0,17.0,122.22222222222224,JH Kallis,caught
+2314,Delhi Capitals,Punjab Kings,1254068,2021-04-18,SPD Smith,9,12,0.0,0.0,0,0,0,13.0,75.0,PP Ojha,bowled
+7128,Kolkata Knight Riders,Royal Challengers Bangalore,1254067,2021-04-18,EJG Morgan,29,24,1.0,2.0,0,0,0,38.0,120.83333333333331,Kartik Tyagi,run out
+2312,Delhi Capitals,Punjab Kings,1254068,2021-04-18,RR Pant,15,17,0.0,1.0,0,0,0,21.0,88.23529411764706,AB Dinda,caught
+7126,Kolkata Knight Riders,Royal Challengers Bangalore,1254067,2021-04-18,AD Russell,31,21,3.0,2.0,0,0,0,42.0,147.61904761904762,T Natarajan,caught
+9586,Punjab Kings,Delhi Capitals,1254068,2021-04-18,DJ Hooda,22,13,0.0,2.0,0,0,0,30.0,169.23076923076923,RJ Harris,bowled
+9587,Punjab Kings,Delhi Capitals,1254068,2021-04-18,KL Rahul,61,51,7.0,2.0,1,0,0,84.0,119.6078431372549,Z Khan,caught
+9588,Punjab Kings,Delhi Capitals,1254068,2021-04-18,M Shahrukh Khan,15,5,2.0,1.0,0,0,0,23.0,300.0,KA Pollard,caught
+9589,Punjab Kings,Delhi Capitals,1254068,2021-04-18,MA Agarwal,69,36,7.0,4.0,1,0,0,96.0,191.66666666666669,R Sharma,stumped
+7129,Kolkata Knight Riders,Royal Challengers Bangalore,1254067,2021-04-18,Harbhajan Singh,2,2,0.0,0.0,0,0,0,6.0,100.0,RD Chahar,caught
+7130,Kolkata Knight Riders,Royal Challengers Bangalore,1254067,2021-04-18,KD Karthik,2,5,0.0,0.0,0,0,0,6.0,40.0,CV Varun,bowled
+2313,Delhi Capitals,Punjab Kings,1254068,2021-04-18,S Dhawan,92,50,13.0,2.0,1,0,0,121.0,184.0,P Awana,caught
+7131,Kolkata Knight Riders,Royal Challengers Bangalore,1254067,2021-04-18,N Rana,18,11,2.0,1.0,0,0,0,26.0,163.63636363636363,Avesh Khan,bowled
+7132,Kolkata Knight Riders,Royal Challengers Bangalore,1254067,2021-04-18,PJ Cummins,6,2,0.0,1.0,0,0,0,12.0,300.0,C Sakariya,caught
+7133,Kolkata Knight Riders,Royal Challengers Bangalore,1254067,2021-04-18,RA Tripathi,25,20,5.0,0.0,0,0,0,34.0,125.0,AD Russell,caught
+9590,Punjab Kings,Delhi Capitals,1254068,2021-04-18,N Pooran,9,8,1.0,0.0,0,0,0,14.0,112.5,PP Ojha,stumped
+2310,Delhi Capitals,Punjab Kings,1254068,2021-04-18,MP Stoinis,27,13,3.0,1.0,0,0,0,36.0,207.6923076923077,Azhar Mahmood,caught
+2311,Delhi Capitals,Punjab Kings,1254068,2021-04-18,PP Shaw,32,17,3.0,2.0,0,0,0,43.0,188.23529411764704,UT Yadav,caught
+2309,Delhi Capitals,Punjab Kings,1254068,2021-04-18,Lalit Yadav,12,6,2.0,0.0,0,0,0,18.0,200.0,RP Singh,bowled
+1105,Chennai Super Kings,Rajasthan Royals,1254069,2021-04-19,SM Curran,13,6,0.0,1.0,0,0,0,19.0,216.66666666666663,KA Pollard,caught
+1099,Chennai Super Kings,Rajasthan Royals,1254069,2021-04-19,F du Plessis,33,17,4.0,2.0,0,0,0,45.0,194.1176470588236,JJ van der Wath,caught
+1097,Chennai Super Kings,Rajasthan Royals,1254069,2021-04-19,AT Rayudu,27,19,0.0,3.0,0,0,0,37.0,142.10526315789474,PP Ojha,caught
+1098,Chennai Super Kings,Rajasthan Royals,1254069,2021-04-19,DJ Bravo,20,10,2.0,1.0,0,0,0,28.0,200.0,SL Malinga,run out
+1104,Chennai Super Kings,Rajasthan Royals,1254069,2021-04-19,SK Raina,18,17,1.0,1.0,0,0,0,25.0,105.88235294117648,CH Gayle,caught
+1103,Chennai Super Kings,Rajasthan Royals,1254069,2021-04-19,RD Gaikwad,10,13,1.0,0.0,0,0,0,15.0,76.92307692307693,A Mithun,caught
+1100,Chennai Super Kings,Rajasthan Royals,1254069,2021-04-19,MM Ali,26,22,1.0,2.0,0,0,0,35.0,118.1818181818182,Harbhajan Singh,bowled
+1106,Chennai Super Kings,Rajasthan Royals,1254069,2021-04-19,SN Thakur,1,1,0.0,0.0,0,0,0,5.0,100.0,R Vinay Kumar,caught
+1102,Chennai Super Kings,Rajasthan Royals,1254069,2021-04-19,RA Jadeja,8,7,1.0,0.0,0,0,0,13.0,114.28571428571428,PP Ojha,run out
+9969,Rajasthan Royals,Chennai Super Kings,1254069,2021-04-19,S Dube,17,23,2.0,0.0,0,0,0,23.0,73.91304347826086,KA Pollard,caught
+9970,Rajasthan Royals,Chennai Super Kings,1254069,2021-04-19,SV Samson,1,5,0.0,0.0,0,0,0,5.0,20.0,R Sharma,stumped
+9968,Rajasthan Royals,Chennai Super Kings,1254069,2021-04-19,R Tewatia,20,15,0.0,2.0,0,0,0,28.0,133.33333333333331,Z Khan,caught
+9967,Rajasthan Royals,Chennai Super Kings,1254069,2021-04-19,R Parag,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,RJ Harris,bowled
+9966,Rajasthan Royals,Chennai Super Kings,1254069,2021-04-19,Mustafizur Rahman,0,4,0.0,0.0,0,0,1,2.0,0.0,JH Kallis,caught
+9965,Rajasthan Royals,Chennai Super Kings,1254069,2021-04-19,M Vohra,14,11,1.0,1.0,0,0,0,21.0,127.27272727272728,Z Khan,caught
+1101,Chennai Super Kings,Rajasthan Royals,1254069,2021-04-19,MS Dhoni,18,17,2.0,0.0,0,0,0,24.0,105.88235294117648,JE Taylor,caught
+9963,Rajasthan Royals,Chennai Super Kings,1254069,2021-04-19,JC Buttler,49,36,5.0,2.0,0,0,0,62.0,136.11111111111111,DP Nannes,caught
+9962,Rajasthan Royals,Chennai Super Kings,1254069,2021-04-19,DA Miller,2,5,0.0,0.0,0,0,0,6.0,40.0,PP Ojha,bowled
+9961,Rajasthan Royals,Chennai Super Kings,1254069,2021-04-19,CH Morris,0,2,0.0,0.0,0,0,1,2.0,0.0,KA Pollard,caught and bowled
+9964,Rajasthan Royals,Chennai Super Kings,1254069,2021-04-19,JD Unadkat,24,20,2.0,1.0,0,0,0,32.0,120.0,Harmeet Singh,caught
+7826,Mumbai Indians,Delhi Capitals,1254070,2021-04-20,SA Yadav,24,15,4.0,0.0,0,0,0,32.0,160.0,P Awana,caught
+2283,Delhi Capitals,Mumbai Indians,1254070,2021-04-20,SPD Smith,33,30,4.0,0.0,0,0,0,41.0,110.0,DS Kulkarni,caught
+7825,Mumbai Indians,Delhi Capitals,1254070,2021-04-20,RG Sharma,44,30,3.0,3.0,0,0,0,57.0,146.66666666666666,R Bhatia,bowled
+7819,Mumbai Indians,Delhi Capitals,1254070,2021-04-20,J Yadav,23,22,1.0,0.0,0,0,0,28.0,104.54545454545456,Z Khan,caught
+7820,Mumbai Indians,Delhi Capitals,1254070,2021-04-20,JJ Bumrah,3,3,0.0,0.0,0,0,0,7.0,100.0,AB Dinda,caught
+7827,Mumbai Indians,Delhi Capitals,1254070,2021-04-20,TA Boult,1,1,0.0,0.0,0,0,0,5.0,100.0,VR Aaron,caught
+7821,Mumbai Indians,Delhi Capitals,1254070,2021-04-20,KA Pollard,2,5,0.0,0.0,0,0,0,6.0,40.0,BA Bhatt,run out
+2282,Delhi Capitals,Mumbai Indians,1254070,2021-04-20,SO Hetmyer,14,9,2.0,0.0,0,0,0,20.0,155.55555555555557,GD McGrath,run out
+7817,Mumbai Indians,Delhi Capitals,1254070,2021-04-20,HH Pandya,0,1,0.0,0.0,0,0,1,2.0,0.0,DW Steyn,caught
+2281,Delhi Capitals,Mumbai Indians,1254070,2021-04-20,S Dhawan,45,42,5.0,1.0,0,0,0,56.0,107.14285714285714,Sohail Tanvir,bowled
+2280,Delhi Capitals,Mumbai Indians,1254070,2021-04-20,RR Pant,7,9,1.0,0.0,0,0,0,12.0,77.77777777777779,R Bhatia,caught
+2279,Delhi Capitals,Mumbai Indians,1254070,2021-04-20,PP Shaw,7,5,1.0,0.0,0,0,0,12.0,140.0,UT Yadav,bowled
+2278,Delhi Capitals,Mumbai Indians,1254070,2021-04-20,Lalit Yadav,22,26,1.0,0.0,0,0,0,27.0,84.61538461538461,P Negi,caught
+7824,Mumbai Indians,Delhi Capitals,1254070,2021-04-20,RD Chahar,6,6,1.0,0.0,0,0,0,11.0,100.0,SK Trivedi,caught
+7823,Mumbai Indians,Delhi Capitals,1254070,2021-04-20,Q de Kock,2,4,0.0,0.0,0,0,0,6.0,50.0,RP Singh,caught
+7818,Mumbai Indians,Delhi Capitals,1254070,2021-04-20,Ishan Kishan,26,28,1.0,1.0,0,0,0,33.0,92.85714285714286,M Morkel,caught
+7822,Mumbai Indians,Delhi Capitals,1254070,2021-04-20,KH Pandya,1,5,0.0,0.0,0,0,0,5.0,20.0,DT Christian,bowled
+13902,Sunrisers Hyderabad,Punjab Kings,1254071,2021-04-21,KS Williamson,16,20,0.0,0.0,0,0,0,20.0,80.0,Z Khan,caught
+9744,Punjab Kings,Sunrisers Hyderabad,1254071,2021-04-21,Arshdeep Singh,1,2,0.0,0.0,0,0,0,5.0,50.0,L Balaji,caught
+9745,Punjab Kings,Sunrisers Hyderabad,1254071,2021-04-21,CH Gayle,15,17,2.0,0.0,0,0,0,21.0,88.23529411764706,JD Unadkat,caught
+9746,Punjab Kings,Sunrisers Hyderabad,1254071,2021-04-21,DJ Hooda,13,11,2.0,0.0,0,0,0,19.0,118.1818181818182,PV Tambe,caught
+9747,Punjab Kings,Sunrisers Hyderabad,1254071,2021-04-21,FA Allen,6,11,0.0,0.0,0,0,0,10.0,54.54545454545454,MG Johnson,caught
+9748,Punjab Kings,Sunrisers Hyderabad,1254071,2021-04-21,KL Rahul,4,6,0.0,0.0,0,0,0,8.0,66.66666666666666,AN Ahmed,caught
+9749,Punjab Kings,Sunrisers Hyderabad,1254071,2021-04-21,M Ashwin,9,10,1.0,0.0,0,0,0,14.0,90.0,YS Chahal,caught
+9750,Punjab Kings,Sunrisers Hyderabad,1254071,2021-04-21,M Shahrukh Khan,22,18,0.0,2.0,0,0,0,30.0,122.22222222222224,NM Coulter-Nile,caught
+9751,Punjab Kings,Sunrisers Hyderabad,1254071,2021-04-21,MA Agarwal,22,25,2.0,0.0,0,0,0,28.0,88.0,TA Boult,caught
+9752,Punjab Kings,Sunrisers Hyderabad,1254071,2021-04-21,MC Henriques,14,17,0.0,0.0,0,0,0,18.0,82.35294117647058,KA Pollard,caught and bowled
+9753,Punjab Kings,Sunrisers Hyderabad,1254071,2021-04-21,Mohammed Shami,3,3,0.0,0.0,0,0,0,7.0,100.0,AD Russell,caught
+5832,Kolkata Knight Riders,Chennai Super Kings,1254072,2021-04-21,M Prasidh Krishna,0,1,0.0,0.0,0,0,1,2.0,0.0,A Mishra,caught
+566,Chennai Super Kings,Kolkata Knight Riders,1254072,2021-04-21,RD Gaikwad,64,42,6.0,4.0,1,0,0,90.0,152.38095238095238,YK Pathan,caught
+5829,Kolkata Knight Riders,Chennai Super Kings,1254072,2021-04-21,EJG Morgan,7,8,1.0,0.0,0,0,0,12.0,87.5,SR Watson,caught
+562,Chennai Super Kings,Kolkata Knight Riders,1254072,2021-04-21,F du Plessis,95,63,9.0,4.0,1,0,0,124.0,150.79365079365078,GD McGrath,run out
+564,Chennai Super Kings,Kolkata Knight Riders,1254072,2021-04-21,MS Dhoni,17,10,2.0,1.0,0,0,0,25.0,170.0,DW Steyn,caught
+563,Chennai Super Kings,Kolkata Knight Riders,1254072,2021-04-21,MM Ali,25,13,2.0,2.0,0,0,0,35.0,192.30769230769232,DS Kulkarni,caught
+5828,Kolkata Knight Riders,Chennai Super Kings,1254072,2021-04-21,CV Varun,0,1,0.0,0.0,0,0,1,2.0,0.0,Imran Tahir,caught
+5827,Kolkata Knight Riders,Chennai Super Kings,1254072,2021-04-21,AD Russell,54,24,3.0,6.0,1,0,0,81.0,225.0,JJ Bumrah,caught
+5833,Kolkata Knight Riders,Chennai Super Kings,1254072,2021-04-21,N Rana,9,13,2.0,0.0,0,0,0,15.0,69.23076923076923,RA Jadeja,lbw
+5834,Kolkata Knight Riders,Chennai Super Kings,1254072,2021-04-21,PJ Cummins,66,37,4.0,6.0,1,0,0,94.0,178.3783783783784,SR Watson,bowled
+5835,Kolkata Knight Riders,Chennai Super Kings,1254072,2021-04-21,RA Tripathi,8,9,1.0,0.0,0,0,0,13.0,88.88888888888889,JJ Bumrah,bowled
+5830,Kolkata Knight Riders,Chennai Super Kings,1254072,2021-04-21,KD Karthik,40,24,4.0,2.0,0,0,0,52.0,166.66666666666669,A Nehra,run out
+5836,Kolkata Knight Riders,Chennai Super Kings,1254072,2021-04-21,SP Narine,4,3,1.0,0.0,0,0,0,9.0,133.33333333333331,Kuldeep Yadav,stumped
+5837,Kolkata Knight Riders,Chennai Super Kings,1254072,2021-04-21,Shubman Gill,0,1,0.0,0.0,0,0,1,2.0,0.0,Basil Thampi,caught
+13900,Sunrisers Hyderabad,Punjab Kings,1254071,2021-04-21,DA Warner,37,39,3.0,1.0,0,0,0,46.0,94.87179487179486,DP Nannes,caught
+13901,Sunrisers Hyderabad,Punjab Kings,1254071,2021-04-21,JM Bairstow,63,57,3.0,3.0,1,0,0,84.0,110.5263157894737,Harmeet Singh,caught
+565,Chennai Super Kings,Kolkata Knight Riders,1254072,2021-04-21,RA Jadeja,6,1,0.0,1.0,0,0,0,12.0,600.0,Sohail Tanvir,caught
+5831,Kolkata Knight Riders,Chennai Super Kings,1254072,2021-04-21,KL Nagarkoti,0,2,0.0,0.0,0,0,1,2.0,0.0,Swapnil Singh,caught and bowled
+11078,Rajasthan Royals,Royal Challengers Bangalore,1254073,2021-04-22,JC Buttler,8,8,2.0,0.0,0,0,0,14.0,100.0,T Natarajan,caught
+11076,Rajasthan Royals,Royal Challengers Bangalore,1254073,2021-04-22,CH Morris,10,10,0.0,1.0,0,0,0,16.0,100.0,M Jansen,caught
+12879,Royal Challengers Bangalore,Rajasthan Royals,1254073,2021-04-22,D Padikkal,101,54,11.0,6.0,1,1,0,152.0,187.03703703703704,YK Pathan,run out
+12880,Royal Challengers Bangalore,Rajasthan Royals,1254073,2021-04-22,V Kohli,72,47,6.0,3.0,1,0,0,96.0,153.19148936170214,DW Steyn,caught
+11075,Rajasthan Royals,Royal Challengers Bangalore,1254073,2021-04-22,C Sakariya,0,1,0.0,0.0,0,0,1,2.0,0.0,RD Chahar,caught
+11083,Rajasthan Royals,Royal Challengers Bangalore,1254073,2021-04-22,S Gopal,7,4,0.0,1.0,0,0,0,13.0,175.0,MA Khote,caught
+11082,Rajasthan Royals,Royal Challengers Bangalore,1254073,2021-04-22,S Dube,46,34,5.0,2.0,0,0,0,59.0,135.29411764705884,JR Hopes,lbw
+11084,Rajasthan Royals,Royal Challengers Bangalore,1254073,2021-04-22,SV Samson,21,19,2.0,1.0,0,0,0,29.0,110.5263157894737,Z Khan,caught
+11080,Rajasthan Royals,Royal Challengers Bangalore,1254073,2021-04-22,R Parag,25,16,4.0,0.0,0,0,0,33.0,156.25,Mohammed Shami,caught
+11079,Rajasthan Royals,Royal Challengers Bangalore,1254073,2021-04-22,M Vohra,7,9,1.0,0.0,0,0,0,12.0,77.77777777777779,JR Hazlewood,caught
+11077,Rajasthan Royals,Royal Challengers Bangalore,1254073,2021-04-22,DA Miller,0,2,0.0,0.0,0,0,1,2.0,0.0,R Dhawan,caught
+11081,Rajasthan Royals,Royal Challengers Bangalore,1254073,2021-04-22,R Tewatia,40,25,4.0,2.0,0,0,0,52.0,160.0,YS Chahal,caught
+8547,Mumbai Indians,Punjab Kings,1254074,2021-04-23,HH Pandya,1,5,0.0,0.0,0,0,0,5.0,20.0,PP Ojha,caught
+8553,Mumbai Indians,Punjab Kings,1254074,2021-04-23,SA Yadav,33,28,3.0,1.0,0,0,0,42.0,117.85714285714286,P Kumar,caught
+8548,Mumbai Indians,Punjab Kings,1254074,2021-04-23,Ishan Kishan,6,17,0.0,0.0,0,0,0,10.0,35.294117647058826,VY Mahesh,caught
+8549,Mumbai Indians,Punjab Kings,1254074,2021-04-23,KA Pollard,16,12,0.0,1.0,0,0,0,22.0,133.33333333333331,R Vinay Kumar,caught
+8550,Mumbai Indians,Punjab Kings,1254074,2021-04-23,KH Pandya,3,3,0.0,0.0,0,0,0,7.0,100.0,Sohail Tanvir,caught
+8551,Mumbai Indians,Punjab Kings,1254074,2021-04-23,Q de Kock,3,5,0.0,0.0,0,0,0,7.0,60.0,PP Ojha,caught
+8552,Mumbai Indians,Punjab Kings,1254074,2021-04-23,RG Sharma,63,52,5.0,2.0,1,0,0,84.0,121.15384615384616,SL Malinga,bowled
+9676,Punjab Kings,Mumbai Indians,1254074,2021-04-23,MA Agarwal,25,20,4.0,1.0,0,0,0,35.0,125.0,Avesh Khan,caught
+9675,Punjab Kings,Mumbai Indians,1254074,2021-04-23,KL Rahul,60,52,3.0,3.0,1,0,0,81.0,115.38461538461536,CV Varun,bowled
+9674,Punjab Kings,Mumbai Indians,1254074,2021-04-23,CH Gayle,43,38,5.0,2.0,0,0,0,56.0,113.1578947368421,AF Milne,caught
+6877,Kolkata Knight Riders,Rajasthan Royals,1254075,2021-04-24,AD Russell,9,10,0.0,1.0,0,0,0,15.0,90.0,Avesh Khan,bowled
+6883,Kolkata Knight Riders,Rajasthan Royals,1254075,2021-04-24,Shivam Mavi,5,7,1.0,0.0,0,0,0,10.0,71.42857142857143,Ravi Bishnoi,bowled
+6882,Kolkata Knight Riders,Rajasthan Royals,1254075,2021-04-24,SP Narine,6,7,1.0,0.0,0,0,0,11.0,85.71428571428571,Avesh Khan,caught
+6881,Kolkata Knight Riders,Rajasthan Royals,1254075,2021-04-24,RA Tripathi,36,26,1.0,2.0,0,0,0,45.0,138.46153846153845,CV Varun,bowled
+6880,Kolkata Knight Riders,Rajasthan Royals,1254075,2021-04-24,PJ Cummins,10,6,0.0,1.0,0,0,0,16.0,166.66666666666669,AF Milne,caught
+6878,Kolkata Knight Riders,Rajasthan Royals,1254075,2021-04-24,KD Karthik,25,24,4.0,0.0,0,0,0,33.0,104.16666666666669,C Sakariya,caught
+6879,Kolkata Knight Riders,Rajasthan Royals,1254075,2021-04-24,N Rana,22,27,1.0,1.0,0,0,0,29.0,81.48148148148148,AD Russell,caught
+10635,Rajasthan Royals,Kolkata Knight Riders,1254075,2021-04-24,YBK Jaiswal,22,17,5.0,0.0,0,0,0,31.0,129.41176470588235,PV Tambe,caught
+10634,Rajasthan Royals,Kolkata Knight Riders,1254075,2021-04-24,SV Samson,42,44,2.0,1.0,0,0,0,50.0,95.45454545454544,JD Unadkat,caught
+10633,Rajasthan Royals,Kolkata Knight Riders,1254075,2021-04-24,S Dube,22,19,2.0,1.0,0,0,0,30.0,115.78947368421052,L Balaji,caught
+10632,Rajasthan Royals,Kolkata Knight Riders,1254075,2021-04-24,R Tewatia,5,8,0.0,0.0,0,0,0,9.0,62.5,Z Khan,caught
+10631,Rajasthan Royals,Kolkata Knight Riders,1254075,2021-04-24,JC Buttler,5,7,1.0,0.0,0,0,0,10.0,71.42857142857143,KK Cooper,caught
+10630,Rajasthan Royals,Kolkata Knight Riders,1254075,2021-04-24,DA Miller,24,25,3.0,0.0,0,0,0,31.0,96.0,NLTC Perera,caught
+6884,Kolkata Knight Riders,Rajasthan Royals,1254075,2021-04-24,Shubman Gill,11,19,1.0,0.0,0,0,0,16.0,57.89473684210527,RD Chahar,caught
+2493,Delhi Capitals,Sunrisers Hyderabad,1254077,2021-04-25,MP Stoinis,2,2,0.0,0.0,0,0,0,6.0,100.0,SW Tait,caught
+13296,Sunrisers Hyderabad,Delhi Capitals,1254077,2021-04-25,Rashid Khan,0,1,0.0,0.0,0,0,1,2.0,0.0,PP Ojha,caught
+13294,Sunrisers Hyderabad,Delhi Capitals,1254077,2021-04-25,KM Jadhav,9,10,1.0,0.0,0,0,0,14.0,90.0,JP Faulkner,caught
+13293,Sunrisers Hyderabad,Delhi Capitals,1254077,2021-04-25,JM Bairstow,38,18,3.0,4.0,0,0,0,53.0,211.11111111111111,JH Kallis,run out
+2496,Delhi Capitals,Sunrisers Hyderabad,1254077,2021-04-25,S Dhawan,28,29,3.0,0.0,0,0,0,35.0,96.55172413793105,V Sehwag,caught
+13295,Sunrisers Hyderabad,Delhi Capitals,1254077,2021-04-25,KS Williamson,70,57,9.0,0.0,1,0,0,91.0,122.80701754385966,R Sathish,run out
+2495,Delhi Capitals,Sunrisers Hyderabad,1254077,2021-04-25,RR Pant,42,31,5.0,1.0,0,0,0,53.0,135.48387096774192,SR Watson,run out
+2497,Delhi Capitals,Sunrisers Hyderabad,1254077,2021-04-25,SO Hetmyer,1,2,0.0,0.0,0,0,0,5.0,50.0,PP Ojha,caught
+13297,Sunrisers Hyderabad,Delhi Capitals,1254077,2021-04-25,V Shankar,8,7,0.0,0.0,0,0,0,12.0,114.28571428571428,NLTC Perera,caught
+13298,Sunrisers Hyderabad,Delhi Capitals,1254077,2021-04-25,Virat Singh,4,14,0.0,0.0,0,0,0,8.0,28.57142857142857,KK Cooper,caught
+1300,Chennai Super Kings,Royal Challengers Bangalore,1254076,2021-04-25,F du Plessis,50,42,5.0,1.0,1,0,0,69.0,119.04761904761904,Harbhajan Singh,bowled
+1304,Chennai Super Kings,Royal Challengers Bangalore,1254076,2021-04-25,SK Raina,24,18,1.0,3.0,0,0,0,35.0,133.33333333333331,CH Gayle,caught
+1299,Chennai Super Kings,Royal Challengers Bangalore,1254076,2021-04-25,AT Rayudu,14,7,1.0,1.0,0,0,0,21.0,200.0,JJ van der Wath,caught
+2494,Delhi Capitals,Sunrisers Hyderabad,1254077,2021-04-25,PP Shaw,53,40,7.0,1.0,1,0,0,74.0,132.5,JH Kallis,bowled
+13292,Sunrisers Hyderabad,Delhi Capitals,1254077,2021-04-25,J Suchith,14,6,2.0,1.0,0,0,0,22.0,233.3333333333333,UT Yadav,caught
+11643,Royal Challengers Bangalore,Chennai Super Kings,1254076,2021-04-25,AB de Villiers,4,9,0.0,0.0,0,0,0,8.0,44.44444444444444,JP Faulkner,caught
+13290,Sunrisers Hyderabad,Delhi Capitals,1254077,2021-04-25,Abhishek Sharma,5,7,0.0,0.0,0,0,0,9.0,71.42857142857143,R Rampaul,caught
+1301,Chennai Super Kings,Royal Challengers Bangalore,1254076,2021-04-25,MS Dhoni,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,JE Taylor,caught
+1302,Chennai Super Kings,Royal Challengers Bangalore,1254076,2021-04-25,RA Jadeja,62,29,4.0,5.0,1,0,0,88.0,213.79310344827584,PP Ojha,run out
+1303,Chennai Super Kings,Royal Challengers Bangalore,1254076,2021-04-25,RD Gaikwad,33,26,4.0,1.0,0,0,0,43.0,126.92307692307692,A Mithun,caught
+11653,Royal Challengers Bangalore,Chennai Super Kings,1254076,2021-04-25,YS Chahal,8,21,0.0,0.0,0,0,0,12.0,38.095238095238095,AN Ahmed,caught
+11652,Royal Challengers Bangalore,Chennai Super Kings,1254076,2021-04-25,Washington Sundar,7,11,1.0,0.0,0,0,0,12.0,63.63636363636363,MG Johnson,caught
+13291,Sunrisers Hyderabad,Delhi Capitals,1254077,2021-04-25,DA Warner,8,9,0.0,0.0,0,0,0,12.0,88.88888888888889,AB Dinda,caught
+11651,Royal Challengers Bangalore,Chennai Super Kings,1254076,2021-04-25,V Kohli,8,8,1.0,0.0,0,0,0,13.0,100.0,PV Tambe,caught
+11650,Royal Challengers Bangalore,Chennai Super Kings,1254076,2021-04-25,NA Saini,2,5,0.0,0.0,0,0,0,6.0,40.0,JD Unadkat,caught
+2498,Delhi Capitals,Sunrisers Hyderabad,1254077,2021-04-25,SPD Smith,34,25,3.0,1.0,0,0,0,43.0,136.0,SL Malinga,run out
+11648,Royal Challengers Bangalore,Chennai Super Kings,1254076,2021-04-25,KA Jamieson,16,13,1.0,1.0,0,0,0,23.0,123.07692307692308,Z Khan,caught
+11647,Royal Challengers Bangalore,Chennai Super Kings,1254076,2021-04-25,HV Patel,0,9,0.0,0.0,0,0,1,2.0,0.0,KK Cooper,caught
+11644,Royal Challengers Bangalore,Chennai Super Kings,1254076,2021-04-25,D Padikkal,34,17,4.0,2.0,0,0,0,46.0,200.0,R Sathish,run out
+11646,Royal Challengers Bangalore,Chennai Super Kings,1254076,2021-04-25,GJ Maxwell,22,15,3.0,0.0,0,0,0,29.0,146.66666666666666,NLTC Perera,caught
+11645,Royal Challengers Bangalore,Chennai Super Kings,1254076,2021-04-25,DT Christian,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,PP Ojha,caught
+11649,Royal Challengers Bangalore,Chennai Super Kings,1254076,2021-04-25,Mohammed Siraj,12,14,0.0,1.0,0,0,0,18.0,85.71428571428571,L Balaji,caught
+9638,Punjab Kings,Kolkata Knight Riders,1254078,2021-04-26,CJ Jordan,30,18,1.0,3.0,0,0,0,41.0,166.66666666666669,Imran Tahir,caught
+9646,Punjab Kings,Kolkata Knight Riders,1254078,2021-04-26,Ravi Bishnoi,1,5,0.0,0.0,0,0,0,5.0,20.0,Kuldeep Yadav,stumped
+9645,Punjab Kings,Kolkata Knight Riders,1254078,2021-04-26,N Pooran,19,19,1.0,1.0,0,0,0,26.0,100.0,JJ Bumrah,bowled
+9637,Punjab Kings,Kolkata Knight Riders,1254078,2021-04-26,CH Gayle,0,1,0.0,0.0,0,0,1,2.0,0.0,JJ Bumrah,caught
+9643,Punjab Kings,Kolkata Knight Riders,1254078,2021-04-26,MC Henriques,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,RA Jadeja,lbw
+9636,Punjab Kings,Kolkata Knight Riders,1254078,2021-04-26,Arshdeep Singh,1,1,0.0,0.0,0,0,0,5.0,100.0,A Nehra,caught
+9642,Punjab Kings,Kolkata Knight Riders,1254078,2021-04-26,MA Agarwal,31,36,1.0,2.0,0,0,0,40.0,86.11111111111111,A Mishra,caught
+9641,Punjab Kings,Kolkata Knight Riders,1254078,2021-04-26,M Shahrukh Khan,13,14,0.0,1.0,0,0,0,19.0,92.85714285714286,Swapnil Singh,caught and bowled
+9639,Punjab Kings,Kolkata Knight Riders,1254078,2021-04-26,DJ Hooda,1,5,0.0,0.0,0,0,0,5.0,20.0,SR Watson,caught
+9644,Punjab Kings,Kolkata Knight Riders,1254078,2021-04-26,Mohammed Shami,1,2,0.0,0.0,0,0,0,5.0,50.0,SR Watson,bowled
+9640,Punjab Kings,Kolkata Knight Riders,1254078,2021-04-26,KL Rahul,19,20,2.0,1.0,0,0,0,27.0,95.0,A Nehra,run out
+6695,Kolkata Knight Riders,Punjab Kings,1254078,2021-04-26,RA Tripathi,41,32,7.0,0.0,0,0,0,52.0,128.125,Z Khan,caught
+6692,Kolkata Knight Riders,Punjab Kings,1254078,2021-04-26,EJG Morgan,47,40,4.0,2.0,0,0,0,59.0,117.5,PP Ojha,caught
+6693,Kolkata Knight Riders,Punjab Kings,1254078,2021-04-26,KD Karthik,12,6,2.0,0.0,0,0,0,18.0,200.0,NLTC Perera,caught
+6694,Kolkata Knight Riders,Punjab Kings,1254078,2021-04-26,N Rana,0,1,0.0,0.0,0,0,1,2.0,0.0,KK Cooper,caught
+6696,Kolkata Knight Riders,Punjab Kings,1254078,2021-04-26,SP Narine,0,5,0.0,0.0,0,0,1,2.0,0.0,L Balaji,caught
+6697,Kolkata Knight Riders,Punjab Kings,1254078,2021-04-26,Shubman Gill,9,8,2.0,0.0,0,0,0,15.0,112.5,JD Unadkat,caught
+6691,Kolkata Knight Riders,Punjab Kings,1254078,2021-04-26,AD Russell,10,9,2.0,0.0,0,0,0,16.0,111.11111111111111,R Sathish,run out
+2423,Delhi Capitals,Royal Challengers Bangalore,1254079,2021-04-27,S Dhawan,6,7,1.0,0.0,0,0,0,11.0,85.71428571428571,A Mithun,caught
+11810,Royal Challengers Bangalore,Delhi Capitals,1254079,2021-04-27,AB de Villiers,75,43,3.0,5.0,1,0,0,100.0,174.41860465116278,JJ Bumrah,caught
+11811,Royal Challengers Bangalore,Delhi Capitals,1254079,2021-04-27,D Padikkal,17,14,3.0,0.0,0,0,0,24.0,121.42857142857142,HH Pandya,caught
+11812,Royal Challengers Bangalore,Delhi Capitals,1254079,2021-04-27,DR Sams,3,2,0.0,0.0,0,0,0,7.0,150.0,BA Stokes,bowled
+11813,Royal Challengers Bangalore,Delhi Capitals,1254079,2021-04-27,GJ Maxwell,25,20,1.0,2.0,0,0,0,34.0,125.0,SP Narine,lbw
+2422,Delhi Capitals,Royal Challengers Bangalore,1254079,2021-04-27,RR Pant,58,50,6.0,0.0,1,0,0,76.0,116.0,PP Ojha,run out
+11814,Royal Challengers Bangalore,Delhi Capitals,1254079,2021-04-27,RM Patidar,31,22,0.0,2.0,0,0,0,39.0,140.9090909090909,M Markande,lbw
+11815,Royal Challengers Bangalore,Delhi Capitals,1254079,2021-04-27,V Kohli,12,12,2.0,0.0,0,0,0,18.0,100.0,PP Chawla,caught
+11816,Royal Challengers Bangalore,Delhi Capitals,1254079,2021-04-27,Washington Sundar,6,9,0.0,0.0,0,0,0,10.0,66.66666666666666,S Gopal,caught
+2420,Delhi Capitals,Royal Challengers Bangalore,1254079,2021-04-27,MP Stoinis,22,17,3.0,0.0,0,0,0,29.0,129.41176470588235,Harbhajan Singh,bowled
+2421,Delhi Capitals,Royal Challengers Bangalore,1254079,2021-04-27,PP Shaw,21,18,3.0,0.0,0,0,0,28.0,116.66666666666669,JE Taylor,caught
+2425,Delhi Capitals,Royal Challengers Bangalore,1254079,2021-04-27,SPD Smith,4,5,1.0,0.0,0,0,0,9.0,80.0,KA Pollard,caught
+2424,Delhi Capitals,Royal Challengers Bangalore,1254079,2021-04-27,SO Hetmyer,53,25,2.0,4.0,1,0,0,75.0,212.0,CH Gayle,caught
+13220,Sunrisers Hyderabad,Chennai Super Kings,1254080,2021-04-28,KM Jadhav,12,4,1.0,1.0,0,0,0,19.0,300.0,CV Varun,bowled
+1416,Chennai Super Kings,Sunrisers Hyderabad,1254080,2021-04-28,RD Gaikwad,75,45,12.0,0.0,1,0,0,99.0,166.66666666666669,V Sehwag,caught
+1417,Chennai Super Kings,Sunrisers Hyderabad,1254080,2021-04-28,SK Raina,17,15,3.0,0.0,0,0,0,24.0,113.33333333333331,PP Ojha,caught
+13222,Sunrisers Hyderabad,Chennai Super Kings,1254080,2021-04-28,MK Pandey,61,49,5.0,1.0,1,0,0,80.0,124.48979591836736,T Natarajan,caught
+1414,Chennai Super Kings,Sunrisers Hyderabad,1254080,2021-04-28,MM Ali,15,9,3.0,0.0,0,0,0,22.0,166.66666666666669,JH Kallis,bowled
+13219,Sunrisers Hyderabad,Chennai Super Kings,1254080,2021-04-28,JM Bairstow,7,6,1.0,0.0,0,0,0,12.0,116.66666666666669,K Rabada,caught
+13218,Sunrisers Hyderabad,Chennai Super Kings,1254080,2021-04-28,DA Warner,57,57,3.0,2.0,1,0,0,76.0,100.0,HH Pandya,run out
+13221,Sunrisers Hyderabad,Chennai Super Kings,1254080,2021-04-28,KS Williamson,26,10,4.0,1.0,0,0,0,36.0,260.0,YS Chahal,caught
+1415,Chennai Super Kings,Sunrisers Hyderabad,1254080,2021-04-28,RA Jadeja,7,7,1.0,0.0,0,0,0,12.0,100.0,SR Watson,run out
+1413,Chennai Super Kings,Sunrisers Hyderabad,1254080,2021-04-28,F du Plessis,56,38,6.0,1.0,1,0,0,76.0,147.36842105263156,SW Tait,caught
+5961,Kolkata Knight Riders,Delhi Capitals,1254082,2021-04-29,PJ Cummins,11,14,1.0,0.0,0,0,0,16.0,78.57142857142857,SR Watson,bowled
+5960,Kolkata Knight Riders,Delhi Capitals,1254082,2021-04-29,N Rana,15,12,1.0,1.0,0,0,0,22.0,125.0,RA Jadeja,lbw
+5959,Kolkata Knight Riders,Delhi Capitals,1254082,2021-04-29,KD Karthik,14,10,1.0,1.0,0,0,0,21.0,140.0,A Mishra,caught
+10836,Rajasthan Royals,Mumbai Indians,1254081,2021-04-29,DA Miller,7,4,1.0,0.0,0,0,0,12.0,175.0,Sohail Tanvir,caught
+10837,Rajasthan Royals,Mumbai Indians,1254081,2021-04-29,JC Buttler,41,33,3.0,3.0,0,0,0,54.0,124.24242424242424,PP Ojha,caught
+8732,Mumbai Indians,Rajasthan Royals,1254081,2021-04-29,KA Pollard,16,8,2.0,1.0,0,0,0,24.0,200.0,AN Ahmed,caught
+8735,Mumbai Indians,Rajasthan Royals,1254081,2021-04-29,RG Sharma,14,17,0.0,1.0,0,0,0,20.0,82.35294117647058,TA Boult,caught
+10839,Rajasthan Royals,Mumbai Indians,1254081,2021-04-29,S Dube,35,32,2.0,2.0,0,0,0,45.0,109.375,P Kumar,caught
+10840,Rajasthan Royals,Mumbai Indians,1254081,2021-04-29,SV Samson,42,28,5.0,0.0,0,0,0,51.0,150.0,DL Vettori,caught
+10841,Rajasthan Royals,Mumbai Indians,1254081,2021-04-29,YBK Jaiswal,32,20,2.0,2.0,0,0,0,42.0,160.0,PP Ojha,caught
+5958,Kolkata Knight Riders,Delhi Capitals,1254082,2021-04-29,EJG Morgan,0,2,0.0,0.0,0,0,1,2.0,0.0,Swapnil Singh,caught and bowled
+5957,Kolkata Knight Riders,Delhi Capitals,1254082,2021-04-29,AD Russell,45,27,2.0,4.0,0,0,0,59.0,166.66666666666669,A Nehra,run out
+10838,Rajasthan Royals,Mumbai Indians,1254081,2021-04-29,R Parag,8,7,1.0,0.0,0,0,0,13.0,114.28571428571428,SL Malinga,bowled
+8736,Mumbai Indians,Rajasthan Royals,1254081,2021-04-29,SA Yadav,16,10,3.0,0.0,0,0,0,23.0,160.0,KA Pollard,caught and bowled
+5962,Kolkata Knight Riders,Delhi Capitals,1254082,2021-04-29,RA Tripathi,19,17,2.0,0.0,0,0,0,25.0,111.76470588235294,JJ Bumrah,bowled
+2179,Delhi Capitals,Kolkata Knight Riders,1254082,2021-04-29,PP Shaw,82,43,11.0,3.0,1,0,0,111.0,190.69767441860463,JJ van der Wath,caught
+2178,Delhi Capitals,Kolkata Knight Riders,1254082,2021-04-29,MP Stoinis,6,3,1.0,0.0,0,0,0,11.0,200.0,SL Malinga,run out
+5964,Kolkata Knight Riders,Delhi Capitals,1254082,2021-04-29,Shubman Gill,43,38,3.0,1.0,0,0,0,52.0,113.1578947368421,Basil Thampi,caught
+5963,Kolkata Knight Riders,Delhi Capitals,1254082,2021-04-29,SP Narine,0,1,0.0,0.0,0,0,1,2.0,0.0,Kuldeep Yadav,stumped
+8734,Mumbai Indians,Rajasthan Royals,1254081,2021-04-29,Q de Kock,70,50,6.0,2.0,1,0,0,92.0,140.0,NM Coulter-Nile,caught
+8733,Mumbai Indians,Rajasthan Royals,1254081,2021-04-29,KH Pandya,39,28,2.0,2.0,0,0,0,49.0,139.28571428571428,YS Chahal,caught
+2182,Delhi Capitals,Kolkata Knight Riders,1254082,2021-04-29,SO Hetmyer,0,1,0.0,0.0,0,0,1,2.0,0.0,PP Ojha,run out
+2181,Delhi Capitals,Kolkata Knight Riders,1254082,2021-04-29,S Dhawan,46,49,4.0,1.0,0,0,0,56.0,93.87755102040816,JE Taylor,caught
+2180,Delhi Capitals,Kolkata Knight Riders,1254082,2021-04-29,RR Pant,16,8,2.0,1.0,0,0,0,24.0,200.0,Harbhajan Singh,bowled
+9718,Punjab Kings,Royal Challengers Bangalore,1254083,2021-04-30,P Simran Singh,7,7,1.0,0.0,0,0,0,12.0,100.0,RA Jadeja,caught
+9717,Punjab Kings,Royal Challengers Bangalore,1254083,2021-04-30,N Pooran,0,4,0.0,0.0,0,0,1,2.0,0.0,PP Ojha,stumped
+9716,Punjab Kings,Royal Challengers Bangalore,1254083,2021-04-30,M Shahrukh Khan,0,3,0.0,0.0,0,0,1,2.0,0.0,R Sharma,stumped
+12698,Royal Challengers Bangalore,Punjab Kings,1254083,2021-04-30,V Kohli,35,34,3.0,1.0,0,0,0,44.0,102.94117647058825,PJ Cummins,run out
+12689,Royal Challengers Bangalore,Punjab Kings,1254083,2021-04-30,AB de Villiers,3,9,0.0,0.0,0,0,0,7.0,33.33333333333333,Swapnil Singh,caught and bowled
+12696,Royal Challengers Bangalore,Punjab Kings,1254083,2021-04-30,RM Patidar,31,32,2.0,1.0,0,0,0,39.0,96.875,Kuldeep Yadav,caught
+9714,Punjab Kings,Royal Challengers Bangalore,1254083,2021-04-30,Harpreet Brar,25,17,1.0,2.0,0,0,0,34.0,147.05882352941177,Z Khan,caught
+9713,Punjab Kings,Royal Challengers Bangalore,1254083,2021-04-30,DJ Hooda,5,9,0.0,0.0,0,0,0,9.0,55.55555555555556,RJ Harris,bowled
+9712,Punjab Kings,Royal Challengers Bangalore,1254083,2021-04-30,CH Gayle,46,25,6.0,2.0,0,0,0,60.0,184.0,JH Kallis,caught
+12697,Royal Challengers Bangalore,Punjab Kings,1254083,2021-04-30,Shahbaz Ahmed,8,11,1.0,0.0,0,0,0,13.0,72.72727272727273,S Kaul,caught
+12691,Royal Challengers Bangalore,Punjab Kings,1254083,2021-04-30,DR Sams,3,4,0.0,0.0,0,0,0,7.0,75.0,RA Jadeja,lbw
+12690,Royal Challengers Bangalore,Punjab Kings,1254083,2021-04-30,D Padikkal,7,6,0.0,1.0,0,0,0,13.0,116.66666666666669,A Mishra,caught
+12692,Royal Challengers Bangalore,Punjab Kings,1254083,2021-04-30,GJ Maxwell,0,1,0.0,0.0,0,0,1,2.0,0.0,SR Watson,bowled
+12693,Royal Challengers Bangalore,Punjab Kings,1254083,2021-04-30,HV Patel,31,13,3.0,2.0,0,0,0,42.0,238.46153846153845,JJ Bumrah,bowled
+12694,Royal Challengers Bangalore,Punjab Kings,1254083,2021-04-30,KA Jamieson,16,11,1.0,1.0,0,0,0,23.0,145.45454545454547,Kuldeep Yadav,stumped
+9715,Punjab Kings,Royal Challengers Bangalore,1254083,2021-04-30,KL Rahul,91,59,7.0,5.0,1,0,0,120.0,154.23728813559322,KA Pollard,caught
+12695,Royal Challengers Bangalore,Punjab Kings,1254083,2021-04-30,Mohammed Siraj,0,1,0.0,0.0,0,0,1,2.0,0.0,Basil Thampi,caught
+7670,Mumbai Indians,Chennai Super Kings,1254084,2021-05-01,RG Sharma,35,26,4.0,1.0,0,0,0,45.0,134.6153846153846,RE van der Merwe,caught
+7665,Mumbai Indians,Chennai Super Kings,1254084,2021-05-01,HH Pandya,16,7,0.0,2.0,0,0,0,24.0,228.57142857142856,DL Vettori,caught
+7666,Mumbai Indians,Chennai Super Kings,1254084,2021-05-01,JDS Neesham,0,1,0.0,0.0,0,0,1,2.0,0.0,PP Ojha,caught
+833,Chennai Super Kings,Mumbai Indians,1254084,2021-05-01,AT Rayudu,72,28,4.0,7.0,1,0,0,102.0,257.1428571428572,P Awana,caught
+7671,Mumbai Indians,Chennai Super Kings,1254084,2021-05-01,SA Yadav,3,3,0.0,0.0,0,0,0,7.0,100.0,A Symonds,bowled
+836,Chennai Super Kings,Mumbai Indians,1254084,2021-05-01,RA Jadeja,22,28,2.0,0.0,0,0,0,28.0,78.57142857142857,L Balaji,bowled
+835,Chennai Super Kings,Mumbai Indians,1254084,2021-05-01,MM Ali,58,36,5.0,5.0,1,0,0,85.0,161.11111111111111,PV Tambe,caught
+7667,Mumbai Indians,Chennai Super Kings,1254084,2021-05-01,KA Pollard,87,39,6.0,8.0,1,0,0,121.0,223.0769230769231,DP Nannes,caught
+7669,Mumbai Indians,Chennai Super Kings,1254084,2021-05-01,Q de Kock,38,29,4.0,1.0,0,0,0,48.0,131.0344827586207,S Sreesanth,bowled
+837,Chennai Super Kings,Mumbai Indians,1254084,2021-05-01,RD Gaikwad,4,4,1.0,0.0,0,0,0,9.0,100.0,Shivam Sharma,caught
+838,Chennai Super Kings,Mumbai Indians,1254084,2021-05-01,SK Raina,2,4,0.0,0.0,0,0,0,6.0,50.0,P Negi,caught
+7668,Mumbai Indians,Chennai Super Kings,1254084,2021-05-01,KH Pandya,32,23,2.0,2.0,0,0,0,42.0,139.1304347826087,RE van der Merwe,caught and bowled
+834,Chennai Super Kings,Mumbai Indians,1254084,2021-05-01,F du Plessis,50,28,2.0,4.0,1,0,0,72.0,178.57142857142858,PP Ojha,bowled
+14031,Sunrisers Hyderabad,Rajasthan Royals,1254085,2021-05-02,V Shankar,8,8,1.0,0.0,0,0,0,13.0,100.0,RJ Harris,bowled
+14030,Sunrisers Hyderabad,Rajasthan Royals,1254085,2021-05-02,Sandeep Sharma,8,6,1.0,0.0,0,0,0,13.0,133.33333333333331,JH Kallis,caught
+14029,Sunrisers Hyderabad,Rajasthan Royals,1254085,2021-05-02,Rashid Khan,0,3,0.0,0.0,0,0,1,2.0,0.0,Z Khan,caught
+11214,Rajasthan Royals,Sunrisers Hyderabad,1254085,2021-05-02,DA Miller,7,3,0.0,1.0,0,0,0,13.0,233.3333333333333,PP Ojha,caught
+11215,Rajasthan Royals,Sunrisers Hyderabad,1254085,2021-05-02,JC Buttler,124,69,11.0,8.0,1,1,0,179.0,179.71014492753622,VY Mahesh,caught
+14028,Sunrisers Hyderabad,Rajasthan Royals,1254085,2021-05-02,Mohammad Nabi,17,5,1.0,2.0,0,0,0,26.0,340.0,Harmeet Singh,caught
+11216,Rajasthan Royals,Sunrisers Hyderabad,1254085,2021-05-02,R Parag,15,8,0.0,1.0,0,0,0,21.0,187.5,R Vinay Kumar,caught
+11217,Rajasthan Royals,Sunrisers Hyderabad,1254085,2021-05-02,SV Samson,48,35,4.0,2.0,0,0,0,60.0,137.14285714285714,Sohail Tanvir,caught
+11218,Rajasthan Royals,Sunrisers Hyderabad,1254085,2021-05-02,YBK Jaiswal,12,13,2.0,0.0,0,0,0,18.0,92.3076923076923,PP Ojha,caught
+14027,Sunrisers Hyderabad,Rajasthan Royals,1254085,2021-05-02,MK Pandey,31,21,3.0,2.0,0,0,0,42.0,147.61904761904762,DP Nannes,caught
+2318,Delhi Capitals,Punjab Kings,1254086,2021-05-02,SO Hetmyer,16,6,1.0,2.0,0,0,0,25.0,266.66666666666663,P Negi,caught
+2317,Delhi Capitals,Punjab Kings,1254086,2021-05-02,S Dhawan,69,48,6.0,2.0,1,0,0,91.0,143.75,Shivam Sharma,caught
+2316,Delhi Capitals,Punjab Kings,1254086,2021-05-02,RR Pant,14,11,1.0,1.0,0,0,0,21.0,127.27272727272728,L Balaji,bowled
+2315,Delhi Capitals,Punjab Kings,1254086,2021-05-02,PP Shaw,39,22,3.0,3.0,0,0,0,52.0,177.27272727272728,PV Tambe,caught
+2319,Delhi Capitals,Punjab Kings,1254086,2021-05-02,SPD Smith,24,22,1.0,0.0,0,0,0,29.0,109.09090909090908,UT Yadav,bowled
+9596,Punjab Kings,Delhi Capitals,1254086,2021-05-02,M Shahrukh Khan,4,5,0.0,0.0,0,0,0,8.0,80.0,M Morkel,caught
+9597,Punjab Kings,Delhi Capitals,1254086,2021-05-02,MA Agarwal,99,58,8.0,4.0,1,0,0,127.0,170.68965517241378,Z Khan,caught
+14022,Sunrisers Hyderabad,Rajasthan Royals,1254085,2021-05-02,Abdul Samad,10,10,0.0,1.0,0,0,0,16.0,100.0,YK Pathan,run out
+14023,Sunrisers Hyderabad,Rajasthan Royals,1254085,2021-05-02,B Kumar,14,10,2.0,0.0,0,0,0,20.0,140.0,DW Steyn,caught
+14024,Sunrisers Hyderabad,Rajasthan Royals,1254085,2021-05-02,JM Bairstow,30,21,4.0,1.0,0,0,0,40.0,142.85714285714286,SR Watson,caught
+9598,Punjab Kings,Delhi Capitals,1254086,2021-05-02,P Simran Singh,12,16,0.0,1.0,0,0,0,18.0,75.0,AB Dinda,caught
+9592,Punjab Kings,Delhi Capitals,1254086,2021-05-02,CJ Jordan,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,Z Khan,caught
+9593,Punjab Kings,Delhi Capitals,1254086,2021-05-02,DJ Hooda,1,1,0.0,0.0,0,0,0,5.0,100.0,S Aravind,caught
+9594,Punjab Kings,Delhi Capitals,1254086,2021-05-02,DJ Malan,26,26,1.0,1.0,0,0,0,33.0,100.0,PP Ojha,run out
+9595,Punjab Kings,Delhi Capitals,1254086,2021-05-02,Harpreet Brar,4,4,1.0,0.0,0,0,0,9.0,100.0,DW Steyn,caught
+14025,Sunrisers Hyderabad,Rajasthan Royals,1254085,2021-05-02,KM Jadhav,19,21,0.0,1.0,0,0,0,25.0,90.47619047619048,KA Pollard,caught and bowled
+14026,Sunrisers Hyderabad,Rajasthan Royals,1254085,2021-05-02,KS Williamson,20,22,1.0,0.0,0,0,0,25.0,90.9090909090909,PP Ojha,bowled
+9591,Punjab Kings,Delhi Capitals,1254086,2021-05-02,CH Gayle,13,9,1.0,1.0,0,0,0,20.0,144.44444444444443,RA Jadeja,caught
+7674,Mumbai Indians,Chennai Super Kings,1254104,2021-09-19,Ishan Kishan,11,10,1.0,0.0,0,0,0,16.0,110.0,SR Watson,caught
+7676,Mumbai Indians,Chennai Super Kings,1254104,2021-09-19,KA Pollard,15,15,1.0,1.0,0,0,0,22.0,100.0,PP Ojha,bowled
+7675,Mumbai Indians,Chennai Super Kings,1254104,2021-09-19,JJ Bumrah,1,2,0.0,0.0,0,0,0,5.0,50.0,KA Pollard,caught and bowled
+7673,Mumbai Indians,Chennai Super Kings,1254104,2021-09-19,Anmolpreet Singh,16,14,2.0,1.0,0,0,0,24.0,114.28571428571428,DW Steyn,caught
+7678,Mumbai Indians,Chennai Super Kings,1254104,2021-09-19,Q de Kock,17,12,3.0,0.0,0,0,0,24.0,141.66666666666669,Harmeet Singh,caught
+7679,Mumbai Indians,Chennai Super Kings,1254104,2021-09-19,RD Chahar,0,1,0.0,0.0,0,0,1,2.0,0.0,Z Khan,caught
+847,Chennai Super Kings,Mumbai Indians,1254104,2021-09-19,SN Thakur,1,1,0.0,0.0,0,0,0,5.0,100.0,DW Steyn,bowled
+845,Chennai Super Kings,Mumbai Indians,1254104,2021-09-19,RD Gaikwad,88,58,9.0,4.0,1,0,0,117.0,151.72413793103448,Sohail Tanvir,caught
+844,Chennai Super Kings,Mumbai Indians,1254104,2021-09-19,RA Jadeja,26,37,1.0,0.0,0,0,0,31.0,70.27027027027027,DW Steyn,caught
+841,Chennai Super Kings,Mumbai Indians,1254104,2021-09-19,F du Plessis,0,3,0.0,0.0,0,0,1,2.0,0.0,Sohail Tanvir,bowled
+842,Chennai Super Kings,Mumbai Indians,1254104,2021-09-19,MM Ali,0,3,0.0,0.0,0,0,1,2.0,0.0,GD McGrath,run out
+7672,Mumbai Indians,Chennai Super Kings,1254104,2021-09-19,AF Milne,15,17,0.0,1.0,0,0,0,21.0,88.23529411764706,YK Pathan,run out
+846,Chennai Super Kings,Mumbai Indians,1254104,2021-09-19,SK Raina,4,6,1.0,0.0,0,0,0,9.0,66.66666666666666,YK Pathan,caught
+839,Chennai Super Kings,Mumbai Indians,1254104,2021-09-19,AT Rayudu,0,3,0.0,0.0,0,0,1,2.0,0.0,UT Yadav,bowled
+843,Chennai Super Kings,Mumbai Indians,1254104,2021-09-19,MS Dhoni,3,5,0.0,0.0,0,0,0,7.0,60.0,DS Kulkarni,caught
+7680,Mumbai Indians,Chennai Super Kings,1254104,2021-09-19,SA Yadav,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,JH Kallis,caught
+7681,Mumbai Indians,Chennai Super Kings,1254104,2021-09-19,SS Tiwary,50,41,5.0,0.0,1,0,0,67.0,121.95121951219512,RJ Harris,bowled
+7677,Mumbai Indians,Chennai Super Kings,1254104,2021-09-19,KH Pandya,4,5,0.0,0.0,0,0,0,8.0,80.0,DP Nannes,caught
+840,Chennai Super Kings,Mumbai Indians,1254104,2021-09-19,DJ Bravo,23,9,0.0,3.0,0,0,0,33.0,255.5555555555556,R Bhatia,caught
+12409,Royal Challengers Bangalore,Kolkata Knight Riders,1254087,2021-09-20,YS Chahal,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,KK Cooper,caught
+12408,Royal Challengers Bangalore,Kolkata Knight Riders,1254087,2021-09-20,V Kohli,5,5,1.0,0.0,0,0,0,10.0,100.0,NLTC Perera,caught
+12407,Royal Challengers Bangalore,Kolkata Knight Riders,1254087,2021-09-20,Sachin Baby,7,17,0.0,0.0,0,0,0,11.0,41.17647058823529,PP Ojha,caught
+12406,Royal Challengers Bangalore,Kolkata Knight Riders,1254087,2021-09-20,PWH de Silva,0,1,0.0,0.0,0,0,1,2.0,0.0,R Sathish,run out
+12405,Royal Challengers Bangalore,Kolkata Knight Riders,1254087,2021-09-20,Mohammed Siraj,8,10,1.0,0.0,0,0,0,13.0,80.0,JP Faulkner,caught
+12404,Royal Challengers Bangalore,Kolkata Knight Riders,1254087,2021-09-20,KS Bharat,16,19,1.0,0.0,0,0,0,21.0,84.21052631578947,JH Kallis,run out
+12403,Royal Challengers Bangalore,Kolkata Knight Riders,1254087,2021-09-20,KA Jamieson,4,12,0.0,0.0,0,0,0,8.0,33.33333333333333,UT Yadav,caught
+12402,Royal Challengers Bangalore,Kolkata Knight Riders,1254087,2021-09-20,HV Patel,12,10,2.0,0.0,0,0,0,18.0,120.0,AB Dinda,caught
+12401,Royal Challengers Bangalore,Kolkata Knight Riders,1254087,2021-09-20,GJ Maxwell,10,17,0.0,0.0,0,0,0,14.0,58.82352941176471,R Rampaul,caught
+12400,Royal Challengers Bangalore,Kolkata Knight Riders,1254087,2021-09-20,D Padikkal,22,20,3.0,0.0,0,0,0,29.0,110.0,MM Patel,caught
+12399,Royal Challengers Bangalore,Kolkata Knight Riders,1254087,2021-09-20,AB de Villiers,0,1,0.0,0.0,0,0,1,2.0,0.0,VR Aaron,caught
+7137,Kolkata Knight Riders,Royal Challengers Bangalore,1254087,2021-09-20,VR Iyer,41,28,7.0,1.0,0,0,0,54.0,146.42857142857142,Ravi Bishnoi,bowled
+7136,Kolkata Knight Riders,Royal Challengers Bangalore,1254087,2021-09-20,Shubman Gill,48,37,6.0,1.0,0,0,0,60.0,129.72972972972974,Avesh Khan,caught
+10912,Rajasthan Royals,Punjab Kings,1254111,2021-09-21,Kartik Tyagi,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,A Mishra,caught
+10910,Rajasthan Royals,Punjab Kings,1254111,2021-09-21,CH Morris,5,5,0.0,0.0,0,0,0,9.0,100.0,A Nehra,run out
+10909,Rajasthan Royals,Punjab Kings,1254111,2021-09-21,C Sakariya,7,6,1.0,0.0,0,0,0,12.0,116.66666666666669,SR Watson,caught
+10914,Rajasthan Royals,Punjab Kings,1254111,2021-09-21,MK Lomror,43,18,2.0,4.0,0,0,0,57.0,238.88888888888889,SR Watson,bowled
+10915,Rajasthan Royals,Punjab Kings,1254111,2021-09-21,R Parag,4,5,0.0,0.0,0,0,0,8.0,80.0,JJ Bumrah,bowled
+10916,Rajasthan Royals,Punjab Kings,1254111,2021-09-21,R Tewatia,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,Kuldeep Yadav,stumped
+10917,Rajasthan Royals,Punjab Kings,1254111,2021-09-21,SV Samson,4,5,0.0,0.0,0,0,0,8.0,80.0,Basil Thampi,caught
+9699,Punjab Kings,Rajasthan Royals,1254111,2021-09-21,AK Markram,26,21,2.0,1.0,0,0,0,34.0,123.8095238095238,DP Nannes,caught
+10918,Rajasthan Royals,Punjab Kings,1254111,2021-09-21,YBK Jaiswal,49,36,6.0,2.0,0,0,0,63.0,136.11111111111111,Kuldeep Yadav,caught
+10913,Rajasthan Royals,Punjab Kings,1254111,2021-09-21,LS Livingstone,25,19,2.0,1.0,0,0,0,33.0,131.57894736842107,RA Jadeja,lbw
+9700,Punjab Kings,Rajasthan Royals,1254111,2021-09-21,DJ Hooda,0,2,0.0,0.0,0,0,1,2.0,0.0,RE van der Merwe,caught and bowled
+10911,Rajasthan Royals,Punjab Kings,1254111,2021-09-21,E Lewis,36,22,7.0,1.0,0,0,0,49.0,163.63636363636363,Swapnil Singh,caught and bowled
+9702,Punjab Kings,Rajasthan Royals,1254111,2021-09-21,KL Rahul,49,36,4.0,2.0,0,0,0,61.0,136.11111111111111,RE van der Merwe,caught
+9701,Punjab Kings,Rajasthan Royals,1254111,2021-09-21,FA Allen,0,1,0.0,0.0,0,0,1,2.0,0.0,S Sreesanth,bowled
+9704,Punjab Kings,Rajasthan Royals,1254111,2021-09-21,N Pooran,32,22,1.0,2.0,0,0,0,41.0,145.45454545454547,YK Pathan,run out
+9703,Punjab Kings,Rajasthan Royals,1254111,2021-09-21,MA Agarwal,67,46,7.0,2.0,1,0,0,90.0,145.65217391304347,A Symonds,bowled
+13303,Sunrisers Hyderabad,Delhi Capitals,1254105,2021-09-22,KM Jadhav,3,8,0.0,0.0,0,0,0,7.0,37.5,MG Johnson,caught
+13302,Sunrisers Hyderabad,Delhi Capitals,1254105,2021-09-22,JO Holder,10,9,0.0,1.0,0,0,0,16.0,111.11111111111111,PV Tambe,caught
+2499,Delhi Capitals,Sunrisers Hyderabad,1254105,2021-09-22,PP Shaw,11,8,2.0,0.0,0,0,0,17.0,137.5,JJ van der Wath,caught
+2500,Delhi Capitals,Sunrisers Hyderabad,1254105,2021-09-22,RR Pant,35,23,3.0,2.0,0,0,0,46.0,152.17391304347828,Harbhajan Singh,bowled
+13301,Sunrisers Hyderabad,Delhi Capitals,1254105,2021-09-22,DA Warner,0,3,0.0,0.0,0,0,1,2.0,0.0,JD Unadkat,caught
+13300,Sunrisers Hyderabad,Delhi Capitals,1254105,2021-09-22,B Kumar,5,5,1.0,0.0,0,0,0,10.0,100.0,L Balaji,caught
+13305,Sunrisers Hyderabad,Delhi Capitals,1254105,2021-09-22,MK Pandey,17,16,1.0,0.0,0,0,0,22.0,106.25,YS Chahal,caught
+13306,Sunrisers Hyderabad,Delhi Capitals,1254105,2021-09-22,Rashid Khan,22,19,2.0,1.0,0,0,0,30.0,115.78947368421052,NM Coulter-Nile,caught
+13307,Sunrisers Hyderabad,Delhi Capitals,1254105,2021-09-22,Sandeep Sharma,0,1,0.0,0.0,0,0,1,2.0,0.0,TA Boult,caught
+13308,Sunrisers Hyderabad,Delhi Capitals,1254105,2021-09-22,WP Saha,18,17,2.0,1.0,0,0,0,26.0,105.88235294117648,KA Pollard,caught and bowled
+2501,Delhi Capitals,Sunrisers Hyderabad,1254105,2021-09-22,S Dhawan,42,37,6.0,1.0,0,0,0,54.0,113.51351351351352,JE Taylor,caught
+13304,Sunrisers Hyderabad,Delhi Capitals,1254105,2021-09-22,KS Williamson,18,27,1.0,0.0,0,0,0,23.0,66.66666666666666,AN Ahmed,caught
+2502,Delhi Capitals,Sunrisers Hyderabad,1254105,2021-09-22,SS Iyer,47,43,2.0,2.0,0,0,0,57.0,109.30232558139534,PP Ojha,run out
+13299,Sunrisers Hyderabad,Delhi Capitals,1254105,2021-09-22,Abdul Samad,28,21,2.0,1.0,0,0,0,36.0,133.33333333333331,Z Khan,caught
+8462,Mumbai Indians,Kolkata Knight Riders,1254096,2021-09-23,Q de Kock,55,44,4.0,3.0,1,0,0,77.0,125.0,VR Aaron,caught
+8464,Mumbai Indians,Kolkata Knight Riders,1254096,2021-09-23,SA Yadav,5,10,0.0,0.0,0,0,0,9.0,50.0,R Rampaul,caught
+8465,Mumbai Indians,Kolkata Knight Riders,1254096,2021-09-23,SS Tiwary,5,2,1.0,0.0,0,0,0,10.0,250.0,AB Dinda,caught
+6638,Kolkata Knight Riders,Mumbai Indians,1254096,2021-09-23,VR Iyer,53,32,4.0,3.0,1,0,0,75.0,165.625,MA Khote,caught
+6637,Kolkata Knight Riders,Mumbai Indians,1254096,2021-09-23,Shubman Gill,13,9,1.0,1.0,0,0,0,20.0,144.44444444444443,JR Hopes,lbw
+6636,Kolkata Knight Riders,Mumbai Indians,1254096,2021-09-23,RA Tripathi,74,42,8.0,3.0,1,0,0,100.0,176.19047619047618,YS Chahal,caught
+6635,Kolkata Knight Riders,Mumbai Indians,1254096,2021-09-23,N Rana,5,2,1.0,0.0,0,0,0,10.0,250.0,Mohammed Shami,caught
+8461,Mumbai Indians,Kolkata Knight Riders,1254096,2021-09-23,KH Pandya,12,9,0.0,1.0,0,0,0,18.0,133.33333333333331,P Awana,caught
+8463,Mumbai Indians,Kolkata Knight Riders,1254096,2021-09-23,RG Sharma,33,32,4.0,0.0,0,0,0,41.0,103.125,MM Patel,caught
+6634,Kolkata Knight Riders,Mumbai Indians,1254096,2021-09-23,EJG Morgan,7,8,0.0,1.0,0,0,0,13.0,87.5,JR Hazlewood,caught
+8460,Mumbai Indians,Kolkata Knight Riders,1254096,2021-09-23,KA Pollard,21,17,2.0,1.0,0,0,0,29.0,123.52941176470588,R Bhatia,bowled
+8458,Mumbai Indians,Kolkata Knight Riders,1254096,2021-09-23,AF Milne,1,1,0.0,0.0,0,0,0,5.0,100.0,RP Singh,caught
+8459,Mumbai Indians,Kolkata Knight Riders,1254096,2021-09-23,Ishan Kishan,14,13,0.0,1.0,0,0,0,20.0,107.6923076923077,SK Trivedi,caught
+11655,Royal Challengers Bangalore,Chennai Super Kings,1254113,2021-09-24,D Padikkal,70,51,5.0,3.0,1,0,0,93.0,137.2549019607843,NM Coulter-Nile,caught
+1307,Chennai Super Kings,Royal Challengers Bangalore,1254113,2021-09-24,MM Ali,23,19,0.0,2.0,0,0,0,31.0,121.05263157894736,Azhar Mahmood,caught
+1308,Chennai Super Kings,Royal Challengers Bangalore,1254113,2021-09-24,MS Dhoni,11,9,2.0,0.0,0,0,0,17.0,122.22222222222224,AA Jhunjhunwala,bowled
+1309,Chennai Super Kings,Royal Challengers Bangalore,1254113,2021-09-24,RD Gaikwad,38,26,4.0,1.0,0,0,0,48.0,146.15384615384613,RP Singh,bowled
+1310,Chennai Super Kings,Royal Challengers Bangalore,1254113,2021-09-24,SK Raina,17,11,2.0,1.0,0,0,0,25.0,154.54545454545453,Azhar Mahmood,caught
+11656,Royal Challengers Bangalore,Chennai Super Kings,1254113,2021-09-24,GJ Maxwell,11,9,0.0,1.0,0,0,0,17.0,122.22222222222224,TA Boult,caught
+1306,Chennai Super Kings,Royal Challengers Bangalore,1254113,2021-09-24,F du Plessis,31,26,2.0,2.0,0,0,0,41.0,119.23076923076924,R Vinay Kumar,caught
+1305,Chennai Super Kings,Royal Challengers Bangalore,1254113,2021-09-24,AT Rayudu,32,22,3.0,1.0,0,0,0,41.0,145.45454545454547,KA Pollard,caught
+11657,Royal Challengers Bangalore,Chennai Super Kings,1254113,2021-09-24,HV Patel,3,5,0.0,0.0,0,0,0,7.0,60.0,KA Pollard,caught and bowled
+11659,Royal Challengers Bangalore,Chennai Super Kings,1254113,2021-09-24,TH David,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,PP Chawla,bowled
+11660,Royal Challengers Bangalore,Chennai Super Kings,1254113,2021-09-24,V Kohli,53,42,6.0,1.0,1,0,0,73.0,126.1904761904762,A Ashish Reddy,bowled
+11654,Royal Challengers Bangalore,Chennai Super Kings,1254113,2021-09-24,AB de Villiers,12,11,0.0,1.0,0,0,0,18.0,109.09090909090908,YS Chahal,caught
+11658,Royal Challengers Bangalore,Chennai Super Kings,1254113,2021-09-24,PWH de Silva,1,1,0.0,0.0,0,0,0,5.0,100.0,AD Russell,caught
+13909,Sunrisers Hyderabad,Punjab Kings,1254107,2021-09-25,MK Pandey,13,23,1.0,0.0,0,0,0,18.0,56.52173913043478,RA Jadeja,caught
+13904,Sunrisers Hyderabad,Punjab Kings,1254107,2021-09-25,B Kumar,3,4,0.0,0.0,0,0,0,7.0,75.0,RJ Harris,bowled
+2372,Delhi Capitals,Rajasthan Royals,1254097,2021-09-25,AR Patel,12,10,0.0,1.0,0,0,0,18.0,120.0,R Vinay Kumar,bowled
+13910,Sunrisers Hyderabad,Punjab Kings,1254107,2021-09-25,Rashid Khan,3,4,0.0,0.0,0,0,0,7.0,75.0,Z Khan,caught
+13906,Sunrisers Hyderabad,Punjab Kings,1254107,2021-09-25,JO Holder,47,30,0.0,5.0,0,0,0,61.0,156.66666666666666,KA Pollard,caught
+13905,Sunrisers Hyderabad,Punjab Kings,1254107,2021-09-25,DA Warner,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,Z Khan,caught
+2373,Delhi Capitals,Rajasthan Royals,1254097,2021-09-25,Lalit Yadav,14,15,1.0,0.0,0,0,0,19.0,93.33333333333331,SW Tait,caught
+9761,Punjab Kings,Sunrisers Hyderabad,1254107,2021-09-25,NT Ellis,12,13,0.0,1.0,0,0,0,18.0,92.3076923076923,MM Sharma,caught
+2379,Delhi Capitals,Rajasthan Royals,1254097,2021-09-25,SS Iyer,43,34,1.0,2.0,0,0,0,52.0,126.47058823529412,JJ van der Wath,caught
+9760,Punjab Kings,Sunrisers Hyderabad,1254107,2021-09-25,N Pooran,8,4,0.0,1.0,0,0,0,14.0,200.0,SL Malinga,bowled
+9759,Punjab Kings,Sunrisers Hyderabad,1254107,2021-09-25,MA Agarwal,5,6,0.0,0.0,0,0,0,9.0,83.33333333333334,HV Patel,caught
+9758,Punjab Kings,Sunrisers Hyderabad,1254107,2021-09-25,KL Rahul,21,21,3.0,0.0,0,0,0,28.0,100.0,Harbhajan Singh,lbw
+9757,Punjab Kings,Sunrisers Hyderabad,1254107,2021-09-25,Harpreet Brar,18,19,1.0,0.0,0,0,0,23.0,94.73684210526316,Z Khan,caught
+9756,Punjab Kings,Sunrisers Hyderabad,1254107,2021-09-25,DJ Hooda,13,10,1.0,0.0,0,0,0,18.0,130.0,D Wiese,caught
+13903,Sunrisers Hyderabad,Punjab Kings,1254107,2021-09-25,Abdul Samad,1,2,0.0,0.0,0,0,0,5.0,50.0,JH Kallis,caught
+2378,Delhi Capitals,Rajasthan Royals,1254097,2021-09-25,SO Hetmyer,28,17,5.0,0.0,0,0,0,37.0,164.70588235294116,SL Malinga,run out
+13907,Sunrisers Hyderabad,Punjab Kings,1254107,2021-09-25,KM Jadhav,12,12,0.0,0.0,0,0,0,16.0,100.0,R Sharma,stumped
+10097,Rajasthan Royals,Delhi Capitals,1254097,2021-09-25,LS Livingstone,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,R Sharma,stumped
+2374,Delhi Capitals,Rajasthan Royals,1254097,2021-09-25,PP Shaw,10,12,0.0,0.0,0,0,0,14.0,83.33333333333334,JH Kallis,bowled
+2375,Delhi Capitals,Rajasthan Royals,1254097,2021-09-25,R Ashwin,6,6,0.0,0.0,0,0,0,10.0,100.0,SR Watson,run out
+9754,Punjab Kings,Sunrisers Hyderabad,1254107,2021-09-25,AK Markram,27,32,2.0,0.0,0,0,0,33.0,84.375,PP Chawla,bowled
+13911,Sunrisers Hyderabad,Punjab Kings,1254107,2021-09-25,WP Saha,31,39,1.0,0.0,0,0,0,36.0,79.48717948717949,S Aravind,caught
+10103,Rajasthan Royals,Delhi Capitals,1254097,2021-09-25,YBK Jaiswal,5,4,0.0,0.0,0,0,0,9.0,125.0,DW Steyn,caught
+10096,Rajasthan Royals,Delhi Capitals,1254097,2021-09-25,DA Miller,7,10,0.0,0.0,0,0,0,11.0,70.0,KA Pollard,caught
+10102,Rajasthan Royals,Delhi Capitals,1254097,2021-09-25,T Shamsi,2,4,0.0,0.0,0,0,0,6.0,50.0,PP Ojha,run out
+10101,Rajasthan Royals,Delhi Capitals,1254097,2021-09-25,SV Samson,70,58,8.0,1.0,1,0,0,92.0,120.6896551724138,S Aravind,caught
+9755,Punjab Kings,Sunrisers Hyderabad,1254107,2021-09-25,CH Gayle,14,18,1.0,0.0,0,0,0,19.0,77.77777777777779,A Ashish Reddy,bowled
+10100,Rajasthan Royals,Delhi Capitals,1254097,2021-09-25,R Tewatia,9,15,0.0,0.0,0,0,0,13.0,60.0,Z Khan,caught
+10099,Rajasthan Royals,Delhi Capitals,1254097,2021-09-25,R Parag,2,7,0.0,0.0,0,0,0,6.0,28.57142857142857,RA Jadeja,caught
+2376,Delhi Capitals,Rajasthan Royals,1254097,2021-09-25,RR Pant,24,24,2.0,0.0,0,0,0,30.0,100.0,V Sehwag,caught
+2377,Delhi Capitals,Rajasthan Royals,1254097,2021-09-25,S Dhawan,8,8,1.0,0.0,0,0,0,13.0,100.0,PP Ojha,caught
+13908,Sunrisers Hyderabad,Punjab Kings,1254107,2021-09-25,KS Williamson,1,6,0.0,0.0,0,0,0,5.0,16.666666666666664,PP Ojha,stumped
+10098,Rajasthan Royals,Delhi Capitals,1254097,2021-09-25,MK Lomror,19,24,0.0,1.0,0,0,0,25.0,79.16666666666666,PP Ojha,stumped
+576,Chennai Super Kings,Kolkata Knight Riders,1254098,2021-09-26,SN Thakur,3,2,0.0,0.0,0,0,0,7.0,150.0,V Sehwag,caught
+574,Chennai Super Kings,Kolkata Knight Riders,1254098,2021-09-26,SK Raina,11,7,1.0,0.0,0,0,0,16.0,157.14285714285714,JH Kallis,bowled
+5845,Kolkata Knight Riders,Chennai Super Kings,1254098,2021-09-26,VR Iyer,18,16,3.0,0.0,0,0,0,25.0,112.5,M Markande,lbw
+572,Chennai Super Kings,Kolkata Knight Riders,1254098,2021-09-26,RA Jadeja,22,8,2.0,2.0,0,0,0,32.0,275.0,R Vinay Kumar,bowled
+571,Chennai Super Kings,Kolkata Knight Riders,1254098,2021-09-26,MS Dhoni,1,4,0.0,0.0,0,0,0,5.0,25.0,TM Dilshan,caught
+570,Chennai Super Kings,Kolkata Knight Riders,1254098,2021-09-26,MM Ali,32,29,2.0,1.0,0,0,0,40.0,110.34482758620688,P Kumar,caught
+568,Chennai Super Kings,Kolkata Knight Riders,1254098,2021-09-26,DL Chahar,1,1,0.0,0.0,0,0,0,5.0,100.0,Y Venugopal Rao,caught
+575,Chennai Super Kings,Kolkata Knight Riders,1254098,2021-09-26,SM Curran,4,4,0.0,0.0,0,0,0,8.0,100.0,SR Watson,run out
+573,Chennai Super Kings,Kolkata Knight Riders,1254098,2021-09-26,RD Gaikwad,40,28,2.0,3.0,0,0,0,52.0,142.85714285714286,SW Tait,caught
+569,Chennai Super Kings,Kolkata Knight Riders,1254098,2021-09-26,F du Plessis,43,30,7.0,0.0,0,0,0,54.0,143.33333333333334,A Nehra,caught and bowled
+9021,Mumbai Indians,Royal Challengers Bangalore,1254108,2021-09-26,TA Boult,0,3,0.0,0.0,0,0,1,2.0,0.0,PP Chawla,caught
+9016,Mumbai Indians,Royal Challengers Bangalore,1254108,2021-09-26,KH Pandya,5,12,0.0,0.0,0,0,0,9.0,41.66666666666667,JJ Bumrah,caught
+9017,Mumbai Indians,Royal Challengers Bangalore,1254108,2021-09-26,Q de Kock,24,23,4.0,0.0,0,0,0,32.0,104.34782608695652,HH Pandya,caught
+9018,Mumbai Indians,Royal Challengers Bangalore,1254108,2021-09-26,RD Chahar,0,1,0.0,0.0,0,0,1,2.0,0.0,BA Stokes,bowled
+9019,Mumbai Indians,Royal Challengers Bangalore,1254108,2021-09-26,RG Sharma,43,30,5.0,1.0,0,0,0,54.0,143.33333333333334,SP Narine,lbw
+9020,Mumbai Indians,Royal Challengers Bangalore,1254108,2021-09-26,SA Yadav,8,9,0.0,0.0,0,0,0,12.0,88.88888888888889,M Markande,lbw
+12653,Royal Challengers Bangalore,Mumbai Indians,1254108,2021-09-26,KS Bharat,32,25,2.0,2.0,0,0,0,42.0,128.0,VR Aaron,caught
+12652,Royal Challengers Bangalore,Mumbai Indians,1254108,2021-09-26,KA Jamieson,2,2,0.0,0.0,0,0,0,6.0,100.0,P Awana,caught
+12651,Royal Challengers Bangalore,Mumbai Indians,1254108,2021-09-26,GJ Maxwell,56,39,6.0,3.0,1,0,0,80.0,143.5897435897436,R Bhatia,bowled
+567,Chennai Super Kings,Kolkata Knight Riders,1254098,2021-09-26,AT Rayudu,10,10,1.0,0.0,0,0,0,15.0,100.0,DW Steyn,bowled
+5838,Kolkata Knight Riders,Chennai Super Kings,1254098,2021-09-26,AD Russell,20,15,2.0,1.0,0,0,0,28.0,133.33333333333331,Kuldeep Yadav,caught
+5839,Kolkata Knight Riders,Chennai Super Kings,1254098,2021-09-26,EJG Morgan,8,14,0.0,0.0,0,0,0,12.0,57.14285714285714,S Kaul,caught
+12655,Royal Challengers Bangalore,Mumbai Indians,1254108,2021-09-26,V Kohli,51,44,3.0,3.0,1,0,0,72.0,115.90909090909092,R Rampaul,caught
+5840,Kolkata Knight Riders,Chennai Super Kings,1254098,2021-09-26,KD Karthik,26,12,3.0,1.0,0,0,0,35.0,216.66666666666663,PJ Cummins,run out
+12650,Royal Challengers Bangalore,Mumbai Indians,1254108,2021-09-26,DT Christian,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,SK Trivedi,caught
+12649,Royal Challengers Bangalore,Mumbai Indians,1254108,2021-09-26,D Padikkal,0,4,0.0,0.0,0,0,1,2.0,0.0,RP Singh,caught
+5842,Kolkata Knight Riders,Chennai Super Kings,1254098,2021-09-26,RA Tripathi,45,33,4.0,1.0,0,0,0,55.0,136.36363636363637,HH Pandya,caught
+5843,Kolkata Knight Riders,Chennai Super Kings,1254098,2021-09-26,SP Narine,0,1,0.0,0.0,0,0,1,2.0,0.0,BA Stokes,bowled
+5844,Kolkata Knight Riders,Chennai Super Kings,1254098,2021-09-26,Shubman Gill,9,5,2.0,0.0,0,0,0,15.0,180.0,SP Narine,lbw
+12648,Royal Challengers Bangalore,Mumbai Indians,1254108,2021-09-26,AB de Villiers,11,7,1.0,1.0,0,0,0,18.0,157.14285714285714,DT Christian,bowled
+9015,Mumbai Indians,Royal Challengers Bangalore,1254108,2021-09-26,KA Pollard,7,10,0.0,0.0,0,0,0,11.0,70.0,PJ Cummins,run out
+9014,Mumbai Indians,Royal Challengers Bangalore,1254108,2021-09-26,JJ Bumrah,5,6,1.0,0.0,0,0,0,10.0,83.33333333333334,S Kaul,caught
+9013,Mumbai Indians,Royal Challengers Bangalore,1254108,2021-09-26,Ishan Kishan,9,12,1.0,0.0,0,0,0,14.0,75.0,Kuldeep Yadav,caught
+9012,Mumbai Indians,Royal Challengers Bangalore,1254108,2021-09-26,HH Pandya,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,Basil Thampi,caught
+9011,Mumbai Indians,Royal Challengers Bangalore,1254108,2021-09-26,AF Milne,0,1,0.0,0.0,0,0,1,2.0,0.0,Kuldeep Yadav,stumped
+5841,Kolkata Knight Riders,Chennai Super Kings,1254098,2021-09-26,N Rana,37,30,3.0,1.0,0,0,0,46.0,123.33333333333334,JJ Bumrah,caught
+12654,Royal Challengers Bangalore,Mumbai Indians,1254108,2021-09-26,Shahbaz Ahmed,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,MM Patel,caught
+11224,Rajasthan Royals,Sunrisers Hyderabad,1254100,2021-09-27,SV Samson,82,59,7.0,3.0,1,0,0,107.0,138.98305084745763,RE van der Merwe,caught and bowled
+14032,Sunrisers Hyderabad,Rajasthan Royals,1254100,2021-09-27,Abhishek Sharma,21,18,1.0,1.0,0,0,0,28.0,116.66666666666669,Z Khan,caught
+14034,Sunrisers Hyderabad,Rajasthan Royals,1254100,2021-09-27,KS Williamson,51,44,5.0,1.0,1,0,0,70.0,115.90909090909092,R Sharma,stumped
+14035,Sunrisers Hyderabad,Rajasthan Royals,1254100,2021-09-27,PK Garg,0,1,0.0,0.0,0,0,1,2.0,0.0,PP Ojha,stumped
+14036,Sunrisers Hyderabad,Rajasthan Royals,1254100,2021-09-27,WP Saha,18,12,2.0,1.0,0,0,0,26.0,150.0,RA Jadeja,caught
+11219,Rajasthan Royals,Sunrisers Hyderabad,1254100,2021-09-27,E Lewis,6,4,1.0,0.0,0,0,0,11.0,150.0,SL Malinga,bowled
+11220,Rajasthan Royals,Sunrisers Hyderabad,1254100,2021-09-27,LS Livingstone,4,6,0.0,0.0,0,0,0,8.0,66.66666666666666,P Kumar,caught
+11221,Rajasthan Royals,Sunrisers Hyderabad,1254100,2021-09-27,MK Lomror,29,29,1.0,1.0,0,0,0,36.0,100.0,DL Vettori,caught
+11222,Rajasthan Royals,Sunrisers Hyderabad,1254100,2021-09-27,R Parag,0,1,0.0,0.0,0,0,1,2.0,0.0,PP Ojha,caught
+11223,Rajasthan Royals,Sunrisers Hyderabad,1254100,2021-09-27,R Tewatia,0,1,0.0,0.0,0,0,1,2.0,0.0,DP Nannes,caught
+11225,Rajasthan Royals,Sunrisers Hyderabad,1254100,2021-09-27,YBK Jaiswal,36,23,5.0,1.0,0,0,0,47.0,156.52173913043478,S Sreesanth,bowled
+14033,Sunrisers Hyderabad,Rajasthan Royals,1254100,2021-09-27,JJ Roy,60,44,8.0,1.0,1,0,0,82.0,136.36363636363637,KA Pollard,caught
+2189,Delhi Capitals,Kolkata Knight Riders,1254092,2021-09-28,S Dhawan,24,20,5.0,0.0,0,0,0,33.0,120.0,RP Singh,bowled
+2188,Delhi Capitals,Kolkata Knight Riders,1254092,2021-09-28,RR Pant,39,37,3.0,0.0,0,0,0,46.0,105.4054054054054,AA Jhunjhunwala,bowled
+5969,Kolkata Knight Riders,Delhi Capitals,1254092,2021-09-28,SP Narine,21,10,1.0,2.0,0,0,0,30.0,210.0,HH Pandya,caught
+5968,Kolkata Knight Riders,Delhi Capitals,1254092,2021-09-28,RA Tripathi,9,5,0.0,1.0,0,0,0,15.0,180.0,JJ Bumrah,caught
+5965,Kolkata Knight Riders,Delhi Capitals,1254092,2021-09-28,EJG Morgan,0,2,0.0,0.0,0,0,1,2.0,0.0,Kuldeep Yadav,caught
+2187,Delhi Capitals,Kolkata Knight Riders,1254092,2021-09-28,R Ashwin,9,8,1.0,0.0,0,0,0,14.0,112.5,Azhar Mahmood,caught
+8559,Mumbai Indians,Punjab Kings,1254099,2021-09-28,SS Tiwary,45,37,3.0,2.0,0,0,0,56.0,121.62162162162164,RE van der Merwe,caught
+8558,Mumbai Indians,Punjab Kings,1254099,2021-09-28,SA Yadav,0,1,0.0,0.0,0,0,1,2.0,0.0,S Sreesanth,bowled
+8557,Mumbai Indians,Punjab Kings,1254099,2021-09-28,RG Sharma,8,10,1.0,0.0,0,0,0,13.0,80.0,RE van der Merwe,caught and bowled
+8556,Mumbai Indians,Punjab Kings,1254099,2021-09-28,Q de Kock,27,30,2.0,0.0,0,0,0,33.0,90.0,DP Nannes,caught
+8555,Mumbai Indians,Punjab Kings,1254099,2021-09-28,KA Pollard,15,8,1.0,1.0,0,0,0,22.0,187.5,PP Ojha,caught
+8554,Mumbai Indians,Punjab Kings,1254099,2021-09-28,HH Pandya,40,30,4.0,2.0,0,0,0,52.0,133.33333333333331,DL Vettori,caught
+2186,Delhi Capitals,Kolkata Knight Riders,1254092,2021-09-28,Lalit Yadav,0,3,0.0,0.0,0,0,1,2.0,0.0,R Vinay Kumar,caught
+2185,Delhi Capitals,Kolkata Knight Riders,1254092,2021-09-28,K Rabada,0,1,0.0,0.0,0,0,1,2.0,0.0,KA Pollard,caught
+2184,Delhi Capitals,Kolkata Knight Riders,1254092,2021-09-28,Avesh Khan,5,3,1.0,0.0,0,0,0,10.0,166.66666666666669,CH Gayle,caught
+2183,Delhi Capitals,Kolkata Knight Riders,1254092,2021-09-28,AR Patel,0,7,0.0,0.0,0,0,1,2.0,0.0,A Mithun,caught
+9678,Punjab Kings,Mumbai Indians,1254099,2021-09-28,CH Gayle,1,4,0.0,0.0,0,0,0,5.0,25.0,RD Chahar,caught
+9677,Punjab Kings,Mumbai Indians,1254099,2021-09-28,AK Markram,42,30,6.0,0.0,0,0,0,52.0,140.0,Ravi Bishnoi,bowled
+9680,Punjab Kings,Mumbai Indians,1254099,2021-09-28,Harpreet Brar,14,19,0.0,0.0,0,0,0,18.0,73.68421052631578,R Dhawan,caught
+5967,Kolkata Knight Riders,Delhi Capitals,1254092,2021-09-28,N Rana,36,28,2.0,2.0,0,0,0,46.0,128.57142857142858,PJ Cummins,run out
+9681,Punjab Kings,Mumbai Indians,1254099,2021-09-28,KL Rahul,21,23,2.0,0.0,0,0,0,27.0,91.30434782608695,T Natarajan,caught
+2192,Delhi Capitals,Kolkata Knight Riders,1254092,2021-09-28,SS Iyer,1,6,0.0,0.0,0,0,0,5.0,16.666666666666664,AB Dinda,caught
+2191,Delhi Capitals,Kolkata Knight Riders,1254092,2021-09-28,SPD Smith,39,34,4.0,0.0,0,0,0,47.0,114.70588235294116,UT Yadav,caught
+2190,Delhi Capitals,Kolkata Knight Riders,1254092,2021-09-28,SO Hetmyer,4,5,0.0,0.0,0,0,0,8.0,80.0,Azhar Mahmood,caught
+9682,Punjab Kings,Mumbai Indians,1254099,2021-09-28,Mandeep Singh,15,14,2.0,0.0,0,0,0,21.0,107.14285714285714,JR Hazlewood,caught
+9683,Punjab Kings,Mumbai Indians,1254099,2021-09-28,N Pooran,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,Mohammed Shami,caught
+9684,Punjab Kings,Mumbai Indians,1254099,2021-09-28,NT Ellis,6,4,0.0,0.0,0,0,0,10.0,150.0,YS Chahal,caught
+9679,Punjab Kings,Mumbai Indians,1254099,2021-09-28,DJ Hooda,28,26,1.0,1.0,0,0,0,35.0,107.6923076923077,M Jansen,caught
+5972,Kolkata Knight Riders,Delhi Capitals,1254092,2021-09-28,VR Iyer,14,16,2.0,0.0,0,0,0,20.0,87.5,M Markande,lbw
+5971,Kolkata Knight Riders,Delhi Capitals,1254092,2021-09-28,TG Southee,3,5,0.0,0.0,0,0,0,7.0,60.0,SP Narine,lbw
+5970,Kolkata Knight Riders,Delhi Capitals,1254092,2021-09-28,Shubman Gill,30,33,1.0,2.0,0,0,0,39.0,90.9090909090909,BA Stokes,bowled
+5966,Kolkata Knight Riders,Delhi Capitals,1254092,2021-09-28,KD Karthik,12,14,2.0,0.0,0,0,0,18.0,85.71428571428571,S Kaul,caught
+11086,Rajasthan Royals,Royal Challengers Bangalore,1254103,2021-09-29,CH Morris,14,12,2.0,0.0,0,0,0,20.0,116.66666666666669,SK Warne,caught
+12883,Royal Challengers Bangalore,Rajasthan Royals,1254103,2021-09-29,GJ Maxwell,50,32,6.0,1.0,1,0,0,70.0,156.25,PP Ojha,bowled
+11087,Rajasthan Royals,Royal Challengers Bangalore,1254103,2021-09-29,E Lewis,58,38,5.0,3.0,1,0,0,81.0,152.63157894736844,PP Ojha,caught
+11085,Rajasthan Royals,Royal Challengers Bangalore,1254103,2021-09-29,C Sakariya,2,2,0.0,0.0,0,0,0,6.0,100.0,Mohammad Asif,caught
+11088,Rajasthan Royals,Royal Challengers Bangalore,1254103,2021-09-29,Kartik Tyagi,1,1,0.0,0.0,0,0,0,5.0,100.0,VY Mahesh,caught
+12884,Royal Challengers Bangalore,Rajasthan Royals,1254103,2021-09-29,KS Bharat,44,35,3.0,1.0,0,0,0,53.0,125.71428571428572,DP Nannes,caught
+11090,Rajasthan Royals,Royal Challengers Bangalore,1254103,2021-09-29,MK Lomror,3,5,0.0,0.0,0,0,0,7.0,60.0,Sohail Tanvir,caught
+12882,Royal Challengers Bangalore,Rajasthan Royals,1254103,2021-09-29,D Padikkal,22,19,4.0,0.0,0,0,0,30.0,115.78947368421052,KA Pollard,caught and bowled
+12881,Royal Challengers Bangalore,Rajasthan Royals,1254103,2021-09-29,AB de Villiers,4,1,1.0,0.0,0,0,0,9.0,400.0,SR Watson,caught
+12885,Royal Challengers Bangalore,Rajasthan Royals,1254103,2021-09-29,V Kohli,25,20,4.0,0.0,0,0,0,33.0,125.0,Harmeet Singh,caught
+11089,Rajasthan Royals,Royal Challengers Bangalore,1254103,2021-09-29,LS Livingstone,6,9,0.0,0.0,0,0,0,10.0,66.66666666666666,R Vinay Kumar,caught
+11094,Rajasthan Royals,Royal Challengers Bangalore,1254103,2021-09-29,YBK Jaiswal,31,22,3.0,2.0,0,0,0,42.0,140.9090909090909,DL Vettori,caught
+11091,Rajasthan Royals,Royal Challengers Bangalore,1254103,2021-09-29,R Parag,9,16,0.0,0.0,0,0,0,13.0,56.25,PP Ojha,caught
+11092,Rajasthan Royals,Royal Challengers Bangalore,1254103,2021-09-29,R Tewatia,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,SL Malinga,bowled
+11093,Rajasthan Royals,Royal Challengers Bangalore,1254103,2021-09-29,SV Samson,19,15,0.0,2.0,0,0,0,27.0,126.66666666666666,P Kumar,caught
+13226,Sunrisers Hyderabad,Chennai Super Kings,1254091,2021-09-30,JJ Roy,2,7,0.0,0.0,0,0,0,6.0,28.57142857142857,CV Varun,bowled
+13223,Sunrisers Hyderabad,Chennai Super Kings,1254091,2021-09-30,Abdul Samad,18,14,1.0,1.0,0,0,0,25.0,128.57142857142858,A Nortje,caught
+1423,Chennai Super Kings,Sunrisers Hyderabad,1254091,2021-09-30,SK Raina,2,4,0.0,0.0,0,0,0,6.0,50.0,A Mithun,caught
+13228,Sunrisers Hyderabad,Chennai Super Kings,1254091,2021-09-30,KS Williamson,11,12,2.0,0.0,0,0,0,17.0,91.66666666666666,C Sakariya,caught
+1418,Chennai Super Kings,Sunrisers Hyderabad,1254091,2021-09-30,AT Rayudu,17,13,1.0,1.0,0,0,0,24.0,130.76923076923077,SL Malinga,run out
+1420,Chennai Super Kings,Sunrisers Hyderabad,1254091,2021-09-30,MM Ali,17,17,2.0,0.0,0,0,0,23.0,100.0,Harbhajan Singh,bowled
+1419,Chennai Super Kings,Sunrisers Hyderabad,1254091,2021-09-30,F du Plessis,41,36,3.0,2.0,0,0,0,52.0,113.88888888888889,JJ van der Wath,caught
+13227,Sunrisers Hyderabad,Chennai Super Kings,1254091,2021-09-30,JO Holder,5,5,0.0,0.0,0,0,0,9.0,100.0,Avesh Khan,bowled
+13231,Sunrisers Hyderabad,Chennai Super Kings,1254091,2021-09-30,WP Saha,44,47,1.0,2.0,0,0,0,53.0,93.61702127659576,CV Varun,bowled
+13230,Sunrisers Hyderabad,Chennai Super Kings,1254091,2021-09-30,Rashid Khan,17,14,2.0,0.0,0,0,0,23.0,121.42857142857142,AF Milne,caught
+13229,Sunrisers Hyderabad,Chennai Super Kings,1254091,2021-09-30,PK Garg,7,11,0.0,0.0,0,0,0,11.0,63.63636363636363,AD Russell,caught
+13224,Sunrisers Hyderabad,Chennai Super Kings,1254091,2021-09-30,Abhishek Sharma,18,13,1.0,1.0,0,0,0,25.0,138.46153846153845,Kartik Tyagi,run out
+13225,Sunrisers Hyderabad,Chennai Super Kings,1254091,2021-09-30,B Kumar,2,2,0.0,0.0,0,0,0,6.0,100.0,RD Chahar,caught
+1421,Chennai Super Kings,Sunrisers Hyderabad,1254091,2021-09-30,MS Dhoni,14,12,1.0,1.0,0,0,0,21.0,116.66666666666669,JE Taylor,caught
+1422,Chennai Super Kings,Sunrisers Hyderabad,1254091,2021-09-30,RD Gaikwad,45,39,4.0,2.0,0,0,0,57.0,115.38461538461536,PP Ojha,run out
+9649,Punjab Kings,Kolkata Knight Riders,1254102,2021-10-01,KL Rahul,67,56,4.0,2.0,1,0,0,87.0,119.64285714285714,S Kaul,caught
+9648,Punjab Kings,Kolkata Knight Riders,1254102,2021-10-01,DJ Hooda,3,4,0.0,0.0,0,0,0,7.0,75.0,Kuldeep Yadav,caught
+9650,Punjab Kings,Kolkata Knight Riders,1254102,2021-10-01,M Shahrukh Khan,22,9,1.0,2.0,0,0,0,31.0,244.44444444444449,PJ Cummins,run out
+9652,Punjab Kings,Kolkata Knight Riders,1254102,2021-10-01,N Pooran,12,7,0.0,1.0,0,0,0,18.0,171.42857142857142,HH Pandya,caught
+9647,Punjab Kings,Kolkata Knight Riders,1254102,2021-10-01,AK Markram,18,18,0.0,1.0,0,0,0,24.0,100.0,Basil Thampi,caught
+9651,Punjab Kings,Kolkata Knight Riders,1254102,2021-10-01,MA Agarwal,40,27,3.0,3.0,0,0,0,53.0,148.14814814814815,JJ Bumrah,caught
+6700,Kolkata Knight Riders,Punjab Kings,1254102,2021-10-01,N Rana,31,18,2.0,2.0,0,0,0,41.0,172.22222222222223,AN Ahmed,caught
+6702,Kolkata Knight Riders,Punjab Kings,1254102,2021-10-01,SP Narine,3,3,0.0,0.0,0,0,0,7.0,100.0,NM Coulter-Nile,caught
+6705,Kolkata Knight Riders,Punjab Kings,1254102,2021-10-01,VR Iyer,67,50,9.0,1.0,1,0,0,90.0,134.0,AD Russell,caught
+6698,Kolkata Knight Riders,Punjab Kings,1254102,2021-10-01,EJG Morgan,2,2,0.0,0.0,0,0,0,6.0,100.0,PV Tambe,caught
+6699,Kolkata Knight Riders,Punjab Kings,1254102,2021-10-01,KD Karthik,11,11,0.0,0.0,0,0,0,15.0,100.0,MG Johnson,caught
+6701,Kolkata Knight Riders,Punjab Kings,1254102,2021-10-01,RA Tripathi,34,27,3.0,1.0,0,0,0,43.0,125.92592592592592,YS Chahal,caught
+6704,Kolkata Knight Riders,Punjab Kings,1254102,2021-10-01,TL Seifert,2,5,0.0,0.0,0,0,0,6.0,40.0,KA Pollard,caught and bowled
+6703,Kolkata Knight Riders,Punjab Kings,1254102,2021-10-01,Shubman Gill,7,8,1.0,0.0,0,0,0,12.0,87.5,TA Boult,caught
+9975,Rajasthan Royals,Chennai Super Kings,1254089,2021-10-02,YBK Jaiswal,50,21,6.0,3.0,1,0,0,74.0,238.0952380952381,PP Ojha,run out
+2288,Delhi Capitals,Mumbai Indians,1254112,2021-10-02,S Dhawan,8,7,0.0,1.0,0,0,0,14.0,114.28571428571428,Y Venugopal Rao,caught
+2287,Delhi Capitals,Mumbai Indians,1254112,2021-10-02,RR Pant,26,22,3.0,1.0,0,0,0,35.0,118.1818181818182,DW Steyn,bowled
+1110,Chennai Super Kings,Rajasthan Royals,1254089,2021-10-02,RA Jadeja,32,17,4.0,1.0,0,0,0,42.0,188.23529411764704,Azhar Mahmood,caught
+2286,Delhi Capitals,Mumbai Indians,1254112,2021-10-02,R Ashwin,20,21,0.0,1.0,0,0,0,26.0,95.23809523809524,YK Pathan,caught
+7833,Mumbai Indians,Delhi Capitals,1254112,2021-10-02,NM Coulter-Nile,1,2,0.0,0.0,0,0,0,5.0,50.0,JP Faulkner,caught
+7834,Mumbai Indians,Delhi Capitals,1254112,2021-10-02,Q de Kock,19,18,1.0,1.0,0,0,0,26.0,105.55555555555556,R Sathish,run out
+7835,Mumbai Indians,Delhi Capitals,1254112,2021-10-02,RG Sharma,7,11,1.0,0.0,0,0,0,12.0,63.63636363636363,PP Ojha,caught
+9974,Rajasthan Royals,Chennai Super Kings,1254089,2021-10-02,SV Samson,28,24,4.0,0.0,0,0,0,36.0,116.66666666666669,S Aravind,caught
+9973,Rajasthan Royals,Chennai Super Kings,1254089,2021-10-02,S Dube,64,46,4.0,4.0,1,0,0,88.0,139.1304347826087,Z Khan,caught
+2291,Delhi Capitals,Mumbai Indians,1254112,2021-10-02,SS Iyer,33,36,2.0,0.0,0,0,0,39.0,91.66666666666666,TM Dilshan,caught
+9972,Rajasthan Royals,Chennai Super Kings,1254089,2021-10-02,GD Phillips,14,8,1.0,1.0,0,0,0,21.0,175.0,RA Jadeja,caught
+7832,Mumbai Indians,Delhi Capitals,1254112,2021-10-02,KH Pandya,13,15,1.0,1.0,0,0,0,20.0,86.66666666666667,JH Kallis,run out
+7836,Mumbai Indians,Delhi Capitals,1254112,2021-10-02,SA Yadav,33,26,2.0,2.0,0,0,0,43.0,126.92307692307692,NLTC Perera,caught
+2290,Delhi Capitals,Mumbai Indians,1254112,2021-10-02,SPD Smith,9,8,0.0,1.0,0,0,0,15.0,112.5,P Kumar,caught
+2289,Delhi Capitals,Mumbai Indians,1254112,2021-10-02,SO Hetmyer,15,8,2.0,0.0,0,0,0,21.0,187.5,A Nehra,caught and bowled
+9971,Rajasthan Royals,Chennai Super Kings,1254089,2021-10-02,E Lewis,27,12,2.0,2.0,0,0,0,37.0,225.0,PP Ojha,stumped
+7831,Mumbai Indians,Delhi Capitals,1254112,2021-10-02,KA Pollard,6,12,0.0,0.0,0,0,0,10.0,50.0,UT Yadav,caught
+7830,Mumbai Indians,Delhi Capitals,1254112,2021-10-02,JJ Bumrah,1,1,0.0,0.0,0,0,0,5.0,100.0,AB Dinda,caught
+7828,Mumbai Indians,Delhi Capitals,1254112,2021-10-02,HH Pandya,17,18,2.0,0.0,0,0,0,23.0,94.44444444444444,MM Patel,caught
+7837,Mumbai Indians,Delhi Capitals,1254112,2021-10-02,SS Tiwary,15,19,1.0,0.0,0,0,0,20.0,78.94736842105263,KK Cooper,caught
+7829,Mumbai Indians,Delhi Capitals,1254112,2021-10-02,J Yadav,11,4,1.0,1.0,0,0,0,18.0,275.0,R Rampaul,caught
+1112,Chennai Super Kings,Rajasthan Royals,1254089,2021-10-02,SK Raina,3,5,0.0,0.0,0,0,0,7.0,60.0,AB Dinda,caught
+2285,Delhi Capitals,Mumbai Indians,1254112,2021-10-02,PP Shaw,6,7,1.0,0.0,0,0,0,11.0,85.71428571428571,Sohail Tanvir,caught
+1107,Chennai Super Kings,Rajasthan Royals,1254089,2021-10-02,AT Rayudu,2,4,0.0,0.0,0,0,0,6.0,50.0,Azhar Mahmood,caught
+1108,Chennai Super Kings,Rajasthan Royals,1254089,2021-10-02,F du Plessis,25,19,2.0,1.0,0,0,0,33.0,131.57894736842107,AA Jhunjhunwala,bowled
+2284,Delhi Capitals,Mumbai Indians,1254112,2021-10-02,AR Patel,9,10,1.0,0.0,0,0,0,14.0,90.0,DW Steyn,caught
+1109,Chennai Super Kings,Rajasthan Royals,1254089,2021-10-02,MM Ali,21,18,1.0,1.0,0,0,0,28.0,116.66666666666669,RP Singh,bowled
+1111,Chennai Super Kings,Rajasthan Royals,1254089,2021-10-02,RD Gaikwad,101,62,9.0,5.0,1,1,0,148.0,162.90322580645162,UT Yadav,caught
+7300,Kolkata Knight Riders,Sunrisers Hyderabad,1254109,2021-10-03,KD Karthik,18,12,3.0,0.0,0,0,0,25.0,150.0,RJ Harris,bowled
+7299,Kolkata Knight Riders,Sunrisers Hyderabad,1254109,2021-10-03,EJG Morgan,2,2,0.0,0.0,0,0,0,6.0,100.0,JH Kallis,caught
+13710,Sunrisers Hyderabad,Kolkata Knight Riders,1254109,2021-10-03,WP Saha,0,1,0.0,0.0,0,0,1,2.0,0.0,Kuldeep Yadav,stumped
+7302,Kolkata Knight Riders,Sunrisers Hyderabad,1254109,2021-10-03,RA Tripathi,7,6,1.0,0.0,0,0,0,12.0,116.66666666666669,KA Pollard,caught
+13701,Sunrisers Hyderabad,Kolkata Knight Riders,1254109,2021-10-03,Abdul Samad,25,18,0.0,3.0,0,0,0,35.0,138.88888888888889,JJ Bumrah,caught
+13702,Sunrisers Hyderabad,Kolkata Knight Riders,1254109,2021-10-03,Abhishek Sharma,6,10,0.0,0.0,0,0,0,10.0,60.0,Imran Tahir,caught
+13703,Sunrisers Hyderabad,Kolkata Knight Riders,1254109,2021-10-03,B Kumar,7,7,0.0,0.0,0,0,0,11.0,100.0,SR Watson,caught
+13704,Sunrisers Hyderabad,Kolkata Knight Riders,1254109,2021-10-03,JJ Roy,10,13,2.0,0.0,0,0,0,16.0,76.92307692307693,A Nehra,run out
+13705,Sunrisers Hyderabad,Kolkata Knight Riders,1254109,2021-10-03,JO Holder,2,9,0.0,0.0,0,0,0,6.0,22.22222222222222,Swapnil Singh,caught and bowled
+13706,Sunrisers Hyderabad,Kolkata Knight Riders,1254109,2021-10-03,KS Williamson,26,21,4.0,0.0,0,0,0,34.0,123.8095238095238,A Mishra,caught
+13707,Sunrisers Hyderabad,Kolkata Knight Riders,1254109,2021-10-03,PK Garg,21,31,0.0,1.0,0,0,0,27.0,67.74193548387096,RA Jadeja,lbw
+13708,Sunrisers Hyderabad,Kolkata Knight Riders,1254109,2021-10-03,Rashid Khan,8,6,1.0,0.0,0,0,0,13.0,133.33333333333331,SR Watson,bowled
+7301,Kolkata Knight Riders,Sunrisers Hyderabad,1254109,2021-10-03,N Rana,25,35,3.0,0.0,0,0,0,32.0,71.42857142857143,Z Khan,caught
+13709,Sunrisers Hyderabad,Kolkata Knight Riders,1254109,2021-10-03,S Kaul,7,5,1.0,0.0,0,0,0,12.0,140.0,JJ Bumrah,bowled
+9724,Punjab Kings,Royal Challengers Bangalore,1254090,2021-10-03,MC Henriques,12,9,0.0,1.0,0,0,0,18.0,133.33333333333331,Z Khan,caught
+9725,Punjab Kings,Royal Challengers Bangalore,1254090,2021-10-03,N Pooran,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,AB Dinda,caught
+12706,Royal Challengers Bangalore,Punjab Kings,1254090,2021-10-03,V Kohli,25,25,2.0,1.0,0,0,0,33.0,100.0,MJ McClenaghan,caught
+12705,Royal Challengers Bangalore,Punjab Kings,1254090,2021-10-03,Shahbaz Ahmed,8,4,0.0,1.0,0,0,0,14.0,200.0,S Gopal,caught
+12704,Royal Challengers Bangalore,Punjab Kings,1254090,2021-10-03,HV Patel,1,1,0.0,0.0,0,0,0,5.0,100.0,PP Chawla,caught
+12703,Royal Challengers Bangalore,Punjab Kings,1254090,2021-10-03,GJ Maxwell,57,35,3.0,4.0,1,0,0,80.0,162.85714285714286,M Markande,lbw
+12702,Royal Challengers Bangalore,Punjab Kings,1254090,2021-10-03,GHS Garton,0,1,0.0,0.0,0,0,1,2.0,0.0,SP Narine,lbw
+12701,Royal Challengers Bangalore,Punjab Kings,1254090,2021-10-03,DT Christian,0,1,0.0,0.0,0,0,1,2.0,0.0,BA Stokes,bowled
+12700,Royal Challengers Bangalore,Punjab Kings,1254090,2021-10-03,D Padikkal,40,40,4.0,2.0,0,0,0,52.0,100.0,HH Pandya,caught
+12699,Royal Challengers Bangalore,Punjab Kings,1254090,2021-10-03,AB de Villiers,23,18,1.0,2.0,0,0,0,32.0,127.77777777777776,JJ Bumrah,caught
+9726,Punjab Kings,Royal Challengers Bangalore,1254090,2021-10-03,SN Khan,0,1,0.0,0.0,0,0,1,2.0,0.0,BA Bhatt,run out
+7303,Kolkata Knight Riders,Sunrisers Hyderabad,1254109,2021-10-03,Shubman Gill,57,51,10.0,0.0,1,0,0,79.0,111.76470588235294,R Sharma,stumped
+7304,Kolkata Knight Riders,Sunrisers Hyderabad,1254109,2021-10-03,VR Iyer,8,14,0.0,0.0,0,0,0,12.0,57.14285714285714,PP Ojha,stumped
+9723,Punjab Kings,Royal Challengers Bangalore,1254090,2021-10-03,MA Agarwal,57,46,6.0,2.0,1,0,0,79.0,123.91304347826086,M Morkel,caught
+9722,Punjab Kings,Royal Challengers Bangalore,1254090,2021-10-03,M Shahrukh Khan,16,12,1.0,1.0,0,0,0,23.0,133.33333333333331,DW Steyn,caught
+9721,Punjab Kings,Royal Challengers Bangalore,1254090,2021-10-03,KL Rahul,39,35,1.0,2.0,0,0,0,48.0,111.42857142857144,PP Ojha,run out
+9720,Punjab Kings,Royal Challengers Bangalore,1254090,2021-10-03,Harpreet Brar,3,2,0.0,0.0,0,0,0,7.0,150.0,S Aravind,caught
+9719,Punjab Kings,Royal Challengers Bangalore,1254090,2021-10-03,AK Markram,20,14,2.0,1.0,0,0,0,28.0,142.85714285714286,Z Khan,caught
+120,Chennai Super Kings,Delhi Capitals,1254110,2021-10-04,MS Dhoni,18,27,0.0,0.0,0,0,0,22.0,66.66666666666666,R Bhatia,caught
+122,Chennai Super Kings,Delhi Capitals,1254110,2021-10-04,RD Gaikwad,13,15,2.0,0.0,0,0,0,19.0,86.66666666666667,GD McGrath,run out
+2085,Delhi Capitals,Chennai Super Kings,1254110,2021-10-04,RV Patel,18,20,2.0,0.0,0,0,0,24.0,90.0,Sohail Tanvir,caught
+2084,Delhi Capitals,Chennai Super Kings,1254110,2021-10-04,RR Pant,15,13,1.0,1.0,0,0,0,22.0,115.38461538461536,DW Steyn,caught
+2083,Delhi Capitals,Chennai Super Kings,1254110,2021-10-04,R Ashwin,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,DS Kulkarni,caught
+2082,Delhi Capitals,Chennai Super Kings,1254110,2021-10-04,PP Shaw,18,14,3.0,0.0,0,0,0,25.0,128.57142857142858,GD McGrath,run out
+2081,Delhi Capitals,Chennai Super Kings,1254110,2021-10-04,K Rabada,4,1,1.0,0.0,0,0,0,9.0,400.0,Sohail Tanvir,bowled
+123,Chennai Super Kings,Delhi Capitals,1254110,2021-10-04,RV Uthappa,19,19,1.0,0.0,0,0,0,24.0,100.0,DS Kulkarni,caught
+2086,Delhi Capitals,Chennai Super Kings,1254110,2021-10-04,S Dhawan,39,35,3.0,2.0,0,0,0,50.0,111.42857142857144,YK Pathan,caught
+117,Chennai Super Kings,Delhi Capitals,1254110,2021-10-04,AT Rayudu,55,44,5.0,2.0,1,0,0,76.0,125.0,Shivam Sharma,caught
+119,Chennai Super Kings,Delhi Capitals,1254110,2021-10-04,MM Ali,5,10,0.0,0.0,0,0,0,9.0,50.0,UT Yadav,bowled
+121,Chennai Super Kings,Delhi Capitals,1254110,2021-10-04,RA Jadeja,1,2,0.0,0.0,0,0,0,5.0,50.0,Sohail Tanvir,bowled
+2080,Delhi Capitals,Chennai Super Kings,1254110,2021-10-04,AR Patel,5,10,0.0,0.0,0,0,0,9.0,50.0,R Bhatia,caught
+2088,Delhi Capitals,Chennai Super Kings,1254110,2021-10-04,SS Iyer,2,7,0.0,0.0,0,0,0,6.0,28.57142857142857,Y Venugopal Rao,caught
+2087,Delhi Capitals,Chennai Super Kings,1254110,2021-10-04,SO Hetmyer,28,21,2.0,1.0,0,0,0,36.0,133.33333333333331,DW Steyn,bowled
+118,Chennai Super Kings,Delhi Capitals,1254110,2021-10-04,F du Plessis,10,9,2.0,0.0,0,0,0,16.0,111.11111111111111,P Negi,caught
+10848,Rajasthan Royals,Mumbai Indians,1254093,2021-10-05,R Tewatia,12,20,0.0,0.0,0,0,0,16.0,60.0,DW Steyn,caught
+8740,Mumbai Indians,Rajasthan Royals,1254093,2021-10-05,SA Yadav,13,9,3.0,0.0,0,0,0,20.0,144.44444444444443,D Wiese,caught
+8739,Mumbai Indians,Rajasthan Royals,1254093,2021-10-05,RG Sharma,22,13,1.0,2.0,0,0,0,31.0,169.23076923076923,A Ashish Reddy,bowled
+8738,Mumbai Indians,Rajasthan Royals,1254093,2021-10-05,Ishan Kishan,50,25,5.0,3.0,1,0,0,73.0,200.0,PP Chawla,bowled
+8737,Mumbai Indians,Rajasthan Royals,1254093,2021-10-05,HH Pandya,5,6,0.0,0.0,0,0,0,9.0,83.33333333333334,AD Russell,caught
+10851,Rajasthan Royals,Mumbai Indians,1254093,2021-10-05,SV Samson,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,PP Ojha,bowled
+10850,Rajasthan Royals,Mumbai Indians,1254093,2021-10-05,S Gopal,0,1,0.0,0.0,0,0,1,2.0,0.0,KA Pollard,caught and bowled
+10849,Rajasthan Royals,Mumbai Indians,1254093,2021-10-05,S Dube,3,8,0.0,0.0,0,0,0,7.0,37.5,SR Watson,caught
+10847,Rajasthan Royals,Mumbai Indians,1254093,2021-10-05,Mustafizur Rahman,8,7,0.0,1.0,0,0,0,14.0,114.28571428571428,YK Pathan,run out
+10852,Rajasthan Royals,Mumbai Indians,1254093,2021-10-05,YBK Jaiswal,12,9,3.0,0.0,0,0,0,19.0,133.33333333333331,DP Nannes,caught
+10845,Rajasthan Royals,Mumbai Indians,1254093,2021-10-05,GD Phillips,4,13,0.0,0.0,0,0,0,8.0,30.76923076923077,RE van der Merwe,caught
+10844,Rajasthan Royals,Mumbai Indians,1254093,2021-10-05,E Lewis,24,20,3.0,1.0,0,0,0,33.0,120.0,S Sreesanth,bowled
+10843,Rajasthan Royals,Mumbai Indians,1254093,2021-10-05,DA Miller,15,23,0.0,0.0,0,0,0,19.0,65.21739130434783,RE van der Merwe,caught and bowled
+10842,Rajasthan Royals,Mumbai Indians,1254093,2021-10-05,C Sakariya,6,11,1.0,0.0,0,0,0,11.0,54.54545454545454,DP Nannes,caught
+10846,Rajasthan Royals,Mumbai Indians,1254093,2021-10-05,K Yadav,0,4,0.0,0.0,0,0,1,2.0,0.0,A Symonds,bowled
+14210,Sunrisers Hyderabad,Royal Challengers Bangalore,1254095,2021-10-06,JJ Roy,44,39,5.0,0.0,0,0,0,53.0,112.82051282051282,Imran Tahir,caught
+13092,Royal Challengers Bangalore,Sunrisers Hyderabad,1254095,2021-10-06,AB de Villiers,19,13,1.0,1.0,0,0,0,26.0,146.15384615384613,K Rabada,caught
+14211,Sunrisers Hyderabad,Royal Challengers Bangalore,1254095,2021-10-06,JO Holder,16,13,2.0,0.0,0,0,0,22.0,123.07692307692308,SR Watson,caught
+14212,Sunrisers Hyderabad,Royal Challengers Bangalore,1254095,2021-10-06,KS Williamson,31,31,4.0,0.0,0,0,0,39.0,100.0,A Nehra,run out
+13093,Royal Challengers Bangalore,Sunrisers Hyderabad,1254095,2021-10-06,D Padikkal,41,53,4.0,0.0,0,0,0,49.0,77.35849056603774,CV Varun,bowled
+13094,Royal Challengers Bangalore,Sunrisers Hyderabad,1254095,2021-10-06,DT Christian,1,4,0.0,0.0,0,0,0,5.0,25.0,YS Chahal,caught
+14213,Sunrisers Hyderabad,Royal Challengers Bangalore,1254095,2021-10-06,PK Garg,15,11,0.0,1.0,0,0,0,21.0,136.36363636363637,Swapnil Singh,caught and bowled
+13095,Royal Challengers Bangalore,Sunrisers Hyderabad,1254095,2021-10-06,GHS Garton,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,T Natarajan,caught
+13096,Royal Challengers Bangalore,Sunrisers Hyderabad,1254095,2021-10-06,GJ Maxwell,40,26,3.0,2.0,0,0,0,51.0,153.84615384615387,A Nortje,caught
+13097,Royal Challengers Bangalore,Sunrisers Hyderabad,1254095,2021-10-06,KS Bharat,12,10,1.0,1.0,0,0,0,19.0,120.0,Kartik Tyagi,run out
+13098,Royal Challengers Bangalore,Sunrisers Hyderabad,1254095,2021-10-06,Shahbaz Ahmed,14,9,2.0,0.0,0,0,0,20.0,155.55555555555557,RD Chahar,caught
+13099,Royal Challengers Bangalore,Sunrisers Hyderabad,1254095,2021-10-06,V Kohli,5,4,1.0,0.0,0,0,0,10.0,125.0,CV Varun,bowled
+14214,Sunrisers Hyderabad,Royal Challengers Bangalore,1254095,2021-10-06,Rashid Khan,7,9,1.0,0.0,0,0,0,12.0,77.77777777777779,A Mishra,caught
+14215,Sunrisers Hyderabad,Royal Challengers Bangalore,1254095,2021-10-06,WP Saha,10,8,1.0,0.0,0,0,0,15.0,125.0,RA Jadeja,lbw
+14209,Sunrisers Hyderabad,Royal Challengers Bangalore,1254095,2021-10-06,Abhishek Sharma,13,10,1.0,1.0,0,0,0,20.0,130.0,JJ Bumrah,caught
+14208,Sunrisers Hyderabad,Royal Challengers Bangalore,1254095,2021-10-06,Abdul Samad,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,A Nehra,caught
+10640,Rajasthan Royals,Kolkata Knight Riders,1254106,2021-10-07,JD Unadkat,6,5,1.0,0.0,0,0,0,11.0,120.0,TA Boult,caught
+10639,Rajasthan Royals,Kolkata Knight Riders,1254106,2021-10-07,GD Phillips,8,12,0.0,1.0,0,0,0,14.0,66.66666666666666,NM Coulter-Nile,caught
+10641,Rajasthan Royals,Kolkata Knight Riders,1254106,2021-10-07,LS Livingstone,6,6,1.0,0.0,0,0,0,11.0,100.0,KA Pollard,caught and bowled
+10642,Rajasthan Royals,Kolkata Knight Riders,1254106,2021-10-07,Mustafizur Rahman,0,3,0.0,0.0,0,0,1,2.0,0.0,AD Russell,caught
+10643,Rajasthan Royals,Kolkata Knight Riders,1254106,2021-10-07,R Tewatia,44,36,5.0,2.0,0,0,0,57.0,122.22222222222224,PP Chawla,bowled
+10638,Rajasthan Royals,Kolkata Knight Riders,1254106,2021-10-07,CH Morris,0,2,0.0,0.0,0,0,1,2.0,0.0,YS Chahal,caught
+10637,Rajasthan Royals,Kolkata Knight Riders,1254106,2021-10-07,C Sakariya,1,5,0.0,0.0,0,0,0,5.0,20.0,AN Ahmed,caught
+10636,Rajasthan Royals,Kolkata Knight Riders,1254106,2021-10-07,Anuj Rawat,0,1,0.0,0.0,0,0,1,2.0,0.0,MG Johnson,caught
+913,Chennai Super Kings,Punjab Kings,1254094,2021-10-07,AT Rayudu,4,5,0.0,0.0,0,0,0,8.0,80.0,P Awana,caught
+914,Chennai Super Kings,Punjab Kings,1254094,2021-10-07,DJ Bravo,4,3,1.0,0.0,0,0,0,9.0,133.33333333333331,PP Ojha,bowled
+6885,Kolkata Knight Riders,Rajasthan Royals,1254106,2021-10-07,EJG Morgan,13,12,1.0,1.0,0,0,0,20.0,108.33333333333331,M Jansen,caught
+6888,Kolkata Knight Riders,Rajasthan Royals,1254106,2021-10-07,RA Tripathi,21,15,3.0,0.0,0,0,0,28.0,140.0,JR Hazlewood,caught
+919,Chennai Super Kings,Punjab Kings,1254094,2021-10-07,RD Gaikwad,12,14,1.0,0.0,0,0,0,17.0,85.71428571428571,UT Yadav,bowled
+915,Chennai Super Kings,Punjab Kings,1254094,2021-10-07,F du Plessis,76,61,8.0,2.0,1,0,0,100.0,124.59016393442624,PV Tambe,caught
+916,Chennai Super Kings,Punjab Kings,1254094,2021-10-07,MM Ali,0,6,0.0,0.0,0,0,1,2.0,0.0,L Balaji,bowled
+6890,Kolkata Knight Riders,Rajasthan Royals,1254106,2021-10-07,VR Iyer,38,37,3.0,2.0,0,0,0,49.0,102.7027027027027,YS Chahal,caught
+6889,Kolkata Knight Riders,Rajasthan Royals,1254106,2021-10-07,Shubman Gill,56,47,4.0,2.0,1,0,0,76.0,119.14893617021276,Mohammed Shami,caught
+9569,Punjab Kings,Chennai Super Kings,1254094,2021-10-07,SN Khan,0,3,0.0,0.0,0,0,1,2.0,0.0,P Kumar,caught
+9568,Punjab Kings,Chennai Super Kings,1254094,2021-10-07,MC Henriques,3,3,0.0,0.0,0,0,0,7.0,100.0,SL Malinga,bowled
+917,Chennai Super Kings,Punjab Kings,1254094,2021-10-07,MS Dhoni,12,15,2.0,0.0,0,0,0,18.0,80.0,Shivam Sharma,caught
+920,Chennai Super Kings,Punjab Kings,1254094,2021-10-07,RV Uthappa,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,R Bhatia,caught
+9566,Punjab Kings,Chennai Super Kings,1254094,2021-10-07,M Shahrukh Khan,8,10,0.0,1.0,0,0,0,14.0,80.0,Sohail Tanvir,caught
+9564,Punjab Kings,Chennai Super Kings,1254094,2021-10-07,AK Markram,13,8,0.0,1.0,0,0,0,19.0,162.5,VY Mahesh,caught
+918,Chennai Super Kings,Punjab Kings,1254094,2021-10-07,RA Jadeja,15,17,1.0,0.0,0,0,0,20.0,88.23529411764706,P Negi,caught
+10646,Rajasthan Royals,Kolkata Knight Riders,1254106,2021-10-07,YBK Jaiswal,0,3,0.0,0.0,0,0,1,2.0,0.0,Z Khan,caught
+10645,Rajasthan Royals,Kolkata Knight Riders,1254106,2021-10-07,SV Samson,1,4,0.0,0.0,0,0,0,5.0,25.0,D Wiese,caught
+10644,Rajasthan Royals,Kolkata Knight Riders,1254106,2021-10-07,S Dube,18,20,0.0,1.0,0,0,0,24.0,90.0,A Ashish Reddy,bowled
+6887,Kolkata Knight Riders,Rajasthan Royals,1254106,2021-10-07,N Rana,12,5,1.0,1.0,0,0,0,19.0,240.0,T Natarajan,caught
+6886,Kolkata Knight Riders,Rajasthan Royals,1254106,2021-10-07,KD Karthik,14,11,0.0,1.0,0,0,0,20.0,127.27272727272728,R Dhawan,caught
+9565,Punjab Kings,Chennai Super Kings,1254094,2021-10-07,KL Rahul,98,47,7.0,8.0,1,0,0,133.0,208.5106382978724,R Vinay Kumar,caught
+9567,Punjab Kings,Chennai Super Kings,1254094,2021-10-07,MA Agarwal,12,12,2.0,0.0,0,0,0,18.0,100.0,PP Ojha,caught
+2428,Delhi Capitals,Royal Challengers Bangalore,1254101,2021-10-08,RV Patel,7,9,1.0,0.0,0,0,0,12.0,77.77777777777779,AA Jhunjhunwala,bowled
+9165,Mumbai Indians,Sunrisers Hyderabad,1254088,2021-10-08,HH Pandya,10,9,0.0,1.0,0,0,0,16.0,111.11111111111111,AD Russell,caught
+9172,Mumbai Indians,Sunrisers Hyderabad,1254088,2021-10-08,PP Chawla,0,2,0.0,0.0,0,0,1,2.0,0.0,R Dhawan,caught
+9171,Mumbai Indians,Sunrisers Hyderabad,1254088,2021-10-08,NM Coulter-Nile,3,3,0.0,0.0,0,0,0,7.0,100.0,M Jansen,caught
+9170,Mumbai Indians,Sunrisers Hyderabad,1254088,2021-10-08,KH Pandya,9,7,1.0,0.0,0,0,0,14.0,128.57142857142858,RD Chahar,caught
+9169,Mumbai Indians,Sunrisers Hyderabad,1254088,2021-10-08,KA Pollard,13,14,1.0,0.0,0,0,0,18.0,92.85714285714286,Ravi Bishnoi,bowled
+13867,Sunrisers Hyderabad,Mumbai Indians,1254088,2021-10-08,JJ Roy,34,22,6.0,0.0,0,0,0,44.0,154.54545454545453,Avesh Khan,caught
+13868,Sunrisers Hyderabad,Mumbai Indians,1254088,2021-10-08,JO Holder,1,2,0.0,0.0,0,0,0,5.0,50.0,Ravi Bishnoi,bowled
+13869,Sunrisers Hyderabad,Mumbai Indians,1254088,2021-10-08,MK Pandey,69,43,7.0,2.0,1,0,0,92.0,160.46511627906978,RD Chahar,caught
+13870,Sunrisers Hyderabad,Mumbai Indians,1254088,2021-10-08,Mohammad Nabi,3,4,0.0,0.0,0,0,0,7.0,75.0,M Jansen,caught
+13871,Sunrisers Hyderabad,Mumbai Indians,1254088,2021-10-08,PK Garg,29,21,2.0,1.0,0,0,0,37.0,138.0952380952381,R Dhawan,caught
+13872,Sunrisers Hyderabad,Mumbai Indians,1254088,2021-10-08,Rashid Khan,9,5,2.0,0.0,0,0,0,15.0,180.0,T Natarajan,caught
+13873,Sunrisers Hyderabad,Mumbai Indians,1254088,2021-10-08,S Kaul,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,JR Hazlewood,caught
+9168,Mumbai Indians,Sunrisers Hyderabad,1254088,2021-10-08,JJ Bumrah,5,2,1.0,0.0,0,0,0,10.0,250.0,Avesh Khan,caught
+9167,Mumbai Indians,Sunrisers Hyderabad,1254088,2021-10-08,JDS Neesham,0,1,0.0,0.0,0,0,1,2.0,0.0,CV Varun,bowled
+9166,Mumbai Indians,Sunrisers Hyderabad,1254088,2021-10-08,Ishan Kishan,84,33,11.0,4.0,1,0,0,115.0,254.54545454545453,AF Milne,caught
+13866,Sunrisers Hyderabad,Mumbai Indians,1254088,2021-10-08,Abhishek Sharma,33,16,4.0,1.0,0,0,0,43.0,206.25,CV Varun,bowled
+2426,Delhi Capitals,Royal Challengers Bangalore,1254101,2021-10-08,PP Shaw,48,33,4.0,2.0,0,0,0,60.0,145.45454545454547,R Vinay Kumar,caught
+11817,Royal Challengers Bangalore,Delhi Capitals,1254101,2021-10-08,AB de Villiers,26,26,2.0,1.0,0,0,0,34.0,100.0,MJ McClenaghan,caught
+11818,Royal Challengers Bangalore,Delhi Capitals,1254101,2021-10-08,D Padikkal,0,1,0.0,0.0,0,0,1,2.0,0.0,TA Boult,caught
+11819,Royal Challengers Bangalore,Delhi Capitals,1254101,2021-10-08,GJ Maxwell,51,34,8.0,0.0,1,0,0,71.0,150.0,Rashid Khan,bowled
+2427,Delhi Capitals,Royal Challengers Bangalore,1254101,2021-10-08,RR Pant,10,8,1.0,0.0,0,0,0,15.0,125.0,Azhar Mahmood,caught
+2429,Delhi Capitals,Royal Challengers Bangalore,1254101,2021-10-08,S Dhawan,43,35,3.0,2.0,0,0,0,54.0,122.85714285714286,RP Singh,bowled
+2430,Delhi Capitals,Royal Challengers Bangalore,1254101,2021-10-08,SO Hetmyer,29,22,2.0,2.0,0,0,0,39.0,131.8181818181818,Azhar Mahmood,caught
+2431,Delhi Capitals,Royal Challengers Bangalore,1254101,2021-10-08,SS Iyer,18,19,1.0,0.0,0,0,0,23.0,94.73684210526316,UT Yadav,caught
+13874,Sunrisers Hyderabad,Mumbai Indians,1254088,2021-10-08,WP Saha,2,5,0.0,0.0,0,0,0,6.0,40.0,Mohammed Shami,caught
+11820,Royal Challengers Bangalore,Delhi Capitals,1254101,2021-10-08,KS Bharat,78,56,3.0,4.0,1,0,0,101.0,139.28571428571428,I Sharma,caught
+11821,Royal Challengers Bangalore,Delhi Capitals,1254101,2021-10-08,V Kohli,4,8,0.0,0.0,0,0,0,8.0,50.0,HH Pandya,run out
+9173,Mumbai Indians,Sunrisers Hyderabad,1254088,2021-10-08,RG Sharma,18,13,3.0,0.0,0,0,0,25.0,138.46153846153845,T Natarajan,caught
+9174,Mumbai Indians,Sunrisers Hyderabad,1254088,2021-10-08,SA Yadav,82,41,13.0,3.0,1,0,0,113.0,200.0,JR Hazlewood,caught
+13865,Sunrisers Hyderabad,Mumbai Indians,1254088,2021-10-08,Abdul Samad,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,AF Milne,caught
+2090,Delhi Capitals,Chennai Super Kings,1254114,2021-10-10,PP Shaw,60,34,7.0,3.0,1,0,0,85.0,176.47058823529412,P Kumar,caught
+2089,Delhi Capitals,Chennai Super Kings,1254114,2021-10-10,AR Patel,10,11,1.0,0.0,0,0,0,15.0,90.9090909090909,A Nehra,caught and bowled
+127,Chennai Super Kings,Delhi Capitals,1254114,2021-10-10,MS Dhoni,18,7,3.0,1.0,0,0,0,27.0,257.1428571428572,DW Steyn,bowled
+129,Chennai Super Kings,Delhi Capitals,1254114,2021-10-10,RV Uthappa,63,45,7.0,2.0,1,0,0,86.0,140.0,A Nehra,caught and bowled
+128,Chennai Super Kings,Delhi Capitals,1254114,2021-10-10,RD Gaikwad,70,50,5.0,2.0,1,0,0,91.0,140.0,Y Venugopal Rao,caught
+2095,Delhi Capitals,Chennai Super Kings,1254114,2021-10-10,TK Curran,0,1,0.0,0.0,0,0,1,2.0,0.0,SR Watson,run out
+126,Chennai Super Kings,Delhi Capitals,1254114,2021-10-10,MM Ali,16,12,2.0,0.0,0,0,0,22.0,133.33333333333331,YK Pathan,caught
+125,Chennai Super Kings,Delhi Capitals,1254114,2021-10-10,F du Plessis,1,2,0.0,0.0,0,0,0,5.0,50.0,Sohail Tanvir,caught
+124,Chennai Super Kings,Delhi Capitals,1254114,2021-10-10,AT Rayudu,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,DW Steyn,caught
+2094,Delhi Capitals,Chennai Super Kings,1254114,2021-10-10,SS Iyer,1,8,0.0,0.0,0,0,0,5.0,12.5,JH Kallis,bowled
+2093,Delhi Capitals,Chennai Super Kings,1254114,2021-10-10,SO Hetmyer,37,27,3.0,1.0,0,0,0,46.0,137.03703703703704,SW Tait,caught
+2092,Delhi Capitals,Chennai Super Kings,1254114,2021-10-10,S Dhawan,7,7,1.0,0.0,0,0,0,12.0,100.0,R Vinay Kumar,bowled
+2091,Delhi Capitals,Chennai Super Kings,1254114,2021-10-10,RR Pant,51,38,3.0,2.0,1,0,0,70.0,134.21052631578948,TM Dilshan,caught
+130,Chennai Super Kings,Delhi Capitals,1254114,2021-10-10,SN Thakur,0,2,0.0,0.0,0,0,1,2.0,0.0,P Kumar,caught
+12417,Royal Challengers Bangalore,Kolkata Knight Riders,1254115,2021-10-11,V Kohli,39,33,5.0,0.0,0,0,0,48.0,118.1818181818182,NM Coulter-Nile,caught
+12411,Royal Challengers Bangalore,Kolkata Knight Riders,1254115,2021-10-11,D Padikkal,21,19,2.0,0.0,0,0,0,27.0,110.5263157894737,L Balaji,caught
+12415,Royal Challengers Bangalore,Kolkata Knight Riders,1254115,2021-10-11,KS Bharat,9,16,0.0,0.0,0,0,0,13.0,56.25,AN Ahmed,caught
+12416,Royal Challengers Bangalore,Kolkata Knight Riders,1254115,2021-10-11,Shahbaz Ahmed,13,15,1.0,0.0,0,0,0,18.0,86.66666666666667,YS Chahal,caught
+7145,Kolkata Knight Riders,Royal Challengers Bangalore,1254115,2021-10-11,VR Iyer,26,30,0.0,1.0,0,0,0,32.0,86.66666666666667,JR Hopes,lbw
+7144,Kolkata Knight Riders,Royal Challengers Bangalore,1254115,2021-10-11,Shubman Gill,29,18,4.0,0.0,0,0,0,37.0,161.11111111111111,YS Chahal,caught
+7143,Kolkata Knight Riders,Royal Challengers Bangalore,1254115,2021-10-11,Shakib Al Hasan,9,6,1.0,0.0,0,0,0,14.0,150.0,Mohammed Shami,caught
+7141,Kolkata Knight Riders,Royal Challengers Bangalore,1254115,2021-10-11,RA Tripathi,6,5,1.0,0.0,0,0,0,11.0,120.0,T Natarajan,caught
+7140,Kolkata Knight Riders,Royal Challengers Bangalore,1254115,2021-10-11,N Rana,23,26,1.0,1.0,0,0,0,30.0,88.46153846153845,R Dhawan,caught
+7139,Kolkata Knight Riders,Royal Challengers Bangalore,1254115,2021-10-11,KD Karthik,10,12,1.0,0.0,0,0,0,15.0,83.33333333333334,M Jansen,caught
+7142,Kolkata Knight Riders,Royal Challengers Bangalore,1254115,2021-10-11,SP Narine,26,17,0.0,3.0,0,0,0,36.0,152.94117647058823,JR Hazlewood,caught
+12410,Royal Challengers Bangalore,Kolkata Knight Riders,1254115,2021-10-11,AB de Villiers,11,9,1.0,0.0,0,0,0,16.0,122.22222222222224,Z Khan,caught
+12412,Royal Challengers Bangalore,Kolkata Knight Riders,1254115,2021-10-11,DT Christian,9,8,1.0,0.0,0,0,0,14.0,112.5,JD Unadkat,caught
+12413,Royal Challengers Bangalore,Kolkata Knight Riders,1254115,2021-10-11,GJ Maxwell,15,19,1.0,0.0,0,0,0,20.0,78.94736842105263,PV Tambe,caught
+12414,Royal Challengers Bangalore,Kolkata Knight Riders,1254115,2021-10-11,HV Patel,8,7,1.0,0.0,0,0,0,13.0,114.28571428571428,MG Johnson,caught
+7138,Kolkata Knight Riders,Royal Challengers Bangalore,1254115,2021-10-11,EJG Morgan,5,7,0.0,0.0,0,0,0,9.0,71.42857142857143,RD Chahar,caught
+2194,Delhi Capitals,Kolkata Knight Riders,1254116,2021-10-13,MP Stoinis,18,24,1.0,0.0,0,0,0,23.0,75.0,PP Ojha,bowled
+5979,Kolkata Knight Riders,Delhi Capitals,1254116,2021-10-13,Shubman Gill,46,48,1.0,1.0,0,0,0,53.0,95.83333333333334,HH Pandya,run out
+5978,Kolkata Knight Riders,Delhi Capitals,1254116,2021-10-13,Shakib Al Hasan,0,2,0.0,0.0,0,0,1,2.0,0.0,I Sharma,caught
+2193,Delhi Capitals,Kolkata Knight Riders,1254116,2021-10-13,AR Patel,4,4,0.0,0.0,0,0,0,8.0,100.0,P Awana,caught
+5977,Kolkata Knight Riders,Delhi Capitals,1254116,2021-10-13,SP Narine,0,1,0.0,0.0,0,0,1,2.0,0.0,Rashid Khan,bowled
+5976,Kolkata Knight Riders,Delhi Capitals,1254116,2021-10-13,RA Tripathi,12,11,0.0,1.0,0,0,0,18.0,109.09090909090908,TA Boult,caught
+5975,Kolkata Knight Riders,Delhi Capitals,1254116,2021-10-13,N Rana,13,12,0.0,1.0,0,0,0,19.0,108.33333333333331,MJ McClenaghan,caught
+5974,Kolkata Knight Riders,Delhi Capitals,1254116,2021-10-13,KD Karthik,0,3,0.0,0.0,0,0,1,2.0,0.0,S Gopal,caught
+5973,Kolkata Knight Riders,Delhi Capitals,1254116,2021-10-13,EJG Morgan,0,3,0.0,0.0,0,0,1,2.0,0.0,PP Chawla,caught
+5980,Kolkata Knight Riders,Delhi Capitals,1254116,2021-10-13,VR Iyer,55,44,4.0,3.0,1,0,0,77.0,125.0,K Rabada,caught
+2196,Delhi Capitals,Kolkata Knight Riders,1254116,2021-10-13,RR Pant,6,6,1.0,0.0,0,0,0,11.0,100.0,L Balaji,bowled
+2197,Delhi Capitals,Kolkata Knight Riders,1254116,2021-10-13,S Dhawan,36,40,1.0,2.0,0,0,0,45.0,90.0,Shivam Sharma,caught
+2198,Delhi Capitals,Kolkata Knight Riders,1254116,2021-10-13,SO Hetmyer,17,10,0.0,2.0,0,0,0,25.0,170.0,P Negi,caught
+2199,Delhi Capitals,Kolkata Knight Riders,1254116,2021-10-13,SS Iyer,30,28,1.0,1.0,0,0,0,37.0,107.14285714285714,UT Yadav,bowled
+2195,Delhi Capitals,Kolkata Knight Riders,1254116,2021-10-13,PP Shaw,18,12,2.0,1.0,0,0,0,26.0,150.0,PV Tambe,caught
+577,Chennai Super Kings,Kolkata Knight Riders,1254117,2021-10-15,F du Plessis,86,61,7.0,3.0,1,0,0,111.0,140.98360655737704,PP Ojha,caught
+579,Chennai Super Kings,Kolkata Knight Riders,1254117,2021-10-15,RD Gaikwad,32,27,3.0,1.0,0,0,0,41.0,118.5185185185185,JJ van der Wath,caught
+580,Chennai Super Kings,Kolkata Knight Riders,1254117,2021-10-15,RV Uthappa,31,16,0.0,3.0,0,0,0,41.0,193.75,Harbhajan Singh,bowled
+5849,Kolkata Knight Riders,Chennai Super Kings,1254117,2021-10-15,N Rana,0,1,0.0,0.0,0,0,1,2.0,0.0,TA Boult,caught
+578,Chennai Super Kings,Kolkata Knight Riders,1254117,2021-10-15,MM Ali,37,20,2.0,3.0,0,0,0,49.0,185.0,SL Malinga,run out
+5850,Kolkata Knight Riders,Chennai Super Kings,1254117,2021-10-15,RA Tripathi,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,Rashid Khan,bowled
+5848,Kolkata Knight Riders,Chennai Super Kings,1254117,2021-10-15,LH Ferguson,18,13,1.0,1.0,0,0,0,25.0,138.46153846153845,MJ McClenaghan,caught
+5846,Kolkata Knight Riders,Chennai Super Kings,1254117,2021-10-15,EJG Morgan,4,8,0.0,0.0,0,0,0,8.0,50.0,PP Chawla,caught
+5847,Kolkata Knight Riders,Chennai Super Kings,1254117,2021-10-15,KD Karthik,9,7,0.0,1.0,0,0,0,15.0,128.57142857142858,S Gopal,caught
+5854,Kolkata Knight Riders,Chennai Super Kings,1254117,2021-10-15,Shubman Gill,51,46,6.0,0.0,1,0,0,69.0,110.86956521739133,CV Varun,bowled
+5853,Kolkata Knight Riders,Chennai Super Kings,1254117,2021-10-15,Shivam Mavi,20,14,1.0,2.0,0,0,0,29.0,142.85714285714286,K Rabada,caught
+5855,Kolkata Knight Riders,Chennai Super Kings,1254117,2021-10-15,VR Iyer,50,32,5.0,3.0,1,0,0,73.0,156.25,YS Chahal,caught
+5851,Kolkata Knight Riders,Chennai Super Kings,1254117,2021-10-15,SP Narine,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,I Sharma,caught
+5852,Kolkata Knight Riders,Chennai Super Kings,1254117,2021-10-15,Shakib Al Hasan,0,2,0.0,0.0,0,0,1,2.0,0.0,HH Pandya,run out

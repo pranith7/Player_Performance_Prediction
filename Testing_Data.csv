@@ -1,0 +1,1159 @@
+,batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+586,Chennai Super Kings,Kolkata Knight Riders,1304047,2022-03-26,RV Uthappa,28,23,2.0,2.0,0,0,0,38.0,121.73913043478262,R Vinay Kumar,caught
+585,Chennai Super Kings,Kolkata Knight Riders,1304047,2022-03-26,RD Gaikwad,0,5,0.0,0.0,0,0,1,2.0,0.0,KA Pollard,caught
+584,Chennai Super Kings,Kolkata Knight Riders,1304047,2022-03-26,RA Jadeja,26,29,0.0,1.0,0,0,0,32.0,89.65517241379311,CH Gayle,caught
+583,Chennai Super Kings,Kolkata Knight Riders,1304047,2022-03-26,MS Dhoni,50,38,7.0,1.0,1,0,0,71.0,131.57894736842107,A Mithun,caught
+582,Chennai Super Kings,Kolkata Knight Riders,1304047,2022-03-26,DP Conway,3,8,0.0,0.0,0,0,0,7.0,37.5,PP Ojha,run out
+587,Chennai Super Kings,Kolkata Knight Riders,1304047,2022-03-26,S Dube,3,6,0.0,0.0,0,0,0,7.0,50.0,Azhar Mahmood,caught
+5861,Kolkata Knight Riders,Chennai Super Kings,1304047,2022-03-26,VR Iyer,16,16,2.0,0.0,0,0,0,22.0,100.0,Avesh Khan,bowled
+5860,Kolkata Knight Riders,Chennai Super Kings,1304047,2022-03-26,SW Billings,25,22,1.0,1.0,0,0,0,32.0,113.63636363636364,CV Varun,bowled
+5859,Kolkata Knight Riders,Chennai Super Kings,1304047,2022-03-26,SS Iyer,20,19,1.0,0.0,0,0,0,25.0,105.26315789473684,RD Chahar,caught
+5858,Kolkata Knight Riders,Chennai Super Kings,1304047,2022-03-26,SP Jackson,3,3,0.0,0.0,0,0,0,7.0,100.0,Kartik Tyagi,run out
+5857,Kolkata Knight Riders,Chennai Super Kings,1304047,2022-03-26,N Rana,21,17,2.0,1.0,0,0,0,29.0,123.52941176470588,A Nortje,caught
+5856,Kolkata Knight Riders,Chennai Super Kings,1304047,2022-03-26,AM Rahane,44,34,6.0,1.0,0,0,0,56.0,129.41176470588235,T Natarajan,caught
+581,Chennai Super Kings,Kolkata Knight Riders,1304047,2022-03-26,AT Rayudu,15,17,1.0,1.0,0,0,0,22.0,88.23529411764706,JE Taylor,caught
+9729,Punjab Kings,Royal Challengers Bangalore,1304049,2022-03-27,MA Agarwal,32,26,2.0,2.0,0,0,0,42.0,123.07692307692308,SK Trivedi,caught
+9730,Punjab Kings,Royal Challengers Bangalore,1304049,2022-03-27,OF Smith,25,9,1.0,3.0,0,0,0,36.0,277.77777777777777,R Bhatia,bowled
+9731,Punjab Kings,Royal Challengers Bangalore,1304049,2022-03-27,PBB Rajapaksa,43,23,2.0,4.0,0,0,0,57.0,186.95652173913044,P Awana,caught
+9732,Punjab Kings,Royal Challengers Bangalore,1304049,2022-03-27,RA Bawa,0,1,0.0,0.0,0,0,1,2.0,0.0,VR Aaron,caught
+9733,Punjab Kings,Royal Challengers Bangalore,1304049,2022-03-27,S Dhawan,43,29,5.0,1.0,0,0,0,54.0,148.27586206896552,MM Patel,caught
+2299,Delhi Capitals,Mumbai Indians,1304048,2022-03-27,TL Seifert,21,16,4.0,0.0,0,0,0,29.0,131.25,JJ van der Wath,caught
+9728,Punjab Kings,Royal Challengers Bangalore,1304049,2022-03-27,M Shahrukh Khan,24,26,1.0,2.0,0,0,0,33.0,92.3076923076923,RP Singh,caught
+7841,Mumbai Indians,Delhi Capitals,1304048,2022-03-27,KA Pollard,3,6,0.0,0.0,0,0,0,7.0,50.0,PV Tambe,caught
+9727,Punjab Kings,Royal Challengers Bangalore,1304049,2022-03-27,LS Livingstone,19,12,0.0,2.0,0,0,0,27.0,158.33333333333331,DT Christian,bowled
+7842,Mumbai Indians,Delhi Capitals,1304048,2022-03-27,RG Sharma,41,33,4.0,2.0,0,0,0,53.0,124.24242424242424,MG Johnson,caught
+7843,Mumbai Indians,Delhi Capitals,1304048,2022-03-27,TH David,12,8,0.0,1.0,0,0,0,18.0,150.0,AN Ahmed,caught
+7844,Mumbai Indians,Delhi Capitals,1304048,2022-03-27,Tilak Varma,22,15,3.0,0.0,0,0,0,29.0,146.66666666666666,YS Chahal,caught
+2292,Delhi Capitals,Mumbai Indians,1304048,2022-03-27,AR Patel,38,17,2.0,3.0,0,0,0,50.0,223.52941176470588,R Vinay Kumar,bowled
+2293,Delhi Capitals,Mumbai Indians,1304048,2022-03-27,Lalit Yadav,48,42,4.0,2.0,0,0,0,60.0,114.28571428571428,SW Tait,caught
+2294,Delhi Capitals,Mumbai Indians,1304048,2022-03-27,Mandeep Singh,0,2,0.0,0.0,0,0,1,2.0,0.0,JH Kallis,bowled
+2295,Delhi Capitals,Mumbai Indians,1304048,2022-03-27,PP Shaw,38,24,4.0,2.0,0,0,0,50.0,158.33333333333331,SR Watson,run out
+2296,Delhi Capitals,Mumbai Indians,1304048,2022-03-27,R Powell,0,2,0.0,0.0,0,0,1,2.0,0.0,V Sehwag,caught
+7840,Mumbai Indians,Delhi Capitals,1304048,2022-03-27,Ishan Kishan,81,48,11.0,2.0,1,0,0,108.0,168.75,JD Unadkat,caught
+2298,Delhi Capitals,Mumbai Indians,1304048,2022-03-27,SN Thakur,22,11,4.0,0.0,0,0,0,30.0,200.0,SL Malinga,run out
+2297,Delhi Capitals,Mumbai Indians,1304048,2022-03-27,RR Pant,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,PP Ojha,caught
+7839,Mumbai Indians,Delhi Capitals,1304048,2022-03-27,DR Sams,7,3,0.0,1.0,0,0,0,13.0,233.3333333333333,L Balaji,caught
+12710,Royal Challengers Bangalore,Punjab Kings,1304049,2022-03-27,V Kohli,41,31,1.0,2.0,0,0,0,50.0,132.25806451612902,HH Pandya,run out
+12709,Royal Challengers Bangalore,Punjab Kings,1304049,2022-03-27,KD Karthik,32,14,3.0,3.0,0,0,0,45.0,228.57142857142856,I Sharma,caught
+12708,Royal Challengers Bangalore,Punjab Kings,1304049,2022-03-27,F du Plessis,88,61,3.0,7.0,1,0,0,117.0,144.2622950819672,Rashid Khan,bowled
+12707,Royal Challengers Bangalore,Punjab Kings,1304049,2022-03-27,Anuj Rawat,21,21,2.0,1.0,0,0,0,29.0,100.0,TA Boult,caught
+7838,Mumbai Indians,Delhi Capitals,1304048,2022-03-27,Anmolpreet Singh,8,9,0.0,0.0,0,0,0,12.0,88.88888888888889,Z Khan,caught
+7347,Lucknow Super Giants,Gujarat Titans,1304050,2022-03-28,Q de Kock,7,9,1.0,0.0,0,0,0,12.0,77.77777777777779,SL Malinga,bowled
+7344,Lucknow Super Giants,Gujarat Titans,1304050,2022-03-28,KL Rahul,0,1,0.0,0.0,0,0,1,2.0,0.0,Z Khan,caught
+7346,Lucknow Super Giants,Gujarat Titans,1304050,2022-03-28,PVD Chameera,1,1,0.0,0.0,0,0,0,5.0,100.0,HV Patel,caught
+7345,Lucknow Super Giants,Gujarat Titans,1304050,2022-03-28,MK Pandey,6,7,1.0,0.0,0,0,0,11.0,85.71428571428571,Harbhajan Singh,lbw
+7342,Lucknow Super Giants,Gujarat Titans,1304050,2022-03-28,E Lewis,10,9,2.0,0.0,0,0,0,16.0,111.11111111111111,A Ashish Reddy,bowled
+3997,Gujarat Titans,Lucknow Super Giants,1304050,2022-03-28,R Tewatia,40,25,5.0,2.0,0,0,0,53.0,160.0,JH Kallis,caught
+7343,Lucknow Super Giants,Gujarat Titans,1304050,2022-03-28,KH Pandya,21,14,3.0,0.0,0,0,0,28.0,150.0,D Wiese,caught
+3993,Gujarat Titans,Lucknow Super Giants,1304050,2022-03-28,A Manohar,15,7,3.0,0.0,0,0,0,22.0,214.28571428571428,PP Ojha,bowled
+3994,Gujarat Titans,Lucknow Super Giants,1304050,2022-03-28,DA Miller,30,21,1.0,2.0,0,0,0,39.0,142.85714285714286,DP Nannes,caught
+3995,Gujarat Titans,Lucknow Super Giants,1304050,2022-03-28,HH Pandya,33,28,5.0,1.0,0,0,0,44.0,117.85714285714286,Harmeet Singh,caught
+3996,Gujarat Titans,Lucknow Super Giants,1304050,2022-03-28,MS Wade,30,30,4.0,0.0,0,0,0,38.0,100.0,Z Khan,caught
+3999,Gujarat Titans,Lucknow Super Giants,1304050,2022-03-28,V Shankar,4,7,0.0,0.0,0,0,0,8.0,57.14285714285714,Z Khan,caught
+3998,Gujarat Titans,Lucknow Super Giants,1304050,2022-03-28,Shubman Gill,0,3,0.0,0.0,0,0,1,2.0,0.0,RJ Harris,bowled
+7341,Lucknow Super Giants,Gujarat Titans,1304050,2022-03-28,DJ Hooda,55,41,6.0,2.0,1,0,0,77.0,134.14634146341464,PP Chawla,bowled
+7340,Lucknow Super Giants,Gujarat Titans,1304050,2022-03-28,A Badoni,54,42,4.0,3.0,1,0,0,76.0,128.57142857142858,AD Russell,caught
+14044,Sunrisers Hyderabad,Rajasthan Royals,1304051,2022-03-29,RA Tripathi,0,3,0.0,0.0,0,0,1,2.0,0.0,BA Bhatt,run out
+14043,Sunrisers Hyderabad,Rajasthan Royals,1304051,2022-03-29,R Shepherd,24,18,0.0,2.0,0,0,0,32.0,133.33333333333331,AB Dinda,caught
+14042,Sunrisers Hyderabad,Rajasthan Royals,1304051,2022-03-29,N Pooran,0,10,0.0,0.0,0,0,1,2.0,0.0,Z Khan,caught
+14041,Sunrisers Hyderabad,Rajasthan Royals,1304051,2022-03-29,KS Williamson,2,7,0.0,0.0,0,0,0,6.0,28.57142857142857,M Morkel,caught
+14040,Sunrisers Hyderabad,Rajasthan Royals,1304051,2022-03-29,B Kumar,3,4,0.0,0.0,0,0,0,7.0,75.0,DW Steyn,caught
+14045,Sunrisers Hyderabad,Rajasthan Royals,1304051,2022-03-29,Washington Sundar,40,16,5.0,2.0,0,0,0,53.0,250.0,DT Christian,bowled
+14039,Sunrisers Hyderabad,Rajasthan Royals,1304051,2022-03-29,Abhishek Sharma,9,19,1.0,0.0,0,0,0,14.0,47.368421052631575,PP Ojha,run out
+14038,Sunrisers Hyderabad,Rajasthan Royals,1304051,2022-03-29,Abdul Samad,4,6,0.0,0.0,0,0,0,8.0,66.66666666666666,S Aravind,caught
+14037,Sunrisers Hyderabad,Rajasthan Royals,1304051,2022-03-29,AK Markram,57,42,5.0,2.0,1,0,0,78.0,135.71428571428572,Z Khan,caught
+11226,Rajasthan Royals,Sunrisers Hyderabad,1304051,2022-03-29,D Padikkal,41,30,4.0,2.0,0,0,0,53.0,136.66666666666666,RE van der Merwe,caught
+11227,Rajasthan Royals,Sunrisers Hyderabad,1304051,2022-03-29,JC Buttler,35,28,3.0,3.0,0,0,0,48.0,125.0,A Symonds,bowled
+11228,Rajasthan Royals,Sunrisers Hyderabad,1304051,2022-03-29,NM Coulter-Nile,1,2,0.0,0.0,0,0,0,5.0,50.0,YK Pathan,run out
+11229,Rajasthan Royals,Sunrisers Hyderabad,1304051,2022-03-29,R Parag,12,9,2.0,0.0,0,0,0,18.0,133.33333333333331,DW Steyn,caught
+11230,Rajasthan Royals,Sunrisers Hyderabad,1304051,2022-03-29,SO Hetmyer,32,15,2.0,3.0,0,0,0,44.0,213.3333333333333,SR Watson,caught
+11231,Rajasthan Royals,Sunrisers Hyderabad,1304051,2022-03-29,SV Samson,55,29,3.0,5.0,1,0,0,80.0,189.6551724137931,KA Pollard,caught and bowled
+11232,Rajasthan Royals,Sunrisers Hyderabad,1304051,2022-03-29,YBK Jaiswal,20,17,2.0,1.0,0,0,0,28.0,117.64705882352942,PP Ojha,bowled
+7150,Kolkata Knight Riders,Royal Challengers Bangalore,1304052,2022-03-30,SP Jackson,0,1,0.0,0.0,0,0,1,2.0,0.0,PP Ojha,caught
+7151,Kolkata Knight Riders,Royal Challengers Bangalore,1304052,2022-03-30,SP Narine,12,8,1.0,1.0,0,0,0,19.0,150.0,VY Mahesh,caught
+7152,Kolkata Knight Riders,Royal Challengers Bangalore,1304052,2022-03-30,SS Iyer,13,10,2.0,0.0,0,0,0,19.0,130.0,R Vinay Kumar,caught
+7153,Kolkata Knight Riders,Royal Challengers Bangalore,1304052,2022-03-30,SW Billings,14,15,0.0,1.0,0,0,0,20.0,93.33333333333331,Sohail Tanvir,caught
+7154,Kolkata Knight Riders,Royal Challengers Bangalore,1304052,2022-03-30,TG Southee,1,5,0.0,0.0,0,0,0,5.0,20.0,PP Ojha,caught
+7156,Kolkata Knight Riders,Royal Challengers Bangalore,1304052,2022-03-30,VR Iyer,10,14,1.0,0.0,0,0,0,15.0,71.42857142857143,P Kumar,caught
+12425,Royal Challengers Bangalore,Kolkata Knight Riders,1304052,2022-03-30,Shahbaz Ahmed,27,21,0.0,3.0,0,0,0,37.0,128.57142857142858,Harbhajan Singh,lbw
+12418,Royal Challengers Bangalore,Kolkata Knight Riders,1304052,2022-03-30,Anuj Rawat,0,2,0.0,0.0,0,0,1,2.0,0.0,TA Boult,caught
+12419,Royal Challengers Bangalore,Kolkata Knight Riders,1304052,2022-03-30,DJ Willey,18,30,3.0,0.0,0,0,0,25.0,60.0,KA Pollard,caught and bowled
+12420,Royal Challengers Bangalore,Kolkata Knight Riders,1304052,2022-03-30,F du Plessis,5,4,1.0,0.0,0,0,0,10.0,125.0,AD Russell,caught
+12421,Royal Challengers Bangalore,Kolkata Knight Riders,1304052,2022-03-30,HV Patel,10,6,2.0,0.0,0,0,0,16.0,166.66666666666669,PP Chawla,bowled
+12422,Royal Challengers Bangalore,Kolkata Knight Riders,1304052,2022-03-30,KD Karthik,14,8,1.0,1.0,0,0,0,21.0,175.0,A Ashish Reddy,bowled
+12423,Royal Challengers Bangalore,Kolkata Knight Riders,1304052,2022-03-30,PWH de Silva,4,3,1.0,0.0,0,0,0,9.0,133.33333333333331,D Wiese,caught
+12424,Royal Challengers Bangalore,Kolkata Knight Riders,1304052,2022-03-30,SE Rutherford,28,40,1.0,1.0,0,0,0,35.0,70.0,Z Khan,caught
+12426,Royal Challengers Bangalore,Kolkata Knight Riders,1304052,2022-03-30,V Kohli,12,7,2.0,0.0,0,0,0,18.0,171.42857142857142,HV Patel,caught
+7148,Kolkata Knight Riders,Royal Challengers Bangalore,1304052,2022-03-30,CV Varun,10,16,2.0,0.0,0,0,0,16.0,62.5,Mohammad Asif,caught
+7146,Kolkata Knight Riders,Royal Challengers Bangalore,1304052,2022-03-30,AD Russell,25,19,1.0,3.0,0,0,0,36.0,131.57894736842107,MA Khote,caught
+7147,Kolkata Knight Riders,Royal Challengers Bangalore,1304052,2022-03-30,AM Rahane,9,10,1.0,0.0,0,0,0,14.0,90.0,Z Khan,caught
+7149,Kolkata Knight Riders,Royal Challengers Bangalore,1304052,2022-03-30,N Rana,10,5,1.0,1.0,0,0,0,17.0,200.0,SK Warne,caught
+7155,Kolkata Knight Riders,Royal Challengers Bangalore,1304052,2022-03-30,UT Yadav,18,12,2.0,1.0,0,0,0,26.0,150.0,SL Malinga,bowled
+588,Chennai Super Kings,Lucknow Super Giants,1304053,2022-03-31,AT Rayudu,27,20,2.0,2.0,0,0,0,37.0,135.0,AA Jhunjhunwala,bowled
+589,Chennai Super Kings,Lucknow Super Giants,1304053,2022-03-31,D Pretorius,0,1,0.0,0.0,0,0,1,2.0,0.0,RP Singh,bowled
+591,Chennai Super Kings,Lucknow Super Giants,1304053,2022-03-31,MM Ali,35,22,4.0,2.0,0,0,0,47.0,159.0909090909091,UT Yadav,caught
+592,Chennai Super Kings,Lucknow Super Giants,1304053,2022-03-31,MS Dhoni,16,6,2.0,1.0,0,0,0,24.0,266.66666666666663,AB Dinda,caught
+7328,Lucknow Super Giants,Chennai Super Kings,1304053,2022-03-31,Q de Kock,61,48,9.0,0.0,1,0,0,82.0,127.08333333333331,NLTC Perera,caught
+7327,Lucknow Super Giants,Chennai Super Kings,1304053,2022-03-31,MK Pandey,5,8,0.0,0.0,0,0,0,9.0,62.5,PP Ojha,caught
+7325,Lucknow Super Giants,Chennai Super Kings,1304053,2022-03-31,E Lewis,55,25,6.0,3.0,1,0,0,79.0,220.00000000000003,JP Faulkner,caught
+7324,Lucknow Super Giants,Chennai Super Kings,1304053,2022-03-31,DJ Hooda,13,8,1.0,1.0,0,0,0,20.0,162.5,JH Kallis,run out
+7326,Lucknow Super Giants,Chennai Super Kings,1304053,2022-03-31,KL Rahul,40,26,2.0,3.0,0,0,0,52.0,153.84615384615387,R Sathish,run out
+596,Chennai Super Kings,Lucknow Super Giants,1304053,2022-03-31,S Dube,49,32,5.0,2.0,0,0,0,62.0,153.125,L Balaji,bowled
+595,Chennai Super Kings,Lucknow Super Giants,1304053,2022-03-31,RV Uthappa,50,28,8.0,1.0,1,0,0,72.0,178.57142857142858,PV Tambe,caught
+594,Chennai Super Kings,Lucknow Super Giants,1304053,2022-03-31,RD Gaikwad,1,4,0.0,0.0,0,0,0,5.0,25.0,PP Ojha,bowled
+593,Chennai Super Kings,Lucknow Super Giants,1304053,2022-03-31,RA Jadeja,17,9,3.0,0.0,0,0,0,24.0,188.88888888888889,P Awana,caught
+7323,Lucknow Super Giants,Chennai Super Kings,1304053,2022-03-31,A Badoni,19,14,0.0,2.0,0,0,0,27.0,135.71428571428572,UT Yadav,caught
+590,Chennai Super Kings,Lucknow Super Giants,1304053,2022-03-31,DJ Bravo,1,1,0.0,0.0,0,0,0,5.0,100.0,Azhar Mahmood,caught
+9662,Punjab Kings,Kolkata Knight Riders,1304054,2022-04-01,RD Chahar,0,2,0.0,0.0,0,0,1,2.0,0.0,HH Pandya,run out
+6711,Kolkata Knight Riders,Punjab Kings,1304054,2022-04-01,VR Iyer,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,HV Patel,caught
+6710,Kolkata Knight Riders,Punjab Kings,1304054,2022-04-01,SW Billings,24,23,1.0,1.0,0,0,0,31.0,104.34782608695652,Harbhajan Singh,lbw
+6709,Kolkata Knight Riders,Punjab Kings,1304054,2022-04-01,SS Iyer,26,15,5.0,0.0,0,0,0,35.0,173.33333333333334,Z Khan,caught
+6708,Kolkata Knight Riders,Punjab Kings,1304054,2022-04-01,N Rana,0,2,0.0,0.0,0,0,1,2.0,0.0,D Wiese,caught
+9663,Punjab Kings,Kolkata Knight Riders,1304054,2022-04-01,S Dhawan,16,17,1.0,1.0,0,0,0,23.0,94.11764705882352,K Rabada,caught
+9661,Punjab Kings,Kolkata Knight Riders,1304054,2022-04-01,RA Bawa,11,13,1.0,0.0,0,0,0,16.0,84.61538461538461,I Sharma,caught
+9659,Punjab Kings,Kolkata Knight Riders,1304054,2022-04-01,OF Smith,9,15,0.0,1.0,0,0,0,15.0,60.0,TA Boult,caught
+6706,Kolkata Knight Riders,Punjab Kings,1304054,2022-04-01,AD Russell,70,33,2.0,8.0,1,0,0,100.0,212.12121212121207,PP Chawla,bowled
+9653,Punjab Kings,Kolkata Knight Riders,1304054,2022-04-01,Arshdeep Singh,0,1,0.0,0.0,0,0,1,2.0,0.0,BA Stokes,bowled
+9660,Punjab Kings,Kolkata Knight Riders,1304054,2022-04-01,PBB Rajapaksa,31,9,3.0,3.0,0,0,0,44.0,344.44444444444446,Rashid Khan,bowled
+9654,Punjab Kings,Kolkata Knight Riders,1304054,2022-04-01,Harpreet Brar,14,18,1.0,1.0,0,0,0,21.0,77.77777777777779,SP Narine,lbw
+6707,Kolkata Knight Riders,Punjab Kings,1304054,2022-04-01,AM Rahane,12,12,3.0,0.0,0,0,0,19.0,100.0,A Ashish Reddy,bowled
+9656,Punjab Kings,Kolkata Knight Riders,1304054,2022-04-01,LS Livingstone,19,17,1.0,1.0,0,0,0,26.0,111.76470588235294,PP Chawla,caught
+9657,Punjab Kings,Kolkata Knight Riders,1304054,2022-04-01,M Shahrukh Khan,0,5,0.0,0.0,0,0,1,2.0,0.0,S Gopal,caught
+9658,Punjab Kings,Kolkata Knight Riders,1304054,2022-04-01,MA Agarwal,1,5,0.0,0.0,0,0,0,5.0,20.0,MJ McClenaghan,caught
+9655,Punjab Kings,Kolkata Knight Riders,1304054,2022-04-01,K Rabada,25,16,4.0,1.0,0,0,0,35.0,156.25,M Markande,lbw
+10857,Rajasthan Royals,Mumbai Indians,1304055,2022-04-02,R Parag,5,4,1.0,0.0,0,0,0,10.0,125.0,Z Khan,caught
+10858,Rajasthan Royals,Mumbai Indians,1304055,2022-04-02,SO Hetmyer,35,17,3.0,3.0,0,0,0,48.0,205.8823529411765,KA Pollard,caught
+10859,Rajasthan Royals,Mumbai Indians,1304055,2022-04-02,SV Samson,30,21,1.0,3.0,0,0,0,41.0,142.85714285714286,R Sharma,stumped
+10861,Rajasthan Royals,Mumbai Indians,1304055,2022-04-02,YBK Jaiswal,1,2,0.0,0.0,0,0,0,5.0,50.0,RA Jadeja,caught
+10856,Rajasthan Royals,Mumbai Indians,1304055,2022-04-02,R Ashwin,1,1,0.0,0.0,0,0,0,5.0,100.0,RJ Harris,bowled
+10855,Rajasthan Royals,Mumbai Indians,1304055,2022-04-02,NA Saini,2,2,0.0,0.0,0,0,0,6.0,100.0,JH Kallis,caught
+10854,Rajasthan Royals,Mumbai Indians,1304055,2022-04-02,JC Buttler,100,71,11.0,5.0,1,1,0,149.0,140.8450704225352,Z Khan,caught
+10853,Rajasthan Royals,Mumbai Indians,1304055,2022-04-02,D Padikkal,7,7,1.0,0.0,0,0,0,12.0,100.0,Harmeet Singh,caught
+10860,Rajasthan Royals,Mumbai Indians,1304055,2022-04-02,TA Boult,1,1,0.0,0.0,0,0,0,5.0,100.0,PP Ojha,stumped
+3977,Gujarat Titans,Delhi Capitals,1304056,2022-04-02,HH Pandya,31,27,4.0,0.0,0,0,0,39.0,114.8148148148148,R Vinay Kumar,caught
+2116,Delhi Capitals,Gujarat Titans,1304056,2022-04-02,SN Thakur,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,L Balaji,bowled
+2117,Delhi Capitals,Gujarat Titans,1304056,2022-04-02,TL Seifert,3,5,0.0,0.0,0,0,0,7.0,60.0,Shivam Sharma,caught
+8749,Mumbai Indians,Rajasthan Royals,1304055,2022-04-02,Tilak Varma,61,34,3.0,5.0,1,0,0,86.0,179.41176470588235,Imran Tahir,caught
+8748,Mumbai Indians,Rajasthan Royals,1304055,2022-04-02,TH David,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,JJ Bumrah,caught
+8747,Mumbai Indians,Rajasthan Royals,1304055,2022-04-02,RG Sharma,10,6,0.0,1.0,0,0,0,16.0,166.66666666666669,A Nehra,caught
+8746,Mumbai Indians,Rajasthan Royals,1304055,2022-04-02,M Ashwin,6,8,1.0,0.0,0,0,0,11.0,75.0,HV Patel,caught
+8745,Mumbai Indians,Rajasthan Royals,1304055,2022-04-02,KA Pollard,22,29,3.0,1.0,0,0,0,31.0,75.86206896551724,MM Sharma,caught
+8744,Mumbai Indians,Rajasthan Royals,1304055,2022-04-02,JJ Bumrah,0,1,0.0,0.0,0,0,1,2.0,0.0,SL Malinga,bowled
+8743,Mumbai Indians,Rajasthan Royals,1304055,2022-04-02,Ishan Kishan,54,44,5.0,1.0,1,0,0,73.0,122.72727272727272,HV Patel,caught
+8742,Mumbai Indians,Rajasthan Royals,1304055,2022-04-02,DR Sams,0,1,0.0,0.0,0,0,1,2.0,0.0,Harbhajan Singh,lbw
+8741,Mumbai Indians,Rajasthan Royals,1304055,2022-04-02,Anmolpreet Singh,5,4,1.0,0.0,0,0,0,10.0,125.0,Z Khan,caught
+2107,Delhi Capitals,Gujarat Titans,1304056,2022-04-02,AR Patel,8,4,2.0,0.0,0,0,0,14.0,200.0,Azhar Mahmood,caught
+2108,Delhi Capitals,Gujarat Titans,1304056,2022-04-02,KK Ahmed,0,1,0.0,0.0,0,0,1,2.0,0.0,AA Jhunjhunwala,bowled
+3982,Gujarat Titans,Delhi Capitals,1304056,2022-04-02,V Shankar,13,20,1.0,0.0,0,0,0,18.0,65.0,DL Vettori,caught
+3981,Gujarat Titans,Delhi Capitals,1304056,2022-04-02,Shubman Gill,84,48,6.0,4.0,1,0,0,110.0,175.0,P Kumar,caught
+2115,Delhi Capitals,Gujarat Titans,1304056,2022-04-02,RR Pant,43,30,7.0,0.0,0,0,0,54.0,143.33333333333334,PV Tambe,caught
+2114,Delhi Capitals,Gujarat Titans,1304056,2022-04-02,R Powell,20,12,2.0,1.0,0,0,0,28.0,166.66666666666669,PP Ojha,bowled
+2113,Delhi Capitals,Gujarat Titans,1304056,2022-04-02,PP Shaw,10,7,1.0,0.0,0,0,0,15.0,142.85714285714286,P Awana,caught
+2109,Delhi Capitals,Gujarat Titans,1304056,2022-04-02,Kuldeep Yadav,14,14,0.0,1.0,0,0,0,20.0,100.0,RP Singh,bowled
+3978,Gujarat Titans,Delhi Capitals,1304056,2022-04-02,MS Wade,1,2,0.0,0.0,0,0,0,5.0,50.0,Sohail Tanvir,caught
+2111,Delhi Capitals,Gujarat Titans,1304056,2022-04-02,Mandeep Singh,18,17,4.0,0.0,0,0,0,26.0,105.88235294117648,UT Yadav,caught
+2112,Delhi Capitals,Gujarat Titans,1304056,2022-04-02,Mustafizur Rahman,3,5,0.0,0.0,0,0,0,7.0,60.0,AB Dinda,caught
+3976,Gujarat Titans,Delhi Capitals,1304056,2022-04-02,DA Miller,20,15,2.0,0.0,0,0,0,26.0,133.33333333333331,VY Mahesh,caught
+3975,Gujarat Titans,Delhi Capitals,1304056,2022-04-02,A Manohar,1,2,0.0,0.0,0,0,0,5.0,50.0,PP Ojha,caught
+3979,Gujarat Titans,Delhi Capitals,1304056,2022-04-02,R Tewatia,14,9,1.0,1.0,0,0,0,21.0,155.55555555555557,PP Ojha,caught
+3980,Gujarat Titans,Delhi Capitals,1304056,2022-04-02,Rashid Khan,0,1,0.0,0.0,0,0,1,2.0,0.0,SL Malinga,bowled
+2110,Delhi Capitals,Gujarat Titans,1304056,2022-04-02,Lalit Yadav,25,22,2.0,1.0,0,0,0,33.0,113.63636363636364,Azhar Mahmood,caught
+9571,Punjab Kings,Chennai Super Kings,1304057,2022-04-03,K Rabada,12,14,1.0,0.0,0,0,0,17.0,85.71428571428571,PP Ojha,caught
+921,Chennai Super Kings,Punjab Kings,1304057,2022-04-03,AT Rayudu,13,22,2.0,0.0,0,0,0,19.0,59.09090909090909,Sohail Tanvir,bowled
+922,Chennai Super Kings,Punjab Kings,1304057,2022-04-03,CJ Jordan,5,5,0.0,0.0,0,0,0,9.0,100.0,GD McGrath,run out
+923,Chennai Super Kings,Punjab Kings,1304057,2022-04-03,D Pretorius,8,4,0.0,1.0,0,0,0,14.0,200.0,DS Kulkarni,caught
+924,Chennai Super Kings,Punjab Kings,1304057,2022-04-03,DJ Bravo,0,1,0.0,0.0,0,0,1,2.0,0.0,DW Steyn,caught
+9570,Punjab Kings,Chennai Super Kings,1304057,2022-04-03,JM Sharma,26,18,0.0,3.0,0,0,0,36.0,144.44444444444443,DL Vettori,caught
+9572,Punjab Kings,Chennai Super Kings,1304057,2022-04-03,LS Livingstone,60,35,5.0,5.0,1,0,0,87.0,171.42857142857142,DP Nannes,caught
+9574,Punjab Kings,Chennai Super Kings,1304057,2022-04-03,MA Agarwal,4,2,1.0,0.0,0,0,0,9.0,200.0,S Sreesanth,bowled
+925,Chennai Super Kings,Punjab Kings,1304057,2022-04-03,MM Ali,0,2,0.0,0.0,0,0,1,2.0,0.0,Sohail Tanvir,caught
+931,Chennai Super Kings,Punjab Kings,1304057,2022-04-03,S Dube,57,30,6.0,3.0,1,0,0,81.0,190.0,TM Dilshan,caught
+930,Chennai Super Kings,Punjab Kings,1304057,2022-04-03,RV Uthappa,13,10,2.0,0.0,0,0,0,19.0,130.0,P Kumar,caught
+929,Chennai Super Kings,Punjab Kings,1304057,2022-04-03,RD Gaikwad,1,4,0.0,0.0,0,0,0,5.0,25.0,A Nehra,caught and bowled
+928,Chennai Super Kings,Punjab Kings,1304057,2022-04-03,RA Jadeja,0,3,0.0,0.0,0,0,1,2.0,0.0,Y Venugopal Rao,caught
+927,Chennai Super Kings,Punjab Kings,1304057,2022-04-03,Mukesh Choudhary,2,2,0.0,0.0,0,0,0,6.0,100.0,DW Steyn,bowled
+926,Chennai Super Kings,Punjab Kings,1304057,2022-04-03,MS Dhoni,23,29,1.0,1.0,0,0,0,30.0,79.3103448275862,YK Pathan,caught
+9579,Punjab Kings,Chennai Super Kings,1304057,2022-04-03,VG Arora,1,2,0.0,0.0,0,0,0,5.0,50.0,SR Watson,caught
+9578,Punjab Kings,Chennai Super Kings,1304057,2022-04-03,S Dhawan,33,27,4.0,1.0,0,0,0,43.0,122.22222222222224,DW Steyn,caught
+9577,Punjab Kings,Chennai Super Kings,1304057,2022-04-03,RD Chahar,12,8,1.0,1.0,0,0,0,19.0,150.0,YK Pathan,run out
+9573,Punjab Kings,Chennai Super Kings,1304057,2022-04-03,M Shahrukh Khan,6,12,0.0,0.0,0,0,0,10.0,50.0,RE van der Merwe,caught and bowled
+9576,Punjab Kings,Chennai Super Kings,1304057,2022-04-03,PBB Rajapaksa,9,6,0.0,1.0,0,0,0,15.0,150.0,A Symonds,bowled
+9575,Punjab Kings,Chennai Super Kings,1304057,2022-04-03,OF Smith,3,9,0.0,0.0,0,0,0,7.0,33.33333333333333,RE van der Merwe,caught
+13727,Sunrisers Hyderabad,Lucknow Super Giants,1304058,2022-04-04,Abdul Samad,0,1,0.0,0.0,0,0,1,2.0,0.0,K Rabada,caught
+13728,Sunrisers Hyderabad,Lucknow Super Giants,1304058,2022-04-04,Abhishek Sharma,13,12,2.0,0.0,0,0,0,19.0,108.33333333333331,CV Varun,bowled
+13729,Sunrisers Hyderabad,Lucknow Super Giants,1304058,2022-04-04,B Kumar,1,2,0.0,0.0,0,0,0,5.0,50.0,YS Chahal,caught
+13730,Sunrisers Hyderabad,Lucknow Super Giants,1304058,2022-04-04,KS Williamson,16,16,1.0,1.0,0,0,0,23.0,100.0,T Natarajan,caught
+13731,Sunrisers Hyderabad,Lucknow Super Giants,1304058,2022-04-04,N Pooran,34,26,3.0,2.0,0,0,0,45.0,130.76923076923077,A Nortje,caught
+13732,Sunrisers Hyderabad,Lucknow Super Giants,1304058,2022-04-04,R Shepherd,8,10,0.0,1.0,0,0,0,14.0,80.0,Kartik Tyagi,run out
+13734,Sunrisers Hyderabad,Lucknow Super Giants,1304058,2022-04-04,Umran Malik,1,1,0.0,0.0,0,0,0,5.0,100.0,CV Varun,bowled
+13735,Sunrisers Hyderabad,Lucknow Super Giants,1304058,2022-04-04,Washington Sundar,18,14,1.0,0.0,0,0,0,23.0,128.57142857142858,Avesh Khan,bowled
+13726,Sunrisers Hyderabad,Lucknow Super Giants,1304058,2022-04-04,AK Markram,12,14,0.0,0.0,0,0,0,16.0,85.71428571428571,HH Pandya,run out
+13733,Sunrisers Hyderabad,Lucknow Super Giants,1304058,2022-04-04,RA Tripathi,44,30,5.0,1.0,0,0,0,55.0,146.66666666666666,RD Chahar,caught
+7429,Lucknow Super Giants,Sunrisers Hyderabad,1304058,2022-04-04,A Badoni,19,13,3.0,0.0,0,0,0,26.0,146.15384615384613,KA Pollard,caught
+7430,Lucknow Super Giants,Sunrisers Hyderabad,1304058,2022-04-04,DJ Hooda,51,33,3.0,3.0,1,0,0,72.0,154.54545454545453,R Sharma,stumped
+7436,Lucknow Super Giants,Sunrisers Hyderabad,1304058,2022-04-04,Q de Kock,1,4,0.0,0.0,0,0,0,5.0,25.0,DW Steyn,caught
+7435,Lucknow Super Giants,Sunrisers Hyderabad,1304058,2022-04-04,MK Pandey,11,10,1.0,1.0,0,0,0,18.0,110.0,PP Ojha,run out
+7434,Lucknow Super Giants,Sunrisers Hyderabad,1304058,2022-04-04,KL Rahul,68,50,6.0,1.0,1,0,0,88.0,136.0,S Aravind,caught
+7431,Lucknow Super Giants,Sunrisers Hyderabad,1304058,2022-04-04,E Lewis,1,5,0.0,0.0,0,0,0,5.0,20.0,PP Ojha,stumped
+7433,Lucknow Super Giants,Sunrisers Hyderabad,1304058,2022-04-04,KH Pandya,6,3,1.0,0.0,0,0,0,11.0,200.0,Z Khan,caught
+7432,Lucknow Super Giants,Sunrisers Hyderabad,1304058,2022-04-04,JO Holder,8,3,0.0,1.0,0,0,0,14.0,266.66666666666663,RA Jadeja,caught
+11099,Rajasthan Royals,Royal Challengers Bangalore,1304059,2022-04-05,YBK Jaiswal,4,6,0.0,0.0,0,0,0,8.0,66.66666666666666,RE van der Merwe,caught
+11097,Rajasthan Royals,Royal Challengers Bangalore,1304059,2022-04-05,SO Hetmyer,42,32,4.0,2.0,0,0,0,54.0,131.25,RE van der Merwe,caught and bowled
+12888,Royal Challengers Bangalore,Rajasthan Royals,1304059,2022-04-05,F du Plessis,29,20,5.0,0.0,0,0,0,38.0,145.0,RJ Harris,bowled
+11096,Rajasthan Royals,Royal Challengers Bangalore,1304059,2022-04-05,JC Buttler,70,49,0.0,6.0,1,0,0,94.0,142.85714285714286,DP Nannes,caught
+11095,Rajasthan Royals,Royal Challengers Bangalore,1304059,2022-04-05,D Padikkal,37,30,2.0,2.0,0,0,0,47.0,123.33333333333334,PP Ojha,caught
+12893,Royal Challengers Bangalore,Rajasthan Royals,1304059,2022-04-05,V Kohli,5,6,0.0,0.0,0,0,0,9.0,83.33333333333334,RA Jadeja,caught
+12891,Royal Challengers Bangalore,Rajasthan Royals,1304059,2022-04-05,SE Rutherford,5,12,0.0,0.0,0,0,0,9.0,41.66666666666667,R Sharma,stumped
+12890,Royal Challengers Bangalore,Rajasthan Royals,1304059,2022-04-05,KD Karthik,44,24,7.0,1.0,0,0,0,57.0,183.3333333333333,KA Pollard,caught
+12889,Royal Challengers Bangalore,Rajasthan Royals,1304059,2022-04-05,HV Patel,9,4,0.0,1.0,0,0,0,15.0,225.0,Z Khan,caught
+11098,Rajasthan Royals,Royal Challengers Bangalore,1304059,2022-04-05,SV Samson,8,8,0.0,1.0,0,0,0,14.0,100.0,S Sreesanth,bowled
+12887,Royal Challengers Bangalore,Rajasthan Royals,1304059,2022-04-05,DJ Willey,0,2,0.0,0.0,0,0,1,2.0,0.0,JH Kallis,caught
+12892,Royal Challengers Bangalore,Rajasthan Royals,1304059,2022-04-05,Shahbaz Ahmed,45,28,4.0,3.0,0,0,0,59.0,160.71428571428572,PP Ojha,stumped
+12886,Royal Challengers Bangalore,Rajasthan Royals,1304059,2022-04-05,Anuj Rawat,26,26,4.0,0.0,0,0,0,34.0,100.0,Z Khan,caught
+6640,Kolkata Knight Riders,Mumbai Indians,1304060,2022-04-06,AM Rahane,7,11,0.0,0.0,0,0,0,11.0,63.63636363636363,Mohammad Asif,caught
+6641,Kolkata Knight Riders,Mumbai Indians,1304060,2022-04-06,N Rana,8,7,0.0,1.0,0,0,0,14.0,114.28571428571428,SK Warne,caught
+6642,Kolkata Knight Riders,Mumbai Indians,1304060,2022-04-06,PJ Cummins,56,15,4.0,6.0,1,0,0,84.0,373.3333333333333,PP Ojha,caught
+6643,Kolkata Knight Riders,Mumbai Indians,1304060,2022-04-06,SS Iyer,10,6,2.0,0.0,0,0,0,16.0,166.66666666666669,VY Mahesh,caught
+8466,Mumbai Indians,Kolkata Knight Riders,1304060,2022-04-06,D Brevis,29,19,2.0,2.0,0,0,0,39.0,152.63157894736844,UT Yadav,caught
+6645,Kolkata Knight Riders,Mumbai Indians,1304060,2022-04-06,VR Iyer,50,41,6.0,1.0,1,0,0,70.0,121.95121951219512,Sohail Tanvir,caught
+6639,Kolkata Knight Riders,Mumbai Indians,1304060,2022-04-06,AD Russell,11,5,1.0,1.0,0,0,0,18.0,220.00000000000003,Z Khan,caught
+8471,Mumbai Indians,Kolkata Knight Riders,1304060,2022-04-06,Tilak Varma,38,27,3.0,2.0,0,0,0,49.0,140.74074074074073,NLTC Perera,caught
+6644,Kolkata Knight Riders,Mumbai Indians,1304060,2022-04-06,SW Billings,17,12,0.0,2.0,0,0,0,25.0,141.66666666666669,R Vinay Kumar,caught
+8467,Mumbai Indians,Kolkata Knight Riders,1304060,2022-04-06,Ishan Kishan,14,21,1.0,0.0,0,0,0,19.0,66.66666666666666,JH Kallis,run out
+8468,Mumbai Indians,Kolkata Knight Riders,1304060,2022-04-06,KA Pollard,22,6,0.0,3.0,0,0,0,32.0,366.6666666666666,JP Faulkner,caught
+8469,Mumbai Indians,Kolkata Knight Riders,1304060,2022-04-06,RG Sharma,3,12,0.0,0.0,0,0,0,7.0,25.0,R Sathish,run out
+8470,Mumbai Indians,Kolkata Knight Riders,1304060,2022-04-06,SA Yadav,52,36,5.0,2.0,1,0,0,73.0,144.44444444444443,PP Ojha,caught
+7331,Lucknow Super Giants,Delhi Capitals,1304061,2022-04-07,E Lewis,5,13,0.0,0.0,0,0,0,9.0,38.46153846153847,L Balaji,caught
+7330,Lucknow Super Giants,Delhi Capitals,1304061,2022-04-07,DJ Hooda,11,13,0.0,0.0,0,0,0,15.0,84.61538461538461,Z Khan,caught
+7334,Lucknow Super Giants,Delhi Capitals,1304061,2022-04-07,Q de Kock,80,54,9.0,2.0,1,0,0,105.0,148.14814814814815,MG Johnson,caught
+7332,Lucknow Super Giants,Delhi Capitals,1304061,2022-04-07,KH Pandya,19,14,0.0,1.0,0,0,0,25.0,135.71428571428572,JD Unadkat,caught
+7333,Lucknow Super Giants,Delhi Capitals,1304061,2022-04-07,KL Rahul,24,25,1.0,1.0,0,0,0,31.0,96.0,PV Tambe,caught
+7329,Lucknow Super Giants,Delhi Capitals,1304061,2022-04-07,A Badoni,10,3,1.0,1.0,0,0,0,17.0,333.33333333333337,KK Cooper,caught
+2215,Delhi Capitals,Lucknow Super Giants,1304061,2022-04-07,DA Warner,4,12,0.0,0.0,0,0,0,8.0,33.33333333333333,SR Watson,run out
+2216,Delhi Capitals,Lucknow Super Giants,1304061,2022-04-07,PP Shaw,61,36,9.0,2.0,1,0,0,86.0,169.44444444444443,V Sehwag,caught
+2217,Delhi Capitals,Lucknow Super Giants,1304061,2022-04-07,R Powell,3,10,0.0,0.0,0,0,0,7.0,30.0,PP Ojha,caught
+2218,Delhi Capitals,Lucknow Super Giants,1304061,2022-04-07,RR Pant,39,37,3.0,2.0,0,0,0,50.0,105.4054054054054,SL Malinga,run out
+2219,Delhi Capitals,Lucknow Super Giants,1304061,2022-04-07,SN Khan,36,29,3.0,0.0,0,0,0,43.0,124.13793103448276,JJ van der Wath,caught
+9627,Punjab Kings,Gujarat Titans,1304062,2022-04-08,MA Agarwal,5,9,1.0,0.0,0,0,0,10.0,55.55555555555556,PP Chawla,bowled
+9621,Punjab Kings,Gujarat Titans,1304062,2022-04-08,Arshdeep Singh,10,5,1.0,0.0,0,0,0,15.0,200.0,AN Ahmed,caught
+9622,Punjab Kings,Gujarat Titans,1304062,2022-04-08,JM Bairstow,8,8,2.0,0.0,0,0,0,14.0,100.0,YS Chahal,caught
+9623,Punjab Kings,Gujarat Titans,1304062,2022-04-08,JM Sharma,23,11,1.0,2.0,0,0,0,32.0,209.0909090909091,NM Coulter-Nile,caught
+9628,Punjab Kings,Gujarat Titans,1304062,2022-04-08,OF Smith,0,1,0.0,0.0,0,0,1,2.0,0.0,A Ashish Reddy,bowled
+9624,Punjab Kings,Gujarat Titans,1304062,2022-04-08,K Rabada,1,1,0.0,0.0,0,0,0,5.0,100.0,TA Boult,caught
+9626,Punjab Kings,Gujarat Titans,1304062,2022-04-08,M Shahrukh Khan,15,8,0.0,2.0,0,0,0,23.0,187.5,AD Russell,caught
+4013,Gujarat Titans,Punjab Kings,1304062,2022-04-08,B Sai Sudharsan,35,30,4.0,1.0,0,0,0,45.0,116.66666666666669,RP Singh,caught
+4014,Gujarat Titans,Punjab Kings,1304062,2022-04-08,DA Miller,6,5,1.0,0.0,0,0,0,11.0,120.0,SK Trivedi,caught
+4015,Gujarat Titans,Punjab Kings,1304062,2022-04-08,HH Pandya,27,18,5.0,0.0,0,0,0,36.0,150.0,R Bhatia,bowled
+4016,Gujarat Titans,Punjab Kings,1304062,2022-04-08,MS Wade,6,7,1.0,0.0,0,0,0,11.0,85.71428571428571,P Awana,caught
+4017,Gujarat Titans,Punjab Kings,1304062,2022-04-08,R Tewatia,13,3,0.0,2.0,0,0,0,21.0,433.3333333333333,VR Aaron,caught
+9631,Punjab Kings,Gujarat Titans,1304062,2022-04-08,VG Arora,2,7,0.0,0.0,0,0,0,6.0,28.57142857142857,Harbhajan Singh,lbw
+4018,Gujarat Titans,Punjab Kings,1304062,2022-04-08,Shubman Gill,96,61,11.0,1.0,1,0,0,121.0,157.37704918032787,MM Patel,caught
+9625,Punjab Kings,Gujarat Titans,1304062,2022-04-08,LS Livingstone,64,29,7.0,4.0,1,0,0,91.0,220.6896551724137,KA Pollard,caught and bowled
+9629,Punjab Kings,Gujarat Titans,1304062,2022-04-08,RD Chahar,22,14,2.0,1.0,0,0,0,30.0,157.14285714285714,D Wiese,caught
+9630,Punjab Kings,Gujarat Titans,1304062,2022-04-08,S Dhawan,35,30,4.0,0.0,0,0,0,43.0,116.66666666666669,Z Khan,caught
+12656,Royal Challengers Bangalore,Mumbai Indians,1304064,2022-04-09,Anuj Rawat,66,49,2.0,6.0,1,0,0,92.0,134.6938775510204,AB Dinda,caught
+13233,Sunrisers Hyderabad,Chennai Super Kings,1304063,2022-04-09,KS Williamson,32,40,2.0,1.0,0,0,0,40.0,80.0,Ravi Bishnoi,bowled
+1432,Chennai Super Kings,Sunrisers Hyderabad,1304063,2022-04-09,S Dube,3,5,0.0,0.0,0,0,0,7.0,60.0,AB Dinda,caught
+1431,Chennai Super Kings,Sunrisers Hyderabad,1304063,2022-04-09,RV Uthappa,15,11,1.0,0.0,0,0,0,20.0,136.36363636363637,UT Yadav,caught
+1430,Chennai Super Kings,Sunrisers Hyderabad,1304063,2022-04-09,RD Gaikwad,16,13,3.0,0.0,0,0,0,23.0,123.07692307692308,Azhar Mahmood,caught
+1429,Chennai Super Kings,Sunrisers Hyderabad,1304063,2022-04-09,RA Jadeja,23,18,2.0,1.0,0,0,0,31.0,127.77777777777776,RP Singh,bowled
+1428,Chennai Super Kings,Sunrisers Hyderabad,1304063,2022-04-09,MS Dhoni,3,6,0.0,0.0,0,0,0,7.0,50.0,AA Jhunjhunwala,bowled
+1427,Chennai Super Kings,Sunrisers Hyderabad,1304063,2022-04-09,MM Ali,48,35,3.0,2.0,0,0,0,59.0,137.14285714285714,Azhar Mahmood,caught
+1426,Chennai Super Kings,Sunrisers Hyderabad,1304063,2022-04-09,DJ Bravo,8,6,1.0,0.0,0,0,0,13.0,133.33333333333331,R Vinay Kumar,caught
+1425,Chennai Super Kings,Sunrisers Hyderabad,1304063,2022-04-09,CJ Jordan,6,4,0.0,0.0,0,0,0,10.0,150.0,KA Pollard,caught
+12657,Royal Challengers Bangalore,Mumbai Indians,1304064,2022-04-09,F du Plessis,16,25,1.0,0.0,0,0,0,21.0,64.0,UT Yadav,caught
+1424,Chennai Super Kings,Sunrisers Hyderabad,1304063,2022-04-09,AT Rayudu,27,27,4.0,0.0,0,0,0,35.0,100.0,CH Gayle,caught
+9023,Mumbai Indians,Royal Challengers Bangalore,1304064,2022-04-09,Ishan Kishan,26,28,3.0,0.0,0,0,0,33.0,92.85714285714286,MJ McClenaghan,caught
+9024,Mumbai Indians,Royal Challengers Bangalore,1304064,2022-04-09,JD Unadkat,13,14,1.0,0.0,0,0,0,18.0,92.85714285714286,TA Boult,caught
+9025,Mumbai Indians,Royal Challengers Bangalore,1304064,2022-04-09,KA Pollard,0,1,0.0,0.0,0,0,1,2.0,0.0,Rashid Khan,bowled
+9026,Mumbai Indians,Royal Challengers Bangalore,1304064,2022-04-09,RG Sharma,26,16,4.0,1.0,0,0,0,36.0,162.5,I Sharma,caught
+9027,Mumbai Indians,Royal Challengers Bangalore,1304064,2022-04-09,Ramandeep Singh,6,12,0.0,0.0,0,0,0,10.0,50.0,HH Pandya,run out
+9028,Mumbai Indians,Royal Challengers Bangalore,1304064,2022-04-09,SA Yadav,68,37,5.0,6.0,1,0,0,97.0,183.7837837837838,K Rabada,caught
+9029,Mumbai Indians,Royal Challengers Bangalore,1304064,2022-04-09,Tilak Varma,0,3,0.0,0.0,0,0,1,2.0,0.0,CV Varun,bowled
+13235,Sunrisers Hyderabad,Chennai Super Kings,1304063,2022-04-09,RA Tripathi,39,15,5.0,2.0,0,0,0,52.0,260.0,M Jansen,caught
+13234,Sunrisers Hyderabad,Chennai Super Kings,1304063,2022-04-09,N Pooran,5,3,1.0,0.0,0,0,0,10.0,166.66666666666669,RD Chahar,caught
+9022,Mumbai Indians,Royal Challengers Bangalore,1304064,2022-04-09,D Brevis,8,11,1.0,0.0,0,0,0,13.0,72.72727272727273,S Gopal,caught
+12658,Royal Challengers Bangalore,Mumbai Indians,1304064,2022-04-09,GJ Maxwell,8,2,2.0,0.0,0,0,0,14.0,400.0,JH Kallis,run out
+13232,Sunrisers Hyderabad,Chennai Super Kings,1304063,2022-04-09,Abhishek Sharma,75,52,5.0,3.0,1,0,0,98.0,144.23076923076923,Avesh Khan,caught
+12660,Royal Challengers Bangalore,Mumbai Indians,1304064,2022-04-09,V Kohli,48,36,5.0,0.0,0,0,0,57.0,133.33333333333331,R Sathish,run out
+12659,Royal Challengers Bangalore,Mumbai Indians,1304064,2022-04-09,KD Karthik,7,2,0.0,1.0,0,0,0,13.0,350.0,JP Faulkner,caught
+5985,Kolkata Knight Riders,Delhi Capitals,1304065,2022-04-10,PJ Cummins,4,3,1.0,0.0,0,0,0,9.0,133.33333333333331,Kartik Tyagi,run out
+7400,Lucknow Super Giants,Rajasthan Royals,1304066,2022-04-10,Q de Kock,39,32,2.0,1.0,0,0,0,47.0,121.875,MA Khote,caught
+7399,Lucknow Super Giants,Rajasthan Royals,1304066,2022-04-10,PVD Chameera,13,9,2.0,0.0,0,0,0,19.0,144.44444444444443,JR Hopes,lbw
+5984,Kolkata Knight Riders,Delhi Capitals,1304065,2022-04-10,N Rana,30,21,0.0,3.0,0,0,0,40.0,142.85714285714286,A Nortje,caught
+5983,Kolkata Knight Riders,Delhi Capitals,1304065,2022-04-10,CV Varun,1,1,0.0,0.0,0,0,0,5.0,100.0,T Natarajan,caught
+5982,Kolkata Knight Riders,Delhi Capitals,1304065,2022-04-10,AM Rahane,8,14,1.0,0.0,0,0,0,13.0,57.14285714285714,YS Chahal,caught
+5981,Kolkata Knight Riders,Delhi Capitals,1304065,2022-04-10,AD Russell,24,22,3.0,0.0,0,0,0,31.0,109.09090909090908,CV Varun,bowled
+5988,Kolkata Knight Riders,Delhi Capitals,1304065,2022-04-10,SS Iyer,54,34,5.0,2.0,1,0,0,75.0,158.8235294117647,Avesh Khan,bowled
+5989,Kolkata Knight Riders,Delhi Capitals,1304065,2022-04-10,SW Billings,15,9,1.0,1.0,0,0,0,22.0,166.66666666666669,C Sakariya,caught
+7398,Lucknow Super Giants,Rajasthan Royals,1304066,2022-04-10,MP Stoinis,38,18,2.0,4.0,0,0,0,52.0,211.11111111111111,YS Chahal,caught
+7397,Lucknow Super Giants,Rajasthan Royals,1304066,2022-04-10,KL Rahul,0,1,0.0,0.0,0,0,1,2.0,0.0,Mohammed Shami,caught
+7396,Lucknow Super Giants,Rajasthan Royals,1304066,2022-04-10,KH Pandya,22,15,2.0,0.0,0,0,0,28.0,146.66666666666666,JR Hazlewood,caught
+7395,Lucknow Super Giants,Rajasthan Royals,1304066,2022-04-10,K Gowtham,0,2,0.0,0.0,0,0,1,2.0,0.0,T Natarajan,caught
+7393,Lucknow Super Giants,Rajasthan Royals,1304066,2022-04-10,DJ Hooda,25,24,3.0,0.0,0,0,0,32.0,104.16666666666669,M Jansen,caught
+2206,Delhi Capitals,Kolkata Knight Riders,1304065,2022-04-10,SN Thakur,29,11,1.0,3.0,0,0,0,40.0,263.6363636363636,YK Pathan,caught
+2205,Delhi Capitals,Kolkata Knight Riders,1304065,2022-04-10,RR Pant,27,15,2.0,2.0,0,0,0,37.0,180.0,Sohail Tanvir,caught
+2204,Delhi Capitals,Kolkata Knight Riders,1304065,2022-04-10,R Powell,8,6,0.0,1.0,0,0,0,14.0,133.33333333333331,DW Steyn,caught
+2203,Delhi Capitals,Kolkata Knight Riders,1304065,2022-04-10,PP Shaw,51,30,7.0,2.0,1,0,0,74.0,170.0,DS Kulkarni,caught
+2201,Delhi Capitals,Kolkata Knight Riders,1304065,2022-04-10,DA Warner,61,45,6.0,2.0,1,0,0,83.0,135.55555555555557,Sohail Tanvir,bowled
+7392,Lucknow Super Giants,Rajasthan Royals,1304066,2022-04-10,Avesh Khan,7,2,0.0,1.0,0,0,0,13.0,350.0,RD Chahar,caught
+7391,Lucknow Super Giants,Rajasthan Royals,1304066,2022-04-10,A Badoni,5,7,0.0,0.0,0,0,0,9.0,71.42857142857143,Ravi Bishnoi,bowled
+5990,Kolkata Knight Riders,Delhi Capitals,1304065,2022-04-10,UT Yadav,0,1,0.0,0.0,0,0,1,2.0,0.0,AD Russell,caught
+5991,Kolkata Knight Riders,Delhi Capitals,1304065,2022-04-10,VR Iyer,18,8,1.0,2.0,0,0,0,27.0,225.0,AF Milne,caught
+5987,Kolkata Knight Riders,Delhi Capitals,1304065,2022-04-10,SP Narine,4,2,1.0,0.0,0,0,0,9.0,200.0,CV Varun,bowled
+2200,Delhi Capitals,Kolkata Knight Riders,1304065,2022-04-10,AR Patel,22,14,2.0,1.0,0,0,0,30.0,157.14285714285714,R Bhatia,caught
+7394,Lucknow Super Giants,Rajasthan Royals,1304066,2022-04-10,JO Holder,8,14,2.0,0.0,0,0,0,14.0,57.14285714285714,R Dhawan,caught
+2202,Delhi Capitals,Kolkata Knight Riders,1304065,2022-04-10,Lalit Yadav,1,4,0.0,0.0,0,0,0,5.0,25.0,GD McGrath,run out
+5986,Kolkata Knight Riders,Delhi Capitals,1304065,2022-04-10,Rasikh Salam,7,6,1.0,0.0,0,0,0,12.0,116.66666666666669,RD Chahar,caught
+10668,Rajasthan Royals,Lucknow Super Giants,1304066,2022-04-10,TA Boult,2,1,0.0,0.0,0,0,0,6.0,200.0,HH Pandya,caught
+10667,Rajasthan Royals,Lucknow Super Giants,1304066,2022-04-10,SV Samson,13,12,2.0,0.0,0,0,0,19.0,108.33333333333331,JJ Bumrah,caught
+10666,Rajasthan Royals,Lucknow Super Giants,1304066,2022-04-10,SO Hetmyer,59,36,1.0,6.0,1,0,0,84.0,163.88888888888889,PJ Cummins,run out
+10665,Rajasthan Royals,Lucknow Super Giants,1304066,2022-04-10,R Parag,8,4,0.0,1.0,0,0,0,14.0,200.0,S Kaul,caught
+10664,Rajasthan Royals,Lucknow Super Giants,1304066,2022-04-10,R Ashwin,28,25,0.0,2.0,0,0,0,36.0,112.0,Kuldeep Yadav,caught
+10663,Rajasthan Royals,Lucknow Super Giants,1304066,2022-04-10,JC Buttler,13,12,1.0,1.0,0,0,0,20.0,108.33333333333331,Basil Thampi,caught
+10662,Rajasthan Royals,Lucknow Super Giants,1304066,2022-04-10,HE van der Dussen,4,4,1.0,0.0,0,0,0,9.0,100.0,Kuldeep Yadav,stumped
+10661,Rajasthan Royals,Lucknow Super Giants,1304066,2022-04-10,D Padikkal,29,32,5.0,0.0,0,0,0,38.0,90.625,JJ Bumrah,bowled
+4063,Gujarat Titans,Sunrisers Hyderabad,1304067,2022-04-11,R Tewatia,6,4,1.0,0.0,0,0,0,11.0,150.0,JJ Bumrah,caught
+13417,Sunrisers Hyderabad,Gujarat Titans,1304067,2022-04-11,AK Markram,12,8,1.0,0.0,0,0,0,17.0,150.0,R Rampaul,caught
+13418,Sunrisers Hyderabad,Gujarat Titans,1304067,2022-04-11,Abhishek Sharma,42,32,6.0,0.0,0,0,0,52.0,131.25,AB Dinda,caught
+13419,Sunrisers Hyderabad,Gujarat Titans,1304067,2022-04-11,KS Williamson,57,47,2.0,4.0,1,0,0,79.0,121.27659574468086,UT Yadav,caught
+13420,Sunrisers Hyderabad,Gujarat Titans,1304067,2022-04-11,N Pooran,34,19,2.0,2.0,0,0,0,44.0,178.94736842105263,JH Kallis,run out
+13421,Sunrisers Hyderabad,Gujarat Titans,1304067,2022-04-11,RA Tripathi,17,12,1.0,1.0,0,0,0,24.0,141.66666666666669,JP Faulkner,caught
+4064,Gujarat Titans,Sunrisers Hyderabad,1304067,2022-04-11,Rashid Khan,0,1,0.0,0.0,0,0,1,2.0,0.0,HH Pandya,caught
+4062,Gujarat Titans,Sunrisers Hyderabad,1304067,2022-04-11,MS Wade,19,21,3.0,0.0,0,0,0,26.0,90.47619047619048,PJ Cummins,run out
+4058,Gujarat Titans,Sunrisers Hyderabad,1304067,2022-04-11,A Manohar,35,22,5.0,1.0,0,0,0,46.0,159.0909090909091,Kuldeep Yadav,stumped
+4060,Gujarat Titans,Sunrisers Hyderabad,1304067,2022-04-11,DA Miller,12,16,0.0,0.0,0,0,0,16.0,75.0,Kuldeep Yadav,caught
+4059,Gujarat Titans,Sunrisers Hyderabad,1304067,2022-04-11,B Sai Sudharsan,11,9,2.0,0.0,0,0,0,17.0,122.22222222222224,Basil Thampi,caught
+4065,Gujarat Titans,Sunrisers Hyderabad,1304067,2022-04-11,Shubman Gill,7,10,1.0,0.0,0,0,0,12.0,70.0,BA Stokes,bowled
+4061,Gujarat Titans,Sunrisers Hyderabad,1304067,2022-04-11,HH Pandya,50,45,4.0,1.0,1,0,0,68.0,111.11111111111111,S Kaul,caught
+11664,Royal Challengers Bangalore,Chennai Super Kings,1304068,2022-04-12,GJ Maxwell,26,11,2.0,2.0,0,0,0,36.0,236.3636363636364,HV Patel,caught
+11670,Royal Challengers Bangalore,Chennai Super Kings,1304068,2022-04-12,Shahbaz Ahmed,41,30,4.0,0.0,0,0,0,49.0,136.66666666666666,Imran Tahir,caught
+11671,Royal Challengers Bangalore,Chennai Super Kings,1304068,2022-04-12,V Kohli,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,SR Watson,caught
+1311,Chennai Super Kings,Royal Challengers Bangalore,1304068,2022-04-12,MM Ali,3,8,0.0,0.0,0,0,0,7.0,37.5,UT Yadav,caught
+1312,Chennai Super Kings,Royal Challengers Bangalore,1304068,2022-04-12,RA Jadeja,0,1,0.0,0.0,0,0,1,2.0,0.0,AB Dinda,caught
+1314,Chennai Super Kings,Royal Challengers Bangalore,1304068,2022-04-12,RV Uthappa,88,53,4.0,9.0,1,0,0,122.0,166.03773584905662,PP Ojha,bowled
+11665,Royal Challengers Bangalore,Chennai Super Kings,1304068,2022-04-12,JR Hazlewood,7,8,0.0,0.0,0,0,0,11.0,87.5,SL Malinga,bowled
+1313,Chennai Super Kings,Royal Challengers Bangalore,1304068,2022-04-12,RD Gaikwad,17,16,3.0,0.0,0,0,0,24.0,106.25,P Awana,caught
+11666,Royal Challengers Bangalore,Chennai Super Kings,1304068,2022-04-12,KD Karthik,34,18,2.0,3.0,0,0,0,46.0,188.88888888888889,MM Sharma,caught
+11667,Royal Challengers Bangalore,Chennai Super Kings,1304068,2022-04-12,Mohammed Siraj,14,11,3.0,0.0,0,0,0,21.0,127.27272727272728,HV Patel,caught
+11668,Royal Challengers Bangalore,Chennai Super Kings,1304068,2022-04-12,PWH de Silva,7,3,0.0,1.0,0,0,0,13.0,233.3333333333333,A Nehra,caught
+11669,Royal Challengers Bangalore,Chennai Super Kings,1304068,2022-04-12,SS Prabhudessai,34,18,5.0,1.0,0,0,0,45.0,188.88888888888889,JJ Bumrah,caught
+1315,Chennai Super Kings,Royal Challengers Bangalore,1304068,2022-04-12,S Dube,95,49,5.0,8.0,1,0,0,128.0,193.87755102040816,PV Tambe,caught
+11663,Royal Challengers Bangalore,Chennai Super Kings,1304068,2022-04-12,F du Plessis,8,9,0.0,0.0,0,0,0,12.0,88.88888888888889,Harbhajan Singh,lbw
+11661,Royal Challengers Bangalore,Chennai Super Kings,1304068,2022-04-12,Akash Deep,0,2,0.0,0.0,0,0,1,2.0,0.0,D Wiese,caught
+11662,Royal Challengers Bangalore,Chennai Super Kings,1304068,2022-04-12,Anuj Rawat,12,16,1.0,0.0,0,0,0,17.0,75.0,Z Khan,caught
+9685,Punjab Kings,Mumbai Indians,1304069,2022-04-13,JM Bairstow,12,13,1.0,0.0,0,0,0,17.0,92.3076923076923,JR Hopes,lbw
+9688,Punjab Kings,Mumbai Indians,1304069,2022-04-13,M Shahrukh Khan,15,8,0.0,2.0,0,0,0,23.0,187.5,Mohammad Asif,caught
+9689,Punjab Kings,Mumbai Indians,1304069,2022-04-13,MA Agarwal,52,33,6.0,2.0,1,0,0,74.0,157.57575757575756,SK Warne,caught
+8567,Mumbai Indians,Punjab Kings,1304069,2022-04-13,SA Yadav,43,30,1.0,4.0,0,0,0,56.0,143.33333333333334,Harmeet Singh,caught
+8568,Mumbai Indians,Punjab Kings,1304069,2022-04-13,TS Mills,0,2,0.0,0.0,0,0,1,2.0,0.0,Z Khan,caught
+8569,Mumbai Indians,Punjab Kings,1304069,2022-04-13,Tilak Varma,36,21,3.0,2.0,0,0,0,47.0,171.42857142857142,JH Kallis,caught
+9690,Punjab Kings,Mumbai Indians,1304069,2022-04-13,OF Smith,1,1,0.0,0.0,0,0,0,5.0,100.0,PP Ojha,caught
+9686,Punjab Kings,Mumbai Indians,1304069,2022-04-13,JM Sharma,30,16,2.0,2.0,0,0,0,40.0,187.5,MA Khote,caught
+8560,Mumbai Indians,Punjab Kings,1304069,2022-04-13,D Brevis,49,25,4.0,5.0,0,0,0,67.0,196.0,A Symonds,bowled
+9687,Punjab Kings,Mumbai Indians,1304069,2022-04-13,LS Livingstone,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,Z Khan,caught
+8562,Mumbai Indians,Punjab Kings,1304069,2022-04-13,JD Unadkat,12,7,0.0,1.0,0,0,0,18.0,171.42857142857142,DW Steyn,caught
+8561,Mumbai Indians,Punjab Kings,1304069,2022-04-13,Ishan Kishan,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,YK Pathan,run out
+8566,Mumbai Indians,Punjab Kings,1304069,2022-04-13,RG Sharma,28,17,3.0,2.0,0,0,0,39.0,164.70588235294116,DP Nannes,caught
+8565,Mumbai Indians,Punjab Kings,1304069,2022-04-13,M Ashwin,0,2,0.0,0.0,0,0,1,2.0,0.0,PP Ojha,bowled
+9691,Punjab Kings,Mumbai Indians,1304069,2022-04-13,S Dhawan,70,53,5.0,3.0,1,0,0,93.0,132.0754716981132,VY Mahesh,caught
+8564,Mumbai Indians,Punjab Kings,1304069,2022-04-13,KA Pollard,10,12,1.0,0.0,0,0,0,15.0,83.33333333333334,KA Pollard,caught and bowled
+8563,Mumbai Indians,Punjab Kings,1304069,2022-04-13,JJ Bumrah,0,2,0.0,0.0,0,0,1,2.0,0.0,SR Watson,caught
+10253,Rajasthan Royals,Gujarat Titans,1304070,2022-04-14,KR Sen,0,3,0.0,0.0,0,0,1,2.0,0.0,JD Unadkat,caught
+10252,Rajasthan Royals,Gujarat Titans,1304070,2022-04-14,JDS Neesham,17,15,1.0,0.0,0,0,0,22.0,113.33333333333331,L Balaji,caught
+10251,Rajasthan Royals,Gujarat Titans,1304070,2022-04-14,JC Buttler,54,24,8.0,3.0,1,0,0,80.0,225.0,Z Khan,caught
+10255,Rajasthan Royals,Gujarat Titans,1304070,2022-04-14,R Ashwin,8,8,0.0,1.0,0,0,0,14.0,100.0,MG Johnson,caught
+4034,Gujarat Titans,Rajasthan Royals,1304070,2022-04-14,V Shankar,2,7,0.0,0.0,0,0,0,6.0,28.57142857142857,YS Chahal,caught
+4033,Gujarat Titans,Rajasthan Royals,1304070,2022-04-14,Shubman Gill,13,14,2.0,0.0,0,0,0,19.0,92.85714285714286,AN Ahmed,caught
+4032,Gujarat Titans,Rajasthan Royals,1304070,2022-04-14,MS Wade,12,6,3.0,0.0,0,0,0,19.0,200.0,MG Johnson,caught
+4031,Gujarat Titans,Rajasthan Royals,1304070,2022-04-14,HH Pandya,87,54,8.0,4.0,1,0,0,115.0,161.11111111111111,PV Tambe,caught
+4030,Gujarat Titans,Rajasthan Royals,1304070,2022-04-14,DA Miller,31,14,5.0,1.0,0,0,0,42.0,221.42857142857144,JD Unadkat,caught
+4029,Gujarat Titans,Rajasthan Royals,1304070,2022-04-14,A Manohar,43,29,4.0,2.0,0,0,0,55.0,148.27586206896552,L Balaji,caught
+10256,Rajasthan Royals,Gujarat Titans,1304070,2022-04-14,R Parag,18,16,1.0,1.0,0,0,0,25.0,112.5,AN Ahmed,caught
+10258,Rajasthan Royals,Gujarat Titans,1304070,2022-04-14,SV Samson,11,11,0.0,1.0,0,0,0,17.0,100.0,NM Coulter-Nile,caught
+10249,Rajasthan Royals,Gujarat Titans,1304070,2022-04-14,D Padikkal,0,1,0.0,0.0,0,0,1,2.0,0.0,NLTC Perera,caught
+10250,Rajasthan Royals,Gujarat Titans,1304070,2022-04-14,HE van der Dussen,6,11,0.0,0.0,0,0,0,10.0,54.54545454545454,KK Cooper,caught
+10259,Rajasthan Royals,Gujarat Titans,1304070,2022-04-14,YS Chahal,5,8,0.0,0.0,0,0,0,9.0,62.5,TA Boult,caught
+10254,Rajasthan Royals,Gujarat Titans,1304070,2022-04-14,M Prasidh Krishna,4,7,0.0,0.0,0,0,0,8.0,57.14285714285714,PV Tambe,caught
+10257,Rajasthan Royals,Gujarat Titans,1304070,2022-04-14,SO Hetmyer,29,18,2.0,1.0,0,0,0,37.0,161.11111111111111,YS Chahal,caught
+13711,Sunrisers Hyderabad,Kolkata Knight Riders,1304071,2022-04-15,AK Markram,68,36,6.0,4.0,1,0,0,94.0,188.88888888888889,Basil Thampi,caught
+13714,Sunrisers Hyderabad,Kolkata Knight Riders,1304071,2022-04-15,N Pooran,5,9,0.0,0.0,0,0,0,9.0,55.55555555555556,PJ Cummins,run out
+13715,Sunrisers Hyderabad,Kolkata Knight Riders,1304071,2022-04-15,RA Tripathi,71,38,4.0,6.0,1,0,0,99.0,186.8421052631579,JJ Bumrah,caught
+13713,Sunrisers Hyderabad,Kolkata Knight Riders,1304071,2022-04-15,KS Williamson,17,18,3.0,0.0,0,0,0,24.0,94.44444444444444,S Kaul,caught
+13712,Sunrisers Hyderabad,Kolkata Knight Riders,1304071,2022-04-15,Abhishek Sharma,3,10,0.0,0.0,0,0,0,7.0,30.0,Kuldeep Yadav,caught
+7311,Kolkata Knight Riders,Sunrisers Hyderabad,1304071,2022-04-15,SP Narine,6,2,0.0,1.0,0,0,0,12.0,300.0,Z Khan,caught
+7313,Kolkata Knight Riders,Sunrisers Hyderabad,1304071,2022-04-15,UT Yadav,1,1,0.0,0.0,0,0,0,5.0,100.0,BA Bhatt,run out
+7305,Kolkata Knight Riders,Sunrisers Hyderabad,1304071,2022-04-15,AD Russell,49,26,4.0,4.0,0,0,0,65.0,188.46153846153845,RA Jadeja,caught
+7306,Kolkata Knight Riders,Sunrisers Hyderabad,1304071,2022-04-15,AJ Finch,7,5,0.0,1.0,0,0,0,13.0,140.0,Z Khan,caught
+7310,Kolkata Knight Riders,Sunrisers Hyderabad,1304071,2022-04-15,SP Jackson,7,7,0.0,1.0,0,0,0,13.0,100.0,M Morkel,caught
+7309,Kolkata Knight Riders,Sunrisers Hyderabad,1304071,2022-04-15,PJ Cummins,3,3,0.0,0.0,0,0,0,7.0,100.0,DW Steyn,caught
+7312,Kolkata Knight Riders,Sunrisers Hyderabad,1304071,2022-04-15,SS Iyer,28,25,3.0,0.0,0,0,0,35.0,112.0,AB Dinda,caught
+7308,Kolkata Knight Riders,Sunrisers Hyderabad,1304071,2022-04-15,N Rana,54,37,6.0,2.0,1,0,0,76.0,145.94594594594594,PP Ojha,run out
+7307,Kolkata Knight Riders,Sunrisers Hyderabad,1304071,2022-04-15,Aman Hakim Khan,5,3,1.0,0.0,0,0,0,10.0,166.66666666666669,S Aravind,caught
+7314,Kolkata Knight Riders,Sunrisers Hyderabad,1304071,2022-04-15,VR Iyer,6,14,1.0,0.0,0,0,0,11.0,42.85714285714285,DT Christian,bowled
+2434,Delhi Capitals,Royal Challengers Bangalore,1304073,2022-04-16,Kuldeep Yadav,10,7,2.0,0.0,0,0,0,16.0,142.85714285714286,PP Ojha,bowled
+11822,Royal Challengers Bangalore,Delhi Capitals,1304073,2022-04-16,Anuj Rawat,0,1,0.0,0.0,0,0,1,2.0,0.0,K Rabada,caught
+2440,Delhi Capitals,Royal Challengers Bangalore,1304073,2022-04-16,SN Thakur,17,10,0.0,2.0,0,0,0,25.0,170.0,R Bhatia,caught
+2439,Delhi Capitals,Royal Challengers Bangalore,1304073,2022-04-16,RR Pant,34,17,3.0,2.0,0,0,0,45.0,200.0,UT Yadav,bowled
+2438,Delhi Capitals,Royal Challengers Bangalore,1304073,2022-04-16,R Powell,0,1,0.0,0.0,0,0,1,2.0,0.0,P Negi,caught
+2437,Delhi Capitals,Royal Challengers Bangalore,1304073,2022-04-16,PP Shaw,16,13,1.0,1.0,0,0,0,23.0,123.07692307692308,Shivam Sharma,caught
+2436,Delhi Capitals,Royal Challengers Bangalore,1304073,2022-04-16,MR Marsh,14,24,0.0,0.0,0,0,0,18.0,58.333333333333336,L Balaji,bowled
+2435,Delhi Capitals,Royal Challengers Bangalore,1304073,2022-04-16,Lalit Yadav,1,5,0.0,0.0,0,0,0,5.0,20.0,PV Tambe,caught
+8491,Mumbai Indians,Lucknow Super Giants,1304072,2022-04-16,Tilak Varma,26,26,2.0,0.0,0,0,0,32.0,100.0,MM Sharma,caught
+8490,Mumbai Indians,Lucknow Super Giants,1304072,2022-04-16,TS Mills,0,1,0.0,0.0,0,0,1,2.0,0.0,SL Malinga,bowled
+2433,Delhi Capitals,Royal Challengers Bangalore,1304073,2022-04-16,DA Warner,66,40,4.0,5.0,1,0,0,92.0,165.0,P Awana,caught
+8488,Mumbai Indians,Lucknow Super Giants,1304072,2022-04-16,RG Sharma,6,8,1.0,0.0,0,0,0,11.0,75.0,Harbhajan Singh,lbw
+8487,Mumbai Indians,Lucknow Super Giants,1304072,2022-04-16,M Ashwin,6,2,0.0,1.0,0,0,0,12.0,300.0,Z Khan,caught
+2432,Delhi Capitals,Royal Challengers Bangalore,1304073,2022-04-16,AR Patel,10,7,1.0,0.0,0,0,0,15.0,142.85714285714286,AB Dinda,caught
+8486,Mumbai Indians,Lucknow Super Giants,1304072,2022-04-16,KA Pollard,25,14,1.0,2.0,0,0,0,34.0,178.57142857142858,D Wiese,caught
+8485,Mumbai Indians,Lucknow Super Giants,1304072,2022-04-16,JD Unadkat,14,6,2.0,1.0,0,0,0,22.0,233.3333333333333,A Ashish Reddy,bowled
+8484,Mumbai Indians,Lucknow Super Giants,1304072,2022-04-16,Ishan Kishan,13,17,2.0,0.0,0,0,0,19.0,76.47058823529412,PP Chawla,bowled
+8483,Mumbai Indians,Lucknow Super Giants,1304072,2022-04-16,FA Allen,8,7,1.0,0.0,0,0,0,13.0,114.28571428571428,AD Russell,caught
+11826,Royal Challengers Bangalore,Delhi Capitals,1304073,2022-04-16,SS Prabhudessai,6,5,1.0,0.0,0,0,0,11.0,120.0,A Nortje,caught
+11825,Royal Challengers Bangalore,Delhi Capitals,1304073,2022-04-16,KD Karthik,66,34,5.0,5.0,1,0,0,93.0,194.1176470588236,T Natarajan,caught
+11824,Royal Challengers Bangalore,Delhi Capitals,1304073,2022-04-16,GJ Maxwell,55,35,7.0,2.0,1,0,0,78.0,157.14285714285714,YS Chahal,caught
+11823,Royal Challengers Bangalore,Delhi Capitals,1304073,2022-04-16,F du Plessis,8,12,2.0,0.0,0,0,0,14.0,66.66666666666666,CV Varun,bowled
+8489,Mumbai Indians,Lucknow Super Giants,1304072,2022-04-16,SA Yadav,37,29,3.0,0.0,0,0,0,44.0,127.58620689655172,HV Patel,caught
+8482,Mumbai Indians,Lucknow Super Giants,1304072,2022-04-16,D Brevis,31,15,6.0,1.0,0,0,0,43.0,206.66666666666669,KA Pollard,caught and bowled
+11827,Royal Challengers Bangalore,Delhi Capitals,1304073,2022-04-16,Shahbaz Ahmed,32,25,3.0,1.0,0,0,0,41.0,128.0,Kartik Tyagi,run out
+7372,Lucknow Super Giants,Mumbai Indians,1304072,2022-04-16,Q de Kock,24,13,4.0,1.0,0,0,0,34.0,184.6153846153846,MJ McClenaghan,caught
+7371,Lucknow Super Giants,Mumbai Indians,1304072,2022-04-16,MP Stoinis,10,9,0.0,1.0,0,0,0,16.0,111.11111111111111,S Gopal,caught
+7370,Lucknow Super Giants,Mumbai Indians,1304072,2022-04-16,MK Pandey,38,29,6.0,0.0,0,0,0,48.0,131.0344827586207,PP Chawla,caught
+7369,Lucknow Super Giants,Mumbai Indians,1304072,2022-04-16,KL Rahul,103,63,9.0,5.0,1,1,0,150.0,163.4920634920635,M Markande,lbw
+7368,Lucknow Super Giants,Mumbai Indians,1304072,2022-04-16,KH Pandya,1,1,0.0,0.0,0,0,0,5.0,100.0,SP Narine,lbw
+7367,Lucknow Super Giants,Mumbai Indians,1304072,2022-04-16,DJ Hooda,15,9,1.0,1.0,0,0,0,22.0,166.66666666666669,BA Stokes,bowled
+11828,Royal Challengers Bangalore,Delhi Capitals,1304073,2022-04-16,V Kohli,12,14,1.0,0.0,0,0,0,17.0,85.71428571428571,RD Chahar,caught
+3966,Gujarat Titans,Chennai Super Kings,1304075,2022-04-17,Rashid Khan,40,21,2.0,3.0,0,0,0,52.0,190.47619047619045,T Natarajan,caught
+272,Chennai Super Kings,Gujarat Titans,1304075,2022-04-17,S Dube,19,17,2.0,0.0,0,0,0,25.0,111.76470588235294,AB Dinda,caught
+9770,Punjab Kings,Sunrisers Hyderabad,1304074,2022-04-17,S Dhawan,8,11,1.0,0.0,0,0,0,13.0,72.72727272727273,RA Jadeja,lbw
+9769,Punjab Kings,Sunrisers Hyderabad,1304074,2022-04-17,RD Chahar,0,2,0.0,0.0,0,0,1,2.0,0.0,A Mishra,caught
+9768,Punjab Kings,Sunrisers Hyderabad,1304074,2022-04-17,P Simran Singh,14,11,2.0,0.0,0,0,0,20.0,127.27272727272728,Swapnil Singh,caught and bowled
+9767,Punjab Kings,Sunrisers Hyderabad,1304074,2022-04-17,OF Smith,13,15,0.0,1.0,0,0,0,19.0,86.66666666666667,A Nehra,run out
+9766,Punjab Kings,Sunrisers Hyderabad,1304074,2022-04-17,M Shahrukh Khan,26,29,1.0,2.0,0,0,0,35.0,89.65517241379311,SR Watson,caught
+9765,Punjab Kings,Sunrisers Hyderabad,1304074,2022-04-17,LS Livingstone,60,38,5.0,4.0,1,0,0,85.0,157.89473684210526,Imran Tahir,caught
+3969,Gujarat Titans,Chennai Super Kings,1304075,2022-04-17,WP Saha,11,18,0.0,0.0,0,0,0,15.0,61.11111111111112,YS Chahal,caught
+9764,Punjab Kings,Sunrisers Hyderabad,1304074,2022-04-17,JM Sharma,11,8,2.0,0.0,0,0,0,17.0,137.5,JJ Bumrah,caught
+3967,Gujarat Titans,Chennai Super Kings,1304075,2022-04-17,Shubman Gill,0,1,0.0,0.0,0,0,1,2.0,0.0,JR Hazlewood,caught
+271,Chennai Super Kings,Gujarat Titans,1304075,2022-04-17,RV Uthappa,3,12,0.0,0.0,0,0,0,7.0,25.0,UT Yadav,caught
+3965,Gujarat Titans,Chennai Super Kings,1304075,2022-04-17,R Tewatia,6,14,0.0,0.0,0,0,0,10.0,42.85714285714285,R Dhawan,caught
+3964,Gujarat Titans,Chennai Super Kings,1304075,2022-04-17,DA Miller,94,52,8.0,6.0,1,0,0,126.0,180.7692307692308,M Jansen,caught
+3963,Gujarat Titans,Chennai Super Kings,1304075,2022-04-17,AS Joseph,0,1,0.0,0.0,0,0,1,2.0,0.0,RD Chahar,caught
+9763,Punjab Kings,Sunrisers Hyderabad,1304074,2022-04-17,JM Bairstow,12,10,2.0,0.0,0,0,0,18.0,120.0,A Nehra,caught
+9762,Punjab Kings,Sunrisers Hyderabad,1304074,2022-04-17,Arshdeep Singh,0,1,0.0,0.0,0,0,1,2.0,0.0,HV Patel,caught
+3962,Gujarat Titans,Chennai Super Kings,1304075,2022-04-17,A Manohar,12,12,2.0,0.0,0,0,0,18.0,100.0,Ravi Bishnoi,bowled
+3968,Gujarat Titans,Chennai Super Kings,1304075,2022-04-17,V Shankar,0,2,0.0,0.0,0,0,1,2.0,0.0,Mohammed Shami,caught
+270,Chennai Super Kings,Gujarat Titans,1304075,2022-04-17,RD Gaikwad,73,49,5.0,5.0,1,0,0,100.0,148.9795918367347,Azhar Mahmood,caught
+9771,Punjab Kings,Sunrisers Hyderabad,1304074,2022-04-17,VG Arora,0,1,0.0,0.0,0,0,1,2.0,0.0,SR Watson,bowled
+268,Chennai Super Kings,Gujarat Titans,1304075,2022-04-17,MM Ali,1,4,0.0,0.0,0,0,0,5.0,25.0,AA Jhunjhunwala,bowled
+267,Chennai Super Kings,Gujarat Titans,1304075,2022-04-17,AT Rayudu,46,31,4.0,2.0,0,0,0,58.0,148.38709677419354,Azhar Mahmood,caught
+13912,Sunrisers Hyderabad,Punjab Kings,1304074,2022-04-17,AK Markram,41,27,4.0,1.0,0,0,0,51.0,151.85185185185185,PP Ojha,run out
+13913,Sunrisers Hyderabad,Punjab Kings,1304074,2022-04-17,Abhishek Sharma,31,26,3.0,1.0,0,0,0,40.0,119.23076923076924,DW Steyn,caught
+13914,Sunrisers Hyderabad,Punjab Kings,1304074,2022-04-17,KS Williamson,3,9,0.0,0.0,0,0,0,7.0,33.33333333333333,M Morkel,caught
+13915,Sunrisers Hyderabad,Punjab Kings,1304074,2022-04-17,N Pooran,35,32,1.0,1.0,0,0,0,42.0,109.375,Z Khan,caught
+13916,Sunrisers Hyderabad,Punjab Kings,1304074,2022-04-17,RA Tripathi,34,22,4.0,1.0,0,0,0,44.0,154.54545454545453,AB Dinda,caught
+269,Chennai Super Kings,Gujarat Titans,1304075,2022-04-17,RA Jadeja,22,12,0.0,2.0,0,0,0,30.0,183.3333333333333,RP Singh,bowled
+6891,Kolkata Knight Riders,Rajasthan Royals,1304076,2022-04-18,AD Russell,0,1,0.0,0.0,0,0,1,2.0,0.0,JR Hopes,lbw
+6892,Kolkata Knight Riders,Rajasthan Royals,1304076,2022-04-18,AJ Finch,58,34,9.0,2.0,1,0,0,83.0,170.58823529411765,MA Khote,caught
+10653,Rajasthan Royals,Kolkata Knight Riders,1304076,2022-04-18,SV Samson,38,20,3.0,2.0,0,0,0,49.0,190.0,JJ Bumrah,caught
+10651,Rajasthan Royals,Kolkata Knight Riders,1304076,2022-04-18,R Parag,5,4,1.0,0.0,0,0,0,10.0,125.0,HV Patel,caught
+10650,Rajasthan Royals,Kolkata Knight Riders,1304076,2022-04-18,R Ashwin,2,2,0.0,0.0,0,0,0,6.0,100.0,MM Sharma,caught
+10652,Rajasthan Royals,Kolkata Knight Riders,1304076,2022-04-18,SO Hetmyer,26,16,2.0,2.0,0,0,0,36.0,162.5,A Nehra,caught
+10648,Rajasthan Royals,Kolkata Knight Riders,1304076,2022-04-18,JC Buttler,103,62,10.0,5.0,1,1,0,151.0,166.1290322580645,HV Patel,caught
+6900,Kolkata Knight Riders,Rajasthan Royals,1304076,2022-04-18,VR Iyer,6,7,0.0,0.0,0,0,0,10.0,85.71428571428571,PP Ojha,caught
+10649,Rajasthan Royals,Kolkata Knight Riders,1304076,2022-04-18,KK Nair,3,5,0.0,0.0,0,0,0,7.0,60.0,SL Malinga,bowled
+6898,Kolkata Knight Riders,Rajasthan Royals,1304076,2022-04-18,Shivam Mavi,0,1,0.0,0.0,0,0,1,2.0,0.0,R Vinay Kumar,caught
+6897,Kolkata Knight Riders,Rajasthan Royals,1304076,2022-04-18,SS Iyer,85,57,7.0,4.0,1,0,0,112.0,149.12280701754386,VY Mahesh,caught
+6896,Kolkata Knight Riders,Rajasthan Royals,1304076,2022-04-18,SP Jackson,8,8,0.0,0.0,0,0,0,12.0,100.0,PP Ojha,caught
+6899,Kolkata Knight Riders,Rajasthan Royals,1304076,2022-04-18,UT Yadav,21,10,1.0,2.0,0,0,0,30.0,210.0,Sohail Tanvir,caught
+6895,Kolkata Knight Riders,Rajasthan Royals,1304076,2022-04-18,PJ Cummins,0,1,0.0,0.0,0,0,1,2.0,0.0,SK Warne,caught
+6894,Kolkata Knight Riders,Rajasthan Royals,1304076,2022-04-18,N Rana,18,11,1.0,1.0,0,0,0,25.0,163.63636363636363,Mohammad Asif,caught
+6893,Kolkata Knight Riders,Rajasthan Royals,1304076,2022-04-18,CV Varun,1,1,0.0,0.0,0,0,0,5.0,100.0,Z Khan,caught
+10647,Rajasthan Royals,Kolkata Knight Riders,1304076,2022-04-18,D Padikkal,24,18,3.0,1.0,0,0,0,33.0,133.33333333333331,Harbhajan Singh,lbw
+12427,Royal Challengers Bangalore,Lucknow Super Giants,1304077,2022-04-19,Anuj Rawat,4,6,1.0,0.0,0,0,0,9.0,66.66666666666666,SL Malinga,bowled
+12433,Royal Challengers Bangalore,Lucknow Super Giants,1304077,2022-04-19,Shahbaz Ahmed,26,25,1.0,0.0,0,0,0,31.0,104.0,SR Watson,caught
+12428,Royal Challengers Bangalore,Lucknow Super Giants,1304077,2022-04-19,F du Plessis,96,65,11.0,2.0,1,0,0,123.0,147.6923076923077,MM Sharma,caught
+12429,Royal Challengers Bangalore,Lucknow Super Giants,1304077,2022-04-19,GJ Maxwell,23,11,3.0,1.0,0,0,0,32.0,209.0909090909091,HV Patel,caught
+12430,Royal Challengers Bangalore,Lucknow Super Giants,1304077,2022-04-19,HV Patel,0,1,0.0,0.0,0,0,1,2.0,0.0,A Nehra,caught
+12431,Royal Challengers Bangalore,Lucknow Super Giants,1304077,2022-04-19,KD Karthik,13,8,0.0,1.0,0,0,0,19.0,162.5,JJ Bumrah,caught
+12432,Royal Challengers Bangalore,Lucknow Super Giants,1304077,2022-04-19,SS Prabhudessai,10,10,0.0,1.0,0,0,0,16.0,100.0,Imran Tahir,caught
+7414,Lucknow Super Giants,Royal Challengers Bangalore,1304077,2022-04-19,KH Pandya,42,29,5.0,2.0,0,0,0,55.0,144.82758620689654,RE van der Merwe,caught and bowled
+12434,Royal Challengers Bangalore,Lucknow Super Giants,1304077,2022-04-19,V Kohli,0,1,0.0,0.0,0,0,1,2.0,0.0,A Nehra,run out
+7415,Lucknow Super Giants,Royal Challengers Bangalore,1304077,2022-04-19,KL Rahul,30,26,3.0,1.0,0,0,0,39.0,115.38461538461536,S Sreesanth,bowled
+7416,Lucknow Super Giants,Royal Challengers Bangalore,1304077,2022-04-19,MK Pandey,6,8,1.0,0.0,0,0,0,11.0,75.0,RE van der Merwe,caught
+7417,Lucknow Super Giants,Royal Challengers Bangalore,1304077,2022-04-19,MP Stoinis,24,17,2.0,1.0,0,0,0,32.0,141.1764705882353,A Symonds,bowled
+7418,Lucknow Super Giants,Royal Challengers Bangalore,1304077,2022-04-19,PVD Chameera,1,4,0.0,0.0,0,0,0,5.0,25.0,YK Pathan,run out
+7419,Lucknow Super Giants,Royal Challengers Bangalore,1304077,2022-04-19,Q de Kock,3,5,0.0,0.0,0,0,0,7.0,60.0,DW Steyn,caught
+7420,Lucknow Super Giants,Royal Challengers Bangalore,1304077,2022-04-19,Ravi Bishnoi,0,1,0.0,0.0,0,0,1,2.0,0.0,SR Watson,caught
+7413,Lucknow Super Giants,Royal Challengers Bangalore,1304077,2022-04-19,JO Holder,16,10,0.0,2.0,0,0,0,24.0,160.0,DP Nannes,caught
+7412,Lucknow Super Giants,Royal Challengers Bangalore,1304077,2022-04-19,DJ Hooda,13,14,1.0,0.0,0,0,0,18.0,92.85714285714286,PP Ojha,caught
+7411,Lucknow Super Giants,Royal Challengers Bangalore,1304077,2022-04-19,A Badoni,13,13,2.0,0.0,0,0,0,19.0,100.0,DL Vettori,caught
+2322,Delhi Capitals,Punjab Kings,1304078,2022-04-20,SN Khan,12,14,1.0,0.0,0,0,0,17.0,85.71428571428571,GD McGrath,run out
+9599,Punjab Kings,Delhi Capitals,1304078,2022-04-20,Arshdeep Singh,9,17,2.0,0.0,0,0,0,15.0,52.94117647058824,BA Bhatt,run out
+9609,Punjab Kings,Delhi Capitals,1304078,2022-04-20,VG Arora,2,4,0.0,0.0,0,0,0,6.0,50.0,UT Yadav,caught
+9608,Punjab Kings,Delhi Capitals,1304078,2022-04-20,S Dhawan,9,10,1.0,0.0,0,0,0,14.0,90.0,AB Dinda,caught
+9607,Punjab Kings,Delhi Capitals,1304078,2022-04-20,RD Chahar,12,12,1.0,1.0,0,0,0,19.0,100.0,R Rampaul,caught
+9606,Punjab Kings,Delhi Capitals,1304078,2022-04-20,NT Ellis,0,2,0.0,0.0,0,0,1,2.0,0.0,MM Patel,caught
+9602,Punjab Kings,Delhi Capitals,1304078,2022-04-20,K Rabada,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,SK Trivedi,caught
+9604,Punjab Kings,Delhi Capitals,1304078,2022-04-20,M Shahrukh Khan,12,20,0.0,0.0,0,0,0,16.0,60.0,P Awana,caught
+9603,Punjab Kings,Delhi Capitals,1304078,2022-04-20,LS Livingstone,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,R Bhatia,bowled
+2321,Delhi Capitals,Punjab Kings,1304078,2022-04-20,PP Shaw,41,22,7.0,1.0,0,0,0,54.0,186.3636363636364,Sohail Tanvir,bowled
+9601,Punjab Kings,Delhi Capitals,1304078,2022-04-20,JM Sharma,32,23,5.0,0.0,0,0,0,41.0,139.1304347826087,RP Singh,caught
+9600,Punjab Kings,Delhi Capitals,1304078,2022-04-20,JM Bairstow,9,8,2.0,0.0,0,0,0,15.0,112.5,DT Christian,bowled
+9605,Punjab Kings,Delhi Capitals,1304078,2022-04-20,MA Agarwal,24,16,4.0,0.0,0,0,0,32.0,150.0,VR Aaron,caught
+2320,Delhi Capitals,Punjab Kings,1304078,2022-04-20,DA Warner,60,33,10.0,1.0,1,0,0,84.0,181.8181818181818,R Bhatia,caught
+849,Chennai Super Kings,Mumbai Indians,1304079,2022-04-21,D Pretorius,22,14,2.0,1.0,0,0,0,30.0,157.14285714285714,A Nehra,caught and bowled
+850,Chennai Super Kings,Mumbai Indians,1304079,2022-04-21,DJ Bravo,1,1,0.0,0.0,0,0,0,5.0,100.0,P Kumar,caught
+854,Chennai Super Kings,Mumbai Indians,1304079,2022-04-21,RD Gaikwad,0,1,0.0,0.0,0,0,1,2.0,0.0,JH Kallis,bowled
+852,Chennai Super Kings,Mumbai Indians,1304079,2022-04-21,MS Dhoni,28,14,3.0,1.0,0,0,0,37.0,200.0,R Vinay Kumar,bowled
+853,Chennai Super Kings,Mumbai Indians,1304079,2022-04-21,RA Jadeja,3,10,0.0,0.0,0,0,0,7.0,30.0,SW Tait,caught
+855,Chennai Super Kings,Mumbai Indians,1304079,2022-04-21,RV Uthappa,30,25,2.0,2.0,0,0,0,40.0,120.0,SR Watson,run out
+7690,Mumbai Indians,Chennai Super Kings,1304079,2022-04-21,Tilak Varma,51,44,3.0,2.0,1,0,0,70.0,115.90909090909092,DW Steyn,caught
+7689,Mumbai Indians,Chennai Super Kings,1304079,2022-04-21,SA Yadav,32,21,3.0,1.0,0,0,0,41.0,152.38095238095238,PP Ojha,run out
+7688,Mumbai Indians,Chennai Super Kings,1304079,2022-04-21,RG Sharma,0,2,0.0,0.0,0,0,1,2.0,0.0,S Aravind,caught
+7687,Mumbai Indians,Chennai Super Kings,1304079,2022-04-21,KA Pollard,14,10,1.0,1.0,0,0,0,21.0,140.0,Z Khan,caught
+7686,Mumbai Indians,Chennai Super Kings,1304079,2022-04-21,JD Unadkat,19,9,1.0,1.0,0,0,0,26.0,211.11111111111111,RA Jadeja,caught
+7685,Mumbai Indians,Chennai Super Kings,1304079,2022-04-21,Ishan Kishan,0,2,0.0,0.0,0,0,1,2.0,0.0,PP Ojha,stumped
+7684,Mumbai Indians,Chennai Super Kings,1304079,2022-04-21,HR Shokeen,25,25,3.0,0.0,0,0,0,32.0,100.0,R Sharma,stumped
+7683,Mumbai Indians,Chennai Super Kings,1304079,2022-04-21,DR Sams,5,3,1.0,0.0,0,0,0,10.0,166.66666666666669,KA Pollard,caught
+7682,Mumbai Indians,Chennai Super Kings,1304079,2022-04-21,D Brevis,4,7,0.0,0.0,0,0,0,8.0,57.14285714285714,Z Khan,caught
+851,Chennai Super Kings,Mumbai Indians,1304079,2022-04-21,MJ Santner,11,11,2.0,0.0,0,0,0,17.0,100.0,TM Dilshan,caught
+848,Chennai Super Kings,Mumbai Indians,1304079,2022-04-21,AT Rayudu,40,37,2.0,3.0,0,0,0,52.0,108.10810810810813,Y Venugopal Rao,caught
+856,Chennai Super Kings,Mumbai Indians,1304079,2022-04-21,S Dube,13,14,0.0,1.0,0,0,0,19.0,92.85714285714286,V Sehwag,caught
+10104,Rajasthan Royals,Delhi Capitals,1304080,2022-04-22,D Padikkal,54,35,7.0,2.0,1,0,0,77.0,154.2857142857143,M Morkel,caught
+10105,Rajasthan Royals,Delhi Capitals,1304080,2022-04-22,JC Buttler,116,66,9.0,9.0,1,1,0,171.0,175.75757575757575,Z Khan,caught
+2380,Delhi Capitals,Rajasthan Royals,1304080,2022-04-22,AR Patel,1,4,0.0,0.0,0,0,0,5.0,25.0,Harbhajan Singh,bowled
+2381,Delhi Capitals,Rajasthan Royals,1304080,2022-04-22,DA Warner,28,14,5.0,1.0,0,0,0,39.0,200.0,JE Taylor,caught
+2382,Delhi Capitals,Rajasthan Royals,1304080,2022-04-22,Kuldeep Yadav,0,3,0.0,0.0,0,0,1,2.0,0.0,PP Ojha,run out
+2383,Delhi Capitals,Rajasthan Royals,1304080,2022-04-22,Lalit Yadav,37,25,3.0,2.0,0,0,0,48.0,148.0,A Mithun,caught
+2384,Delhi Capitals,Rajasthan Royals,1304080,2022-04-22,PP Shaw,37,30,5.0,1.0,0,0,0,48.0,123.33333333333334,CH Gayle,caught
+2386,Delhi Capitals,Rajasthan Royals,1304080,2022-04-22,RR Pant,44,26,4.0,2.0,0,0,0,56.0,169.23076923076923,R Vinay Kumar,caught
+2387,Delhi Capitals,Rajasthan Royals,1304080,2022-04-22,SN Khan,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,Azhar Mahmood,caught
+2388,Delhi Capitals,Rajasthan Royals,1304080,2022-04-22,SN Thakur,10,7,0.0,1.0,0,0,0,16.0,142.85714285714286,AA Jhunjhunwala,bowled
+2385,Delhi Capitals,Rajasthan Royals,1304080,2022-04-22,R Powell,36,16,0.0,5.0,0,0,0,50.0,225.0,KA Pollard,caught
+10106,Rajasthan Royals,Delhi Capitals,1304080,2022-04-22,SO Hetmyer,1,1,0.0,0.0,0,0,0,5.0,100.0,AB Dinda,caught
+10107,Rajasthan Royals,Delhi Capitals,1304080,2022-04-22,SV Samson,46,22,5.0,3.0,0,0,0,61.0,209.0909090909091,BA Bhatt,run out
+13107,Royal Challengers Bangalore,Sunrisers Hyderabad,1304082,2022-04-23,PWH de Silva,8,20,1.0,0.0,0,0,0,13.0,40.0,RD Chahar,caught
+13106,Royal Challengers Bangalore,Sunrisers Hyderabad,1304082,2022-04-23,Mohammed Siraj,2,4,0.0,0.0,0,0,0,6.0,50.0,Ravi Bishnoi,bowled
+13105,Royal Challengers Bangalore,Sunrisers Hyderabad,1304082,2022-04-23,KD Karthik,0,3,0.0,0.0,0,0,1,2.0,0.0,Avesh Khan,caught
+6182,Kolkata Knight Riders,Gujarat Titans,1304081,2022-04-23,N Rana,2,7,0.0,0.0,0,0,0,6.0,28.57142857142857,JP Faulkner,caught
+13104,Royal Challengers Bangalore,Sunrisers Hyderabad,1304082,2022-04-23,JR Hazlewood,3,11,0.0,0.0,0,0,0,7.0,27.27272727272727,CV Varun,bowled
+13103,Royal Challengers Bangalore,Sunrisers Hyderabad,1304082,2022-04-23,HV Patel,4,9,0.0,0.0,0,0,0,8.0,44.44444444444444,AF Milne,caught
+13102,Royal Challengers Bangalore,Sunrisers Hyderabad,1304082,2022-04-23,GJ Maxwell,12,13,2.0,0.0,0,0,0,18.0,92.3076923076923,AD Russell,caught
+13101,Royal Challengers Bangalore,Sunrisers Hyderabad,1304082,2022-04-23,F du Plessis,5,7,1.0,0.0,0,0,0,10.0,71.42857142857143,C Sakariya,caught
+13100,Royal Challengers Bangalore,Sunrisers Hyderabad,1304082,2022-04-23,Anuj Rawat,0,2,0.0,0.0,0,0,1,2.0,0.0,Avesh Khan,bowled
+3992,Gujarat Titans,Kolkata Knight Riders,1304081,2022-04-23,Yash Dayal,0,1,0.0,0.0,0,0,1,2.0,0.0,KA Pollard,caught and bowled
+3989,Gujarat Titans,Kolkata Knight Riders,1304081,2022-04-23,Rashid Khan,0,2,0.0,0.0,0,0,1,2.0,0.0,YK Pathan,run out
+6181,Kolkata Knight Riders,Gujarat Titans,1304081,2022-04-23,AD Russell,48,25,1.0,6.0,0,0,0,65.0,192.0,JH Kallis,run out
+6183,Kolkata Knight Riders,Gujarat Titans,1304081,2022-04-23,RK Singh,35,29,4.0,1.0,0,0,0,45.0,120.6896551724138,R Sathish,run out
+3983,Gujarat Titans,Kolkata Knight Riders,1304081,2022-04-23,A Manohar,2,5,0.0,0.0,0,0,0,6.0,40.0,PP Ojha,caught
+13108,Royal Challengers Bangalore,Sunrisers Hyderabad,1304082,2022-04-23,SS Prabhudessai,15,22,1.0,0.0,0,0,0,20.0,68.18181818181817,M Jansen,caught
+3984,Gujarat Titans,Kolkata Knight Riders,1304081,2022-04-23,AS Joseph,1,1,0.0,0.0,0,0,0,5.0,100.0,DP Nannes,caught
+3985,Gujarat Titans,Kolkata Knight Riders,1304081,2022-04-23,DA Miller,27,20,1.0,2.0,0,0,0,36.0,135.0,RE van der Merwe,caught and bowled
+3986,Gujarat Titans,Kolkata Knight Riders,1304081,2022-04-23,HH Pandya,67,53,4.0,2.0,1,0,0,87.0,126.41509433962264,S Sreesanth,bowled
+3991,Gujarat Titans,Kolkata Knight Riders,1304081,2022-04-23,WP Saha,25,26,2.0,1.0,0,0,0,33.0,96.15384615384616,SR Watson,caught
+3990,Gujarat Titans,Kolkata Knight Riders,1304081,2022-04-23,Shubman Gill,7,5,1.0,0.0,0,0,0,12.0,140.0,DW Steyn,caught
+3987,Gujarat Titans,Kolkata Knight Riders,1304081,2022-04-23,LH Ferguson,0,1,0.0,0.0,0,0,1,2.0,0.0,RE van der Merwe,caught
+13109,Royal Challengers Bangalore,Sunrisers Hyderabad,1304082,2022-04-23,Shahbaz Ahmed,7,13,1.0,0.0,0,0,0,12.0,53.84615384615385,R Dhawan,caught
+3988,Gujarat Titans,Kolkata Knight Riders,1304081,2022-04-23,R Tewatia,17,13,2.0,0.0,0,0,0,23.0,130.76923076923077,A Symonds,bowled
+6184,Kolkata Knight Riders,Gujarat Titans,1304081,2022-04-23,SP Narine,5,5,1.0,0.0,0,0,0,10.0,100.0,PP Ojha,caught
+6185,Kolkata Knight Riders,Gujarat Titans,1304081,2022-04-23,SS Iyer,12,16,1.0,1.0,0,0,0,19.0,75.0,NLTC Perera,caught
+6186,Kolkata Knight Riders,Gujarat Titans,1304081,2022-04-23,SW Billings,4,5,1.0,0.0,0,0,0,9.0,80.0,KK Cooper,caught
+6187,Kolkata Knight Riders,Gujarat Titans,1304081,2022-04-23,Shivam Mavi,2,4,0.0,0.0,0,0,0,6.0,50.0,Z Khan,caught
+14216,Sunrisers Hyderabad,Royal Challengers Bangalore,1304082,2022-04-23,Abhishek Sharma,47,28,8.0,1.0,0,0,0,61.0,167.85714285714286,SR Watson,bowled
+14217,Sunrisers Hyderabad,Royal Challengers Bangalore,1304082,2022-04-23,KS Williamson,16,18,2.0,0.0,0,0,0,22.0,88.88888888888889,JJ Bumrah,bowled
+13110,Royal Challengers Bangalore,Sunrisers Hyderabad,1304082,2022-04-23,V Kohli,0,1,0.0,0.0,0,0,1,2.0,0.0,T Natarajan,caught
+14218,Sunrisers Hyderabad,Royal Challengers Bangalore,1304082,2022-04-23,RA Tripathi,7,3,0.0,1.0,0,0,0,13.0,233.3333333333333,Kuldeep Yadav,stumped
+6190,Kolkata Knight Riders,Gujarat Titans,1304081,2022-04-23,VR Iyer,17,19,2.0,0.0,0,0,0,23.0,89.47368421052632,PV Tambe,caught
+6188,Kolkata Knight Riders,Gujarat Titans,1304081,2022-04-23,TG Southee,1,1,0.0,0.0,0,0,0,5.0,100.0,L Balaji,caught
+6189,Kolkata Knight Riders,Gujarat Titans,1304081,2022-04-23,UT Yadav,15,15,1.0,1.0,0,0,0,22.0,100.0,JD Unadkat,caught
+7375,Lucknow Super Giants,Mumbai Indians,1304083,2022-04-24,JO Holder,0,2,0.0,0.0,0,0,1,2.0,0.0,I Sharma,caught
+7376,Lucknow Super Giants,Mumbai Indians,1304083,2022-04-24,KH Pandya,1,2,0.0,0.0,0,0,0,5.0,50.0,HH Pandya,run out
+8495,Mumbai Indians,Lucknow Super Giants,1304083,2022-04-24,JD Unadkat,1,1,0.0,0.0,0,0,0,5.0,100.0,Imran Tahir,caught
+8497,Mumbai Indians,Lucknow Super Giants,1304083,2022-04-24,KA Pollard,19,22,0.0,1.0,0,0,0,25.0,86.36363636363636,A Nehra,run out
+8498,Mumbai Indians,Lucknow Super Giants,1304083,2022-04-24,RG Sharma,39,32,5.0,1.0,0,0,0,50.0,121.875,Swapnil Singh,caught and bowled
+8499,Mumbai Indians,Lucknow Super Giants,1304083,2022-04-24,SA Yadav,7,7,1.0,0.0,0,0,0,12.0,100.0,A Mishra,caught
+8500,Mumbai Indians,Lucknow Super Giants,1304083,2022-04-24,Tilak Varma,38,30,2.0,2.0,0,0,0,48.0,126.66666666666666,RA Jadeja,lbw
+8496,Mumbai Indians,Lucknow Super Giants,1304083,2022-04-24,JJ Bumrah,0,2,0.0,0.0,0,0,1,2.0,0.0,SR Watson,caught
+8494,Mumbai Indians,Lucknow Super Giants,1304083,2022-04-24,Ishan Kishan,8,21,0.0,0.0,0,0,0,12.0,38.095238095238095,JJ Bumrah,caught
+7377,Lucknow Super Giants,Mumbai Indians,1304083,2022-04-24,KL Rahul,103,67,12.0,4.0,1,1,0,151.0,153.73134328358208,K Rabada,caught
+7378,Lucknow Super Giants,Mumbai Indians,1304083,2022-04-24,MK Pandey,22,22,0.0,1.0,0,0,0,28.0,100.0,CV Varun,bowled
+7374,Lucknow Super Giants,Mumbai Indians,1304083,2022-04-24,DJ Hooda,10,9,1.0,0.0,0,0,0,15.0,111.11111111111111,Rashid Khan,bowled
+7373,Lucknow Super Giants,Mumbai Indians,1304083,2022-04-24,A Badoni,14,11,0.0,1.0,0,0,0,20.0,127.27272727272728,TA Boult,caught
+7379,Lucknow Super Giants,Mumbai Indians,1304083,2022-04-24,MP Stoinis,0,3,0.0,0.0,0,0,1,2.0,0.0,YS Chahal,caught
+7380,Lucknow Super Giants,Mumbai Indians,1304083,2022-04-24,Q de Kock,10,9,0.0,1.0,0,0,0,16.0,111.11111111111111,T Natarajan,caught
+8493,Mumbai Indians,Lucknow Super Giants,1304083,2022-04-24,DR Sams,3,8,0.0,0.0,0,0,0,7.0,37.5,A Nehra,caught
+8492,Mumbai Indians,Lucknow Super Giants,1304083,2022-04-24,D Brevis,3,5,0.0,0.0,0,0,0,7.0,60.0,HV Patel,caught
+934,Chennai Super Kings,Punjab Kings,1304084,2022-04-25,MJ Santner,9,16,1.0,0.0,0,0,0,14.0,56.25,JH Kallis,bowled
+935,Chennai Super Kings,Punjab Kings,1304084,2022-04-25,MS Dhoni,12,9,1.0,1.0,0,0,0,19.0,133.33333333333331,SR Watson,run out
+938,Chennai Super Kings,Punjab Kings,1304084,2022-04-25,RV Uthappa,1,7,0.0,0.0,0,0,0,5.0,14.285714285714285,SL Malinga,run out
+937,Chennai Super Kings,Punjab Kings,1304084,2022-04-25,RD Gaikwad,30,28,4.0,0.0,0,0,0,38.0,107.14285714285714,PP Ojha,caught
+939,Chennai Super Kings,Punjab Kings,1304084,2022-04-25,S Dube,8,8,1.0,0.0,0,0,0,13.0,100.0,JJ van der Wath,caught
+932,Chennai Super Kings,Punjab Kings,1304084,2022-04-25,AT Rayudu,78,40,7.0,6.0,1,0,0,109.0,195.0,R Vinay Kumar,bowled
+9580,Punjab Kings,Chennai Super Kings,1304084,2022-04-25,JM Bairstow,6,3,1.0,0.0,0,0,0,11.0,200.0,KA Pollard,caught and bowled
+9581,Punjab Kings,Chennai Super Kings,1304084,2022-04-25,LS Livingstone,19,8,1.0,2.0,0,0,0,28.0,237.5,PP Ojha,bowled
+9582,Punjab Kings,Chennai Super Kings,1304084,2022-04-25,MA Agarwal,18,23,2.0,0.0,0,0,0,24.0,78.26086956521739,DP Nannes,caught
+933,Chennai Super Kings,Punjab Kings,1304084,2022-04-25,D Pretorius,1,1,0.0,0.0,0,0,0,5.0,100.0,SW Tait,caught
+9584,Punjab Kings,Chennai Super Kings,1304084,2022-04-25,S Dhawan,88,64,9.0,2.0,1,0,0,113.0,137.5,Z Khan,caught
+936,Chennai Super Kings,Punjab Kings,1304084,2022-04-25,RA Jadeja,21,17,1.0,1.0,0,0,0,28.0,123.52941176470588,V Sehwag,caught
+9583,Punjab Kings,Chennai Super Kings,1304084,2022-04-25,PBB Rajapaksa,42,35,2.0,2.0,0,0,0,52.0,120.0,Harmeet Singh,caught
+11107,Rajasthan Royals,Royal Challengers Bangalore,1304085,2022-04-26,SV Samson,27,22,1.0,3.0,0,0,0,38.0,122.72727272727272,Harmeet Singh,caught
+11106,Rajasthan Royals,Royal Challengers Bangalore,1304085,2022-04-26,SO Hetmyer,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,DP Nannes,caught
+11108,Rajasthan Royals,Royal Challengers Bangalore,1304085,2022-04-26,TA Boult,5,7,0.0,0.0,0,0,0,9.0,71.42857142857143,Z Khan,caught
+11100,Rajasthan Royals,Royal Challengers Bangalore,1304085,2022-04-26,D Padikkal,7,8,0.0,1.0,0,0,0,13.0,87.5,A Symonds,bowled
+11101,Rajasthan Royals,Royal Challengers Bangalore,1304085,2022-04-26,DJ Mitchell,16,25,0.0,0.0,0,0,0,20.0,64.0,YK Pathan,run out
+11102,Rajasthan Royals,Royal Challengers Bangalore,1304085,2022-04-26,JC Buttler,8,9,1.0,0.0,0,0,0,13.0,88.88888888888889,DW Steyn,caught
+11103,Rajasthan Royals,Royal Challengers Bangalore,1304085,2022-04-26,M Prasidh Krishna,2,5,0.0,0.0,0,0,0,6.0,40.0,SR Watson,caught
+11105,Rajasthan Royals,Royal Challengers Bangalore,1304085,2022-04-26,R Parag,56,31,3.0,4.0,1,0,0,79.0,180.64516129032256,PP Ojha,bowled
+12904,Royal Challengers Bangalore,Rajasthan Royals,1304085,2022-04-26,V Kohli,9,11,2.0,0.0,0,0,0,15.0,81.81818181818183,SK Trivedi,caught
+12900,Royal Challengers Bangalore,Rajasthan Royals,1304085,2022-04-26,PWH de Silva,18,16,2.0,0.0,0,0,0,24.0,112.5,AB Dinda,caught
+12901,Royal Challengers Bangalore,Rajasthan Royals,1304085,2022-04-26,RM Patidar,16,17,0.0,1.0,0,0,0,22.0,94.11764705882352,BA Bhatt,run out
+12902,Royal Challengers Bangalore,Rajasthan Royals,1304085,2022-04-26,SS Prabhudessai,2,7,0.0,0.0,0,0,0,6.0,28.57142857142857,DT Christian,bowled
+12903,Royal Challengers Bangalore,Rajasthan Royals,1304085,2022-04-26,Shahbaz Ahmed,17,27,0.0,1.0,0,0,0,23.0,62.96296296296296,RP Singh,caught
+11104,Rajasthan Royals,Royal Challengers Bangalore,1304085,2022-04-26,R Ashwin,17,9,4.0,0.0,0,0,0,25.0,188.88888888888889,KA Pollard,caught and bowled
+12894,Royal Challengers Bangalore,Rajasthan Royals,1304085,2022-04-26,F du Plessis,23,21,3.0,1.0,0,0,0,32.0,109.52380952380952,Z Khan,caught
+12895,Royal Challengers Bangalore,Rajasthan Royals,1304085,2022-04-26,GJ Maxwell,0,1,0.0,0.0,0,0,1,2.0,0.0,S Aravind,caught
+12899,Royal Challengers Bangalore,Rajasthan Royals,1304085,2022-04-26,Mohammed Siraj,5,5,1.0,0.0,0,0,0,10.0,100.0,Z Khan,caught
+12898,Royal Challengers Bangalore,Rajasthan Royals,1304085,2022-04-26,KD Karthik,6,4,1.0,0.0,0,0,0,11.0,150.0,M Morkel,caught
+12897,Royal Challengers Bangalore,Rajasthan Royals,1304085,2022-04-26,JR Hazlewood,0,2,0.0,0.0,0,0,1,2.0,0.0,DW Steyn,caught
+12896,Royal Challengers Bangalore,Rajasthan Royals,1304085,2022-04-26,HV Patel,8,12,0.0,1.0,0,0,0,14.0,66.66666666666666,PP Ojha,run out
+4071,Gujarat Titans,Sunrisers Hyderabad,1304086,2022-04-27,Shubman Gill,22,25,1.0,1.0,0,0,0,29.0,88.0,TA Boult,caught
+13424,Sunrisers Hyderabad,Gujarat Titans,1304086,2022-04-27,KS Williamson,5,8,1.0,0.0,0,0,0,10.0,62.5,NLTC Perera,caught
+4072,Gujarat Titans,Sunrisers Hyderabad,1304086,2022-04-27,WP Saha,68,39,11.0,1.0,1,0,0,93.0,174.35897435897436,Rashid Khan,bowled
+13423,Sunrisers Hyderabad,Gujarat Titans,1304086,2022-04-27,Abhishek Sharma,65,46,6.0,3.0,1,0,0,89.0,141.30434782608697,PP Ojha,caught
+13426,Sunrisers Hyderabad,Gujarat Titans,1304086,2022-04-27,N Pooran,3,5,0.0,0.0,0,0,0,7.0,60.0,Z Khan,caught
+13427,Sunrisers Hyderabad,Gujarat Titans,1304086,2022-04-27,RA Tripathi,16,10,2.0,1.0,0,0,0,24.0,160.0,L Balaji,caught
+13428,Sunrisers Hyderabad,Gujarat Titans,1304086,2022-04-27,Shashank Singh,25,6,1.0,3.0,0,0,0,36.0,416.6666666666667,JD Unadkat,caught
+13429,Sunrisers Hyderabad,Gujarat Titans,1304086,2022-04-27,Washington Sundar,3,5,0.0,0.0,0,0,0,7.0,60.0,PV Tambe,caught
+13425,Sunrisers Hyderabad,Gujarat Titans,1304086,2022-04-27,M Jansen,8,5,0.0,1.0,0,0,0,14.0,160.0,KK Cooper,caught
+4070,Gujarat Titans,Sunrisers Hyderabad,1304086,2022-04-27,Rashid Khan,31,11,0.0,4.0,0,0,0,43.0,281.8181818181818,MJ McClenaghan,caught
+4069,Gujarat Titans,Sunrisers Hyderabad,1304086,2022-04-27,R Tewatia,40,22,4.0,2.0,0,0,0,52.0,181.8181818181818,S Gopal,caught
+13422,Sunrisers Hyderabad,Gujarat Titans,1304086,2022-04-27,AK Markram,56,41,2.0,3.0,1,0,0,76.0,136.58536585365854,R Sathish,run out
+4066,Gujarat Titans,Sunrisers Hyderabad,1304086,2022-04-27,A Manohar,0,2,0.0,0.0,0,0,1,2.0,0.0,SP Narine,lbw
+4067,Gujarat Titans,Sunrisers Hyderabad,1304086,2022-04-27,DA Miller,17,20,1.0,0.0,0,0,0,22.0,85.0,M Markande,lbw
+4068,Gujarat Titans,Sunrisers Hyderabad,1304086,2022-04-27,HH Pandya,10,6,2.0,0.0,0,0,0,16.0,166.66666666666669,PP Chawla,caught
+2213,Delhi Capitals,Kolkata Knight Riders,1304087,2022-04-28,RR Pant,2,5,0.0,0.0,0,0,0,6.0,40.0,SW Tait,caught
+2214,Delhi Capitals,Kolkata Knight Riders,1304087,2022-04-28,SN Thakur,8,14,0.0,0.0,0,0,0,12.0,57.14285714285714,JH Kallis,bowled
+5998,Kolkata Knight Riders,Delhi Capitals,1304087,2022-04-28,SP Narine,0,1,0.0,0.0,0,0,1,2.0,0.0,T Natarajan,caught
+2212,Delhi Capitals,Kolkata Knight Riders,1304087,2022-04-28,R Powell,33,17,1.0,3.0,0,0,0,44.0,194.1176470588236,R Vinay Kumar,bowled
+2211,Delhi Capitals,Kolkata Knight Riders,1304087,2022-04-28,PP Shaw,0,1,0.0,0.0,0,0,1,2.0,0.0,TM Dilshan,caught
+2210,Delhi Capitals,Kolkata Knight Riders,1304087,2022-04-28,MR Marsh,13,7,2.0,0.0,0,0,0,19.0,185.7142857142857,P Kumar,caught
+2209,Delhi Capitals,Kolkata Knight Riders,1304087,2022-04-28,Lalit Yadav,22,29,1.0,1.0,0,0,0,29.0,75.86206896551724,A Nehra,caught and bowled
+5997,Kolkata Knight Riders,Delhi Capitals,1304087,2022-04-28,RK Singh,23,16,3.0,0.0,0,0,0,30.0,143.75,R Dhawan,caught
+5996,Kolkata Knight Riders,Delhi Capitals,1304087,2022-04-28,N Rana,57,35,3.0,4.0,1,0,0,80.0,162.85714285714286,M Jansen,caught
+5995,Kolkata Knight Riders,Delhi Capitals,1304087,2022-04-28,Harshit Rana,0,1,0.0,0.0,0,0,1,2.0,0.0,RD Chahar,caught
+5993,Kolkata Knight Riders,Delhi Capitals,1304087,2022-04-28,AJ Finch,3,8,0.0,0.0,0,0,0,7.0,37.5,Avesh Khan,caught
+6000,Kolkata Knight Riders,Delhi Capitals,1304087,2022-04-28,TG Southee,0,1,0.0,0.0,0,0,1,2.0,0.0,Mohammed Shami,caught
+2208,Delhi Capitals,Kolkata Knight Riders,1304087,2022-04-28,DA Warner,42,27,8.0,0.0,0,0,0,54.0,155.55555555555557,Y Venugopal Rao,caught
+2207,Delhi Capitals,Kolkata Knight Riders,1304087,2022-04-28,AR Patel,24,17,2.0,1.0,0,0,0,32.0,141.1764705882353,DW Steyn,bowled
+6001,Kolkata Knight Riders,Delhi Capitals,1304087,2022-04-28,UT Yadav,0,1,0.0,0.0,0,0,1,2.0,0.0,YS Chahal,caught
+6002,Kolkata Knight Riders,Delhi Capitals,1304087,2022-04-28,VR Iyer,6,12,0.0,0.0,0,0,0,10.0,50.0,JR Hopes,lbw
+5992,Kolkata Knight Riders,Delhi Capitals,1304087,2022-04-28,AD Russell,0,3,0.0,0.0,0,0,1,2.0,0.0,CV Varun,bowled
+5994,Kolkata Knight Riders,Delhi Capitals,1304087,2022-04-28,B Indrajith,6,8,0.0,0.0,0,0,0,10.0,75.0,Ravi Bishnoi,bowled
+5999,Kolkata Knight Riders,Delhi Capitals,1304087,2022-04-28,SS Iyer,42,38,4.0,0.0,0,0,0,50.0,110.5263157894737,JR Hazlewood,caught
+7385,Lucknow Super Giants,Punjab Kings,1304088,2022-04-29,KH Pandya,7,7,1.0,0.0,0,0,0,12.0,100.0,Avesh Khan,bowled
+7386,Lucknow Super Giants,Punjab Kings,1304088,2022-04-29,KL Rahul,6,11,1.0,0.0,0,0,0,11.0,54.54545454545454,C Sakariya,caught
+7388,Lucknow Super Giants,Punjab Kings,1304088,2022-04-29,Mohsin Khan (2),13,6,1.0,1.0,0,0,0,20.0,216.66666666666663,AF Milne,caught
+9673,Punjab Kings,Lucknow Super Giants,1304088,2022-04-29,S Dhawan,5,16,0.0,0.0,0,0,0,9.0,31.25,AD Russell,caught
+7389,Lucknow Super Giants,Punjab Kings,1304088,2022-04-29,PVD Chameera,17,10,0.0,2.0,0,0,0,25.0,170.0,CV Varun,bowled
+7390,Lucknow Super Giants,Punjab Kings,1304088,2022-04-29,Q de Kock,46,39,4.0,2.0,0,0,0,58.0,117.94871794871796,Avesh Khan,caught
+7384,Lucknow Super Giants,Punjab Kings,1304088,2022-04-29,JO Holder,11,8,0.0,1.0,0,0,0,17.0,137.5,CV Varun,bowled
+9664,Punjab Kings,Lucknow Super Giants,1304088,2022-04-29,Arshdeep Singh,0,3,0.0,0.0,0,0,1,2.0,0.0,CV Varun,bowled
+9665,Punjab Kings,Lucknow Super Giants,1304088,2022-04-29,JM Bairstow,32,30,5.0,0.0,0,0,0,41.0,106.66666666666669,YS Chahal,caught
+9666,Punjab Kings,Lucknow Super Giants,1304088,2022-04-29,JM Sharma,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,T Natarajan,caught
+7387,Lucknow Super Giants,Punjab Kings,1304088,2022-04-29,MP Stoinis,1,4,0.0,0.0,0,0,0,5.0,25.0,AD Russell,caught
+7383,Lucknow Super Giants,Punjab Kings,1304088,2022-04-29,DJ Hooda,34,30,1.0,2.0,0,0,0,43.0,113.33333333333331,RD Chahar,caught
+9667,Punjab Kings,Lucknow Super Giants,1304088,2022-04-29,K Rabada,2,5,0.0,0.0,0,0,0,6.0,40.0,A Nortje,caught
+9668,Punjab Kings,Lucknow Super Giants,1304088,2022-04-29,LS Livingstone,18,16,0.0,2.0,0,0,0,26.0,112.5,Kartik Tyagi,run out
+9669,Punjab Kings,Lucknow Super Giants,1304088,2022-04-29,MA Agarwal,25,17,2.0,2.0,0,0,0,35.0,147.05882352941177,RD Chahar,caught
+9670,Punjab Kings,Lucknow Super Giants,1304088,2022-04-29,PBB Rajapaksa,9,8,1.0,0.0,0,0,0,14.0,112.5,CV Varun,bowled
+9671,Punjab Kings,Lucknow Super Giants,1304088,2022-04-29,R Dhawan,21,23,3.0,1.0,0,0,0,30.0,91.30434782608695,Avesh Khan,bowled
+9672,Punjab Kings,Lucknow Super Giants,1304088,2022-04-29,RD Chahar,4,5,1.0,0.0,0,0,0,9.0,80.0,C Sakariya,caught
+7382,Lucknow Super Giants,Punjab Kings,1304088,2022-04-29,Avesh Khan,2,5,0.0,0.0,0,0,0,6.0,40.0,Kartik Tyagi,run out
+7381,Lucknow Super Giants,Punjab Kings,1304088,2022-04-29,A Badoni,4,4,0.0,0.0,0,0,0,8.0,100.0,A Nortje,caught
+8755,Mumbai Indians,Rajasthan Royals,1304090,2022-04-30,TH David,20,10,2.0,1.0,0,0,0,28.0,200.0,SR Watson,bowled
+12003,Royal Challengers Bangalore,Gujarat Titans,1304089,2022-04-30,F du Plessis,0,4,0.0,0.0,0,0,1,2.0,0.0,PP Ojha,stumped
+10864,Rajasthan Royals,Mumbai Indians,1304090,2022-04-30,JC Buttler,67,54,5.0,4.0,1,0,0,92.0,124.07407407407408,PP Ojha,run out
+10863,Rajasthan Royals,Mumbai Indians,1304090,2022-04-30,DJ Mitchell,17,21,1.0,0.0,0,0,0,22.0,80.95238095238095,S Aravind,caught
+10862,Rajasthan Royals,Mumbai Indians,1304090,2022-04-30,D Padikkal,15,15,3.0,0.0,0,0,0,22.0,100.0,Z Khan,caught
+8754,Mumbai Indians,Rajasthan Royals,1304090,2022-04-30,SA Yadav,51,39,5.0,2.0,1,0,0,72.0,130.76923076923077,RA Jadeja,lbw
+8750,Mumbai Indians,Rajasthan Royals,1304090,2022-04-30,DR Sams,6,1,0.0,1.0,0,0,0,12.0,600.0,SR Watson,caught
+8751,Mumbai Indians,Rajasthan Royals,1304090,2022-04-30,Ishan Kishan,26,19,4.0,1.0,0,0,0,36.0,136.8421052631579,A Nehra,run out
+8752,Mumbai Indians,Rajasthan Royals,1304090,2022-04-30,KA Pollard,10,15,0.0,0.0,0,0,0,14.0,66.66666666666666,Swapnil Singh,caught and bowled
+8753,Mumbai Indians,Rajasthan Royals,1304090,2022-04-30,RG Sharma,2,5,0.0,0.0,0,0,0,6.0,40.0,A Mishra,caught
+4045,Gujarat Titans,Royal Challengers Bangalore,1304089,2022-04-30,B Sai Sudharsan,20,14,2.0,0.0,0,0,0,26.0,142.85714285714286,SL Malinga,bowled
+4046,Gujarat Titans,Royal Challengers Bangalore,1304089,2022-04-30,DA Miller,39,26,4.0,1.0,0,0,0,49.0,150.0,MM Sharma,caught
+4047,Gujarat Titans,Royal Challengers Bangalore,1304089,2022-04-30,HH Pandya,3,5,0.0,0.0,0,0,0,7.0,60.0,HV Patel,caught
+4048,Gujarat Titans,Royal Challengers Bangalore,1304089,2022-04-30,R Tewatia,43,25,5.0,2.0,0,0,0,56.0,172.0,A Nehra,caught
+4049,Gujarat Titans,Royal Challengers Bangalore,1304089,2022-04-30,Shubman Gill,31,29,3.0,1.0,0,0,0,40.0,106.89655172413792,JJ Bumrah,caught
+4050,Gujarat Titans,Royal Challengers Bangalore,1304089,2022-04-30,WP Saha,29,23,4.0,0.0,0,0,0,37.0,126.08695652173914,Imran Tahir,caught
+8756,Mumbai Indians,Rajasthan Royals,1304090,2022-04-30,Tilak Varma,35,31,1.0,2.0,0,0,0,44.0,112.90322580645164,JJ Bumrah,bowled
+10865,Rajasthan Royals,Mumbai Indians,1304090,2022-04-30,R Ashwin,21,10,3.0,1.0,0,0,0,30.0,210.0,DW Steyn,caught
+10866,Rajasthan Royals,Mumbai Indians,1304090,2022-04-30,R Parag,3,3,0.0,0.0,0,0,0,7.0,100.0,M Morkel,caught
+10867,Rajasthan Royals,Mumbai Indians,1304090,2022-04-30,SO Hetmyer,6,16,0.0,0.0,0,0,0,10.0,37.5,Z Khan,caught
+12004,Royal Challengers Bangalore,Gujarat Titans,1304089,2022-04-30,GJ Maxwell,33,18,3.0,2.0,0,0,0,44.0,183.3333333333333,RA Jadeja,caught
+12005,Royal Challengers Bangalore,Gujarat Titans,1304089,2022-04-30,KD Karthik,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,Z Khan,caught
+12006,Royal Challengers Bangalore,Gujarat Titans,1304089,2022-04-30,MK Lomror,16,9,2.0,1.0,0,0,0,24.0,177.77777777777777,S Aravind,caught
+12007,Royal Challengers Bangalore,Gujarat Titans,1304089,2022-04-30,RM Patidar,52,32,5.0,2.0,1,0,0,73.0,162.5,PP Ojha,run out
+12008,Royal Challengers Bangalore,Gujarat Titans,1304089,2022-04-30,Shahbaz Ahmed,2,2,0.0,0.0,0,0,0,6.0,100.0,DW Steyn,caught
+12009,Royal Challengers Bangalore,Gujarat Titans,1304089,2022-04-30,V Kohli,58,54,6.0,1.0,1,0,0,78.0,107.40740740740742,M Morkel,caught
+10869,Rajasthan Royals,Mumbai Indians,1304090,2022-04-30,TA Boult,1,1,0.0,0.0,0,0,0,5.0,100.0,BA Bhatt,run out
+10868,Rajasthan Royals,Mumbai Indians,1304090,2022-04-30,SV Samson,16,7,0.0,2.0,0,0,0,24.0,228.57142857142856,AB Dinda,caught
+2220,Delhi Capitals,Lucknow Super Giants,1304091,2022-05-01,AR Patel,42,25,1.0,3.0,0,0,0,53.0,168.0,Harbhajan Singh,bowled
+1436,Chennai Super Kings,Sunrisers Hyderabad,1304092,2022-05-01,RD Gaikwad,99,59,6.0,6.0,1,0,0,129.0,167.79661016949152,L Balaji,bowled
+13236,Sunrisers Hyderabad,Chennai Super Kings,1304092,2022-05-01,AK Markram,17,10,0.0,2.0,0,0,0,25.0,170.0,R Dhawan,caught
+13237,Sunrisers Hyderabad,Chennai Super Kings,1304092,2022-05-01,Abhishek Sharma,39,24,5.0,1.0,0,0,0,50.0,162.5,T Natarajan,caught
+2228,Delhi Capitals,Lucknow Super Giants,1304091,2022-05-01,SN Thakur,1,2,0.0,0.0,0,0,0,5.0,50.0,AA Jhunjhunwala,bowled
+7339,Lucknow Super Giants,Delhi Capitals,1304091,2022-05-01,Q de Kock,23,13,3.0,1.0,0,0,0,32.0,176.9230769230769,KA Pollard,caught and bowled
+7338,Lucknow Super Giants,Delhi Capitals,1304091,2022-05-01,MP Stoinis,17,18,1.0,1.0,0,0,0,24.0,94.44444444444444,TA Boult,caught
+2221,Delhi Capitals,Lucknow Super Giants,1304091,2022-05-01,DA Warner,3,4,0.0,0.0,0,0,0,7.0,75.0,JE Taylor,caught
+7337,Lucknow Super Giants,Delhi Capitals,1304091,2022-05-01,KL Rahul,77,56,4.0,5.0,1,0,0,103.0,137.5,NM Coulter-Nile,caught
+7336,Lucknow Super Giants,Delhi Capitals,1304091,2022-05-01,KH Pandya,9,9,0.0,0.0,0,0,0,13.0,100.0,YS Chahal,caught
+7335,Lucknow Super Giants,Delhi Capitals,1304091,2022-05-01,DJ Hooda,52,36,6.0,1.0,1,0,0,72.0,144.44444444444443,AN Ahmed,caught
+2227,Delhi Capitals,Lucknow Super Giants,1304091,2022-05-01,RR Pant,44,31,7.0,1.0,0,0,0,57.0,141.93548387096774,Azhar Mahmood,caught
+2226,Delhi Capitals,Lucknow Super Giants,1304091,2022-05-01,R Powell,35,21,3.0,2.0,0,0,0,46.0,166.66666666666669,R Vinay Kumar,caught
+2225,Delhi Capitals,Lucknow Super Giants,1304091,2022-05-01,PP Shaw,5,7,1.0,0.0,0,0,0,10.0,71.42857142857143,KA Pollard,caught
+2224,Delhi Capitals,Lucknow Super Giants,1304091,2022-05-01,MR Marsh,37,20,3.0,3.0,0,0,0,50.0,185.0,CH Gayle,caught
+2223,Delhi Capitals,Lucknow Super Giants,1304091,2022-05-01,Lalit Yadav,3,4,0.0,0.0,0,0,0,7.0,75.0,A Mithun,caught
+2222,Delhi Capitals,Lucknow Super Giants,1304091,2022-05-01,Kuldeep Yadav,16,9,1.0,1.0,0,0,0,23.0,177.77777777777777,PP Ojha,run out
+1433,Chennai Super Kings,Sunrisers Hyderabad,1304092,2022-05-01,DP Conway,85,56,8.0,4.0,1,0,0,113.0,151.78571428571428,P Awana,caught
+13242,Sunrisers Hyderabad,Chennai Super Kings,1304092,2022-05-01,Washington Sundar,2,2,0.0,0.0,0,0,0,6.0,100.0,MA Khote,caught
+13241,Sunrisers Hyderabad,Chennai Super Kings,1304092,2022-05-01,Shashank Singh,15,14,1.0,0.0,0,0,0,20.0,107.14285714285714,JR Hopes,lbw
+13240,Sunrisers Hyderabad,Chennai Super Kings,1304092,2022-05-01,RA Tripathi,0,1,0.0,0.0,0,0,1,2.0,0.0,YS Chahal,caught
+13239,Sunrisers Hyderabad,Chennai Super Kings,1304092,2022-05-01,N Pooran,64,35,3.0,6.0,1,0,0,91.0,182.8571428571429,Mohammed Shami,caught
+13238,Sunrisers Hyderabad,Chennai Super Kings,1304092,2022-05-01,KS Williamson,47,37,2.0,2.0,0,0,0,57.0,127.02702702702702,JR Hazlewood,caught
+1435,Chennai Super Kings,Sunrisers Hyderabad,1304092,2022-05-01,RA Jadeja,1,1,0.0,0.0,0,0,0,5.0,100.0,PV Tambe,caught
+1434,Chennai Super Kings,Sunrisers Hyderabad,1304092,2022-05-01,MS Dhoni,8,7,1.0,0.0,0,0,0,13.0,114.28571428571428,PP Ojha,bowled
+6902,Kolkata Knight Riders,Rajasthan Royals,1304093,2022-05-02,B Indrajith,15,17,2.0,0.0,0,0,0,21.0,88.23529411764706,P Kumar,caught
+10658,Rajasthan Royals,Kolkata Knight Riders,1304093,2022-05-02,R Parag,19,12,1.0,2.0,0,0,0,28.0,158.33333333333331,A Mishra,caught
+10657,Rajasthan Royals,Kolkata Knight Riders,1304093,2022-05-02,R Ashwin,6,5,0.0,0.0,0,0,0,10.0,120.0,Swapnil Singh,caught and bowled
+10659,Rajasthan Royals,Kolkata Knight Riders,1304093,2022-05-02,SO Hetmyer,27,16,1.0,2.0,0,0,0,36.0,168.75,RA Jadeja,lbw
+10660,Rajasthan Royals,Kolkata Knight Riders,1304093,2022-05-02,SV Samson,54,50,7.0,1.0,1,0,0,75.0,108.0,SR Watson,bowled
+6905,Kolkata Knight Riders,Rajasthan Royals,1304093,2022-05-02,SS Iyer,34,34,3.0,1.0,0,0,0,43.0,100.0,DP Nannes,caught
+6903,Kolkata Knight Riders,Rajasthan Royals,1304093,2022-05-02,N Rana,48,39,3.0,2.0,0,0,0,59.0,123.07692307692308,DL Vettori,caught
+6901,Kolkata Knight Riders,Rajasthan Royals,1304093,2022-05-02,AJ Finch,4,8,0.0,0.0,0,0,0,8.0,50.0,SL Malinga,bowled
+6904,Kolkata Knight Riders,Rajasthan Royals,1304093,2022-05-02,RK Singh,42,26,6.0,1.0,0,0,0,54.0,161.53846153846155,PP Ojha,caught
+10654,Rajasthan Royals,Kolkata Knight Riders,1304093,2022-05-02,D Padikkal,2,5,0.0,0.0,0,0,0,6.0,40.0,Imran Tahir,caught
+10655,Rajasthan Royals,Kolkata Knight Riders,1304093,2022-05-02,JC Buttler,22,26,3.0,0.0,0,0,0,29.0,84.61538461538461,SR Watson,caught
+10656,Rajasthan Royals,Kolkata Knight Riders,1304093,2022-05-02,KK Nair,13,13,1.0,0.0,0,0,0,18.0,100.0,A Nehra,run out
+4019,Gujarat Titans,Punjab Kings,1304094,2022-05-03,AS Joseph,4,5,0.0,0.0,0,0,0,8.0,80.0,R Rampaul,caught
+4026,Gujarat Titans,Punjab Kings,1304094,2022-05-03,Rashid Khan,0,1,0.0,0.0,0,0,1,2.0,0.0,NLTC Perera,caught
+4025,Gujarat Titans,Punjab Kings,1304094,2022-05-03,R Tewatia,11,15,0.0,0.0,0,0,0,15.0,73.33333333333333,PP Ojha,caught
+4024,Gujarat Titans,Punjab Kings,1304094,2022-05-03,PJ Sangwan,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,R Sathish,run out
+9632,Punjab Kings,Gujarat Titans,1304094,2022-05-03,JM Bairstow,1,6,0.0,0.0,0,0,0,5.0,16.666666666666664,HV Patel,caught
+9633,Punjab Kings,Gujarat Titans,1304094,2022-05-03,LS Livingstone,30,10,2.0,3.0,0,0,0,42.0,300.0,SL Malinga,bowled
+9634,Punjab Kings,Gujarat Titans,1304094,2022-05-03,PBB Rajapaksa,40,29,5.0,1.0,0,0,0,51.0,137.93103448275863,MM Sharma,caught
+4023,Gujarat Titans,Punjab Kings,1304094,2022-05-03,LH Ferguson,5,3,1.0,0.0,0,0,0,10.0,166.66666666666669,JP Faulkner,caught
+4027,Gujarat Titans,Punjab Kings,1304094,2022-05-03,Shubman Gill,9,6,2.0,0.0,0,0,0,15.0,150.0,KK Cooper,caught
+4022,Gujarat Titans,Punjab Kings,1304094,2022-05-03,HH Pandya,1,8,0.0,0.0,0,0,0,5.0,12.5,JH Kallis,run out
+4021,Gujarat Titans,Punjab Kings,1304094,2022-05-03,DA Miller,11,14,0.0,0.0,0,0,0,15.0,78.57142857142857,UT Yadav,caught
+4020,Gujarat Titans,Punjab Kings,1304094,2022-05-03,B Sai Sudharsan,65,54,5.0,1.0,1,0,0,84.0,120.37037037037037,AB Dinda,caught
+9635,Punjab Kings,Gujarat Titans,1304094,2022-05-03,S Dhawan,62,55,8.0,1.0,1,0,0,84.0,112.72727272727272,HV Patel,caught
+4028,Gujarat Titans,Punjab Kings,1304094,2022-05-03,WP Saha,21,17,3.0,1.0,0,0,0,30.0,123.52941176470588,Z Khan,caught
+1322,Chennai Super Kings,Royal Challengers Bangalore,1304095,2022-05-04,RA Jadeja,3,5,0.0,0.0,0,0,0,7.0,60.0,GD McGrath,run out
+1318,Chennai Super Kings,Royal Challengers Bangalore,1304095,2022-05-04,DP Conway,56,37,6.0,2.0,1,0,0,78.0,151.35135135135135,P Negi,caught
+1320,Chennai Super Kings,Royal Challengers Bangalore,1304095,2022-05-04,MM Ali,34,27,2.0,2.0,0,0,0,44.0,125.92592592592592,R Bhatia,caught
+1321,Chennai Super Kings,Royal Challengers Bangalore,1304095,2022-05-04,MS Dhoni,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,Sohail Tanvir,bowled
+1319,Chennai Super Kings,Royal Challengers Bangalore,1304095,2022-05-04,M Theekshana,7,4,0.0,1.0,0,0,0,13.0,175.0,UT Yadav,bowled
+1317,Chennai Super Kings,Royal Challengers Bangalore,1304095,2022-05-04,D Pretorius,13,8,1.0,1.0,0,0,0,20.0,162.5,Shivam Sharma,caught
+1323,Chennai Super Kings,Royal Challengers Bangalore,1304095,2022-05-04,RD Gaikwad,28,23,3.0,1.0,0,0,0,37.0,121.73913043478262,DS Kulkarni,caught
+11678,Royal Challengers Bangalore,Chennai Super Kings,1304095,2022-05-04,Shahbaz Ahmed,1,2,0.0,0.0,0,0,0,5.0,50.0,Kuldeep Yadav,stumped
+11677,Royal Challengers Bangalore,Chennai Super Kings,1304095,2022-05-04,RM Patidar,21,17,1.0,1.0,0,0,0,28.0,123.52941176470588,JJ Bumrah,bowled
+11676,Royal Challengers Bangalore,Chennai Super Kings,1304095,2022-05-04,PWH de Silva,0,1,0.0,0.0,0,0,1,2.0,0.0,SR Watson,bowled
+11675,Royal Challengers Bangalore,Chennai Super Kings,1304095,2022-05-04,MK Lomror,42,29,3.0,2.0,0,0,0,53.0,144.82758620689654,RA Jadeja,lbw
+11679,Royal Challengers Bangalore,Chennai Super Kings,1304095,2022-05-04,V Kohli,30,35,3.0,1.0,0,0,0,39.0,85.71428571428571,Basil Thampi,caught
+11673,Royal Challengers Bangalore,Chennai Super Kings,1304095,2022-05-04,GJ Maxwell,3,3,0.0,0.0,0,0,0,7.0,100.0,Swapnil Singh,caught and bowled
+11672,Royal Challengers Bangalore,Chennai Super Kings,1304095,2022-05-04,F du Plessis,38,23,4.0,1.0,0,0,0,48.0,165.2173913043478,A Nehra,run out
+1325,Chennai Super Kings,Royal Challengers Bangalore,1304095,2022-05-04,Simarjeet Singh,2,2,0.0,0.0,0,0,0,6.0,100.0,Sohail Tanvir,caught
+1324,Chennai Super Kings,Royal Challengers Bangalore,1304095,2022-05-04,RV Uthappa,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,DW Steyn,caught
+11674,Royal Challengers Bangalore,Chennai Super Kings,1304095,2022-05-04,KD Karthik,26,17,1.0,2.0,0,0,0,35.0,152.94117647058823,A Mishra,caught
+1316,Chennai Super Kings,Royal Challengers Bangalore,1304095,2022-05-04,AT Rayudu,10,8,0.0,1.0,0,0,0,16.0,125.0,L Balaji,bowled
+13318,Sunrisers Hyderabad,Delhi Capitals,1304096,2022-05-05,Shashank Singh,10,6,2.0,0.0,0,0,0,16.0,166.66666666666669,HV Patel,caught
+13317,Sunrisers Hyderabad,Delhi Capitals,1304096,2022-05-05,SA Abbott,7,5,0.0,1.0,0,0,0,13.0,140.0,MM Sharma,caught
+13316,Sunrisers Hyderabad,Delhi Capitals,1304096,2022-05-05,S Gopal,9,7,2.0,0.0,0,0,0,15.0,128.57142857142858,SL Malinga,bowled
+13315,Sunrisers Hyderabad,Delhi Capitals,1304096,2022-05-05,RA Tripathi,22,18,2.0,1.0,0,0,0,30.0,122.22222222222224,HV Patel,caught
+13310,Sunrisers Hyderabad,Delhi Capitals,1304096,2022-05-05,Abhishek Sharma,7,7,1.0,0.0,0,0,0,12.0,100.0,PP Chawla,bowled
+13314,Sunrisers Hyderabad,Delhi Capitals,1304096,2022-05-05,N Pooran,62,38,2.0,6.0,1,0,0,88.0,163.1578947368421,Harbhajan Singh,lbw
+13313,Sunrisers Hyderabad,Delhi Capitals,1304096,2022-05-05,Kartik Tyagi,7,5,1.0,0.0,0,0,0,12.0,140.0,Z Khan,caught
+13312,Sunrisers Hyderabad,Delhi Capitals,1304096,2022-05-05,KS Williamson,4,11,1.0,0.0,0,0,0,9.0,36.36363636363637,D Wiese,caught
+13311,Sunrisers Hyderabad,Delhi Capitals,1304096,2022-05-05,B Kumar,5,3,1.0,0.0,0,0,0,10.0,166.66666666666669,A Ashish Reddy,bowled
+13309,Sunrisers Hyderabad,Delhi Capitals,1304096,2022-05-05,AK Markram,42,26,4.0,3.0,0,0,0,56.0,161.53846153846155,AD Russell,caught
+2507,Delhi Capitals,Sunrisers Hyderabad,1304096,2022-05-05,RR Pant,26,16,1.0,3.0,0,0,0,37.0,162.5,Azhar Mahmood,caught
+2506,Delhi Capitals,Sunrisers Hyderabad,1304096,2022-05-05,R Powell,67,36,3.0,6.0,1,0,0,94.0,186.11111111111111,R Vinay Kumar,caught
+2505,Delhi Capitals,Sunrisers Hyderabad,1304096,2022-05-05,Mandeep Singh,0,5,0.0,0.0,0,0,1,2.0,0.0,KA Pollard,caught
+2504,Delhi Capitals,Sunrisers Hyderabad,1304096,2022-05-05,MR Marsh,10,7,2.0,0.0,0,0,0,16.0,142.85714285714286,CH Gayle,caught
+2503,Delhi Capitals,Sunrisers Hyderabad,1304096,2022-05-05,DA Warner,92,63,12.0,3.0,1,0,0,122.0,146.03174603174602,A Mithun,caught
+8070,Mumbai Indians,Gujarat Titans,1304097,2022-05-06,Tilak Varma,21,16,2.0,0.0,0,0,0,27.0,131.25,PP Ojha,run out
+8069,Mumbai Indians,Gujarat Titans,1304097,2022-05-06,TH David,44,22,2.0,4.0,0,0,0,58.0,200.0,S Aravind,caught
+8067,Mumbai Indians,Gujarat Titans,1304097,2022-05-06,RG Sharma,43,29,5.0,2.0,0,0,0,56.0,148.27586206896552,RA Jadeja,caught
+8066,Mumbai Indians,Gujarat Titans,1304097,2022-05-06,KA Pollard,4,15,0.0,0.0,0,0,0,8.0,26.666666666666668,PP Ojha,stumped
+8065,Mumbai Indians,Gujarat Titans,1304097,2022-05-06,Ishan Kishan,45,30,5.0,1.0,0,0,0,56.0,150.0,R Sharma,stumped
+8064,Mumbai Indians,Gujarat Titans,1304097,2022-05-06,DR Sams,0,2,0.0,0.0,0,0,1,2.0,0.0,KA Pollard,caught
+8068,Mumbai Indians,Gujarat Titans,1304097,2022-05-06,SA Yadav,13,11,0.0,1.0,0,0,0,19.0,118.1818181818182,Z Khan,caught
+4011,Gujarat Titans,Mumbai Indians,1304097,2022-05-06,Shubman Gill,52,36,6.0,2.0,1,0,0,74.0,144.44444444444443,BA Bhatt,run out
+4010,Gujarat Titans,Mumbai Indians,1304097,2022-05-06,Rashid Khan,1,1,0.0,0.0,0,0,0,5.0,100.0,AB Dinda,caught
+4009,Gujarat Titans,Mumbai Indians,1304097,2022-05-06,R Tewatia,3,4,0.0,0.0,0,0,0,7.0,75.0,Z Khan,caught
+4008,Gujarat Titans,Mumbai Indians,1304097,2022-05-06,HH Pandya,24,14,4.0,0.0,0,0,0,32.0,171.42857142857142,M Morkel,caught
+4007,Gujarat Titans,Mumbai Indians,1304097,2022-05-06,DA Miller,19,14,1.0,1.0,0,0,0,26.0,135.71428571428572,DW Steyn,caught
+4006,Gujarat Titans,Mumbai Indians,1304097,2022-05-06,B Sai Sudharsan,14,11,1.0,1.0,0,0,0,21.0,127.27272727272728,PP Ojha,run out
+4012,Gujarat Titans,Mumbai Indians,1304097,2022-05-06,WP Saha,55,41,6.0,2.0,1,0,0,77.0,134.14634146341464,DT Christian,bowled
+9711,Punjab Kings,Rajasthan Royals,1304098,2022-05-07,S Dhawan,12,18,2.0,0.0,0,0,0,18.0,66.66666666666666,Z Khan,caught
+6406,Kolkata Knight Riders,Lucknow Super Giants,1304099,2022-05-07,TG Southee,0,1,0.0,0.0,0,0,1,2.0,0.0,PP Ojha,bowled
+6405,Kolkata Knight Riders,Lucknow Super Giants,1304099,2022-05-07,Shivam Mavi,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,KA Pollard,caught and bowled
+6404,Kolkata Knight Riders,Lucknow Super Giants,1304099,2022-05-07,SS Iyer,6,9,1.0,0.0,0,0,0,11.0,66.66666666666666,SR Watson,caught
+6403,Kolkata Knight Riders,Lucknow Super Giants,1304099,2022-05-07,SP Narine,22,12,3.0,1.0,0,0,0,31.0,183.3333333333333,DW Steyn,caught
+6402,Kolkata Knight Riders,Lucknow Super Giants,1304099,2022-05-07,RK Singh,6,10,0.0,0.0,0,0,0,10.0,60.0,YK Pathan,run out
+6399,Kolkata Knight Riders,Lucknow Super Giants,1304099,2022-05-07,B Indrajith,0,6,0.0,0.0,0,0,1,2.0,0.0,S Sreesanth,bowled
+6400,Kolkata Knight Riders,Lucknow Super Giants,1304099,2022-05-07,Harshit Rana,2,1,0.0,0.0,0,0,0,6.0,200.0,RE van der Merwe,caught
+6397,Kolkata Knight Riders,Lucknow Super Giants,1304099,2022-05-07,AJ Finch,14,15,1.0,0.0,0,0,0,19.0,93.33333333333331,DP Nannes,caught
+6396,Kolkata Knight Riders,Lucknow Super Giants,1304099,2022-05-07,AD Russell,45,19,3.0,5.0,0,0,0,62.0,236.84210526315783,PP Ojha,caught
+7364,Lucknow Super Giants,Kolkata Knight Riders,1304099,2022-05-07,Q de Kock,50,29,4.0,3.0,1,0,0,72.0,172.41379310344826,PJ Cummins,run out
+9710,Punjab Kings,Rajasthan Royals,1304098,2022-05-07,R Dhawan,5,2,1.0,0.0,0,0,0,10.0,250.0,Harmeet Singh,caught
+6401,Kolkata Knight Riders,Lucknow Super Giants,1304099,2022-05-07,N Rana,2,11,0.0,0.0,0,0,0,6.0,18.181818181818183,A Symonds,bowled
+9709,Punjab Kings,Rajasthan Royals,1304098,2022-05-07,PBB Rajapaksa,27,18,2.0,2.0,0,0,0,37.0,150.0,DP Nannes,caught
+10923,Rajasthan Royals,Punjab Kings,1304098,2022-05-07,SV Samson,23,12,4.0,0.0,0,0,0,31.0,191.66666666666669,BA Stokes,bowled
+9707,Punjab Kings,Rajasthan Royals,1304098,2022-05-07,LS Livingstone,22,17,1.0,2.0,0,0,0,31.0,129.41176470588235,KA Pollard,caught and bowled
+7358,Lucknow Super Giants,Kolkata Knight Riders,1304099,2022-05-07,A Badoni,15,19,0.0,0.0,0,0,0,19.0,78.94736842105263,SR Watson,bowled
+7359,Lucknow Super Giants,Kolkata Knight Riders,1304099,2022-05-07,DJ Hooda,41,27,4.0,2.0,0,0,0,53.0,151.85185185185185,JJ Bumrah,bowled
+7360,Lucknow Super Giants,Kolkata Knight Riders,1304099,2022-05-07,JO Holder,13,4,0.0,2.0,0,0,0,21.0,325.0,Kuldeep Yadav,stumped
+7361,Lucknow Super Giants,Kolkata Knight Riders,1304099,2022-05-07,KH Pandya,25,27,2.0,0.0,0,0,0,31.0,92.5925925925926,Basil Thampi,caught
+9708,Punjab Kings,Rajasthan Royals,1304098,2022-05-07,MA Agarwal,15,14,2.0,0.0,0,0,0,21.0,107.14285714285714,PP Ojha,bowled
+7363,Lucknow Super Giants,Kolkata Knight Riders,1304099,2022-05-07,PVD Chameera,0,1,0.0,0.0,0,0,1,2.0,0.0,S Kaul,caught
+10919,Rajasthan Royals,Punjab Kings,1304098,2022-05-07,D Padikkal,31,35,3.0,0.0,0,0,0,38.0,88.57142857142857,S Kaul,caught
+7362,Lucknow Super Giants,Kolkata Knight Riders,1304099,2022-05-07,MP Stoinis,28,15,1.0,3.0,0,0,0,39.0,186.66666666666663,Kuldeep Yadav,caught
+10921,Rajasthan Royals,Punjab Kings,1304098,2022-05-07,R Parag,0,1,0.0,0.0,0,0,1,2.0,0.0,JJ Bumrah,caught
+10922,Rajasthan Royals,Punjab Kings,1304098,2022-05-07,SO Hetmyer,31,18,3.0,2.0,0,0,0,42.0,172.22222222222223,HH Pandya,caught
+10924,Rajasthan Royals,Punjab Kings,1304098,2022-05-07,YBK Jaiswal,68,42,9.0,2.0,1,0,0,93.0,161.9047619047619,SP Narine,lbw
+9705,Punjab Kings,Rajasthan Royals,1304098,2022-05-07,JM Bairstow,56,42,8.0,1.0,1,0,0,78.0,133.33333333333331,DW Steyn,caught
+9706,Punjab Kings,Rajasthan Royals,1304098,2022-05-07,JM Sharma,38,20,4.0,2.0,0,0,0,50.0,190.0,SR Watson,caught
+10920,Rajasthan Royals,Punjab Kings,1304098,2022-05-07,JC Buttler,30,16,5.0,1.0,0,0,0,41.0,187.5,PJ Cummins,run out
+6398,Kolkata Knight Riders,Lucknow Super Giants,1304099,2022-05-07,AS Roy,0,2,0.0,0.0,0,0,1,2.0,0.0,RE van der Merwe,caught and bowled
+13115,Royal Challengers Bangalore,Sunrisers Hyderabad,1304100,2022-05-08,V Kohli,0,1,0.0,0.0,0,0,1,2.0,0.0,MA Khote,caught
+14227,Sunrisers Hyderabad,Royal Challengers Bangalore,1304100,2022-05-08,Shashank Singh,8,9,0.0,1.0,0,0,0,14.0,88.88888888888889,M Markande,lbw
+13111,Royal Challengers Bangalore,Sunrisers Hyderabad,1304100,2022-05-08,F du Plessis,73,52,8.0,2.0,1,0,0,97.0,140.3846153846154,JR Hazlewood,caught
+13112,Royal Challengers Bangalore,Sunrisers Hyderabad,1304100,2022-05-08,GJ Maxwell,33,25,3.0,2.0,0,0,0,44.0,132.0,Mohammed Shami,caught
+13113,Royal Challengers Bangalore,Sunrisers Hyderabad,1304100,2022-05-08,KD Karthik,30,8,1.0,4.0,0,0,0,43.0,375.0,YS Chahal,caught
+13114,Royal Challengers Bangalore,Sunrisers Hyderabad,1304100,2022-05-08,RM Patidar,48,40,4.0,2.0,0,0,0,60.0,120.0,JR Hopes,lbw
+14228,Sunrisers Hyderabad,Royal Challengers Bangalore,1304100,2022-05-08,Umran Malik,0,1,0.0,0.0,0,0,1,2.0,0.0,PP Chawla,caught
+2101,Delhi Capitals,Chennai Super Kings,1304101,2022-05-08,Kuldeep Yadav,5,18,0.0,0.0,0,0,0,9.0,27.77777777777778,JE Taylor,caught
+133,Chennai Super Kings,Delhi Capitals,1304101,2022-05-08,DP Conway,87,51,8.0,5.0,1,0,0,117.0,170.58823529411765,SW Tait,caught
+132,Chennai Super Kings,Delhi Capitals,1304101,2022-05-08,DJ Bravo,1,1,0.0,0.0,0,0,0,5.0,100.0,R Vinay Kumar,bowled
+2096,Delhi Capitals,Chennai Super Kings,1304101,2022-05-08,A Nortje,1,7,0.0,0.0,0,0,0,5.0,14.285714285714285,V Sehwag,caught
+2097,Delhi Capitals,Chennai Super Kings,1304101,2022-05-08,AR Patel,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,PP Ojha,caught
+2098,Delhi Capitals,Chennai Super Kings,1304101,2022-05-08,DA Warner,19,12,1.0,2.0,0,0,0,28.0,158.33333333333331,SL Malinga,run out
+2099,Delhi Capitals,Chennai Super Kings,1304101,2022-05-08,KK Ahmed,0,1,0.0,0.0,0,0,1,2.0,0.0,JJ van der Wath,caught
+2100,Delhi Capitals,Chennai Super Kings,1304101,2022-05-08,KS Bharat,8,5,2.0,0.0,0,0,0,14.0,160.0,Harbhajan Singh,bowled
+134,Chennai Super Kings,Delhi Capitals,1304101,2022-05-08,MM Ali,9,4,2.0,0.0,0,0,0,15.0,225.0,JH Kallis,bowled
+14222,Sunrisers Hyderabad,Royal Challengers Bangalore,1304100,2022-05-08,Fazalhaq Farooqi,2,8,0.0,0.0,0,0,0,6.0,25.0,PJ Cummins,run out
+2103,Delhi Capitals,Chennai Super Kings,1304101,2022-05-08,R Powell,3,9,0.0,0.0,0,0,0,7.0,33.33333333333333,A Mithun,caught
+14221,Sunrisers Hyderabad,Royal Challengers Bangalore,1304100,2022-05-08,B Kumar,8,10,1.0,0.0,0,0,0,13.0,80.0,S Kaul,caught
+14220,Sunrisers Hyderabad,Royal Challengers Bangalore,1304100,2022-05-08,Abhishek Sharma,0,3,0.0,0.0,0,0,1,2.0,0.0,Kuldeep Yadav,caught
+14219,Sunrisers Hyderabad,Royal Challengers Bangalore,1304100,2022-05-08,AK Markram,21,27,1.0,1.0,0,0,0,28.0,77.77777777777779,Basil Thampi,caught
+2106,Delhi Capitals,Chennai Super Kings,1304101,2022-05-08,SN Thakur,24,19,2.0,1.0,0,0,0,32.0,126.3157894736842,R Vinay Kumar,caught
+2105,Delhi Capitals,Chennai Super Kings,1304101,2022-05-08,RV Patel,6,3,0.0,1.0,0,0,0,12.0,200.0,KA Pollard,caught
+2104,Delhi Capitals,Chennai Super Kings,1304101,2022-05-08,RR Pant,21,11,4.0,0.0,0,0,0,29.0,190.9090909090909,CH Gayle,caught
+2102,Delhi Capitals,Chennai Super Kings,1304101,2022-05-08,MR Marsh,25,20,3.0,1.0,0,0,0,34.0,125.0,PP Ojha,run out
+135,Chennai Super Kings,Delhi Capitals,1304101,2022-05-08,MS Dhoni,21,10,1.0,2.0,0,0,0,30.0,210.0,SR Watson,run out
+131,Chennai Super Kings,Delhi Capitals,1304101,2022-05-08,AT Rayudu,5,7,1.0,0.0,0,0,0,10.0,71.42857142857143,TM Dilshan,caught
+137,Chennai Super Kings,Delhi Capitals,1304101,2022-05-08,RV Uthappa,0,1,0.0,0.0,0,0,1,2.0,0.0,PP Ojha,caught
+14225,Sunrisers Hyderabad,Royal Challengers Bangalore,1304100,2022-05-08,N Pooran,19,14,2.0,1.0,0,0,0,27.0,135.71428571428572,BA Stokes,bowled
+136,Chennai Super Kings,Delhi Capitals,1304101,2022-05-08,RD Gaikwad,41,35,4.0,1.0,0,0,0,51.0,117.14285714285715,V Sehwag,caught
+14226,Sunrisers Hyderabad,Royal Challengers Bangalore,1304100,2022-05-08,RA Tripathi,58,40,6.0,2.0,1,0,0,80.0,145.0,SP Narine,lbw
+14224,Sunrisers Hyderabad,Royal Challengers Bangalore,1304100,2022-05-08,Kartik Tyagi,0,1,0.0,0.0,0,0,1,2.0,0.0,HH Pandya,caught
+138,Chennai Super Kings,Delhi Capitals,1304101,2022-05-08,S Dube,32,22,2.0,2.0,0,0,0,42.0,145.45454545454547,SL Malinga,run out
+14223,Sunrisers Hyderabad,Royal Challengers Bangalore,1304100,2022-05-08,J Suchith,2,7,0.0,0.0,0,0,0,6.0,28.57142857142857,JJ Bumrah,caught
+8475,Mumbai Indians,Kolkata Knight Riders,1304102,2022-05-09,KA Pollard,15,16,0.0,1.0,0,0,0,21.0,93.75,JD Unadkat,caught
+6651,Kolkata Knight Riders,Mumbai Indians,1304102,2022-05-09,SP Jackson,5,7,0.0,0.0,0,0,0,9.0,71.42857142857143,DP Nannes,caught
+6650,Kolkata Knight Riders,Mumbai Indians,1304102,2022-05-09,RK Singh,23,20,2.0,1.0,0,0,0,31.0,115.0,PP Ojha,caught
+6649,Kolkata Knight Riders,Mumbai Indians,1304102,2022-05-09,PJ Cummins,0,2,0.0,0.0,0,0,1,2.0,0.0,DL Vettori,caught
+8479,Mumbai Indians,Kolkata Knight Riders,1304102,2022-05-09,Ramandeep Singh,12,17,0.0,0.0,0,0,0,16.0,70.58823529411765,YS Chahal,caught
+8476,Mumbai Indians,Kolkata Knight Riders,1304102,2022-05-09,M Ashwin,0,2,0.0,0.0,0,0,1,2.0,0.0,PV Tambe,caught
+6654,Kolkata Knight Riders,Mumbai Indians,1304102,2022-05-09,TG Southee,0,4,0.0,0.0,0,0,1,2.0,0.0,RE van der Merwe,caught
+6655,Kolkata Knight Riders,Mumbai Indians,1304102,2022-05-09,VR Iyer,43,26,3.0,4.0,0,0,0,58.0,165.3846153846154,A Symonds,bowled
+8478,Mumbai Indians,Kolkata Knight Riders,1304102,2022-05-09,RP Meredith,0,1,0.0,0.0,0,0,1,2.0,0.0,AN Ahmed,caught
+8472,Mumbai Indians,Kolkata Knight Riders,1304102,2022-05-09,DR Sams,1,2,0.0,0.0,0,0,0,5.0,50.0,KK Cooper,caught
+8473,Mumbai Indians,Kolkata Knight Riders,1304102,2022-05-09,Ishan Kishan,51,43,5.0,1.0,1,0,0,70.0,118.6046511627907,Z Khan,caught
+8480,Mumbai Indians,Kolkata Knight Riders,1304102,2022-05-09,TH David,13,9,3.0,0.0,0,0,0,20.0,144.44444444444443,NM Coulter-Nile,caught
+8481,Mumbai Indians,Kolkata Knight Riders,1304102,2022-05-09,Tilak Varma,6,5,1.0,0.0,0,0,0,11.0,120.0,TA Boult,caught
+8477,Mumbai Indians,Kolkata Knight Riders,1304102,2022-05-09,RG Sharma,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,MG Johnson,caught
+6648,Kolkata Knight Riders,Mumbai Indians,1304102,2022-05-09,N Rana,43,28,3.0,4.0,0,0,0,58.0,153.57142857142858,P Kumar,caught
+6647,Kolkata Knight Riders,Mumbai Indians,1304102,2022-05-09,AM Rahane,25,25,3.0,0.0,0,0,0,32.0,100.0,SL Malinga,bowled
+6646,Kolkata Knight Riders,Mumbai Indians,1304102,2022-05-09,AD Russell,9,5,0.0,1.0,0,0,0,15.0,180.0,PP Ojha,caught
+8474,Mumbai Indians,Kolkata Knight Riders,1304102,2022-05-09,K Kartikeya,3,6,0.0,0.0,0,0,0,7.0,50.0,L Balaji,caught
+6652,Kolkata Knight Riders,Mumbai Indians,1304102,2022-05-09,SP Narine,0,1,0.0,0.0,0,0,1,2.0,0.0,RE van der Merwe,caught and bowled
+6653,Kolkata Knight Riders,Mumbai Indians,1304102,2022-05-09,SS Iyer,6,8,1.0,0.0,0,0,0,11.0,75.0,S Sreesanth,bowled
+7357,Lucknow Super Giants,Gujarat Titans,1304103,2022-05-10,Q de Kock,11,10,0.0,1.0,0,0,0,17.0,110.0,RA Jadeja,lbw
+7348,Lucknow Super Giants,Gujarat Titans,1304103,2022-05-10,A Badoni,8,12,1.0,0.0,0,0,0,13.0,66.66666666666666,MM Sharma,caught
+7350,Lucknow Super Giants,Gujarat Titans,1304103,2022-05-10,DJ Hooda,27,27,3.0,0.0,0,0,0,34.0,100.0,A Nehra,caught
+7351,Lucknow Super Giants,Gujarat Titans,1304103,2022-05-10,JO Holder,1,2,0.0,0.0,0,0,0,5.0,50.0,JJ Bumrah,caught
+7352,Lucknow Super Giants,Gujarat Titans,1304103,2022-05-10,KH Pandya,5,5,1.0,0.0,0,0,0,10.0,100.0,Imran Tahir,caught
+7353,Lucknow Super Giants,Gujarat Titans,1304103,2022-05-10,KL Rahul,8,17,1.0,0.0,0,0,0,13.0,47.05882352941176,SR Watson,caught
+7356,Lucknow Super Giants,Gujarat Titans,1304103,2022-05-10,Mohsin Khan (2),1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,A Mishra,caught
+7349,Lucknow Super Giants,Gujarat Titans,1304103,2022-05-10,Avesh Khan,12,4,0.0,2.0,0,0,0,20.0,300.0,HV Patel,caught
+7355,Lucknow Super Giants,Gujarat Titans,1304103,2022-05-10,MP Stoinis,2,2,0.0,0.0,0,0,0,6.0,100.0,Swapnil Singh,caught and bowled
+4005,Gujarat Titans,Lucknow Super Giants,1304103,2022-05-10,WP Saha,5,11,1.0,0.0,0,0,0,10.0,45.45454545454545,S Aravind,caught
+4004,Gujarat Titans,Lucknow Super Giants,1304103,2022-05-10,Shubman Gill,63,50,7.0,0.0,1,0,0,82.0,126.0,Z Khan,caught
+7354,Lucknow Super Giants,Gujarat Titans,1304103,2022-05-10,KS Sharma,4,4,1.0,0.0,0,0,0,9.0,100.0,A Nehra,run out
+4003,Gujarat Titans,Lucknow Super Giants,1304103,2022-05-10,R Tewatia,22,19,4.0,0.0,0,0,0,30.0,115.78947368421052,RA Jadeja,caught
+4002,Gujarat Titans,Lucknow Super Giants,1304103,2022-05-10,MS Wade,10,7,2.0,0.0,0,0,0,16.0,142.85714285714286,PP Ojha,stumped
+4001,Gujarat Titans,Lucknow Super Giants,1304103,2022-05-10,HH Pandya,11,13,0.0,0.0,0,0,0,15.0,84.61538461538461,R Sharma,stumped
+4000,Gujarat Titans,Lucknow Super Giants,1304103,2022-05-10,DA Miller,26,26,1.0,1.0,0,0,0,33.0,100.0,KA Pollard,caught
+10109,Rajasthan Royals,Delhi Capitals,1304104,2022-05-11,HE van der Dussen,12,10,1.0,0.0,0,0,0,17.0,120.0,RP Singh,caught
+10114,Rajasthan Royals,Delhi Capitals,1304104,2022-05-11,TA Boult,3,4,0.0,0.0,0,0,0,7.0,75.0,MM Patel,caught
+10113,Rajasthan Royals,Delhi Capitals,1304104,2022-05-11,SV Samson,6,4,1.0,0.0,0,0,0,11.0,150.0,VR Aaron,caught
+10108,Rajasthan Royals,Delhi Capitals,1304104,2022-05-11,D Padikkal,48,31,6.0,2.0,0,0,0,62.0,154.83870967741936,DT Christian,bowled
+2390,Delhi Capitals,Rajasthan Royals,1304104,2022-05-11,KS Bharat,0,2,0.0,0.0,0,0,1,2.0,0.0,Azhar Mahmood,caught
+2391,Delhi Capitals,Rajasthan Royals,1304104,2022-05-11,MR Marsh,89,64,5.0,7.0,1,0,0,120.0,139.0625,UT Yadav,caught
+10115,Rajasthan Royals,Delhi Capitals,1304104,2022-05-11,YBK Jaiswal,19,19,1.0,1.0,0,0,0,26.0,100.0,R Rampaul,caught
+2392,Delhi Capitals,Rajasthan Royals,1304104,2022-05-11,RR Pant,13,4,0.0,2.0,0,0,0,21.0,325.0,AB Dinda,caught
+10111,Rajasthan Royals,Delhi Capitals,1304104,2022-05-11,R Ashwin,50,38,4.0,2.0,1,0,0,70.0,131.57894736842107,R Bhatia,bowled
+10110,Rajasthan Royals,Delhi Capitals,1304104,2022-05-11,JC Buttler,7,13,1.0,0.0,0,0,0,12.0,53.84615384615385,SK Trivedi,caught
+2389,Delhi Capitals,Rajasthan Royals,1304104,2022-05-11,DA Warner,52,44,5.0,1.0,1,0,0,71.0,118.1818181818182,RP Singh,bowled
+10112,Rajasthan Royals,Delhi Capitals,1304104,2022-05-11,R Parag,9,6,0.0,1.0,0,0,0,15.0,150.0,P Awana,caught
+7696,Mumbai Indians,Chennai Super Kings,1304105,2022-05-12,TH David,16,7,0.0,2.0,0,0,0,24.0,228.57142857142856,RP Singh,caught
+7695,Mumbai Indians,Chennai Super Kings,1304105,2022-05-12,T Stubbs,0,2,0.0,0.0,0,0,1,2.0,0.0,DT Christian,bowled
+7694,Mumbai Indians,Chennai Super Kings,1304105,2022-05-12,RG Sharma,18,16,4.0,0.0,0,0,0,26.0,112.5,BA Bhatt,run out
+7693,Mumbai Indians,Chennai Super Kings,1304105,2022-05-12,Ishan Kishan,6,5,1.0,0.0,0,0,0,11.0,120.0,AB Dinda,caught
+865,Chennai Super Kings,Mumbai Indians,1304105,2022-05-12,RV Uthappa,1,8,0.0,0.0,0,0,0,5.0,12.5,KA Pollard,caught
+866,Chennai Super Kings,Mumbai Indians,1304105,2022-05-12,S Dube,10,9,1.0,0.0,0,0,0,15.0,111.11111111111111,R Vinay Kumar,caught
+867,Chennai Super Kings,Mumbai Indians,1304105,2022-05-12,Simarjeet Singh,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,Azhar Mahmood,caught
+7697,Mumbai Indians,Chennai Super Kings,1304105,2022-05-12,Tilak Varma,34,34,4.0,0.0,0,0,0,42.0,100.0,SK Trivedi,caught
+7691,Mumbai Indians,Chennai Super Kings,1304105,2022-05-12,DR Sams,1,7,0.0,0.0,0,0,0,5.0,14.285714285714285,M Morkel,caught
+863,Chennai Super Kings,Mumbai Indians,1304105,2022-05-12,Mukesh Choudhary,4,4,1.0,0.0,0,0,0,9.0,100.0,A Mithun,caught
+862,Chennai Super Kings,Mumbai Indians,1304105,2022-05-12,MS Dhoni,36,37,4.0,2.0,0,0,0,48.0,97.2972972972973,PP Ojha,run out
+861,Chennai Super Kings,Mumbai Indians,1304105,2022-05-12,MM Ali,0,3,0.0,0.0,0,0,1,2.0,0.0,JE Taylor,caught
+860,Chennai Super Kings,Mumbai Indians,1304105,2022-05-12,M Theekshana,0,3,0.0,0.0,0,0,1,2.0,0.0,Harbhajan Singh,bowled
+859,Chennai Super Kings,Mumbai Indians,1304105,2022-05-12,DP Conway,0,1,0.0,0.0,0,0,1,2.0,0.0,JJ van der Wath,caught
+858,Chennai Super Kings,Mumbai Indians,1304105,2022-05-12,DJ Bravo,12,16,0.0,1.0,0,0,0,18.0,75.0,SL Malinga,run out
+857,Chennai Super Kings,Mumbai Indians,1304105,2022-05-12,AT Rayudu,10,14,2.0,0.0,0,0,0,16.0,71.42857142857143,PP Ojha,caught
+7692,Mumbai Indians,Chennai Super Kings,1304105,2022-05-12,HR Shokeen,18,23,2.0,0.0,0,0,0,24.0,78.26086956521739,Z Khan,caught
+864,Chennai Super Kings,Mumbai Indians,1304105,2022-05-12,RD Gaikwad,7,6,1.0,0.0,0,0,0,12.0,116.66666666666669,CH Gayle,caught
+9742,Punjab Kings,Royal Challengers Bangalore,1304106,2022-05-13,RD Chahar,2,2,0.0,0.0,0,0,0,6.0,100.0,KK Cooper,caught
+9741,Punjab Kings,Royal Challengers Bangalore,1304106,2022-05-13,R Dhawan,7,3,0.0,1.0,0,0,0,13.0,233.3333333333333,NLTC Perera,caught
+9740,Punjab Kings,Royal Challengers Bangalore,1304106,2022-05-13,PBB Rajapaksa,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,PP Ojha,caught
+9736,Punjab Kings,Royal Challengers Bangalore,1304106,2022-05-13,JM Sharma,9,5,2.0,0.0,0,0,0,15.0,180.0,UT Yadav,caught
+9738,Punjab Kings,Royal Challengers Bangalore,1304106,2022-05-13,LS Livingstone,70,44,5.0,4.0,1,0,0,95.0,159.0909090909091,JP Faulkner,caught
+9737,Punjab Kings,Royal Challengers Bangalore,1304106,2022-05-13,K Rabada,0,1,0.0,0.0,0,0,1,2.0,0.0,JH Kallis,run out
+9743,Punjab Kings,Royal Challengers Bangalore,1304106,2022-05-13,S Dhawan,21,15,2.0,1.0,0,0,0,29.0,140.0,Z Khan,caught
+9739,Punjab Kings,Royal Challengers Bangalore,1304106,2022-05-13,MA Agarwal,19,16,3.0,0.0,0,0,0,26.0,118.75,R Sathish,run out
+9734,Punjab Kings,Royal Challengers Bangalore,1304106,2022-05-13,Harpreet Brar,7,5,0.0,1.0,0,0,0,13.0,140.0,R Rampaul,caught
+12720,Royal Challengers Bangalore,Punjab Kings,1304106,2022-05-13,Shahbaz Ahmed,9,14,0.0,0.0,0,0,0,13.0,64.28571428571429,C Sakariya,caught
+12712,Royal Challengers Bangalore,Punjab Kings,1304106,2022-05-13,GJ Maxwell,35,23,3.0,1.0,0,0,0,44.0,152.17391304347828,CV Varun,bowled
+12721,Royal Challengers Bangalore,Punjab Kings,1304106,2022-05-13,V Kohli,20,16,2.0,1.0,0,0,0,28.0,125.0,AD Russell,caught
+12719,Royal Challengers Bangalore,Punjab Kings,1304106,2022-05-13,RM Patidar,26,24,1.0,2.0,0,0,0,35.0,108.33333333333331,Avesh Khan,bowled
+12718,Royal Challengers Bangalore,Punjab Kings,1304106,2022-05-13,PWH de Silva,1,4,0.0,0.0,0,0,0,5.0,25.0,CV Varun,bowled
+12717,Royal Challengers Bangalore,Punjab Kings,1304106,2022-05-13,Mohammed Siraj,9,13,1.0,0.0,0,0,0,14.0,69.23076923076923,RD Chahar,caught
+12713,Royal Challengers Bangalore,Punjab Kings,1304106,2022-05-13,HV Patel,11,8,2.0,0.0,0,0,0,17.0,137.5,YS Chahal,caught
+12714,Royal Challengers Bangalore,Punjab Kings,1304106,2022-05-13,JR Hazlewood,7,4,1.0,0.0,0,0,0,12.0,175.0,T Natarajan,caught
+12715,Royal Challengers Bangalore,Punjab Kings,1304106,2022-05-13,KD Karthik,11,11,1.0,0.0,0,0,0,16.0,100.0,A Nortje,caught
+12716,Royal Challengers Bangalore,Punjab Kings,1304106,2022-05-13,MK Lomror,6,3,0.0,1.0,0,0,0,12.0,200.0,Kartik Tyagi,run out
+12711,Royal Challengers Bangalore,Punjab Kings,1304106,2022-05-13,F du Plessis,10,8,2.0,0.0,0,0,0,16.0,125.0,K Rabada,caught
+9735,Punjab Kings,Royal Challengers Bangalore,1304106,2022-05-13,JM Bairstow,66,30,4.0,7.0,1,0,0,96.0,220.00000000000003,AB Dinda,caught
+13724,Sunrisers Hyderabad,Kolkata Knight Riders,1304107,2022-05-14,Umran Malik,3,5,0.0,0.0,0,0,0,7.0,60.0,Rashid Khan,bowled
+7317,Kolkata Knight Riders,Sunrisers Hyderabad,1304107,2022-05-14,N Rana,26,16,1.0,3.0,0,0,0,37.0,162.5,R Bhatia,bowled
+7321,Kolkata Knight Riders,Sunrisers Hyderabad,1304107,2022-05-14,SW Billings,34,31,3.0,1.0,0,0,0,43.0,109.6774193548387,R Rampaul,caught
+7320,Kolkata Knight Riders,Sunrisers Hyderabad,1304107,2022-05-14,SS Iyer,15,9,2.0,0.0,0,0,0,21.0,166.66666666666669,MM Patel,caught
+7319,Kolkata Knight Riders,Sunrisers Hyderabad,1304107,2022-05-14,SP Narine,1,2,0.0,0.0,0,0,0,5.0,50.0,VR Aaron,caught
+7318,Kolkata Knight Riders,Sunrisers Hyderabad,1304107,2022-05-14,RK Singh,5,7,0.0,0.0,0,0,0,9.0,71.42857142857143,P Awana,caught
+13725,Sunrisers Hyderabad,Kolkata Knight Riders,1304107,2022-05-14,Washington Sundar,4,9,0.0,0.0,0,0,0,8.0,44.44444444444444,I Sharma,caught
+7316,Kolkata Knight Riders,Sunrisers Hyderabad,1304107,2022-05-14,AM Rahane,28,25,0.0,3.0,0,0,0,38.0,112.0,SK Trivedi,caught
+7315,Kolkata Knight Riders,Sunrisers Hyderabad,1304107,2022-05-14,AD Russell,49,31,3.0,4.0,0,0,0,64.0,158.06451612903226,RP Singh,caught
+7322,Kolkata Knight Riders,Sunrisers Hyderabad,1304107,2022-05-14,VR Iyer,7,7,1.0,0.0,0,0,0,12.0,100.0,AB Dinda,caught
+13717,Sunrisers Hyderabad,Kolkata Knight Riders,1304107,2022-05-14,Abhishek Sharma,43,28,4.0,2.0,0,0,0,55.0,153.57142857142858,BA Stokes,bowled
+13716,Sunrisers Hyderabad,Kolkata Knight Riders,1304107,2022-05-14,AK Markram,32,25,0.0,3.0,0,0,0,42.0,128.0,HH Pandya,caught
+13719,Sunrisers Hyderabad,Kolkata Knight Riders,1304107,2022-05-14,KS Williamson,9,17,1.0,0.0,0,0,0,14.0,52.94117647058824,M Markande,lbw
+13723,Sunrisers Hyderabad,Kolkata Knight Riders,1304107,2022-05-14,Shashank Singh,11,12,1.0,0.0,0,0,0,16.0,91.66666666666666,TA Boult,caught
+13722,Sunrisers Hyderabad,Kolkata Knight Riders,1304107,2022-05-14,RA Tripathi,9,13,1.0,0.0,0,0,0,14.0,69.23076923076923,MJ McClenaghan,caught
+13721,Sunrisers Hyderabad,Kolkata Knight Riders,1304107,2022-05-14,N Pooran,2,4,0.0,0.0,0,0,0,6.0,50.0,S Gopal,caught
+13720,Sunrisers Hyderabad,Kolkata Knight Riders,1304107,2022-05-14,M Jansen,1,2,0.0,0.0,0,0,0,5.0,50.0,PP Chawla,caught
+13718,Sunrisers Hyderabad,Kolkata Knight Riders,1304107,2022-05-14,B Kumar,6,8,1.0,0.0,0,0,0,11.0,75.0,SP Narine,lbw
+10670,Rajasthan Royals,Lucknow Super Giants,1304109,2022-05-15,JC Buttler,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,SP Narine,lbw
+10669,Rajasthan Royals,Lucknow Super Giants,1304109,2022-05-15,D Padikkal,39,18,5.0,2.0,0,0,0,52.0,216.66666666666663,BA Stokes,bowled
+3970,Gujarat Titans,Chennai Super Kings,1304108,2022-05-15,DA Miller,15,21,1.0,0.0,0,0,0,20.0,71.42857142857143,JR Hopes,lbw
+3971,Gujarat Titans,Chennai Super Kings,1304108,2022-05-15,HH Pandya,7,6,1.0,0.0,0,0,0,12.0,116.66666666666669,MA Khote,caught
+275,Chennai Super Kings,Gujarat Titans,1304108,2022-05-15,MM Ali,21,18,0.0,2.0,0,0,0,29.0,116.66666666666669,PV Tambe,caught
+279,Chennai Super Kings,Gujarat Titans,1304108,2022-05-15,S Dube,0,2,0.0,0.0,0,0,1,2.0,0.0,UT Yadav,bowled
+3972,Gujarat Titans,Chennai Super Kings,1304108,2022-05-15,MS Wade,20,16,2.0,0.0,0,0,0,26.0,125.0,Z Khan,caught
+3973,Gujarat Titans,Chennai Super Kings,1304108,2022-05-15,Shubman Gill,18,17,3.0,0.0,0,0,0,25.0,105.88235294117648,Mohammad Asif,caught
+3974,Gujarat Titans,Chennai Super Kings,1304108,2022-05-15,WP Saha,67,59,8.0,1.0,1,0,0,89.0,113.55932203389833,SK Warne,caught
+278,Chennai Super Kings,Gujarat Titans,1304108,2022-05-15,RD Gaikwad,53,49,4.0,1.0,1,0,0,71.0,108.16326530612244,P Negi,caught
+277,Chennai Super Kings,Gujarat Titans,1304108,2022-05-15,N Jagadeesan,39,36,3.0,1.0,0,0,0,48.0,108.33333333333331,Shivam Sharma,caught
+273,Chennai Super Kings,Gujarat Titans,1304108,2022-05-15,DP Conway,5,9,0.0,0.0,0,0,0,9.0,55.55555555555556,P Awana,caught
+274,Chennai Super Kings,Gujarat Titans,1304108,2022-05-15,MJ Santner,1,1,0.0,0.0,0,0,0,5.0,100.0,PP Ojha,bowled
+276,Chennai Super Kings,Gujarat Titans,1304108,2022-05-15,MS Dhoni,7,10,0.0,0.0,0,0,0,11.0,70.0,L Balaji,bowled
+10671,Rajasthan Royals,Lucknow Super Giants,1304109,2022-05-15,JDS Neesham,14,12,2.0,0.0,0,0,0,20.0,116.66666666666669,M Markande,lbw
+7403,Lucknow Super Giants,Rajasthan Royals,1304109,2022-05-15,DJ Hooda,59,41,5.0,2.0,1,0,0,80.0,143.90243902439025,SK Warne,caught
+10673,Rajasthan Royals,Lucknow Super Giants,1304109,2022-05-15,R Parag,19,16,0.0,1.0,0,0,0,25.0,118.75,S Gopal,caught
+7401,Lucknow Super Giants,Rajasthan Royals,1304109,2022-05-15,A Badoni,0,1,0.0,0.0,0,0,1,2.0,0.0,Z Khan,caught
+7405,Lucknow Super Giants,Rajasthan Royals,1304109,2022-05-15,KH Pandya,25,23,1.0,1.0,0,0,0,32.0,108.69565217391305,VY Mahesh,caught
+10672,Rajasthan Royals,Lucknow Super Giants,1304109,2022-05-15,R Ashwin,10,8,1.0,0.0,0,0,0,15.0,125.0,PP Chawla,caught
+7402,Lucknow Super Giants,Rajasthan Royals,1304109,2022-05-15,Avesh Khan,1,2,0.0,0.0,0,0,0,5.0,50.0,Mohammad Asif,caught
+7407,Lucknow Super Giants,Rajasthan Royals,1304109,2022-05-15,MP Stoinis,27,18,1.0,2.0,0,0,0,36.0,150.0,Sohail Tanvir,caught
+7406,Lucknow Super Giants,Rajasthan Royals,1304109,2022-05-15,KL Rahul,10,19,0.0,1.0,0,0,0,16.0,52.63157894736842,R Vinay Kumar,caught
+10676,Rajasthan Royals,Lucknow Super Giants,1304109,2022-05-15,YBK Jaiswal,41,29,6.0,1.0,0,0,0,53.0,141.3793103448276,Rashid Khan,bowled
+10675,Rajasthan Royals,Lucknow Super Giants,1304109,2022-05-15,TA Boult,17,9,2.0,0.0,0,0,0,23.0,188.88888888888889,TA Boult,caught
+10674,Rajasthan Royals,Lucknow Super Giants,1304109,2022-05-15,SV Samson,32,25,6.0,0.0,0,0,0,42.0,128.0,MJ McClenaghan,caught
+7409,Lucknow Super Giants,Rajasthan Royals,1304109,2022-05-15,PVD Chameera,0,2,0.0,0.0,0,0,1,2.0,0.0,SL Malinga,bowled
+7410,Lucknow Super Giants,Rajasthan Royals,1304109,2022-05-15,Q de Kock,7,9,1.0,0.0,0,0,0,12.0,77.77777777777779,P Kumar,caught
+7408,Lucknow Super Giants,Rajasthan Royals,1304109,2022-05-15,Mohsin Khan (2),9,10,1.0,0.0,0,0,0,14.0,90.0,PP Ojha,caught
+7404,Lucknow Super Giants,Rajasthan Royals,1304109,2022-05-15,JO Holder,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,PP Ojha,caught
+9617,Punjab Kings,Delhi Capitals,1304110,2022-05-16,PBB Rajapaksa,4,6,1.0,0.0,0,0,0,9.0,66.66666666666666,L Balaji,caught
+9616,Punjab Kings,Delhi Capitals,1304110,2022-05-16,MA Agarwal,0,2,0.0,0.0,0,0,1,2.0,0.0,Z Khan,caught
+9615,Punjab Kings,Delhi Capitals,1304110,2022-05-16,LS Livingstone,3,5,0.0,0.0,0,0,0,7.0,60.0,KK Cooper,caught
+9613,Punjab Kings,Delhi Capitals,1304110,2022-05-16,JM Sharma,44,35,3.0,2.0,0,0,0,55.0,125.71428571428572,PP Ojha,caught
+9618,Punjab Kings,Delhi Capitals,1304110,2022-05-16,R Dhawan,4,13,0.0,0.0,0,0,0,8.0,30.76923076923077,JD Unadkat,caught
+9612,Punjab Kings,Delhi Capitals,1304110,2022-05-16,JM Bairstow,28,15,4.0,1.0,0,0,0,38.0,186.66666666666663,R Sathish,run out
+9611,Punjab Kings,Delhi Capitals,1304110,2022-05-16,Harpreet Brar,1,2,0.0,0.0,0,0,0,5.0,50.0,JP Faulkner,caught
+9614,Punjab Kings,Delhi Capitals,1304110,2022-05-16,K Rabada,6,4,0.0,1.0,0,0,0,12.0,150.0,NLTC Perera,caught
+9619,Punjab Kings,Delhi Capitals,1304110,2022-05-16,RD Chahar,25,25,2.0,1.0,0,0,0,33.0,100.0,PV Tambe,caught
+2327,Delhi Capitals,Punjab Kings,1304110,2022-05-16,MR Marsh,63,49,4.0,3.0,1,0,0,85.0,128.57142857142858,DW Steyn,bowled
+2325,Delhi Capitals,Punjab Kings,1304110,2022-05-16,Kuldeep Yadav,2,2,0.0,0.0,0,0,0,6.0,100.0,Sohail Tanvir,caught
+2324,Delhi Capitals,Punjab Kings,1304110,2022-05-16,DA Warner,0,1,0.0,0.0,0,0,1,2.0,0.0,DW Steyn,caught
+2323,Delhi Capitals,Punjab Kings,1304110,2022-05-16,AR Patel,17,21,2.0,0.0,0,0,0,23.0,80.95238095238095,DS Kulkarni,caught
+2326,Delhi Capitals,Punjab Kings,1304110,2022-05-16,Lalit Yadav,24,21,1.0,1.0,0,0,0,31.0,114.28571428571428,YK Pathan,caught
+2331,Delhi Capitals,Punjab Kings,1304110,2022-05-16,SN Thakur,3,4,0.0,0.0,0,0,0,7.0,75.0,TM Dilshan,caught
+2330,Delhi Capitals,Punjab Kings,1304110,2022-05-16,SN Khan,32,16,5.0,1.0,0,0,0,43.0,200.0,P Kumar,caught
+2329,Delhi Capitals,Punjab Kings,1304110,2022-05-16,RR Pant,7,3,0.0,1.0,0,0,0,13.0,233.3333333333333,A Nehra,caught and bowled
+2328,Delhi Capitals,Punjab Kings,1304110,2022-05-16,R Powell,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,Y Venugopal Rao,caught
+9620,Punjab Kings,Delhi Capitals,1304110,2022-05-16,S Dhawan,19,16,3.0,0.0,0,0,0,26.0,118.75,MG Johnson,caught
+9610,Punjab Kings,Delhi Capitals,1304110,2022-05-16,Arshdeep Singh,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,JH Kallis,run out
+13877,Sunrisers Hyderabad,Mumbai Indians,1304111,2022-05-17,KS Williamson,8,7,1.0,0.0,0,0,0,13.0,114.28571428571428,MA Khote,caught
+13881,Sunrisers Hyderabad,Mumbai Indians,1304111,2022-05-17,Washington Sundar,9,9,0.0,0.0,0,0,0,13.0,100.0,PP Ojha,caught
+13879,Sunrisers Hyderabad,Mumbai Indians,1304111,2022-05-17,PK Garg,42,26,4.0,2.0,0,0,0,54.0,161.53846153846155,Mohammad Asif,caught
+13880,Sunrisers Hyderabad,Mumbai Indians,1304111,2022-05-17,RA Tripathi,76,47,9.0,3.0,1,0,0,103.0,161.70212765957444,SK Warne,caught
+13878,Sunrisers Hyderabad,Mumbai Indians,1304111,2022-05-17,N Pooran,38,22,2.0,3.0,0,0,0,50.0,172.72727272727272,Z Khan,caught
+13876,Sunrisers Hyderabad,Mumbai Indians,1304111,2022-05-17,Abhishek Sharma,9,10,1.0,0.0,0,0,0,14.0,90.0,JR Hopes,lbw
+9181,Mumbai Indians,Sunrisers Hyderabad,1304111,2022-05-17,T Stubbs,2,2,0.0,0.0,0,0,0,6.0,100.0,SK Warne,caught
+9183,Mumbai Indians,Sunrisers Hyderabad,1304111,2022-05-17,Tilak Varma,8,10,1.0,0.0,0,0,0,13.0,80.0,VY Mahesh,caught
+9182,Mumbai Indians,Sunrisers Hyderabad,1304111,2022-05-17,TH David,46,20,3.0,4.0,0,0,0,61.0,230.0,PP Ojha,caught
+9180,Mumbai Indians,Sunrisers Hyderabad,1304111,2022-05-17,Ramandeep Singh,14,7,1.0,1.0,0,0,0,21.0,200.0,Mohammad Asif,caught
+9179,Mumbai Indians,Sunrisers Hyderabad,1304111,2022-05-17,RG Sharma,48,38,2.0,4.0,0,0,0,62.0,126.3157894736842,Z Khan,caught
+9178,Mumbai Indians,Sunrisers Hyderabad,1304111,2022-05-17,R Sanjay Yadav,0,2,0.0,0.0,0,0,1,2.0,0.0,MA Khote,caught
+9177,Mumbai Indians,Sunrisers Hyderabad,1304111,2022-05-17,JJ Bumrah,0,4,0.0,0.0,0,0,1,2.0,0.0,JR Hopes,lbw
+9176,Mumbai Indians,Sunrisers Hyderabad,1304111,2022-05-17,Ishan Kishan,43,35,5.0,1.0,0,0,0,54.0,122.85714285714286,YS Chahal,caught
+9175,Mumbai Indians,Sunrisers Hyderabad,1304111,2022-05-17,DR Sams,15,12,0.0,1.0,0,0,0,21.0,125.0,Mohammed Shami,caught
+13875,Sunrisers Hyderabad,Mumbai Indians,1304111,2022-05-17,AK Markram,2,4,0.0,0.0,0,0,0,6.0,50.0,YS Chahal,caught
+7366,Lucknow Super Giants,Kolkata Knight Riders,1304112,2022-05-18,Q de Kock,140,71,10.0,10.0,1,1,0,198.0,197.1830985915493,HH Pandya,caught
+6407,Kolkata Knight Riders,Lucknow Super Giants,1304112,2022-05-18,A Tomar,4,8,1.0,0.0,0,0,0,9.0,50.0,DP Nannes,caught
+7365,Lucknow Super Giants,Kolkata Knight Riders,1304112,2022-05-18,KL Rahul,68,51,3.0,4.0,1,0,0,91.0,133.33333333333331,JJ Bumrah,caught
+6415,Kolkata Knight Riders,Lucknow Super Giants,1304112,2022-05-18,VR Iyer,0,4,0.0,0.0,0,0,1,2.0,0.0,PP Ojha,stumped
+6414,Kolkata Knight Riders,Lucknow Super Giants,1304112,2022-05-18,UT Yadav,0,1,0.0,0.0,0,0,1,2.0,0.0,R Sharma,stumped
+6412,Kolkata Knight Riders,Lucknow Super Giants,1304112,2022-05-18,SS Iyer,50,30,4.0,3.0,1,0,0,72.0,166.66666666666669,Z Khan,caught
+6411,Kolkata Knight Riders,Lucknow Super Giants,1304112,2022-05-18,SP Narine,21,7,0.0,3.0,0,0,0,31.0,300.0,RJ Harris,bowled
+6410,Kolkata Knight Riders,Lucknow Super Giants,1304112,2022-05-18,RK Singh,40,17,2.0,4.0,0,0,0,54.0,235.29411764705884,JH Kallis,caught
+6409,Kolkata Knight Riders,Lucknow Super Giants,1304112,2022-05-18,N Rana,42,23,9.0,0.0,0,0,0,55.0,182.6086956521739,Z Khan,caught
+6408,Kolkata Knight Riders,Lucknow Super Giants,1304112,2022-05-18,AD Russell,5,11,0.0,0.0,0,0,0,9.0,45.45454545454545,Harmeet Singh,caught
+6413,Kolkata Knight Riders,Lucknow Super Giants,1304112,2022-05-18,SW Billings,36,26,2.0,3.0,0,0,0,48.0,138.46153846153845,KA Pollard,caught
+4052,Gujarat Titans,Royal Challengers Bangalore,1304113,2022-05-19,HH Pandya,62,47,4.0,3.0,1,0,0,84.0,131.91489361702128,A Nehra,run out
+12010,Royal Challengers Bangalore,Gujarat Titans,1304113,2022-05-19,F du Plessis,44,38,5.0,0.0,0,0,0,53.0,115.78947368421052,Z Khan,caught
+12011,Royal Challengers Bangalore,Gujarat Titans,1304113,2022-05-19,GJ Maxwell,40,19,5.0,2.0,0,0,0,53.0,210.52631578947367,AB Dinda,caught
+12012,Royal Challengers Bangalore,Gujarat Titans,1304113,2022-05-19,KD Karthik,2,2,0.0,0.0,0,0,0,6.0,100.0,BA Bhatt,run out
+12013,Royal Challengers Bangalore,Gujarat Titans,1304113,2022-05-19,V Kohli,73,56,8.0,2.0,1,0,0,97.0,130.35714285714286,DT Christian,bowled
+4053,Gujarat Titans,Royal Challengers Bangalore,1304113,2022-05-19,MS Wade,16,13,2.0,1.0,0,0,0,24.0,123.07692307692308,Swapnil Singh,caught and bowled
+4051,Gujarat Titans,Royal Challengers Bangalore,1304113,2022-05-19,DA Miller,34,26,0.0,3.0,0,0,0,44.0,130.76923076923077,SR Watson,caught
+4055,Gujarat Titans,Royal Challengers Bangalore,1304113,2022-05-19,Rashid Khan,19,6,1.0,2.0,0,0,0,28.0,316.66666666666663,RA Jadeja,lbw
+4056,Gujarat Titans,Royal Challengers Bangalore,1304113,2022-05-19,Shubman Gill,1,4,0.0,0.0,0,0,0,5.0,25.0,SR Watson,bowled
+4054,Gujarat Titans,Royal Challengers Bangalore,1304113,2022-05-19,R Tewatia,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,A Mishra,caught
+4057,Gujarat Titans,Royal Challengers Bangalore,1304113,2022-05-19,WP Saha,31,23,4.0,1.0,0,0,0,41.0,134.7826086956522,JJ Bumrah,bowled
+9982,Rajasthan Royals,Chennai Super Kings,1304114,2022-05-20,YBK Jaiswal,59,46,8.0,1.0,1,0,0,81.0,128.26086956521738,RP Singh,caught
+9981,Rajasthan Royals,Chennai Super Kings,1304114,2022-05-20,SV Samson,15,20,2.0,0.0,0,0,0,21.0,75.0,DT Christian,bowled
+9980,Rajasthan Royals,Chennai Super Kings,1304114,2022-05-20,SO Hetmyer,6,7,1.0,0.0,0,0,0,11.0,85.71428571428571,BA Bhatt,run out
+9978,Rajasthan Royals,Chennai Super Kings,1304114,2022-05-20,R Ashwin,40,23,2.0,3.0,0,0,0,52.0,173.91304347826087,Z Khan,caught
+9977,Rajasthan Royals,Chennai Super Kings,1304114,2022-05-20,JC Buttler,2,5,0.0,0.0,0,0,0,6.0,40.0,M Morkel,caught
+9976,Rajasthan Royals,Chennai Super Kings,1304114,2022-05-20,D Padikkal,3,9,0.0,0.0,0,0,0,7.0,33.33333333333333,DW Steyn,caught
+9979,Rajasthan Royals,Chennai Super Kings,1304114,2022-05-20,R Parag,10,12,1.0,0.0,0,0,0,15.0,83.33333333333334,AB Dinda,caught
+1114,Chennai Super Kings,Rajasthan Royals,1304114,2022-05-20,DP Conway,16,14,1.0,1.0,0,0,0,23.0,114.28571428571428,PP Ojha,bowled
+1120,Chennai Super Kings,Rajasthan Royals,1304114,2022-05-20,Simarjeet Singh,3,3,0.0,0.0,0,0,0,7.0,100.0,R Bhatia,caught
+1119,Chennai Super Kings,Rajasthan Royals,1304114,2022-05-20,RD Gaikwad,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,UT Yadav,bowled
+1118,Chennai Super Kings,Rajasthan Royals,1304114,2022-05-20,N Jagadeesan,1,4,0.0,0.0,0,0,0,5.0,25.0,P Negi,caught
+1117,Chennai Super Kings,Rajasthan Royals,1304114,2022-05-20,MS Dhoni,26,29,1.0,1.0,0,0,0,33.0,89.65517241379311,Shivam Sharma,caught
+1116,Chennai Super Kings,Rajasthan Royals,1304114,2022-05-20,MM Ali,93,60,13.0,3.0,1,0,0,124.0,155.0,L Balaji,bowled
+1115,Chennai Super Kings,Rajasthan Royals,1304114,2022-05-20,MJ Santner,1,2,0.0,0.0,0,0,0,5.0,50.0,PV Tambe,caught
+1113,Chennai Super Kings,Rajasthan Royals,1304114,2022-05-20,AT Rayudu,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,P Awana,caught
+2300,Delhi Capitals,Mumbai Indians,1304115,2022-05-21,AR Patel,19,10,0.0,2.0,0,0,0,27.0,190.0,Harbhajan Singh,bowled
+2301,Delhi Capitals,Mumbai Indians,1304115,2022-05-21,DA Warner,5,6,1.0,0.0,0,0,0,10.0,83.33333333333334,JE Taylor,caught
+2302,Delhi Capitals,Mumbai Indians,1304115,2022-05-21,Kuldeep Yadav,1,1,0.0,0.0,0,0,0,5.0,100.0,PP Ojha,run out
+2303,Delhi Capitals,Mumbai Indians,1304115,2022-05-21,MR Marsh,0,1,0.0,0.0,0,0,1,2.0,0.0,A Mithun,caught
+2304,Delhi Capitals,Mumbai Indians,1304115,2022-05-21,PP Shaw,24,23,2.0,1.0,0,0,0,32.0,104.34782608695652,CH Gayle,caught
+2305,Delhi Capitals,Mumbai Indians,1304115,2022-05-21,R Powell,43,38,1.0,4.0,0,0,0,56.0,113.1578947368421,KA Pollard,caught
+7848,Mumbai Indians,Delhi Capitals,1304115,2022-05-21,RG Sharma,2,14,0.0,0.0,0,0,0,6.0,14.285714285714285,AD Russell,caught
+2307,Delhi Capitals,Mumbai Indians,1304115,2022-05-21,SN Khan,10,7,0.0,1.0,0,0,0,16.0,142.85714285714286,Azhar Mahmood,caught
+7849,Mumbai Indians,Delhi Capitals,1304115,2022-05-21,Ramandeep Singh,13,6,2.0,0.0,0,0,0,19.0,216.66666666666663,PP Chawla,bowled
+2308,Delhi Capitals,Mumbai Indians,1304115,2022-05-21,SN Thakur,4,6,0.0,0.0,0,0,0,8.0,66.66666666666666,AA Jhunjhunwala,bowled
+7846,Mumbai Indians,Delhi Capitals,1304115,2022-05-21,DR Sams,0,1,0.0,0.0,0,0,1,2.0,0.0,TA Boult,caught
+7847,Mumbai Indians,Delhi Capitals,1304115,2022-05-21,Ishan Kishan,48,35,3.0,4.0,0,0,0,63.0,137.14285714285714,KA Pollard,caught and bowled
+2306,Delhi Capitals,Mumbai Indians,1304115,2022-05-21,RR Pant,39,36,4.0,1.0,0,0,0,49.0,108.33333333333331,R Vinay Kumar,caught
+7850,Mumbai Indians,Delhi Capitals,1304115,2022-05-21,TH David,34,12,2.0,4.0,0,0,0,48.0,283.33333333333337,A Ashish Reddy,bowled
+7845,Mumbai Indians,Delhi Capitals,1304115,2022-05-21,D Brevis,37,34,1.0,3.0,0,0,0,48.0,108.8235294117647,NM Coulter-Nile,caught
+7851,Mumbai Indians,Delhi Capitals,1304115,2022-05-21,Tilak Varma,21,17,1.0,1.0,0,0,0,28.0,123.52941176470588,D Wiese,caught
+9772,Punjab Kings,Sunrisers Hyderabad,1304116,2022-05-22,JM Bairstow,23,15,5.0,0.0,0,0,0,32.0,153.33333333333334,JJ Bumrah,bowled
+9773,Punjab Kings,Sunrisers Hyderabad,1304116,2022-05-22,JM Sharma,19,7,3.0,1.0,0,0,0,28.0,271.42857142857144,Kuldeep Yadav,stumped
+9774,Punjab Kings,Sunrisers Hyderabad,1304116,2022-05-22,LS Livingstone,49,24,2.0,5.0,0,0,0,65.0,204.16666666666663,Basil Thampi,caught
+9775,Punjab Kings,Sunrisers Hyderabad,1304116,2022-05-22,M Shahrukh Khan,19,10,2.0,1.0,0,0,0,27.0,190.0,Kuldeep Yadav,caught
+9776,Punjab Kings,Sunrisers Hyderabad,1304116,2022-05-22,MA Agarwal,1,4,0.0,0.0,0,0,0,5.0,25.0,S Kaul,caught
+9777,Punjab Kings,Sunrisers Hyderabad,1304116,2022-05-22,PN Mankad,4,1,1.0,0.0,0,0,0,9.0,400.0,PJ Cummins,run out
+9778,Punjab Kings,Sunrisers Hyderabad,1304116,2022-05-22,S Dhawan,39,34,2.0,2.0,0,0,0,49.0,114.70588235294116,JJ Bumrah,caught
+13917,Sunrisers Hyderabad,Punjab Kings,1304116,2022-05-22,AK Markram,21,17,2.0,0.0,0,0,0,27.0,123.52941176470588,BA Bhatt,run out
+13918,Sunrisers Hyderabad,Punjab Kings,1304116,2022-05-22,Abhishek Sharma,43,32,5.0,2.0,0,0,0,56.0,134.375,DT Christian,bowled
+13919,Sunrisers Hyderabad,Punjab Kings,1304116,2022-05-22,B Kumar,1,1,0.0,0.0,0,0,0,5.0,100.0,RP Singh,caught
+13920,Sunrisers Hyderabad,Punjab Kings,1304116,2022-05-22,J Suchith,0,1,0.0,0.0,0,0,1,2.0,0.0,SK Trivedi,caught
+13926,Sunrisers Hyderabad,Punjab Kings,1304116,2022-05-22,Washington Sundar,25,21,3.0,1.0,0,0,0,34.0,119.04761904761904,AB Dinda,caught
+13922,Sunrisers Hyderabad,Punjab Kings,1304116,2022-05-22,PK Garg,4,7,0.0,0.0,0,0,0,8.0,57.14285714285714,P Awana,caught
+13925,Sunrisers Hyderabad,Punjab Kings,1304116,2022-05-22,Umran Malik,0,1,0.0,0.0,0,0,1,2.0,0.0,R Rampaul,caught
+13921,Sunrisers Hyderabad,Punjab Kings,1304116,2022-05-22,N Pooran,5,11,0.0,0.0,0,0,0,9.0,45.45454545454545,R Bhatia,bowled
+13924,Sunrisers Hyderabad,Punjab Kings,1304116,2022-05-22,RA Tripathi,20,19,1.0,1.0,0,0,0,27.0,105.26315789473684,MM Patel,caught
+13923,Sunrisers Hyderabad,Punjab Kings,1304116,2022-05-22,R Shepherd,26,15,2.0,2.0,0,0,0,36.0,173.33333333333334,VR Aaron,caught
+4038,Gujarat Titans,Rajasthan Royals,1312197,2022-05-24,Shubman Gill,35,22,5.0,1.0,0,0,0,46.0,159.0909090909091,AD Russell,caught
+4037,Gujarat Titans,Rajasthan Royals,1312197,2022-05-24,MS Wade,35,32,6.0,0.0,0,0,0,45.0,109.375,KA Pollard,caught and bowled
+10265,Rajasthan Royals,Gujarat Titans,1312197,2022-05-24,SV Samson,47,26,5.0,3.0,0,0,0,62.0,180.7692307692308,Z Khan,caught
+4035,Gujarat Titans,Rajasthan Royals,1312197,2022-05-24,DA Miller,68,38,3.0,5.0,1,0,0,93.0,178.94736842105263,NM Coulter-Nile,caught
+4039,Gujarat Titans,Rajasthan Royals,1312197,2022-05-24,WP Saha,0,2,0.0,0.0,0,0,1,2.0,0.0,PP Chawla,bowled
+10266,Rajasthan Royals,Gujarat Titans,1312197,2022-05-24,YBK Jaiswal,3,8,0.0,0.0,0,0,0,7.0,37.5,Harbhajan Singh,lbw
+10260,Rajasthan Royals,Gujarat Titans,1312197,2022-05-24,D Padikkal,28,21,2.0,2.0,0,0,0,38.0,133.33333333333331,KA Pollard,caught and bowled
+10261,Rajasthan Royals,Gujarat Titans,1312197,2022-05-24,JC Buttler,89,60,12.0,2.0,1,0,0,117.0,148.33333333333334,AD Russell,caught
+10262,Rajasthan Royals,Gujarat Titans,1312197,2022-05-24,R Ashwin,2,2,0.0,0.0,0,0,0,6.0,100.0,PP Chawla,bowled
+10263,Rajasthan Royals,Gujarat Titans,1312197,2022-05-24,R Parag,4,3,0.0,0.0,0,0,0,8.0,133.33333333333331,A Ashish Reddy,bowled
+10264,Rajasthan Royals,Gujarat Titans,1312197,2022-05-24,SO Hetmyer,4,7,0.0,0.0,0,0,0,8.0,57.14285714285714,D Wiese,caught
+4036,Gujarat Titans,Rajasthan Royals,1312197,2022-05-24,HH Pandya,40,30,5.0,0.0,0,0,0,49.0,133.33333333333331,TA Boult,caught
+7428,Lucknow Super Giants,Royal Challengers Bangalore,1312198,2022-05-25,Q de Kock,6,5,0.0,1.0,0,0,0,12.0,120.0,Z Khan,caught
+7426,Lucknow Super Giants,Royal Challengers Bangalore,1312198,2022-05-25,MP Stoinis,9,12,0.0,1.0,0,0,0,15.0,75.0,JH Kallis,caught
+7425,Lucknow Super Giants,Royal Challengers Bangalore,1312198,2022-05-25,M Vohra,19,12,1.0,2.0,0,0,0,28.0,158.33333333333331,Z Khan,caught
+7424,Lucknow Super Giants,Royal Challengers Bangalore,1312198,2022-05-25,KL Rahul,79,59,3.0,5.0,1,0,0,104.0,133.89830508474577,Harmeet Singh,caught
+7423,Lucknow Super Giants,Royal Challengers Bangalore,1312198,2022-05-25,KH Pandya,0,1,0.0,0.0,0,0,1,2.0,0.0,DP Nannes,caught
+7427,Lucknow Super Giants,Royal Challengers Bangalore,1312198,2022-05-25,PVD Chameera,11,5,1.0,1.0,0,0,0,18.0,220.00000000000003,RJ Harris,bowled
+7422,Lucknow Super Giants,Royal Challengers Bangalore,1312198,2022-05-25,E Lewis,2,8,0.0,0.0,0,0,0,6.0,25.0,PP Ojha,bowled
+7421,Lucknow Super Giants,Royal Challengers Bangalore,1312198,2022-05-25,DJ Hooda,45,28,1.0,4.0,0,0,0,58.0,160.71428571428572,KA Pollard,caught and bowled
+12435,Royal Challengers Bangalore,Lucknow Super Giants,1312198,2022-05-25,F du Plessis,0,1,0.0,0.0,0,0,1,2.0,0.0,Swapnil Singh,caught and bowled
+12436,Royal Challengers Bangalore,Lucknow Super Giants,1312198,2022-05-25,GJ Maxwell,9,10,0.0,1.0,0,0,0,15.0,90.0,A Mishra,caught
+12437,Royal Challengers Bangalore,Lucknow Super Giants,1312198,2022-05-25,KD Karthik,37,25,5.0,1.0,0,0,0,48.0,148.0,RA Jadeja,lbw
+12438,Royal Challengers Bangalore,Lucknow Super Giants,1312198,2022-05-25,MK Lomror,14,9,2.0,0.0,0,0,0,20.0,155.55555555555557,SR Watson,bowled
+12439,Royal Challengers Bangalore,Lucknow Super Giants,1312198,2022-05-25,RM Patidar,112,55,12.0,7.0,1,1,0,166.0,203.63636363636363,JJ Bumrah,bowled
+12440,Royal Challengers Bangalore,Lucknow Super Giants,1312198,2022-05-25,V Kohli,25,26,2.0,0.0,0,0,0,31.0,96.15384615384616,Kuldeep Yadav,stumped
+12911,Royal Challengers Bangalore,Rajasthan Royals,1312199,2022-05-27,PWH de Silva,0,1,0.0,0.0,0,0,1,2.0,0.0,UT Yadav,caught
+12912,Royal Challengers Bangalore,Rajasthan Royals,1312199,2022-05-27,RM Patidar,58,47,4.0,3.0,1,0,0,80.0,123.40425531914892,JH Kallis,run out
+11112,Rajasthan Royals,Royal Challengers Bangalore,1312199,2022-05-27,SV Samson,23,21,1.0,2.0,0,0,0,32.0,109.52380952380952,KA Pollard,caught
+11111,Rajasthan Royals,Royal Challengers Bangalore,1312199,2022-05-27,SO Hetmyer,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,Z Khan,caught
+11110,Rajasthan Royals,Royal Challengers Bangalore,1312199,2022-05-27,JC Buttler,106,60,10.0,6.0,1,1,0,156.0,176.66666666666666,RJ Harris,bowled
+11109,Rajasthan Royals,Royal Challengers Bangalore,1312199,2022-05-27,D Padikkal,9,12,0.0,0.0,0,0,0,13.0,75.0,JH Kallis,caught
+11113,Rajasthan Royals,Royal Challengers Bangalore,1312199,2022-05-27,YBK Jaiswal,21,13,1.0,2.0,0,0,0,30.0,161.53846153846155,R Sharma,stumped
+12906,Royal Challengers Bangalore,Rajasthan Royals,1312199,2022-05-27,GJ Maxwell,24,13,1.0,2.0,0,0,0,33.0,184.6153846153846,P Awana,caught
+12910,Royal Challengers Bangalore,Rajasthan Royals,1312199,2022-05-27,MK Lomror,8,10,0.0,0.0,0,0,0,12.0,80.0,AB Dinda,caught
+12914,Royal Challengers Bangalore,Rajasthan Royals,1312199,2022-05-27,V Kohli,7,8,0.0,1.0,0,0,0,13.0,87.5,R Sathish,run out
+12913,Royal Challengers Bangalore,Rajasthan Royals,1312199,2022-05-27,Shahbaz Ahmed,12,10,1.0,1.0,0,0,0,19.0,120.0,JP Faulkner,caught
+12905,Royal Challengers Bangalore,Rajasthan Royals,1312199,2022-05-27,F du Plessis,25,27,3.0,0.0,0,0,0,32.0,92.5925925925926,R Bhatia,bowled
+12909,Royal Challengers Bangalore,Rajasthan Royals,1312199,2022-05-27,KD Karthik,6,7,0.0,0.0,0,0,0,10.0,85.71428571428571,R Rampaul,caught
+12907,Royal Challengers Bangalore,Rajasthan Royals,1312199,2022-05-27,HV Patel,1,2,0.0,0.0,0,0,0,5.0,50.0,VR Aaron,caught
+12908,Royal Challengers Bangalore,Rajasthan Royals,1312199,2022-05-27,JR Hazlewood,1,2,0.0,0.0,0,0,0,5.0,50.0,MM Patel,caught
+4044,Gujarat Titans,Rajasthan Royals,1312200,2022-05-29,WP Saha,5,7,1.0,0.0,0,0,0,10.0,71.42857142857143,HV Patel,caught
+4043,Gujarat Titans,Rajasthan Royals,1312200,2022-05-29,Shubman Gill,45,43,3.0,1.0,0,0,0,54.0,104.65116279069768,Harbhajan Singh,lbw
+4042,Gujarat Titans,Rajasthan Royals,1312200,2022-05-29,MS Wade,8,11,0.0,1.0,0,0,0,14.0,72.72727272727273,Z Khan,caught
+4041,Gujarat Titans,Rajasthan Royals,1312200,2022-05-29,HH Pandya,34,32,3.0,1.0,0,0,0,43.0,106.25,D Wiese,caught
+4040,Gujarat Titans,Rajasthan Royals,1312200,2022-05-29,DA Miller,32,20,3.0,1.0,0,0,0,41.0,160.0,A Ashish Reddy,bowled
+10274,Rajasthan Royals,Gujarat Titans,1312200,2022-05-29,TA Boult,11,7,0.0,1.0,0,0,0,17.0,157.14285714285714,SR Watson,caught
+10267,Rajasthan Royals,Gujarat Titans,1312200,2022-05-29,D Padikkal,2,10,0.0,0.0,0,0,0,6.0,20.0,HV Patel,caught
+10268,Rajasthan Royals,Gujarat Titans,1312200,2022-05-29,JC Buttler,39,35,5.0,0.0,0,0,0,48.0,111.42857142857144,SL Malinga,bowled
+10269,Rajasthan Royals,Gujarat Titans,1312200,2022-05-29,OC McCoy,8,5,0.0,1.0,0,0,0,14.0,160.0,MM Sharma,caught
+10271,Rajasthan Royals,Gujarat Titans,1312200,2022-05-29,R Parag,15,15,1.0,0.0,0,0,0,20.0,100.0,A Nehra,caught
+10272,Rajasthan Royals,Gujarat Titans,1312200,2022-05-29,SO Hetmyer,11,12,2.0,0.0,0,0,0,17.0,91.66666666666666,JJ Bumrah,caught
+10275,Rajasthan Royals,Gujarat Titans,1312200,2022-05-29,YBK Jaiswal,22,16,1.0,2.0,0,0,0,31.0,137.5,A Nehra,run out
+10273,Rajasthan Royals,Gujarat Titans,1312200,2022-05-29,SV Samson,14,11,2.0,0.0,0,0,0,20.0,127.27272727272728,Imran Tahir,caught
+10270,Rajasthan Royals,Gujarat Titans,1312200,2022-05-29,R Ashwin,6,9,0.0,0.0,0,0,0,10.0,66.66666666666666,HV Patel,caught

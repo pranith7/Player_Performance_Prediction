@@ -1,0 +1,76 @@
+{
+    "os": "Linux-5.15.0-58-generic-x86_64-with-glibc2.35",
+    "python": "3.10.6",
+    "heartbeatAt": "2023-01-20T10:11:23.027385",
+    "startedAt": "2023-01-20T10:11:21.883842",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "data_exploration-jvsc-9e16612a-c01b-4f32-b951-041b5ab6d12c462af550-28a5-4248-8bee-b4b5b875c5d9.ipynb",
+    "root": "/home/pranith/Desktop/Development/Player_Performance_Prediction",
+    "git": {
+        "remote": "https://github.com/pranith7/Player_Performance_Prediction.git",
+        "commit": "56a95669836cde9eeb1da29d006be70303762d69"
+    },
+    "email": "pashikantipranith7867@gmail.com",
+    "host": "pranith-Aspire-A315-55G",
+    "username": "pranith",
+    "executable": "/usr/bin/python3",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 1760.359125,
+        "min": 400.0,
+        "max": 3900.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1623.833,
+            "min": 400.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1800.0,
+            "min": 400.0,
+            "max": 3900.0
+        },
+        {
+            "current": 924.674,
+            "min": 400.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1788.945,
+            "min": 400.0,
+            "max": 3900.0
+        },
+        {
+            "current": 800.016,
+            "min": 400.0,
+            "max": 3900.0
+        },
+        {
+            "current": 800.006,
+            "min": 400.0,
+            "max": 3900.0
+        },
+        {
+            "current": 800.006,
+            "min": 400.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1847.567,
+            "min": 400.0,
+            "max": 3900.0
+        }
+    ],
+    "disk": {
+        "total": 915.3232879638672,
+        "used": 22.391613006591797
+    },
+    "memory": {
+        "total": 7.612373352050781
+    }
+}

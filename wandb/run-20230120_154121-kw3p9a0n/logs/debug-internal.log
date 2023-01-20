@@ -1,0 +1,198 @@
+2023-01-20 15:41:21,906 INFO    StreamThr :72062 [internal.py:wandb_internal():87] W&B internal server running at pid: 72062, started at: 2023-01-20 15:41:21.906013
+2023-01-20 15:41:21,909 DEBUG   HandlerThread:72062 [handler.py:handle_request():144] handle_request: status
+2023-01-20 15:41:21,930 INFO    WriterThread:72062 [datastore.py:open_for_write():85] open: /home/pranith/Desktop/Development/Player_Performance_Prediction/wandb/run-20230120_154121-kw3p9a0n/run-kw3p9a0n.wandb
+2023-01-20 15:41:21,931 DEBUG   SenderThread:72062 [sender.py:send():334] send: header
+2023-01-20 15:41:21,941 DEBUG   SenderThread:72062 [sender.py:send():334] send: run
+2023-01-20 15:41:22,839 INFO    SenderThread:72062 [dir_watcher.py:__init__():216] watching files in: /home/pranith/Desktop/Development/Player_Performance_Prediction/wandb/run-20230120_154121-kw3p9a0n/files
+2023-01-20 15:41:22,840 INFO    SenderThread:72062 [sender.py:_start_run_threads():1065] run started: kw3p9a0n with start time 1674209481.918291
+2023-01-20 15:41:22,840 DEBUG   SenderThread:72062 [sender.py:send_request():361] send_request: summary_record
+2023-01-20 15:41:22,841 INFO    SenderThread:72062 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2023-01-20 15:41:22,842 DEBUG   HandlerThread:72062 [handler.py:handle_request():144] handle_request: check_version
+2023-01-20 15:41:22,843 DEBUG   SenderThread:72062 [sender.py:send_request():361] send_request: check_version
+2023-01-20 15:41:22,965 DEBUG   HandlerThread:72062 [handler.py:handle_request():144] handle_request: run_start
+2023-01-20 15:41:22,966 DEBUG   HandlerThread:72062 [system_info.py:__init__():31] System info init
+2023-01-20 15:41:22,966 DEBUG   HandlerThread:72062 [system_info.py:__init__():46] System info init done
+2023-01-20 15:41:22,967 INFO    HandlerThread:72062 [system_monitor.py:start():151] Starting system monitor
+2023-01-20 15:41:22,967 INFO    SystemMonitor:72062 [system_monitor.py:_start():116] Starting system asset monitoring threads
+2023-01-20 15:41:22,967 INFO    HandlerThread:72062 [system_monitor.py:probe():172] Collecting system info
+2023-01-20 15:41:22,967 INFO    SystemMonitor:72062 [interfaces.py:start():168] Started cpu
+2023-01-20 15:41:22,968 INFO    SystemMonitor:72062 [interfaces.py:start():168] Started disk
+2023-01-20 15:41:22,969 INFO    SystemMonitor:72062 [interfaces.py:start():168] Started memory
+2023-01-20 15:41:22,969 INFO    SystemMonitor:72062 [interfaces.py:start():168] Started network
+2023-01-20 15:41:23,027 DEBUG   HandlerThread:72062 [system_info.py:probe():195] Probing system
+2023-01-20 15:41:23,032 DEBUG   HandlerThread:72062 [system_info.py:_probe_git():180] Probing git
+2023-01-20 15:41:23,051 DEBUG   HandlerThread:72062 [system_info.py:_probe_git():188] Probing git done
+2023-01-20 15:41:23,051 DEBUG   HandlerThread:72062 [system_info.py:probe():241] Probing system done
+2023-01-20 15:41:23,051 DEBUG   HandlerThread:72062 [system_monitor.py:probe():181] {'os': 'Linux-5.15.0-58-generic-x86_64-with-glibc2.35', 'python': '3.10.6', 'heartbeatAt': '2023-01-20T10:11:23.027385', 'startedAt': '2023-01-20T10:11:21.883842', 'docker': None, 'cuda': None, 'args': None, 'state': 'running', 'program': 'data_exploration-jvsc-9e16612a-c01b-4f32-b951-041b5ab6d12c462af550-28a5-4248-8bee-b4b5b875c5d9.ipynb', 'root': '/home/pranith/Desktop/Development/Player_Performance_Prediction', 'git': {'remote': 'https://github.com/pranith7/Player_Performance_Prediction.git', 'commit': '56a95669836cde9eeb1da29d006be70303762d69'}, 'email': 'pashikantipranith7867@gmail.com', 'host': 'pranith-Aspire-A315-55G', 'username': 'pranith', 'executable': '/usr/bin/python3', 'cpu_count': 4, 'cpu_count_logical': 8, 'cpu_freq': {'current': 1760.359125, 'min': 400.0, 'max': 3900.0}, 'cpu_freq_per_core': [{'current': 1623.833, 'min': 400.0, 'max': 3900.0}, {'current': 1800.0, 'min': 400.0, 'max': 3900.0}, {'current': 924.674, 'min': 400.0, 'max': 3900.0}, {'current': 1788.945, 'min': 400.0, 'max': 3900.0}, {'current': 800.016, 'min': 400.0, 'max': 3900.0}, {'current': 800.006, 'min': 400.0, 'max': 3900.0}, {'current': 800.006, 'min': 400.0, 'max': 3900.0}, {'current': 1847.567, 'min': 400.0, 'max': 3900.0}], 'disk': {'total': 915.3232879638672, 'used': 22.391613006591797}, 'memory': {'total': 7.612373352050781}}
+2023-01-20 15:41:23,051 INFO    HandlerThread:72062 [system_monitor.py:probe():182] Finished collecting system info
+2023-01-20 15:41:23,051 INFO    HandlerThread:72062 [system_monitor.py:probe():185] Publishing system info
+2023-01-20 15:41:23,051 DEBUG   HandlerThread:72062 [system_info.py:_save_pip():51] Saving list of pip packages installed into the current environment
+2023-01-20 15:41:23,052 DEBUG   HandlerThread:72062 [system_info.py:_save_pip():67] Saving pip packages done
+2023-01-20 15:41:23,053 INFO    HandlerThread:72062 [system_monitor.py:probe():187] Finished publishing system info
+2023-01-20 15:41:23,057 DEBUG   SenderThread:72062 [sender.py:send():334] send: files
+2023-01-20 15:41:23,057 INFO    SenderThread:72062 [sender.py:_save_file():1319] saving file wandb-metadata.json with policy now
+2023-01-20 15:41:23,074 DEBUG   SenderThread:72062 [sender.py:send():334] send: telemetry
+2023-01-20 15:41:23,074 DEBUG   HandlerThread:72062 [handler.py:handle_request():144] handle_request: partial_history
+2023-01-20 15:41:23,075 DEBUG   HandlerThread:72062 [handler.py:handle_request():144] handle_request: partial_history
+2023-01-20 15:41:23,076 DEBUG   HandlerThread:72062 [handler.py:handle_request():144] handle_request: stop_status
+2023-01-20 15:41:23,076 DEBUG   SenderThread:72062 [sender.py:send():334] send: history
+2023-01-20 15:41:23,076 DEBUG   HandlerThread:72062 [handler.py:handle_request():144] handle_request: partial_history
+2023-01-20 15:41:23,077 DEBUG   SenderThread:72062 [sender.py:send_request():361] send_request: summary_record
+2023-01-20 15:41:23,077 DEBUG   HandlerThread:72062 [handler.py:handle_request():144] handle_request: partial_history
+2023-01-20 15:41:23,078 DEBUG   HandlerThread:72062 [handler.py:handle_request():144] handle_request: partial_history
+2023-01-20 15:41:23,079 DEBUG   HandlerThread:72062 [handler.py:handle_request():144] handle_request: partial_history
+2023-01-20 15:41:23,079 DEBUG   HandlerThread:72062 [handler.py:handle_request():144] handle_request: partial_history
+2023-01-20 15:41:23,079 DEBUG   HandlerThread:72062 [handler.py:handle_request():144] handle_request: partial_history
+2023-01-20 15:41:23,080 INFO    SenderThread:72062 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2023-01-20 15:41:23,081 DEBUG   SenderThread:72062 [sender.py:send():334] send: history
+2023-01-20 15:41:23,081 DEBUG   SenderThread:72062 [sender.py:send_request():361] send_request: summary_record
+2023-01-20 15:41:23,081 INFO    SenderThread:72062 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2023-01-20 15:41:23,081 DEBUG   SenderThread:72062 [sender.py:send_request():361] send_request: stop_status
+2023-01-20 15:41:23,574 DEBUG   SenderThread:72062 [sender.py:send():334] send: history
+2023-01-20 15:41:23,575 DEBUG   SenderThread:72062 [sender.py:send_request():361] send_request: summary_record
+2023-01-20 15:41:23,580 INFO    SenderThread:72062 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2023-01-20 15:41:23,585 DEBUG   SenderThread:72062 [sender.py:send():334] send: history
+2023-01-20 15:41:23,586 DEBUG   SenderThread:72062 [sender.py:send_request():361] send_request: summary_record
+2023-01-20 15:41:23,594 INFO    SenderThread:72062 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2023-01-20 15:41:23,594 DEBUG   SenderThread:72062 [sender.py:send():334] send: history
+2023-01-20 15:41:23,594 DEBUG   SenderThread:72062 [sender.py:send_request():361] send_request: summary_record
+2023-01-20 15:41:23,595 INFO    SenderThread:72062 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2023-01-20 15:41:23,595 DEBUG   SenderThread:72062 [sender.py:send():334] send: history
+2023-01-20 15:41:23,596 DEBUG   SenderThread:72062 [sender.py:send_request():361] send_request: summary_record
+2023-01-20 15:41:23,596 INFO    SenderThread:72062 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2023-01-20 15:41:23,597 DEBUG   SenderThread:72062 [sender.py:send():334] send: history
+2023-01-20 15:41:23,597 DEBUG   SenderThread:72062 [sender.py:send_request():361] send_request: summary_record
+2023-01-20 15:41:23,599 INFO    SenderThread:72062 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2023-01-20 15:41:23,599 DEBUG   SenderThread:72062 [sender.py:send():334] send: history
+2023-01-20 15:41:23,600 DEBUG   SenderThread:72062 [sender.py:send_request():361] send_request: summary_record
+2023-01-20 15:41:23,600 INFO    SenderThread:72062 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2023-01-20 15:41:23,601 DEBUG   SenderThread:72062 [sender.py:send():334] send: telemetry
+2023-01-20 15:41:23,601 DEBUG   SenderThread:72062 [sender.py:send():334] send: exit
+2023-01-20 15:41:23,601 INFO    SenderThread:72062 [sender.py:send_exit():557] handling exit code: 0
+2023-01-20 15:41:23,601 INFO    SenderThread:72062 [sender.py:send_exit():559] handling runtime: 0
+2023-01-20 15:41:23,602 INFO    SenderThread:72062 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2023-01-20 15:41:23,602 INFO    SenderThread:72062 [sender.py:send_exit():565] send defer
+2023-01-20 15:41:23,602 DEBUG   HandlerThread:72062 [handler.py:handle_request():144] handle_request: defer
+2023-01-20 15:41:23,602 INFO    HandlerThread:72062 [handler.py:handle_request_defer():170] handle defer: 0
+2023-01-20 15:41:23,603 DEBUG   SenderThread:72062 [sender.py:send_request():361] send_request: defer
+2023-01-20 15:41:23,603 INFO    SenderThread:72062 [sender.py:send_request_defer():581] handle sender defer: 0
+2023-01-20 15:41:23,603 INFO    SenderThread:72062 [sender.py:transition_state():585] send defer: 1
+2023-01-20 15:41:23,603 DEBUG   HandlerThread:72062 [handler.py:handle_request():144] handle_request: defer
+2023-01-20 15:41:23,603 INFO    HandlerThread:72062 [handler.py:handle_request_defer():170] handle defer: 1
+2023-01-20 15:41:23,603 DEBUG   SenderThread:72062 [sender.py:send_request():361] send_request: defer
+2023-01-20 15:41:23,603 INFO    SenderThread:72062 [sender.py:send_request_defer():581] handle sender defer: 1
+2023-01-20 15:41:23,603 INFO    SenderThread:72062 [sender.py:transition_state():585] send defer: 2
+2023-01-20 15:41:23,604 DEBUG   HandlerThread:72062 [handler.py:handle_request():144] handle_request: defer
+2023-01-20 15:41:23,604 INFO    HandlerThread:72062 [handler.py:handle_request_defer():170] handle defer: 2
+2023-01-20 15:41:23,604 INFO    HandlerThread:72062 [system_monitor.py:finish():161] Stopping system monitor
+2023-01-20 15:41:23,604 DEBUG   SystemMonitor:72062 [system_monitor.py:_start():130] Starting system metrics aggregation loop
+2023-01-20 15:41:23,604 DEBUG   SystemMonitor:72062 [system_monitor.py:_start():137] Finished system metrics aggregation loop
+2023-01-20 15:41:23,604 DEBUG   SystemMonitor:72062 [system_monitor.py:_start():141] Publishing last batch of metrics
+2023-01-20 15:41:23,605 INFO    HandlerThread:72062 [interfaces.py:finish():175] Joined cpu
+2023-01-20 15:41:23,605 INFO    HandlerThread:72062 [interfaces.py:finish():175] Joined disk
+2023-01-20 15:41:23,605 INFO    HandlerThread:72062 [interfaces.py:finish():175] Joined memory
+2023-01-20 15:41:23,605 INFO    HandlerThread:72062 [interfaces.py:finish():175] Joined network
+2023-01-20 15:41:23,606 DEBUG   SenderThread:72062 [sender.py:send_request():361] send_request: defer
+2023-01-20 15:41:23,606 INFO    SenderThread:72062 [sender.py:send_request_defer():581] handle sender defer: 2
+2023-01-20 15:41:23,606 INFO    SenderThread:72062 [sender.py:transition_state():585] send defer: 3
+2023-01-20 15:41:23,607 DEBUG   SenderThread:72062 [sender.py:send():334] send: stats
+2023-01-20 15:41:23,607 DEBUG   HandlerThread:72062 [handler.py:handle_request():144] handle_request: defer
+2023-01-20 15:41:23,607 INFO    HandlerThread:72062 [handler.py:handle_request_defer():170] handle defer: 3
+2023-01-20 15:41:23,607 DEBUG   SenderThread:72062 [sender.py:send_request():361] send_request: defer
+2023-01-20 15:41:23,608 INFO    SenderThread:72062 [sender.py:send_request_defer():581] handle sender defer: 3
+2023-01-20 15:41:23,608 INFO    SenderThread:72062 [sender.py:transition_state():585] send defer: 4
+2023-01-20 15:41:23,608 DEBUG   HandlerThread:72062 [handler.py:handle_request():144] handle_request: defer
+2023-01-20 15:41:23,608 INFO    HandlerThread:72062 [handler.py:handle_request_defer():170] handle defer: 4
+2023-01-20 15:41:23,608 DEBUG   SenderThread:72062 [sender.py:send_request():361] send_request: defer
+2023-01-20 15:41:23,608 INFO    SenderThread:72062 [sender.py:send_request_defer():581] handle sender defer: 4
+2023-01-20 15:41:23,608 INFO    SenderThread:72062 [sender.py:transition_state():585] send defer: 5
+2023-01-20 15:41:23,608 DEBUG   HandlerThread:72062 [handler.py:handle_request():144] handle_request: defer
+2023-01-20 15:41:23,609 INFO    HandlerThread:72062 [handler.py:handle_request_defer():170] handle defer: 5
+2023-01-20 15:41:23,609 DEBUG   SenderThread:72062 [sender.py:send():334] send: summary
+2023-01-20 15:41:23,610 INFO    SenderThread:72062 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2023-01-20 15:41:23,610 DEBUG   SenderThread:72062 [sender.py:send_request():361] send_request: defer
+2023-01-20 15:41:23,610 INFO    SenderThread:72062 [sender.py:send_request_defer():581] handle sender defer: 5
+2023-01-20 15:41:23,610 INFO    SenderThread:72062 [sender.py:transition_state():585] send defer: 6
+2023-01-20 15:41:23,610 DEBUG   HandlerThread:72062 [handler.py:handle_request():144] handle_request: defer
+2023-01-20 15:41:23,610 INFO    HandlerThread:72062 [handler.py:handle_request_defer():170] handle defer: 6
+2023-01-20 15:41:23,610 DEBUG   SenderThread:72062 [sender.py:send_request():361] send_request: defer
+2023-01-20 15:41:23,611 INFO    SenderThread:72062 [sender.py:send_request_defer():581] handle sender defer: 6
+2023-01-20 15:41:23,616 DEBUG   HandlerThread:72062 [handler.py:handle_request():144] handle_request: status_report
+2023-01-20 15:41:23,845 INFO    Thread-13 :72062 [dir_watcher.py:_on_file_created():275] file/dir created: /home/pranith/Desktop/Development/Player_Performance_Prediction/wandb/run-20230120_154121-kw3p9a0n/files/wandb-summary.json
+2023-01-20 15:41:23,846 INFO    Thread-13 :72062 [dir_watcher.py:_on_file_created():275] file/dir created: /home/pranith/Desktop/Development/Player_Performance_Prediction/wandb/run-20230120_154121-kw3p9a0n/files/wandb-metadata.json
+2023-01-20 15:41:23,846 INFO    Thread-13 :72062 [dir_watcher.py:_on_file_created():275] file/dir created: /home/pranith/Desktop/Development/Player_Performance_Prediction/wandb/run-20230120_154121-kw3p9a0n/files/requirements.txt
+2023-01-20 15:41:24,079 DEBUG   HandlerThread:72062 [handler.py:handle_request():144] handle_request: poll_exit
+2023-01-20 15:41:24,235 INFO    SenderThread:72062 [sender.py:transition_state():585] send defer: 7
+2023-01-20 15:41:24,236 DEBUG   SenderThread:72062 [sender.py:send_request():361] send_request: poll_exit
+2023-01-20 15:41:24,236 DEBUG   HandlerThread:72062 [handler.py:handle_request():144] handle_request: defer
+2023-01-20 15:41:24,238 INFO    HandlerThread:72062 [handler.py:handle_request_defer():170] handle defer: 7
+2023-01-20 15:41:24,239 DEBUG   SenderThread:72062 [sender.py:send_request():361] send_request: defer
+2023-01-20 15:41:24,240 INFO    SenderThread:72062 [sender.py:send_request_defer():581] handle sender defer: 7
+2023-01-20 15:41:24,240 INFO    SenderThread:72062 [sender.py:transition_state():585] send defer: 8
+2023-01-20 15:41:24,241 DEBUG   HandlerThread:72062 [handler.py:handle_request():144] handle_request: defer
+2023-01-20 15:41:24,241 INFO    HandlerThread:72062 [handler.py:handle_request_defer():170] handle defer: 8
+2023-01-20 15:41:24,242 DEBUG   SenderThread:72062 [sender.py:send_request():361] send_request: defer
+2023-01-20 15:41:24,242 INFO    SenderThread:72062 [sender.py:send_request_defer():581] handle sender defer: 8
+2023-01-20 15:41:24,243 INFO    SenderThread:72062 [sender.py:transition_state():585] send defer: 9
+2023-01-20 15:41:24,243 DEBUG   HandlerThread:72062 [handler.py:handle_request():144] handle_request: defer
+2023-01-20 15:41:24,244 INFO    HandlerThread:72062 [handler.py:handle_request_defer():170] handle defer: 9
+2023-01-20 15:41:24,244 DEBUG   SenderThread:72062 [sender.py:send_request():361] send_request: defer
+2023-01-20 15:41:24,245 INFO    SenderThread:72062 [sender.py:send_request_defer():581] handle sender defer: 9
+2023-01-20 15:41:24,245 INFO    SenderThread:72062 [dir_watcher.py:finish():362] shutting down directory watcher
+2023-01-20 15:41:24,360 INFO    Thread-16 :72062 [upload_job.py:push():143] Uploaded file /tmp/tmp_p3mz2fpwandb/ifwvzicg-wandb-metadata.json
+2023-01-20 15:41:24,841 INFO    Thread-13 :72062 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/pranith/Desktop/Development/Player_Performance_Prediction/wandb/run-20230120_154121-kw3p9a0n/files/config.yaml
+2023-01-20 15:41:24,843 INFO    SenderThread:72062 [dir_watcher.py:finish():392] scan: /home/pranith/Desktop/Development/Player_Performance_Prediction/wandb/run-20230120_154121-kw3p9a0n/files
+2023-01-20 15:41:24,844 INFO    SenderThread:72062 [dir_watcher.py:finish():406] scan save: /home/pranith/Desktop/Development/Player_Performance_Prediction/wandb/run-20230120_154121-kw3p9a0n/files/wandb-metadata.json wandb-metadata.json
+2023-01-20 15:41:24,844 INFO    SenderThread:72062 [dir_watcher.py:finish():406] scan save: /home/pranith/Desktop/Development/Player_Performance_Prediction/wandb/run-20230120_154121-kw3p9a0n/files/requirements.txt requirements.txt
+2023-01-20 15:41:24,845 INFO    SenderThread:72062 [dir_watcher.py:finish():406] scan save: /home/pranith/Desktop/Development/Player_Performance_Prediction/wandb/run-20230120_154121-kw3p9a0n/files/wandb-summary.json wandb-summary.json
+2023-01-20 15:41:24,855 INFO    SenderThread:72062 [dir_watcher.py:finish():406] scan save: /home/pranith/Desktop/Development/Player_Performance_Prediction/wandb/run-20230120_154121-kw3p9a0n/files/config.yaml config.yaml
+2023-01-20 15:41:24,862 INFO    SenderThread:72062 [sender.py:transition_state():585] send defer: 10
+2023-01-20 15:41:24,868 DEBUG   HandlerThread:72062 [handler.py:handle_request():144] handle_request: defer
+2023-01-20 15:41:24,868 INFO    HandlerThread:72062 [handler.py:handle_request_defer():170] handle defer: 10
+2023-01-20 15:41:24,875 DEBUG   SenderThread:72062 [sender.py:send_request():361] send_request: defer
+2023-01-20 15:41:24,875 INFO    SenderThread:72062 [sender.py:send_request_defer():581] handle sender defer: 10
+2023-01-20 15:41:24,875 INFO    SenderThread:72062 [file_pusher.py:finish():160] shutting down file pusher
+2023-01-20 15:41:25,079 DEBUG   HandlerThread:72062 [handler.py:handle_request():144] handle_request: poll_exit
+2023-01-20 15:41:25,080 DEBUG   SenderThread:72062 [sender.py:send_request():361] send_request: poll_exit
+2023-01-20 15:41:26,083 DEBUG   HandlerThread:72062 [handler.py:handle_request():144] handle_request: poll_exit
+2023-01-20 15:41:26,084 DEBUG   SenderThread:72062 [sender.py:send_request():361] send_request: poll_exit
+2023-01-20 15:41:26,273 INFO    Thread-18 :72062 [upload_job.py:push():143] Uploaded file /home/pranith/Desktop/Development/Player_Performance_Prediction/wandb/run-20230120_154121-kw3p9a0n/files/wandb-summary.json
+2023-01-20 15:41:26,276 INFO    Thread-19 :72062 [upload_job.py:push():143] Uploaded file /home/pranith/Desktop/Development/Player_Performance_Prediction/wandb/run-20230120_154121-kw3p9a0n/files/config.yaml
+2023-01-20 15:41:26,276 INFO    Thread-17 :72062 [upload_job.py:push():143] Uploaded file /home/pranith/Desktop/Development/Player_Performance_Prediction/wandb/run-20230120_154121-kw3p9a0n/files/requirements.txt
+2023-01-20 15:41:26,480 INFO    Thread-12 (_thread_body):72062 [sender.py:transition_state():585] send defer: 11
+2023-01-20 15:41:26,481 DEBUG   HandlerThread:72062 [handler.py:handle_request():144] handle_request: defer
+2023-01-20 15:41:26,482 INFO    HandlerThread:72062 [handler.py:handle_request_defer():170] handle defer: 11
+2023-01-20 15:41:26,483 DEBUG   SenderThread:72062 [sender.py:send_request():361] send_request: defer
+2023-01-20 15:41:26,483 INFO    SenderThread:72062 [sender.py:send_request_defer():581] handle sender defer: 11
+2023-01-20 15:41:26,483 INFO    SenderThread:72062 [file_pusher.py:join():165] waiting for file pusher
+2023-01-20 15:41:26,483 INFO    SenderThread:72062 [sender.py:transition_state():585] send defer: 12
+2023-01-20 15:41:26,484 DEBUG   HandlerThread:72062 [handler.py:handle_request():144] handle_request: defer
+2023-01-20 15:41:26,484 INFO    HandlerThread:72062 [handler.py:handle_request_defer():170] handle defer: 12
+2023-01-20 15:41:26,485 DEBUG   SenderThread:72062 [sender.py:send_request():361] send_request: defer
+2023-01-20 15:41:26,485 INFO    SenderThread:72062 [sender.py:send_request_defer():581] handle sender defer: 12
+2023-01-20 15:41:27,085 DEBUG   HandlerThread:72062 [handler.py:handle_request():144] handle_request: poll_exit
+2023-01-20 15:41:27,540 INFO    SenderThread:72062 [sender.py:transition_state():585] send defer: 13
+2023-01-20 15:41:27,541 DEBUG   SenderThread:72062 [sender.py:send_request():361] send_request: poll_exit
+2023-01-20 15:41:27,541 DEBUG   HandlerThread:72062 [handler.py:handle_request():144] handle_request: defer
+2023-01-20 15:41:27,541 INFO    HandlerThread:72062 [handler.py:handle_request_defer():170] handle defer: 13
+2023-01-20 15:41:27,542 DEBUG   SenderThread:72062 [sender.py:send_request():361] send_request: defer
+2023-01-20 15:41:27,542 INFO    SenderThread:72062 [sender.py:send_request_defer():581] handle sender defer: 13
+2023-01-20 15:41:27,542 INFO    SenderThread:72062 [sender.py:transition_state():585] send defer: 14
+2023-01-20 15:41:27,543 DEBUG   HandlerThread:72062 [handler.py:handle_request():144] handle_request: defer
+2023-01-20 15:41:27,543 DEBUG   SenderThread:72062 [sender.py:send():334] send: final
+2023-01-20 15:41:27,543 INFO    HandlerThread:72062 [handler.py:handle_request_defer():170] handle defer: 14
+2023-01-20 15:41:27,543 DEBUG   SenderThread:72062 [sender.py:send():334] send: footer
+2023-01-20 15:41:27,543 DEBUG   SenderThread:72062 [sender.py:send_request():361] send_request: defer
+2023-01-20 15:41:27,543 INFO    SenderThread:72062 [sender.py:send_request_defer():581] handle sender defer: 14
+2023-01-20 15:41:27,544 DEBUG   HandlerThread:72062 [handler.py:handle_request():144] handle_request: poll_exit
+2023-01-20 15:41:27,545 DEBUG   HandlerThread:72062 [handler.py:handle_request():144] handle_request: server_info
+2023-01-20 15:41:27,545 DEBUG   SenderThread:72062 [sender.py:send_request():361] send_request: poll_exit
+2023-01-20 15:41:27,545 DEBUG   HandlerThread:72062 [handler.py:handle_request():144] handle_request: get_summary
+2023-01-20 15:41:27,545 DEBUG   SenderThread:72062 [sender.py:send_request():361] send_request: server_info
+2023-01-20 15:41:27,546 DEBUG   HandlerThread:72062 [handler.py:handle_request():144] handle_request: sampled_history
+2023-01-20 15:41:28,497 DEBUG   HandlerThread:72062 [handler.py:handle_request():144] handle_request: shutdown
+2023-01-20 15:41:28,498 INFO    HandlerThread:72062 [handler.py:finish():841] shutting down handler
+2023-01-20 15:41:28,546 INFO    WriterThread:72062 [datastore.py:close():299] close: /home/pranith/Desktop/Development/Player_Performance_Prediction/wandb/run-20230120_154121-kw3p9a0n/run-kw3p9a0n.wandb
+2023-01-20 15:41:29,495 INFO    SenderThread:72062 [sender.py:finish():1491] shutting down sender
+2023-01-20 15:41:29,495 INFO    SenderThread:72062 [file_pusher.py:finish():160] shutting down file pusher
+2023-01-20 15:41:29,495 INFO    SenderThread:72062 [file_pusher.py:join():165] waiting for file pusher
