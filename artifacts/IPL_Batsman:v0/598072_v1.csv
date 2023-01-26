@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Rajasthan Royals,598072,2013-05-24,AP Tare,35,27,3.0,2.0,0,0,0,46.0,129.62962962962962,KK Cooper,caught
+Mumbai Indians,Rajasthan Royals,598072,2013-05-24,AT Rayudu,17,12,1.0,1.0,0,0,0,24.0,141.66666666666669,SR Watson,bowled
+Mumbai Indians,Rajasthan Royals,598072,2013-05-24,DR Smith,62,47,6.0,2.0,1,0,0,84.0,131.91489361702128,STR Binny,caught
+Mumbai Indians,Rajasthan Royals,598072,2013-05-24,Harbhajan Singh,6,4,1.0,0.0,0,0,0,11.0,150.0,0,0
+Mumbai Indians,Rajasthan Royals,598072,2013-05-24,KA Pollard,11,6,0.0,1.0,0,0,0,17.0,183.3333333333333,JP Faulkner,caught
+Mumbai Indians,Rajasthan Royals,598072,2013-05-24,KD Karthik,22,17,3.0,0.0,0,0,0,29.0,129.41176470588235,KK Cooper,caught
+Mumbai Indians,Rajasthan Royals,598072,2013-05-24,R Dhawan,4,2,1.0,0.0,0,0,0,9.0,200.0,0,0
+Mumbai Indians,Rajasthan Royals,598072,2013-05-24,RG Sharma,2,8,0.0,0.0,0,0,0,6.0,25.0,SK Trivedi,bowled
+Rajasthan Royals,Mumbai Indians,598072,2013-05-24,AM Rahane,21,19,3.0,0.0,0,0,0,28.0,110.5263157894737,Harbhajan Singh,bowled
+Rajasthan Royals,Mumbai Indians,598072,2013-05-24,BJ Hodge,19,21,2.0,0.0,0,0,0,25.0,90.47619047619048,0,0
+Rajasthan Royals,Mumbai Indians,598072,2013-05-24,DH Yagnik,31,18,5.0,0.0,0,0,0,40.0,172.22222222222223,0,0
+Rajasthan Royals,Mumbai Indians,598072,2013-05-24,KK Cooper,4,2,1.0,0.0,0,0,0,9.0,200.0,KA Pollard,caught
+Rajasthan Royals,Mumbai Indians,598072,2013-05-24,R Dravid,43,37,7.0,0.0,0,0,0,54.0,116.2162162162162,Harbhajan Singh,caught
+Rajasthan Royals,Mumbai Indians,598072,2013-05-24,SR Watson,6,8,1.0,0.0,0,0,0,11.0,75.0,Harbhajan Singh,caught
+Rajasthan Royals,Mumbai Indians,598072,2013-05-24,STR Binny,27,18,3.0,1.0,0,0,0,36.0,150.0,KA Pollard,caught
+Rajasthan Royals,Mumbai Indians,598072,2013-05-24,SV Samson,0,2,0.0,0.0,0,0,1,2.0,0.0,SL Malinga,caught

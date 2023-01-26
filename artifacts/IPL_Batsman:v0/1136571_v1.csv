@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Rajasthan Royals,Royal Challengers Bangalore,1136571,2018-04-15,AM Rahane,36,22,6.0,1.0,0,0,0,48.0,163.63636363636363,CR Woakes,caught
+Rajasthan Royals,Royal Challengers Bangalore,1136571,2018-04-15,BA Stokes,27,22,2.0,1.0,0,0,0,35.0,122.72727272727272,YS Chahal,bowled
+Rajasthan Royals,Royal Challengers Bangalore,1136571,2018-04-15,DJM Short,11,18,1.0,0.0,0,0,0,16.0,61.11111111111112,YS Chahal,caught
+Rajasthan Royals,Royal Challengers Bangalore,1136571,2018-04-15,JC Buttler,23,15,2.0,1.0,0,0,0,31.0,153.33333333333334,CR Woakes,caught
+Rajasthan Royals,Royal Challengers Bangalore,1136571,2018-04-15,RA Tripathi,14,5,1.0,1.0,0,0,0,21.0,280.0,0,0
+Rajasthan Royals,Royal Challengers Bangalore,1136571,2018-04-15,SV Samson,92,46,2.0,10.0,1,0,0,126.0,200.0,0,0
+Royal Challengers Bangalore,Rajasthan Royals,1136571,2018-04-15,AB de Villiers,20,18,1.0,1.0,0,0,0,27.0,111.11111111111111,S Gopal,caught
+Royal Challengers Bangalore,Rajasthan Royals,1136571,2018-04-15,BB McCullum,4,4,1.0,0.0,0,0,0,9.0,100.0,K Gowtham,caught
+Royal Challengers Bangalore,Rajasthan Royals,1136571,2018-04-15,CR Woakes,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Royal Challengers Bangalore,Rajasthan Royals,1136571,2018-04-15,Mandeep Singh,47,25,6.0,1.0,0,0,0,59.0,188.0,0,0
+Royal Challengers Bangalore,Rajasthan Royals,1136571,2018-04-15,P Negi,3,4,0.0,0.0,0,0,0,7.0,75.0,B Laughlin,caught
+Royal Challengers Bangalore,Rajasthan Royals,1136571,2018-04-15,Q de Kock,26,19,4.0,0.0,0,0,0,34.0,136.8421052631579,DJM Short,caught
+Royal Challengers Bangalore,Rajasthan Royals,1136571,2018-04-15,V Kohli,57,31,7.0,2.0,1,0,0,80.0,183.8709677419355,S Gopal,caught
+Royal Challengers Bangalore,Rajasthan Royals,1136571,2018-04-15,Washington Sundar,35,21,1.0,3.0,0,0,0,46.0,166.66666666666669,BA Stokes,bowled

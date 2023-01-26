@@ -1,0 +1,11 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Gujarat Lions,Royal Challengers Bangalore,980937,2016-04-24,BB McCullum,42,25,5.0,2.0,0,0,0,55.0,168.0,T Shamsi,caught and bowled
+Gujarat Lions,Royal Challengers Bangalore,980937,2016-04-24,DJ Bravo,4,1,1.0,0.0,0,0,0,9.0,400.0,0,0
+Gujarat Lions,Royal Challengers Bangalore,980937,2016-04-24,DR Smith,32,22,3.0,2.0,0,0,0,43.0,145.45454545454547,KW Richardson,caught
+Gujarat Lions,Royal Challengers Bangalore,980937,2016-04-24,KD Karthik,50,40,3.0,0.0,1,0,0,65.0,125.0,0,0
+Gujarat Lions,Royal Challengers Bangalore,980937,2016-04-24,RA Jadeja,12,11,0.0,1.0,0,0,0,18.0,109.09090909090908,SR Watson,caught
+Gujarat Lions,Royal Challengers Bangalore,980937,2016-04-24,SK Raina,28,25,3.0,0.0,0,0,0,35.0,112.0,YS Chahal,caught
+Royal Challengers Bangalore,Gujarat Lions,980937,2016-04-24,AB de Villiers,20,16,2.0,0.0,0,0,0,26.0,125.0,PV Tambe,caught
+Royal Challengers Bangalore,Gujarat Lions,980937,2016-04-24,KL Rahul,51,36,4.0,3.0,1,0,0,73.0,141.66666666666669,0,0
+Royal Challengers Bangalore,Gujarat Lions,980937,2016-04-24,SR Watson,6,6,1.0,0.0,0,0,0,11.0,100.0,DS Kulkarni,caught
+Royal Challengers Bangalore,Gujarat Lions,980937,2016-04-24,V Kohli,100,64,11.0,1.0,1,1,0,141.0,156.25,0,0

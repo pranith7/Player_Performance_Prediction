@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Mumbai Indians,392197,2009-04-27,AB Dinda,0,1,0.0,0.0,0,0,1,2.0,0.0,SL Malinga,bowled
+Kolkata Knight Riders,Mumbai Indians,392197,2009-04-27,AN Ghosh,0,1,0.0,0.0,0,0,1,2.0,0.0,AM Nayar,caught
+Kolkata Knight Riders,Mumbai Indians,392197,2009-04-27,BAW Mendis,0,1,0.0,0.0,0,0,1,2.0,0.0,SL Malinga,bowled
+Kolkata Knight Riders,Mumbai Indians,392197,2009-04-27,BB McCullum,1,6,0.0,0.0,0,0,0,5.0,16.666666666666664,SL Malinga,caught
+Kolkata Knight Riders,Mumbai Indians,392197,2009-04-27,BJ Hodge,24,23,3.0,0.0,0,0,0,31.0,104.34782608695652,AM Nayar,bowled
+Kolkata Knight Riders,Mumbai Indians,392197,2009-04-27,CH Gayle,12,12,0.0,1.0,0,0,0,18.0,100.0,DJ Bravo,caught
+Kolkata Knight Riders,Mumbai Indians,392197,2009-04-27,I Sharma,6,3,1.0,0.0,0,0,0,11.0,200.0,0,0
+Kolkata Knight Riders,Mumbai Indians,392197,2009-04-27,LR Shukla,6,10,1.0,0.0,0,0,0,11.0,60.0,Z Khan,caught
+Kolkata Knight Riders,Mumbai Indians,392197,2009-04-27,SC Ganguly,34,30,3.0,1.0,0,0,0,43.0,113.33333333333331,AM Nayar,caught
+Kolkata Knight Riders,Mumbai Indians,392197,2009-04-27,Yashpal Singh,8,8,0.0,0.0,0,0,0,12.0,100.0,DJ Bravo,caught
+Mumbai Indians,Kolkata Knight Riders,392197,2009-04-27,AM Nayar,3,3,0.0,0.0,0,0,0,7.0,100.0,BAW Mendis,run out
+Mumbai Indians,Kolkata Knight Riders,392197,2009-04-27,DJ Bravo,3,5,0.0,0.0,0,0,0,7.0,60.0,LR Shukla,caught
+Mumbai Indians,Kolkata Knight Riders,392197,2009-04-27,Harbhajan Singh,18,8,1.0,2.0,0,0,0,27.0,225.0,BJ Hodge,caught
+Mumbai Indians,Kolkata Knight Riders,392197,2009-04-27,JP Duminy,18,14,1.0,0.0,0,0,0,23.0,128.57142857142858,0,0
+Mumbai Indians,Kolkata Knight Riders,392197,2009-04-27,S Dhawan,12,10,1.0,0.0,0,0,0,17.0,120.0,I Sharma,caught
+Mumbai Indians,Kolkata Knight Riders,392197,2009-04-27,SR Tendulkar,68,48,6.0,4.0,1,0,0,94.0,141.66666666666669,LR Shukla,lbw
+Mumbai Indians,Kolkata Knight Riders,392197,2009-04-27,SS Tiwary,4,3,0.0,0.0,0,0,0,8.0,133.33333333333331,0,0
+Mumbai Indians,Kolkata Knight Riders,392197,2009-04-27,ST Jayasuriya,52,33,2.0,4.0,1,0,0,74.0,157.57575757575756,LR Shukla,caught

@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Royal Challengers Bangalore,335982,2008-04-18,BB McCullum,158,77,10.0,13.0,1,1,0,222.0,205.1948051948052,0,0
+Kolkata Knight Riders,Royal Challengers Bangalore,335982,2008-04-18,DJ Hussey,12,12,1.0,0.0,0,0,0,17.0,100.0,AA Noffke,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,335982,2008-04-18,Mohammad Hafeez,5,3,1.0,0.0,0,0,0,10.0,166.66666666666669,0,0
+Kolkata Knight Riders,Royal Challengers Bangalore,335982,2008-04-18,RT Ponting,20,20,1.0,1.0,0,0,0,27.0,100.0,JH Kallis,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,335982,2008-04-18,SC Ganguly,10,12,2.0,0.0,0,0,0,16.0,83.33333333333334,Z Khan,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,AA Noffke,9,12,1.0,0.0,0,0,0,14.0,75.0,SC Ganguly,run out
+Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,B Akhil,0,2,0.0,0.0,0,0,1,2.0,0.0,AB Agarkar,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,CL White,6,10,0.0,0.0,0,0,0,10.0,60.0,AB Agarkar,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,JH Kallis,8,7,0.0,1.0,0,0,0,14.0,114.28571428571428,AB Agarkar,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,MV Boucher,7,11,1.0,0.0,0,0,0,12.0,63.63636363636363,SC Ganguly,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,P Kumar,18,17,1.0,2.0,0,0,0,27.0,105.88235294117648,0,0
+Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,R Dravid,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,I Sharma,bowled
+Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,SB Joshi,3,8,0.0,0.0,0,0,0,7.0,37.5,LR Shukla,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,V Kohli,1,5,0.0,0.0,0,0,0,5.0,20.0,AB Dinda,bowled
+Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,W Jaffer,6,18,0.0,0.0,0,0,0,10.0,33.33333333333333,AB Dinda,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,335982,2008-04-18,Z Khan,3,8,0.0,0.0,0,0,0,7.0,37.5,SC Ganguly,bowled

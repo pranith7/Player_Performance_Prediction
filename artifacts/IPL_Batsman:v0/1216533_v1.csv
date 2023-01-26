@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Rajasthan Royals,1216533,2020-10-19,AT Rayudu,13,19,2.0,0.0,0,0,0,19.0,68.42105263157895,R Tewatia,caught
+Chennai Super Kings,Rajasthan Royals,1216533,2020-10-19,F du Plessis,10,9,1.0,0.0,0,0,0,15.0,111.11111111111111,JC Archer,caught
+Chennai Super Kings,Rajasthan Royals,1216533,2020-10-19,KM Jadhav,4,7,0.0,0.0,0,0,0,8.0,57.14285714285714,0,0
+Chennai Super Kings,Rajasthan Royals,1216533,2020-10-19,MS Dhoni,28,28,2.0,0.0,0,0,0,34.0,100.0,Kartik Tyagi,run out
+Chennai Super Kings,Rajasthan Royals,1216533,2020-10-19,RA Jadeja,35,31,4.0,0.0,0,0,0,43.0,112.90322580645164,0,0
+Chennai Super Kings,Rajasthan Royals,1216533,2020-10-19,SM Curran,22,25,1.0,1.0,0,0,0,29.0,88.0,S Gopal,caught
+Chennai Super Kings,Rajasthan Royals,1216533,2020-10-19,SR Watson,8,3,2.0,0.0,0,0,0,14.0,266.66666666666663,Kartik Tyagi,caught
+Rajasthan Royals,Chennai Super Kings,1216533,2020-10-19,BA Stokes,19,11,3.0,0.0,0,0,0,26.0,172.72727272727272,DL Chahar,bowled
+Rajasthan Royals,Chennai Super Kings,1216533,2020-10-19,JC Buttler,70,49,7.0,2.0,1,0,0,93.0,142.85714285714286,0,0
+Rajasthan Royals,Chennai Super Kings,1216533,2020-10-19,RV Uthappa,4,9,0.0,0.0,0,0,0,8.0,44.44444444444444,JR Hazlewood,caught
+Rajasthan Royals,Chennai Super Kings,1216533,2020-10-19,SPD Smith,26,34,2.0,0.0,0,0,0,32.0,76.47058823529412,0,0
+Rajasthan Royals,Chennai Super Kings,1216533,2020-10-19,SV Samson,0,3,0.0,0.0,0,0,1,2.0,0.0,DL Chahar,caught

@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Royal Challengers Bangalore,598054,2013-05-10,BJ Rohrer,32,29,4.0,0.0,0,0,0,40.0,110.34482758620688,R Vinay Kumar,bowled
+Delhi Daredevils,Royal Challengers Bangalore,598054,2013-05-10,DA Warner,4,6,1.0,0.0,0,0,0,9.0,66.66666666666666,MC Henriques,bowled
+Delhi Daredevils,Royal Challengers Bangalore,598054,2013-05-10,DPMD Jayawardene,19,13,4.0,0.0,0,0,0,27.0,146.15384615384613,JD Unadkat,bowled
+Delhi Daredevils,Royal Challengers Bangalore,598054,2013-05-10,IK Pathan,23,11,2.0,2.0,0,0,0,33.0,209.0909090909091,0,0
+Delhi Daredevils,Royal Challengers Bangalore,598054,2013-05-10,KM Jadhav,8,8,0.0,0.0,0,0,0,12.0,100.0,JD Unadkat,caught
+Delhi Daredevils,Royal Challengers Bangalore,598054,2013-05-10,M Morkel,19,11,3.0,0.0,0,0,0,26.0,172.72727272727272,JD Unadkat,bowled
+Delhi Daredevils,Royal Challengers Bangalore,598054,2013-05-10,UBT Chand,41,36,4.0,1.0,0,0,0,51.0,113.88888888888889,JD Unadkat,caught
+Delhi Daredevils,Royal Challengers Bangalore,598054,2013-05-10,UT Yadav,4,1,1.0,0.0,0,0,0,9.0,400.0,0,0
+Delhi Daredevils,Royal Challengers Bangalore,598054,2013-05-10,V Sehwag,18,10,4.0,0.0,0,0,0,26.0,180.0,JD Unadkat,caught
+Royal Challengers Bangalore,Delhi Daredevils,598054,2013-05-10,AB de Villiers,32,17,2.0,2.0,0,0,0,42.0,188.23529411764704,0,0
+Royal Challengers Bangalore,Delhi Daredevils,598054,2013-05-10,CA Pujara,17,18,3.0,0.0,0,0,0,24.0,94.44444444444444,S Kaul,bowled
+Royal Challengers Bangalore,Delhi Daredevils,598054,2013-05-10,CH Gayle,4,7,1.0,0.0,0,0,0,9.0,57.14285714285714,IK Pathan,bowled
+Royal Challengers Bangalore,Delhi Daredevils,598054,2013-05-10,MC Henriques,26,23,3.0,0.0,0,0,0,33.0,113.04347826086956,S Nadeem,caught and bowled
+Royal Challengers Bangalore,Delhi Daredevils,598054,2013-05-10,V Kohli,99,59,10.0,4.0,1,0,0,129.0,167.79661016949152,UT Yadav,run out

@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Kings XI Punjab,336039,2008-05-31,PA Patel,51,52,8.0,0.0,1,0,0,71.0,98.07692307692308,0,0
+Chennai Super Kings,Kings XI Punjab,336039,2008-05-31,S Vidyut,6,7,1.0,0.0,0,0,0,11.0,85.71428571428571,IK Pathan,caught
+Chennai Super Kings,Kings XI Punjab,336039,2008-05-31,SK Raina,55,34,4.0,4.0,1,0,0,79.0,161.76470588235296,0,0
+Kings XI Punjab,Chennai Super Kings,336039,2008-05-31,DPMD Jayawardene,8,10,1.0,0.0,0,0,0,13.0,80.0,JA Morkel,caught
+Kings XI Punjab,Chennai Super Kings,336039,2008-05-31,IK Pathan,3,12,0.0,0.0,0,0,0,7.0,25.0,MS Gony,run out
+Kings XI Punjab,Chennai Super Kings,336039,2008-05-31,JR Hopes,2,5,0.0,0.0,0,0,0,6.0,40.0,M Ntini,caught
+Kings XI Punjab,Chennai Super Kings,336039,2008-05-31,KC Sangakkara,3,4,0.0,0.0,0,0,0,7.0,75.0,MS Gony,caught
+Kings XI Punjab,Chennai Super Kings,336039,2008-05-31,PP Chawla,12,15,1.0,0.0,0,0,0,17.0,80.0,M Muralitharan,bowled
+Kings XI Punjab,Chennai Super Kings,336039,2008-05-31,RR Powar,28,21,4.0,1.0,0,0,0,38.0,133.33333333333331,0,0
+Kings XI Punjab,Chennai Super Kings,336039,2008-05-31,S Sreesanth,0,2,0.0,0.0,0,0,1,2.0,0.0,0,0
+Kings XI Punjab,Chennai Super Kings,336039,2008-05-31,SE Marsh,23,17,3.0,1.0,0,0,0,32.0,135.29411764705884,M Ntini,bowled
+Kings XI Punjab,Chennai Super Kings,336039,2008-05-31,WA Mota,25,27,2.0,0.0,0,0,0,31.0,92.5925925925926,JA Morkel,caught
+Kings XI Punjab,Chennai Super Kings,336039,2008-05-31,Yuvraj Singh,4,9,0.0,0.0,0,0,0,8.0,44.44444444444444,MS Gony,caught

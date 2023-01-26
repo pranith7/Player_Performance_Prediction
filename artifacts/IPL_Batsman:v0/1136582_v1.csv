@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Kings XI Punjab,1136582,2018-04-23,A Mishra,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Delhi Daredevils,Kings XI Punjab,1136582,2018-04-23,DT Christian,6,11,0.0,0.0,0,0,0,10.0,54.54545454545454,R Ashwin,run out
+Delhi Daredevils,Kings XI Punjab,1136582,2018-04-23,G Gambhir,4,16,0.0,0.0,0,0,0,8.0,25.0,AJ Tye,caught
+Delhi Daredevils,Kings XI Punjab,1136582,2018-04-23,GJ Maxwell,12,10,1.0,1.0,0,0,0,19.0,120.0,AS Rajpoot,caught
+Delhi Daredevils,Kings XI Punjab,1136582,2018-04-23,LE Plunkett,0,1,0.0,0.0,0,0,1,2.0,0.0,BB Sran,caught
+Delhi Daredevils,Kings XI Punjab,1136582,2018-04-23,PP Shaw,22,10,4.0,0.0,0,0,0,30.0,220.00000000000003,AS Rajpoot,bowled
+Delhi Daredevils,Kings XI Punjab,1136582,2018-04-23,R Tewatia,24,24,1.0,1.0,0,0,0,31.0,100.0,AJ Tye,caught
+Delhi Daredevils,Kings XI Punjab,1136582,2018-04-23,RR Pant,4,7,0.0,0.0,0,0,0,8.0,57.14285714285714,Mujeeb Ur Rahman,bowled
+Delhi Daredevils,Kings XI Punjab,1136582,2018-04-23,SS Iyer,57,46,5.0,1.0,1,0,0,76.0,123.91304347826086,Mujeeb Ur Rahman,caught
+Kings XI Punjab,Delhi Daredevils,1136582,2018-04-23,AJ Finch,2,4,0.0,0.0,0,0,0,6.0,50.0,Avesh Khan,caught
+Kings XI Punjab,Delhi Daredevils,1136582,2018-04-23,AJ Tye,3,9,0.0,0.0,0,0,0,7.0,33.33333333333333,TA Boult,bowled
+Kings XI Punjab,Delhi Daredevils,1136582,2018-04-23,BB Sran,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Kings XI Punjab,Delhi Daredevils,1136582,2018-04-23,DA Miller,26,20,1.0,1.0,0,0,0,33.0,130.0,DT Christian,caught
+Kings XI Punjab,Delhi Daredevils,1136582,2018-04-23,KK Nair,34,33,4.0,0.0,0,0,0,42.0,103.03030303030305,LE Plunkett,caught
+Kings XI Punjab,Delhi Daredevils,1136582,2018-04-23,KL Rahul,23,15,3.0,1.0,0,0,0,32.0,153.33333333333334,LE Plunkett,caught
+Kings XI Punjab,Delhi Daredevils,1136582,2018-04-23,MA Agarwal,21,16,3.0,0.0,0,0,0,28.0,131.25,LE Plunkett,bowled
+Kings XI Punjab,Delhi Daredevils,1136582,2018-04-23,R Ashwin,6,9,0.0,0.0,0,0,0,10.0,66.66666666666666,TA Boult,caught
+Kings XI Punjab,Delhi Daredevils,1136582,2018-04-23,Yuvraj Singh,14,17,1.0,0.0,0,0,0,19.0,82.35294117647058,Avesh Khan,caught

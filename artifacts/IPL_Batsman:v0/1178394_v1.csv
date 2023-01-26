@@ -1,0 +1,20 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Sunrisers Hyderabad,1178394,2019-04-06,HH Pandya,14,14,0.0,1.0,0,0,0,20.0,100.0,Rashid Khan,caught
+Mumbai Indians,Sunrisers Hyderabad,1178394,2019-04-06,Ishan Kishan,17,21,2.0,0.0,0,0,0,23.0,80.95238095238095,Rashid Khan,run out
+Mumbai Indians,Sunrisers Hyderabad,1178394,2019-04-06,KA Pollard,46,28,2.0,4.0,0,0,0,60.0,164.28571428571428,0,0
+Mumbai Indians,Sunrisers Hyderabad,1178394,2019-04-06,KH Pandya,6,14,0.0,0.0,0,0,0,10.0,42.85714285714285,S Kaul,caught
+Mumbai Indians,Sunrisers Hyderabad,1178394,2019-04-06,Q de Kock,19,18,1.0,1.0,0,0,0,26.0,105.55555555555556,S Kaul,caught
+Mumbai Indians,Sunrisers Hyderabad,1178394,2019-04-06,RD Chahar,10,7,2.0,0.0,0,0,0,16.0,142.85714285714286,B Kumar,caught
+Mumbai Indians,Sunrisers Hyderabad,1178394,2019-04-06,RG Sharma,11,14,0.0,1.0,0,0,0,17.0,78.57142857142857,Mohammad Nabi,caught
+Mumbai Indians,Sunrisers Hyderabad,1178394,2019-04-06,SA Yadav,7,8,1.0,0.0,0,0,0,12.0,87.5,Sandeep Sharma,lbw
+Sunrisers Hyderabad,Mumbai Indians,1178394,2019-04-06,B Kumar,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,AS Joseph,bowled
+Sunrisers Hyderabad,Mumbai Indians,1178394,2019-04-06,DA Warner,15,14,2.0,0.0,0,0,0,21.0,107.14285714285714,AS Joseph,bowled
+Sunrisers Hyderabad,Mumbai Indians,1178394,2019-04-06,DJ Hooda,20,26,1.0,0.0,0,0,0,25.0,76.92307692307693,AS Joseph,bowled
+Sunrisers Hyderabad,Mumbai Indians,1178394,2019-04-06,JM Bairstow,16,10,3.0,0.0,0,0,0,23.0,160.0,RD Chahar,caught
+Sunrisers Hyderabad,Mumbai Indians,1178394,2019-04-06,MK Pandey,16,21,0.0,0.0,0,0,0,20.0,76.19047619047619,JP Behrendorff,caught
+Sunrisers Hyderabad,Mumbai Indians,1178394,2019-04-06,Mohammad Nabi,11,14,0.0,1.0,0,0,0,17.0,78.57142857142857,JJ Bumrah,caught
+Sunrisers Hyderabad,Mumbai Indians,1178394,2019-04-06,Rashid Khan,0,1,0.0,0.0,0,0,1,2.0,0.0,AS Joseph,caught and bowled
+Sunrisers Hyderabad,Mumbai Indians,1178394,2019-04-06,S Kaul,0,1,0.0,0.0,0,0,1,2.0,0.0,AS Joseph,caught
+Sunrisers Hyderabad,Mumbai Indians,1178394,2019-04-06,Sandeep Sharma,5,2,1.0,0.0,0,0,0,10.0,250.0,0,0
+Sunrisers Hyderabad,Mumbai Indians,1178394,2019-04-06,V Shankar,5,10,1.0,0.0,0,0,0,10.0,50.0,AS Joseph,caught
+Sunrisers Hyderabad,Mumbai Indians,1178394,2019-04-06,YK Pathan,0,4,0.0,0.0,0,0,1,2.0,0.0,RD Chahar,caught

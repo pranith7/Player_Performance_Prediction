@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Sunrisers Hyderabad,734037,2014-05-24,G Gambhir,28,18,4.0,1.0,0,0,0,38.0,155.55555555555557,JO Holder,bowled
+Kolkata Knight Riders,Sunrisers Hyderabad,734037,2014-05-24,MK Pandey,2,8,0.0,0.0,0,0,0,6.0,25.0,KV Sharma,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,734037,2014-05-24,RN ten Doeschate,0,1,0.0,0.0,0,0,1,2.0,0.0,KV Sharma,run out
+Kolkata Knight Riders,Sunrisers Hyderabad,734037,2014-05-24,RV Uthappa,41,30,4.0,2.0,0,0,0,53.0,136.66666666666666,KV Sharma,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,734037,2014-05-24,SA Yadav,12,6,1.0,1.0,0,0,0,19.0,200.0,0,0
+Kolkata Knight Riders,Sunrisers Hyderabad,734037,2014-05-24,Shakib Al Hasan,1,5,0.0,0.0,0,0,0,5.0,20.0,KV Sharma,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,734037,2014-05-24,YK Pathan,72,22,5.0,7.0,1,0,0,103.0,327.2727272727273,KV Sharma,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,734037,2014-05-24,DA Warner,4,3,1.0,0.0,0,0,0,9.0,133.33333333333331,M Morkel,bowled
+Sunrisers Hyderabad,Kolkata Knight Riders,734037,2014-05-24,DJG Sammy,29,20,1.0,3.0,0,0,0,40.0,145.0,R Vinay Kumar,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,734037,2014-05-24,JO Holder,16,12,2.0,1.0,0,0,0,24.0,133.33333333333331,R Vinay Kumar,run out
+Sunrisers Hyderabad,Kolkata Knight Riders,734037,2014-05-24,KV Sharma,5,2,1.0,0.0,0,0,0,10.0,250.0,0,0
+Sunrisers Hyderabad,Kolkata Knight Riders,734037,2014-05-24,NV Ojha,26,24,5.0,1.0,0,0,0,37.0,108.33333333333331,RN ten Doeschate,caught and bowled
+Sunrisers Hyderabad,Kolkata Knight Riders,734037,2014-05-24,S Anirudha,3,5,0.0,0.0,0,0,0,7.0,60.0,Shakib Al Hasan,stumped
+Sunrisers Hyderabad,Kolkata Knight Riders,734037,2014-05-24,S Dhawan,29,31,5.0,0.0,0,0,0,38.0,93.5483870967742,Shakib Al Hasan,run out
+Sunrisers Hyderabad,Kolkata Knight Riders,734037,2014-05-24,Y Venugopal Rao,27,27,4.0,0.0,0,0,0,35.0,100.0,Shakib Al Hasan,run out

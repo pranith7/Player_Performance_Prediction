@@ -1,0 +1,20 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Rajasthan Royals,598005,2013-04-08,B Lee,5,6,1.0,0.0,0,0,0,10.0,83.33333333333334,S Sreesanth,caught
+Kolkata Knight Riders,Rajasthan Royals,598005,2013-04-08,EJG Morgan,51,39,3.0,3.0,1,0,0,72.0,130.76923076923077,KK Cooper,bowled
+Kolkata Knight Riders,Rajasthan Royals,598005,2013-04-08,G Gambhir,22,23,1.0,1.0,0,0,0,29.0,95.65217391304348,SK Trivedi,caught
+Kolkata Knight Riders,Rajasthan Royals,598005,2013-04-08,JH Kallis,0,2,0.0,0.0,0,0,1,2.0,0.0,R Shukla,caught
+Kolkata Knight Riders,Rajasthan Royals,598005,2013-04-08,LR Shukla,2,10,0.0,0.0,0,0,0,6.0,20.0,SK Trivedi,caught
+Kolkata Knight Riders,Rajasthan Royals,598005,2013-04-08,MK Tiwary,14,13,1.0,0.0,0,0,0,19.0,107.6923076923077,SK Trivedi,lbw
+Kolkata Knight Riders,Rajasthan Royals,598005,2013-04-08,MS Bisla,1,6,0.0,0.0,0,0,0,5.0,16.666666666666664,R Shukla,bowled
+Kolkata Knight Riders,Rajasthan Royals,598005,2013-04-08,Mohammed Shami,5,10,0.0,0.0,0,0,0,9.0,50.0,KK Cooper,caught
+Kolkata Knight Riders,Rajasthan Royals,598005,2013-04-08,R Bhatia,12,7,2.0,0.0,0,0,0,18.0,171.42857142857142,SW Tait,caught
+Kolkata Knight Riders,Rajasthan Royals,598005,2013-04-08,SP Narine,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Kolkata Knight Riders,Rajasthan Royals,598005,2013-04-08,YK Pathan,0,2,0.0,0.0,0,0,1,2.0,0.0,KK Cooper,caught
+Rajasthan Royals,Kolkata Knight Riders,598005,2013-04-08,AM Rahane,36,34,3.0,1.0,0,0,0,45.0,105.88235294117648,SP Narine,caught
+Rajasthan Royals,Kolkata Knight Riders,598005,2013-04-08,BJ Hodge,46,31,7.0,0.0,0,0,0,57.0,148.38709677419354,0,0
+Rajasthan Royals,Kolkata Knight Riders,598005,2013-04-08,DH Yagnik,16,11,1.0,1.0,0,0,0,23.0,145.45454545454547,JH Kallis,run out
+Rajasthan Royals,Kolkata Knight Riders,598005,2013-04-08,KK Cooper,0,2,0.0,0.0,0,0,1,2.0,0.0,SP Narine,stumped
+Rajasthan Royals,Kolkata Knight Riders,598005,2013-04-08,R Dravid,17,20,2.0,0.0,0,0,0,23.0,85.0,R Bhatia,bowled
+Rajasthan Royals,Kolkata Knight Riders,598005,2013-04-08,S Sreesanth,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Rajasthan Royals,Kolkata Knight Riders,598005,2013-04-08,SR Watson,5,11,1.0,0.0,0,0,0,10.0,45.45454545454545,B Lee,caught
+Rajasthan Royals,Kolkata Knight Riders,598005,2013-04-08,STR Binny,14,11,3.0,0.0,0,0,0,21.0,127.27272727272728,LR Shukla,lbw

@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Royal Challengers Bangalore,Sunrisers Hyderabad,733977,2014-05-04,AB de Villiers,89,43,6.0,8.0,1,0,0,123.0,206.9767441860465,0,0
+Royal Challengers Bangalore,Sunrisers Hyderabad,733977,2014-05-04,CH Gayle,27,20,3.0,2.0,0,0,0,38.0,135.0,KV Sharma,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,733977,2014-05-04,HV Patel,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Royal Challengers Bangalore,Sunrisers Hyderabad,733977,2014-05-04,MA Starc,5,8,0.0,0.0,0,0,0,9.0,62.5,IK Pathan,run out
+Royal Challengers Bangalore,Sunrisers Hyderabad,733977,2014-05-04,PA Patel,3,5,0.0,0.0,0,0,0,7.0,60.0,B Kumar,bowled
+Royal Challengers Bangalore,Sunrisers Hyderabad,733977,2014-05-04,RR Rossouw,14,23,1.0,0.0,0,0,0,19.0,60.86956521739131,KV Sharma,lbw
+Royal Challengers Bangalore,Sunrisers Hyderabad,733977,2014-05-04,V Kohli,0,6,0.0,0.0,0,0,1,2.0,0.0,B Kumar,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,733977,2014-05-04,Yuvraj Singh,14,16,1.0,1.0,0,0,0,21.0,87.5,KV Sharma,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,733977,2014-05-04,AJ Finch,13,8,1.0,1.0,0,0,0,20.0,162.5,MA Starc,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,733977,2014-05-04,DA Warner,61,51,4.0,3.0,1,0,0,83.0,119.6078431372549,MA Starc,bowled
+Sunrisers Hyderabad,Royal Challengers Bangalore,733977,2014-05-04,DJG Sammy,8,9,0.0,1.0,0,0,0,14.0,88.88888888888889,HV Patel,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,733977,2014-05-04,IK Pathan,4,2,1.0,0.0,0,0,0,9.0,200.0,0,0
+Sunrisers Hyderabad,Royal Challengers Bangalore,733977,2014-05-04,KL Rahul,6,6,1.0,0.0,0,0,0,11.0,100.0,AB Dinda,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,733977,2014-05-04,KV Sharma,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Sunrisers Hyderabad,Royal Challengers Bangalore,733977,2014-05-04,NV Ojha,15,12,1.0,1.0,0,0,0,22.0,125.0,VR Aaron,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,733977,2014-05-04,S Dhawan,37,38,4.0,0.0,0,0,0,45.0,97.36842105263158,VR Aaron,caught

@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Kings XI Punjab,980913,2016-04-15,P Negi,8,2,0.0,1.0,0,0,0,14.0,400.0,0,0
+Delhi Daredevils,Kings XI Punjab,980913,2016-04-15,Q de Kock,59,44,9.0,1.0,1,0,0,82.0,134.0909090909091,0,0
+Delhi Daredevils,Kings XI Punjab,980913,2016-04-15,SS Iyer,3,5,0.0,0.0,0,0,0,7.0,60.0,Sandeep Sharma,caught
+Delhi Daredevils,Kings XI Punjab,980913,2016-04-15,SV Samson,33,33,3.0,1.0,0,0,0,42.0,100.0,AR Patel,bowled
+Kings XI Punjab,Delhi Daredevils,980913,2016-04-15,AR Patel,11,22,1.0,0.0,0,0,0,16.0,50.0,J Yadav,caught
+Kings XI Punjab,Delhi Daredevils,980913,2016-04-15,DA Miller,9,10,1.0,0.0,0,0,0,14.0,90.0,A Mishra,lbw
+Kings XI Punjab,Delhi Daredevils,980913,2016-04-15,GJ Maxwell,0,3,0.0,0.0,0,0,1,2.0,0.0,A Mishra,caught
+Kings XI Punjab,Delhi Daredevils,980913,2016-04-15,M Vijay,1,5,0.0,0.0,0,0,0,5.0,20.0,P Negi,run out
+Kings XI Punjab,Delhi Daredevils,980913,2016-04-15,M Vohra,32,25,5.0,0.0,0,0,0,41.0,128.0,A Mishra,bowled
+Kings XI Punjab,Delhi Daredevils,980913,2016-04-15,MG Johnson,4,12,0.0,0.0,0,0,0,8.0,33.33333333333333,CH Morris,bowled
+Kings XI Punjab,Delhi Daredevils,980913,2016-04-15,MM Sharma,15,9,1.0,1.0,0,0,0,22.0,166.66666666666669,Z Khan,caught
+Kings XI Punjab,Delhi Daredevils,980913,2016-04-15,P Sahu,18,12,1.0,1.0,0,0,0,25.0,150.0,0,0
+Kings XI Punjab,Delhi Daredevils,980913,2016-04-15,SE Marsh,13,16,2.0,0.0,0,0,0,19.0,81.25,A Mishra,stumped
+Kings XI Punjab,Delhi Daredevils,980913,2016-04-15,Sandeep Sharma,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Kings XI Punjab,Delhi Daredevils,980913,2016-04-15,WP Saha,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,CR Brathwaite,run out

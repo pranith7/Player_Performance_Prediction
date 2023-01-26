@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Royal Challengers Bangalore,729313,2014-04-28,CA Pujara,10,20,1.0,0.0,0,0,0,15.0,50.0,AB Dinda,caught
+Kings XI Punjab,Royal Challengers Bangalore,729313,2014-04-28,DA Miller,26,22,4.0,0.0,0,0,0,34.0,118.1818181818182,YS Chahal,caught
+Kings XI Punjab,Royal Challengers Bangalore,729313,2014-04-28,GJ Bailey,16,16,1.0,0.0,0,0,0,21.0,100.0,0,0
+Kings XI Punjab,Royal Challengers Bangalore,729313,2014-04-28,GJ Maxwell,6,6,0.0,0.0,0,0,0,10.0,100.0,VR Aaron,caught
+Kings XI Punjab,Royal Challengers Bangalore,729313,2014-04-28,R Dhawan,23,22,3.0,0.0,0,0,0,30.0,104.54545454545456,0,0
+Kings XI Punjab,Royal Challengers Bangalore,729313,2014-04-28,V Sehwag,32,27,4.0,0.0,0,0,0,40.0,118.5185185185185,YS Chahal,caught
+Kings XI Punjab,Royal Challengers Bangalore,729313,2014-04-28,WP Saha,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,VR Aaron,caught
+Royal Challengers Bangalore,Kings XI Punjab,729313,2014-04-28,AB Dinda,2,5,0.0,0.0,0,0,0,6.0,40.0,0,0
+Royal Challengers Bangalore,Kings XI Punjab,729313,2014-04-28,AB de Villiers,17,15,2.0,0.0,0,0,0,23.0,113.33333333333331,R Dhawan,caught
+Royal Challengers Bangalore,Kings XI Punjab,729313,2014-04-28,CH Gayle,20,7,2.0,2.0,0,0,0,30.0,285.7142857142857,Sandeep Sharma,bowled
+Royal Challengers Bangalore,Kings XI Punjab,729313,2014-04-28,JA Morkel,15,14,0.0,1.0,0,0,0,21.0,107.14285714285714,L Balaji,bowled
+Royal Challengers Bangalore,Kings XI Punjab,729313,2014-04-28,MA Starc,8,17,0.0,0.0,0,0,0,12.0,47.05882352941176,MG Johnson,bowled
+Royal Challengers Bangalore,Kings XI Punjab,729313,2014-04-28,PA Patel,2,7,0.0,0.0,0,0,0,6.0,28.57142857142857,Sandeep Sharma,caught
+Royal Challengers Bangalore,Kings XI Punjab,729313,2014-04-28,V Kohli,4,2,1.0,0.0,0,0,0,9.0,200.0,Sandeep Sharma,lbw
+Royal Challengers Bangalore,Kings XI Punjab,729313,2014-04-28,VR Aaron,11,15,0.0,0.0,0,0,0,15.0,73.33333333333333,0,0
+Royal Challengers Bangalore,Kings XI Punjab,729313,2014-04-28,YV Takawale,0,7,0.0,0.0,0,0,1,2.0,0.0,MG Johnson,caught
+Royal Challengers Bangalore,Kings XI Punjab,729313,2014-04-28,Yuvraj Singh,35,32,3.0,1.0,0,0,0,44.0,109.375,R Dhawan,caught

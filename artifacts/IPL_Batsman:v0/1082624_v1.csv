@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Rising Pune Supergiant,Royal Challengers Bangalore,1082624,2017-04-29,AM Rahane,6,8,0.0,0.0,0,0,0,10.0,75.0,S Badree,caught
+Rising Pune Supergiant,Royal Challengers Bangalore,1082624,2017-04-29,MK Tiwary,44,37,4.0,1.0,0,0,0,54.0,118.91891891891892,0,0
+Rising Pune Supergiant,Royal Challengers Bangalore,1082624,2017-04-29,MS Dhoni,21,17,1.0,1.0,0,0,0,28.0,123.52941176470588,0,0
+Rising Pune Supergiant,Royal Challengers Bangalore,1082624,2017-04-29,RA Tripathi,37,29,4.0,1.0,0,0,0,47.0,127.58620689655172,P Negi,caught
+Rising Pune Supergiant,Royal Challengers Bangalore,1082624,2017-04-29,SPD Smith,45,32,5.0,1.0,0,0,0,56.0,140.625,STR Binny,caught
+Royal Challengers Bangalore,Rising Pune Supergiant,1082624,2017-04-29,AB de Villiers,3,8,0.0,0.0,0,0,0,7.0,37.5,LH Ferguson,caught
+Royal Challengers Bangalore,Rising Pune Supergiant,1082624,2017-04-29,AF Milne,5,8,0.0,0.0,0,0,0,9.0,62.5,Imran Tahir,caught
+Royal Challengers Bangalore,Rising Pune Supergiant,1082624,2017-04-29,KM Jadhav,7,13,1.0,0.0,0,0,0,12.0,53.84615384615385,LH Ferguson,run out
+Royal Challengers Bangalore,Rising Pune Supergiant,1082624,2017-04-29,P Negi,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,Imran Tahir,caught
+Royal Challengers Bangalore,Rising Pune Supergiant,1082624,2017-04-29,S Aravind,8,5,1.0,0.0,0,0,0,13.0,160.0,0,0
+Royal Challengers Bangalore,Rising Pune Supergiant,1082624,2017-04-29,S Badree,2,8,0.0,0.0,0,0,0,6.0,25.0,Imran Tahir,bowled
+Royal Challengers Bangalore,Rising Pune Supergiant,1082624,2017-04-29,STR Binny,1,7,0.0,0.0,0,0,0,5.0,14.285714285714285,LH Ferguson,caught
+Royal Challengers Bangalore,Rising Pune Supergiant,1082624,2017-04-29,Sachin Baby,2,4,0.0,0.0,0,0,0,6.0,50.0,Washington Sundar,caught
+Royal Challengers Bangalore,Rising Pune Supergiant,1082624,2017-04-29,TM Head,2,5,0.0,0.0,0,0,0,6.0,40.0,JD Unadkat,bowled
+Royal Challengers Bangalore,Rising Pune Supergiant,1082624,2017-04-29,V Kohli,55,48,4.0,1.0,1,0,0,73.0,114.58333333333331,DT Christian,caught
+Royal Challengers Bangalore,Rising Pune Supergiant,1082624,2017-04-29,YS Chahal,4,9,0.0,0.0,0,0,0,8.0,44.44444444444444,0,0

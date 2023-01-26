@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Lucknow Super Giants,1304099,2022-05-07,AD Russell,45,19,3.0,5.0,0,0,0,62.0,236.84210526315783,Avesh Khan,caught
+Kolkata Knight Riders,Lucknow Super Giants,1304099,2022-05-07,AJ Finch,14,15,1.0,0.0,0,0,0,19.0,93.33333333333331,JO Holder,caught
+Kolkata Knight Riders,Lucknow Super Giants,1304099,2022-05-07,AS Roy,0,2,0.0,0.0,0,0,1,2.0,0.0,Avesh Khan,caught
+Kolkata Knight Riders,Lucknow Super Giants,1304099,2022-05-07,B Indrajith,0,6,0.0,0.0,0,0,1,2.0,0.0,Mohsin Khan (2),caught
+Kolkata Knight Riders,Lucknow Super Giants,1304099,2022-05-07,Harshit Rana,2,1,0.0,0.0,0,0,0,6.0,200.0,JO Holder,run out
+Kolkata Knight Riders,Lucknow Super Giants,1304099,2022-05-07,N Rana,2,11,0.0,0.0,0,0,0,6.0,18.181818181818183,Avesh Khan,bowled
+Kolkata Knight Riders,Lucknow Super Giants,1304099,2022-05-07,RK Singh,6,10,0.0,0.0,0,0,0,10.0,60.0,Ravi Bishnoi,caught
+Kolkata Knight Riders,Lucknow Super Giants,1304099,2022-05-07,SP Narine,22,12,3.0,1.0,0,0,0,31.0,183.3333333333333,JO Holder,caught
+Kolkata Knight Riders,Lucknow Super Giants,1304099,2022-05-07,SS Iyer,6,9,1.0,0.0,0,0,0,11.0,66.66666666666666,PVD Chameera,caught
+Kolkata Knight Riders,Lucknow Super Giants,1304099,2022-05-07,Shivam Mavi,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,0,0
+Kolkata Knight Riders,Lucknow Super Giants,1304099,2022-05-07,TG Southee,0,1,0.0,0.0,0,0,1,2.0,0.0,JO Holder,caught
+Lucknow Super Giants,Kolkata Knight Riders,1304099,2022-05-07,A Badoni,15,19,0.0,0.0,0,0,0,19.0,78.94736842105263,0,0
+Lucknow Super Giants,Kolkata Knight Riders,1304099,2022-05-07,DJ Hooda,41,27,4.0,2.0,0,0,0,53.0,151.85185185185185,AD Russell,caught
+Lucknow Super Giants,Kolkata Knight Riders,1304099,2022-05-07,JO Holder,13,4,0.0,2.0,0,0,0,21.0,325.0,TG Southee,caught
+Lucknow Super Giants,Kolkata Knight Riders,1304099,2022-05-07,KH Pandya,25,27,2.0,0.0,0,0,0,31.0,92.5925925925926,AD Russell,caught
+Lucknow Super Giants,Kolkata Knight Riders,1304099,2022-05-07,MP Stoinis,28,15,1.0,3.0,0,0,0,39.0,186.66666666666663,Shivam Mavi,caught
+Lucknow Super Giants,Kolkata Knight Riders,1304099,2022-05-07,PVD Chameera,0,1,0.0,0.0,0,0,1,2.0,0.0,TG Southee,run out
+Lucknow Super Giants,Kolkata Knight Riders,1304099,2022-05-07,Q de Kock,50,29,4.0,3.0,1,0,0,72.0,172.41379310344826,SP Narine,caught

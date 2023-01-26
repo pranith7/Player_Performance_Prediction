@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Royal Challengers Bangalore,980981,2016-05-11,AT Rayudu,44,48,2.0,2.0,0,0,0,54.0,91.66666666666666,VR Aaron,caught
+Mumbai Indians,Royal Challengers Bangalore,980981,2016-05-11,JC Buttler,29,12,1.0,3.0,0,0,0,40.0,241.66666666666663,0,0
+Mumbai Indians,Royal Challengers Bangalore,980981,2016-05-11,KA Pollard,35,23,3.0,2.0,0,0,0,46.0,152.17391304347828,0,0
+Mumbai Indians,Royal Challengers Bangalore,980981,2016-05-11,N Rana,9,11,0.0,1.0,0,0,0,15.0,81.81818181818183,YS Chahal,caught
+Mumbai Indians,Royal Challengers Bangalore,980981,2016-05-11,PA Patel,1,2,0.0,0.0,0,0,0,5.0,50.0,S Aravind,caught
+Mumbai Indians,Royal Challengers Bangalore,980981,2016-05-11,RG Sharma,25,26,3.0,0.0,0,0,0,32.0,96.15384615384616,VR Aaron,caught
+Royal Challengers Bangalore,Mumbai Indians,980981,2016-05-11,AB de Villiers,24,27,1.0,1.0,0,0,0,31.0,88.88888888888889,KH Pandya,caught
+Royal Challengers Bangalore,Mumbai Indians,980981,2016-05-11,CH Gayle,5,6,1.0,0.0,0,0,0,10.0,83.33333333333334,TG Southee,caught
+Royal Challengers Bangalore,Mumbai Indians,980981,2016-05-11,KL Rahul,68,54,3.0,4.0,1,0,0,91.0,125.92592592592592,0,0
+Royal Challengers Bangalore,Mumbai Indians,980981,2016-05-11,SR Watson,15,14,1.0,1.0,0,0,0,22.0,107.14285714285714,JJ Bumrah,run out
+Royal Challengers Bangalore,Mumbai Indians,980981,2016-05-11,Sachin Baby,25,13,2.0,2.0,0,0,0,35.0,192.30769230769232,0,0
+Royal Challengers Bangalore,Mumbai Indians,980981,2016-05-11,V Kohli,7,8,0.0,1.0,0,0,0,13.0,87.5,MJ McClenaghan,caught

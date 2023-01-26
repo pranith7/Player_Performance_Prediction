@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Royal Challengers Bangalore,Sunrisers Hyderabad,1254063,2021-04-14,AB de Villiers,1,5,0.0,0.0,0,0,0,5.0,20.0,Rashid Khan,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,1254063,2021-04-14,D Padikkal,11,15,2.0,0.0,0,0,0,17.0,73.33333333333333,B Kumar,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,1254063,2021-04-14,DT Christian,1,2,0.0,0.0,0,0,0,5.0,50.0,T Natarajan,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,1254063,2021-04-14,GJ Maxwell,59,45,5.0,3.0,1,0,0,82.0,131.11111111111111,JO Holder,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,1254063,2021-04-14,KA Jamieson,12,9,2.0,0.0,0,0,0,18.0,133.33333333333331,JO Holder,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,1254063,2021-04-14,Shahbaz Ahmed,14,10,0.0,1.0,0,0,0,20.0,140.0,S Nadeem,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,1254063,2021-04-14,V Kohli,33,30,4.0,0.0,0,0,0,41.0,110.0,JO Holder,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,1254063,2021-04-14,Washington Sundar,8,11,1.0,0.0,0,0,0,13.0,72.72727272727273,Rashid Khan,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,1254063,2021-04-14,Abdul Samad,0,2,0.0,0.0,0,0,1,2.0,0.0,Shahbaz Ahmed,caught and bowled
+Sunrisers Hyderabad,Royal Challengers Bangalore,1254063,2021-04-14,B Kumar,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Sunrisers Hyderabad,Royal Challengers Bangalore,1254063,2021-04-14,DA Warner,54,39,7.0,1.0,1,0,0,75.0,138.46153846153845,KA Jamieson,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,1254063,2021-04-14,JM Bairstow,12,13,1.0,0.0,0,0,0,17.0,92.3076923076923,Shahbaz Ahmed,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,1254063,2021-04-14,JO Holder,4,5,0.0,0.0,0,0,0,8.0,80.0,Mohammed Siraj,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,1254063,2021-04-14,MK Pandey,38,41,2.0,2.0,0,0,0,48.0,92.6829268292683,Shahbaz Ahmed,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,1254063,2021-04-14,Rashid Khan,17,9,1.0,1.0,0,0,0,24.0,188.88888888888889,HV Patel,run out
+Sunrisers Hyderabad,Royal Challengers Bangalore,1254063,2021-04-14,S Nadeem,0,1,0.0,0.0,0,0,1,2.0,0.0,HV Patel,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,1254063,2021-04-14,V Shankar,3,5,0.0,0.0,0,0,0,7.0,60.0,HV Patel,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,1254063,2021-04-14,WP Saha,1,9,0.0,0.0,0,0,0,5.0,11.11111111111111,Mohammed Siraj,caught

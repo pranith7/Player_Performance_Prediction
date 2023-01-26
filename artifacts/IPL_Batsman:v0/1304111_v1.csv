@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Sunrisers Hyderabad,1304111,2022-05-17,DR Sams,15,12,0.0,1.0,0,0,0,21.0,125.0,Umran Malik,caught
+Mumbai Indians,Sunrisers Hyderabad,1304111,2022-05-17,Ishan Kishan,43,35,5.0,1.0,0,0,0,54.0,122.85714285714286,Umran Malik,caught
+Mumbai Indians,Sunrisers Hyderabad,1304111,2022-05-17,JJ Bumrah,0,4,0.0,0.0,0,0,1,2.0,0.0,0,0
+Mumbai Indians,Sunrisers Hyderabad,1304111,2022-05-17,R Sanjay Yadav,0,2,0.0,0.0,0,0,1,2.0,0.0,B Kumar,caught
+Mumbai Indians,Sunrisers Hyderabad,1304111,2022-05-17,RG Sharma,48,38,2.0,4.0,0,0,0,62.0,126.3157894736842,Washington Sundar,caught
+Mumbai Indians,Sunrisers Hyderabad,1304111,2022-05-17,Ramandeep Singh,14,7,1.0,1.0,0,0,0,21.0,200.0,0,0
+Mumbai Indians,Sunrisers Hyderabad,1304111,2022-05-17,T Stubbs,2,2,0.0,0.0,0,0,0,6.0,100.0,B Kumar,run out
+Mumbai Indians,Sunrisers Hyderabad,1304111,2022-05-17,TH David,46,20,3.0,4.0,0,0,0,61.0,230.0,T Natarajan,run out
+Mumbai Indians,Sunrisers Hyderabad,1304111,2022-05-17,Tilak Varma,8,10,1.0,0.0,0,0,0,13.0,80.0,Umran Malik,caught
+Sunrisers Hyderabad,Mumbai Indians,1304111,2022-05-17,AK Markram,2,4,0.0,0.0,0,0,0,6.0,50.0,Ramandeep Singh,caught
+Sunrisers Hyderabad,Mumbai Indians,1304111,2022-05-17,Abhishek Sharma,9,10,1.0,0.0,0,0,0,14.0,90.0,DR Sams,caught
+Sunrisers Hyderabad,Mumbai Indians,1304111,2022-05-17,KS Williamson,8,7,1.0,0.0,0,0,0,13.0,114.28571428571428,0,0
+Sunrisers Hyderabad,Mumbai Indians,1304111,2022-05-17,N Pooran,38,22,2.0,3.0,0,0,0,50.0,172.72727272727272,RP Meredith,caught
+Sunrisers Hyderabad,Mumbai Indians,1304111,2022-05-17,PK Garg,42,26,4.0,2.0,0,0,0,54.0,161.53846153846155,Ramandeep Singh,caught and bowled
+Sunrisers Hyderabad,Mumbai Indians,1304111,2022-05-17,RA Tripathi,76,47,9.0,3.0,1,0,0,103.0,161.70212765957444,Ramandeep Singh,caught
+Sunrisers Hyderabad,Mumbai Indians,1304111,2022-05-17,Washington Sundar,9,9,0.0,0.0,0,0,0,13.0,100.0,JJ Bumrah,bowled

@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Mumbai Indians,734009,2014-05-14,G Gambhir,14,19,1.0,0.0,0,0,0,19.0,73.68421052631578,Harbhajan Singh,bowled
+Kolkata Knight Riders,Mumbai Indians,734009,2014-05-14,MK Pandey,14,22,0.0,0.0,0,0,0,18.0,63.63636363636363,Harbhajan Singh,bowled
+Kolkata Knight Riders,Mumbai Indians,734009,2014-05-14,RV Uthappa,80,53,9.0,3.0,1,0,0,107.0,150.9433962264151,LMP Simmons,bowled
+Kolkata Knight Riders,Mumbai Indians,734009,2014-05-14,Shakib Al Hasan,9,8,1.0,0.0,0,0,0,14.0,112.5,SL Malinga,caught
+Kolkata Knight Riders,Mumbai Indians,734009,2014-05-14,YK Pathan,20,14,3.0,0.0,0,0,0,27.0,142.85714285714286,0,0
+Mumbai Indians,Kolkata Knight Riders,734009,2014-05-14,AP Tare,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,0,0
+Mumbai Indians,Kolkata Knight Riders,734009,2014-05-14,AT Rayudu,33,28,3.0,1.0,0,0,0,42.0,117.85714285714286,PP Chawla,caught
+Mumbai Indians,Kolkata Knight Riders,734009,2014-05-14,CJ Anderson,18,12,1.0,1.0,0,0,0,25.0,150.0,M Morkel,caught
+Mumbai Indians,Kolkata Knight Riders,734009,2014-05-14,CM Gautam,8,10,1.0,0.0,0,0,0,13.0,80.0,M Morkel,caught
+Mumbai Indians,Kolkata Knight Riders,734009,2014-05-14,KA Pollard,10,11,0.0,0.0,0,0,0,14.0,90.9090909090909,0,0
+Mumbai Indians,Kolkata Knight Riders,734009,2014-05-14,LMP Simmons,12,15,2.0,0.0,0,0,0,18.0,80.0,Shakib Al Hasan,bowled
+Mumbai Indians,Kolkata Knight Riders,734009,2014-05-14,RG Sharma,51,46,4.0,2.0,1,0,0,71.0,110.86956521739133,SP Narine,bowled

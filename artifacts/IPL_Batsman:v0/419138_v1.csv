@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Mumbai Indians,419138,2010-04-03,A Symonds,21,19,2.0,0.0,0,0,0,27.0,110.5263157894737,R McLaren,bowled
+Deccan Chargers,Mumbai Indians,419138,2010-04-03,AC Gilchrist,19,14,1.0,1.0,0,0,0,26.0,135.71428571428572,Z Khan,bowled
+Deccan Chargers,Mumbai Indians,419138,2010-04-03,HH Gibbs,17,15,3.0,0.0,0,0,0,24.0,113.33333333333331,Z Khan,caught
+Deccan Chargers,Mumbai Indians,419138,2010-04-03,Jaskaran Singh,0,2,0.0,0.0,0,0,1,2.0,0.0,0,0
+Deccan Chargers,Mumbai Indians,419138,2010-04-03,MD Mishra,5,7,0.0,0.0,0,0,0,9.0,71.42857142857143,KA Pollard,caught
+Deccan Chargers,Mumbai Indians,419138,2010-04-03,PP Ojha,2,2,0.0,0.0,0,0,0,6.0,100.0,SL Malinga,bowled
+Deccan Chargers,Mumbai Indians,419138,2010-04-03,R Sharma,5,7,1.0,0.0,0,0,0,10.0,71.42857142857143,Harbhajan Singh,caught
+Deccan Chargers,Mumbai Indians,419138,2010-04-03,RG Sharma,11,14,0.0,0.0,0,0,0,15.0,78.57142857142857,KA Pollard,caught and bowled
+Deccan Chargers,Mumbai Indians,419138,2010-04-03,RJ Harris,13,10,1.0,0.0,0,0,0,18.0,130.0,R McLaren,caught
+Deccan Chargers,Mumbai Indians,419138,2010-04-03,TL Suman,11,17,0.0,0.0,0,0,0,15.0,64.70588235294117,Harbhajan Singh,caught
+Deccan Chargers,Mumbai Indians,419138,2010-04-03,VVS Laxman,4,7,0.0,0.0,0,0,0,8.0,57.14285714285714,DJ Bravo,run out
+Mumbai Indians,Deccan Chargers,419138,2010-04-03,AT Rayudu,55,30,6.0,2.0,1,0,0,77.0,183.3333333333333,0,0
+Mumbai Indians,Deccan Chargers,419138,2010-04-03,DJ Bravo,2,8,0.0,0.0,0,0,0,6.0,25.0,PP Ojha,bowled
+Mumbai Indians,Deccan Chargers,419138,2010-04-03,KA Pollard,21,10,3.0,0.0,0,0,0,28.0,210.0,RJ Harris,caught
+Mumbai Indians,Deccan Chargers,419138,2010-04-03,S Dhawan,14,16,1.0,0.0,0,0,0,19.0,87.5,PP Ojha,stumped
+Mumbai Indians,Deccan Chargers,419138,2010-04-03,SR Tendulkar,35,25,5.0,0.0,0,0,0,44.0,140.0,R Sharma,lbw
+Mumbai Indians,Deccan Chargers,419138,2010-04-03,SS Tiwary,44,35,1.0,3.0,0,0,0,55.0,125.71428571428572,PP Ojha,caught

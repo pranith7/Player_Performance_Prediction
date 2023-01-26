@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Kings XI Punjab,501264,2011-05-21,CL White,15,12,0.0,0.0,0,0,0,19.0,125.0,0,0
+Deccan Chargers,Kings XI Punjab,501264,2011-05-21,DB Ravi Teja,60,42,5.0,2.0,1,0,0,81.0,142.85714285714286,PC Valthaty,caught
+Deccan Chargers,Kings XI Punjab,501264,2011-05-21,JP Duminy,12,10,0.0,1.0,0,0,0,18.0,120.0,RJ Harris,caught
+Deccan Chargers,Kings XI Punjab,501264,2011-05-21,S Dhawan,95,59,14.0,1.0,1,0,0,123.0,161.01694915254237,0,0
+Kings XI Punjab,Deccan Chargers,501264,2011-05-21,AC Gilchrist,51,38,6.0,2.0,1,0,0,73.0,134.21052631578948,DT Christian,caught
+Kings XI Punjab,Deccan Chargers,501264,2011-05-21,AM Nayar,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,PP Ojha,caught
+Kings XI Punjab,Deccan Chargers,501264,2011-05-21,BA Bhatt,0,5,0.0,0.0,0,0,1,2.0,0.0,Anand Rajan,run out
+Kings XI Punjab,Deccan Chargers,501264,2011-05-21,KD Karthik,11,15,1.0,0.0,0,0,0,16.0,73.33333333333333,DT Christian,caught
+Kings XI Punjab,Deccan Chargers,501264,2011-05-21,Mandeep Singh,7,8,1.0,0.0,0,0,0,12.0,87.5,A Mishra,stumped
+Kings XI Punjab,Deccan Chargers,501264,2011-05-21,P Kumar,0,7,0.0,0.0,0,0,1,2.0,0.0,A Mishra,bowled
+Kings XI Punjab,Deccan Chargers,501264,2011-05-21,PC Valthaty,5,6,1.0,0.0,0,0,0,10.0,83.33333333333334,DW Steyn,caught
+Kings XI Punjab,Deccan Chargers,501264,2011-05-21,PP Chawla,13,7,0.0,2.0,0,0,0,21.0,185.7142857142857,0,0
+Kings XI Punjab,Deccan Chargers,501264,2011-05-21,R McLaren,9,14,0.0,0.0,0,0,0,13.0,64.28571428571429,A Mishra,caught
+Kings XI Punjab,Deccan Chargers,501264,2011-05-21,RJ Harris,0,1,0.0,0.0,0,0,1,2.0,0.0,A Mishra,caught
+Kings XI Punjab,Deccan Chargers,501264,2011-05-21,SE Marsh,13,8,3.0,0.0,0,0,0,20.0,162.5,JP Duminy,caught

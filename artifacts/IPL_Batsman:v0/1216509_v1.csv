@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Delhi Capitals,1216509,2020-10-17,AT Rayudu,45,26,1.0,4.0,0,0,0,58.0,173.0769230769231,0,0
+Chennai Super Kings,Delhi Capitals,1216509,2020-10-17,F du Plessis,58,48,6.0,2.0,1,0,0,80.0,120.83333333333331,K Rabada,caught
+Chennai Super Kings,Delhi Capitals,1216509,2020-10-17,MS Dhoni,3,5,0.0,0.0,0,0,0,7.0,60.0,A Nortje,caught
+Chennai Super Kings,Delhi Capitals,1216509,2020-10-17,RA Jadeja,33,14,0.0,4.0,0,0,0,45.0,235.7142857142857,0,0
+Chennai Super Kings,Delhi Capitals,1216509,2020-10-17,SM Curran,0,3,0.0,0.0,0,0,1,2.0,0.0,TU Deshpande,caught
+Chennai Super Kings,Delhi Capitals,1216509,2020-10-17,SR Watson,36,28,6.0,0.0,0,0,0,46.0,128.57142857142858,A Nortje,bowled
+Delhi Capitals,Chennai Super Kings,1216509,2020-10-17,AM Rahane,8,10,1.0,0.0,0,0,0,13.0,80.0,DL Chahar,caught
+Delhi Capitals,Chennai Super Kings,1216509,2020-10-17,AR Patel,21,5,0.0,3.0,0,0,0,31.0,420.0,0,0
+Delhi Capitals,Chennai Super Kings,1216509,2020-10-17,AT Carey,4,7,0.0,0.0,0,0,0,8.0,57.14285714285714,SM Curran,caught
+Delhi Capitals,Chennai Super Kings,1216509,2020-10-17,MP Stoinis,24,14,1.0,2.0,0,0,0,33.0,171.42857142857142,SN Thakur,caught
+Delhi Capitals,Chennai Super Kings,1216509,2020-10-17,PP Shaw,0,2,0.0,0.0,0,0,1,2.0,0.0,DL Chahar,caught and bowled
+Delhi Capitals,Chennai Super Kings,1216509,2020-10-17,S Dhawan,101,61,14.0,1.0,1,1,0,145.0,165.5737704918033,0,0
+Delhi Capitals,Chennai Super Kings,1216509,2020-10-17,SS Iyer,23,23,1.0,1.0,0,0,0,30.0,100.0,DJ Bravo,caught

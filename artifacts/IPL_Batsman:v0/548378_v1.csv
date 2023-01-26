@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Kolkata Knight Riders,548378,2012-05-22,DA Warner,7,7,0.0,1.0,0,0,0,13.0,100.0,Shakib Al Hasan,caught
+Delhi Daredevils,Kolkata Knight Riders,548378,2012-05-22,DPMD Jayawardene,40,35,6.0,0.0,0,0,0,50.0,114.28571428571428,Iqbal Abdulla,stumped
+Delhi Daredevils,Kolkata Knight Riders,548378,2012-05-22,IK Pathan,6,3,1.0,0.0,0,0,0,11.0,200.0,0,0
+Delhi Daredevils,Kolkata Knight Riders,548378,2012-05-22,LRPL Taylor,11,8,0.0,1.0,0,0,0,17.0,137.5,JH Kallis,caught
+Delhi Daredevils,Kolkata Knight Riders,548378,2012-05-22,M Morkel,0,1,0.0,0.0,0,0,1,2.0,0.0,SP Narine,caught
+Delhi Daredevils,Kolkata Knight Riders,548378,2012-05-22,NV Ojha,28,28,4.0,1.0,0,0,0,38.0,100.0,R Bhatia,caught
+Delhi Daredevils,Kolkata Knight Riders,548378,2012-05-22,P Negi,14,11,2.0,0.0,0,0,0,20.0,127.27272727272728,SP Narine,stumped
+Delhi Daredevils,Kolkata Knight Riders,548378,2012-05-22,UT Yadav,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Delhi Daredevils,Kolkata Knight Riders,548378,2012-05-22,V Sehwag,10,7,1.0,0.0,0,0,0,15.0,142.85714285714286,L Balaji,caught
+Delhi Daredevils,Kolkata Knight Riders,548378,2012-05-22,Y Venugopal Rao,13,23,0.0,0.0,0,0,0,17.0,56.52173913043478,JH Kallis,caught
+Kolkata Knight Riders,Delhi Daredevils,548378,2012-05-22,BB McCullum,31,37,2.0,1.0,0,0,0,39.0,83.78378378378379,P Negi,caught
+Kolkata Knight Riders,Delhi Daredevils,548378,2012-05-22,G Gambhir,32,16,3.0,2.0,0,0,0,43.0,200.0,VR Aaron,run out
+Kolkata Knight Riders,Delhi Daredevils,548378,2012-05-22,JH Kallis,30,33,3.0,0.0,0,0,0,37.0,90.9090909090909,UT Yadav,caught
+Kolkata Knight Riders,Delhi Daredevils,548378,2012-05-22,LR Shukla,24,11,3.0,1.0,0,0,0,33.0,218.18181818181816,0,0
+Kolkata Knight Riders,Delhi Daredevils,548378,2012-05-22,Shakib Al Hasan,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,IK Pathan,caught
+Kolkata Knight Riders,Delhi Daredevils,548378,2012-05-22,YK Pathan,40,22,3.0,2.0,0,0,0,51.0,181.8181818181818,0,0

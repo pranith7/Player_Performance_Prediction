@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Royal Challengers Bangalore,335996,2008-04-28,MEK Hussey,47,37,3.0,2.0,0,0,0,58.0,127.02702702702702,Z Khan,caught
+Chennai Super Kings,Royal Challengers Bangalore,335996,2008-04-28,ML Hayden,13,21,2.0,0.0,0,0,0,19.0,61.90476190476191,Z Khan,bowled
+Chennai Super Kings,Royal Challengers Bangalore,335996,2008-04-28,MS Dhoni,65,31,9.0,3.0,1,0,0,92.0,209.6774193548387,Z Khan,caught
+Chennai Super Kings,Royal Challengers Bangalore,335996,2008-04-28,PA Patel,21,17,2.0,1.0,0,0,0,29.0,123.52941176470588,P Kumar,caught
+Chennai Super Kings,Royal Challengers Bangalore,335996,2008-04-28,SK Raina,28,17,1.0,2.0,0,0,0,37.0,164.70588235294116,P Kumar,run out
+Royal Challengers Bangalore,Chennai Super Kings,335996,2008-04-28,B Akhil,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,0,0
+Royal Challengers Bangalore,Chennai Super Kings,335996,2008-04-28,B Chipli,8,12,1.0,0.0,0,0,0,13.0,66.66666666666666,MS Gony,bowled
+Royal Challengers Bangalore,Chennai Super Kings,335996,2008-04-28,DW Steyn,1,2,0.0,0.0,0,0,0,5.0,50.0,Joginder Sharma,caught
+Royal Challengers Bangalore,Chennai Super Kings,335996,2008-04-28,JH Kallis,14,10,2.0,0.0,0,0,0,20.0,140.0,Joginder Sharma,caught
+Royal Challengers Bangalore,Chennai Super Kings,335996,2008-04-28,LRPL Taylor,53,36,3.0,3.0,1,0,0,74.0,147.22222222222223,P Amarnath,caught
+Royal Challengers Bangalore,Chennai Super Kings,335996,2008-04-28,MV Boucher,4,6,0.0,0.0,0,0,0,8.0,66.66666666666666,MS Gony,caught
+Royal Challengers Bangalore,Chennai Super Kings,335996,2008-04-28,P Kumar,6,5,0.0,0.0,0,0,0,10.0,120.0,JDP Oram,run out
+Royal Challengers Bangalore,Chennai Super Kings,335996,2008-04-28,R Dravid,0,1,0.0,0.0,0,0,1,2.0,0.0,MS Gony,lbw
+Royal Challengers Bangalore,Chennai Super Kings,335996,2008-04-28,V Kohli,12,7,2.0,0.0,0,0,0,18.0,171.42857142857142,JA Morkel,bowled
+Royal Challengers Bangalore,Chennai Super Kings,335996,2008-04-28,W Jaffer,50,36,5.0,2.0,1,0,0,71.0,138.88888888888889,P Amarnath,caught
+Royal Challengers Bangalore,Chennai Super Kings,335996,2008-04-28,Z Khan,8,6,1.0,0.0,0,0,0,13.0,133.33333333333331,JDP Oram,run out

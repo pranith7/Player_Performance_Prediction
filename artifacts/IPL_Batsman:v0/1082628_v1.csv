@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Royal Challengers Bangalore,1082628,2017-05-01,HH Pandya,14,10,0.0,1.0,0,0,0,20.0,140.0,0,0
+Mumbai Indians,Royal Challengers Bangalore,1082628,2017-05-01,JC Buttler,33,21,4.0,1.0,0,0,0,43.0,157.14285714285714,P Negi,caught
+Mumbai Indians,Royal Challengers Bangalore,1082628,2017-05-01,KA Pollard,17,13,2.0,0.0,0,0,0,23.0,130.76923076923077,YS Chahal,caught
+Mumbai Indians,Royal Challengers Bangalore,1082628,2017-05-01,KH Pandya,2,2,0.0,0.0,0,0,0,6.0,100.0,P Negi,retired hurt
+Mumbai Indians,Royal Challengers Bangalore,1082628,2017-05-01,KV Sharma,9,8,1.0,0.0,0,0,0,14.0,112.5,SR Watson,caught
+Mumbai Indians,Royal Challengers Bangalore,1082628,2017-05-01,N Rana,27,29,4.0,0.0,0,0,0,35.0,93.10344827586206,P Negi,caught
+Mumbai Indians,Royal Challengers Bangalore,1082628,2017-05-01,PA Patel,0,1,0.0,0.0,0,0,1,2.0,0.0,A Choudhary,caught
+Mumbai Indians,Royal Challengers Bangalore,1082628,2017-05-01,RG Sharma,56,39,6.0,1.0,1,0,0,76.0,143.5897435897436,0,0
+Royal Challengers Bangalore,Mumbai Indians,1082628,2017-05-01,AB de Villiers,43,28,3.0,3.0,0,0,0,56.0,153.57142857142858,KH Pandya,caught
+Royal Challengers Bangalore,Mumbai Indians,1082628,2017-05-01,AF Milne,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Royal Challengers Bangalore,Mumbai Indians,1082628,2017-05-01,KM Jadhav,28,22,2.0,0.0,0,0,0,34.0,127.27272727272728,MJ McClenaghan,caught
+Royal Challengers Bangalore,Mumbai Indians,1082628,2017-05-01,Mandeep Singh,17,13,3.0,0.0,0,0,0,24.0,130.76923076923077,KV Sharma,caught
+Royal Challengers Bangalore,Mumbai Indians,1082628,2017-05-01,P Negi,35,23,1.0,3.0,0,0,0,46.0,152.17391304347828,MJ McClenaghan,caught
+Royal Challengers Bangalore,Mumbai Indians,1082628,2017-05-01,SR Watson,3,5,0.0,0.0,0,0,0,7.0,60.0,JJ Bumrah,bowled
+Royal Challengers Bangalore,Mumbai Indians,1082628,2017-05-01,TM Head,12,15,1.0,0.0,0,0,0,17.0,80.0,KH Pandya,caught
+Royal Challengers Bangalore,Mumbai Indians,1082628,2017-05-01,V Kohli,20,15,0.0,2.0,0,0,0,28.0,133.33333333333331,MJ McClenaghan,caught

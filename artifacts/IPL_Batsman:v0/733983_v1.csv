@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Royal Challengers Bangalore,733983,2014-05-06,AT Rayudu,9,10,1.0,0.0,0,0,0,14.0,90.0,AB Dinda,bowled
+Mumbai Indians,Royal Challengers Bangalore,733983,2014-05-06,BR Dunk,15,14,2.0,0.0,0,0,0,21.0,107.14285714285714,HV Patel,caught
+Mumbai Indians,Royal Challengers Bangalore,733983,2014-05-06,CJ Anderson,6,4,0.0,1.0,0,0,0,12.0,150.0,YS Chahal,caught
+Mumbai Indians,Royal Challengers Bangalore,733983,2014-05-06,CM Gautam,30,31,2.0,3.0,0,0,0,42.0,96.7741935483871,VR Aaron,caught
+Mumbai Indians,Royal Challengers Bangalore,733983,2014-05-06,KA Pollard,43,32,6.0,0.0,0,0,0,53.0,134.375,MA Starc,run out
+Mumbai Indians,Royal Challengers Bangalore,733983,2014-05-06,RG Sharma,59,37,3.0,4.0,1,0,0,82.0,159.45945945945945,0,0
+Royal Challengers Bangalore,Mumbai Indians,733983,2014-05-06,AB Dinda,2,5,0.0,0.0,0,0,0,6.0,40.0,0,0
+Royal Challengers Bangalore,Mumbai Indians,733983,2014-05-06,AB de Villiers,9,7,2.0,0.0,0,0,0,15.0,128.57142857142858,JJ Bumrah,bowled
+Royal Challengers Bangalore,Mumbai Indians,733983,2014-05-06,CH Gayle,38,25,3.0,3.0,0,0,0,51.0,152.0,Harbhajan Singh,bowled
+Royal Challengers Bangalore,Mumbai Indians,733983,2014-05-06,HV Patel,6,2,0.0,1.0,0,0,0,12.0,300.0,JJ Bumrah,bowled
+Royal Challengers Bangalore,Mumbai Indians,733983,2014-05-06,MA Starc,5,4,1.0,0.0,0,0,0,10.0,125.0,SL Malinga,caught
+Royal Challengers Bangalore,Mumbai Indians,733983,2014-05-06,PA Patel,26,21,5.0,0.0,0,0,0,35.0,123.8095238095238,Harbhajan Singh,bowled
+Royal Challengers Bangalore,Mumbai Indians,733983,2014-05-06,RR Rossouw,24,14,1.0,2.0,0,0,0,33.0,171.42857142857142,SL Malinga,caught
+Royal Challengers Bangalore,Mumbai Indians,733983,2014-05-06,V Kohli,35,28,2.0,2.0,0,0,0,45.0,125.0,P Suyal,caught
+Royal Challengers Bangalore,Mumbai Indians,733983,2014-05-06,VR Aaron,7,8,1.0,0.0,0,0,0,12.0,87.5,0,0
+Royal Challengers Bangalore,Mumbai Indians,733983,2014-05-06,Yuvraj Singh,6,10,0.0,0.0,0,0,0,10.0,60.0,KA Pollard,run out

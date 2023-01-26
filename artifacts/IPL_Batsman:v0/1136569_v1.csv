@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Mumbai Indians,1136569,2018-04-14,G Gambhir,15,16,2.0,0.0,0,0,0,21.0,93.75,Mustafizur Rahman,caught
+Delhi Daredevils,Mumbai Indians,1136569,2018-04-14,GJ Maxwell,13,6,1.0,1.0,0,0,0,20.0,216.66666666666663,KH Pandya,caught and bowled
+Delhi Daredevils,Mumbai Indians,1136569,2018-04-14,JJ Roy,91,54,6.0,6.0,1,0,0,121.0,168.5185185185185,0,0
+Delhi Daredevils,Mumbai Indians,1136569,2018-04-14,RR Pant,47,25,6.0,2.0,0,0,0,61.0,188.0,KH Pandya,caught
+Delhi Daredevils,Mumbai Indians,1136569,2018-04-14,SS Iyer,27,20,3.0,1.0,0,0,0,36.0,135.0,0,0
+Mumbai Indians,Delhi Daredevils,1136569,2018-04-14,A Dananjaya,4,5,0.0,0.0,0,0,0,8.0,80.0,0,0
+Mumbai Indians,Delhi Daredevils,1136569,2018-04-14,E Lewis,48,31,4.0,4.0,0,0,0,64.0,154.83870967741936,R Tewatia,caught
+Mumbai Indians,Delhi Daredevils,1136569,2018-04-14,HH Pandya,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,TA Boult,caught
+Mumbai Indians,Delhi Daredevils,1136569,2018-04-14,Ishan Kishan,44,23,5.0,2.0,0,0,0,57.0,191.30434782608697,DT Christian,bowled
+Mumbai Indians,Delhi Daredevils,1136569,2018-04-14,KA Pollard,0,1,0.0,0.0,0,0,1,2.0,0.0,DT Christian,bowled
+Mumbai Indians,Delhi Daredevils,1136569,2018-04-14,KH Pandya,11,11,1.0,0.0,0,0,0,16.0,100.0,Mohammed Shami,caught
+Mumbai Indians,Delhi Daredevils,1136569,2018-04-14,M Markande,4,3,0.0,0.0,0,0,0,8.0,133.33333333333331,0,0
+Mumbai Indians,Delhi Daredevils,1136569,2018-04-14,RG Sharma,18,16,2.0,0.0,0,0,0,24.0,112.5,TA Boult,caught
+Mumbai Indians,Delhi Daredevils,1136569,2018-04-14,SA Yadav,53,32,7.0,1.0,1,0,0,74.0,165.625,R Tewatia,lbw

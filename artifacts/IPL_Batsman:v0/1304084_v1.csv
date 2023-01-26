@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Punjab Kings,1304084,2022-04-25,AT Rayudu,78,40,7.0,6.0,1,0,0,109.0,195.0,K Rabada,bowled
+Chennai Super Kings,Punjab Kings,1304084,2022-04-25,D Pretorius,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Chennai Super Kings,Punjab Kings,1304084,2022-04-25,MJ Santner,9,16,1.0,0.0,0,0,0,14.0,56.25,Arshdeep Singh,bowled
+Chennai Super Kings,Punjab Kings,1304084,2022-04-25,MS Dhoni,12,9,1.0,1.0,0,0,0,19.0,133.33333333333331,R Dhawan,caught
+Chennai Super Kings,Punjab Kings,1304084,2022-04-25,RA Jadeja,21,17,1.0,1.0,0,0,0,28.0,123.52941176470588,0,0
+Chennai Super Kings,Punjab Kings,1304084,2022-04-25,RD Gaikwad,30,28,4.0,0.0,0,0,0,38.0,107.14285714285714,K Rabada,caught
+Chennai Super Kings,Punjab Kings,1304084,2022-04-25,RV Uthappa,1,7,0.0,0.0,0,0,0,5.0,14.285714285714285,Sandeep Sharma,caught
+Chennai Super Kings,Punjab Kings,1304084,2022-04-25,S Dube,8,8,1.0,0.0,0,0,0,13.0,100.0,R Dhawan,bowled
+Punjab Kings,Chennai Super Kings,1304084,2022-04-25,JM Bairstow,6,3,1.0,0.0,0,0,0,11.0,200.0,DJ Bravo,run out
+Punjab Kings,Chennai Super Kings,1304084,2022-04-25,LS Livingstone,19,8,1.0,2.0,0,0,0,28.0,237.5,DJ Bravo,caught
+Punjab Kings,Chennai Super Kings,1304084,2022-04-25,MA Agarwal,18,23,2.0,0.0,0,0,0,24.0,78.26086956521739,M Theekshana,caught
+Punjab Kings,Chennai Super Kings,1304084,2022-04-25,PBB Rajapaksa,42,35,2.0,2.0,0,0,0,52.0,120.0,DJ Bravo,caught
+Punjab Kings,Chennai Super Kings,1304084,2022-04-25,S Dhawan,88,64,9.0,2.0,1,0,0,113.0,137.5,0,0

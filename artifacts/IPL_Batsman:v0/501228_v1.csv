@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Pune Warriors,501228,2011-04-27,M Vijay,31,33,1.0,1.0,0,0,0,38.0,93.93939393939394,JD Ryder,caught
+Chennai Super Kings,Pune Warriors,501228,2011-04-27,MEK Hussey,9,19,1.0,0.0,0,0,0,14.0,47.368421052631575,M Kartik,caught
+Chennai Super Kings,Pune Warriors,501228,2011-04-27,S Badrinath,63,46,6.0,2.0,1,0,0,85.0,136.95652173913044,0,0
+Chennai Super Kings,Pune Warriors,501228,2011-04-27,SK Raina,34,25,1.0,2.0,0,0,0,43.0,136.0,0,0
+Pune Warriors,Chennai Super Kings,501228,2011-04-27,JD Ryder,19,13,4.0,0.0,0,0,0,27.0,146.15384615384613,DE Bollinger,caught
+Pune Warriors,Chennai Super Kings,501228,2011-04-27,JE Taylor,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Pune Warriors,Chennai Super Kings,501228,2011-04-27,M Manhas,0,4,0.0,0.0,0,0,1,2.0,0.0,KMDN Kulasekara,bowled
+Pune Warriors,Chennai Super Kings,501228,2011-04-27,MD Mishra,2,9,0.0,0.0,0,0,0,6.0,22.22222222222222,DE Bollinger,caught
+Pune Warriors,Chennai Super Kings,501228,2011-04-27,MK Pandey,10,13,1.0,0.0,0,0,0,15.0,76.92307692307693,TG Southee,caught
+Pune Warriors,Chennai Super Kings,501228,2011-04-27,MR Marsh,11,16,1.0,0.0,0,0,0,16.0,68.75,DE Bollinger,caught
+Pune Warriors,Chennai Super Kings,501228,2011-04-27,RV Uthappa,31,22,2.0,2.0,0,0,0,41.0,140.9090909090909,R Ashwin,caught
+Pune Warriors,Chennai Super Kings,501228,2011-04-27,Yuvraj Singh,62,45,3.0,4.0,1,0,0,85.0,137.77777777777777,0,0

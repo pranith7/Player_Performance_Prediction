@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Mumbai Indians,1136601,2018-05-09,AD Russell,2,4,0.0,0.0,0,0,0,6.0,50.0,HH Pandya,caught
+Kolkata Knight Riders,Mumbai Indians,1136601,2018-05-09,CA Lynn,21,15,3.0,1.0,0,0,0,30.0,140.0,KH Pandya,run out
+Kolkata Knight Riders,Mumbai Indians,1136601,2018-05-09,KD Karthik,5,3,1.0,0.0,0,0,0,10.0,166.66666666666669,HH Pandya,run out
+Kolkata Knight Riders,Mumbai Indians,1136601,2018-05-09,Kuldeep Yadav,5,15,0.0,0.0,0,0,0,9.0,33.33333333333333,KH Pandya,lbw
+Kolkata Knight Riders,Mumbai Indians,1136601,2018-05-09,M Prasidh Krishna,1,5,0.0,0.0,0,0,0,5.0,20.0,0,0
+Kolkata Knight Riders,Mumbai Indians,1136601,2018-05-09,N Rana,21,19,2.0,1.0,0,0,0,29.0,110.5263157894737,HH Pandya,caught
+Kolkata Knight Riders,Mumbai Indians,1136601,2018-05-09,PP Chawla,11,13,1.0,0.0,0,0,0,16.0,84.61538461538461,BCJ Cutting,caught
+Kolkata Knight Riders,Mumbai Indians,1136601,2018-05-09,RK Singh,5,3,1.0,0.0,0,0,0,10.0,166.66666666666669,JJ Bumrah,caught
+Kolkata Knight Riders,Mumbai Indians,1136601,2018-05-09,RV Uthappa,14,13,0.0,2.0,0,0,0,22.0,107.6923076923077,M Markande,caught
+Kolkata Knight Riders,Mumbai Indians,1136601,2018-05-09,SP Narine,4,2,1.0,0.0,0,0,0,9.0,200.0,MJ McClenaghan,caught
+Kolkata Knight Riders,Mumbai Indians,1136601,2018-05-09,TK Curran,18,17,3.0,0.0,0,0,0,25.0,105.88235294117648,KH Pandya,caught
+Mumbai Indians,Kolkata Knight Riders,1136601,2018-05-09,BCJ Cutting,24,10,1.0,3.0,0,0,0,35.0,240.0,PP Chawla,caught
+Mumbai Indians,Kolkata Knight Riders,1136601,2018-05-09,E Lewis,18,13,3.0,0.0,0,0,0,25.0,138.46153846153845,PP Chawla,caught
+Mumbai Indians,Kolkata Knight Riders,1136601,2018-05-09,HH Pandya,19,14,0.0,2.0,0,0,0,27.0,135.71428571428572,TK Curran,caught
+Mumbai Indians,Kolkata Knight Riders,1136601,2018-05-09,Ishan Kishan,62,22,5.0,6.0,1,0,0,91.0,281.8181818181818,SP Narine,caught
+Mumbai Indians,Kolkata Knight Riders,1136601,2018-05-09,KH Pandya,8,2,0.0,1.0,0,0,0,14.0,400.0,0,0
+Mumbai Indians,Kolkata Knight Riders,1136601,2018-05-09,RG Sharma,36,32,2.0,1.0,0,0,0,44.0,112.5,M Prasidh Krishna,caught
+Mumbai Indians,Kolkata Knight Riders,1136601,2018-05-09,SA Yadav,36,32,5.0,1.0,0,0,0,47.0,112.5,PP Chawla,caught

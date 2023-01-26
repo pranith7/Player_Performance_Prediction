@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Kolkata Knight Riders,598040,2013-05-01,BJ Rohrer,10,3,0.0,1.0,0,0,0,16.0,333.33333333333337,0,0
+Delhi Daredevils,Kolkata Knight Riders,598040,2013-05-01,DA Warner,66,42,6.0,3.0,1,0,0,90.0,157.14285714285714,0,0
+Delhi Daredevils,Kolkata Knight Riders,598040,2013-05-01,DPMD Jayawardene,5,9,0.0,0.0,0,0,0,9.0,55.55555555555556,L Balaji,caught
+Delhi Daredevils,Kolkata Knight Riders,598040,2013-05-01,UBT Chand,37,39,4.0,0.0,0,0,0,45.0,94.87179487179486,B Lee,caught
+Delhi Daredevils,Kolkata Knight Riders,598040,2013-05-01,V Sehwag,17,15,3.0,0.0,0,0,0,24.0,113.33333333333331,JH Kallis,caught
+Kolkata Knight Riders,Delhi Daredevils,598040,2013-05-01,B Lee,16,6,0.0,2.0,0,0,0,24.0,266.66666666666663,0,0
+Kolkata Knight Riders,Delhi Daredevils,598040,2013-05-01,DB Das,18,28,1.0,1.0,0,0,0,25.0,64.28571428571429,A Nehra,caught
+Kolkata Knight Riders,Delhi Daredevils,598040,2013-05-01,EJG Morgan,10,9,2.0,0.0,0,0,0,16.0,111.11111111111111,S Nadeem,caught
+Kolkata Knight Riders,Delhi Daredevils,598040,2013-05-01,JH Kallis,12,16,2.0,0.0,0,0,0,18.0,75.0,IK Pathan,caught
+Kolkata Knight Riders,Delhi Daredevils,598040,2013-05-01,MS Bisla,4,8,1.0,0.0,0,0,0,9.0,50.0,UT Yadav,bowled
+Kolkata Knight Riders,Delhi Daredevils,598040,2013-05-01,R Bhatia,26,26,2.0,0.0,0,0,0,32.0,100.0,0,0
+Kolkata Knight Riders,Delhi Daredevils,598040,2013-05-01,S Narwal,23,16,4.0,0.0,0,0,0,31.0,143.75,UT Yadav,caught
+Kolkata Knight Riders,Delhi Daredevils,598040,2013-05-01,YK Pathan,20,16,2.0,1.0,0,0,0,28.0,125.0,M Morkel,caught

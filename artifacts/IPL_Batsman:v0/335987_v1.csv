@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Rajasthan Royals,335987,2008-04-21,B Lee,0,2,0.0,0.0,0,0,1,2.0,0.0,SK Trivedi,caught
+Kings XI Punjab,Rajasthan Royals,335987,2008-04-21,DPMD Jayawardene,2,5,0.0,0.0,0,0,0,6.0,40.0,D Salunkhe,stumped
+Kings XI Punjab,Rajasthan Royals,335987,2008-04-21,IK Pathan,12,19,0.0,1.0,0,0,0,18.0,63.1578947368421,SK Trivedi,bowled
+Kings XI Punjab,Rajasthan Royals,335987,2008-04-21,JR Hopes,16,16,2.0,0.0,0,0,0,22.0,100.0,SK Warne,lbw
+Kings XI Punjab,Rajasthan Royals,335987,2008-04-21,K Goel,26,21,3.0,2.0,0,0,0,37.0,123.8095238095238,MM Patel,bowled
+Kings XI Punjab,Rajasthan Royals,335987,2008-04-21,KC Sangakkara,20,8,3.0,1.0,0,0,0,29.0,250.0,SK Warne,caught and bowled
+Kings XI Punjab,Rajasthan Royals,335987,2008-04-21,PP Chawla,24,11,4.0,0.0,0,0,0,32.0,218.18181818181816,0,0
+Kings XI Punjab,Rajasthan Royals,335987,2008-04-21,S Sohal,4,4,0.0,0.0,0,0,0,8.0,100.0,MM Patel,run out
+Kings XI Punjab,Rajasthan Royals,335987,2008-04-21,WA Mota,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Kings XI Punjab,Rajasthan Royals,335987,2008-04-21,Yuvraj Singh,57,35,6.0,3.0,1,0,0,81.0,162.85714285714286,SK Warne,lbw
+Rajasthan Royals,Kings XI Punjab,335987,2008-04-21,DS Lehmann,17,17,3.0,0.0,0,0,0,24.0,100.0,IK Pathan,lbw
+Rajasthan Royals,Kings XI Punjab,335987,2008-04-21,Kamran Akmal,15,10,2.0,1.0,0,0,0,23.0,150.0,JR Hopes,caught
+Rajasthan Royals,Kings XI Punjab,335987,2008-04-21,M Kaif,5,8,1.0,0.0,0,0,0,10.0,62.5,S Sreesanth,caught
+Rajasthan Royals,Kings XI Punjab,335987,2008-04-21,RA Jadeja,36,27,5.0,1.0,0,0,0,47.0,133.33333333333331,0,0
+Rajasthan Royals,Kings XI Punjab,335987,2008-04-21,SR Watson,76,51,5.0,5.0,1,0,0,103.0,149.0196078431373,0,0
+Rajasthan Royals,Kings XI Punjab,335987,2008-04-21,YK Pathan,7,6,1.0,0.0,0,0,0,12.0,116.66666666666669,B Lee,caught and bowled

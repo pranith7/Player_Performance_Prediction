@@ -1,0 +1,21 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Lucknow Super Giants,Punjab Kings,1304088,2022-04-29,A Badoni,4,4,0.0,0.0,0,0,0,8.0,100.0,K Rabada,caught
+Lucknow Super Giants,Punjab Kings,1304088,2022-04-29,Avesh Khan,2,5,0.0,0.0,0,0,0,6.0,40.0,0,0
+Lucknow Super Giants,Punjab Kings,1304088,2022-04-29,DJ Hooda,34,30,1.0,2.0,0,0,0,43.0,113.33333333333331,Arshdeep Singh,run out
+Lucknow Super Giants,Punjab Kings,1304088,2022-04-29,JO Holder,11,8,0.0,1.0,0,0,0,17.0,137.5,RD Chahar,caught
+Lucknow Super Giants,Punjab Kings,1304088,2022-04-29,KH Pandya,7,7,1.0,0.0,0,0,0,12.0,100.0,K Rabada,caught
+Lucknow Super Giants,Punjab Kings,1304088,2022-04-29,KL Rahul,6,11,1.0,0.0,0,0,0,11.0,54.54545454545454,K Rabada,caught
+Lucknow Super Giants,Punjab Kings,1304088,2022-04-29,MP Stoinis,1,4,0.0,0.0,0,0,0,5.0,25.0,RD Chahar,caught and bowled
+Lucknow Super Giants,Punjab Kings,1304088,2022-04-29,Mohsin Khan (2),13,6,1.0,1.0,0,0,0,20.0,216.66666666666663,0,0
+Lucknow Super Giants,Punjab Kings,1304088,2022-04-29,PVD Chameera,17,10,0.0,2.0,0,0,0,25.0,170.0,K Rabada,caught
+Lucknow Super Giants,Punjab Kings,1304088,2022-04-29,Q de Kock,46,39,4.0,2.0,0,0,0,58.0,117.94871794871796,Sandeep Sharma,caught
+Punjab Kings,Lucknow Super Giants,1304088,2022-04-29,Arshdeep Singh,0,3,0.0,0.0,0,0,1,2.0,0.0,0,0
+Punjab Kings,Lucknow Super Giants,1304088,2022-04-29,JM Bairstow,32,30,5.0,0.0,0,0,0,41.0,106.66666666666669,PVD Chameera,caught
+Punjab Kings,Lucknow Super Giants,1304088,2022-04-29,JM Sharma,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,KH Pandya,lbw
+Punjab Kings,Lucknow Super Giants,1304088,2022-04-29,K Rabada,2,5,0.0,0.0,0,0,0,6.0,40.0,Mohsin Khan (2),caught
+Punjab Kings,Lucknow Super Giants,1304088,2022-04-29,LS Livingstone,18,16,0.0,2.0,0,0,0,26.0,112.5,Mohsin Khan (2),caught
+Punjab Kings,Lucknow Super Giants,1304088,2022-04-29,MA Agarwal,25,17,2.0,2.0,0,0,0,35.0,147.05882352941177,PVD Chameera,caught
+Punjab Kings,Lucknow Super Giants,1304088,2022-04-29,PBB Rajapaksa,9,8,1.0,0.0,0,0,0,14.0,112.5,KH Pandya,caught
+Punjab Kings,Lucknow Super Giants,1304088,2022-04-29,R Dhawan,21,23,3.0,1.0,0,0,0,30.0,91.30434782608695,0,0
+Punjab Kings,Lucknow Super Giants,1304088,2022-04-29,RD Chahar,4,5,1.0,0.0,0,0,0,9.0,80.0,Mohsin Khan (2),caught
+Punjab Kings,Lucknow Super Giants,1304088,2022-04-29,S Dhawan,5,16,0.0,0.0,0,0,0,9.0,31.25,Ravi Bishnoi,bowled

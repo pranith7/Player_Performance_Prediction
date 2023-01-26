@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Royal Challengers Bangalore,419157,2010-04-17,AM Nayar,9,7,1.0,0.0,0,0,0,14.0,128.57142857142858,0,0
+Mumbai Indians,Royal Challengers Bangalore,419157,2010-04-17,AT Rayudu,46,29,3.0,4.0,0,0,0,61.0,158.6206896551724,JH Kallis,caught and bowled
+Mumbai Indians,Royal Challengers Bangalore,419157,2010-04-17,JP Duminy,42,19,3.0,3.0,0,0,0,55.0,221.0526315789474,0,0
+Mumbai Indians,Royal Challengers Bangalore,419157,2010-04-17,KA Pollard,20,9,0.0,3.0,0,0,0,30.0,222.22222222222223,A Kumble,lbw
+Mumbai Indians,Royal Challengers Bangalore,419157,2010-04-17,R McLaren,40,43,4.0,0.0,0,0,0,48.0,93.02325581395348,KP Pietersen,lbw
+Mumbai Indians,Royal Challengers Bangalore,419157,2010-04-17,SR Tendulkar,19,19,3.0,0.0,0,0,0,26.0,100.0,JH Kallis,caught
+Royal Challengers Bangalore,Mumbai Indians,419157,2010-04-17,A Kumble,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,0,0
+Royal Challengers Bangalore,Mumbai Indians,419157,2010-04-17,DW Steyn,0,2,0.0,0.0,0,0,1,2.0,0.0,Z Khan,bowled
+Royal Challengers Bangalore,Mumbai Indians,419157,2010-04-17,JH Kallis,14,15,0.0,1.0,0,0,0,20.0,93.33333333333331,R McLaren,bowled
+Royal Challengers Bangalore,Mumbai Indians,419157,2010-04-17,KP Pietersen,21,16,1.0,1.0,0,0,0,28.0,131.25,Harbhajan Singh,caught
+Royal Challengers Bangalore,Mumbai Indians,419157,2010-04-17,LRPL Taylor,9,11,0.0,0.0,0,0,0,13.0,81.81818181818183,CRD Fernando,caught
+Royal Challengers Bangalore,Mumbai Indians,419157,2010-04-17,MK Pandey,16,18,2.0,0.0,0,0,0,22.0,88.88888888888889,CRD Fernando,caught
+Royal Challengers Bangalore,Mumbai Indians,419157,2010-04-17,Pankaj Singh,1,2,0.0,0.0,0,0,0,5.0,50.0,KA Pollard,caught
+Royal Challengers Bangalore,Mumbai Indians,419157,2010-04-17,R Dravid,16,11,2.0,0.0,0,0,0,22.0,145.45454545454547,Harbhajan Singh,caught
+Royal Challengers Bangalore,Mumbai Indians,419157,2010-04-17,R Vinay Kumar,10,13,1.0,0.0,0,0,0,15.0,76.92307692307693,0,0
+Royal Challengers Bangalore,Mumbai Indians,419157,2010-04-17,RV Uthappa,4,7,0.0,0.0,0,0,0,8.0,57.14285714285714,KA Pollard,caught
+Royal Challengers Bangalore,Mumbai Indians,419157,2010-04-17,V Kohli,37,24,4.0,1.0,0,0,0,47.0,154.16666666666669,KA Pollard,caught

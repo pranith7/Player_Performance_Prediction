@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Mumbai Indians,1136610,2018-05-16,AJ Finch,46,35,3.0,1.0,0,0,0,55.0,131.42857142857142,JJ Bumrah,caught
+Kings XI Punjab,Mumbai Indians,1136610,2018-05-16,AR Patel,10,8,0.0,1.0,0,0,0,16.0,125.0,0,0
+Kings XI Punjab,Mumbai Indians,1136610,2018-05-16,CH Gayle,18,11,2.0,1.0,0,0,0,26.0,163.63636363636363,MJ McClenaghan,caught
+Kings XI Punjab,Mumbai Indians,1136610,2018-05-16,KL Rahul,94,64,10.0,3.0,1,0,0,122.0,146.875,JJ Bumrah,caught
+Kings XI Punjab,Mumbai Indians,1136610,2018-05-16,MK Tiwary,4,1,1.0,0.0,0,0,0,9.0,400.0,0,0
+Kings XI Punjab,Mumbai Indians,1136610,2018-05-16,MP Stoinis,1,2,0.0,0.0,0,0,0,5.0,50.0,JJ Bumrah,caught
+Kings XI Punjab,Mumbai Indians,1136610,2018-05-16,Yuvraj Singh,1,4,0.0,0.0,0,0,0,5.0,25.0,MJ McClenaghan,caught
+Mumbai Indians,Kings XI Punjab,1136610,2018-05-16,BCJ Cutting,4,7,0.0,0.0,0,0,0,8.0,57.14285714285714,R Ashwin,caught
+Mumbai Indians,Kings XI Punjab,1136610,2018-05-16,E Lewis,9,8,0.0,1.0,0,0,0,15.0,112.5,AJ Tye,bowled
+Mumbai Indians,Kings XI Punjab,1136610,2018-05-16,HH Pandya,9,13,0.0,0.0,0,0,0,13.0,69.23076923076923,AJ Tye,caught
+Mumbai Indians,Kings XI Punjab,1136610,2018-05-16,Ishan Kishan,20,12,1.0,2.0,0,0,0,29.0,166.66666666666669,AJ Tye,caught
+Mumbai Indians,Kings XI Punjab,1136610,2018-05-16,KA Pollard,50,24,5.0,3.0,1,0,0,73.0,208.3333333333333,R Ashwin,caught
+Mumbai Indians,Kings XI Punjab,1136610,2018-05-16,KH Pandya,32,24,1.0,2.0,0,0,0,41.0,133.33333333333331,MP Stoinis,caught
+Mumbai Indians,Kings XI Punjab,1136610,2018-05-16,M Markande,7,5,1.0,0.0,0,0,0,12.0,140.0,0,0
+Mumbai Indians,Kings XI Punjab,1136610,2018-05-16,MJ McClenaghan,11,8,1.0,1.0,0,0,0,18.0,137.5,0,0
+Mumbai Indians,Kings XI Punjab,1136610,2018-05-16,RG Sharma,6,10,0.0,0.0,0,0,0,10.0,60.0,AS Rajpoot,caught
+Mumbai Indians,Kings XI Punjab,1136610,2018-05-16,SA Yadav,27,15,3.0,2.0,0,0,0,38.0,180.0,AJ Tye,caught

@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Gujarat Lions,Kings XI Punjab,1082616,2017-04-23,AD Nath,0,1,0.0,0.0,0,0,1,2.0,0.0,KC Cariappa,lbw
+Gujarat Lions,Kings XI Punjab,1082616,2017-04-23,AJ Finch,13,12,0.0,1.0,0,0,0,19.0,108.33333333333331,MM Sharma,caught
+Gujarat Lions,Kings XI Punjab,1082616,2017-04-23,AJ Tye,22,12,2.0,1.0,0,0,0,30.0,183.3333333333333,Sandeep Sharma,bowled
+Gujarat Lions,Kings XI Punjab,1082616,2017-04-23,BB McCullum,6,6,1.0,0.0,0,0,0,11.0,100.0,Sandeep Sharma,lbw
+Gujarat Lions,Kings XI Punjab,1082616,2017-04-23,Basil Thampi,11,12,1.0,0.0,0,0,0,16.0,91.66666666666666,0,0
+Gujarat Lions,Kings XI Punjab,1082616,2017-04-23,DR Smith,4,4,1.0,0.0,0,0,0,9.0,100.0,AR Patel,caught
+Gujarat Lions,Kings XI Punjab,1082616,2017-04-23,KD Karthik,58,46,6.0,0.0,1,0,0,76.0,126.08695652173914,0,0
+Gujarat Lions,Kings XI Punjab,1082616,2017-04-23,RA Jadeja,9,7,1.0,0.0,0,0,0,14.0,128.57142857142858,KC Cariappa,caught and bowled
+Gujarat Lions,Kings XI Punjab,1082616,2017-04-23,SK Raina,32,24,4.0,0.0,0,0,0,40.0,133.33333333333331,AR Patel,caught
+Kings XI Punjab,Gujarat Lions,1082616,2017-04-23,AR Patel,34,18,3.0,2.0,0,0,0,45.0,188.88888888888889,DR Smith,caught
+Kings XI Punjab,Gujarat Lions,1082616,2017-04-23,GJ Maxwell,31,18,1.0,3.0,0,0,0,42.0,172.22222222222223,RA Jadeja,lbw
+Kings XI Punjab,Gujarat Lions,1082616,2017-04-23,HM Amla,65,40,9.0,2.0,1,0,0,90.0,162.5,SS Agarwal,caught and bowled
+Kings XI Punjab,Gujarat Lions,1082616,2017-04-23,M Vohra,2,4,0.0,0.0,0,0,0,6.0,50.0,NB Singh,caught
+Kings XI Punjab,Gujarat Lions,1082616,2017-04-23,MM Sharma,4,3,0.0,0.0,0,0,0,8.0,133.33333333333331,0,0
+Kings XI Punjab,Gujarat Lions,1082616,2017-04-23,MP Stoinis,7,9,0.0,0.0,0,0,0,11.0,77.77777777777779,AJ Tye,caught
+Kings XI Punjab,Gujarat Lions,1082616,2017-04-23,SE Marsh,30,24,4.0,1.0,0,0,0,40.0,125.0,AJ Tye,caught
+Kings XI Punjab,Gujarat Lions,1082616,2017-04-23,WP Saha,10,5,0.0,1.0,0,0,0,16.0,200.0,Basil Thampi,run out

@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Rajasthan Royals,829741,2015-04-21,AR Patel,12,7,1.0,0.0,0,0,0,17.0,171.42857142857142,0,0
+Kings XI Punjab,Rajasthan Royals,829741,2015-04-21,DA Miller,54,31,1.0,5.0,1,0,0,77.0,174.19354838709677,DJ Hooda,caught
+Kings XI Punjab,Rajasthan Royals,829741,2015-04-21,GJ Maxwell,2,7,0.0,0.0,0,0,0,6.0,28.57142857142857,CH Morris,lbw
+Kings XI Punjab,Rajasthan Royals,829741,2015-04-21,M Vijay,21,18,0.0,2.0,0,0,0,29.0,116.66666666666669,R Tewatia,caught
+Kings XI Punjab,Rajasthan Royals,829741,2015-04-21,MG Johnson,13,8,1.0,0.0,0,0,0,18.0,162.5,R Tewatia,run out
+Kings XI Punjab,Rajasthan Royals,829741,2015-04-21,SE Marsh,77,45,8.0,3.0,1,0,0,103.0,171.11111111111111,0,0
+Kings XI Punjab,Rajasthan Royals,829741,2015-04-21,V Sehwag,1,4,0.0,0.0,0,0,0,5.0,25.0,PV Tambe,caught
+Kings XI Punjab,Rajasthan Royals,829741,2015-04-21,WP Saha,19,8,4.0,0.0,0,0,0,27.0,237.5,CH Morris,run out
+Rajasthan Royals,Kings XI Punjab,829741,2015-04-21,AM Rahane,74,54,6.0,2.0,1,0,0,96.0,137.03703703703704,STR Binny,run out
+Rajasthan Royals,Kings XI Punjab,829741,2015-04-21,DJ Hooda,19,9,1.0,2.0,0,0,0,28.0,211.11111111111111,CH Morris,bowled
+Rajasthan Royals,Kings XI Punjab,829741,2015-04-21,JP Faulkner,1,5,0.0,0.0,0,0,0,5.0,20.0,MG Johnson,caught
+Rajasthan Royals,Kings XI Punjab,829741,2015-04-21,KK Nair,25,14,2.0,1.0,0,0,0,33.0,178.57142857142858,Shivam Sharma,bowled
+Rajasthan Royals,Kings XI Punjab,829741,2015-04-21,SPD Smith,5,3,1.0,0.0,0,0,0,10.0,166.66666666666669,Sandeep Sharma,caught
+Rajasthan Royals,Kings XI Punjab,829741,2015-04-21,SR Watson,45,39,5.0,2.0,0,0,0,58.0,115.38461538461536,MG Johnson,run out
+Rajasthan Royals,Kings XI Punjab,829741,2015-04-21,STR Binny,12,4,1.0,1.0,0,0,0,19.0,300.0,Anureet Singh,caught
+Rajasthan Royals,Kings XI Punjab,829741,2015-04-21,SV Samson,5,2,1.0,0.0,0,0,0,10.0,250.0,AR Patel,caught

@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Mumbai Indians,1136615,2018-05-20,Abhishek Sharma,15,11,0.0,1.0,0,0,0,21.0,136.36363636363637,0,0
+Delhi Daredevils,Mumbai Indians,1136615,2018-05-20,GJ Maxwell,22,19,4.0,0.0,0,0,0,30.0,115.78947368421052,JJ Bumrah,bowled
+Delhi Daredevils,Mumbai Indians,1136615,2018-05-20,PP Shaw,12,8,2.0,0.0,0,0,0,18.0,150.0,Mustafizur Rahman,run out
+Delhi Daredevils,Mumbai Indians,1136615,2018-05-20,RR Pant,64,45,4.0,4.0,1,0,0,88.0,142.22222222222223,KH Pandya,caught
+Delhi Daredevils,Mumbai Indians,1136615,2018-05-20,SS Iyer,6,10,0.0,0.0,0,0,0,10.0,60.0,M Markande,caught
+Delhi Daredevils,Mumbai Indians,1136615,2018-05-20,V Shankar,43,32,3.0,2.0,0,0,0,54.0,134.375,0,0
+Mumbai Indians,Delhi Daredevils,1136615,2018-05-20,BCJ Cutting,37,20,2.0,3.0,0,0,0,49.0,185.0,HV Patel,caught
+Mumbai Indians,Delhi Daredevils,1136615,2018-05-20,E Lewis,48,32,3.0,4.0,0,0,0,63.0,150.0,A Mishra,stumped
+Mumbai Indians,Delhi Daredevils,1136615,2018-05-20,HH Pandya,27,18,2.0,1.0,0,0,0,35.0,150.0,A Mishra,caught
+Mumbai Indians,Delhi Daredevils,1136615,2018-05-20,Ishan Kishan,5,14,0.0,0.0,0,0,0,9.0,35.714285714285715,A Mishra,caught
+Mumbai Indians,Delhi Daredevils,1136615,2018-05-20,JJ Bumrah,0,1,0.0,0.0,0,0,1,2.0,0.0,HV Patel,caught
+Mumbai Indians,Delhi Daredevils,1136615,2018-05-20,KA Pollard,7,7,0.0,0.0,0,0,0,11.0,100.0,S Lamichhane,caught
+Mumbai Indians,Delhi Daredevils,1136615,2018-05-20,KH Pandya,4,3,1.0,0.0,0,0,0,9.0,133.33333333333331,S Lamichhane,caught
+Mumbai Indians,Delhi Daredevils,1136615,2018-05-20,M Markande,3,11,0.0,0.0,0,0,0,7.0,27.27272727272727,TA Boult,bowled
+Mumbai Indians,Delhi Daredevils,1136615,2018-05-20,RG Sharma,13,12,1.0,0.0,0,0,0,18.0,108.33333333333331,HV Patel,caught
+Mumbai Indians,Delhi Daredevils,1136615,2018-05-20,SA Yadav,12,4,1.0,1.0,0,0,0,19.0,300.0,S Lamichhane,caught

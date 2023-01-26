@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Kolkata Knight Riders,733997,2014-05-11,AR Patel,1,1,0.0,0.0,0,0,0,5.0,100.0,SP Narine,run out
+Kings XI Punjab,Kolkata Knight Riders,733997,2014-05-11,DA Miller,13,14,1.0,0.0,0,0,0,18.0,92.85714285714286,UT Yadav,bowled
+Kings XI Punjab,Kolkata Knight Riders,733997,2014-05-11,GJ Bailey,12,11,0.0,0.0,0,0,0,16.0,109.09090909090908,0,0
+Kings XI Punjab,Kolkata Knight Riders,733997,2014-05-11,GJ Maxwell,14,14,1.0,0.0,0,0,0,19.0,100.0,PP Chawla,caught
+Kings XI Punjab,Kolkata Knight Riders,733997,2014-05-11,MG Johnson,14,12,1.0,1.0,0,0,0,21.0,116.66666666666669,SP Narine,stumped
+Kings XI Punjab,Kolkata Knight Riders,733997,2014-05-11,Mandeep Singh,0,3,0.0,0.0,0,0,1,2.0,0.0,M Morkel,caught
+Kings XI Punjab,Kolkata Knight Riders,733997,2014-05-11,R Dhawan,4,6,0.0,0.0,0,0,0,8.0,66.66666666666666,PP Chawla,bowled
+Kings XI Punjab,Kolkata Knight Riders,733997,2014-05-11,V Sehwag,72,52,11.0,1.0,1,0,0,97.0,138.46153846153845,PP Chawla,bowled
+Kings XI Punjab,Kolkata Knight Riders,733997,2014-05-11,WP Saha,15,9,3.0,0.0,0,0,0,22.0,166.66666666666669,M Morkel,bowled
+Kolkata Knight Riders,Kings XI Punjab,733997,2014-05-11,G Gambhir,63,47,7.0,0.0,1,0,0,82.0,134.04255319148936,0,0
+Kolkata Knight Riders,Kings XI Punjab,733997,2014-05-11,MK Pandey,36,35,3.0,0.0,0,0,0,43.0,102.85714285714285,0,0
+Kolkata Knight Riders,Kings XI Punjab,733997,2014-05-11,RV Uthappa,46,29,8.0,1.0,0,0,0,60.0,158.6206896551724,P Awana,caught

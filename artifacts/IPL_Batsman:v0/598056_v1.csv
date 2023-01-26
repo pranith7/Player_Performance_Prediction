@@ -1,0 +1,21 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Sunrisers Hyderabad,598056,2013-05-11,AC Gilchrist,26,23,4.0,0.0,0,0,0,34.0,113.04347826086956,DJG Sammy,bowled
+Kings XI Punjab,Sunrisers Hyderabad,598056,2013-05-11,DA Miller,6,7,1.0,0.0,0,0,0,11.0,85.71428571428571,DJG Sammy,caught
+Kings XI Punjab,Sunrisers Hyderabad,598056,2013-05-11,Harmeet Singh,3,4,0.0,0.0,0,0,0,7.0,75.0,DJG Sammy,run out
+Kings XI Punjab,Sunrisers Hyderabad,598056,2013-05-11,LA Pomersbach,33,41,1.0,1.0,0,0,0,40.0,80.48780487804879,0,0
+Kings XI Punjab,Sunrisers Hyderabad,598056,2013-05-11,Mandeep Singh,0,2,0.0,0.0,0,0,1,2.0,0.0,DW Steyn,caught
+Kings XI Punjab,Sunrisers Hyderabad,598056,2013-05-11,P Awana,0,1,0.0,0.0,0,0,1,2.0,0.0,DJG Sammy,caught
+Kings XI Punjab,Sunrisers Hyderabad,598056,2013-05-11,P Kumar,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,DW Steyn,bowled
+Kings XI Punjab,Sunrisers Hyderabad,598056,2013-05-11,PP Chawla,0,2,0.0,0.0,0,0,1,2.0,0.0,NLTC Perera,caught
+Kings XI Punjab,Sunrisers Hyderabad,598056,2013-05-11,R Sathish,25,18,1.0,2.0,0,0,0,34.0,138.88888888888889,DJG Sammy,run out
+Kings XI Punjab,Sunrisers Hyderabad,598056,2013-05-11,SE Marsh,18,20,3.0,0.0,0,0,0,25.0,90.0,DJG Sammy,caught
+Kings XI Punjab,Sunrisers Hyderabad,598056,2013-05-11,Sandeep Sharma,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Sunrisers Hyderabad,Kings XI Punjab,598056,2013-05-11,BB Samantray,0,1,0.0,0.0,0,0,1,2.0,0.0,Sandeep Sharma,bowled
+Sunrisers Hyderabad,Kings XI Punjab,598056,2013-05-11,CL White,10,8,2.0,0.0,0,0,0,16.0,125.0,Sandeep Sharma,lbw
+Sunrisers Hyderabad,Kings XI Punjab,598056,2013-05-11,DJG Sammy,0,3,0.0,0.0,0,0,1,2.0,0.0,PP Chawla,lbw
+Sunrisers Hyderabad,Kings XI Punjab,598056,2013-05-11,DW Steyn,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,0,0
+Sunrisers Hyderabad,Kings XI Punjab,598056,2013-05-11,GH Vihari,5,7,1.0,0.0,0,0,0,10.0,71.42857142857143,Sandeep Sharma,caught
+Sunrisers Hyderabad,Kings XI Punjab,598056,2013-05-11,KV Sharma,22,18,2.0,1.0,0,0,0,30.0,122.22222222222224,P Awana,caught
+Sunrisers Hyderabad,Kings XI Punjab,598056,2013-05-11,NLTC Perera,32,19,2.0,2.0,0,0,0,42.0,168.42105263157893,0,0
+Sunrisers Hyderabad,Kings XI Punjab,598056,2013-05-11,PA Patel,61,47,5.0,2.0,1,0,0,82.0,129.7872340425532,Harmeet Singh,run out
+Sunrisers Hyderabad,Kings XI Punjab,598056,2013-05-11,S Dhawan,15,15,2.0,0.0,0,0,0,21.0,100.0,Harmeet Singh,caught and bowled

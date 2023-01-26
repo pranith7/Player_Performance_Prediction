@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Gujarat Lions,Sunrisers Hyderabad,1082596,2017-04-09,AJ Finch,3,5,0.0,0.0,0,0,0,7.0,60.0,Rashid Khan,lbw
+Gujarat Lions,Sunrisers Hyderabad,1082596,2017-04-09,BB McCullum,5,10,0.0,0.0,0,0,0,9.0,50.0,Rashid Khan,lbw
+Gujarat Lions,Sunrisers Hyderabad,1082596,2017-04-09,Basil Thampi,13,8,0.0,1.0,0,0,0,19.0,162.5,0,0
+Gujarat Lions,Sunrisers Hyderabad,1082596,2017-04-09,DR Smith,37,27,4.0,1.0,0,0,0,47.0,137.03703703703704,B Kumar,caught
+Gujarat Lions,Sunrisers Hyderabad,1082596,2017-04-09,DS Kulkarni,1,2,0.0,0.0,0,0,0,5.0,50.0,A Nehra,run out
+Gujarat Lions,Sunrisers Hyderabad,1082596,2017-04-09,JJ Roy,31,21,5.0,0.0,0,0,0,40.0,147.61904761904762,B Kumar,caught
+Gujarat Lions,Sunrisers Hyderabad,1082596,2017-04-09,KD Karthik,30,32,2.0,0.0,0,0,0,36.0,93.75,A Nehra,caught
+Gujarat Lions,Sunrisers Hyderabad,1082596,2017-04-09,P Kumar,7,7,0.0,0.0,0,0,0,11.0,100.0,0,0
+Gujarat Lions,Sunrisers Hyderabad,1082596,2017-04-09,SK Raina,5,8,0.0,0.0,0,0,0,9.0,62.5,Rashid Khan,lbw
+Sunrisers Hyderabad,Gujarat Lions,1082596,2017-04-09,DA Warner,76,47,6.0,4.0,1,0,0,102.0,161.70212765957444,0,0
+Sunrisers Hyderabad,Gujarat Lions,1082596,2017-04-09,MC Henriques,52,40,6.0,0.0,1,0,0,70.0,130.0,0,0
+Sunrisers Hyderabad,Gujarat Lions,1082596,2017-04-09,S Dhawan,9,9,0.0,1.0,0,0,0,15.0,100.0,P Kumar,caught

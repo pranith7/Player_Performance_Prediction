@@ -1,0 +1,9 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Royal Challengers Bangalore,Rajasthan Royals,829763,2015-04-29,AB de Villiers,57,47,9.0,1.0,1,0,0,80.0,121.27659574468086,STR Binny,run out
+Royal Challengers Bangalore,Rajasthan Royals,829763,2015-04-29,CH Gayle,10,4,1.0,1.0,0,0,0,17.0,250.0,TG Southee,caught
+Royal Challengers Bangalore,Rajasthan Royals,829763,2015-04-29,D Wiese,11,9,2.0,0.0,0,0,0,17.0,122.22222222222224,DS Kulkarni,caught
+Royal Challengers Bangalore,Rajasthan Royals,829763,2015-04-29,HV Patel,6,2,0.0,1.0,0,0,0,12.0,300.0,TG Southee,run out
+Royal Challengers Bangalore,Rajasthan Royals,829763,2015-04-29,KD Karthik,27,19,3.0,1.0,0,0,0,36.0,142.10526315789474,SR Watson,run out
+Royal Challengers Bangalore,Rajasthan Royals,829763,2015-04-29,Mandeep Singh,27,21,4.0,0.0,0,0,0,35.0,128.57142857142858,STR Binny,lbw
+Royal Challengers Bangalore,Rajasthan Royals,829763,2015-04-29,SN Khan,45,22,6.0,1.0,0,0,0,57.0,204.54545454545453,0,0
+Royal Challengers Bangalore,Rajasthan Royals,829763,2015-04-29,V Kohli,1,4,0.0,0.0,0,0,0,5.0,25.0,TG Southee,caught

@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Kolkata Knight Riders,729289,2014-04-19,JDS Neesham,8,11,0.0,1.0,0,0,0,14.0,72.72727272727273,PP Chawla,caught
+Delhi Daredevils,Kolkata Knight Riders,729289,2014-04-19,JP Duminy,52,37,3.0,3.0,1,0,0,73.0,140.54054054054055,0,0
+Delhi Daredevils,Kolkata Knight Riders,729289,2014-04-19,KD Karthik,56,40,5.0,2.0,1,0,0,77.0,140.0,SP Narine,lbw
+Delhi Daredevils,Kolkata Knight Riders,729289,2014-04-19,LRPL Taylor,6,9,1.0,0.0,0,0,0,11.0,66.66666666666666,JH Kallis,bowled
+Delhi Daredevils,Kolkata Knight Riders,729289,2014-04-19,M Vijay,0,2,0.0,0.0,0,0,1,2.0,0.0,R Vinay Kumar,run out
+Delhi Daredevils,Kolkata Knight Riders,729289,2014-04-19,MA Agarwal,26,15,3.0,0.0,0,0,0,33.0,173.33333333333334,M Morkel,caught
+Delhi Daredevils,Kolkata Knight Riders,729289,2014-04-19,MK Tiwary,8,6,1.0,0.0,0,0,0,13.0,133.33333333333331,M Morkel,caught
+Kolkata Knight Riders,Delhi Daredevils,729289,2014-04-19,G Gambhir,0,5,0.0,0.0,0,0,1,2.0,0.0,NM Coulter-Nile,caught
+Kolkata Knight Riders,Delhi Daredevils,729289,2014-04-19,JH Kallis,0,2,0.0,0.0,0,0,1,2.0,0.0,Mohammed Shami,caught
+Kolkata Knight Riders,Delhi Daredevils,729289,2014-04-19,MK Pandey,48,47,5.0,0.0,0,0,0,57.0,102.12765957446808,S Nadeem,bowled
+Kolkata Knight Riders,Delhi Daredevils,729289,2014-04-19,RV Uthappa,55,41,6.0,1.0,1,0,0,75.0,134.14634146341464,JD Unadkat,caught
+Kolkata Knight Riders,Delhi Daredevils,729289,2014-04-19,SA Yadav,8,3,2.0,0.0,0,0,0,14.0,266.66666666666663,0,0
+Kolkata Knight Riders,Delhi Daredevils,729289,2014-04-19,Shakib Al Hasan,30,22,2.0,1.0,0,0,0,38.0,136.36363636363637,0,0
+Kolkata Knight Riders,Delhi Daredevils,729289,2014-04-19,YK Pathan,11,9,1.0,0.0,0,0,0,16.0,122.22222222222224,NM Coulter-Nile,bowled

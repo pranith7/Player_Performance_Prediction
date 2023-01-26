@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Gujarat Titans,Lucknow Super Giants,1304050,2022-03-28,A Manohar,15,7,3.0,0.0,0,0,0,22.0,214.28571428571428,0,0
+Gujarat Titans,Lucknow Super Giants,1304050,2022-03-28,DA Miller,30,21,1.0,2.0,0,0,0,39.0,142.85714285714286,Avesh Khan,caught
+Gujarat Titans,Lucknow Super Giants,1304050,2022-03-28,HH Pandya,33,28,5.0,1.0,0,0,0,44.0,117.85714285714286,KH Pandya,caught
+Gujarat Titans,Lucknow Super Giants,1304050,2022-03-28,MS Wade,30,30,4.0,0.0,0,0,0,38.0,100.0,DJ Hooda,bowled
+Gujarat Titans,Lucknow Super Giants,1304050,2022-03-28,R Tewatia,40,25,5.0,2.0,0,0,0,53.0,160.0,0,0
+Gujarat Titans,Lucknow Super Giants,1304050,2022-03-28,Shubman Gill,0,3,0.0,0.0,0,0,1,2.0,0.0,PVD Chameera,caught
+Gujarat Titans,Lucknow Super Giants,1304050,2022-03-28,V Shankar,4,7,0.0,0.0,0,0,0,8.0,57.14285714285714,PVD Chameera,bowled
+Lucknow Super Giants,Gujarat Titans,1304050,2022-03-28,A Badoni,54,42,4.0,3.0,1,0,0,76.0,128.57142857142858,VR Aaron,caught
+Lucknow Super Giants,Gujarat Titans,1304050,2022-03-28,DJ Hooda,55,41,6.0,2.0,1,0,0,77.0,134.14634146341464,Rashid Khan,lbw
+Lucknow Super Giants,Gujarat Titans,1304050,2022-03-28,E Lewis,10,9,2.0,0.0,0,0,0,16.0,111.11111111111111,VR Aaron,caught
+Lucknow Super Giants,Gujarat Titans,1304050,2022-03-28,KH Pandya,21,14,3.0,0.0,0,0,0,28.0,150.0,0,0
+Lucknow Super Giants,Gujarat Titans,1304050,2022-03-28,KL Rahul,0,1,0.0,0.0,0,0,1,2.0,0.0,Mohammed Shami,caught
+Lucknow Super Giants,Gujarat Titans,1304050,2022-03-28,MK Pandey,6,7,1.0,0.0,0,0,0,11.0,85.71428571428571,Mohammed Shami,bowled
+Lucknow Super Giants,Gujarat Titans,1304050,2022-03-28,PVD Chameera,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Lucknow Super Giants,Gujarat Titans,1304050,2022-03-28,Q de Kock,7,9,1.0,0.0,0,0,0,12.0,77.77777777777779,Mohammed Shami,bowled

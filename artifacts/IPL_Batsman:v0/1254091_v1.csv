@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Sunrisers Hyderabad,1254091,2021-09-30,AT Rayudu,17,13,1.0,1.0,0,0,0,24.0,130.76923076923077,0,0
+Chennai Super Kings,Sunrisers Hyderabad,1254091,2021-09-30,F du Plessis,41,36,3.0,2.0,0,0,0,52.0,113.88888888888889,JO Holder,caught
+Chennai Super Kings,Sunrisers Hyderabad,1254091,2021-09-30,MM Ali,17,17,2.0,0.0,0,0,0,23.0,100.0,Rashid Khan,bowled
+Chennai Super Kings,Sunrisers Hyderabad,1254091,2021-09-30,MS Dhoni,14,12,1.0,1.0,0,0,0,21.0,116.66666666666669,0,0
+Chennai Super Kings,Sunrisers Hyderabad,1254091,2021-09-30,RD Gaikwad,45,39,4.0,2.0,0,0,0,57.0,115.38461538461536,JO Holder,caught
+Chennai Super Kings,Sunrisers Hyderabad,1254091,2021-09-30,SK Raina,2,4,0.0,0.0,0,0,0,6.0,50.0,JO Holder,lbw
+Sunrisers Hyderabad,Chennai Super Kings,1254091,2021-09-30,Abdul Samad,18,14,1.0,1.0,0,0,0,25.0,128.57142857142858,JR Hazlewood,caught
+Sunrisers Hyderabad,Chennai Super Kings,1254091,2021-09-30,Abhishek Sharma,18,13,1.0,1.0,0,0,0,25.0,138.46153846153845,JR Hazlewood,caught
+Sunrisers Hyderabad,Chennai Super Kings,1254091,2021-09-30,B Kumar,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Sunrisers Hyderabad,Chennai Super Kings,1254091,2021-09-30,JJ Roy,2,7,0.0,0.0,0,0,0,6.0,28.57142857142857,JR Hazlewood,caught
+Sunrisers Hyderabad,Chennai Super Kings,1254091,2021-09-30,JO Holder,5,5,0.0,0.0,0,0,0,9.0,100.0,SN Thakur,caught
+Sunrisers Hyderabad,Chennai Super Kings,1254091,2021-09-30,KS Williamson,11,12,2.0,0.0,0,0,0,17.0,91.66666666666666,DJ Bravo,lbw
+Sunrisers Hyderabad,Chennai Super Kings,1254091,2021-09-30,PK Garg,7,11,0.0,0.0,0,0,0,11.0,63.63636363636363,DJ Bravo,caught
+Sunrisers Hyderabad,Chennai Super Kings,1254091,2021-09-30,Rashid Khan,17,14,2.0,0.0,0,0,0,23.0,121.42857142857142,0,0
+Sunrisers Hyderabad,Chennai Super Kings,1254091,2021-09-30,WP Saha,44,47,1.0,2.0,0,0,0,53.0,93.61702127659576,RA Jadeja,caught

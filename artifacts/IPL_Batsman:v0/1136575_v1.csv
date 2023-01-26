@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Rajasthan Royals,1136575,2018-04-18,CA Lynn,0,2,0.0,0.0,0,0,1,2.0,0.0,K Gowtham,bowled
+Kolkata Knight Riders,Rajasthan Royals,1136575,2018-04-18,KD Karthik,42,23,2.0,2.0,0,0,0,52.0,182.6086956521739,0,0
+Kolkata Knight Riders,Rajasthan Royals,1136575,2018-04-18,N Rana,35,28,2.0,1.0,0,0,0,43.0,125.0,0,0
+Kolkata Knight Riders,Rajasthan Royals,1136575,2018-04-18,RV Uthappa,48,37,6.0,2.0,0,0,0,62.0,129.72972972972974,K Gowtham,caught
+Kolkata Knight Riders,Rajasthan Royals,1136575,2018-04-18,SP Narine,35,25,5.0,1.0,0,0,0,46.0,140.0,S Gopal,run out
+Rajasthan Royals,Kolkata Knight Riders,1136575,2018-04-18,AM Rahane,36,19,5.0,1.0,0,0,0,47.0,189.4736842105263,N Rana,stumped
+Rajasthan Royals,Kolkata Knight Riders,1136575,2018-04-18,BA Stokes,14,11,0.0,1.0,0,0,0,20.0,127.27272727272728,PP Chawla,caught
+Rajasthan Royals,Kolkata Knight Riders,1136575,2018-04-18,DJM Short,44,43,5.0,1.0,0,0,0,55.0,102.32558139534883,N Rana,bowled
+Rajasthan Royals,Kolkata Knight Riders,1136575,2018-04-18,DS Kulkarni,3,3,0.0,0.0,0,0,0,7.0,100.0,Shivam Mavi,run out
+Rajasthan Royals,Kolkata Knight Riders,1136575,2018-04-18,JC Buttler,24,21,2.0,0.0,0,0,0,30.0,114.28571428571428,0,0
+Rajasthan Royals,Kolkata Knight Riders,1136575,2018-04-18,K Gowtham,12,7,0.0,1.0,0,0,0,18.0,171.42857142857142,TK Curran,caught
+Rajasthan Royals,Kolkata Knight Riders,1136575,2018-04-18,RA Tripathi,15,11,2.0,0.0,0,0,0,21.0,136.36363636363637,Kuldeep Yadav,caught
+Rajasthan Royals,Kolkata Knight Riders,1136575,2018-04-18,S Gopal,0,1,0.0,0.0,0,0,1,2.0,0.0,TK Curran,bowled
+Rajasthan Royals,Kolkata Knight Riders,1136575,2018-04-18,SV Samson,7,8,1.0,0.0,0,0,0,12.0,87.5,Shivam Mavi,caught

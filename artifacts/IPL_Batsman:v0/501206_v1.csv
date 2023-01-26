@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Kings XI Punjab,501206,2011-04-13,M Vijay,74,43,6.0,4.0,1,0,0,100.0,172.09302325581396,PP Chawla,stumped
+Chennai Super Kings,Kings XI Punjab,501206,2011-04-13,MS Dhoni,43,20,4.0,2.0,0,0,0,55.0,215.0,RJ Harris,bowled
+Chennai Super Kings,Kings XI Punjab,501206,2011-04-13,S Anirudha,0,1,0.0,0.0,0,0,1,2.0,0.0,P Kumar,lbw
+Chennai Super Kings,Kings XI Punjab,501206,2011-04-13,S Badrinath,66,57,8.0,0.0,1,0,0,86.0,115.78947368421052,0,0
+Chennai Super Kings,Kings XI Punjab,501206,2011-04-13,SK Raina,0,1,0.0,0.0,0,0,1,2.0,0.0,P Kumar,caught
+Kings XI Punjab,Chennai Super Kings,501206,2011-04-13,AC Gilchrist,19,15,2.0,0.0,0,0,0,25.0,126.66666666666666,JA Morkel,caught
+Kings XI Punjab,Chennai Super Kings,501206,2011-04-13,AM Nayar,0,1,0.0,0.0,0,0,1,2.0,0.0,TG Southee,lbw
+Kings XI Punjab,Chennai Super Kings,501206,2011-04-13,KD Karthik,21,11,2.0,1.0,0,0,0,29.0,190.9090909090909,0,0
+Kings XI Punjab,Chennai Super Kings,501206,2011-04-13,PC Valthaty,120,64,19.0,2.0,1,1,0,171.0,187.5,0,0
+Kings XI Punjab,Chennai Super Kings,501206,2011-04-13,SE Marsh,12,14,0.0,0.0,0,0,0,16.0,85.71428571428571,S Randiv,run out
+Kings XI Punjab,Chennai Super Kings,501206,2011-04-13,Sunny Singh,20,11,2.0,1.0,0,0,0,28.0,181.8181818181818,S Randiv,caught

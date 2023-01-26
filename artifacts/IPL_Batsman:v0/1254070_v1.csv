@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Capitals,Mumbai Indians,1254070,2021-04-20,Lalit Yadav,22,26,1.0,0.0,0,0,0,27.0,84.61538461538461,0,0
+Delhi Capitals,Mumbai Indians,1254070,2021-04-20,PP Shaw,7,5,1.0,0.0,0,0,0,12.0,140.0,J Yadav,caught and bowled
+Delhi Capitals,Mumbai Indians,1254070,2021-04-20,RR Pant,7,9,1.0,0.0,0,0,0,12.0,77.77777777777779,JJ Bumrah,caught
+Delhi Capitals,Mumbai Indians,1254070,2021-04-20,S Dhawan,45,42,5.0,1.0,0,0,0,56.0,107.14285714285714,RD Chahar,caught
+Delhi Capitals,Mumbai Indians,1254070,2021-04-20,SO Hetmyer,14,9,2.0,0.0,0,0,0,20.0,155.55555555555557,0,0
+Delhi Capitals,Mumbai Indians,1254070,2021-04-20,SPD Smith,33,30,4.0,0.0,0,0,0,41.0,110.0,KA Pollard,lbw
+Mumbai Indians,Delhi Capitals,1254070,2021-04-20,HH Pandya,0,1,0.0,0.0,0,0,1,2.0,0.0,A Mishra,caught
+Mumbai Indians,Delhi Capitals,1254070,2021-04-20,Ishan Kishan,26,28,1.0,1.0,0,0,0,33.0,92.85714285714286,A Mishra,bowled
+Mumbai Indians,Delhi Capitals,1254070,2021-04-20,J Yadav,23,22,1.0,0.0,0,0,0,28.0,104.54545454545456,K Rabada,caught and bowled
+Mumbai Indians,Delhi Capitals,1254070,2021-04-20,JJ Bumrah,3,3,0.0,0.0,0,0,0,7.0,100.0,0,0
+Mumbai Indians,Delhi Capitals,1254070,2021-04-20,KA Pollard,2,5,0.0,0.0,0,0,0,6.0,40.0,A Mishra,lbw
+Mumbai Indians,Delhi Capitals,1254070,2021-04-20,KH Pandya,1,5,0.0,0.0,0,0,0,5.0,20.0,Lalit Yadav,bowled
+Mumbai Indians,Delhi Capitals,1254070,2021-04-20,Q de Kock,2,4,0.0,0.0,0,0,0,6.0,50.0,MP Stoinis,caught
+Mumbai Indians,Delhi Capitals,1254070,2021-04-20,RD Chahar,6,6,1.0,0.0,0,0,0,11.0,100.0,Avesh Khan,caught
+Mumbai Indians,Delhi Capitals,1254070,2021-04-20,RG Sharma,44,30,3.0,3.0,0,0,0,57.0,146.66666666666666,A Mishra,caught
+Mumbai Indians,Delhi Capitals,1254070,2021-04-20,SA Yadav,24,15,4.0,0.0,0,0,0,32.0,160.0,Avesh Khan,caught
+Mumbai Indians,Delhi Capitals,1254070,2021-04-20,TA Boult,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0

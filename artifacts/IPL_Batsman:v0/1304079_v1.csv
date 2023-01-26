@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Mumbai Indians,1304079,2022-04-21,AT Rayudu,40,37,2.0,3.0,0,0,0,52.0,108.10810810810813,DR Sams,caught
+Chennai Super Kings,Mumbai Indians,1304079,2022-04-21,D Pretorius,22,14,2.0,1.0,0,0,0,30.0,157.14285714285714,JD Unadkat,lbw
+Chennai Super Kings,Mumbai Indians,1304079,2022-04-21,DJ Bravo,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Chennai Super Kings,Mumbai Indians,1304079,2022-04-21,MJ Santner,11,11,2.0,0.0,0,0,0,17.0,100.0,DR Sams,caught
+Chennai Super Kings,Mumbai Indians,1304079,2022-04-21,MS Dhoni,28,14,3.0,1.0,0,0,0,37.0,200.0,0,0
+Chennai Super Kings,Mumbai Indians,1304079,2022-04-21,RA Jadeja,3,10,0.0,0.0,0,0,0,7.0,30.0,RP Meredith,caught
+Chennai Super Kings,Mumbai Indians,1304079,2022-04-21,RD Gaikwad,0,1,0.0,0.0,0,0,1,2.0,0.0,DR Sams,caught
+Chennai Super Kings,Mumbai Indians,1304079,2022-04-21,RV Uthappa,30,25,2.0,2.0,0,0,0,40.0,120.0,JD Unadkat,caught
+Chennai Super Kings,Mumbai Indians,1304079,2022-04-21,S Dube,13,14,0.0,1.0,0,0,0,19.0,92.85714285714286,DR Sams,caught
+Mumbai Indians,Chennai Super Kings,1304079,2022-04-21,D Brevis,4,7,0.0,0.0,0,0,0,8.0,57.14285714285714,Mukesh Choudhary,caught
+Mumbai Indians,Chennai Super Kings,1304079,2022-04-21,DR Sams,5,3,1.0,0.0,0,0,0,10.0,166.66666666666669,DJ Bravo,lbw
+Mumbai Indians,Chennai Super Kings,1304079,2022-04-21,HR Shokeen,25,25,3.0,0.0,0,0,0,32.0,100.0,DJ Bravo,caught
+Mumbai Indians,Chennai Super Kings,1304079,2022-04-21,Ishan Kishan,0,2,0.0,0.0,0,0,1,2.0,0.0,Mukesh Choudhary,bowled
+Mumbai Indians,Chennai Super Kings,1304079,2022-04-21,JD Unadkat,19,9,1.0,1.0,0,0,0,26.0,211.11111111111111,0,0
+Mumbai Indians,Chennai Super Kings,1304079,2022-04-21,KA Pollard,14,10,1.0,1.0,0,0,0,21.0,140.0,M Theekshana,caught
+Mumbai Indians,Chennai Super Kings,1304079,2022-04-21,RG Sharma,0,2,0.0,0.0,0,0,1,2.0,0.0,Mukesh Choudhary,caught
+Mumbai Indians,Chennai Super Kings,1304079,2022-04-21,SA Yadav,32,21,3.0,1.0,0,0,0,41.0,152.38095238095238,MJ Santner,caught
+Mumbai Indians,Chennai Super Kings,1304079,2022-04-21,Tilak Varma,51,44,3.0,2.0,1,0,0,70.0,115.90909090909092,0,0

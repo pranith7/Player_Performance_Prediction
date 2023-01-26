@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Kolkata Knight Riders,980903,2016-04-10,A Mishra,3,9,0.0,0.0,0,0,0,7.0,33.33333333333333,GB Hogg,caught
+Delhi Daredevils,Kolkata Knight Riders,980903,2016-04-10,CH Morris,11,10,2.0,0.0,0,0,0,17.0,110.0,PP Chawla,bowled
+Delhi Daredevils,Kolkata Knight Riders,980903,2016-04-10,CR Brathwaite,6,5,0.0,1.0,0,0,0,12.0,120.0,PP Chawla,lbw
+Delhi Daredevils,Kolkata Knight Riders,980903,2016-04-10,KK Nair,3,9,0.0,0.0,0,0,0,7.0,33.33333333333333,JW Hastings,caught
+Delhi Daredevils,Kolkata Knight Riders,980903,2016-04-10,MA Agarwal,9,12,1.0,0.0,0,0,0,14.0,75.0,AD Russell,caught
+Delhi Daredevils,Kolkata Knight Riders,980903,2016-04-10,NM Coulter-Nile,7,11,1.0,0.0,0,0,0,12.0,63.63636363636363,0,0
+Delhi Daredevils,Kolkata Knight Riders,980903,2016-04-10,P Negi,11,19,0.0,1.0,0,0,0,17.0,57.89473684210527,GB Hogg,stumped
+Delhi Daredevils,Kolkata Knight Riders,980903,2016-04-10,Q de Kock,17,10,1.0,1.0,0,0,0,24.0,170.0,AD Russell,caught
+Delhi Daredevils,Kolkata Knight Riders,980903,2016-04-10,SS Iyer,0,3,0.0,0.0,0,0,1,2.0,0.0,AD Russell,lbw
+Delhi Daredevils,Kolkata Knight Riders,980903,2016-04-10,SV Samson,15,13,2.0,0.0,0,0,0,21.0,115.38461538461536,GB Hogg,caught
+Delhi Daredevils,Kolkata Knight Riders,980903,2016-04-10,Z Khan,4,9,1.0,0.0,0,0,0,9.0,44.44444444444444,JW Hastings,caught
+Kolkata Knight Riders,Delhi Daredevils,980903,2016-04-10,G Gambhir,38,43,5.0,0.0,0,0,0,47.0,88.37209302325581,0,0
+Kolkata Knight Riders,Delhi Daredevils,980903,2016-04-10,MK Pandey,15,12,3.0,0.0,0,0,0,22.0,125.0,0,0
+Kolkata Knight Riders,Delhi Daredevils,980903,2016-04-10,RV Uthappa,35,35,7.0,0.0,0,0,0,46.0,100.0,A Mishra,caught

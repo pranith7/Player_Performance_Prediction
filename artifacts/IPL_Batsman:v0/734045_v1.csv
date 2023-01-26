@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Mumbai Indians,734045,2014-05-28,BB McCullum,14,11,0.0,2.0,0,0,0,22.0,127.27272727272728,PP Ojha,stumped
+Chennai Super Kings,Mumbai Indians,734045,2014-05-28,DJ Hussey,40,29,2.0,3.0,0,0,0,52.0,137.93103448275863,0,0
+Chennai Super Kings,Mumbai Indians,734045,2014-05-28,DR Smith,24,20,4.0,0.0,0,0,0,32.0,120.0,Harbhajan Singh,caught
+Chennai Super Kings,Mumbai Indians,734045,2014-05-28,F du Plessis,35,22,5.0,1.0,0,0,0,46.0,159.0909090909091,Harbhajan Singh,caught
+Chennai Super Kings,Mumbai Indians,734045,2014-05-28,SK Raina,54,36,4.0,2.0,1,0,0,74.0,150.0,0,0
+Mumbai Indians,Chennai Super Kings,734045,2014-05-28,AP Tare,0,1,0.0,0.0,0,0,1,2.0,0.0,A Nehra,caught
+Mumbai Indians,Chennai Super Kings,734045,2014-05-28,AT Rayudu,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,MM Sharma,caught
+Mumbai Indians,Chennai Super Kings,734045,2014-05-28,CJ Anderson,20,10,1.0,2.0,0,0,0,29.0,200.0,R Ashwin,caught
+Mumbai Indians,Chennai Super Kings,734045,2014-05-28,Harbhajan Singh,7,2,0.0,1.0,0,0,0,13.0,350.0,0,0
+Mumbai Indians,Chennai Super Kings,734045,2014-05-28,KA Pollard,14,8,1.0,1.0,0,0,0,21.0,175.0,A Nehra,caught
+Mumbai Indians,Chennai Super Kings,734045,2014-05-28,LMP Simmons,67,44,5.0,4.0,1,0,0,92.0,152.27272727272728,RA Jadeja,caught
+Mumbai Indians,Chennai Super Kings,734045,2014-05-28,MEK Hussey,39,33,4.0,1.0,0,0,0,49.0,118.1818181818182,RA Jadeja,bowled
+Mumbai Indians,Chennai Super Kings,734045,2014-05-28,P Kumar,1,2,0.0,0.0,0,0,0,5.0,50.0,MM Sharma,bowled
+Mumbai Indians,Chennai Super Kings,734045,2014-05-28,PP Ojha,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Mumbai Indians,Chennai Super Kings,734045,2014-05-28,RG Sharma,20,16,3.0,0.0,0,0,0,27.0,125.0,MM Sharma,caught

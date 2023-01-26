@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Rajasthan Royals,1136607,2018-05-13,BCJ Cutting,10,7,0.0,1.0,0,0,0,16.0,142.85714285714286,0,0
+Mumbai Indians,Rajasthan Royals,1136607,2018-05-13,E Lewis,60,45,4.0,4.0,1,0,0,84.0,133.33333333333331,DS Kulkarni,caught
+Mumbai Indians,Rajasthan Royals,1136607,2018-05-13,HH Pandya,36,23,3.0,2.0,0,0,0,47.0,156.52173913043478,BA Stokes,caught
+Mumbai Indians,Rajasthan Royals,1136607,2018-05-13,Ishan Kishan,12,11,1.0,0.0,0,0,0,17.0,109.09090909090908,BA Stokes,caught
+Mumbai Indians,Rajasthan Royals,1136607,2018-05-13,KH Pandya,3,8,0.0,0.0,0,0,0,7.0,37.5,JD Unadkat,caught
+Mumbai Indians,Rajasthan Royals,1136607,2018-05-13,RG Sharma,0,1,0.0,0.0,0,0,1,2.0,0.0,JC Archer,caught
+Mumbai Indians,Rajasthan Royals,1136607,2018-05-13,SA Yadav,38,32,7.0,0.0,0,0,0,49.0,118.75,JC Archer,caught
+Rajasthan Royals,Mumbai Indians,1136607,2018-05-13,AM Rahane,37,37,4.0,0.0,0,0,0,45.0,100.0,HH Pandya,caught
+Rajasthan Royals,Mumbai Indians,1136607,2018-05-13,DJM Short,4,6,1.0,0.0,0,0,0,9.0,66.66666666666666,JJ Bumrah,caught
+Rajasthan Royals,Mumbai Indians,1136607,2018-05-13,JC Buttler,94,54,9.0,5.0,1,0,0,125.0,174.07407407407408,0,0
+Rajasthan Royals,Mumbai Indians,1136607,2018-05-13,SV Samson,26,15,2.0,2.0,0,0,0,36.0,173.33333333333334,HH Pandya,caught

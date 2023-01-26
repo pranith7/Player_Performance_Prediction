@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Rajasthan Royals,Royal Challengers Bangalore,335992,2008-04-26,GC Smith,49,42,8.0,0.0,0,0,0,61.0,116.66666666666669,SB Joshi,caught
+Rajasthan Royals,Royal Challengers Bangalore,335992,2008-04-26,M Kaif,4,6,1.0,0.0,0,0,0,9.0,66.66666666666666,0,0
+Rajasthan Royals,Royal Challengers Bangalore,335992,2008-04-26,M Rawat,0,2,0.0,0.0,0,0,1,2.0,0.0,P Kumar,caught
+Rajasthan Royals,Royal Challengers Bangalore,335992,2008-04-26,SR Watson,61,43,8.0,2.0,1,0,0,85.0,141.86046511627907,0,0
+Rajasthan Royals,Royal Challengers Bangalore,335992,2008-04-26,YK Pathan,21,12,5.0,0.0,0,0,0,30.0,175.0,Z Khan,caught
+Royal Challengers Bangalore,Rajasthan Royals,335992,2008-04-26,JH Kallis,11,10,2.0,0.0,0,0,0,17.0,110.0,SK Trivedi,caught
+Royal Challengers Bangalore,Rajasthan Royals,335992,2008-04-26,LRPL Taylor,44,21,6.0,3.0,0,0,0,60.0,209.52380952380955,MM Patel,caught
+Royal Challengers Bangalore,Rajasthan Royals,335992,2008-04-26,MV Boucher,4,10,0.0,0.0,0,0,0,8.0,40.0,SK Warne,caught
+Royal Challengers Bangalore,Rajasthan Royals,335992,2008-04-26,P Kumar,34,30,2.0,3.0,0,0,0,46.0,113.33333333333331,SR Watson,run out
+Royal Challengers Bangalore,Rajasthan Royals,335992,2008-04-26,R Dravid,0,1,0.0,0.0,0,0,1,2.0,0.0,SR Watson,caught
+Royal Challengers Bangalore,Rajasthan Royals,335992,2008-04-26,R Vinay Kumar,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Royal Challengers Bangalore,Rajasthan Royals,335992,2008-04-26,S Chanderpaul,2,9,0.0,0.0,0,0,0,6.0,22.22222222222222,SR Watson,caught
+Royal Challengers Bangalore,Rajasthan Royals,335992,2008-04-26,SB Joshi,3,8,0.0,0.0,0,0,0,7.0,37.5,SK Warne,run out
+Royal Challengers Bangalore,Rajasthan Royals,335992,2008-04-26,V Kohli,13,16,0.0,1.0,0,0,0,19.0,81.25,MM Patel,caught
+Royal Challengers Bangalore,Rajasthan Royals,335992,2008-04-26,Z Khan,17,18,2.0,0.0,0,0,0,23.0,94.44444444444444,0,0

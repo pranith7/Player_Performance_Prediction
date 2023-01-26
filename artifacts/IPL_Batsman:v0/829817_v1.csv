@@ -1,0 +1,20 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Mumbai Indians,829817,2015-05-19,A Nehra,0,1,0.0,0.0,0,0,1,2.0,0.0,SL Malinga,caught
+Chennai Super Kings,Mumbai Indians,829817,2015-05-19,DJ Bravo,20,15,2.0,1.0,0,0,0,28.0,133.33333333333331,KA Pollard,run out
+Chennai Super Kings,Mumbai Indians,829817,2015-05-19,DR Smith,0,4,0.0,0.0,0,0,1,2.0,0.0,SL Malinga,lbw
+Chennai Super Kings,Mumbai Indians,829817,2015-05-19,F du Plessis,45,34,5.0,1.0,0,0,0,56.0,132.35294117647058,J Suchith,caught
+Chennai Super Kings,Mumbai Indians,829817,2015-05-19,MEK Hussey,16,13,1.0,1.0,0,0,0,23.0,123.07692307692308,R Vinay Kumar,caught
+Chennai Super Kings,Mumbai Indians,829817,2015-05-19,MM Sharma,3,3,0.0,0.0,0,0,0,7.0,100.0,0,0
+Chennai Super Kings,Mumbai Indians,829817,2015-05-19,MS Dhoni,0,1,0.0,0.0,0,0,1,2.0,0.0,Harbhajan Singh,lbw
+Chennai Super Kings,Mumbai Indians,829817,2015-05-19,P Negi,3,3,0.0,0.0,0,0,0,7.0,100.0,R Vinay Kumar,caught
+Chennai Super Kings,Mumbai Indians,829817,2015-05-19,R Ashwin,23,13,2.0,1.0,0,0,0,31.0,176.9230769230769,SL Malinga,caught
+Chennai Super Kings,Mumbai Indians,829817,2015-05-19,RA Jadeja,19,11,1.0,1.0,0,0,0,26.0,172.72727272727272,MJ McClenaghan,caught
+Chennai Super Kings,Mumbai Indians,829817,2015-05-19,SK Raina,25,21,0.0,2.0,0,0,0,33.0,119.04761904761904,Harbhajan Singh,caught and bowled
+Mumbai Indians,Chennai Super Kings,829817,2015-05-19,AT Rayudu,10,9,1.0,0.0,0,0,0,15.0,111.11111111111111,MM Sharma,caught
+Mumbai Indians,Chennai Super Kings,829817,2015-05-19,HH Pandya,1,2,0.0,0.0,0,0,0,5.0,50.0,A Nehra,caught
+Mumbai Indians,Chennai Super Kings,829817,2015-05-19,Harbhajan Singh,6,6,1.0,0.0,0,0,0,11.0,100.0,0,0
+Mumbai Indians,Chennai Super Kings,829817,2015-05-19,J Suchith,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Mumbai Indians,Chennai Super Kings,829817,2015-05-19,KA Pollard,41,19,1.0,5.0,0,0,0,56.0,215.7894736842105,DJ Bravo,caught
+Mumbai Indians,Chennai Super Kings,829817,2015-05-19,LMP Simmons,65,53,3.0,5.0,1,0,0,90.0,122.64150943396226,RA Jadeja,caught
+Mumbai Indians,Chennai Super Kings,829817,2015-05-19,PA Patel,35,25,4.0,1.0,0,0,0,45.0,140.0,DJ Bravo,caught
+Mumbai Indians,Chennai Super Kings,829817,2015-05-19,RG Sharma,19,14,1.0,1.0,0,0,0,26.0,135.71428571428572,DJ Bravo,caught

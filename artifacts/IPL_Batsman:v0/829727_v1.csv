@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Rajasthan Royals,Sunrisers Hyderabad,829727,2015-04-16,AM Rahane,62,58,9.0,0.0,1,0,0,83.0,106.89655172413792,TA Boult,bowled
+Rajasthan Royals,Sunrisers Hyderabad,829727,2015-04-16,JP Faulkner,6,5,1.0,0.0,0,0,0,11.0,120.0,0,0
+Rajasthan Royals,Sunrisers Hyderabad,829727,2015-04-16,KK Nair,1,5,0.0,0.0,0,0,0,5.0,20.0,RS Bopara,caught and bowled
+Rajasthan Royals,Sunrisers Hyderabad,829727,2015-04-16,SPD Smith,13,11,2.0,0.0,0,0,0,19.0,118.1818181818182,KV Sharma,caught
+Rajasthan Royals,Sunrisers Hyderabad,829727,2015-04-16,STR Binny,16,14,1.0,0.0,0,0,0,21.0,114.28571428571428,0,0
+Rajasthan Royals,Sunrisers Hyderabad,829727,2015-04-16,SV Samson,26,31,2.0,0.0,0,0,0,32.0,83.87096774193549,RS Bopara,caught
+Sunrisers Hyderabad,Rajasthan Royals,829727,2015-04-16,A Ashish Reddy,13,9,0.0,1.0,0,0,0,19.0,144.44444444444443,0,0
+Sunrisers Hyderabad,Rajasthan Royals,829727,2015-04-16,DA Warner,21,15,3.0,1.0,0,0,0,30.0,140.0,TG Southee,run out
+Sunrisers Hyderabad,Rajasthan Royals,829727,2015-04-16,EJG Morgan,27,30,2.0,1.0,0,0,0,35.0,90.0,PV Tambe,lbw
+Sunrisers Hyderabad,Rajasthan Royals,829727,2015-04-16,KL Rahul,2,5,0.0,0.0,0,0,0,6.0,40.0,DS Kulkarni,lbw
+Sunrisers Hyderabad,Rajasthan Royals,829727,2015-04-16,NV Ojha,25,34,3.0,0.0,0,0,0,32.0,73.52941176470588,PV Tambe,bowled
+Sunrisers Hyderabad,Rajasthan Royals,829727,2015-04-16,RS Bopara,23,19,1.0,1.0,0,0,0,30.0,121.05263157894736,0,0
+Sunrisers Hyderabad,Rajasthan Royals,829727,2015-04-16,S Dhawan,10,13,2.0,0.0,0,0,0,16.0,76.92307692307693,DS Kulkarni,caught

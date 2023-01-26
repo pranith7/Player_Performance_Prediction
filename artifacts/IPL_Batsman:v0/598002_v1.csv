@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Mumbai Indians,598002,2013-04-06,AS Rajpoot,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,0,0
+Chennai Super Kings,Mumbai Indians,598002,2013-04-06,B Laughlin,0,1,0.0,0.0,0,0,1,2.0,0.0,KA Pollard,bowled
+Chennai Super Kings,Mumbai Indians,598002,2013-04-06,DJ Bravo,10,17,0.0,0.0,0,0,0,14.0,58.82352941176471,PP Ojha,caught
+Chennai Super Kings,Mumbai Indians,598002,2013-04-06,M Vijay,5,8,0.0,0.0,0,0,0,9.0,62.5,MM Patel,bowled
+Chennai Super Kings,Mumbai Indians,598002,2013-04-06,MEK Hussey,20,24,3.0,0.0,0,0,0,27.0,83.33333333333334,Harbhajan Singh,bowled
+Chennai Super Kings,Mumbai Indians,598002,2013-04-06,MS Dhoni,51,30,5.0,3.0,1,0,0,74.0,170.0,MM Patel,caught
+Chennai Super Kings,Mumbai Indians,598002,2013-04-06,R Ashwin,2,5,0.0,0.0,0,0,0,6.0,40.0,Harbhajan Singh,caught
+Chennai Super Kings,Mumbai Indians,598002,2013-04-06,RA Jadeja,16,11,1.0,1.0,0,0,0,23.0,145.45454545454547,MM Patel,bowled
+Chennai Super Kings,Mumbai Indians,598002,2013-04-06,S Badrinath,16,17,1.0,0.0,0,0,0,21.0,94.11764705882352,PP Ojha,lbw
+Chennai Super Kings,Mumbai Indians,598002,2013-04-06,SK Raina,10,7,1.0,0.0,0,0,0,15.0,142.85714285714286,MG Johnson,caught
+Mumbai Indians,Chennai Super Kings,598002,2013-04-06,AT Rayudu,7,10,0.0,0.0,0,0,0,11.0,70.0,B Laughlin,caught
+Mumbai Indians,Chennai Super Kings,598002,2013-04-06,DR Smith,3,5,0.0,0.0,0,0,0,7.0,60.0,R Ashwin,caught
+Mumbai Indians,Chennai Super Kings,598002,2013-04-06,Harbhajan Singh,21,23,1.0,1.0,0,0,0,28.0,91.30434782608695,0,0
+Mumbai Indians,Chennai Super Kings,598002,2013-04-06,KA Pollard,57,40,4.0,5.0,1,0,0,83.0,142.5,0,0
+Mumbai Indians,Chennai Super Kings,598002,2013-04-06,KD Karthik,37,26,4.0,1.0,0,0,0,47.0,142.30769230769232,DJ Bravo,lbw
+Mumbai Indians,Chennai Super Kings,598002,2013-04-06,RG Sharma,8,11,1.0,0.0,0,0,0,13.0,72.72727272727273,DJ Bravo,caught
+Mumbai Indians,Chennai Super Kings,598002,2013-04-06,RT Ponting,6,10,0.0,0.0,0,0,0,10.0,60.0,AS Rajpoot,caught
+Mumbai Indians,Chennai Super Kings,598002,2013-04-06,SR Tendulkar,0,1,0.0,0.0,0,0,1,2.0,0.0,DP Nannes,lbw

@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Rajasthan Royals,Royal Challengers Bangalore,419115,2010-03-18,AA Jhunjhunwala,5,7,1.0,0.0,0,0,0,10.0,71.42857142857143,JH Kallis,bowled
+Rajasthan Royals,Royal Challengers Bangalore,419115,2010-03-18,DR Martyn,19,26,1.0,0.0,0,0,0,24.0,73.07692307692307,P Kumar,bowled
+Rajasthan Royals,Royal Challengers Bangalore,419115,2010-03-18,M Morkel,2,9,0.0,0.0,0,0,0,6.0,22.22222222222222,A Kumble,stumped
+Rajasthan Royals,Royal Challengers Bangalore,419115,2010-03-18,MJ Lumb,10,18,1.0,0.0,0,0,0,15.0,55.55555555555556,A Kumble,stumped
+Rajasthan Royals,Royal Challengers Bangalore,419115,2010-03-18,MM Patel,0,2,0.0,0.0,0,0,1,2.0,0.0,A Kumble,run out
+Rajasthan Royals,Royal Challengers Bangalore,419115,2010-03-18,NV Ojha,16,20,1.0,0.0,0,0,0,21.0,80.0,JH Kallis,caught
+Rajasthan Royals,Royal Challengers Bangalore,419115,2010-03-18,P Dogra,3,9,0.0,0.0,0,0,0,7.0,33.33333333333333,P Kumar,bowled
+Rajasthan Royals,Royal Challengers Bangalore,419115,2010-03-18,S Narwal,0,1,0.0,0.0,0,0,1,2.0,0.0,P Kumar,caught
+Rajasthan Royals,Royal Challengers Bangalore,419115,2010-03-18,SK Trivedi,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Rajasthan Royals,Royal Challengers Bangalore,419115,2010-03-18,SK Warne,4,7,0.0,0.0,0,0,0,8.0,57.14285714285714,A Kumble,bowled
+Rajasthan Royals,Royal Challengers Bangalore,419115,2010-03-18,YK Pathan,26,24,1.0,2.0,0,0,0,35.0,108.33333333333331,A Kumble,run out
+Royal Challengers Bangalore,Rajasthan Royals,419115,2010-03-18,JH Kallis,44,41,7.0,0.0,0,0,0,55.0,107.31707317073172,0,0
+Royal Challengers Bangalore,Rajasthan Royals,419115,2010-03-18,MK Pandey,42,30,7.0,1.0,0,0,0,55.0,140.0,0,0

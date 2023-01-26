@@ -1,0 +1,11 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Royal Challengers Bangalore,1082598,2017-04-10,AR Patel,9,6,0.0,1.0,0,0,0,15.0,150.0,YS Chahal,bowled
+Kings XI Punjab,Royal Challengers Bangalore,1082598,2017-04-10,GJ Maxwell,43,22,3.0,4.0,0,0,0,58.0,195.45454545454547,0,0
+Kings XI Punjab,Royal Challengers Bangalore,1082598,2017-04-10,HM Amla,58,39,4.0,3.0,1,0,0,80.0,148.71794871794873,0,0
+Kings XI Punjab,Royal Challengers Bangalore,1082598,2017-04-10,M Vohra,34,22,4.0,1.0,0,0,0,44.0,154.54545454545453,TS Mills,lbw
+Royal Challengers Bangalore,Kings XI Punjab,1082598,2017-04-10,AB de Villiers,89,49,3.0,9.0,1,0,0,122.0,181.6326530612245,0,0
+Royal Challengers Bangalore,Kings XI Punjab,1082598,2017-04-10,KM Jadhav,1,4,0.0,0.0,0,0,0,5.0,25.0,VR Aaron,lbw
+Royal Challengers Bangalore,Kings XI Punjab,1082598,2017-04-10,Mandeep Singh,28,34,1.0,1.0,0,0,0,35.0,82.35294117647058,VR Aaron,caught
+Royal Challengers Bangalore,Kings XI Punjab,1082598,2017-04-10,SR Watson,1,4,0.0,0.0,0,0,0,5.0,25.0,AR Patel,bowled
+Royal Challengers Bangalore,Kings XI Punjab,1082598,2017-04-10,STR Binny,18,20,1.0,1.0,0,0,0,25.0,90.0,0,0
+Royal Challengers Bangalore,Kings XI Punjab,1082598,2017-04-10,Vishnu Vinod,7,12,1.0,0.0,0,0,0,12.0,58.333333333333336,Sandeep Sharma,caught

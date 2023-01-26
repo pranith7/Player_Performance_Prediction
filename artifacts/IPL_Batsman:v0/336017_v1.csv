@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Kolkata Knight Riders,336017,2008-05-13,A Mishra,31,32,3.0,0.0,0,0,0,38.0,96.875,LR Shukla,caught
+Delhi Daredevils,Kolkata Knight Riders,336017,2008-05-13,AB de Villiers,7,12,0.0,0.0,0,0,0,11.0,58.333333333333336,Shoaib Akhtar,caught
+Delhi Daredevils,Kolkata Knight Riders,336017,2008-05-13,G Gambhir,10,7,2.0,0.0,0,0,0,16.0,142.85714285714286,Shoaib Akhtar,caught
+Delhi Daredevils,Kolkata Knight Riders,336017,2008-05-13,MF Maharoof,10,12,0.0,0.0,0,0,0,14.0,83.33333333333334,AB Dinda,run out
+Delhi Daredevils,Kolkata Knight Riders,336017,2008-05-13,MK Tiwary,9,7,2.0,0.0,0,0,0,15.0,128.57142857142858,Shoaib Akhtar,lbw
+Delhi Daredevils,Kolkata Knight Riders,336017,2008-05-13,PJ Sangwan,0,1,0.0,0.0,0,0,1,2.0,0.0,LR Shukla,caught
+Delhi Daredevils,Kolkata Knight Riders,336017,2008-05-13,S Dhawan,7,11,1.0,0.0,0,0,0,12.0,63.63636363636363,AB Dinda,bowled
+Delhi Daredevils,Kolkata Knight Riders,336017,2008-05-13,TM Dilshan,25,19,5.0,0.0,0,0,0,34.0,131.57894736842107,Iqbal Abdulla,run out
+Delhi Daredevils,Kolkata Knight Riders,336017,2008-05-13,V Sehwag,0,2,0.0,0.0,0,0,1,2.0,0.0,Shoaib Akhtar,caught
+Delhi Daredevils,Kolkata Knight Riders,336017,2008-05-13,VY Mahesh,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,LR Shukla,bowled
+Kolkata Knight Riders,Delhi Daredevils,336017,2008-05-13,A Chopra,13,18,2.0,0.0,0,0,0,19.0,72.22222222222221,PJ Sangwan,caught
+Kolkata Knight Riders,Delhi Daredevils,336017,2008-05-13,DJ Hussey,31,32,0.0,2.0,0,0,0,39.0,96.875,MF Maharoof,caught
+Kolkata Knight Riders,Delhi Daredevils,336017,2008-05-13,Iqbal Abdulla,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Kolkata Knight Riders,Delhi Daredevils,336017,2008-05-13,LR Shukla,10,8,1.0,0.0,0,0,0,15.0,125.0,MF Maharoof,caught
+Kolkata Knight Riders,Delhi Daredevils,336017,2008-05-13,SC Ganguly,7,6,0.0,1.0,0,0,0,13.0,116.66666666666669,VY Mahesh,bowled
+Kolkata Knight Riders,Delhi Daredevils,336017,2008-05-13,Salman Butt,48,47,7.0,0.0,0,0,0,59.0,102.12765957446808,VY Mahesh,caught
+Kolkata Knight Riders,Delhi Daredevils,336017,2008-05-13,T Taibu,7,9,0.0,0.0,0,0,0,11.0,77.77777777777779,PJ Sangwan,run out
+Kolkata Knight Riders,Delhi Daredevils,336017,2008-05-13,WP Saha,5,6,0.0,0.0,0,0,0,9.0,83.33333333333334,0,0

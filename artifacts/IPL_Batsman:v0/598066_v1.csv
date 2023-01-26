@@ -1,0 +1,20 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Mumbai Indians,598066,2013-05-18,AC Gilchrist,5,7,1.0,0.0,0,0,0,10.0,71.42857142857143,NM Coulter-Nile,bowled
+Kings XI Punjab,Mumbai Indians,598066,2013-05-18,Azhar Mahmood,80,46,8.0,4.0,1,0,0,108.0,173.91304347826087,SL Malinga,lbw
+Kings XI Punjab,Mumbai Indians,598066,2013-05-18,DA Miller,6,5,1.0,0.0,0,0,0,11.0,120.0,KA Pollard,caught
+Kings XI Punjab,Mumbai Indians,598066,2013-05-18,Gurkeerat Singh,0,1,0.0,0.0,0,0,1,2.0,0.0,SL Malinga,lbw
+Kings XI Punjab,Mumbai Indians,598066,2013-05-18,M Vohra,20,8,3.0,1.0,0,0,0,29.0,250.0,0,0
+Kings XI Punjab,Mumbai Indians,598066,2013-05-18,Mandeep Singh,1,5,0.0,0.0,0,0,0,5.0,20.0,R Dhawan,caught
+Kings XI Punjab,Mumbai Indians,598066,2013-05-18,P Kumar,0,1,0.0,0.0,0,0,1,2.0,0.0,SL Malinga,bowled
+Kings XI Punjab,Mumbai Indians,598066,2013-05-18,PP Chawla,1,2,0.0,0.0,0,0,0,5.0,50.0,SL Malinga,run out
+Kings XI Punjab,Mumbai Indians,598066,2013-05-18,SE Marsh,63,49,11.0,0.0,1,0,0,86.0,128.57142857142858,Harbhajan Singh,bowled
+Mumbai Indians,Kings XI Punjab,598066,2013-05-18,AP Tare,22,12,2.0,2.0,0,0,0,32.0,183.3333333333333,Sandeep Sharma,bowled
+Mumbai Indians,Kings XI Punjab,598066,2013-05-18,AT Rayudu,26,23,3.0,0.0,0,0,0,33.0,113.04347826086956,P Awana,caught
+Mumbai Indians,Kings XI Punjab,598066,2013-05-18,GJ Maxwell,0,3,0.0,0.0,0,0,1,2.0,0.0,P Kumar,caught
+Mumbai Indians,Kings XI Punjab,598066,2013-05-18,Harbhajan Singh,5,8,0.0,0.0,0,0,0,9.0,62.5,AC Gilchrist,caught
+Mumbai Indians,Kings XI Punjab,598066,2013-05-18,KA Pollard,22,22,1.0,1.0,0,0,0,29.0,100.0,Sandeep Sharma,caught
+Mumbai Indians,Kings XI Punjab,598066,2013-05-18,KD Karthik,0,3,0.0,0.0,0,0,1,2.0,0.0,PP Chawla,caught and bowled
+Mumbai Indians,Kings XI Punjab,598066,2013-05-18,NM Coulter-Nile,9,6,0.0,1.0,0,0,0,15.0,150.0,Azhar Mahmood,bowled
+Mumbai Indians,Kings XI Punjab,598066,2013-05-18,R Dhawan,14,15,2.0,0.0,0,0,0,20.0,93.33333333333331,Azhar Mahmood,lbw
+Mumbai Indians,Kings XI Punjab,598066,2013-05-18,RG Sharma,25,25,2.0,1.0,0,0,0,33.0,100.0,PP Chawla,bowled
+Mumbai Indians,Kings XI Punjab,598066,2013-05-18,SL Malinga,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0

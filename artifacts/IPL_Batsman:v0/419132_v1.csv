@@ -1,0 +1,20 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Mumbai Indians,419132,2010-03-30,B Lee,3,4,0.0,0.0,0,0,0,7.0,75.0,Z Khan,caught
+Kings XI Punjab,Mumbai Indians,419132,2010-03-30,DPMD Jayawardene,20,20,2.0,0.0,0,0,0,26.0,100.0,Harbhajan Singh,run out
+Kings XI Punjab,Mumbai Indians,419132,2010-03-30,IK Pathan,18,14,1.0,0.0,0,0,0,23.0,128.57142857142858,SL Malinga,caught
+Kings XI Punjab,Mumbai Indians,419132,2010-03-30,K Goel,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,SL Malinga,bowled
+Kings XI Punjab,Mumbai Indians,419132,2010-03-30,MS Bisla,11,10,1.0,0.0,0,0,0,16.0,110.0,SL Malinga,caught
+Kings XI Punjab,Mumbai Indians,419132,2010-03-30,PP Chawla,22,15,3.0,0.0,0,0,0,29.0,146.66666666666666,R McLaren,run out
+Kings XI Punjab,Mumbai Indians,419132,2010-03-30,RS Bopara,1,4,0.0,0.0,0,0,0,5.0,25.0,Z Khan,lbw
+Kings XI Punjab,Mumbai Indians,419132,2010-03-30,SE Marsh,57,48,6.0,1.0,1,0,0,77.0,118.75,SL Malinga,bowled
+Kings XI Punjab,Mumbai Indians,419132,2010-03-30,SJ Srivastava,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Kings XI Punjab,Mumbai Indians,419132,2010-03-30,VS Malik,6,5,1.0,0.0,0,0,0,11.0,120.0,Z Khan,bowled
+Kings XI Punjab,Mumbai Indians,419132,2010-03-30,Yuvraj Singh,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,DJ Bravo,caught
+Mumbai Indians,Kings XI Punjab,419132,2010-03-30,AT Rayudu,9,14,1.0,0.0,0,0,0,14.0,64.28571428571429,SJ Srivastava,caught
+Mumbai Indians,Kings XI Punjab,419132,2010-03-30,DJ Bravo,8,4,0.0,1.0,0,0,0,14.0,200.0,RS Bopara,caught and bowled
+Mumbai Indians,Kings XI Punjab,419132,2010-03-30,Harbhajan Singh,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Mumbai Indians,Kings XI Punjab,419132,2010-03-30,KA Pollard,20,14,2.0,1.0,0,0,0,28.0,142.85714285714286,IK Pathan,caught
+Mumbai Indians,Kings XI Punjab,419132,2010-03-30,R Sathish,17,10,2.0,0.0,0,0,0,23.0,170.0,0,0
+Mumbai Indians,Kings XI Punjab,419132,2010-03-30,S Dhawan,50,40,6.0,0.0,1,0,0,68.0,125.0,RS Bopara,caught
+Mumbai Indians,Kings XI Punjab,419132,2010-03-30,SR Tendulkar,11,17,2.0,0.0,0,0,0,17.0,64.70588235294117,PP Chawla,caught
+Mumbai Indians,Kings XI Punjab,419132,2010-03-30,SS Tiwary,31,24,1.0,2.0,0,0,0,40.0,129.16666666666669,RS Bopara,caught

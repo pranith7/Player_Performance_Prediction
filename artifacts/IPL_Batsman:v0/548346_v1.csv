@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Mumbai Indians,548346,2012-04-29,A Ashish Reddy,10,10,0.0,1.0,0,0,0,16.0,100.0,MM Patel,caught
+Deccan Chargers,Mumbai Indians,548346,2012-04-29,A Mishra,1,6,0.0,0.0,0,0,0,5.0,16.666666666666664,SL Malinga,caught
+Deccan Chargers,Mumbai Indians,548346,2012-04-29,B Chipli,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,JEC Franklin,caught
+Deccan Chargers,Mumbai Indians,548346,2012-04-29,CL White,0,2,0.0,0.0,0,0,1,2.0,0.0,SL Malinga,caught
+Deccan Chargers,Mumbai Indians,548346,2012-04-29,DT Christian,5,5,1.0,0.0,0,0,0,10.0,100.0,JEC Franklin,caught
+Deccan Chargers,Mumbai Indians,548346,2012-04-29,DW Steyn,3,5,0.0,0.0,0,0,0,7.0,60.0,SL Malinga,caught and bowled
+Deccan Chargers,Mumbai Indians,548346,2012-04-29,IR Jaggi,2,7,0.0,0.0,0,0,0,6.0,28.57142857142857,Harbhajan Singh,caught
+Deccan Chargers,Mumbai Indians,548346,2012-04-29,JP Duminy,25,26,3.0,0.0,0,0,0,32.0,96.15384615384616,0,0
+Deccan Chargers,Mumbai Indians,548346,2012-04-29,PA Patel,19,18,1.0,1.0,0,0,0,26.0,105.55555555555556,RP Singh,caught
+Deccan Chargers,Mumbai Indians,548346,2012-04-29,S Dhawan,29,32,3.0,0.0,0,0,0,36.0,90.625,Harbhajan Singh,stumped
+Deccan Chargers,Mumbai Indians,548346,2012-04-29,V Pratap Singh,0,1,0.0,0.0,0,0,1,2.0,0.0,SL Malinga,caught
+Mumbai Indians,Deccan Chargers,548346,2012-04-29,AT Rayudu,19,16,2.0,0.0,0,0,0,25.0,118.75,0,0
+Mumbai Indians,Deccan Chargers,548346,2012-04-29,JEC Franklin,13,22,0.0,0.0,0,0,0,17.0,59.09090909090909,A Ashish Reddy,caught
+Mumbai Indians,Deccan Chargers,548346,2012-04-29,KD Karthik,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,DW Steyn,caught
+Mumbai Indians,Deccan Chargers,548346,2012-04-29,RE Levi,0,1,0.0,0.0,0,0,1,2.0,0.0,DW Steyn,bowled
+Mumbai Indians,Deccan Chargers,548346,2012-04-29,RG Sharma,42,50,4.0,1.0,0,0,0,52.0,84.0,JP Duminy,caught
+Mumbai Indians,Deccan Chargers,548346,2012-04-29,RJ Peterson,1,6,0.0,0.0,0,0,0,5.0,16.666666666666664,0,0
+Mumbai Indians,Deccan Chargers,548346,2012-04-29,SR Tendulkar,14,16,1.0,0.0,0,0,0,19.0,87.5,V Pratap Singh,caught

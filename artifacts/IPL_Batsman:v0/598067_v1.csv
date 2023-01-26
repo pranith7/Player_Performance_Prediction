@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Pune Warriors,598067,2013-05-19,B Chipli,16,19,1.0,1.0,0,0,0,23.0,84.21052631578947,AG Murtaza,lbw
+Delhi Daredevils,Pune Warriors,598067,2013-05-19,BJ Rohrer,7,9,1.0,0.0,0,0,0,12.0,77.77777777777779,AB Dinda,bowled
+Delhi Daredevils,Pune Warriors,598067,2013-05-19,CM Gautam,30,26,2.0,1.0,0,0,0,38.0,115.38461538461536,AD Mathews,caught
+Delhi Daredevils,Pune Warriors,598067,2013-05-19,DA Warner,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,WD Parnell,caught
+Delhi Daredevils,Pune Warriors,598067,2013-05-19,DPMD Jayawardene,14,14,3.0,0.0,0,0,0,21.0,100.0,AG Murtaza,caught
+Delhi Daredevils,Pune Warriors,598067,2013-05-19,IK Pathan,24,28,2.0,0.0,0,0,0,30.0,85.71428571428571,AD Mathews,caught
+Delhi Daredevils,Pune Warriors,598067,2013-05-19,M Morkel,0,1,0.0,0.0,0,0,1,2.0,0.0,AD Mathews,caught
+Delhi Daredevils,Pune Warriors,598067,2013-05-19,S Nadeem,6,5,1.0,0.0,0,0,0,11.0,120.0,AB Dinda,caught
+Delhi Daredevils,Pune Warriors,598067,2013-05-19,UT Yadav,8,9,0.0,0.0,0,0,0,12.0,88.88888888888889,0,0
+Delhi Daredevils,Pune Warriors,598067,2013-05-19,V Sehwag,11,10,2.0,0.0,0,0,0,17.0,110.0,AG Murtaza,caught
+Pune Warriors,Delhi Daredevils,598067,2013-05-19,AD Mathews,30,22,0.0,2.0,0,0,0,38.0,136.36363636363637,0,0
+Pune Warriors,Delhi Daredevils,598067,2013-05-19,AJ Finch,52,34,3.0,4.0,1,0,0,75.0,152.94117647058823,S Kaul,caught
+Pune Warriors,Delhi Daredevils,598067,2013-05-19,LJ Wright,44,24,7.0,1.0,0,0,0,57.0,183.3333333333333,S Kaul,caught
+Pune Warriors,Delhi Daredevils,598067,2013-05-19,MK Pandey,10,14,0.0,1.0,0,0,0,16.0,71.42857142857143,S Nadeem,bowled
+Pune Warriors,Delhi Daredevils,598067,2013-05-19,RV Gomez,4,1,1.0,0.0,0,0,0,9.0,400.0,0,0
+Pune Warriors,Delhi Daredevils,598067,2013-05-19,RV Uthappa,24,21,3.0,0.0,0,0,0,31.0,114.28571428571428,UT Yadav,caught
+Pune Warriors,Delhi Daredevils,598067,2013-05-19,Yuvraj Singh,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,IK Pathan,caught

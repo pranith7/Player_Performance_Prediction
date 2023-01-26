@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Capitals,Kolkata Knight Riders,1254082,2021-04-29,MP Stoinis,6,3,1.0,0.0,0,0,0,11.0,200.0,0,0
+Delhi Capitals,Kolkata Knight Riders,1254082,2021-04-29,PP Shaw,82,43,11.0,3.0,1,0,0,111.0,190.69767441860463,PJ Cummins,caught
+Delhi Capitals,Kolkata Knight Riders,1254082,2021-04-29,RR Pant,16,8,2.0,1.0,0,0,0,24.0,200.0,PJ Cummins,caught
+Delhi Capitals,Kolkata Knight Riders,1254082,2021-04-29,S Dhawan,46,49,4.0,1.0,0,0,0,56.0,93.87755102040816,PJ Cummins,lbw
+Delhi Capitals,Kolkata Knight Riders,1254082,2021-04-29,SO Hetmyer,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Kolkata Knight Riders,Delhi Capitals,1254082,2021-04-29,AD Russell,45,27,2.0,4.0,0,0,0,59.0,166.66666666666669,0,0
+Kolkata Knight Riders,Delhi Capitals,1254082,2021-04-29,EJG Morgan,0,2,0.0,0.0,0,0,1,2.0,0.0,Lalit Yadav,caught
+Kolkata Knight Riders,Delhi Capitals,1254082,2021-04-29,KD Karthik,14,10,1.0,1.0,0,0,0,21.0,140.0,AR Patel,lbw
+Kolkata Knight Riders,Delhi Capitals,1254082,2021-04-29,N Rana,15,12,1.0,1.0,0,0,0,22.0,125.0,AR Patel,stumped
+Kolkata Knight Riders,Delhi Capitals,1254082,2021-04-29,PJ Cummins,11,14,1.0,0.0,0,0,0,16.0,78.57142857142857,0,0
+Kolkata Knight Riders,Delhi Capitals,1254082,2021-04-29,RA Tripathi,19,17,2.0,0.0,0,0,0,25.0,111.76470588235294,MP Stoinis,caught
+Kolkata Knight Riders,Delhi Capitals,1254082,2021-04-29,SP Narine,0,1,0.0,0.0,0,0,1,2.0,0.0,Lalit Yadav,bowled
+Kolkata Knight Riders,Delhi Capitals,1254082,2021-04-29,Shubman Gill,43,38,3.0,1.0,0,0,0,52.0,113.1578947368421,Avesh Khan,caught

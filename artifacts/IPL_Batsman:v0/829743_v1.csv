@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Sunrisers Hyderabad,829743,2015-04-22,AD Russell,19,10,1.0,2.0,0,0,0,28.0,190.0,RS Bopara,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,829743,2015-04-22,G Gambhir,4,9,0.0,0.0,0,0,0,8.0,44.44444444444444,P Kumar,bowled
+Kolkata Knight Riders,Sunrisers Hyderabad,829743,2015-04-22,MK Pandey,33,24,3.0,1.0,0,0,0,42.0,137.5,0,0
+Kolkata Knight Riders,Sunrisers Hyderabad,829743,2015-04-22,RV Uthappa,34,22,2.0,2.0,0,0,0,44.0,154.54545454545453,MC Henriques,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,829743,2015-04-22,SA Yadav,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Kolkata Knight Riders,Sunrisers Hyderabad,829743,2015-04-22,YK Pathan,6,7,0.0,0.0,0,0,0,10.0,85.71428571428571,B Kumar,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,829743,2015-04-22,DA Warner,91,55,9.0,4.0,1,0,0,120.0,165.45454545454547,M Morkel,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,829743,2015-04-22,KL Rahul,0,3,0.0,0.0,0,0,1,2.0,0.0,0,0
+Sunrisers Hyderabad,Kolkata Knight Riders,829743,2015-04-22,MC Henriques,7,5,1.0,0.0,0,0,0,12.0,140.0,0,0
+Sunrisers Hyderabad,Kolkata Knight Riders,829743,2015-04-22,NV Ojha,18,8,1.0,2.0,0,0,0,27.0,225.0,UT Yadav,bowled
+Sunrisers Hyderabad,Kolkata Knight Riders,829743,2015-04-22,RS Bopara,2,4,0.0,0.0,0,0,0,6.0,50.0,M Morkel,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,829743,2015-04-22,S Dhawan,54,47,4.0,1.0,1,0,0,72.0,114.8936170212766,AD Russell,caught

@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Punjab Kings,Royal Challengers Bangalore,1304049,2022-03-27,LS Livingstone,19,12,0.0,2.0,0,0,0,27.0,158.33333333333331,Akash Deep,caught
+Punjab Kings,Royal Challengers Bangalore,1304049,2022-03-27,M Shahrukh Khan,24,26,1.0,2.0,0,0,0,33.0,92.3076923076923,0,0
+Punjab Kings,Royal Challengers Bangalore,1304049,2022-03-27,MA Agarwal,32,26,2.0,2.0,0,0,0,42.0,123.07692307692308,PWH de Silva,caught
+Punjab Kings,Royal Challengers Bangalore,1304049,2022-03-27,OF Smith,25,9,1.0,3.0,0,0,0,36.0,277.77777777777777,0,0
+Punjab Kings,Royal Challengers Bangalore,1304049,2022-03-27,PBB Rajapaksa,43,23,2.0,4.0,0,0,0,57.0,186.95652173913044,Mohammed Siraj,caught
+Punjab Kings,Royal Challengers Bangalore,1304049,2022-03-27,RA Bawa,0,1,0.0,0.0,0,0,1,2.0,0.0,Mohammed Siraj,lbw
+Punjab Kings,Royal Challengers Bangalore,1304049,2022-03-27,S Dhawan,43,29,5.0,1.0,0,0,0,54.0,148.27586206896552,HV Patel,caught
+Royal Challengers Bangalore,Punjab Kings,1304049,2022-03-27,Anuj Rawat,21,21,2.0,1.0,0,0,0,29.0,100.0,RD Chahar,bowled
+Royal Challengers Bangalore,Punjab Kings,1304049,2022-03-27,F du Plessis,88,61,3.0,7.0,1,0,0,117.0,144.2622950819672,Arshdeep Singh,caught
+Royal Challengers Bangalore,Punjab Kings,1304049,2022-03-27,KD Karthik,32,14,3.0,3.0,0,0,0,45.0,228.57142857142856,0,0
+Royal Challengers Bangalore,Punjab Kings,1304049,2022-03-27,V Kohli,41,31,1.0,2.0,0,0,0,50.0,132.25806451612902,0,0

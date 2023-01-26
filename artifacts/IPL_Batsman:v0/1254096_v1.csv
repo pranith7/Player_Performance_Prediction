@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Mumbai Indians,1254096,2021-09-23,EJG Morgan,7,8,0.0,1.0,0,0,0,13.0,87.5,JJ Bumrah,caught
+Kolkata Knight Riders,Mumbai Indians,1254096,2021-09-23,N Rana,5,2,1.0,0.0,0,0,0,10.0,250.0,0,0
+Kolkata Knight Riders,Mumbai Indians,1254096,2021-09-23,RA Tripathi,74,42,8.0,3.0,1,0,0,100.0,176.19047619047618,0,0
+Kolkata Knight Riders,Mumbai Indians,1254096,2021-09-23,Shubman Gill,13,9,1.0,1.0,0,0,0,20.0,144.44444444444443,JJ Bumrah,bowled
+Kolkata Knight Riders,Mumbai Indians,1254096,2021-09-23,VR Iyer,53,32,4.0,3.0,1,0,0,75.0,165.625,JJ Bumrah,bowled
+Mumbai Indians,Kolkata Knight Riders,1254096,2021-09-23,AF Milne,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Mumbai Indians,Kolkata Knight Riders,1254096,2021-09-23,Ishan Kishan,14,13,0.0,1.0,0,0,0,20.0,107.6923076923077,LH Ferguson,caught
+Mumbai Indians,Kolkata Knight Riders,1254096,2021-09-23,KA Pollard,21,17,2.0,1.0,0,0,0,29.0,123.52941176470588,LH Ferguson,run out
+Mumbai Indians,Kolkata Knight Riders,1254096,2021-09-23,KH Pandya,12,9,0.0,1.0,0,0,0,18.0,133.33333333333331,LH Ferguson,caught
+Mumbai Indians,Kolkata Knight Riders,1254096,2021-09-23,Q de Kock,55,44,4.0,3.0,1,0,0,77.0,125.0,M Prasidh Krishna,caught
+Mumbai Indians,Kolkata Knight Riders,1254096,2021-09-23,RG Sharma,33,32,4.0,0.0,0,0,0,41.0,103.125,SP Narine,caught
+Mumbai Indians,Kolkata Knight Riders,1254096,2021-09-23,SA Yadav,5,10,0.0,0.0,0,0,0,9.0,50.0,M Prasidh Krishna,caught
+Mumbai Indians,Kolkata Knight Riders,1254096,2021-09-23,SS Tiwary,5,2,1.0,0.0,0,0,0,10.0,250.0,0,0

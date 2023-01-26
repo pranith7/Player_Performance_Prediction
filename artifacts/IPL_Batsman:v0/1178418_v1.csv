@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Rajasthan Royals,1178418,2019-04-25,AD Russell,14,14,0.0,1.0,0,0,0,20.0,100.0,O Thomas,caught
+Kolkata Knight Riders,Rajasthan Royals,1178418,2019-04-25,CA Lynn,0,3,0.0,0.0,0,0,1,2.0,0.0,VR Aaron,bowled
+Kolkata Knight Riders,Rajasthan Royals,1178418,2019-04-25,CR Brathwaite,5,3,1.0,0.0,0,0,0,10.0,166.66666666666669,JD Unadkat,caught
+Kolkata Knight Riders,Rajasthan Royals,1178418,2019-04-25,KD Karthik,97,52,7.0,9.0,1,0,0,134.0,186.53846153846155,0,0
+Kolkata Knight Riders,Rajasthan Royals,1178418,2019-04-25,N Rana,21,26,3.0,0.0,0,0,0,28.0,80.76923076923077,S Gopal,caught
+Kolkata Knight Riders,Rajasthan Royals,1178418,2019-04-25,RK Singh,3,3,0.0,0.0,0,0,0,7.0,100.0,0,0
+Kolkata Knight Riders,Rajasthan Royals,1178418,2019-04-25,SP Narine,11,8,1.0,1.0,0,0,0,18.0,137.5,JC Archer,run out
+Kolkata Knight Riders,Rajasthan Royals,1178418,2019-04-25,Shubman Gill,14,14,2.0,0.0,0,0,0,20.0,100.0,VR Aaron,bowled
+Rajasthan Royals,Kolkata Knight Riders,1178418,2019-04-25,AM Rahane,34,21,5.0,1.0,0,0,0,45.0,161.9047619047619,SP Narine,lbw
+Rajasthan Royals,Kolkata Knight Riders,1178418,2019-04-25,BA Stokes,11,10,2.0,0.0,0,0,0,17.0,110.0,PP Chawla,caught
+Rajasthan Royals,Kolkata Knight Riders,1178418,2019-04-25,JC Archer,27,13,2.0,2.0,0,0,0,37.0,207.6923076923077,0,0
+Rajasthan Royals,Kolkata Knight Riders,1178418,2019-04-25,JD Unadkat,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Rajasthan Royals,Kolkata Knight Riders,1178418,2019-04-25,R Parag,47,34,5.0,2.0,0,0,0,60.0,138.23529411764704,AD Russell,hit wicket
+Rajasthan Royals,Kolkata Knight Riders,1178418,2019-04-25,S Gopal,18,9,4.0,0.0,0,0,0,26.0,200.0,M Prasidh Krishna,caught
+Rajasthan Royals,Kolkata Knight Riders,1178418,2019-04-25,SPD Smith,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,SP Narine,bowled
+Rajasthan Royals,Kolkata Knight Riders,1178418,2019-04-25,STR Binny,11,12,0.0,1.0,0,0,0,17.0,91.66666666666666,PP Chawla,caught
+Rajasthan Royals,Kolkata Knight Riders,1178418,2019-04-25,SV Samson,22,15,0.0,2.0,0,0,0,30.0,146.66666666666666,PP Chawla,bowled

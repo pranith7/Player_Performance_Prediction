@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Pune Warriors,Rajasthan Royals,598047,2013-05-05,AD Mathews,18,15,2.0,0.0,0,0,0,24.0,120.0,JP Faulkner,caught
+Pune Warriors,Rajasthan Royals,598047,2013-05-05,AJ Finch,45,33,7.0,0.0,0,0,0,56.0,136.36363636363637,KK Cooper,bowled
+Pune Warriors,Rajasthan Royals,598047,2013-05-05,MR Marsh,35,22,2.0,3.0,0,0,0,47.0,159.0909090909091,0,0
+Pune Warriors,Rajasthan Royals,598047,2013-05-05,RV Uthappa,54,46,8.0,1.0,1,0,0,76.0,117.3913043478261,JP Faulkner,run out
+Pune Warriors,Rajasthan Royals,598047,2013-05-05,Yuvraj Singh,15,11,1.0,1.0,0,0,0,22.0,136.36363636363637,SK Trivedi,caught
+Rajasthan Royals,Pune Warriors,598047,2013-05-05,AM Rahane,67,50,6.0,2.0,1,0,0,89.0,134.0,B Kumar,caught
+Rajasthan Royals,Pune Warriors,598047,2013-05-05,BJ Hodge,4,5,0.0,0.0,0,0,0,8.0,80.0,WD Parnell,caught
+Rajasthan Royals,Pune Warriors,598047,2013-05-05,JP Faulkner,3,2,0.0,0.0,0,0,0,7.0,150.0,0,0
+Rajasthan Royals,Pune Warriors,598047,2013-05-05,R Dravid,58,41,9.0,1.0,1,0,0,81.0,141.46341463414635,AD Mathews,caught
+Rajasthan Royals,Pune Warriors,598047,2013-05-05,SR Watson,5,5,1.0,0.0,0,0,0,10.0,100.0,WD Parnell,bowled
+Rajasthan Royals,Pune Warriors,598047,2013-05-05,STR Binny,32,13,2.0,2.0,0,0,0,42.0,246.15384615384616,0,0
+Rajasthan Royals,Pune Warriors,598047,2013-05-05,SV Samson,10,6,2.0,0.0,0,0,0,16.0,166.66666666666669,WD Parnell,caught

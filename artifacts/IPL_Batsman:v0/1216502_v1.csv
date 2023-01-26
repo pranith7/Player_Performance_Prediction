@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Royal Challengers Bangalore,Sunrisers Hyderabad,1216502,2020-10-31,AB de Villiers,24,25,1.0,1.0,0,0,0,31.0,96.0,S Nadeem,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,1216502,2020-10-31,CH Morris,3,4,0.0,0.0,0,0,0,7.0,75.0,JO Holder,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,1216502,2020-10-31,D Padikkal,5,8,1.0,0.0,0,0,0,10.0,62.5,Sandeep Sharma,bowled
+Royal Challengers Bangalore,Sunrisers Hyderabad,1216502,2020-10-31,Gurkeerat Singh,15,24,1.0,0.0,0,0,0,20.0,62.5,0,0
+Royal Challengers Bangalore,Sunrisers Hyderabad,1216502,2020-10-31,I Udana,0,1,0.0,0.0,0,0,1,2.0,0.0,JO Holder,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,1216502,2020-10-31,JR Philippe,32,33,4.0,0.0,0,0,0,40.0,96.96969696969695,Rashid Khan,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,1216502,2020-10-31,Mohammed Siraj,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,0,0
+Royal Challengers Bangalore,Sunrisers Hyderabad,1216502,2020-10-31,V Kohli,7,7,0.0,0.0,0,0,0,11.0,100.0,Sandeep Sharma,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,1216502,2020-10-31,Washington Sundar,21,19,2.0,0.0,0,0,0,27.0,110.5263157894737,T Natarajan,caught and bowled
+Sunrisers Hyderabad,Royal Challengers Bangalore,1216502,2020-10-31,Abhishek Sharma,8,5,0.0,1.0,0,0,0,14.0,160.0,NA Saini,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,1216502,2020-10-31,DA Warner,8,6,0.0,1.0,0,0,0,14.0,133.33333333333331,Washington Sundar,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,1216502,2020-10-31,JO Holder,26,11,1.0,3.0,0,0,0,37.0,236.3636363636364,0,0
+Sunrisers Hyderabad,Royal Challengers Bangalore,1216502,2020-10-31,KS Williamson,8,14,0.0,0.0,0,0,0,12.0,57.14285714285714,I Udana,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,1216502,2020-10-31,MK Pandey,26,20,3.0,1.0,0,0,0,35.0,130.0,YS Chahal,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,1216502,2020-10-31,WP Saha,39,34,4.0,1.0,0,0,0,49.0,114.70588235294116,YS Chahal,stumped

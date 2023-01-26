@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Rajasthan Royals,392230,2009-05-17,AB de Villiers,79,55,8.0,1.0,1,0,0,101.0,143.63636363636363,0,0
+Delhi Daredevils,Rajasthan Royals,392230,2009-05-17,G Gambhir,8,8,1.0,0.0,0,0,0,13.0,100.0,MM Patel,caught and bowled
+Delhi Daredevils,Rajasthan Royals,392230,2009-05-17,KD Karthik,23,11,1.0,1.0,0,0,0,30.0,209.0909090909091,0,0
+Delhi Daredevils,Rajasthan Royals,392230,2009-05-17,TM Dilshan,33,42,1.0,0.0,0,0,0,38.0,78.57142857142857,J Botha,bowled
+Delhi Daredevils,Rajasthan Royals,392230,2009-05-17,V Sehwag,2,8,0.0,0.0,0,0,0,6.0,25.0,MM Patel,lbw
+Rajasthan Royals,Delhi Daredevils,392230,2009-05-17,A Singh,0,1,0.0,0.0,0,0,1,2.0,0.0,A Mishra,stumped
+Rajasthan Royals,Delhi Daredevils,392230,2009-05-17,AS Raut,11,13,0.0,0.0,0,0,0,15.0,84.61538461538461,A Mishra,bowled
+Rajasthan Royals,Delhi Daredevils,392230,2009-05-17,GC Smith,0,5,0.0,0.0,0,0,1,2.0,0.0,DP Nannes,caught
+Rajasthan Royals,Delhi Daredevils,392230,2009-05-17,J Botha,37,33,3.0,0.0,0,0,0,44.0,112.12121212121212,MF Maharoof,caught
+Rajasthan Royals,Delhi Daredevils,392230,2009-05-17,MM Patel,23,10,5.0,0.0,0,0,0,32.0,230.0,0,0
+Rajasthan Royals,Delhi Daredevils,392230,2009-05-17,NV Ojha,9,17,1.0,0.0,0,0,0,14.0,52.94117647058824,AM Salvi,caught
+Rajasthan Royals,Delhi Daredevils,392230,2009-05-17,RA Jadeja,24,19,3.0,0.0,0,0,0,31.0,126.3157894736842,AM Salvi,caught
+Rajasthan Royals,Delhi Daredevils,392230,2009-05-17,RJ Quiney,6,10,1.0,0.0,0,0,0,11.0,60.0,A Nehra,caught
+Rajasthan Royals,Delhi Daredevils,392230,2009-05-17,SK Trivedi,6,11,0.0,0.0,0,0,0,10.0,54.54545454545454,0,0
+Rajasthan Royals,Delhi Daredevils,392230,2009-05-17,SK Warne,6,3,0.0,1.0,0,0,0,12.0,200.0,A Mishra,stumped
+Rajasthan Royals,Delhi Daredevils,392230,2009-05-17,YK Pathan,1,5,0.0,0.0,0,0,0,5.0,20.0,MF Maharoof,caught

@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Royal Challengers Bangalore,598045,2013-05-14,AC Gilchrist,85,57,10.0,3.0,1,0,0,113.0,149.12280701754386,0,0
+Kings XI Punjab,Royal Challengers Bangalore,598045,2013-05-14,Azhar Mahmood,61,42,8.0,1.0,1,0,0,83.0,145.23809523809524,JD Unadkat,caught
+Kings XI Punjab,Royal Challengers Bangalore,598045,2013-05-14,DA Miller,2,4,0.0,0.0,0,0,0,6.0,50.0,M Muralitharan,bowled
+Kings XI Punjab,Royal Challengers Bangalore,598045,2013-05-14,R Sathish,12,6,1.0,1.0,0,0,0,19.0,200.0,0,0
+Kings XI Punjab,Royal Challengers Bangalore,598045,2013-05-14,SE Marsh,8,4,2.0,0.0,0,0,0,14.0,200.0,Z Khan,bowled
+Royal Challengers Bangalore,Kings XI Punjab,598045,2013-05-14,AB de Villiers,6,2,0.0,1.0,0,0,0,12.0,300.0,P Awana,bowled
+Royal Challengers Bangalore,Kings XI Punjab,598045,2013-05-14,CA Pujara,19,20,3.0,0.0,0,0,0,26.0,95.0,P Awana,caught
+Royal Challengers Bangalore,Kings XI Punjab,598045,2013-05-14,CH Gayle,77,56,4.0,6.0,1,0,0,105.0,137.5,P Awana,bowled
+Royal Challengers Bangalore,Kings XI Punjab,598045,2013-05-14,KL Rahul,8,4,2.0,0.0,0,0,0,14.0,200.0,Azhar Mahmood,caught
+Royal Challengers Bangalore,Kings XI Punjab,598045,2013-05-14,MC Henriques,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Royal Challengers Bangalore,Kings XI Punjab,598045,2013-05-14,V Kohli,57,43,6.0,2.0,1,0,0,79.0,132.5581395348837,Azhar Mahmood,lbw

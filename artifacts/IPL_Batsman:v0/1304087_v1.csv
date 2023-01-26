@@ -1,0 +1,20 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Capitals,Kolkata Knight Riders,1304087,2022-04-28,AR Patel,24,17,2.0,1.0,0,0,0,32.0,141.1764705882353,AD Russell,run out
+Delhi Capitals,Kolkata Knight Riders,1304087,2022-04-28,DA Warner,42,27,8.0,0.0,0,0,0,54.0,155.55555555555557,UT Yadav,caught
+Delhi Capitals,Kolkata Knight Riders,1304087,2022-04-28,Lalit Yadav,22,29,1.0,1.0,0,0,0,29.0,75.86206896551724,SP Narine,lbw
+Delhi Capitals,Kolkata Knight Riders,1304087,2022-04-28,MR Marsh,13,7,2.0,0.0,0,0,0,19.0,185.7142857142857,Harshit Rana,caught
+Delhi Capitals,Kolkata Knight Riders,1304087,2022-04-28,PP Shaw,0,1,0.0,0.0,0,0,1,2.0,0.0,UT Yadav,caught and bowled
+Delhi Capitals,Kolkata Knight Riders,1304087,2022-04-28,R Powell,33,17,1.0,3.0,0,0,0,44.0,194.1176470588236,0,0
+Delhi Capitals,Kolkata Knight Riders,1304087,2022-04-28,RR Pant,2,5,0.0,0.0,0,0,0,6.0,40.0,UT Yadav,caught
+Delhi Capitals,Kolkata Knight Riders,1304087,2022-04-28,SN Thakur,8,14,0.0,0.0,0,0,0,12.0,57.14285714285714,0,0
+Kolkata Knight Riders,Delhi Capitals,1304087,2022-04-28,AD Russell,0,3,0.0,0.0,0,0,1,2.0,0.0,Kuldeep Yadav,stumped
+Kolkata Knight Riders,Delhi Capitals,1304087,2022-04-28,AJ Finch,3,8,0.0,0.0,0,0,0,7.0,37.5,C Sakariya,bowled
+Kolkata Knight Riders,Delhi Capitals,1304087,2022-04-28,B Indrajith,6,8,0.0,0.0,0,0,0,10.0,75.0,Kuldeep Yadav,caught
+Kolkata Knight Riders,Delhi Capitals,1304087,2022-04-28,Harshit Rana,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Kolkata Knight Riders,Delhi Capitals,1304087,2022-04-28,N Rana,57,35,3.0,4.0,1,0,0,80.0,162.85714285714286,Mustafizur Rahman,caught
+Kolkata Knight Riders,Delhi Capitals,1304087,2022-04-28,RK Singh,23,16,3.0,0.0,0,0,0,30.0,143.75,Mustafizur Rahman,caught
+Kolkata Knight Riders,Delhi Capitals,1304087,2022-04-28,SP Narine,0,1,0.0,0.0,0,0,1,2.0,0.0,Kuldeep Yadav,lbw
+Kolkata Knight Riders,Delhi Capitals,1304087,2022-04-28,SS Iyer,42,38,4.0,0.0,0,0,0,50.0,110.5263157894737,Kuldeep Yadav,caught
+Kolkata Knight Riders,Delhi Capitals,1304087,2022-04-28,TG Southee,0,1,0.0,0.0,0,0,1,2.0,0.0,Mustafizur Rahman,bowled
+Kolkata Knight Riders,Delhi Capitals,1304087,2022-04-28,UT Yadav,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Kolkata Knight Riders,Delhi Capitals,1304087,2022-04-28,VR Iyer,6,12,0.0,0.0,0,0,0,10.0,50.0,AR Patel,caught

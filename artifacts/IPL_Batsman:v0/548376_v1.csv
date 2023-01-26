@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Royal Challengers Bangalore,548376,2012-05-20,A Ashish Reddy,4,5,0.0,0.0,0,0,0,8.0,80.0,R Vinay Kumar,bowled
+Deccan Chargers,Royal Challengers Bangalore,548376,2012-05-20,CL White,1,5,0.0,0.0,0,0,0,5.0,20.0,P Parameswaran,caught
+Deccan Chargers,Royal Challengers Bangalore,548376,2012-05-20,JP Duminy,74,53,4.0,5.0,1,0,0,100.0,139.62264150943395,Z Khan,caught
+Deccan Chargers,Royal Challengers Bangalore,548376,2012-05-20,KC Sangakkara,15,23,1.0,0.0,0,0,0,20.0,65.21739130434783,M Muralitharan,caught
+Deccan Chargers,Royal Challengers Bangalore,548376,2012-05-20,PA Patel,16,22,1.0,0.0,0,0,0,21.0,72.72727272727273,R Vinay Kumar,caught
+Deccan Chargers,Royal Challengers Bangalore,548376,2012-05-20,PA Reddy,7,12,0.0,0.0,0,0,0,11.0,58.333333333333336,R Vinay Kumar,caught
+Deccan Chargers,Royal Challengers Bangalore,548376,2012-05-20,S Dhawan,5,4,1.0,0.0,0,0,0,10.0,125.0,Z Khan,bowled
+Royal Challengers Bangalore,Deccan Chargers,548376,2012-05-20,AB de Villiers,4,11,0.0,0.0,0,0,0,8.0,36.36363636363637,A Mishra,caught
+Royal Challengers Bangalore,Deccan Chargers,548376,2012-05-20,CH Gayle,27,10,3.0,2.0,0,0,0,38.0,270.0,DW Steyn,bowled
+Royal Challengers Bangalore,Deccan Chargers,548376,2012-05-20,HV Patel,5,5,0.0,0.0,0,0,0,9.0,100.0,0,0
+Royal Challengers Bangalore,Deccan Chargers,548376,2012-05-20,M Muralitharan,0,1,0.0,0.0,0,0,1,2.0,0.0,A Ashish Reddy,caught
+Royal Challengers Bangalore,Deccan Chargers,548376,2012-05-20,MA Agarwal,1,2,0.0,0.0,0,0,0,5.0,50.0,A Mishra,bowled
+Royal Challengers Bangalore,Deccan Chargers,548376,2012-05-20,P Parameswaran,0,2,0.0,0.0,0,0,1,2.0,0.0,0,0
+Royal Challengers Bangalore,Deccan Chargers,548376,2012-05-20,R Vinay Kumar,7,7,1.0,0.0,0,0,0,12.0,100.0,A Ashish Reddy,caught
+Royal Challengers Bangalore,Deccan Chargers,548376,2012-05-20,SS Tiwary,30,27,1.0,1.0,0,0,0,37.0,111.11111111111111,V Pratap Singh,caught
+Royal Challengers Bangalore,Deccan Chargers,548376,2012-05-20,TM Dilshan,4,13,0.0,0.0,0,0,0,8.0,30.76923076923077,DW Steyn,lbw
+Royal Challengers Bangalore,Deccan Chargers,548376,2012-05-20,V Kohli,42,41,2.0,3.0,0,0,0,54.0,102.4390243902439,A Ashish Reddy,caught
+Royal Challengers Bangalore,Deccan Chargers,548376,2012-05-20,Z Khan,0,4,0.0,0.0,0,0,1,2.0,0.0,DW Steyn,bowled

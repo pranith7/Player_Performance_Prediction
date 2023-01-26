@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Capitals,Mumbai Indians,1216535,2020-10-31,HV Patel,5,10,1.0,0.0,0,0,0,10.0,50.0,JJ Bumrah,lbw
+Delhi Capitals,Mumbai Indians,1216535,2020-10-31,K Rabada,12,7,0.0,1.0,0,0,0,18.0,171.42857142857142,JJ Bumrah,run out
+Delhi Capitals,Mumbai Indians,1216535,2020-10-31,MP Stoinis,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,JJ Bumrah,caught
+Delhi Capitals,Mumbai Indians,1216535,2020-10-31,P Dubey,7,13,0.0,0.0,0,0,0,11.0,53.84615384615385,0,0
+Delhi Capitals,Mumbai Indians,1216535,2020-10-31,PP Shaw,10,11,2.0,0.0,0,0,0,16.0,90.9090909090909,TA Boult,caught
+Delhi Capitals,Mumbai Indians,1216535,2020-10-31,R Ashwin,12,9,0.0,1.0,0,0,0,18.0,133.33333333333331,TA Boult,caught
+Delhi Capitals,Mumbai Indians,1216535,2020-10-31,RR Pant,21,24,2.0,0.0,0,0,0,27.0,87.5,JJ Bumrah,lbw
+Delhi Capitals,Mumbai Indians,1216535,2020-10-31,S Dhawan,0,2,0.0,0.0,0,0,1,2.0,0.0,TA Boult,caught
+Delhi Capitals,Mumbai Indians,1216535,2020-10-31,SO Hetmyer,11,13,1.0,0.0,0,0,0,16.0,84.61538461538461,NM Coulter-Nile,caught
+Delhi Capitals,Mumbai Indians,1216535,2020-10-31,SS Iyer,25,30,1.0,1.0,0,0,0,32.0,83.33333333333334,RD Chahar,stumped
+Mumbai Indians,Delhi Capitals,1216535,2020-10-31,Ishan Kishan,72,48,8.0,3.0,1,0,0,98.0,150.0,0,0
+Mumbai Indians,Delhi Capitals,1216535,2020-10-31,Q de Kock,26,28,2.0,0.0,0,0,0,32.0,92.85714285714286,A Nortje,bowled
+Mumbai Indians,Delhi Capitals,1216535,2020-10-31,SA Yadav,12,11,1.0,0.0,0,0,0,17.0,109.09090909090908,0,0

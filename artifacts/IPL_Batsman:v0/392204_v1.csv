@@ -1,0 +1,20 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Royal Challengers Bangalore,392204,2009-05-01,DPMD Jayawardene,19,16,2.0,0.0,0,0,0,25.0,118.75,RE van der Merwe,caught
+Kings XI Punjab,Royal Challengers Bangalore,392204,2009-05-01,IK Pathan,12,10,2.0,0.0,0,0,0,18.0,120.0,P Kumar,caught
+Kings XI Punjab,Royal Challengers Bangalore,392204,2009-05-01,K Goel,20,29,2.0,0.0,0,0,0,26.0,68.96551724137932,RE van der Merwe,caught
+Kings XI Punjab,Royal Challengers Bangalore,392204,2009-05-01,KC Sangakkara,17,23,2.0,0.0,0,0,0,23.0,73.91304347826086,A Kumble,bowled
+Kings XI Punjab,Royal Challengers Bangalore,392204,2009-05-01,PP Chawla,3,4,0.0,0.0,0,0,0,7.0,75.0,P Kumar,bowled
+Kings XI Punjab,Royal Challengers Bangalore,392204,2009-05-01,SM Katich,3,5,0.0,0.0,0,0,0,7.0,60.0,JD Ryder,run out
+Kings XI Punjab,Royal Challengers Bangalore,392204,2009-05-01,TM Srivastava,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Kings XI Punjab,Royal Challengers Bangalore,392204,2009-05-01,Yuvraj Singh,50,35,3.0,4.0,1,0,0,73.0,142.85714285714286,A Kumble,caught
+Royal Challengers Bangalore,Kings XI Punjab,392204,2009-05-01,A Kumble,1,4,0.0,0.0,0,0,0,5.0,25.0,YA Abdulla,bowled
+Royal Challengers Bangalore,Kings XI Punjab,392204,2009-05-01,JD Ryder,2,5,0.0,0.0,0,0,0,6.0,40.0,IK Pathan,caught
+Royal Challengers Bangalore,Kings XI Punjab,392204,2009-05-01,JH Kallis,27,24,4.0,0.0,0,0,0,35.0,112.5,Yuvraj Singh,bowled
+Royal Challengers Bangalore,Kings XI Punjab,392204,2009-05-01,KP Appanna,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Royal Challengers Bangalore,Kings XI Punjab,392204,2009-05-01,MV Boucher,2,4,0.0,0.0,0,0,0,6.0,50.0,Yuvraj Singh,lbw
+Royal Challengers Bangalore,Kings XI Punjab,392204,2009-05-01,P Kumar,9,7,1.0,0.0,0,0,0,14.0,128.57142857142858,0,0
+Royal Challengers Bangalore,Kings XI Punjab,392204,2009-05-01,R Bishnoi,18,14,1.0,2.0,0,0,0,27.0,128.57142857142858,YA Abdulla,caught
+Royal Challengers Bangalore,Kings XI Punjab,392204,2009-05-01,RE van der Merwe,35,19,3.0,3.0,0,0,0,48.0,184.21052631578948,YA Abdulla,caught
+Royal Challengers Bangalore,Kings XI Punjab,392204,2009-05-01,RV Uthappa,19,17,2.0,0.0,0,0,0,25.0,111.76470588235294,Yuvraj Singh,caught
+Royal Challengers Bangalore,Kings XI Punjab,392204,2009-05-01,SP Goswami,10,15,0.0,0.0,0,0,0,14.0,66.66666666666666,YA Abdulla,caught
+Royal Challengers Bangalore,Kings XI Punjab,392204,2009-05-01,V Kohli,16,14,2.0,0.0,0,0,0,22.0,114.28571428571428,IK Pathan,caught

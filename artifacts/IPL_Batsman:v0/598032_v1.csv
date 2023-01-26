@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Rajasthan Royals,Sunrisers Hyderabad,598032,2013-04-27,AM Rahane,1,9,0.0,0.0,0,0,0,5.0,11.11111111111111,DW Steyn,caught
+Rajasthan Royals,Sunrisers Hyderabad,598032,2013-04-27,R Dravid,36,36,4.0,1.0,0,0,0,46.0,100.0,NLTC Perera,caught
+Rajasthan Royals,Sunrisers Hyderabad,598032,2013-04-27,SR Watson,98,53,13.0,4.0,1,0,0,131.0,184.9056603773585,0,0
+Rajasthan Royals,Sunrisers Hyderabad,598032,2013-04-27,STR Binny,9,10,1.0,0.0,0,0,0,14.0,90.0,0,0
+Sunrisers Hyderabad,Rajasthan Royals,598032,2013-04-27,A Ashish Reddy,14,11,1.0,0.0,0,0,0,19.0,127.27272727272728,STR Binny,caught
+Sunrisers Hyderabad,Rajasthan Royals,598032,2013-04-27,A Mishra,21,33,2.0,0.0,0,0,0,27.0,63.63636363636363,JP Faulkner,caught
+Sunrisers Hyderabad,Rajasthan Royals,598032,2013-04-27,DJG Sammy,60,44,8.0,1.0,1,0,0,82.0,136.36363636363637,JP Faulkner,lbw
+Sunrisers Hyderabad,Rajasthan Royals,598032,2013-04-27,DW Steyn,18,9,2.0,1.0,0,0,0,26.0,200.0,0,0
+Sunrisers Hyderabad,Rajasthan Royals,598032,2013-04-27,GH Vihari,4,9,0.0,0.0,0,0,0,8.0,44.44444444444444,KK Cooper,caught
+Sunrisers Hyderabad,Rajasthan Royals,598032,2013-04-27,KC Sangakkara,4,4,1.0,0.0,0,0,0,9.0,100.0,JP Faulkner,caught
+Sunrisers Hyderabad,Rajasthan Royals,598032,2013-04-27,KV Sharma,6,8,1.0,0.0,0,0,0,11.0,75.0,JP Faulkner,caught
+Sunrisers Hyderabad,Rajasthan Royals,598032,2013-04-27,NLTC Perera,4,4,1.0,0.0,0,0,0,9.0,100.0,A Chandila,caught
+Sunrisers Hyderabad,Rajasthan Royals,598032,2013-04-27,PA Reddy,2,5,0.0,0.0,0,0,0,6.0,40.0,A Chandila,caught
+Sunrisers Hyderabad,Rajasthan Royals,598032,2013-04-27,S Dhawan,0,2,0.0,0.0,0,0,1,2.0,0.0,JP Faulkner,caught

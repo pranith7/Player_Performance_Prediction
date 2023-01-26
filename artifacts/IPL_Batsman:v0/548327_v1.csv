@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Pune Warriors,Royal Challengers Bangalore,548327,2012-04-17,AD Mathews,10,7,0.0,1.0,0,0,0,16.0,142.85714285714286,R Vinay Kumar,caught
+Pune Warriors,Royal Challengers Bangalore,548327,2012-04-17,JD Ryder,34,22,4.0,1.0,0,0,0,44.0,154.54545454545453,HV Patel,caught
+Pune Warriors,Royal Challengers Bangalore,548327,2012-04-17,M Manhas,6,4,1.0,0.0,0,0,0,11.0,150.0,0,0
+Pune Warriors,Royal Challengers Bangalore,548327,2012-04-17,MN Samuels,34,20,1.0,2.0,0,0,0,43.0,170.0,Z Khan,run out
+Pune Warriors,Royal Challengers Bangalore,548327,2012-04-17,RV Uthappa,69,48,9.0,2.0,1,0,0,94.0,143.75,DL Vettori,caught
+Pune Warriors,Royal Challengers Bangalore,548327,2012-04-17,SC Ganguly,6,8,0.0,0.0,0,0,0,10.0,75.0,R Vinay Kumar,caught
+Pune Warriors,Royal Challengers Bangalore,548327,2012-04-17,SPD Smith,16,14,0.0,1.0,0,0,0,22.0,114.28571428571428,R Vinay Kumar,run out
+Royal Challengers Bangalore,Pune Warriors,548327,2012-04-17,AB de Villiers,33,14,2.0,3.0,0,0,0,45.0,235.7142857142857,0,0
+Royal Challengers Bangalore,Pune Warriors,548327,2012-04-17,CH Gayle,81,49,4.0,8.0,1,0,0,113.0,165.3061224489796,A Nehra,bowled
+Royal Challengers Bangalore,Pune Warriors,548327,2012-04-17,MA Agarwal,9,11,0.0,1.0,0,0,0,15.0,81.81818181818183,MN Samuels,caught
+Royal Challengers Bangalore,Pune Warriors,548327,2012-04-17,SS Tiwary,36,23,1.0,2.0,0,0,0,45.0,156.52173913043478,0,0
+Royal Challengers Bangalore,Pune Warriors,548327,2012-04-17,TM Dilshan,4,8,0.0,0.0,0,0,0,8.0,50.0,AB Dinda,caught
+Royal Challengers Bangalore,Pune Warriors,548327,2012-04-17,V Kohli,16,19,1.0,0.0,0,0,0,21.0,84.21052631578947,AD Mathews,caught

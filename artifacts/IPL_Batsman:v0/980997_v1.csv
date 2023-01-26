@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Rising Pune Supergiants,980997,2016-05-17,CH Morris,38,22,4.0,2.0,0,0,0,50.0,172.72727272727272,0,0
+Delhi Daredevils,Rising Pune Supergiants,980997,2016-05-17,JP Duminy,14,14,1.0,0.0,0,0,0,19.0,100.0,AB Dinda,caught
+Delhi Daredevils,Rising Pune Supergiants,980997,2016-05-17,KK Nair,41,43,5.0,0.0,0,0,0,50.0,95.34883720930232,A Zampa,lbw
+Delhi Daredevils,Rising Pune Supergiants,980997,2016-05-17,NM Coulter-Nile,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,0,0
+Delhi Daredevils,Rising Pune Supergiants,980997,2016-05-17,Q de Kock,2,8,0.0,0.0,0,0,0,6.0,25.0,AB Dinda,lbw
+Delhi Daredevils,Rising Pune Supergiants,980997,2016-05-17,RR Pant,4,9,0.0,0.0,0,0,0,8.0,44.44444444444444,A Zampa,caught
+Delhi Daredevils,Rising Pune Supergiants,980997,2016-05-17,SS Iyer,8,10,1.0,0.0,0,0,0,13.0,80.0,AB Dinda,caught
+Delhi Daredevils,Rising Pune Supergiants,980997,2016-05-17,SV Samson,10,13,0.0,0.0,0,0,0,14.0,76.92307692307693,A Zampa,stumped
+Rising Pune Supergiants,Delhi Daredevils,980997,2016-05-17,AM Rahane,42,36,5.0,1.0,0,0,0,53.0,116.66666666666669,0,0
+Rising Pune Supergiants,Delhi Daredevils,980997,2016-05-17,GJ Bailey,8,19,1.0,0.0,0,0,0,13.0,42.10526315789473,0,0
+Rising Pune Supergiants,Delhi Daredevils,980997,2016-05-17,UT Khawaja,19,16,4.0,0.0,0,0,0,27.0,118.75,CH Morris,caught

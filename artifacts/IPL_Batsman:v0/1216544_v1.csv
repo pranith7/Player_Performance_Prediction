@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Royal Challengers Bangalore,1216544,2020-10-25,AT Rayudu,39,27,3.0,2.0,0,0,0,50.0,144.44444444444443,YS Chahal,bowled
+Chennai Super Kings,Royal Challengers Bangalore,1216544,2020-10-25,F du Plessis,25,13,2.0,2.0,0,0,0,35.0,192.30769230769232,CH Morris,caught
+Chennai Super Kings,Royal Challengers Bangalore,1216544,2020-10-25,MS Dhoni,19,21,3.0,0.0,0,0,0,26.0,90.47619047619048,0,0
+Chennai Super Kings,Royal Challengers Bangalore,1216544,2020-10-25,RD Gaikwad,65,52,4.0,3.0,1,0,0,87.0,125.0,0,0
+Royal Challengers Bangalore,Chennai Super Kings,1216544,2020-10-25,AB de Villiers,39,36,4.0,0.0,0,0,0,47.0,108.33333333333331,DL Chahar,caught
+Royal Challengers Bangalore,Chennai Super Kings,1216544,2020-10-25,AJ Finch,15,13,3.0,0.0,0,0,0,22.0,115.38461538461536,SM Curran,caught
+Royal Challengers Bangalore,Chennai Super Kings,1216544,2020-10-25,CH Morris,2,5,0.0,0.0,0,0,0,6.0,40.0,DL Chahar,bowled
+Royal Challengers Bangalore,Chennai Super Kings,1216544,2020-10-25,D Padikkal,22,22,2.0,1.0,0,0,0,30.0,100.0,MJ Santner,caught
+Royal Challengers Bangalore,Chennai Super Kings,1216544,2020-10-25,Gurkeerat Singh,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Royal Challengers Bangalore,Chennai Super Kings,1216544,2020-10-25,MM Ali,1,2,0.0,0.0,0,0,0,5.0,50.0,SM Curran,caught
+Royal Challengers Bangalore,Chennai Super Kings,1216544,2020-10-25,V Kohli,50,45,1.0,1.0,1,0,0,65.0,111.11111111111111,SM Curran,caught
+Royal Challengers Bangalore,Chennai Super Kings,1216544,2020-10-25,Washington Sundar,5,2,1.0,0.0,0,0,0,10.0,250.0,0,0

@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Royal Challengers Bangalore,501255,2011-05-14,EJG Morgan,2,5,0.0,0.0,0,0,0,6.0,40.0,Z Khan,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,501255,2011-05-14,G Gambhir,7,9,1.0,0.0,0,0,0,12.0,77.77777777777779,S Aravind,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,501255,2011-05-14,JH Kallis,17,14,3.0,0.0,0,0,0,24.0,121.42857142857142,CK Langeveldt,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,501255,2011-05-14,MK Tiwary,19,26,1.0,0.0,0,0,0,24.0,73.07692307692307,0,0
+Kolkata Knight Riders,Royal Challengers Bangalore,501255,2011-05-14,MV Boucher,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Kolkata Knight Riders,Royal Challengers Bangalore,501255,2011-05-14,YK Pathan,36,24,2.0,3.0,0,0,0,48.0,150.0,CK Langeveldt,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,501255,2011-05-14,AB de Villiers,13,14,2.0,0.0,0,0,0,19.0,92.85714285714286,0,0
+Royal Challengers Bangalore,Kolkata Knight Riders,501255,2011-05-14,CH Gayle,38,12,6.0,2.0,0,0,0,52.0,316.66666666666663,B Lee,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,501255,2011-05-14,KB Arun Karthik,1,2,0.0,0.0,0,0,0,5.0,50.0,Iqbal Abdulla,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,501255,2011-05-14,LA Pomersbach,16,15,2.0,0.0,0,0,0,22.0,106.66666666666669,JH Kallis,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,501255,2011-05-14,M Kaif,15,15,1.0,0.0,0,0,0,20.0,100.0,JD Unadkat,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,501255,2011-05-14,SS Tiwary,1,5,0.0,0.0,0,0,0,5.0,20.0,L Balaji,run out
+Royal Challengers Bangalore,Kolkata Knight Riders,501255,2011-05-14,V Kohli,15,16,2.0,0.0,0,0,0,21.0,93.75,JH Kallis,caught

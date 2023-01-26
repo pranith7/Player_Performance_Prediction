@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Pune Warriors,501250,2011-05-10,A Mishra,0,1,0.0,0.0,0,0,1,2.0,0.0,MR Marsh,caught
+Deccan Chargers,Pune Warriors,501250,2011-05-10,B Chipli,18,14,2.0,0.0,0,0,0,24.0,128.57142857142858,0,0
+Deccan Chargers,Pune Warriors,501250,2011-05-10,DB Ravi Teja,30,28,4.0,0.0,0,0,0,38.0,107.14285714285714,MR Marsh,bowled
+Deccan Chargers,Pune Warriors,501250,2011-05-10,DT Christian,10,11,1.0,0.0,0,0,0,15.0,90.9090909090909,Yuvraj Singh,lbw
+Deccan Chargers,Pune Warriors,501250,2011-05-10,DW Steyn,11,6,1.0,0.0,0,0,0,16.0,183.3333333333333,WD Parnell,caught
+Deccan Chargers,Pune Warriors,501250,2011-05-10,JP Duminy,30,30,1.0,0.0,0,0,0,35.0,100.0,MR Marsh,caught
+Deccan Chargers,Pune Warriors,501250,2011-05-10,KC Sangakkara,12,13,1.0,0.0,0,0,0,17.0,92.3076923076923,R Sharma,lbw
+Deccan Chargers,Pune Warriors,501250,2011-05-10,S Dhawan,24,17,1.0,2.0,0,0,0,33.0,141.1764705882353,Yuvraj Singh,caught
+Deccan Chargers,Pune Warriors,501250,2011-05-10,S Sohal,0,1,0.0,0.0,0,0,1,2.0,0.0,MR Marsh,caught
+Pune Warriors,Deccan Chargers,501250,2011-05-10,CJ Ferguson,15,9,3.0,0.0,0,0,0,22.0,166.66666666666669,0,0
+Pune Warriors,Deccan Chargers,501250,2011-05-10,JD Ryder,35,21,5.0,2.0,0,0,0,48.0,166.66666666666669,PP Ojha,bowled
+Pune Warriors,Deccan Chargers,501250,2011-05-10,MK Pandey,49,42,6.0,2.0,0,0,0,63.0,116.66666666666669,A Mishra,lbw
+Pune Warriors,Deccan Chargers,501250,2011-05-10,RV Uthappa,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,DT Christian,caught
+Pune Warriors,Deccan Chargers,501250,2011-05-10,SC Ganguly,32,32,3.0,1.0,0,0,0,41.0,100.0,0,0
+Pune Warriors,Deccan Chargers,501250,2011-05-10,Yuvraj Singh,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,DT Christian,bowled

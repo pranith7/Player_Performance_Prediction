@@ -1,0 +1,8 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Gujarat Lions,Kolkata Knight Riders,1082593,2017-04-07,AJ Finch,15,8,0.0,2.0,0,0,0,23.0,187.5,Kuldeep Yadav,caught
+Gujarat Lions,Kolkata Knight Riders,1082593,2017-04-07,BB McCullum,35,24,4.0,2.0,0,0,0,47.0,145.83333333333331,Kuldeep Yadav,lbw
+Gujarat Lions,Kolkata Knight Riders,1082593,2017-04-07,JJ Roy,14,13,3.0,0.0,0,0,0,21.0,107.6923076923077,PP Chawla,caught
+Gujarat Lions,Kolkata Knight Riders,1082593,2017-04-07,KD Karthik,47,25,6.0,2.0,0,0,0,61.0,188.0,TA Boult,caught
+Gujarat Lions,Kolkata Knight Riders,1082593,2017-04-07,SK Raina,68,52,7.0,0.0,1,0,0,87.0,130.76923076923077,0,0
+Kolkata Knight Riders,Gujarat Lions,1082593,2017-04-07,CA Lynn,93,46,6.0,8.0,1,0,0,127.0,202.17391304347828,0,0
+Kolkata Knight Riders,Gujarat Lions,1082593,2017-04-07,G Gambhir,76,50,12.0,0.0,1,0,0,100.0,152.0,0,0

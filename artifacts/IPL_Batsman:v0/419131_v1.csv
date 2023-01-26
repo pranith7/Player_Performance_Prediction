@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Kolkata Knight Riders,419131,2010-03-29,DA Warner,107,72,9.0,5.0,1,1,0,154.0,148.61111111111111,0,0
+Delhi Daredevils,Kolkata Knight Riders,419131,2010-03-29,G Gambhir,1,2,0.0,0.0,0,0,0,5.0,50.0,CK Langeveldt,lbw
+Delhi Daredevils,Kolkata Knight Riders,419131,2010-03-29,KD Karthik,0,1,0.0,0.0,0,0,1,2.0,0.0,I Sharma,bowled
+Delhi Daredevils,Kolkata Knight Riders,419131,2010-03-29,KM Jadhav,4,1,1.0,0.0,0,0,0,9.0,400.0,0,0
+Delhi Daredevils,Kolkata Knight Riders,419131,2010-03-29,PD Collingwood,53,45,3.0,2.0,1,0,0,72.0,117.7777777777778,CK Langeveldt,caught
+Delhi Daredevils,Kolkata Knight Riders,419131,2010-03-29,V Sehwag,8,3,2.0,0.0,0,0,0,14.0,266.66666666666663,CH Gayle,stumped
+Kolkata Knight Riders,Delhi Daredevils,419131,2010-03-29,AB Agarkar,17,13,1.0,0.0,0,0,0,22.0,130.76923076923077,PD Collingwood,caught and bowled
+Kolkata Knight Riders,Delhi Daredevils,419131,2010-03-29,AD Mathews,24,20,3.0,0.0,0,0,0,31.0,120.0,UT Yadav,bowled
+Kolkata Knight Riders,Delhi Daredevils,419131,2010-03-29,CH Gayle,30,22,2.0,2.0,0,0,0,40.0,136.36363636363637,R Bhatia,caught
+Kolkata Knight Riders,Delhi Daredevils,419131,2010-03-29,CK Langeveldt,0,1,0.0,0.0,0,0,1,2.0,0.0,AB McDonald,bowled
+Kolkata Knight Riders,Delhi Daredevils,419131,2010-03-29,DJ Hussey,29,33,2.0,1.0,0,0,0,37.0,87.87878787878788,UT Yadav,caught
+Kolkata Knight Riders,Delhi Daredevils,419131,2010-03-29,M Kartik,1,2,0.0,0.0,0,0,0,5.0,50.0,AB McDonald,run out
+Kolkata Knight Riders,Delhi Daredevils,419131,2010-03-29,MK Tiwary,0,3,0.0,0.0,0,0,1,2.0,0.0,AB McDonald,bowled
+Kolkata Knight Riders,Delhi Daredevils,419131,2010-03-29,Mandeep Singh,0,4,0.0,0.0,0,0,1,2.0,0.0,A Mishra,stumped
+Kolkata Knight Riders,Delhi Daredevils,419131,2010-03-29,SC Ganguly,5,11,1.0,0.0,0,0,0,10.0,45.45454545454545,DP Nannes,bowled
+Kolkata Knight Riders,Delhi Daredevils,419131,2010-03-29,WP Saha,20,17,2.0,0.0,0,0,0,26.0,117.64705882352942,0,0

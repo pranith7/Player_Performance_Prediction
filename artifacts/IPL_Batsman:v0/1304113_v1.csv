@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Gujarat Titans,Royal Challengers Bangalore,1304113,2022-05-19,DA Miller,34,26,0.0,3.0,0,0,0,44.0,130.76923076923077,PWH de Silva,caught and bowled
+Gujarat Titans,Royal Challengers Bangalore,1304113,2022-05-19,HH Pandya,62,47,4.0,3.0,1,0,0,84.0,131.91489361702128,0,0
+Gujarat Titans,Royal Challengers Bangalore,1304113,2022-05-19,MS Wade,16,13,2.0,1.0,0,0,0,24.0,123.07692307692308,GJ Maxwell,lbw
+Gujarat Titans,Royal Challengers Bangalore,1304113,2022-05-19,R Tewatia,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,JR Hazlewood,caught
+Gujarat Titans,Royal Challengers Bangalore,1304113,2022-05-19,Rashid Khan,19,6,1.0,2.0,0,0,0,28.0,316.66666666666663,0,0
+Gujarat Titans,Royal Challengers Bangalore,1304113,2022-05-19,Shubman Gill,1,4,0.0,0.0,0,0,0,5.0,25.0,JR Hazlewood,caught
+Gujarat Titans,Royal Challengers Bangalore,1304113,2022-05-19,WP Saha,31,23,4.0,1.0,0,0,0,41.0,134.7826086956522,HV Patel,run out
+Royal Challengers Bangalore,Gujarat Titans,1304113,2022-05-19,F du Plessis,44,38,5.0,0.0,0,0,0,53.0,115.78947368421052,Rashid Khan,caught
+Royal Challengers Bangalore,Gujarat Titans,1304113,2022-05-19,GJ Maxwell,40,19,5.0,2.0,0,0,0,53.0,210.52631578947367,0,0
+Royal Challengers Bangalore,Gujarat Titans,1304113,2022-05-19,KD Karthik,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Royal Challengers Bangalore,Gujarat Titans,1304113,2022-05-19,V Kohli,73,56,8.0,2.0,1,0,0,97.0,130.35714285714286,Rashid Khan,stumped

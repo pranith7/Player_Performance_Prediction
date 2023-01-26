@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Gujarat Lions,980945,2016-04-27,CH Morris,82,33,4.0,8.0,1,0,0,114.0,248.4848484848485,0,0
+Delhi Daredevils,Gujarat Lions,980945,2016-04-27,JP Duminy,48,43,3.0,1.0,0,0,0,57.0,111.6279069767442,DJ Bravo,caught and bowled
+Delhi Daredevils,Gujarat Lions,980945,2016-04-27,KK Nair,9,7,1.0,0.0,0,0,0,14.0,128.57142857142858,DS Kulkarni,caught
+Delhi Daredevils,Gujarat Lions,980945,2016-04-27,P Negi,3,4,0.0,0.0,0,0,0,7.0,75.0,0,0
+Delhi Daredevils,Gujarat Lions,980945,2016-04-27,Q de Kock,5,11,1.0,0.0,0,0,0,10.0,45.45454545454545,DS Kulkarni,caught
+Delhi Daredevils,Gujarat Lions,980945,2016-04-27,RR Pant,20,17,2.0,0.0,0,0,0,26.0,117.64705882352942,JP Faulkner,caught
+Delhi Daredevils,Gujarat Lions,980945,2016-04-27,SV Samson,1,6,0.0,0.0,0,0,0,5.0,16.666666666666664,DS Kulkarni,caught
+Gujarat Lions,Delhi Daredevils,980945,2016-04-27,BB McCullum,60,36,6.0,3.0,1,0,0,84.0,166.66666666666669,CH Morris,bowled
+Gujarat Lions,Delhi Daredevils,980945,2016-04-27,DJ Bravo,7,7,0.0,0.0,0,0,0,11.0,100.0,0,0
+Gujarat Lions,Delhi Daredevils,980945,2016-04-27,DR Smith,53,30,5.0,3.0,1,0,0,76.0,176.66666666666666,Imran Tahir,lbw
+Gujarat Lions,Delhi Daredevils,980945,2016-04-27,Ishan Kishan,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,Imran Tahir,caught
+Gujarat Lions,Delhi Daredevils,980945,2016-04-27,JP Faulkner,22,13,2.0,0.0,0,0,0,28.0,169.23076923076923,0,0
+Gujarat Lions,Delhi Daredevils,980945,2016-04-27,KD Karthik,19,17,1.0,1.0,0,0,0,26.0,111.76470588235294,Imran Tahir,caught
+Gujarat Lions,Delhi Daredevils,980945,2016-04-27,RA Jadeja,4,7,0.0,0.0,0,0,0,8.0,57.14285714285714,JP Duminy,caught
+Gujarat Lions,Delhi Daredevils,980945,2016-04-27,SK Raina,2,5,0.0,0.0,0,0,0,6.0,40.0,CH Morris,caught

@@ -1,0 +1,20 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Rajasthan Royals,1216504,2020-09-30,AD Russell,24,15,0.0,3.0,0,0,0,34.0,160.0,AS Rajpoot,caught
+Kolkata Knight Riders,Rajasthan Royals,1216504,2020-09-30,EJG Morgan,34,28,1.0,2.0,0,0,0,43.0,121.42857142857142,0,0
+Kolkata Knight Riders,Rajasthan Royals,1216504,2020-09-30,KD Karthik,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,JC Archer,caught
+Kolkata Knight Riders,Rajasthan Royals,1216504,2020-09-30,KL Nagarkoti,8,5,1.0,0.0,0,0,0,13.0,160.0,0,0
+Kolkata Knight Riders,Rajasthan Royals,1216504,2020-09-30,N Rana,22,17,2.0,1.0,0,0,0,30.0,129.41176470588235,R Tewatia,caught
+Kolkata Knight Riders,Rajasthan Royals,1216504,2020-09-30,PJ Cummins,12,10,1.0,0.0,0,0,0,17.0,120.0,TK Curran,caught
+Kolkata Knight Riders,Rajasthan Royals,1216504,2020-09-30,SP Narine,15,15,2.0,1.0,0,0,0,23.0,100.0,JD Unadkat,bowled
+Kolkata Knight Riders,Rajasthan Royals,1216504,2020-09-30,Shubman Gill,47,35,5.0,1.0,0,0,0,58.0,134.28571428571428,JC Archer,caught and bowled
+Rajasthan Royals,Kolkata Knight Riders,1216504,2020-09-30,AS Rajpoot,7,5,0.0,1.0,0,0,0,13.0,140.0,0,0
+Rajasthan Royals,Kolkata Knight Riders,1216504,2020-09-30,JC Archer,6,4,0.0,1.0,0,0,0,12.0,150.0,CV Varun,caught
+Rajasthan Royals,Kolkata Knight Riders,1216504,2020-09-30,JC Buttler,21,17,1.0,2.0,0,0,0,30.0,123.52941176470588,Shivam Mavi,caught
+Rajasthan Royals,Kolkata Knight Riders,1216504,2020-09-30,JD Unadkat,9,13,0.0,0.0,0,0,0,13.0,69.23076923076923,Kuldeep Yadav,caught
+Rajasthan Royals,Kolkata Knight Riders,1216504,2020-09-30,R Parag,1,6,0.0,0.0,0,0,0,5.0,16.666666666666664,KL Nagarkoti,caught
+Rajasthan Royals,Kolkata Knight Riders,1216504,2020-09-30,R Tewatia,14,10,0.0,1.0,0,0,0,20.0,140.0,CV Varun,bowled
+Rajasthan Royals,Kolkata Knight Riders,1216504,2020-09-30,RV Uthappa,2,7,0.0,0.0,0,0,0,6.0,28.57142857142857,KL Nagarkoti,caught
+Rajasthan Royals,Kolkata Knight Riders,1216504,2020-09-30,S Gopal,5,7,0.0,0.0,0,0,0,9.0,71.42857142857143,SP Narine,caught
+Rajasthan Royals,Kolkata Knight Riders,1216504,2020-09-30,SPD Smith,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,PJ Cummins,caught
+Rajasthan Royals,Kolkata Knight Riders,1216504,2020-09-30,SV Samson,8,9,1.0,0.0,0,0,0,13.0,88.88888888888889,Shivam Mavi,caught
+Rajasthan Royals,Kolkata Knight Riders,1216504,2020-09-30,TK Curran,54,36,2.0,3.0,1,0,0,74.0,150.0,0,0

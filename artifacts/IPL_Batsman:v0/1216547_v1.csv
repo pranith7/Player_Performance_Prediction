@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Royal Challengers Bangalore,1216547,2020-09-28,HH Pandya,16,15,0.0,1.0,0,0,0,22.0,106.66666666666669,A Zampa,caught
+Mumbai Indians,Royal Challengers Bangalore,1216547,2020-09-28,Ishan Kishan,99,60,2.0,9.0,1,0,0,131.0,165.0,I Udana,caught
+Mumbai Indians,Royal Challengers Bangalore,1216547,2020-09-28,KA Pollard,65,30,4.0,5.0,1,0,0,91.0,216.66666666666663,NA Saini,caught
+Mumbai Indians,Royal Challengers Bangalore,1216547,2020-09-28,Q de Kock,14,16,1.0,0.0,0,0,0,19.0,87.5,YS Chahal,caught
+Mumbai Indians,Royal Challengers Bangalore,1216547,2020-09-28,RG Sharma,8,8,0.0,1.0,0,0,0,14.0,100.0,Washington Sundar,caught
+Mumbai Indians,Royal Challengers Bangalore,1216547,2020-09-28,SA Yadav,0,2,0.0,0.0,0,0,1,2.0,0.0,I Udana,caught
+Royal Challengers Bangalore,Mumbai Indians,1216547,2020-09-28,AB de Villiers,61,28,5.0,4.0,1,0,0,86.0,217.85714285714283,0,0
+Royal Challengers Bangalore,Mumbai Indians,1216547,2020-09-28,AJ Finch,52,36,7.0,1.0,1,0,0,73.0,144.44444444444443,TA Boult,caught
+Royal Challengers Bangalore,Mumbai Indians,1216547,2020-09-28,D Padikkal,54,42,5.0,2.0,1,0,0,75.0,128.57142857142858,TA Boult,caught
+Royal Challengers Bangalore,Mumbai Indians,1216547,2020-09-28,S Dube,27,10,1.0,3.0,0,0,0,38.0,270.0,0,0
+Royal Challengers Bangalore,Mumbai Indians,1216547,2020-09-28,V Kohli,8,13,1.0,0.0,0,0,0,13.0,61.53846153846154,RD Chahar,caught

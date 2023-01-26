@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Rajasthan Royals,Royal Challengers Bangalore,733999,2014-05-11,AM Rahane,24,23,3.0,0.0,0,0,0,31.0,104.34782608695652,YS Chahal,caught
+Rajasthan Royals,Royal Challengers Bangalore,733999,2014-05-11,JP Faulkner,41,19,3.0,3.0,0,0,0,54.0,215.7894736842105,0,0
+Rajasthan Royals,Royal Challengers Bangalore,733999,2014-05-11,KK Nair,56,39,8.0,0.0,1,0,0,76.0,143.5897435897436,Yuvraj Singh,bowled
+Rajasthan Royals,Royal Challengers Bangalore,733999,2014-05-11,SPD Smith,48,22,4.0,4.0,0,0,0,64.0,218.18181818181816,0,0
+Rajasthan Royals,Royal Challengers Bangalore,733999,2014-05-11,SR Watson,1,5,0.0,0.0,0,0,0,5.0,20.0,Yuvraj Singh,bowled
+Rajasthan Royals,Royal Challengers Bangalore,733999,2014-05-11,STR Binny,1,2,0.0,0.0,0,0,0,5.0,50.0,Yuvraj Singh,caught
+Rajasthan Royals,Royal Challengers Bangalore,733999,2014-05-11,SV Samson,13,8,1.0,1.0,0,0,0,20.0,162.5,Yuvraj Singh,caught and bowled
+Royal Challengers Bangalore,Rajasthan Royals,733999,2014-05-11,AB de Villiers,58,32,1.0,5.0,1,0,0,81.0,181.25,JP Faulkner,caught
+Royal Challengers Bangalore,Rajasthan Royals,733999,2014-05-11,CH Gayle,19,25,3.0,0.0,0,0,0,26.0,76.0,PV Tambe,caught
+Royal Challengers Bangalore,Rajasthan Royals,733999,2014-05-11,JA Morkel,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Royal Challengers Bangalore,Rajasthan Royals,733999,2014-05-11,PA Patel,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Royal Challengers Bangalore,Rajasthan Royals,733999,2014-05-11,V Kohli,4,9,1.0,0.0,0,0,0,9.0,44.44444444444444,KW Richardson,caught
+Royal Challengers Bangalore,Rajasthan Royals,733999,2014-05-11,VH Zol,16,14,3.0,0.0,0,0,0,23.0,114.28571428571428,R Tewatia,caught
+Royal Challengers Bangalore,Rajasthan Royals,733999,2014-05-11,Yuvraj Singh,83,42,7.0,7.0,1,0,0,116.0,197.6190476190476,KW Richardson,lbw

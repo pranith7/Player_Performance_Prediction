@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Kings XI Punjab,419156,2010-04-16,A Symonds,4,7,0.0,0.0,0,0,0,8.0,57.14285714285714,J Theron,bowled
+Deccan Chargers,Kings XI Punjab,419156,2010-04-16,AC Gilchrist,9,5,2.0,0.0,0,0,0,15.0,180.0,IK Pathan,caught
+Deccan Chargers,Kings XI Punjab,419156,2010-04-16,B Sumanth,6,3,1.0,0.0,0,0,0,11.0,200.0,0,0
+Deccan Chargers,Kings XI Punjab,419156,2010-04-16,MD Mishra,20,23,4.0,0.0,0,0,0,28.0,86.95652173913044,VS Malik,lbw
+Deccan Chargers,Kings XI Punjab,419156,2010-04-16,MR Marsh,15,12,1.0,1.0,0,0,0,22.0,125.0,Yuvraj Singh,caught
+Deccan Chargers,Kings XI Punjab,419156,2010-04-16,RG Sharma,68,39,6.0,3.0,1,0,0,92.0,174.35897435897436,0,0
+Deccan Chargers,Kings XI Punjab,419156,2010-04-16,TL Suman,43,33,3.0,3.0,0,0,0,56.0,130.3030303030303,PP Chawla,caught
+Kings XI Punjab,Deccan Chargers,419156,2010-04-16,DPMD Jayawardene,93,65,13.0,2.0,1,0,0,122.0,143.07692307692307,0,0
+Kings XI Punjab,Deccan Chargers,419156,2010-04-16,IK Pathan,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Kings XI Punjab,Deccan Chargers,419156,2010-04-16,KC Sangakkara,52,37,9.0,1.0,1,0,0,75.0,140.54054054054055,R Sharma,caught
+Kings XI Punjab,Deccan Chargers,419156,2010-04-16,SE Marsh,0,1,0.0,0.0,0,0,1,2.0,0.0,RJ Harris,caught
+Kings XI Punjab,Deccan Chargers,419156,2010-04-16,Yuvraj Singh,20,21,1.0,1.0,0,0,0,27.0,95.23809523809524,RP Singh,caught

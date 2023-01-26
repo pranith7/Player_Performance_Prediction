@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Royal Challengers Bangalore,501271,2011-05-28,DJ Bravo,6,1,0.0,1.0,0,0,0,12.0,600.0,0,0
+Chennai Super Kings,Royal Challengers Bangalore,501271,2011-05-28,JA Morkel,2,4,0.0,0.0,0,0,0,6.0,50.0,CH Gayle,caught
+Chennai Super Kings,Royal Challengers Bangalore,501271,2011-05-28,M Vijay,95,53,4.0,6.0,1,0,0,123.0,179.24528301886792,S Aravind,caught
+Chennai Super Kings,Royal Challengers Bangalore,501271,2011-05-28,MEK Hussey,63,45,3.0,3.0,1,0,0,84.0,140.0,J Syed Mohammad,caught
+Chennai Super Kings,Royal Challengers Bangalore,501271,2011-05-28,MS Dhoni,22,13,0.0,2.0,0,0,0,30.0,169.23076923076923,S Aravind,caught
+Chennai Super Kings,Royal Challengers Bangalore,501271,2011-05-28,SK Raina,8,6,0.0,1.0,0,0,0,14.0,133.33333333333331,CH Gayle,bowled
+Royal Challengers Bangalore,Chennai Super Kings,501271,2011-05-28,A Mithun,11,8,2.0,0.0,0,0,0,17.0,137.5,DJ Bravo,caught
+Royal Challengers Bangalore,Chennai Super Kings,501271,2011-05-28,AB de Villiers,18,12,3.0,0.0,0,0,0,25.0,150.0,SB Jakati,lbw
+Royal Challengers Bangalore,Chennai Super Kings,501271,2011-05-28,CH Gayle,0,3,0.0,0.0,0,0,1,2.0,0.0,R Ashwin,caught
+Royal Challengers Bangalore,Chennai Super Kings,501271,2011-05-28,DL Vettori,0,1,0.0,0.0,0,0,1,2.0,0.0,R Ashwin,caught and bowled
+Royal Challengers Bangalore,Chennai Super Kings,501271,2011-05-28,J Syed Mohammad,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,0,0
+Royal Challengers Bangalore,Chennai Super Kings,501271,2011-05-28,LA Pomersbach,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,SB Jakati,caught and bowled
+Royal Challengers Bangalore,Chennai Super Kings,501271,2011-05-28,MA Agarwal,10,5,2.0,0.0,0,0,0,16.0,200.0,R Ashwin,bowled
+Royal Challengers Bangalore,Chennai Super Kings,501271,2011-05-28,SS Tiwary,42,34,1.0,3.0,0,0,0,53.0,123.52941176470588,0,0
+Royal Challengers Bangalore,Chennai Super Kings,501271,2011-05-28,V Kohli,35,32,1.0,1.0,0,0,0,42.0,109.375,SK Raina,lbw
+Royal Challengers Bangalore,Chennai Super Kings,501271,2011-05-28,Z Khan,21,21,2.0,0.0,0,0,0,27.0,100.0,DE Bollinger,caught

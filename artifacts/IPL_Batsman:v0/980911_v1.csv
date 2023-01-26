@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Gujarat Lions,Rising Pune Supergiants,980911,2016-04-14,AJ Finch,50,37,7.0,2.0,1,0,0,73.0,135.13513513513513,M Ashwin,caught
+Gujarat Lions,Rising Pune Supergiants,980911,2016-04-14,BB McCullum,49,31,3.0,3.0,0,0,0,62.0,158.06451612903226,I Sharma,caught
+Gujarat Lions,Rising Pune Supergiants,980911,2016-04-14,DJ Bravo,22,10,3.0,1.0,0,0,0,31.0,220.00000000000003,0,0
+Gujarat Lions,Rising Pune Supergiants,980911,2016-04-14,RA Jadeja,4,10,0.0,0.0,0,0,0,8.0,40.0,0,0
+Gujarat Lions,Rising Pune Supergiants,980911,2016-04-14,SK Raina,24,25,1.0,0.0,0,0,0,29.0,96.0,M Ashwin,stumped
+Rising Pune Supergiants,Gujarat Lions,980911,2016-04-14,AM Rahane,21,17,4.0,0.0,0,0,0,29.0,123.52941176470588,PV Tambe,lbw
+Rising Pune Supergiants,Gujarat Lions,980911,2016-04-14,F du Plessis,69,43,5.0,4.0,1,0,0,94.0,160.46511627906978,PV Tambe,stumped
+Rising Pune Supergiants,Gujarat Lions,980911,2016-04-14,KP Pietersen,37,31,2.0,1.0,0,0,0,45.0,119.35483870967742,DJ Bravo,bowled
+Rising Pune Supergiants,Gujarat Lions,980911,2016-04-14,MR Marsh,7,11,0.0,0.0,0,0,0,11.0,63.63636363636363,RA Jadeja,bowled
+Rising Pune Supergiants,Gujarat Lions,980911,2016-04-14,MS Dhoni,22,10,2.0,1.0,0,0,0,30.0,220.00000000000003,0,0
+Rising Pune Supergiants,Gujarat Lions,980911,2016-04-14,R Bhatia,0,2,0.0,0.0,0,0,1,2.0,0.0,0,0
+Rising Pune Supergiants,Gujarat Lions,980911,2016-04-14,SPD Smith,5,6,0.0,0.0,0,0,0,9.0,83.33333333333334,RA Jadeja,caught

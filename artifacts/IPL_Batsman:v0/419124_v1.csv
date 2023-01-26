@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Rajasthan Royals,419124,2010-03-24,DPMD Jayawardene,23,22,0.0,1.0,0,0,0,29.0,104.54545454545456,SK Trivedi,caught
+Kings XI Punjab,Rajasthan Royals,419124,2010-03-24,IK Pathan,1,1,0.0,0.0,0,0,0,5.0,100.0,MM Patel,run out
+Kings XI Punjab,Rajasthan Royals,419124,2010-03-24,J Theron,2,4,0.0,0.0,0,0,0,6.0,50.0,SW Tait,caught
+Kings XI Punjab,Rajasthan Royals,419124,2010-03-24,KC Sangakkara,29,14,6.0,0.0,0,0,0,39.0,207.1428571428572,SW Tait,caught
+Kings XI Punjab,Rajasthan Royals,419124,2010-03-24,M Kaif,8,8,1.0,0.0,0,0,0,13.0,100.0,YK Pathan,lbw
+Kings XI Punjab,Rajasthan Royals,419124,2010-03-24,MS Bisla,35,19,4.0,2.0,0,0,0,47.0,184.21052631578948,SK Warne,caught
+Kings XI Punjab,Rajasthan Royals,419124,2010-03-24,PP Chawla,8,8,1.0,0.0,0,0,0,13.0,100.0,YK Pathan,caught
+Kings XI Punjab,Rajasthan Royals,419124,2010-03-24,RS Bopara,25,26,1.0,0.0,0,0,0,30.0,96.15384615384616,MM Patel,caught
+Kings XI Punjab,Rajasthan Royals,419124,2010-03-24,S Sreesanth,0,2,0.0,0.0,0,0,1,2.0,0.0,0,0
+Kings XI Punjab,Rajasthan Royals,419124,2010-03-24,SJ Srivastava,0,1,0.0,0.0,0,0,1,2.0,0.0,SW Tait,bowled
+Kings XI Punjab,Rajasthan Royals,419124,2010-03-24,Yuvraj Singh,15,14,0.0,1.0,0,0,0,21.0,107.14285714285714,SK Trivedi,caught
+Rajasthan Royals,Kings XI Punjab,419124,2010-03-24,AC Voges,45,24,5.0,1.0,0,0,0,56.0,187.5,0,0
+Rajasthan Royals,Kings XI Punjab,419124,2010-03-24,FY Fazal,45,40,5.0,1.0,0,0,0,56.0,112.5,IK Pathan,run out
+Rajasthan Royals,Kings XI Punjab,419124,2010-03-24,MJ Lumb,41,30,7.0,0.0,0,0,0,52.0,136.66666666666666,PP Chawla,stumped
+Rajasthan Royals,Kings XI Punjab,419124,2010-03-24,NV Ojha,13,10,3.0,0.0,0,0,0,20.0,130.0,S Sreesanth,caught
+Rajasthan Royals,Kings XI Punjab,419124,2010-03-24,P Dogra,1,1,0.0,0.0,0,0,0,5.0,100.0,IK Pathan,run out
+Rajasthan Royals,Kings XI Punjab,419124,2010-03-24,YK Pathan,28,22,1.0,1.0,0,0,0,35.0,127.27272727272728,SJ Srivastava,caught

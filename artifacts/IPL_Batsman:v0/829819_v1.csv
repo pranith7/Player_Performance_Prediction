@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Rajasthan Royals,Royal Challengers Bangalore,829819,2015-05-20,AM Rahane,42,40,4.0,0.0,0,0,0,50.0,105.0,YS Chahal,caught
+Rajasthan Royals,Royal Challengers Bangalore,829819,2015-05-20,Ankit Sharma,7,5,1.0,0.0,0,0,0,12.0,140.0,0,0
+Rajasthan Royals,Royal Challengers Bangalore,829819,2015-05-20,CH Morris,0,3,0.0,0.0,0,0,1,2.0,0.0,MA Starc,caught
+Rajasthan Royals,Royal Challengers Bangalore,829819,2015-05-20,DJ Hooda,11,14,0.0,0.0,0,0,0,15.0,78.57142857142857,D Wiese,caught
+Rajasthan Royals,Royal Challengers Bangalore,829819,2015-05-20,DS Kulkarni,3,10,0.0,0.0,0,0,0,7.0,30.0,YS Chahal,bowled
+Rajasthan Royals,Royal Challengers Bangalore,829819,2015-05-20,JP Faulkner,4,5,1.0,0.0,0,0,0,9.0,80.0,S Aravind,caught and bowled
+Rajasthan Royals,Royal Challengers Bangalore,829819,2015-05-20,KK Nair,12,13,2.0,0.0,0,0,0,18.0,92.3076923076923,HV Patel,caught
+Rajasthan Royals,Royal Challengers Bangalore,829819,2015-05-20,SPD Smith,12,13,1.0,0.0,0,0,0,17.0,92.3076923076923,D Wiese,caught
+Rajasthan Royals,Royal Challengers Bangalore,829819,2015-05-20,SR Watson,10,5,2.0,0.0,0,0,0,16.0,200.0,S Aravind,caught
+Rajasthan Royals,Royal Challengers Bangalore,829819,2015-05-20,STR Binny,0,1,0.0,0.0,0,0,1,2.0,0.0,S Aravind,run out
+Rajasthan Royals,Royal Challengers Bangalore,829819,2015-05-20,SV Samson,5,8,0.0,0.0,0,0,0,9.0,62.5,HV Patel,caught
+Royal Challengers Bangalore,Rajasthan Royals,829819,2015-05-20,AB de Villiers,66,40,4.0,4.0,1,0,0,90.0,165.0,JP Faulkner,run out
+Royal Challengers Bangalore,Rajasthan Royals,829819,2015-05-20,CH Gayle,27,28,4.0,1.0,0,0,0,37.0,96.42857142857144,DS Kulkarni,bowled
+Royal Challengers Bangalore,Rajasthan Royals,829819,2015-05-20,KD Karthik,8,3,0.0,1.0,0,0,0,14.0,266.66666666666663,CH Morris,caught
+Royal Challengers Bangalore,Rajasthan Royals,829819,2015-05-20,Mandeep Singh,54,35,7.0,2.0,1,0,0,77.0,154.2857142857143,0,0
+Royal Challengers Bangalore,Rajasthan Royals,829819,2015-05-20,SN Khan,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Royal Challengers Bangalore,Rajasthan Royals,829819,2015-05-20,V Kohli,12,18,0.0,0.0,0,0,0,16.0,66.66666666666666,DS Kulkarni,caught and bowled

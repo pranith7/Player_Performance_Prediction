@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Sunrisers Hyderabad,829815,2015-05-17,LMP Simmons,48,47,4.0,2.0,0,0,0,60.0,102.12765957446808,KV Sharma,caught
+Mumbai Indians,Sunrisers Hyderabad,829815,2015-05-17,PA Patel,51,39,9.0,0.0,1,0,0,72.0,130.76923076923077,0,0
+Mumbai Indians,Sunrisers Hyderabad,829815,2015-05-17,RG Sharma,7,2,0.0,1.0,0,0,0,13.0,350.0,0,0
+Sunrisers Hyderabad,Mumbai Indians,829815,2015-05-17,A Ashish Reddy,17,15,0.0,1.0,0,0,0,23.0,113.33333333333331,KA Pollard,caught
+Sunrisers Hyderabad,Mumbai Indians,829815,2015-05-17,B Kumar,0,2,0.0,0.0,0,0,1,2.0,0.0,MJ McClenaghan,caught
+Sunrisers Hyderabad,Mumbai Indians,829815,2015-05-17,DA Warner,6,5,1.0,0.0,0,0,0,11.0,120.0,MJ McClenaghan,caught
+Sunrisers Hyderabad,Mumbai Indians,829815,2015-05-17,DW Steyn,19,11,3.0,0.0,0,0,0,26.0,172.72727272727272,0,0
+Sunrisers Hyderabad,Mumbai Indians,829815,2015-05-17,EJG Morgan,9,15,1.0,0.0,0,0,0,14.0,60.0,MJ McClenaghan,caught
+Sunrisers Hyderabad,Mumbai Indians,829815,2015-05-17,KL Rahul,25,26,2.0,0.0,0,0,0,31.0,96.15384615384616,Harbhajan Singh,bowled
+Sunrisers Hyderabad,Mumbai Indians,829815,2015-05-17,KV Sharma,15,21,0.0,0.0,0,0,0,19.0,71.42857142857143,SL Malinga,caught
+Sunrisers Hyderabad,Mumbai Indians,829815,2015-05-17,MC Henriques,11,20,1.0,0.0,0,0,0,16.0,55.00000000000001,J Suchith,stumped
+Sunrisers Hyderabad,Mumbai Indians,829815,2015-05-17,NV Ojha,0,1,0.0,0.0,0,0,1,2.0,0.0,J Suchith,caught
+Sunrisers Hyderabad,Mumbai Indians,829815,2015-05-17,P Kumar,4,6,0.0,0.0,0,0,0,8.0,66.66666666666666,KA Pollard,run out
+Sunrisers Hyderabad,Mumbai Indians,829815,2015-05-17,S Dhawan,1,2,0.0,0.0,0,0,0,5.0,50.0,SL Malinga,bowled

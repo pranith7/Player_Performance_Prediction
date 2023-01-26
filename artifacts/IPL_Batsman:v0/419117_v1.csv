@@ -1,0 +1,21 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Kings XI Punjab,419117,2010-03-19,A Symonds,53,38,3.0,3.0,1,0,0,74.0,139.4736842105263,Yuvraj Singh,caught
+Deccan Chargers,Kings XI Punjab,419117,2010-03-19,AC Gilchrist,33,13,4.0,2.0,0,0,0,45.0,253.84615384615384,SJ Srivastava,caught
+Deccan Chargers,Kings XI Punjab,419117,2010-03-19,Anirudh Singh,0,1,0.0,0.0,0,0,1,2.0,0.0,Bipul Sharma,caught
+Deccan Chargers,Kings XI Punjab,419117,2010-03-19,HH Gibbs,23,23,2.0,0.0,0,0,0,29.0,100.0,Yuvraj Singh,bowled
+Deccan Chargers,Kings XI Punjab,419117,2010-03-19,Jaskaran Singh,3,3,0.0,0.0,0,0,0,7.0,100.0,0,0
+Deccan Chargers,Kings XI Punjab,419117,2010-03-19,RG Sharma,1,2,0.0,0.0,0,0,0,5.0,50.0,Yuvraj Singh,run out
+Deccan Chargers,Kings XI Punjab,419117,2010-03-19,RP Singh,4,2,0.0,0.0,0,0,0,8.0,200.0,0,0
+Deccan Chargers,Kings XI Punjab,419117,2010-03-19,TL Suman,26,22,2.0,1.0,0,0,0,34.0,118.1818181818182,S Sreesanth,run out
+Deccan Chargers,Kings XI Punjab,419117,2010-03-19,VVS Laxman,10,7,1.0,0.0,0,0,0,15.0,142.85714285714286,S Sreesanth,retired hurt
+Deccan Chargers,Kings XI Punjab,419117,2010-03-19,WPUJC Vaas,16,10,1.0,1.0,0,0,0,23.0,160.0,IK Pathan,caught
+Kings XI Punjab,Deccan Chargers,419117,2010-03-19,AB Barath,7,10,1.0,0.0,0,0,0,12.0,70.0,PP Ojha,caught
+Kings XI Punjab,Deccan Chargers,419117,2010-03-19,Bipul Sharma,8,6,1.0,0.0,0,0,0,13.0,133.33333333333331,0,0
+Kings XI Punjab,Deccan Chargers,419117,2010-03-19,DPMD Jayawardene,14,9,3.0,0.0,0,0,0,21.0,155.55555555555557,A Symonds,bowled
+Kings XI Punjab,Deccan Chargers,419117,2010-03-19,IK Pathan,60,30,3.0,5.0,1,0,0,85.0,200.0,Jaskaran Singh,caught
+Kings XI Punjab,Deccan Chargers,419117,2010-03-19,KC Sangakkara,0,3,0.0,0.0,0,0,1,2.0,0.0,WPUJC Vaas,bowled
+Kings XI Punjab,Deccan Chargers,419117,2010-03-19,MS Bisla,0,7,0.0,0.0,0,0,1,2.0,0.0,WPUJC Vaas,run out
+Kings XI Punjab,Deccan Chargers,419117,2010-03-19,PP Chawla,9,13,1.0,0.0,0,0,0,14.0,69.23076923076923,RP Singh,caught
+Kings XI Punjab,Deccan Chargers,419117,2010-03-19,RS Bopara,38,33,5.0,0.0,0,0,0,47.0,115.15151515151516,RG Sharma,caught
+Kings XI Punjab,Deccan Chargers,419117,2010-03-19,S Sreesanth,12,5,3.0,0.0,0,0,0,19.0,240.0,0,0
+Kings XI Punjab,Deccan Chargers,419117,2010-03-19,Yuvraj Singh,4,6,1.0,0.0,0,0,0,9.0,66.66666666666666,WPUJC Vaas,caught

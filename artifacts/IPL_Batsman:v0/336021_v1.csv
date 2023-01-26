@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Mumbai Indians,336021,2008-05-16,A Chopra,1,4,0.0,0.0,0,0,0,5.0,25.0,SM Pollock,run out
+Kolkata Knight Riders,Mumbai Indians,336021,2008-05-16,AB Agarkar,15,14,2.0,0.0,0,0,0,21.0,107.14285714285714,DJ Bravo,caught
+Kolkata Knight Riders,Mumbai Indians,336021,2008-05-16,AB Dinda,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Kolkata Knight Riders,Mumbai Indians,336021,2008-05-16,DJ Hussey,2,9,0.0,0.0,0,0,0,6.0,22.22222222222222,SM Pollock,caught
+Kolkata Knight Riders,Mumbai Indians,336021,2008-05-16,I Sharma,4,5,1.0,0.0,0,0,0,9.0,80.0,DJ Thornely,caught and bowled
+Kolkata Knight Riders,Mumbai Indians,336021,2008-05-16,LR Shukla,0,4,0.0,0.0,0,0,1,2.0,0.0,RR Raje,bowled
+Kolkata Knight Riders,Mumbai Indians,336021,2008-05-16,Mohammad Hafeez,5,12,1.0,0.0,0,0,0,10.0,41.66666666666667,SM Pollock,caught
+Kolkata Knight Riders,Mumbai Indians,336021,2008-05-16,SC Ganguly,15,20,2.0,0.0,0,0,0,21.0,75.0,DJ Thornely,caught
+Kolkata Knight Riders,Mumbai Indians,336021,2008-05-16,Salman Butt,13,15,1.0,1.0,0,0,0,20.0,86.66666666666667,SM Pollock,caught
+Kolkata Knight Riders,Mumbai Indians,336021,2008-05-16,Shoaib Akhtar,2,8,0.0,0.0,0,0,0,6.0,25.0,RR Raje,caught
+Kolkata Knight Riders,Mumbai Indians,336021,2008-05-16,WP Saha,1,6,0.0,0.0,0,0,0,5.0,16.666666666666664,DJ Bravo,caught
+Mumbai Indians,Kolkata Knight Riders,336021,2008-05-16,DJ Thornely,1,6,0.0,0.0,0,0,0,5.0,16.666666666666664,0,0
+Mumbai Indians,Kolkata Knight Riders,336021,2008-05-16,RV Uthappa,9,8,2.0,0.0,0,0,0,15.0,112.5,I Sharma,caught
+Mumbai Indians,Kolkata Knight Riders,336021,2008-05-16,SR Tendulkar,0,3,0.0,0.0,0,0,1,2.0,0.0,Shoaib Akhtar,caught
+Mumbai Indians,Kolkata Knight Riders,336021,2008-05-16,ST Jayasuriya,48,21,6.0,3.0,0,0,0,64.0,228.57142857142856,0,0

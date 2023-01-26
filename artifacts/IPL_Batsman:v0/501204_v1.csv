@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Rajasthan Royals,501204,2011-04-12,AJ Finch,11,16,1.0,1.0,0,0,0,18.0,68.75,SW Tait,caught
+Delhi Daredevils,Rajasthan Royals,501204,2011-04-12,DA Warner,54,44,6.0,1.0,1,0,0,74.0,122.72727272727272,A Singh,caught
+Delhi Daredevils,Rajasthan Royals,501204,2011-04-12,IK Pathan,9,6,2.0,0.0,0,0,0,15.0,150.0,0,0
+Delhi Daredevils,Rajasthan Royals,501204,2011-04-12,NV Ojha,0,2,0.0,0.0,0,0,1,2.0,0.0,SK Warne,caught
+Delhi Daredevils,Rajasthan Royals,501204,2011-04-12,RE van der Merwe,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,0,0
+Delhi Daredevils,Rajasthan Royals,501204,2011-04-12,UBT Chand,2,10,0.0,0.0,0,0,0,6.0,20.0,SK Warne,caught
+Delhi Daredevils,Rajasthan Royals,501204,2011-04-12,V Sehwag,4,2,1.0,0.0,0,0,0,9.0,200.0,SW Tait,caught
+Delhi Daredevils,Rajasthan Royals,501204,2011-04-12,Y Venugopal Rao,60,41,4.0,4.0,1,0,0,84.0,146.34146341463415,SK Trivedi,caught
+Rajasthan Royals,Delhi Daredevils,501204,2011-04-12,AG Paunikar,5,8,1.0,0.0,0,0,0,10.0,62.5,AB Dinda,bowled
+Rajasthan Royals,Delhi Daredevils,501204,2011-04-12,AL Menaria,22,15,0.0,3.0,0,0,0,32.0,146.66666666666666,IK Pathan,caught
+Rajasthan Royals,Delhi Daredevils,501204,2011-04-12,AM Rahane,18,17,1.0,1.0,0,0,0,25.0,105.88235294117648,M Morkel,bowled
+Rajasthan Royals,Delhi Daredevils,501204,2011-04-12,J Botha,39,32,4.0,0.0,0,0,0,47.0,121.875,0,0
+Rajasthan Royals,Delhi Daredevils,501204,2011-04-12,LRPL Taylor,18,10,1.0,1.0,0,0,0,25.0,180.0,0,0
+Rajasthan Royals,Delhi Daredevils,501204,2011-04-12,R Dravid,38,32,6.0,1.0,0,0,0,50.0,118.75,RE van der Merwe,caught

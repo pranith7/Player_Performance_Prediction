@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Mumbai Indians,501221,2011-04-22,DE Bollinger,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Chennai Super Kings,Mumbai Indians,501221,2011-04-22,JA Morkel,3,5,0.0,0.0,0,0,0,7.0,60.0,Harbhajan Singh,bowled
+Chennai Super Kings,Mumbai Indians,501221,2011-04-22,Joginder Sharma,0,1,0.0,0.0,0,0,1,2.0,0.0,Harbhajan Singh,caught and bowled
+Chennai Super Kings,Mumbai Indians,501221,2011-04-22,M Vijay,12,11,1.0,1.0,0,0,0,19.0,109.09090909090908,MM Patel,caught
+Chennai Super Kings,Mumbai Indians,501221,2011-04-22,MEK Hussey,41,34,6.0,0.0,0,0,0,51.0,120.58823529411764,SL Malinga,caught
+Chennai Super Kings,Mumbai Indians,501221,2011-04-22,MS Dhoni,3,6,0.0,0.0,0,0,0,7.0,50.0,KA Pollard,caught
+Chennai Super Kings,Mumbai Indians,501221,2011-04-22,R Ashwin,0,2,0.0,0.0,0,0,1,2.0,0.0,Harbhajan Singh,caught
+Chennai Super Kings,Mumbai Indians,501221,2011-04-22,S Anirudha,9,12,0.0,1.0,0,0,0,15.0,75.0,Harbhajan Singh,caught
+Chennai Super Kings,Mumbai Indians,501221,2011-04-22,S Badrinath,71,49,7.0,2.0,1,0,0,94.0,144.89795918367346,0,0
+Chennai Super Kings,Mumbai Indians,501221,2011-04-22,S Randiv,2,4,0.0,0.0,0,0,0,6.0,50.0,SL Malinga,caught
+Chennai Super Kings,Mumbai Indians,501221,2011-04-22,SK Raina,5,4,1.0,0.0,0,0,0,10.0,125.0,Harbhajan Singh,caught and bowled
+Mumbai Indians,Chennai Super Kings,501221,2011-04-22,A Symonds,31,29,1.0,2.0,0,0,0,40.0,106.89655172413792,0,0
+Mumbai Indians,Chennai Super Kings,501221,2011-04-22,AT Rayudu,27,30,4.0,0.0,0,0,0,35.0,90.0,S Randiv,stumped
+Mumbai Indians,Chennai Super Kings,501221,2011-04-22,KA Pollard,0,2,0.0,0.0,0,0,1,2.0,0.0,0,0
+Mumbai Indians,Chennai Super Kings,501221,2011-04-22,R Sathish,0,7,0.0,0.0,0,0,1,2.0,0.0,JA Morkel,caught
+Mumbai Indians,Chennai Super Kings,501221,2011-04-22,RG Sharma,87,51,8.0,5.0,1,0,0,117.0,170.58823529411765,DE Bollinger,caught
+Mumbai Indians,Chennai Super Kings,501221,2011-04-22,SR Tendulkar,5,9,1.0,0.0,0,0,0,10.0,55.55555555555556,DE Bollinger,caught

@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Kings XI Punjab,336031,2008-05-23,AC Gilchrist,50,42,6.0,1.0,1,0,0,70.0,119.04761904761904,RR Powar,bowled
+Deccan Chargers,Kings XI Punjab,336031,2008-05-23,HH Gibbs,44,35,3.0,3.0,0,0,0,57.0,125.71428571428572,Gagandeep Singh,bowled
+Deccan Chargers,Kings XI Punjab,336031,2008-05-23,LPC Silva,23,10,2.0,1.0,0,0,0,31.0,230.0,0,0
+Deccan Chargers,Kings XI Punjab,336031,2008-05-23,RG Sharma,50,27,3.0,4.0,1,0,0,73.0,185.1851851851852,VRV Singh,bowled
+Deccan Chargers,Kings XI Punjab,336031,2008-05-23,SB Styris,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Deccan Chargers,Kings XI Punjab,336031,2008-05-23,Y Venugopal Rao,2,5,0.0,0.0,0,0,0,6.0,40.0,S Sreesanth,caught
+Kings XI Punjab,Deccan Chargers,336031,2008-05-23,DPMD Jayawardene,14,11,0.0,1.0,0,0,0,20.0,127.27272727272728,0,0
+Kings XI Punjab,Deccan Chargers,336031,2008-05-23,KC Sangakkara,50,25,7.0,2.0,1,0,0,73.0,200.0,RG Sharma,caught
+Kings XI Punjab,Deccan Chargers,336031,2008-05-23,LA Pomersbach,13,12,0.0,1.0,0,0,0,19.0,108.33333333333331,PP Ojha,caught
+Kings XI Punjab,Deccan Chargers,336031,2008-05-23,PP Chawla,16,10,1.0,1.0,0,0,0,23.0,160.0,0,0
+Kings XI Punjab,Deccan Chargers,336031,2008-05-23,SE Marsh,60,46,3.0,3.0,1,0,0,81.0,130.43478260869566,SB Styris,caught
+Kings XI Punjab,Deccan Chargers,336031,2008-05-23,Yuvraj Singh,17,18,2.0,0.0,0,0,0,23.0,94.44444444444444,PP Ojha,caught

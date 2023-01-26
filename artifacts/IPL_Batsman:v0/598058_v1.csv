@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Rajasthan Royals,598058,2013-05-12,DJ Bravo,23,11,4.0,0.0,0,0,0,31.0,209.0909090909091,0,0
+Chennai Super Kings,Rajasthan Royals,598058,2013-05-12,M Vijay,55,51,6.0,0.0,1,0,0,73.0,107.84313725490196,SR Watson,run out
+Chennai Super Kings,Rajasthan Royals,598058,2013-05-12,MEK Hussey,40,41,6.0,0.0,0,0,0,50.0,97.5609756097561,STR Binny,bowled
+Chennai Super Kings,Rajasthan Royals,598058,2013-05-12,MS Dhoni,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,KK Cooper,caught
+Chennai Super Kings,Rajasthan Royals,598058,2013-05-12,RA Jadeja,12,15,0.0,0.0,0,0,0,16.0,80.0,0,0
+Chennai Super Kings,Rajasthan Royals,598058,2013-05-12,SK Raina,1,2,0.0,0.0,0,0,0,5.0,50.0,KK Cooper,caught
+Rajasthan Royals,Chennai Super Kings,598058,2013-05-12,AM Rahane,9,10,1.0,0.0,0,0,0,14.0,90.0,JO Holder,caught
+Rajasthan Royals,Chennai Super Kings,598058,2013-05-12,BJ Hodge,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Rajasthan Royals,Chennai Super Kings,598058,2013-05-12,JP Faulkner,1,2,0.0,0.0,0,0,0,5.0,50.0,JO Holder,bowled
+Rajasthan Royals,Chennai Super Kings,598058,2013-05-12,R Dravid,22,28,2.0,0.0,0,0,0,28.0,78.57142857142857,CH Morris,caught
+Rajasthan Royals,Chennai Super Kings,598058,2013-05-12,SR Watson,70,34,6.0,6.0,1,0,0,100.0,205.8823529411765,DJ Bravo,bowled
+Rajasthan Royals,Chennai Super Kings,598058,2013-05-12,STR Binny,41,24,2.0,3.0,0,0,0,53.0,170.83333333333331,0,0
+Rajasthan Royals,Chennai Super Kings,598058,2013-05-12,SV Samson,0,5,0.0,0.0,0,0,1,2.0,0.0,MM Sharma,caught

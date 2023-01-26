@@ -1,0 +1,21 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Rajasthan Royals,1254069,2021-04-19,AT Rayudu,27,19,0.0,3.0,0,0,0,37.0,142.10526315789474,C Sakariya,caught
+Chennai Super Kings,Rajasthan Royals,1254069,2021-04-19,DJ Bravo,20,10,2.0,1.0,0,0,0,28.0,200.0,0,0
+Chennai Super Kings,Rajasthan Royals,1254069,2021-04-19,F du Plessis,33,17,4.0,2.0,0,0,0,45.0,194.1176470588236,CH Morris,caught
+Chennai Super Kings,Rajasthan Royals,1254069,2021-04-19,MM Ali,26,22,1.0,2.0,0,0,0,35.0,118.1818181818182,R Tewatia,caught
+Chennai Super Kings,Rajasthan Royals,1254069,2021-04-19,MS Dhoni,18,17,2.0,0.0,0,0,0,24.0,105.88235294117648,C Sakariya,caught
+Chennai Super Kings,Rajasthan Royals,1254069,2021-04-19,RA Jadeja,8,7,1.0,0.0,0,0,0,13.0,114.28571428571428,CH Morris,caught
+Chennai Super Kings,Rajasthan Royals,1254069,2021-04-19,RD Gaikwad,10,13,1.0,0.0,0,0,0,15.0,76.92307692307693,Mustafizur Rahman,caught
+Chennai Super Kings,Rajasthan Royals,1254069,2021-04-19,SK Raina,18,17,1.0,1.0,0,0,0,25.0,105.88235294117648,C Sakariya,caught
+Chennai Super Kings,Rajasthan Royals,1254069,2021-04-19,SM Curran,13,6,0.0,1.0,0,0,0,19.0,216.66666666666663,Mustafizur Rahman,run out
+Chennai Super Kings,Rajasthan Royals,1254069,2021-04-19,SN Thakur,1,1,0.0,0.0,0,0,0,5.0,100.0,Mustafizur Rahman,run out
+Rajasthan Royals,Chennai Super Kings,1254069,2021-04-19,CH Morris,0,2,0.0,0.0,0,0,1,2.0,0.0,MM Ali,caught
+Rajasthan Royals,Chennai Super Kings,1254069,2021-04-19,DA Miller,2,5,0.0,0.0,0,0,0,6.0,40.0,MM Ali,lbw
+Rajasthan Royals,Chennai Super Kings,1254069,2021-04-19,JC Buttler,49,36,5.0,2.0,0,0,0,62.0,136.11111111111111,RA Jadeja,bowled
+Rajasthan Royals,Chennai Super Kings,1254069,2021-04-19,JD Unadkat,24,20,2.0,1.0,0,0,0,32.0,120.0,SN Thakur,caught
+Rajasthan Royals,Chennai Super Kings,1254069,2021-04-19,M Vohra,14,11,1.0,1.0,0,0,0,21.0,127.27272727272728,SM Curran,caught
+Rajasthan Royals,Chennai Super Kings,1254069,2021-04-19,Mustafizur Rahman,0,4,0.0,0.0,0,0,1,2.0,0.0,0,0
+Rajasthan Royals,Chennai Super Kings,1254069,2021-04-19,R Parag,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,MM Ali,caught
+Rajasthan Royals,Chennai Super Kings,1254069,2021-04-19,R Tewatia,20,15,0.0,2.0,0,0,0,28.0,133.33333333333331,DJ Bravo,caught
+Rajasthan Royals,Chennai Super Kings,1254069,2021-04-19,S Dube,17,23,2.0,0.0,0,0,0,23.0,73.91304347826086,RA Jadeja,lbw
+Rajasthan Royals,Chennai Super Kings,1254069,2021-04-19,SV Samson,1,5,0.0,0.0,0,0,0,5.0,20.0,SM Curran,caught

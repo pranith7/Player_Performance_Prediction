@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Pune Warriors,548333,2012-04-21,DPMD Jayawardene,7,7,1.0,0.0,0,0,0,12.0,100.0,AC Thomas,caught
+Delhi Daredevils,Pune Warriors,548333,2012-04-21,IK Pathan,15,11,0.0,1.0,0,0,0,21.0,136.36363636363637,SC Ganguly,caught
+Delhi Daredevils,Pune Warriors,548333,2012-04-21,KP Pietersen,32,23,1.0,3.0,0,0,0,43.0,139.1304347826087,SC Ganguly,bowled
+Delhi Daredevils,Pune Warriors,548333,2012-04-21,LRPL Taylor,12,14,1.0,0.0,0,0,0,17.0,85.71428571428571,AC Thomas,caught
+Delhi Daredevils,Pune Warriors,548333,2012-04-21,M Morkel,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Delhi Daredevils,Pune Warriors,548333,2012-04-21,NV Ojha,11,6,0.0,1.0,0,0,0,17.0,183.3333333333333,0,0
+Delhi Daredevils,Pune Warriors,548333,2012-04-21,P Negi,8,8,1.0,0.0,0,0,0,13.0,100.0,SC Ganguly,run out
+Delhi Daredevils,Pune Warriors,548333,2012-04-21,V Sehwag,57,33,5.0,4.0,1,0,0,82.0,172.72727272727272,M Kartik,caught and bowled
+Delhi Daredevils,Pune Warriors,548333,2012-04-21,Y Nagar,24,19,3.0,0.0,0,0,0,31.0,126.3157894736842,AC Thomas,caught
+Pune Warriors,Delhi Daredevils,548333,2012-04-21,AD Mathews,6,2,1.0,0.0,0,0,0,11.0,300.0,0,0
+Pune Warriors,Delhi Daredevils,548333,2012-04-21,JD Ryder,86,58,7.0,4.0,1,0,0,113.0,148.27586206896552,M Morkel,bowled
+Pune Warriors,Delhi Daredevils,548333,2012-04-21,RV Uthappa,10,14,2.0,0.0,0,0,0,16.0,71.42857142857143,M Morkel,caught
+Pune Warriors,Delhi Daredevils,548333,2012-04-21,SC Ganguly,41,42,5.0,1.0,0,0,0,52.0,97.61904761904762,M Morkel,caught
+Pune Warriors,Delhi Daredevils,548333,2012-04-21,SPD Smith,34,14,4.0,2.0,0,0,0,46.0,242.85714285714283,0,0

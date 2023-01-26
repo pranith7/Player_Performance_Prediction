@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Sunrisers Hyderabad,1216538,2020-10-04,HH Pandya,28,19,2.0,2.0,0,0,0,38.0,147.36842105263156,S Kaul,bowled
+Mumbai Indians,Sunrisers Hyderabad,1216538,2020-10-04,Ishan Kishan,31,23,1.0,2.0,0,0,0,40.0,134.7826086956522,Sandeep Sharma,caught
+Mumbai Indians,Sunrisers Hyderabad,1216538,2020-10-04,KA Pollard,25,14,0.0,3.0,0,0,0,35.0,178.57142857142858,0,0
+Mumbai Indians,Sunrisers Hyderabad,1216538,2020-10-04,KH Pandya,20,4,2.0,2.0,0,0,0,30.0,500.0,0,0
+Mumbai Indians,Sunrisers Hyderabad,1216538,2020-10-04,Q de Kock,67,40,4.0,4.0,1,0,0,91.0,167.5,Rashid Khan,caught and bowled
+Mumbai Indians,Sunrisers Hyderabad,1216538,2020-10-04,RG Sharma,6,5,0.0,1.0,0,0,0,12.0,120.0,Sandeep Sharma,caught
+Mumbai Indians,Sunrisers Hyderabad,1216538,2020-10-04,SA Yadav,27,18,6.0,0.0,0,0,0,37.0,150.0,S Kaul,caught
+Sunrisers Hyderabad,Mumbai Indians,1216538,2020-10-04,Abdul Samad,20,10,1.0,2.0,0,0,0,29.0,200.0,JJ Bumrah,caught
+Sunrisers Hyderabad,Mumbai Indians,1216538,2020-10-04,Abhishek Sharma,10,14,0.0,0.0,0,0,0,14.0,71.42857142857143,JJ Bumrah,bowled
+Sunrisers Hyderabad,Mumbai Indians,1216538,2020-10-04,DA Warner,60,48,5.0,2.0,1,0,0,81.0,125.0,JL Pattinson,caught
+Sunrisers Hyderabad,Mumbai Indians,1216538,2020-10-04,JM Bairstow,25,15,2.0,2.0,0,0,0,35.0,166.66666666666669,TA Boult,caught
+Sunrisers Hyderabad,Mumbai Indians,1216538,2020-10-04,KS Williamson,3,5,0.0,0.0,0,0,0,7.0,60.0,TA Boult,caught
+Sunrisers Hyderabad,Mumbai Indians,1216538,2020-10-04,MK Pandey,30,22,4.0,1.0,0,0,0,40.0,136.36363636363637,JL Pattinson,caught
+Sunrisers Hyderabad,Mumbai Indians,1216538,2020-10-04,PK Garg,8,7,0.0,0.0,0,0,0,12.0,114.28571428571428,KH Pandya,caught
+Sunrisers Hyderabad,Mumbai Indians,1216538,2020-10-04,Rashid Khan,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,0,0
+Sunrisers Hyderabad,Mumbai Indians,1216538,2020-10-04,Sandeep Sharma,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0

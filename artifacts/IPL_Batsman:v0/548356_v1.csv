@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Royal Challengers Bangalore,548356,2012-05-06,CL White,45,25,2.0,3.0,0,0,0,57.0,180.0,P Parameswaran,caught and bowled
+Deccan Chargers,Royal Challengers Bangalore,548356,2012-05-06,DJ Harris,47,42,2.0,4.0,0,0,0,61.0,111.90476190476193,J Syed Mohammad,run out
+Deccan Chargers,Royal Challengers Bangalore,548356,2012-05-06,KC Sangakkara,10,3,1.0,1.0,0,0,0,17.0,333.33333333333337,0,0
+Deccan Chargers,Royal Challengers Bangalore,548356,2012-05-06,S Dhawan,73,53,10.0,1.0,1,0,0,97.0,137.73584905660377,0,0
+Royal Challengers Bangalore,Deccan Chargers,548356,2012-05-06,AB de Villiers,47,17,5.0,3.0,0,0,0,62.0,276.4705882352941,0,0
+Royal Challengers Bangalore,Deccan Chargers,548356,2012-05-06,AUK Pathan,4,4,0.0,0.0,0,0,0,8.0,100.0,A Mishra,caught
+Royal Challengers Bangalore,Deccan Chargers,548356,2012-05-06,CH Gayle,26,23,1.0,2.0,0,0,0,35.0,113.04347826086956,Anand Rajan,bowled
+Royal Challengers Bangalore,Deccan Chargers,548356,2012-05-06,J Syed Mohammad,4,1,1.0,0.0,0,0,0,9.0,400.0,0,0
+Royal Challengers Bangalore,Deccan Chargers,548356,2012-05-06,MA Agarwal,18,7,1.0,2.0,0,0,0,27.0,257.1428571428572,A Ashish Reddy,lbw
+Royal Challengers Bangalore,Deccan Chargers,548356,2012-05-06,TM Dilshan,71,56,8.0,2.0,1,0,0,95.0,126.78571428571428,V Pratap Singh,bowled
+Royal Challengers Bangalore,Deccan Chargers,548356,2012-05-06,V Kohli,9,9,1.0,0.0,0,0,0,14.0,100.0,A Mishra,caught

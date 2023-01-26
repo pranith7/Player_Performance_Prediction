@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Mumbai Indians,419165,2010-04-25,JA Morkel,15,6,1.0,1.0,0,0,0,22.0,250.0,SL Malinga,run out
+Chennai Super Kings,Mumbai Indians,419165,2010-04-25,M Vijay,26,20,1.0,2.0,0,0,0,35.0,130.0,CRD Fernando,caught
+Chennai Super Kings,Mumbai Indians,419165,2010-04-25,ML Hayden,17,31,1.0,1.0,0,0,0,24.0,54.83870967741935,KA Pollard,caught
+Chennai Super Kings,Mumbai Indians,419165,2010-04-25,MS Dhoni,22,15,2.0,1.0,0,0,0,30.0,146.66666666666666,Z Khan,caught
+Chennai Super Kings,Mumbai Indians,419165,2010-04-25,S Anirudha,6,4,1.0,0.0,0,0,0,11.0,150.0,0,0
+Chennai Super Kings,Mumbai Indians,419165,2010-04-25,S Badrinath,14,11,2.0,0.0,0,0,0,20.0,127.27272727272728,CRD Fernando,caught
+Chennai Super Kings,Mumbai Indians,419165,2010-04-25,SK Raina,57,37,3.0,3.0,1,0,0,78.0,154.05405405405406,0,0
+Mumbai Indians,Chennai Super Kings,419165,2010-04-25,AM Nayar,27,26,1.0,2.0,0,0,0,36.0,103.84615384615384,SK Raina,run out
+Mumbai Indians,Chennai Super Kings,419165,2010-04-25,AT Rayudu,21,15,1.0,1.0,0,0,0,28.0,140.0,JA Morkel,run out
+Mumbai Indians,Chennai Super Kings,419165,2010-04-25,CRD Fernando,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Mumbai Indians,Chennai Super Kings,419165,2010-04-25,Harbhajan Singh,1,2,0.0,0.0,0,0,0,5.0,50.0,SK Raina,lbw
+Mumbai Indians,Chennai Super Kings,419165,2010-04-25,JP Duminy,6,7,0.0,0.0,0,0,0,10.0,85.71428571428571,M Muralitharan,caught
+Mumbai Indians,Chennai Super Kings,419165,2010-04-25,KA Pollard,27,10,3.0,2.0,0,0,0,38.0,270.0,JA Morkel,caught
+Mumbai Indians,Chennai Super Kings,419165,2010-04-25,S Dhawan,0,8,0.0,0.0,0,0,1,2.0,0.0,DE Bollinger,caught
+Mumbai Indians,Chennai Super Kings,419165,2010-04-25,SL Malinga,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Mumbai Indians,Chennai Super Kings,419165,2010-04-25,SR Tendulkar,48,49,7.0,0.0,0,0,0,59.0,97.95918367346938,SB Jakati,caught
+Mumbai Indians,Chennai Super Kings,419165,2010-04-25,SS Tiwary,0,2,0.0,0.0,0,0,1,2.0,0.0,SB Jakati,caught
+Mumbai Indians,Chennai Super Kings,419165,2010-04-25,Z Khan,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,DE Bollinger,run out

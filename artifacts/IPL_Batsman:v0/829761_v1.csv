@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Kolkata Knight Riders,829761,2015-05-07,AD Mathews,22,15,2.0,1.0,0,0,0,30.0,146.66666666666666,AD Russell,bowled
+Delhi Daredevils,Kolkata Knight Riders,829761,2015-05-07,JA Morkel,5,3,1.0,0.0,0,0,0,10.0,166.66666666666669,0,0
+Delhi Daredevils,Kolkata Knight Riders,829761,2015-05-07,JP Duminy,25,17,2.0,1.0,0,0,0,33.0,147.05882352941177,PP Chawla,caught
+Delhi Daredevils,Kolkata Knight Riders,829761,2015-05-07,KM Jadhav,10,6,0.0,1.0,0,0,0,16.0,166.66666666666669,PP Chawla,caught
+Delhi Daredevils,Kolkata Knight Riders,829761,2015-05-07,MK Tiwary,25,29,3.0,1.0,0,0,0,34.0,86.20689655172413,PP Chawla,caught
+Delhi Daredevils,Kolkata Knight Riders,829761,2015-05-07,SS Iyer,40,36,3.0,2.0,0,0,0,51.0,111.11111111111111,GB Hogg,bowled
+Delhi Daredevils,Kolkata Knight Riders,829761,2015-05-07,SS Tiwary,24,16,3.0,1.0,0,0,0,33.0,150.0,0,0
+Delhi Daredevils,Kolkata Knight Riders,829761,2015-05-07,Yuvraj Singh,0,3,0.0,0.0,0,0,1,2.0,0.0,PP Chawla,caught
+Kolkata Knight Riders,Delhi Daredevils,829761,2015-05-07,AD Russell,5,6,1.0,0.0,0,0,0,10.0,83.33333333333334,Imran Tahir,caught
+Kolkata Knight Riders,Delhi Daredevils,829761,2015-05-07,G Gambhir,12,11,2.0,0.0,0,0,0,18.0,109.09090909090908,Z Khan,caught
+Kolkata Knight Riders,Delhi Daredevils,829761,2015-05-07,J Botha,17,5,4.0,0.0,0,0,0,25.0,340.0,Z Khan,run out
+Kolkata Knight Riders,Delhi Daredevils,829761,2015-05-07,MK Pandey,22,19,1.0,1.0,0,0,0,29.0,115.78947368421052,Yuvraj Singh,bowled
+Kolkata Knight Riders,Delhi Daredevils,829761,2015-05-07,PP Chawla,22,20,1.0,1.0,0,0,0,29.0,110.0,JA Morkel,caught
+Kolkata Knight Riders,Delhi Daredevils,829761,2015-05-07,RV Uthappa,32,33,4.0,1.0,0,0,0,42.0,96.96969696969695,A Mishra,lbw
+Kolkata Knight Riders,Delhi Daredevils,829761,2015-05-07,SA Yadav,7,7,0.0,0.0,0,0,0,11.0,100.0,0,0
+Kolkata Knight Riders,Delhi Daredevils,829761,2015-05-07,YK Pathan,42,24,3.0,3.0,0,0,0,55.0,175.0,Imran Tahir,caught

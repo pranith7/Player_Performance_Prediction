@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Royal Challengers Bangalore,Sunrisers Hyderabad,734021,2014-05-20,AB de Villiers,29,18,2.0,1.0,0,0,0,37.0,161.11111111111111,B Kumar,bowled
+Royal Challengers Bangalore,Sunrisers Hyderabad,734021,2014-05-20,CH Gayle,14,20,1.0,0.0,0,0,0,19.0,70.0,KV Sharma,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,734021,2014-05-20,MA Starc,6,6,1.0,0.0,0,0,0,11.0,100.0,DW Steyn,run out
+Royal Challengers Bangalore,Sunrisers Hyderabad,734021,2014-05-20,PA Patel,4,4,1.0,0.0,0,0,0,9.0,100.0,B Kumar,lbw
+Royal Challengers Bangalore,Sunrisers Hyderabad,734021,2014-05-20,S Rana,12,7,2.0,0.0,0,0,0,18.0,171.42857142857142,0,0
+Royal Challengers Bangalore,Sunrisers Hyderabad,734021,2014-05-20,V Kohli,67,43,4.0,4.0,1,0,0,91.0,155.8139534883721,IK Pathan,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,734021,2014-05-20,Yuvraj Singh,21,25,2.0,1.0,0,0,0,29.0,84.0,Parvez Rasool,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,734021,2014-05-20,AJ Finch,11,9,1.0,0.0,0,0,0,16.0,122.22222222222224,0,0
+Sunrisers Hyderabad,Royal Challengers Bangalore,734021,2014-05-20,DA Warner,59,47,3.0,4.0,1,0,0,82.0,125.531914893617,VR Aaron,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,734021,2014-05-20,DJG Sammy,10,4,0.0,1.0,0,0,0,16.0,250.0,0,0
+Sunrisers Hyderabad,Royal Challengers Bangalore,734021,2014-05-20,NV Ojha,24,22,0.0,2.0,0,0,0,32.0,109.09090909090908,VR Aaron,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,734021,2014-05-20,S Dhawan,50,39,7.0,1.0,1,0,0,71.0,128.2051282051282,M Muralitharan,run out

@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Rajasthan Royals,336019,2008-05-28,JR Hopes,51,35,7.0,1.0,1,0,0,72.0,145.7142857142857,YK Pathan,caught
+Kings XI Punjab,Rajasthan Royals,336019,2008-05-28,LA Pomersbach,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Kings XI Punjab,Rajasthan Royals,336019,2008-05-28,SE Marsh,115,72,11.0,7.0,1,1,0,168.0,159.72222222222223,SR Watson,caught
+Kings XI Punjab,Rajasthan Royals,336019,2008-05-28,Yuvraj Singh,49,16,2.0,6.0,0,0,0,67.0,306.25,SR Watson,run out
+Rajasthan Royals,Kings XI Punjab,336019,2008-05-28,D Salunkhe,6,3,1.0,0.0,0,0,0,11.0,200.0,JR Hopes,caught and bowled
+Rajasthan Royals,Kings XI Punjab,336019,2008-05-28,Kamran Akmal,24,8,1.0,3.0,0,0,0,35.0,300.0,PP Chawla,caught
+Rajasthan Royals,Kings XI Punjab,336019,2008-05-28,M Kaif,1,5,0.0,0.0,0,0,0,5.0,20.0,S Sreesanth,bowled
+Rajasthan Royals,Kings XI Punjab,336019,2008-05-28,M Rawat,23,19,2.0,1.0,0,0,0,31.0,121.05263157894736,0,0
+Rajasthan Royals,Kings XI Punjab,336019,2008-05-28,Niraj Patel,57,40,10.0,0.0,1,0,0,79.0,142.5,PP Chawla,bowled
+Rajasthan Royals,Kings XI Punjab,336019,2008-05-28,Pankaj Singh,1,5,0.0,0.0,0,0,0,5.0,20.0,0,0
+Rajasthan Royals,Kings XI Punjab,336019,2008-05-28,SR Watson,22,19,1.0,1.0,0,0,0,29.0,115.78947368421052,PP Chawla,caught
+Rajasthan Royals,Kings XI Punjab,336019,2008-05-28,YK Pathan,39,15,3.0,3.0,0,0,0,52.0,260.0,JR Hopes,caught
+Rajasthan Royals,Kings XI Punjab,336019,2008-05-28,Younis Khan,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,IK Pathan,bowled

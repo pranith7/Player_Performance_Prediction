@@ -1,0 +1,20 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Rajasthan Royals,729297,2014-04-23,BB McCullum,6,11,0.0,0.0,0,0,0,10.0,54.54545454545454,JP Faulkner,caught
+Chennai Super Kings,Rajasthan Royals,729297,2014-04-23,DR Smith,50,28,6.0,3.0,1,0,0,74.0,178.57142857142858,STR Binny,caught
+Chennai Super Kings,Rajasthan Royals,729297,2014-04-23,F du Plessis,7,9,0.0,0.0,0,0,0,11.0,77.77777777777779,R Bhatia,run out
+Chennai Super Kings,Rajasthan Royals,729297,2014-04-23,M Manhas,10,11,1.0,0.0,0,0,0,15.0,90.9090909090909,R Bhatia,caught
+Chennai Super Kings,Rajasthan Royals,729297,2014-04-23,MS Dhoni,5,8,0.0,0.0,0,0,0,9.0,62.5,PV Tambe,caught
+Chennai Super Kings,Rajasthan Royals,729297,2014-04-23,R Ashwin,9,16,1.0,0.0,0,0,0,14.0,56.25,0,0
+Chennai Super Kings,Rajasthan Royals,729297,2014-04-23,RA Jadeja,36,35,2.0,0.0,0,0,0,42.0,102.85714285714285,0,0
+Chennai Super Kings,Rajasthan Royals,729297,2014-04-23,SK Raina,4,9,0.0,0.0,0,0,0,8.0,44.44444444444444,R Bhatia,caught
+Rajasthan Royals,Chennai Super Kings,729297,2014-04-23,AM Nayar,5,8,1.0,0.0,0,0,0,10.0,62.5,IC Pandey,run out
+Rajasthan Royals,Chennai Super Kings,729297,2014-04-23,AM Rahane,15,12,2.0,0.0,0,0,0,21.0,125.0,R Ashwin,caught
+Rajasthan Royals,Chennai Super Kings,729297,2014-04-23,DS Kulkarni,28,19,0.0,2.0,0,0,0,36.0,147.36842105263156,0,0
+Rajasthan Royals,Chennai Super Kings,729297,2014-04-23,JP Faulkner,4,2,1.0,0.0,0,0,0,9.0,200.0,IC Pandey,caught
+Rajasthan Royals,Chennai Super Kings,729297,2014-04-23,PV Tambe,2,2,0.0,0.0,0,0,0,6.0,100.0,R Ashwin,run out
+Rajasthan Royals,Chennai Super Kings,729297,2014-04-23,R Bhatia,23,21,1.0,1.0,0,0,0,30.0,109.52380952380952,BW Hilfenhaus,caught
+Rajasthan Royals,Chennai Super Kings,729297,2014-04-23,SPD Smith,19,20,1.0,0.0,0,0,0,24.0,95.0,RA Jadeja,caught
+Rajasthan Royals,Chennai Super Kings,729297,2014-04-23,SR Watson,7,6,0.0,1.0,0,0,0,13.0,116.66666666666669,RA Jadeja,caught
+Rajasthan Royals,Chennai Super Kings,729297,2014-04-23,STR Binny,8,11,0.0,0.0,0,0,0,12.0,72.72727272727273,MM Sharma,caught
+Rajasthan Royals,Chennai Super Kings,729297,2014-04-23,SV Samson,16,16,0.0,2.0,0,0,0,24.0,100.0,RA Jadeja,caught and bowled
+Rajasthan Royals,Chennai Super Kings,729297,2014-04-23,TG Southee,4,4,1.0,0.0,0,0,0,9.0,100.0,RA Jadeja,bowled

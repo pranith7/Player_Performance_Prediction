@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Gujarat Lions,Rising Pune Supergiants,980949,2016-04-29,BB McCullum,43,24,5.0,2.0,0,0,0,56.0,179.16666666666669,R Bhatia,caught
+Gujarat Lions,Rising Pune Supergiants,980949,2016-04-29,DJ Bravo,7,7,1.0,0.0,0,0,0,12.0,100.0,AB Dinda,caught
+Gujarat Lions,Rising Pune Supergiants,980949,2016-04-29,DR Smith,63,39,9.0,1.0,1,0,0,86.0,161.53846153846155,NLTC Perera,bowled
+Gujarat Lions,Rising Pune Supergiants,980949,2016-04-29,Ishan Kishan,0,1,0.0,0.0,0,0,1,2.0,0.0,NLTC Perera,run out
+Gujarat Lions,Rising Pune Supergiants,980949,2016-04-29,JP Faulkner,9,6,1.0,0.0,0,0,0,14.0,150.0,0,0
+Gujarat Lions,Rising Pune Supergiants,980949,2016-04-29,KD Karthik,33,21,4.0,0.0,0,0,0,41.0,157.14285714285714,AB Dinda,caught
+Gujarat Lions,Rising Pune Supergiants,980949,2016-04-29,RA Jadeja,0,1,0.0,0.0,0,0,1,2.0,0.0,AB Dinda,run out
+Gujarat Lions,Rising Pune Supergiants,980949,2016-04-29,SK Raina,34,28,2.0,0.0,0,0,0,40.0,121.42857142857142,NLTC Perera,bowled
+Rising Pune Supergiants,Gujarat Lions,980949,2016-04-29,AM Rahane,53,47,5.0,0.0,1,0,0,70.0,112.7659574468085,DJ Bravo,run out
+Rising Pune Supergiants,Gujarat Lions,980949,2016-04-29,MS Dhoni,30,20,2.0,2.0,0,0,0,40.0,150.0,0,0
+Rising Pune Supergiants,Gujarat Lions,980949,2016-04-29,NLTC Perera,3,2,0.0,0.0,0,0,0,7.0,150.0,0,0
+Rising Pune Supergiants,Gujarat Lions,980949,2016-04-29,SPD Smith,101,54,8.0,5.0,1,1,0,147.0,187.03703703703704,DJ Bravo,bowled
+Rising Pune Supergiants,Gujarat Lions,980949,2016-04-29,SS Tiwary,1,2,0.0,0.0,0,0,0,5.0,50.0,P Kumar,run out

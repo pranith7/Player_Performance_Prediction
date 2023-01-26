@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Royal Challengers Bangalore,419162,2010-04-21,AM Nayar,22,18,2.0,0.0,0,0,0,28.0,122.22222222222224,KP Pietersen,caught
+Mumbai Indians,Royal Challengers Bangalore,419162,2010-04-21,AT Rayudu,40,40,4.0,0.0,0,0,0,48.0,100.0,DW Steyn,caught
+Mumbai Indians,Royal Challengers Bangalore,419162,2010-04-21,JP Duminy,3,4,0.0,0.0,0,0,0,7.0,75.0,A Kumble,caught
+Mumbai Indians,Royal Challengers Bangalore,419162,2010-04-21,KA Pollard,33,14,1.0,3.0,0,0,0,44.0,235.7142857142857,0,0
+Mumbai Indians,Royal Challengers Bangalore,419162,2010-04-21,S Dhawan,12,10,2.0,0.0,0,0,0,18.0,120.0,DW Steyn,run out
+Mumbai Indians,Royal Challengers Bangalore,419162,2010-04-21,SR Tendulkar,9,10,2.0,0.0,0,0,0,15.0,90.0,DW Steyn,caught
+Mumbai Indians,Royal Challengers Bangalore,419162,2010-04-21,SS Tiwary,52,31,3.0,4.0,1,0,0,75.0,167.74193548387098,0,0
+Royal Challengers Bangalore,Mumbai Indians,419162,2010-04-21,A Kumble,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,0,0
+Royal Challengers Bangalore,Mumbai Indians,419162,2010-04-21,DW Steyn,5,5,1.0,0.0,0,0,0,10.0,100.0,CRD Fernando,bowled
+Royal Challengers Bangalore,Mumbai Indians,419162,2010-04-21,JH Kallis,11,9,2.0,0.0,0,0,0,17.0,122.22222222222224,SL Malinga,caught
+Royal Challengers Bangalore,Mumbai Indians,419162,2010-04-21,KP Pietersen,19,15,2.0,0.0,0,0,0,25.0,126.66666666666666,Harbhajan Singh,stumped
+Royal Challengers Bangalore,Mumbai Indians,419162,2010-04-21,LRPL Taylor,31,32,1.0,1.0,0,0,0,38.0,96.875,0,0
+Royal Challengers Bangalore,Mumbai Indians,419162,2010-04-21,MK Pandey,5,10,0.0,0.0,0,0,0,9.0,50.0,KA Pollard,caught
+Royal Challengers Bangalore,Mumbai Indians,419162,2010-04-21,P Kumar,1,2,0.0,0.0,0,0,0,5.0,50.0,Harbhajan Singh,bowled
+Royal Challengers Bangalore,Mumbai Indians,419162,2010-04-21,R Dravid,23,23,3.0,0.0,0,0,0,30.0,100.0,KA Pollard,run out
+Royal Challengers Bangalore,Mumbai Indians,419162,2010-04-21,R Vinay Kumar,8,8,0.0,0.0,0,0,0,12.0,100.0,SL Malinga,bowled
+Royal Challengers Bangalore,Mumbai Indians,419162,2010-04-21,RV Uthappa,26,13,2.0,2.0,0,0,0,36.0,200.0,KA Pollard,caught
+Royal Challengers Bangalore,Mumbai Indians,419162,2010-04-21,V Kohli,9,8,1.0,0.0,0,0,0,14.0,112.5,KA Pollard,caught

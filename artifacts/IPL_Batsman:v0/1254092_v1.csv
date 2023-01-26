@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Capitals,Kolkata Knight Riders,1254092,2021-09-28,AR Patel,0,7,0.0,0.0,0,0,1,2.0,0.0,VR Iyer,caught
+Delhi Capitals,Kolkata Knight Riders,1254092,2021-09-28,Avesh Khan,5,3,1.0,0.0,0,0,0,10.0,166.66666666666669,TG Southee,run out
+Delhi Capitals,Kolkata Knight Riders,1254092,2021-09-28,K Rabada,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Delhi Capitals,Kolkata Knight Riders,1254092,2021-09-28,Lalit Yadav,0,3,0.0,0.0,0,0,1,2.0,0.0,SP Narine,lbw
+Delhi Capitals,Kolkata Knight Riders,1254092,2021-09-28,R Ashwin,9,8,1.0,0.0,0,0,0,14.0,112.5,TG Southee,caught
+Delhi Capitals,Kolkata Knight Riders,1254092,2021-09-28,RR Pant,39,37,3.0,0.0,0,0,0,46.0,105.4054054054054,TG Southee,run out
+Delhi Capitals,Kolkata Knight Riders,1254092,2021-09-28,S Dhawan,24,20,5.0,0.0,0,0,0,33.0,120.0,LH Ferguson,caught
+Delhi Capitals,Kolkata Knight Riders,1254092,2021-09-28,SO Hetmyer,4,5,0.0,0.0,0,0,0,8.0,80.0,VR Iyer,caught
+Delhi Capitals,Kolkata Knight Riders,1254092,2021-09-28,SPD Smith,39,34,4.0,0.0,0,0,0,47.0,114.70588235294116,LH Ferguson,bowled
+Delhi Capitals,Kolkata Knight Riders,1254092,2021-09-28,SS Iyer,1,6,0.0,0.0,0,0,0,5.0,16.666666666666664,SP Narine,bowled
+Kolkata Knight Riders,Delhi Capitals,1254092,2021-09-28,EJG Morgan,0,2,0.0,0.0,0,0,1,2.0,0.0,R Ashwin,caught
+Kolkata Knight Riders,Delhi Capitals,1254092,2021-09-28,KD Karthik,12,14,2.0,0.0,0,0,0,18.0,85.71428571428571,Avesh Khan,bowled
+Kolkata Knight Riders,Delhi Capitals,1254092,2021-09-28,N Rana,36,28,2.0,2.0,0,0,0,46.0,128.57142857142858,0,0
+Kolkata Knight Riders,Delhi Capitals,1254092,2021-09-28,RA Tripathi,9,5,0.0,1.0,0,0,0,15.0,180.0,Avesh Khan,caught
+Kolkata Knight Riders,Delhi Capitals,1254092,2021-09-28,SP Narine,21,10,1.0,2.0,0,0,0,30.0,210.0,A Nortje,caught
+Kolkata Knight Riders,Delhi Capitals,1254092,2021-09-28,Shubman Gill,30,33,1.0,2.0,0,0,0,39.0,90.9090909090909,K Rabada,caught
+Kolkata Knight Riders,Delhi Capitals,1254092,2021-09-28,TG Southee,3,5,0.0,0.0,0,0,0,7.0,60.0,Avesh Khan,bowled
+Kolkata Knight Riders,Delhi Capitals,1254092,2021-09-28,VR Iyer,14,16,2.0,0.0,0,0,0,20.0,87.5,Lalit Yadav,bowled

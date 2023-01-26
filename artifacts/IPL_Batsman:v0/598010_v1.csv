@@ -1,0 +1,20 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Sunrisers Hyderabad,598010,2013-04-12,DA Warner,0,4,0.0,0.0,0,0,1,2.0,0.0,DW Steyn,caught
+Delhi Daredevils,Sunrisers Hyderabad,598010,2013-04-12,DPMD Jayawardene,12,14,1.0,1.0,0,0,0,19.0,85.71428571428571,I Sharma,caught
+Delhi Daredevils,Sunrisers Hyderabad,598010,2013-04-12,IK Pathan,23,33,1.0,0.0,0,0,0,28.0,69.6969696969697,NLTC Perera,caught
+Delhi Daredevils,Sunrisers Hyderabad,598010,2013-04-12,J Botha,9,14,1.0,0.0,0,0,0,14.0,64.28571428571429,Anand Rajan,caught
+Delhi Daredevils,Sunrisers Hyderabad,598010,2013-04-12,KM Jadhav,30,20,1.0,2.0,0,0,0,39.0,150.0,0,0
+Delhi Daredevils,Sunrisers Hyderabad,598010,2013-04-12,M Morkel,0,1,0.0,0.0,0,0,1,2.0,0.0,NLTC Perera,caught
+Delhi Daredevils,Sunrisers Hyderabad,598010,2013-04-12,MC Juneja,15,22,0.0,0.0,0,0,0,19.0,68.18181818181817,A Mishra,caught
+Delhi Daredevils,Sunrisers Hyderabad,598010,2013-04-12,S Nadeem,0,1,0.0,0.0,0,0,1,2.0,0.0,DW Steyn,bowled
+Delhi Daredevils,Sunrisers Hyderabad,598010,2013-04-12,UT Yadav,6,6,1.0,0.0,0,0,0,11.0,100.0,0,0
+Delhi Daredevils,Sunrisers Hyderabad,598010,2013-04-12,V Sehwag,12,10,2.0,0.0,0,0,0,18.0,120.0,I Sharma,caught
+Sunrisers Hyderabad,Delhi Daredevils,598010,2013-04-12,A Ashish Reddy,16,9,2.0,0.0,0,0,0,22.0,177.77777777777777,M Morkel,bowled
+Sunrisers Hyderabad,Delhi Daredevils,598010,2013-04-12,A Mishra,16,14,2.0,0.0,0,0,0,22.0,114.28571428571428,0,0
+Sunrisers Hyderabad,Delhi Daredevils,598010,2013-04-12,CL White,4,8,0.0,0.0,0,0,0,8.0,50.0,S Nadeem,stumped
+Sunrisers Hyderabad,Delhi Daredevils,598010,2013-04-12,DW Steyn,9,5,1.0,0.0,0,0,0,14.0,180.0,0,0
+Sunrisers Hyderabad,Delhi Daredevils,598010,2013-04-12,GH Vihari,17,23,0.0,1.0,0,0,0,23.0,73.91304347826086,M Morkel,caught
+Sunrisers Hyderabad,Delhi Daredevils,598010,2013-04-12,KC Sangakkara,28,28,4.0,0.0,0,0,0,36.0,100.0,J Botha,caught
+Sunrisers Hyderabad,Delhi Daredevils,598010,2013-04-12,NLTC Perera,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,IK Pathan,caught
+Sunrisers Hyderabad,Delhi Daredevils,598010,2013-04-12,PA Patel,19,19,4.0,0.0,0,0,0,27.0,100.0,S Nadeem,caught and bowled
+Sunrisers Hyderabad,Delhi Daredevils,598010,2013-04-12,PA Reddy,1,9,0.0,0.0,0,0,0,5.0,11.11111111111111,S Kaul,run out

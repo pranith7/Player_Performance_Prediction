@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Royal Challengers Bangalore,Sunrisers Hyderabad,598004,2013-04-07,CH Gayle,11,5,0.0,1.0,0,0,0,17.0,220.00000000000003,GH Vihari,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,598004,2013-04-07,JD Unadkat,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Royal Challengers Bangalore,Sunrisers Hyderabad,598004,2013-04-07,KB Arun Karthik,0,2,0.0,0.0,0,0,1,2.0,0.0,NLTC Perera,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,598004,2013-04-07,KK Nair,9,9,0.0,0.0,0,0,0,13.0,100.0,A Mishra,lbw
+Royal Challengers Bangalore,Sunrisers Hyderabad,598004,2013-04-07,M Kartik,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Royal Challengers Bangalore,Sunrisers Hyderabad,598004,2013-04-07,MA Agarwal,7,8,0.0,0.0,0,0,0,11.0,87.5,DW Steyn,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,598004,2013-04-07,MC Henriques,44,40,5.0,0.0,0,0,0,53.0,110.0,I Sharma,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,598004,2013-04-07,R Vinay Kumar,7,4,1.0,0.0,0,0,0,12.0,175.0,I Sharma,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,598004,2013-04-07,TM Dilshan,5,10,0.0,0.0,0,0,0,9.0,50.0,I Sharma,bowled
+Royal Challengers Bangalore,Sunrisers Hyderabad,598004,2013-04-07,V Kohli,51,47,6.0,1.0,1,0,0,71.0,108.51063829787232,A Ashish Reddy,caught and bowled
+Sunrisers Hyderabad,Royal Challengers Bangalore,598004,2013-04-07,A Ashish Reddy,14,12,0.0,1.0,0,0,0,20.0,116.66666666666669,R Vinay Kumar,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,598004,2013-04-07,CL White,22,16,1.0,2.0,0,0,0,31.0,137.5,MC Henriques,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,598004,2013-04-07,DW Steyn,3,3,0.0,0.0,0,0,0,7.0,100.0,0,0
+Sunrisers Hyderabad,Royal Challengers Bangalore,598004,2013-04-07,GH Vihari,44,47,2.0,0.0,0,0,0,50.0,93.61702127659576,0,0
+Sunrisers Hyderabad,Royal Challengers Bangalore,598004,2013-04-07,KC Sangakkara,16,17,1.0,0.0,0,0,0,21.0,94.11764705882352,JD Unadkat,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,598004,2013-04-07,NLTC Perera,9,11,1.0,0.0,0,0,0,14.0,81.81818181818183,JD Unadkat,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,598004,2013-04-07,PA Patel,2,4,0.0,0.0,0,0,0,6.0,50.0,MC Henriques,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,598004,2013-04-07,PA Reddy,23,22,2.0,0.0,0,0,0,29.0,104.54545454545456,M Muralitharan,bowled

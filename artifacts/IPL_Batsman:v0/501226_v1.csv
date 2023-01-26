@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Pune Warriors,501226,2011-04-25,JA Morkel,0,5,0.0,0.0,0,0,1,2.0,0.0,JE Taylor,caught
+Chennai Super Kings,Pune Warriors,501226,2011-04-25,M Vijay,31,29,2.0,1.0,0,0,0,39.0,106.89655172413792,AC Thomas,caught
+Chennai Super Kings,Pune Warriors,501226,2011-04-25,MEK Hussey,61,50,6.0,1.0,1,0,0,81.0,122.0,JE Taylor,caught
+Chennai Super Kings,Pune Warriors,501226,2011-04-25,MS Dhoni,26,21,2.0,1.0,0,0,0,34.0,123.8095238095238,R Sharma,stumped
+Chennai Super Kings,Pune Warriors,501226,2011-04-25,S Anirudha,7,7,0.0,0.0,0,0,0,11.0,100.0,JE Taylor,caught
+Chennai Super Kings,Pune Warriors,501226,2011-04-25,S Badrinath,11,7,0.0,1.0,0,0,0,17.0,157.14285714285714,0,0
+Chennai Super Kings,Pune Warriors,501226,2011-04-25,SK Raina,2,4,0.0,0.0,0,0,0,6.0,50.0,AC Thomas,bowled
+Pune Warriors,Chennai Super Kings,501226,2011-04-25,AC Thomas,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Pune Warriors,Chennai Super Kings,501226,2011-04-25,JD Ryder,15,11,1.0,1.0,0,0,0,22.0,136.36363636363637,R Ashwin,bowled
+Pune Warriors,Chennai Super Kings,501226,2011-04-25,JE Taylor,2,2,0.0,0.0,0,0,0,6.0,100.0,DE Bollinger,run out
+Pune Warriors,Chennai Super Kings,501226,2011-04-25,M Kartik,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Pune Warriors,Chennai Super Kings,501226,2011-04-25,M Manhas,20,24,0.0,1.0,0,0,0,26.0,83.33333333333334,DE Bollinger,caught
+Pune Warriors,Chennai Super Kings,501226,2011-04-25,MD Mishra,9,9,1.0,0.0,0,0,0,14.0,100.0,JA Morkel,bowled
+Pune Warriors,Chennai Super Kings,501226,2011-04-25,MK Pandey,12,9,2.0,0.0,0,0,0,18.0,133.33333333333331,JA Morkel,bowled
+Pune Warriors,Chennai Super Kings,501226,2011-04-25,NL McCullum,15,16,0.0,0.0,0,0,0,19.0,93.75,DE Bollinger,caught
+Pune Warriors,Chennai Super Kings,501226,2011-04-25,R Sharma,1,1,0.0,0.0,0,0,0,5.0,100.0,JA Morkel,run out
+Pune Warriors,Chennai Super Kings,501226,2011-04-25,RV Uthappa,0,4,0.0,0.0,0,0,1,2.0,0.0,R Ashwin,bowled
+Pune Warriors,Chennai Super Kings,501226,2011-04-25,Yuvraj Singh,34,43,2.0,0.0,0,0,0,40.0,79.06976744186046,JA Morkel,caught

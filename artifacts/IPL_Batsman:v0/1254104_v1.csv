@@ -1,0 +1,20 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Mumbai Indians,1254104,2021-09-19,AT Rayudu,0,3,0.0,0.0,0,0,1,2.0,0.0,AF Milne,retired hurt
+Chennai Super Kings,Mumbai Indians,1254104,2021-09-19,DJ Bravo,23,9,0.0,3.0,0,0,0,33.0,255.5555555555556,JJ Bumrah,caught
+Chennai Super Kings,Mumbai Indians,1254104,2021-09-19,F du Plessis,0,3,0.0,0.0,0,0,1,2.0,0.0,TA Boult,caught
+Chennai Super Kings,Mumbai Indians,1254104,2021-09-19,MM Ali,0,3,0.0,0.0,0,0,1,2.0,0.0,AF Milne,caught
+Chennai Super Kings,Mumbai Indians,1254104,2021-09-19,MS Dhoni,3,5,0.0,0.0,0,0,0,7.0,60.0,AF Milne,caught
+Chennai Super Kings,Mumbai Indians,1254104,2021-09-19,RA Jadeja,26,37,1.0,0.0,0,0,0,31.0,70.27027027027027,JJ Bumrah,caught
+Chennai Super Kings,Mumbai Indians,1254104,2021-09-19,RD Gaikwad,88,58,9.0,4.0,1,0,0,117.0,151.72413793103448,0,0
+Chennai Super Kings,Mumbai Indians,1254104,2021-09-19,SK Raina,4,6,1.0,0.0,0,0,0,9.0,66.66666666666666,TA Boult,caught
+Chennai Super Kings,Mumbai Indians,1254104,2021-09-19,SN Thakur,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Mumbai Indians,Chennai Super Kings,1254104,2021-09-19,AF Milne,15,17,0.0,1.0,0,0,0,21.0,88.23529411764706,DJ Bravo,caught
+Mumbai Indians,Chennai Super Kings,1254104,2021-09-19,Anmolpreet Singh,16,14,2.0,1.0,0,0,0,24.0,114.28571428571428,DL Chahar,bowled
+Mumbai Indians,Chennai Super Kings,1254104,2021-09-19,Ishan Kishan,11,10,1.0,0.0,0,0,0,16.0,110.0,DJ Bravo,caught
+Mumbai Indians,Chennai Super Kings,1254104,2021-09-19,JJ Bumrah,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Mumbai Indians,Chennai Super Kings,1254104,2021-09-19,KA Pollard,15,15,1.0,1.0,0,0,0,22.0,100.0,JR Hazlewood,lbw
+Mumbai Indians,Chennai Super Kings,1254104,2021-09-19,KH Pandya,4,5,0.0,0.0,0,0,0,8.0,80.0,MM Ali,run out
+Mumbai Indians,Chennai Super Kings,1254104,2021-09-19,Q de Kock,17,12,3.0,0.0,0,0,0,24.0,141.66666666666669,DL Chahar,lbw
+Mumbai Indians,Chennai Super Kings,1254104,2021-09-19,RD Chahar,0,1,0.0,0.0,0,0,1,2.0,0.0,DJ Bravo,caught
+Mumbai Indians,Chennai Super Kings,1254104,2021-09-19,SA Yadav,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,SN Thakur,caught
+Mumbai Indians,Chennai Super Kings,1254104,2021-09-19,SS Tiwary,50,41,5.0,0.0,1,0,0,67.0,121.95121951219512,0,0

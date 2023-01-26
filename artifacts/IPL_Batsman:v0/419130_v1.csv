@@ -1,0 +1,20 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Mumbai Indians,419130,2010-03-28,A Symonds,1,7,0.0,0.0,0,0,0,5.0,14.285714285714285,SL Malinga,caught
+Deccan Chargers,Mumbai Indians,419130,2010-03-28,AC Gilchrist,0,2,0.0,0.0,0,0,1,2.0,0.0,Harbhajan Singh,caught
+Deccan Chargers,Mumbai Indians,419130,2010-03-28,HH Gibbs,27,16,3.0,2.0,0,0,0,38.0,168.75,Z Khan,caught
+Deccan Chargers,Mumbai Indians,419130,2010-03-28,Jaskaran Singh,1,2,0.0,0.0,0,0,0,5.0,50.0,Harbhajan Singh,caught
+Deccan Chargers,Mumbai Indians,419130,2010-03-28,KAJ Roach,10,9,1.0,0.0,0,0,0,15.0,111.11111111111111,Z Khan,bowled
+Deccan Chargers,Mumbai Indians,419130,2010-03-28,MD Mishra,13,13,1.0,1.0,0,0,0,20.0,100.0,SL Malinga,caught
+Deccan Chargers,Mumbai Indians,419130,2010-03-28,RG Sharma,45,30,3.0,2.0,0,0,0,56.0,150.0,Z Khan,bowled
+Deccan Chargers,Mumbai Indians,419130,2010-03-28,RP Singh,1,5,0.0,0.0,0,0,0,5.0,20.0,SL Malinga,bowled
+Deccan Chargers,Mumbai Indians,419130,2010-03-28,TL Suman,15,17,0.0,1.0,0,0,0,21.0,88.23529411764706,Harbhajan Singh,caught and bowled
+Deccan Chargers,Mumbai Indians,419130,2010-03-28,Y Venugopal Rao,7,9,1.0,0.0,0,0,0,12.0,77.77777777777779,KA Pollard,caught
+Mumbai Indians,Deccan Chargers,419130,2010-03-28,AT Rayudu,6,8,0.0,0.0,0,0,0,10.0,75.0,PP Ojha,stumped
+Mumbai Indians,Deccan Chargers,419130,2010-03-28,DJ Bravo,23,16,3.0,1.0,0,0,0,32.0,143.75,RP Singh,caught
+Mumbai Indians,Deccan Chargers,419130,2010-03-28,Harbhajan Singh,49,18,8.0,2.0,0,0,0,65.0,272.22222222222223,0,0
+Mumbai Indians,Deccan Chargers,419130,2010-03-28,KA Pollard,1,5,0.0,0.0,0,0,0,5.0,20.0,Jaskaran Singh,caught
+Mumbai Indians,Deccan Chargers,419130,2010-03-28,R McLaren,13,16,1.0,0.0,0,0,0,18.0,81.25,0,0
+Mumbai Indians,Deccan Chargers,419130,2010-03-28,R Sathish,3,5,0.0,0.0,0,0,0,7.0,60.0,PP Ojha,caught
+Mumbai Indians,Deccan Chargers,419130,2010-03-28,S Dhawan,8,13,2.0,0.0,0,0,0,14.0,61.53846153846154,Jaskaran Singh,lbw
+Mumbai Indians,Deccan Chargers,419130,2010-03-28,SR Tendulkar,55,45,9.0,0.0,1,0,0,76.0,122.22222222222224,RP Singh,caught
+Mumbai Indians,Deccan Chargers,419130,2010-03-28,SS Tiwary,4,3,1.0,0.0,0,0,0,9.0,133.33333333333331,RP Singh,caught

@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Rajasthan Royals,Sunrisers Hyderabad,1254100,2021-09-27,E Lewis,6,4,1.0,0.0,0,0,0,11.0,150.0,B Kumar,caught
+Rajasthan Royals,Sunrisers Hyderabad,1254100,2021-09-27,LS Livingstone,4,6,0.0,0.0,0,0,0,8.0,66.66666666666666,Rashid Khan,caught
+Rajasthan Royals,Sunrisers Hyderabad,1254100,2021-09-27,MK Lomror,29,29,1.0,1.0,0,0,0,36.0,100.0,0,0
+Rajasthan Royals,Sunrisers Hyderabad,1254100,2021-09-27,R Parag,0,1,0.0,0.0,0,0,1,2.0,0.0,S Kaul,caught
+Rajasthan Royals,Sunrisers Hyderabad,1254100,2021-09-27,R Tewatia,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Rajasthan Royals,Sunrisers Hyderabad,1254100,2021-09-27,SV Samson,82,59,7.0,3.0,1,0,0,107.0,138.98305084745763,S Kaul,caught
+Rajasthan Royals,Sunrisers Hyderabad,1254100,2021-09-27,YBK Jaiswal,36,23,5.0,1.0,0,0,0,47.0,156.52173913043478,Sandeep Sharma,bowled
+Sunrisers Hyderabad,Rajasthan Royals,1254100,2021-09-27,Abhishek Sharma,21,18,1.0,1.0,0,0,0,28.0,116.66666666666669,0,0
+Sunrisers Hyderabad,Rajasthan Royals,1254100,2021-09-27,JJ Roy,60,44,8.0,1.0,1,0,0,82.0,136.36363636363637,C Sakariya,caught
+Sunrisers Hyderabad,Rajasthan Royals,1254100,2021-09-27,KS Williamson,51,44,5.0,1.0,1,0,0,70.0,115.90909090909092,0,0
+Sunrisers Hyderabad,Rajasthan Royals,1254100,2021-09-27,PK Garg,0,1,0.0,0.0,0,0,1,2.0,0.0,Mustafizur Rahman,caught and bowled
+Sunrisers Hyderabad,Rajasthan Royals,1254100,2021-09-27,WP Saha,18,12,2.0,1.0,0,0,0,26.0,150.0,MK Lomror,stumped

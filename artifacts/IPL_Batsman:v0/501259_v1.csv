@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Pune Warriors,501259,2011-05-16,B Chipli,5,4,1.0,0.0,0,0,0,10.0,125.0,0,0
+Deccan Chargers,Pune Warriors,501259,2011-05-16,DT Christian,14,12,1.0,0.0,0,0,0,19.0,116.66666666666669,0,0
+Deccan Chargers,Pune Warriors,501259,2011-05-16,JP Duminy,23,27,0.0,1.0,0,0,0,29.0,85.18518518518519,WD Parnell,bowled
+Deccan Chargers,Pune Warriors,501259,2011-05-16,KC Sangakkara,25,21,2.0,1.0,0,0,0,33.0,119.04761904761904,R Sharma,caught
+Deccan Chargers,Pune Warriors,501259,2011-05-16,S Dhawan,28,25,4.0,0.0,0,0,0,36.0,112.0,Yuvraj Singh,stumped
+Deccan Chargers,Pune Warriors,501259,2011-05-16,S Sohal,34,32,2.0,2.0,0,0,0,44.0,106.25,R Sharma,lbw
+Pune Warriors,Deccan Chargers,501259,2011-05-16,B Kumar,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Pune Warriors,Deccan Chargers,501259,2011-05-16,CJ Ferguson,11,13,1.0,0.0,0,0,0,16.0,84.61538461538461,JP Duminy,caught and bowled
+Pune Warriors,Deccan Chargers,501259,2011-05-16,JD Ryder,18,14,1.0,1.0,0,0,0,25.0,128.57142857142858,DW Steyn,caught
+Pune Warriors,Deccan Chargers,501259,2011-05-16,M Manhas,0,1,0.0,0.0,0,0,1,2.0,0.0,A Mishra,bowled
+Pune Warriors,Deccan Chargers,501259,2011-05-16,MK Pandey,23,20,3.0,1.0,0,0,0,32.0,115.0,PP Ojha,bowled
+Pune Warriors,Deccan Chargers,501259,2011-05-16,MR Marsh,37,28,1.0,3.0,0,0,0,48.0,132.14285714285714,PP Ojha,bowled
+Pune Warriors,Deccan Chargers,501259,2011-05-16,RV Uthappa,4,5,1.0,0.0,0,0,0,9.0,80.0,A Mishra,caught and bowled
+Pune Warriors,Deccan Chargers,501259,2011-05-16,SC Ganguly,0,5,0.0,0.0,0,0,1,2.0,0.0,DT Christian,caught
+Pune Warriors,Deccan Chargers,501259,2011-05-16,WD Parnell,16,17,0.0,1.0,0,0,0,22.0,94.11764705882352,PP Ojha,run out
+Pune Warriors,Deccan Chargers,501259,2011-05-16,Yuvraj Singh,23,18,3.0,1.0,0,0,0,32.0,127.77777777777776,DT Christian,caught

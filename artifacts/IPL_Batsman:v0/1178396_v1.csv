@@ -1,0 +1,10 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Rajasthan Royals,1178396,2019-04-07,CA Lynn,50,32,6.0,3.0,1,0,0,74.0,156.25,S Gopal,caught
+Kolkata Knight Riders,Rajasthan Royals,1178396,2019-04-07,RV Uthappa,26,16,1.0,2.0,0,0,0,35.0,162.5,0,0
+Kolkata Knight Riders,Rajasthan Royals,1178396,2019-04-07,SP Narine,47,27,6.0,3.0,0,0,0,63.0,174.07407407407408,S Gopal,caught
+Kolkata Knight Riders,Rajasthan Royals,1178396,2019-04-07,Shubman Gill,6,11,0.0,0.0,0,0,0,10.0,54.54545454545454,0,0
+Rajasthan Royals,Kolkata Knight Riders,1178396,2019-04-07,AM Rahane,5,7,1.0,0.0,0,0,0,10.0,71.42857142857143,M Prasidh Krishna,lbw
+Rajasthan Royals,Kolkata Knight Riders,1178396,2019-04-07,BA Stokes,7,14,0.0,0.0,0,0,0,11.0,50.0,0,0
+Rajasthan Royals,Kolkata Knight Riders,1178396,2019-04-07,JC Buttler,37,35,5.0,1.0,0,0,0,48.0,105.71428571428572,HF Gurney,caught
+Rajasthan Royals,Kolkata Knight Riders,1178396,2019-04-07,RA Tripathi,6,8,0.0,0.0,0,0,0,10.0,75.0,HF Gurney,caught
+Rajasthan Royals,Kolkata Knight Riders,1178396,2019-04-07,SPD Smith,73,61,7.0,1.0,1,0,0,94.0,119.67213114754098,0,0

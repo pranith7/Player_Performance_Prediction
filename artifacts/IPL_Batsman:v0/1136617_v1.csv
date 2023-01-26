@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Sunrisers Hyderabad,1136617,2018-05-22,AT Rayudu,0,1,0.0,0.0,0,0,1,2.0,0.0,S Kaul,bowled
+Chennai Super Kings,Sunrisers Hyderabad,1136617,2018-05-22,DJ Bravo,7,11,0.0,0.0,0,0,0,11.0,63.63636363636363,Rashid Khan,caught
+Chennai Super Kings,Sunrisers Hyderabad,1136617,2018-05-22,DL Chahar,10,6,0.0,1.0,0,0,0,16.0,166.66666666666669,Sandeep Sharma,caught
+Chennai Super Kings,Sunrisers Hyderabad,1136617,2018-05-22,F du Plessis,67,43,5.0,4.0,1,0,0,92.0,155.8139534883721,0,0
+Chennai Super Kings,Sunrisers Hyderabad,1136617,2018-05-22,Harbhajan Singh,2,9,0.0,0.0,0,0,0,6.0,22.22222222222222,CR Brathwaite,run out
+Chennai Super Kings,Sunrisers Hyderabad,1136617,2018-05-22,MS Dhoni,9,19,1.0,0.0,0,0,0,14.0,47.368421052631575,Rashid Khan,bowled
+Chennai Super Kings,Sunrisers Hyderabad,1136617,2018-05-22,RA Jadeja,3,5,0.0,0.0,0,0,0,7.0,60.0,Sandeep Sharma,caught and bowled
+Chennai Super Kings,Sunrisers Hyderabad,1136617,2018-05-22,SK Raina,22,14,4.0,0.0,0,0,0,30.0,157.14285714285714,S Kaul,bowled
+Chennai Super Kings,Sunrisers Hyderabad,1136617,2018-05-22,SN Thakur,15,5,3.0,0.0,0,0,0,22.0,300.0,0,0
+Chennai Super Kings,Sunrisers Hyderabad,1136617,2018-05-22,SR Watson,0,5,0.0,0.0,0,0,1,2.0,0.0,B Kumar,caught
+Sunrisers Hyderabad,Chennai Super Kings,1136617,2018-05-22,B Kumar,7,13,0.0,0.0,0,0,0,11.0,53.84615384615385,SN Thakur,run out
+Sunrisers Hyderabad,Chennai Super Kings,1136617,2018-05-22,CR Brathwaite,43,33,1.0,4.0,0,0,0,56.0,130.3030303030303,0,0
+Sunrisers Hyderabad,Chennai Super Kings,1136617,2018-05-22,KS Williamson,24,15,4.0,0.0,0,0,0,32.0,160.0,SN Thakur,caught
+Sunrisers Hyderabad,Chennai Super Kings,1136617,2018-05-22,MK Pandey,8,16,0.0,0.0,0,0,0,12.0,50.0,RA Jadeja,caught and bowled
+Sunrisers Hyderabad,Chennai Super Kings,1136617,2018-05-22,S Dhawan,0,1,0.0,0.0,0,0,1,2.0,0.0,DL Chahar,bowled
+Sunrisers Hyderabad,Chennai Super Kings,1136617,2018-05-22,SP Goswami,12,9,2.0,0.0,0,0,0,18.0,133.33333333333331,L Ngidi,caught and bowled
+Sunrisers Hyderabad,Chennai Super Kings,1136617,2018-05-22,Shakib Al Hasan,12,10,2.0,0.0,0,0,0,18.0,120.0,DJ Bravo,caught
+Sunrisers Hyderabad,Chennai Super Kings,1136617,2018-05-22,YK Pathan,24,32,3.0,0.0,0,0,0,31.0,75.0,DJ Bravo,caught and bowled

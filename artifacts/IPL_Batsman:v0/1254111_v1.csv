@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Punjab Kings,Rajasthan Royals,1254111,2021-09-21,AK Markram,26,21,2.0,1.0,0,0,0,34.0,123.8095238095238,0,0
+Punjab Kings,Rajasthan Royals,1254111,2021-09-21,DJ Hooda,0,2,0.0,0.0,0,0,1,2.0,0.0,Kartik Tyagi,caught
+Punjab Kings,Rajasthan Royals,1254111,2021-09-21,FA Allen,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Punjab Kings,Rajasthan Royals,1254111,2021-09-21,KL Rahul,49,36,4.0,2.0,0,0,0,61.0,136.11111111111111,C Sakariya,caught
+Punjab Kings,Rajasthan Royals,1254111,2021-09-21,MA Agarwal,67,46,7.0,2.0,1,0,0,90.0,145.65217391304347,R Tewatia,caught
+Punjab Kings,Rajasthan Royals,1254111,2021-09-21,N Pooran,32,22,1.0,2.0,0,0,0,41.0,145.45454545454547,Kartik Tyagi,caught
+Rajasthan Royals,Punjab Kings,1254111,2021-09-21,C Sakariya,7,6,1.0,0.0,0,0,0,12.0,116.66666666666669,Arshdeep Singh,caught and bowled
+Rajasthan Royals,Punjab Kings,1254111,2021-09-21,CH Morris,5,5,0.0,0.0,0,0,0,9.0,100.0,Mohammed Shami,caught
+Rajasthan Royals,Punjab Kings,1254111,2021-09-21,E Lewis,36,22,7.0,1.0,0,0,0,49.0,163.63636363636363,Arshdeep Singh,caught
+Rajasthan Royals,Punjab Kings,1254111,2021-09-21,Kartik Tyagi,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,Arshdeep Singh,bowled
+Rajasthan Royals,Punjab Kings,1254111,2021-09-21,LS Livingstone,25,19,2.0,1.0,0,0,0,33.0,131.57894736842107,Arshdeep Singh,caught
+Rajasthan Royals,Punjab Kings,1254111,2021-09-21,MK Lomror,43,18,2.0,4.0,0,0,0,57.0,238.88888888888889,Arshdeep Singh,caught
+Rajasthan Royals,Punjab Kings,1254111,2021-09-21,R Parag,4,5,0.0,0.0,0,0,0,8.0,80.0,Mohammed Shami,caught
+Rajasthan Royals,Punjab Kings,1254111,2021-09-21,R Tewatia,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,Mohammed Shami,bowled
+Rajasthan Royals,Punjab Kings,1254111,2021-09-21,SV Samson,4,5,0.0,0.0,0,0,0,8.0,80.0,IC Porel,caught
+Rajasthan Royals,Punjab Kings,1254111,2021-09-21,YBK Jaiswal,49,36,6.0,2.0,0,0,0,63.0,136.11111111111111,Harpreet Brar,caught

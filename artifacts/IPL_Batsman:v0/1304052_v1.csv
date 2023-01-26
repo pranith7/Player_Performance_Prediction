@@ -1,0 +1,21 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Royal Challengers Bangalore,1304052,2022-03-30,AD Russell,25,19,1.0,3.0,0,0,0,36.0,131.57894736842107,HV Patel,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,1304052,2022-03-30,AM Rahane,9,10,1.0,0.0,0,0,0,14.0,90.0,Mohammed Siraj,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,1304052,2022-03-30,CV Varun,10,16,2.0,0.0,0,0,0,16.0,62.5,0,0
+Kolkata Knight Riders,Royal Challengers Bangalore,1304052,2022-03-30,N Rana,10,5,1.0,1.0,0,0,0,17.0,200.0,Akash Deep,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,1304052,2022-03-30,SP Jackson,0,1,0.0,0.0,0,0,1,2.0,0.0,PWH de Silva,bowled
+Kolkata Knight Riders,Royal Challengers Bangalore,1304052,2022-03-30,SP Narine,12,8,1.0,1.0,0,0,0,19.0,150.0,PWH de Silva,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,1304052,2022-03-30,SS Iyer,13,10,2.0,0.0,0,0,0,19.0,130.0,PWH de Silva,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,1304052,2022-03-30,SW Billings,14,15,0.0,1.0,0,0,0,20.0,93.33333333333331,HV Patel,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,1304052,2022-03-30,TG Southee,1,5,0.0,0.0,0,0,0,5.0,20.0,PWH de Silva,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,1304052,2022-03-30,UT Yadav,18,12,2.0,1.0,0,0,0,26.0,150.0,Akash Deep,bowled
+Kolkata Knight Riders,Royal Challengers Bangalore,1304052,2022-03-30,VR Iyer,10,14,1.0,0.0,0,0,0,15.0,71.42857142857143,Akash Deep,caught and bowled
+Royal Challengers Bangalore,Kolkata Knight Riders,1304052,2022-03-30,Anuj Rawat,0,2,0.0,0.0,0,0,1,2.0,0.0,UT Yadav,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,1304052,2022-03-30,DJ Willey,18,30,3.0,0.0,0,0,0,25.0,60.0,SP Narine,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,1304052,2022-03-30,F du Plessis,5,4,1.0,0.0,0,0,0,10.0,125.0,TG Southee,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,1304052,2022-03-30,HV Patel,10,6,2.0,0.0,0,0,0,16.0,166.66666666666669,0,0
+Royal Challengers Bangalore,Kolkata Knight Riders,1304052,2022-03-30,KD Karthik,14,8,1.0,1.0,0,0,0,21.0,175.0,0,0
+Royal Challengers Bangalore,Kolkata Knight Riders,1304052,2022-03-30,PWH de Silva,4,3,1.0,0.0,0,0,0,9.0,133.33333333333331,TG Southee,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,1304052,2022-03-30,SE Rutherford,28,40,1.0,1.0,0,0,0,35.0,70.0,TG Southee,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,1304052,2022-03-30,Shahbaz Ahmed,27,21,0.0,3.0,0,0,0,37.0,128.57142857142858,CV Varun,stumped
+Royal Challengers Bangalore,Kolkata Knight Riders,1304052,2022-03-30,V Kohli,12,7,2.0,0.0,0,0,0,18.0,171.42857142857142,UT Yadav,caught

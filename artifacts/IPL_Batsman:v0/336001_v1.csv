@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Delhi Daredevils,336001,2008-05-02,JA Morkel,28,16,3.0,2.0,0,0,0,39.0,175.0,R Bhatia,caught
+Chennai Super Kings,Delhi Daredevils,336001,2008-05-02,MS Dhoni,32,28,2.0,1.0,0,0,0,40.0,114.28571428571428,Mohammad Asif,caught
+Chennai Super Kings,Delhi Daredevils,336001,2008-05-02,PA Patel,21,21,3.0,0.0,0,0,0,28.0,100.0,V Sehwag,caught
+Chennai Super Kings,Delhi Daredevils,336001,2008-05-02,S Badrinath,11,5,0.0,1.0,0,0,0,17.0,220.00000000000003,0,0
+Chennai Super Kings,Delhi Daredevils,336001,2008-05-02,S Vidyut,54,38,7.0,1.0,1,0,0,75.0,142.10526315789474,GD McGrath,caught
+Chennai Super Kings,Delhi Daredevils,336001,2008-05-02,SK Raina,3,4,0.0,0.0,0,0,0,7.0,75.0,PJ Sangwan,run out
+Chennai Super Kings,Delhi Daredevils,336001,2008-05-02,SP Fleming,13,14,2.0,0.0,0,0,0,19.0,92.85714285714286,VY Mahesh,bowled
+Delhi Daredevils,Chennai Super Kings,336001,2008-05-02,AB de Villiers,26,22,2.0,0.0,0,0,0,32.0,118.1818181818182,0,0
+Delhi Daredevils,Chennai Super Kings,336001,2008-05-02,G Gambhir,50,37,5.0,1.0,1,0,0,69.0,135.13513513513513,MS Gony,bowled
+Delhi Daredevils,Chennai Super Kings,336001,2008-05-02,S Dhawan,19,17,2.0,0.0,0,0,0,25.0,111.76470588235294,0,0
+Delhi Daredevils,Chennai Super Kings,336001,2008-05-02,V Sehwag,71,42,7.0,4.0,1,0,0,98.0,169.04761904761904,Joginder Sharma,caught

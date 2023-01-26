@@ -1,0 +1,20 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Kolkata Knight Riders,829765,2015-04-28,BB McCullum,19,14,3.0,1.0,0,0,0,28.0,135.71428571428572,PP Chawla,lbw
+Chennai Super Kings,Kolkata Knight Riders,829765,2015-04-28,DJ Bravo,5,7,1.0,0.0,0,0,0,10.0,71.42857142857143,PP Chawla,caught
+Chennai Super Kings,Kolkata Knight Riders,829765,2015-04-28,DR Smith,25,20,3.0,1.0,0,0,0,34.0,125.0,GB Hogg,run out
+Chennai Super Kings,Kolkata Knight Riders,829765,2015-04-28,F du Plessis,29,33,1.0,0.0,0,0,0,34.0,87.87878787878788,0,0
+Chennai Super Kings,Kolkata Knight Riders,829765,2015-04-28,MS Dhoni,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,AD Russell,caught
+Chennai Super Kings,Kolkata Knight Riders,829765,2015-04-28,R Ashwin,9,4,2.0,0.0,0,0,0,15.0,225.0,0,0
+Chennai Super Kings,Kolkata Knight Riders,829765,2015-04-28,RA Jadeja,15,20,0.0,0.0,0,0,0,19.0,75.0,GB Hogg,bowled
+Chennai Super Kings,Kolkata Knight Riders,829765,2015-04-28,SK Raina,17,22,2.0,1.0,0,0,0,25.0,77.27272727272727,AD Russell,caught
+Kolkata Knight Riders,Chennai Super Kings,829765,2015-04-28,AD Russell,4,4,0.0,0.0,0,0,0,8.0,100.0,A Nehra,run out
+Kolkata Knight Riders,Chennai Super Kings,829765,2015-04-28,G Gambhir,0,1,0.0,0.0,0,0,1,2.0,0.0,IC Pandey,caught
+Kolkata Knight Riders,Chennai Super Kings,829765,2015-04-28,GB Hogg,2,1,0.0,0.0,0,0,0,6.0,200.0,0,0
+Kolkata Knight Riders,Chennai Super Kings,829765,2015-04-28,MK Pandey,15,20,2.0,0.0,0,0,0,21.0,75.0,R Ashwin,caught
+Kolkata Knight Riders,Chennai Super Kings,829765,2015-04-28,PJ Cummins,0,2,0.0,0.0,0,0,1,2.0,0.0,DJ Bravo,caught
+Kolkata Knight Riders,Chennai Super Kings,829765,2015-04-28,PP Chawla,0,2,0.0,0.0,0,0,1,2.0,0.0,DJ Bravo,caught
+Kolkata Knight Riders,Chennai Super Kings,829765,2015-04-28,RN ten Doeschate,38,28,3.0,2.0,0,0,0,49.0,135.71428571428572,0,0
+Kolkata Knight Riders,Chennai Super Kings,829765,2015-04-28,RV Uthappa,39,18,6.0,1.0,0,0,0,51.0,216.66666666666663,R Ashwin,caught
+Kolkata Knight Riders,Chennai Super Kings,829765,2015-04-28,SA Yadav,16,26,1.0,0.0,0,0,0,21.0,61.53846153846154,MM Sharma,caught
+Kolkata Knight Riders,Chennai Super Kings,829765,2015-04-28,UT Yadav,0,1,0.0,0.0,0,0,1,2.0,0.0,A Nehra,bowled
+Kolkata Knight Riders,Chennai Super Kings,829765,2015-04-28,YK Pathan,13,20,0.0,0.0,0,0,0,17.0,65.0,DJ Bravo,bowled

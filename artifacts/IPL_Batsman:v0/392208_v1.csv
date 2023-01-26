@@ -1,0 +1,10 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Royal Challengers Bangalore,392208,2009-05-03,AM Nayar,29,20,4.0,0.0,0,0,0,37.0,145.0,0,0
+Mumbai Indians,Royal Challengers Bangalore,392208,2009-05-03,AM Rahane,0,1,0.0,0.0,0,0,1,2.0,0.0,D du Preez,caught
+Mumbai Indians,Royal Challengers Bangalore,392208,2009-05-03,DJ Bravo,50,40,1.0,2.0,1,0,0,67.0,125.0,0,0
+Mumbai Indians,Royal Challengers Bangalore,392208,2009-05-03,JP Duminy,1,6,0.0,0.0,0,0,0,5.0,16.666666666666664,D du Preez,caught
+Mumbai Indians,Royal Challengers Bangalore,392208,2009-05-03,SR Tendulkar,11,11,2.0,0.0,0,0,0,17.0,100.0,D du Preez,caught
+Mumbai Indians,Royal Challengers Bangalore,392208,2009-05-03,ST Jayasuriya,52,44,6.0,1.0,1,0,0,72.0,118.1818181818182,RE van der Merwe,caught
+Royal Challengers Bangalore,Mumbai Indians,392208,2009-05-03,JH Kallis,69,63,5.0,2.0,1,0,0,90.0,109.52380952380952,0,0
+Royal Challengers Bangalore,Mumbai Indians,392208,2009-05-03,RV Uthappa,66,43,8.0,2.0,1,0,0,90.0,153.48837209302326,0,0
+Royal Challengers Bangalore,Mumbai Indians,392208,2009-05-03,W Jaffer,7,10,1.0,0.0,0,0,0,12.0,70.0,Z Khan,caught

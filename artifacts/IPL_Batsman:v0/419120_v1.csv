@@ -1,0 +1,20 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Delhi Daredevils,419120,2010-03-21,A Symonds,35,24,3.0,2.0,0,0,0,46.0,145.83333333333331,MC Henriques,caught
+Deccan Chargers,Delhi Daredevils,419120,2010-03-21,AC Gilchrist,24,14,4.0,1.0,0,0,0,34.0,171.42857142857142,S Ladda,caught
+Deccan Chargers,Delhi Daredevils,419120,2010-03-21,HH Gibbs,31,26,2.0,2.0,0,0,0,41.0,119.23076923076924,Y Nagar,caught
+Deccan Chargers,Delhi Daredevils,419120,2010-03-21,MD Mishra,1,4,0.0,0.0,0,0,0,5.0,25.0,A Mishra,bowled
+Deccan Chargers,Delhi Daredevils,419120,2010-03-21,RG Sharma,45,30,3.0,3.0,0,0,0,58.0,150.0,DP Nannes,caught
+Deccan Chargers,Delhi Daredevils,419120,2010-03-21,TL Suman,29,19,3.0,1.0,0,0,0,38.0,152.63157894736844,0,0
+Deccan Chargers,Delhi Daredevils,419120,2010-03-21,WPUJC Vaas,3,2,0.0,0.0,0,0,0,7.0,150.0,0,0
+Deccan Chargers,Delhi Daredevils,419120,2010-03-21,Y Venugopal Rao,1,2,0.0,0.0,0,0,0,5.0,50.0,UT Yadav,run out
+Delhi Daredevils,Deccan Chargers,419120,2010-03-21,A Mishra,0,1,0.0,0.0,0,0,1,2.0,0.0,A Symonds,caught
+Delhi Daredevils,Deccan Chargers,419120,2010-03-21,AB de Villiers,27,26,2.0,0.0,0,0,0,33.0,103.84615384615384,R Sharma,bowled
+Delhi Daredevils,Deccan Chargers,419120,2010-03-21,DA Warner,57,33,4.0,4.0,1,0,0,81.0,172.72727272727272,PP Ojha,run out
+Delhi Daredevils,Deccan Chargers,419120,2010-03-21,DP Nannes,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Delhi Daredevils,Deccan Chargers,419120,2010-03-21,KD Karthik,46,27,4.0,2.0,0,0,0,58.0,170.37037037037038,A Symonds,caught and bowled
+Delhi Daredevils,Deccan Chargers,419120,2010-03-21,M Manhas,8,8,1.0,0.0,0,0,0,13.0,100.0,R Sharma,caught
+Delhi Daredevils,Deccan Chargers,419120,2010-03-21,MC Henriques,11,5,2.0,0.0,0,0,0,17.0,220.00000000000003,A Symonds,caught
+Delhi Daredevils,Deccan Chargers,419120,2010-03-21,S Ladda,0,1,0.0,0.0,0,0,1,2.0,0.0,WPUJC Vaas,run out
+Delhi Daredevils,Deccan Chargers,419120,2010-03-21,UT Yadav,3,4,0.0,0.0,0,0,0,7.0,75.0,0,0
+Delhi Daredevils,Deccan Chargers,419120,2010-03-21,V Sehwag,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,PP Ojha,caught
+Delhi Daredevils,Deccan Chargers,419120,2010-03-21,Y Nagar,1,7,0.0,0.0,0,0,0,5.0,14.285714285714285,WPUJC Vaas,bowled

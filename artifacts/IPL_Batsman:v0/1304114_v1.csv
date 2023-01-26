@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Rajasthan Royals,1304114,2022-05-20,AT Rayudu,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,YS Chahal,caught
+Chennai Super Kings,Rajasthan Royals,1304114,2022-05-20,DP Conway,16,14,1.0,1.0,0,0,0,23.0,114.28571428571428,R Ashwin,lbw
+Chennai Super Kings,Rajasthan Royals,1304114,2022-05-20,MJ Santner,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Chennai Super Kings,Rajasthan Royals,1304114,2022-05-20,MM Ali,93,60,13.0,3.0,1,0,0,124.0,155.0,OC McCoy,caught
+Chennai Super Kings,Rajasthan Royals,1304114,2022-05-20,MS Dhoni,26,29,1.0,1.0,0,0,0,33.0,89.65517241379311,YS Chahal,caught
+Chennai Super Kings,Rajasthan Royals,1304114,2022-05-20,N Jagadeesan,1,4,0.0,0.0,0,0,0,5.0,25.0,OC McCoy,caught
+Chennai Super Kings,Rajasthan Royals,1304114,2022-05-20,RD Gaikwad,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,TA Boult,caught
+Chennai Super Kings,Rajasthan Royals,1304114,2022-05-20,Simarjeet Singh,3,3,0.0,0.0,0,0,0,7.0,100.0,0,0
+Rajasthan Royals,Chennai Super Kings,1304114,2022-05-20,D Padikkal,3,9,0.0,0.0,0,0,0,7.0,33.33333333333333,MM Ali,bowled
+Rajasthan Royals,Chennai Super Kings,1304114,2022-05-20,JC Buttler,2,5,0.0,0.0,0,0,0,6.0,40.0,Simarjeet Singh,caught
+Rajasthan Royals,Chennai Super Kings,1304114,2022-05-20,R Ashwin,40,23,2.0,3.0,0,0,0,52.0,173.91304347826087,0,0
+Rajasthan Royals,Chennai Super Kings,1304114,2022-05-20,R Parag,10,12,1.0,0.0,0,0,0,15.0,83.33333333333334,0,0
+Rajasthan Royals,Chennai Super Kings,1304114,2022-05-20,SO Hetmyer,6,7,1.0,0.0,0,0,0,11.0,85.71428571428571,PH Solanki,caught
+Rajasthan Royals,Chennai Super Kings,1304114,2022-05-20,SV Samson,15,20,2.0,0.0,0,0,0,21.0,75.0,MJ Santner,caught and bowled
+Rajasthan Royals,Chennai Super Kings,1304114,2022-05-20,YBK Jaiswal,59,46,8.0,1.0,1,0,0,81.0,128.26086956521738,PH Solanki,caught

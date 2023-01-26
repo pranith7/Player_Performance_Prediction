@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Royal Challengers Bangalore,392232,2009-05-19,AB McDonald,3,4,0.0,0.0,0,0,0,7.0,75.0,A Kumble,bowled
+Delhi Daredevils,Royal Challengers Bangalore,392232,2009-05-19,AB de Villiers,28,29,3.0,0.0,0,0,0,35.0,96.55172413793105,RE van der Merwe,bowled
+Delhi Daredevils,Royal Challengers Bangalore,392232,2009-05-19,DL Vettori,4,2,0.0,0.0,0,0,0,8.0,200.0,0,0
+Delhi Daredevils,Royal Challengers Bangalore,392232,2009-05-19,G Gambhir,27,19,3.0,1.0,0,0,0,36.0,142.10526315789474,JH Kallis,caught
+Delhi Daredevils,Royal Challengers Bangalore,392232,2009-05-19,KD Karthik,31,30,1.0,0.0,0,0,0,36.0,103.33333333333334,P Kumar,caught
+Delhi Daredevils,Royal Challengers Bangalore,392232,2009-05-19,M Manhas,0,2,0.0,0.0,0,0,1,2.0,0.0,P Kumar,caught
+Delhi Daredevils,Royal Challengers Bangalore,392232,2009-05-19,MF Maharoof,18,13,0.0,0.0,0,0,0,22.0,138.46153846153845,0,0
+Delhi Daredevils,Royal Challengers Bangalore,392232,2009-05-19,V Sehwag,0,2,0.0,0.0,0,0,1,2.0,0.0,P Kumar,caught
+Delhi Daredevils,Royal Challengers Bangalore,392232,2009-05-19,Y Nagar,20,22,1.0,0.0,0,0,0,25.0,90.9090909090909,A Kumble,caught
+Royal Challengers Bangalore,Delhi Daredevils,392232,2009-05-19,JH Kallis,58,56,2.0,2.0,1,0,0,76.0,103.57142857142858,0,0
+Royal Challengers Bangalore,Delhi Daredevils,392232,2009-05-19,LRPL Taylor,25,12,1.0,3.0,0,0,0,36.0,208.3333333333333,Y Nagar,caught
+Royal Challengers Bangalore,Delhi Daredevils,392232,2009-05-19,MV Boucher,10,9,1.0,0.0,0,0,0,15.0,111.11111111111111,0,0
+Royal Challengers Bangalore,Delhi Daredevils,392232,2009-05-19,R Dravid,38,34,4.0,0.0,0,0,0,46.0,111.76470588235294,Y Nagar,caught and bowled
+Royal Challengers Bangalore,Delhi Daredevils,392232,2009-05-19,RV Uthappa,1,5,0.0,0.0,0,0,0,5.0,20.0,A Nehra,caught

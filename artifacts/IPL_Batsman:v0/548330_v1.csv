@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Pune Warriors,548330,2012-04-19,DJ Bravo,12,8,0.0,1.0,0,0,0,18.0,150.0,A Nehra,caught
+Chennai Super Kings,Pune Warriors,548330,2012-04-19,F du Plessis,58,48,4.0,2.0,1,0,0,78.0,120.83333333333331,MN Samuels,caught
+Chennai Super Kings,Pune Warriors,548330,2012-04-19,MS Dhoni,28,12,3.0,1.0,0,0,0,37.0,233.3333333333333,0,0
+Chennai Super Kings,Pune Warriors,548330,2012-04-19,RA Jadeja,7,3,0.0,1.0,0,0,0,13.0,233.3333333333333,MN Samuels,caught
+Chennai Super Kings,Pune Warriors,548330,2012-04-19,S Badrinath,57,48,8.0,0.0,1,0,0,77.0,118.75,MN Samuels,caught
+Chennai Super Kings,Pune Warriors,548330,2012-04-19,SK Raina,0,2,0.0,0.0,0,0,1,2.0,0.0,A Nehra,caught
+Pune Warriors,Chennai Super Kings,548330,2012-04-19,AD Mathews,27,23,1.0,0.0,0,0,0,32.0,117.3913043478261,DJ Bravo,bowled
+Pune Warriors,Chennai Super Kings,548330,2012-04-19,B Kumar,2,5,0.0,0.0,0,0,0,6.0,40.0,0,0
+Pune Warriors,Chennai Super Kings,548330,2012-04-19,JD Ryder,9,10,2.0,0.0,0,0,0,15.0,90.0,KMDN Kulasekara,caught
+Pune Warriors,Chennai Super Kings,548330,2012-04-19,M Kartik,4,3,0.0,0.0,0,0,0,8.0,133.33333333333331,0,0
+Pune Warriors,Chennai Super Kings,548330,2012-04-19,MK Pandey,13,6,0.0,1.0,0,0,0,19.0,216.66666666666663,DJ Bravo,caught
+Pune Warriors,Chennai Super Kings,548330,2012-04-19,MN Samuels,26,24,2.0,1.0,0,0,0,34.0,108.33333333333331,R Ashwin,caught
+Pune Warriors,Chennai Super Kings,548330,2012-04-19,RV Uthappa,8,5,2.0,0.0,0,0,0,14.0,160.0,KMDN Kulasekara,caught
+Pune Warriors,Chennai Super Kings,548330,2012-04-19,SC Ganguly,24,26,4.0,0.0,0,0,0,32.0,92.3076923076923,SB Jakati,caught
+Pune Warriors,Chennai Super Kings,548330,2012-04-19,SPD Smith,23,22,0.0,0.0,0,0,0,27.0,104.54545454545456,DE Bollinger,caught

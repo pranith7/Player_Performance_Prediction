@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Punjab Kings,Rajasthan Royals,1254061,2021-04-12,CH Gayle,40,29,4.0,2.0,0,0,0,52.0,137.93103448275863,R Parag,caught
+Punjab Kings,Rajasthan Royals,1254061,2021-04-12,DJ Hooda,64,28,4.0,6.0,1,0,0,92.0,228.57142857142856,CH Morris,caught
+Punjab Kings,Rajasthan Royals,1254061,2021-04-12,JA Richardson,0,2,0.0,0.0,0,0,1,2.0,0.0,C Sakariya,caught
+Punjab Kings,Rajasthan Royals,1254061,2021-04-12,KL Rahul,91,52,7.0,5.0,1,0,0,120.0,175.0,C Sakariya,caught
+Punjab Kings,Rajasthan Royals,1254061,2021-04-12,M Shahrukh Khan,6,4,1.0,0.0,0,0,0,11.0,150.0,0,0
+Punjab Kings,Rajasthan Royals,1254061,2021-04-12,MA Agarwal,14,10,2.0,0.0,0,0,0,20.0,140.0,C Sakariya,caught
+Punjab Kings,Rajasthan Royals,1254061,2021-04-12,N Pooran,0,1,0.0,0.0,0,0,1,2.0,0.0,CH Morris,caught
+Rajasthan Royals,Punjab Kings,1254061,2021-04-12,BA Stokes,0,3,0.0,0.0,0,0,1,2.0,0.0,Mohammed Shami,caught and bowled
+Rajasthan Royals,Punjab Kings,1254061,2021-04-12,CH Morris,2,4,0.0,0.0,0,0,0,6.0,50.0,0,0
+Rajasthan Royals,Punjab Kings,1254061,2021-04-12,JC Buttler,25,13,5.0,0.0,0,0,0,34.0,192.30769230769232,JA Richardson,bowled
+Rajasthan Royals,Punjab Kings,1254061,2021-04-12,M Vohra,12,9,1.0,1.0,0,0,0,19.0,133.33333333333331,Arshdeep Singh,caught and bowled
+Rajasthan Royals,Punjab Kings,1254061,2021-04-12,R Parag,25,12,1.0,3.0,0,0,0,36.0,208.3333333333333,Mohammed Shami,caught
+Rajasthan Royals,Punjab Kings,1254061,2021-04-12,R Tewatia,2,5,0.0,0.0,0,0,0,6.0,40.0,RP Meredith,caught
+Rajasthan Royals,Punjab Kings,1254061,2021-04-12,S Dube,23,15,3.0,0.0,0,0,0,30.0,153.33333333333334,Arshdeep Singh,caught
+Rajasthan Royals,Punjab Kings,1254061,2021-04-12,SV Samson,119,66,12.0,7.0,1,1,0,173.0,180.3030303030303,Arshdeep Singh,caught

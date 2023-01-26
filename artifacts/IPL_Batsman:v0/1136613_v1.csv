@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Rajasthan Royals,Royal Challengers Bangalore,1136613,2018-05-19,AM Rahane,33,32,3.0,0.0,0,0,0,40.0,103.125,UT Yadav,lbw
+Rajasthan Royals,Royal Challengers Bangalore,1136613,2018-05-19,H Klaasen,32,22,3.0,1.0,0,0,0,41.0,145.45454545454547,Mohammed Siraj,caught
+Rajasthan Royals,Royal Challengers Bangalore,1136613,2018-05-19,JC Archer,0,4,0.0,0.0,0,0,1,2.0,0.0,UT Yadav,caught
+Rajasthan Royals,Royal Challengers Bangalore,1136613,2018-05-19,K Gowtham,14,5,0.0,2.0,0,0,0,22.0,280.0,TG Southee,run out
+Rajasthan Royals,Royal Challengers Bangalore,1136613,2018-05-19,RA Tripathi,80,60,5.0,3.0,1,0,0,103.0,133.33333333333331,0,0
+Rajasthan Royals,Royal Challengers Bangalore,1136613,2018-05-19,SV Samson,0,1,0.0,0.0,0,0,1,2.0,0.0,UT Yadav,caught
+Royal Challengers Bangalore,Rajasthan Royals,1136613,2018-05-19,AB de Villiers,53,35,7.0,0.0,1,0,0,72.0,151.42857142857142,S Gopal,stumped
+Royal Challengers Bangalore,Rajasthan Royals,1136613,2018-05-19,C de Grandhomme,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,IS Sodhi,caught
+Royal Challengers Bangalore,Rajasthan Royals,1136613,2018-05-19,MM Ali,1,2,0.0,0.0,0,0,0,5.0,50.0,S Gopal,caught and bowled
+Royal Challengers Bangalore,Rajasthan Royals,1136613,2018-05-19,Mandeep Singh,3,4,0.0,0.0,0,0,0,7.0,75.0,S Gopal,stumped
+Royal Challengers Bangalore,Rajasthan Royals,1136613,2018-05-19,Mohammed Siraj,14,13,2.0,0.0,0,0,0,20.0,107.6923076923077,JD Unadkat,caught
+Royal Challengers Bangalore,Rajasthan Royals,1136613,2018-05-19,PA Patel,33,21,3.0,2.0,0,0,0,44.0,157.14285714285714,S Gopal,stumped
+Royal Challengers Bangalore,Rajasthan Royals,1136613,2018-05-19,SN Khan,7,8,1.0,0.0,0,0,0,12.0,87.5,B Laughlin,caught
+Royal Challengers Bangalore,Rajasthan Royals,1136613,2018-05-19,TG Southee,14,17,2.0,0.0,0,0,0,20.0,82.35294117647058,JD Unadkat,caught
+Royal Challengers Bangalore,Rajasthan Royals,1136613,2018-05-19,UT Yadav,0,1,0.0,0.0,0,0,1,2.0,0.0,B Laughlin,bowled
+Royal Challengers Bangalore,Rajasthan Royals,1136613,2018-05-19,V Kohli,4,9,0.0,0.0,0,0,0,8.0,44.44444444444444,K Gowtham,bowled
+Royal Challengers Bangalore,Rajasthan Royals,1136613,2018-05-19,YS Chahal,0,4,0.0,0.0,0,0,1,2.0,0.0,0,0

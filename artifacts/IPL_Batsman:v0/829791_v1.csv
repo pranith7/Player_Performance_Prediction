@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Kolkata Knight Riders,829791,2015-05-09,DA Miller,27,11,2.0,2.0,0,0,0,37.0,245.45454545454547,0,0
+Kings XI Punjab,Kolkata Knight Riders,829791,2015-05-09,GJ Maxwell,43,22,4.0,3.0,0,0,0,57.0,195.45454545454547,SP Narine,caught
+Kings XI Punjab,Kolkata Knight Riders,829791,2015-05-09,Gurkeerat Singh,4,8,0.0,0.0,0,0,0,8.0,50.0,AD Russell,caught and bowled
+Kings XI Punjab,Kolkata Knight Riders,829791,2015-05-09,M Vijay,28,21,4.0,1.0,0,0,0,38.0,133.33333333333331,SP Narine,bowled
+Kings XI Punjab,Kolkata Knight Riders,829791,2015-05-09,M Vohra,39,34,1.0,3.0,0,0,0,50.0,114.70588235294116,SP Narine,caught and bowled
+Kings XI Punjab,Kolkata Knight Riders,829791,2015-05-09,WP Saha,33,27,0.0,2.0,0,0,0,41.0,122.22222222222224,SP Narine,bowled
+Kolkata Knight Riders,Kings XI Punjab,829791,2015-05-09,AD Russell,51,23,5.0,4.0,1,0,0,76.0,221.73913043478265,AR Patel,caught
+Kolkata Knight Riders,Kings XI Punjab,829791,2015-05-09,G Gambhir,24,23,4.0,0.0,0,0,0,32.0,104.34782608695652,Gurkeerat Singh,caught
+Kolkata Knight Riders,Kings XI Punjab,829791,2015-05-09,GB Hogg,5,5,0.0,0.0,0,0,0,9.0,100.0,Anureet Singh,run out
+Kolkata Knight Riders,Kings XI Punjab,829791,2015-05-09,J Botha,2,4,0.0,0.0,0,0,0,6.0,50.0,BE Hendricks,run out
+Kolkata Knight Riders,Kings XI Punjab,829791,2015-05-09,MK Pandey,22,17,4.0,0.0,0,0,0,30.0,129.41176470588235,GJ Maxwell,caught
+Kolkata Knight Riders,Kings XI Punjab,829791,2015-05-09,PP Chawla,18,11,2.0,1.0,0,0,0,26.0,163.63636363636363,Anureet Singh,caught
+Kolkata Knight Riders,Kings XI Punjab,829791,2015-05-09,RV Uthappa,17,11,3.0,0.0,0,0,0,24.0,154.54545454545453,Anureet Singh,caught
+Kolkata Knight Riders,Kings XI Punjab,829791,2015-05-09,SA Yadav,9,9,1.0,0.0,0,0,0,14.0,100.0,Gurkeerat Singh,bowled
+Kolkata Knight Riders,Kings XI Punjab,829791,2015-05-09,SP Narine,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Kolkata Knight Riders,Kings XI Punjab,829791,2015-05-09,YK Pathan,29,19,1.0,3.0,0,0,0,40.0,152.63157894736844,BE Hendricks,caught

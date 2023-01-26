@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Sunrisers Hyderabad,1136585,2018-04-26,AJ Finch,8,4,0.0,1.0,0,0,0,14.0,200.0,Shakib Al Hasan,caught
+Kings XI Punjab,Sunrisers Hyderabad,1136585,2018-04-26,AJ Tye,4,2,1.0,0.0,0,0,0,9.0,200.0,Sandeep Sharma,lbw
+Kings XI Punjab,Sunrisers Hyderabad,1136585,2018-04-26,AS Rajpoot,8,9,1.0,0.0,0,0,0,13.0,88.88888888888889,Basil Thampi,bowled
+Kings XI Punjab,Sunrisers Hyderabad,1136585,2018-04-26,BB Sran,2,5,0.0,0.0,0,0,0,6.0,40.0,S Kaul,run out
+Kings XI Punjab,Sunrisers Hyderabad,1136585,2018-04-26,CH Gayle,23,22,1.0,2.0,0,0,0,32.0,104.54545454545456,Basil Thampi,caught and bowled
+Kings XI Punjab,Sunrisers Hyderabad,1136585,2018-04-26,KK Nair,13,17,0.0,0.0,0,0,0,17.0,76.47058823529412,Rashid Khan,lbw
+Kings XI Punjab,Sunrisers Hyderabad,1136585,2018-04-26,KL Rahul,32,26,4.0,1.0,0,0,0,42.0,123.07692307692308,Rashid Khan,bowled
+Kings XI Punjab,Sunrisers Hyderabad,1136585,2018-04-26,MA Agarwal,12,15,0.0,0.0,0,0,0,16.0,80.0,Shakib Al Hasan,caught
+Kings XI Punjab,Sunrisers Hyderabad,1136585,2018-04-26,MK Tiwary,1,5,0.0,0.0,0,0,0,5.0,20.0,Sandeep Sharma,caught
+Kings XI Punjab,Sunrisers Hyderabad,1136585,2018-04-26,Mujeeb Ur Rahman,10,5,2.0,0.0,0,0,0,16.0,200.0,0,0
+Kings XI Punjab,Sunrisers Hyderabad,1136585,2018-04-26,R Ashwin,4,6,0.0,0.0,0,0,0,8.0,66.66666666666666,Rashid Khan,caught
+Sunrisers Hyderabad,Kings XI Punjab,1136585,2018-04-26,KS Williamson,0,3,0.0,0.0,0,0,1,2.0,0.0,AS Rajpoot,caught
+Sunrisers Hyderabad,Kings XI Punjab,1136585,2018-04-26,MK Pandey,54,52,3.0,1.0,1,0,0,71.0,103.84615384615384,AS Rajpoot,bowled
+Sunrisers Hyderabad,Kings XI Punjab,1136585,2018-04-26,Mohammad Nabi,4,2,1.0,0.0,0,0,0,9.0,200.0,AS Rajpoot,caught
+Sunrisers Hyderabad,Kings XI Punjab,1136585,2018-04-26,S Dhawan,11,8,2.0,0.0,0,0,0,17.0,137.5,AS Rajpoot,caught
+Sunrisers Hyderabad,Kings XI Punjab,1136585,2018-04-26,Shakib Al Hasan,28,30,3.0,0.0,0,0,0,35.0,93.33333333333331,Mujeeb Ur Rahman,caught
+Sunrisers Hyderabad,Kings XI Punjab,1136585,2018-04-26,WP Saha,6,9,1.0,0.0,0,0,0,11.0,66.66666666666666,AS Rajpoot,caught
+Sunrisers Hyderabad,Kings XI Punjab,1136585,2018-04-26,YK Pathan,21,19,1.0,1.0,0,0,0,28.0,110.5263157894737,0,0

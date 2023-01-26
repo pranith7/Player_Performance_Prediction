@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Kolkata Knight Riders,1136604,2018-05-12,AJ Finch,34,20,0.0,3.0,0,0,0,44.0,170.0,JPR Scantlebury-Searles,caught
+Kings XI Punjab,Kolkata Knight Riders,1136604,2018-05-12,AJ Tye,14,11,1.0,1.0,0,0,0,21.0,127.27272727272728,M Prasidh Krishna,caught
+Kings XI Punjab,Kolkata Knight Riders,1136604,2018-05-12,AR Patel,19,12,2.0,1.0,0,0,0,27.0,158.33333333333331,Kuldeep Yadav,caught
+Kings XI Punjab,Kolkata Knight Riders,1136604,2018-05-12,BB Sran,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Kings XI Punjab,Kolkata Knight Riders,1136604,2018-05-12,CH Gayle,21,17,2.0,1.0,0,0,0,29.0,123.52941176470588,AD Russell,caught
+Kings XI Punjab,Kolkata Knight Riders,1136604,2018-05-12,KK Nair,3,6,0.0,0.0,0,0,0,7.0,50.0,AD Russell,caught
+Kings XI Punjab,Kolkata Knight Riders,1136604,2018-05-12,KL Rahul,66,31,2.0,7.0,1,0,0,94.0,212.9032258064516,SP Narine,bowled
+Kings XI Punjab,Kolkata Knight Riders,1136604,2018-05-12,MA Agarwal,0,1,0.0,0.0,0,0,1,2.0,0.0,AD Russell,caught
+Kings XI Punjab,Kolkata Knight Riders,1136604,2018-05-12,MM Sharma,4,3,1.0,0.0,0,0,0,9.0,133.33333333333331,0,0
+Kings XI Punjab,Kolkata Knight Riders,1136604,2018-05-12,R Ashwin,45,24,4.0,3.0,0,0,0,59.0,187.5,M Prasidh Krishna,lbw
+Kolkata Knight Riders,Kings XI Punjab,1136604,2018-05-12,AD Russell,31,15,2.0,3.0,0,0,0,43.0,206.66666666666669,AJ Tye,caught
+Kolkata Knight Riders,Kings XI Punjab,1136604,2018-05-12,CA Lynn,27,17,2.0,2.0,0,0,0,37.0,158.8235294117647,AJ Tye,bowled
+Kolkata Knight Riders,Kings XI Punjab,1136604,2018-05-12,JPR Scantlebury-Searles,6,1,0.0,1.0,0,0,0,12.0,600.0,0,0
+Kolkata Knight Riders,Kings XI Punjab,1136604,2018-05-12,KD Karthik,50,24,5.0,3.0,1,0,0,73.0,208.3333333333333,BB Sran,caught
+Kolkata Knight Riders,Kings XI Punjab,1136604,2018-05-12,N Rana,11,5,1.0,1.0,0,0,0,18.0,220.00000000000003,MM Sharma,caught
+Kolkata Knight Riders,Kings XI Punjab,1136604,2018-05-12,RV Uthappa,24,18,2.0,1.0,0,0,0,32.0,133.33333333333331,AJ Tye,caught
+Kolkata Knight Riders,Kings XI Punjab,1136604,2018-05-12,SP Narine,75,37,9.0,4.0,1,0,0,104.0,202.7027027027027,AJ Tye,caught
+Kolkata Knight Riders,Kings XI Punjab,1136604,2018-05-12,Shubman Gill,16,8,3.0,0.0,0,0,0,23.0,200.0,0,0

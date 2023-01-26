@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Delhi Daredevils,419155,2010-04-15,DE Bollinger,16,14,1.0,1.0,0,0,0,23.0,114.28571428571428,0,0
+Chennai Super Kings,Delhi Daredevils,419155,2010-04-15,JA Morkel,1,4,0.0,0.0,0,0,0,5.0,25.0,V Sehwag,caught
+Chennai Super Kings,Delhi Daredevils,419155,2010-04-15,L Balaji,3,8,0.0,0.0,0,0,0,7.0,37.5,A Mishra,lbw
+Chennai Super Kings,Delhi Daredevils,419155,2010-04-15,M Vijay,17,12,3.0,0.0,0,0,0,24.0,141.66666666666669,A Nehra,caught
+Chennai Super Kings,Delhi Daredevils,419155,2010-04-15,MEK Hussey,15,18,2.0,0.0,0,0,0,21.0,83.33333333333334,V Sehwag,caught
+Chennai Super Kings,Delhi Daredevils,419155,2010-04-15,ML Hayden,1,5,0.0,0.0,0,0,0,5.0,20.0,A Nehra,caught
+Chennai Super Kings,Delhi Daredevils,419155,2010-04-15,MS Dhoni,0,2,0.0,0.0,0,0,1,2.0,0.0,DP Nannes,caught
+Chennai Super Kings,Delhi Daredevils,419155,2010-04-15,R Ashwin,6,13,0.0,0.0,0,0,0,10.0,46.15384615384615,A Mishra,run out
+Chennai Super Kings,Delhi Daredevils,419155,2010-04-15,S Badrinath,30,30,2.0,0.0,0,0,0,36.0,100.0,A Nehra,caught
+Chennai Super Kings,Delhi Daredevils,419155,2010-04-15,SK Raina,15,20,2.0,0.0,0,0,0,21.0,75.0,TM Dilshan,caught
+Delhi Daredevils,Chennai Super Kings,419155,2010-04-15,DA Warner,0,2,0.0,0.0,0,0,1,2.0,0.0,R Ashwin,caught
+Delhi Daredevils,Chennai Super Kings,419155,2010-04-15,G Gambhir,57,57,5.0,0.0,1,0,0,74.0,100.0,0,0
+Delhi Daredevils,Chennai Super Kings,419155,2010-04-15,KD Karthik,13,17,1.0,0.0,0,0,0,18.0,76.47058823529412,SB Jakati,caught
+Delhi Daredevils,Chennai Super Kings,419155,2010-04-15,M Manhas,25,34,2.0,0.0,0,0,0,31.0,73.52941176470588,0,0
+Delhi Daredevils,Chennai Super Kings,419155,2010-04-15,TM Dilshan,1,2,0.0,0.0,0,0,0,5.0,50.0,DE Bollinger,bowled
+Delhi Daredevils,Chennai Super Kings,419155,2010-04-15,V Sehwag,4,4,0.0,0.0,0,0,0,8.0,100.0,DE Bollinger,caught

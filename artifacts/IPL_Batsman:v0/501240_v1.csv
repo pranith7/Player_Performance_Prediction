@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Rajasthan Royals,501240,2011-05-04,M Vijay,5,6,1.0,0.0,0,0,0,10.0,83.33333333333334,J Botha,lbw
+Chennai Super Kings,Rajasthan Royals,501240,2011-05-04,MEK Hussey,79,57,8.0,1.0,1,0,0,101.0,138.5964912280702,0,0
+Chennai Super Kings,Rajasthan Royals,501240,2011-05-04,SK Raina,61,53,3.0,1.0,1,0,0,78.0,115.09433962264151,SK Trivedi,caught
+Rajasthan Royals,Chennai Super Kings,501240,2011-05-04,AL Menaria,2,8,0.0,0.0,0,0,0,6.0,25.0,R Ashwin,caught
+Rajasthan Royals,Chennai Super Kings,501240,2011-05-04,AM Rahane,4,9,0.0,0.0,0,0,0,8.0,44.44444444444444,JA Morkel,caught and bowled
+Rajasthan Royals,Chennai Super Kings,501240,2011-05-04,DH Yagnik,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Rajasthan Royals,Chennai Super Kings,501240,2011-05-04,J Botha,8,6,1.0,0.0,0,0,0,13.0,133.33333333333331,SB Jakati,caught
+Rajasthan Royals,Chennai Super Kings,501240,2011-05-04,LRPL Taylor,20,14,2.0,0.0,0,0,0,26.0,142.85714285714286,JA Morkel,caught
+Rajasthan Royals,Chennai Super Kings,501240,2011-05-04,R Dravid,66,51,10.0,0.0,1,0,0,88.0,129.41176470588235,S Randiv,caught
+Rajasthan Royals,Chennai Super Kings,501240,2011-05-04,SR Watson,32,26,5.0,0.0,0,0,0,41.0,123.07692307692308,SB Jakati,caught and bowled
+Rajasthan Royals,Chennai Super Kings,501240,2011-05-04,STR Binny,7,7,0.0,0.0,0,0,0,11.0,100.0,0,0

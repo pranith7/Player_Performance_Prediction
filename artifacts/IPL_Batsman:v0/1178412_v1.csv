@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Capitals,Kings XI Punjab,1178412,2019-04-20,AR Patel,1,1,0.0,0.0,0,0,0,5.0,100.0,Mohammed Shami,run out
+Delhi Capitals,Kings XI Punjab,1178412,2019-04-20,CA Ingram,19,10,4.0,0.0,0,0,0,27.0,190.0,Mohammed Shami,bowled
+Delhi Capitals,Kings XI Punjab,1178412,2019-04-20,PP Shaw,13,11,1.0,1.0,0,0,0,20.0,118.1818181818182,GC Viljoen,run out
+Delhi Capitals,Kings XI Punjab,1178412,2019-04-20,RR Pant,6,8,1.0,0.0,0,0,0,11.0,75.0,GC Viljoen,caught
+Delhi Capitals,Kings XI Punjab,1178412,2019-04-20,S Dhawan,56,44,7.0,1.0,1,0,0,77.0,127.27272727272728,GC Viljoen,caught
+Delhi Capitals,Kings XI Punjab,1178412,2019-04-20,SE Rutherford,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Delhi Capitals,Kings XI Punjab,1178412,2019-04-20,SS Iyer,58,50,5.0,1.0,1,0,0,77.0,116.0,0,0
+Kings XI Punjab,Delhi Capitals,1178412,2019-04-20,CH Gayle,69,37,6.0,5.0,1,0,0,97.0,186.48648648648648,S Lamichhane,caught
+Kings XI Punjab,Delhi Capitals,1178412,2019-04-20,DA Miller,7,5,1.0,0.0,0,0,0,12.0,140.0,AR Patel,caught
+Kings XI Punjab,Delhi Capitals,1178412,2019-04-20,GC Viljoen,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,0,0
+Kings XI Punjab,Delhi Capitals,1178412,2019-04-20,Harpreet Brar,20,14,2.0,1.0,0,0,0,28.0,142.85714285714286,0,0
+Kings XI Punjab,Delhi Capitals,1178412,2019-04-20,KL Rahul,12,9,1.0,1.0,0,0,0,19.0,133.33333333333331,S Lamichhane,stumped
+Kings XI Punjab,Delhi Capitals,1178412,2019-04-20,MA Agarwal,2,9,0.0,0.0,0,0,0,6.0,22.22222222222222,K Rabada,caught
+Kings XI Punjab,Delhi Capitals,1178412,2019-04-20,Mandeep Singh,30,27,1.0,1.0,0,0,0,37.0,111.11111111111111,AR Patel,stumped
+Kings XI Punjab,Delhi Capitals,1178412,2019-04-20,R Ashwin,16,14,2.0,0.0,0,0,0,22.0,114.28571428571428,K Rabada,caught
+Kings XI Punjab,Delhi Capitals,1178412,2019-04-20,SM Curran,0,4,0.0,0.0,0,0,1,2.0,0.0,S Lamichhane,caught and bowled

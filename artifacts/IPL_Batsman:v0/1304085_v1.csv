@@ -1,0 +1,21 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Rajasthan Royals,Royal Challengers Bangalore,1304085,2022-04-26,D Padikkal,7,8,0.0,1.0,0,0,0,13.0,87.5,Mohammed Siraj,lbw
+Rajasthan Royals,Royal Challengers Bangalore,1304085,2022-04-26,DJ Mitchell,16,25,0.0,0.0,0,0,0,20.0,64.0,JR Hazlewood,caught
+Rajasthan Royals,Royal Challengers Bangalore,1304085,2022-04-26,JC Buttler,8,9,1.0,0.0,0,0,0,13.0,88.88888888888889,JR Hazlewood,caught
+Rajasthan Royals,Royal Challengers Bangalore,1304085,2022-04-26,M Prasidh Krishna,2,5,0.0,0.0,0,0,0,6.0,40.0,JR Hazlewood,run out
+Rajasthan Royals,Royal Challengers Bangalore,1304085,2022-04-26,R Ashwin,17,9,4.0,0.0,0,0,0,25.0,188.88888888888889,Mohammed Siraj,caught and bowled
+Rajasthan Royals,Royal Challengers Bangalore,1304085,2022-04-26,R Parag,56,31,3.0,4.0,1,0,0,79.0,180.64516129032256,0,0
+Rajasthan Royals,Royal Challengers Bangalore,1304085,2022-04-26,SO Hetmyer,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,PWH de Silva,caught
+Rajasthan Royals,Royal Challengers Bangalore,1304085,2022-04-26,SV Samson,27,22,1.0,3.0,0,0,0,38.0,122.72727272727272,PWH de Silva,bowled
+Rajasthan Royals,Royal Challengers Bangalore,1304085,2022-04-26,TA Boult,5,7,0.0,0.0,0,0,0,9.0,71.42857142857143,HV Patel,caught
+Royal Challengers Bangalore,Rajasthan Royals,1304085,2022-04-26,F du Plessis,23,21,3.0,1.0,0,0,0,32.0,109.52380952380952,KR Sen,caught
+Royal Challengers Bangalore,Rajasthan Royals,1304085,2022-04-26,GJ Maxwell,0,1,0.0,0.0,0,0,1,2.0,0.0,KR Sen,caught
+Royal Challengers Bangalore,Rajasthan Royals,1304085,2022-04-26,HV Patel,8,12,0.0,1.0,0,0,0,14.0,66.66666666666666,KR Sen,caught
+Royal Challengers Bangalore,Rajasthan Royals,1304085,2022-04-26,JR Hazlewood,0,2,0.0,0.0,0,0,1,2.0,0.0,0,0
+Royal Challengers Bangalore,Rajasthan Royals,1304085,2022-04-26,KD Karthik,6,4,1.0,0.0,0,0,0,11.0,150.0,YS Chahal,run out
+Royal Challengers Bangalore,Rajasthan Royals,1304085,2022-04-26,Mohammed Siraj,5,5,1.0,0.0,0,0,0,10.0,100.0,M Prasidh Krishna,caught
+Royal Challengers Bangalore,Rajasthan Royals,1304085,2022-04-26,PWH de Silva,18,16,2.0,0.0,0,0,0,24.0,112.5,KR Sen,caught and bowled
+Royal Challengers Bangalore,Rajasthan Royals,1304085,2022-04-26,RM Patidar,16,17,0.0,1.0,0,0,0,22.0,94.11764705882352,R Ashwin,bowled
+Royal Challengers Bangalore,Rajasthan Royals,1304085,2022-04-26,SS Prabhudessai,2,7,0.0,0.0,0,0,0,6.0,28.57142857142857,R Ashwin,caught
+Royal Challengers Bangalore,Rajasthan Royals,1304085,2022-04-26,Shahbaz Ahmed,17,27,0.0,1.0,0,0,0,23.0,62.96296296296296,R Ashwin,caught
+Royal Challengers Bangalore,Rajasthan Royals,1304085,2022-04-26,V Kohli,9,11,2.0,0.0,0,0,0,15.0,81.81818181818183,M Prasidh Krishna,caught

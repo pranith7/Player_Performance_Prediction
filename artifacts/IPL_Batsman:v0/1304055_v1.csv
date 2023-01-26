@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Rajasthan Royals,1304055,2022-04-02,Anmolpreet Singh,5,4,1.0,0.0,0,0,0,10.0,125.0,NA Saini,caught
+Mumbai Indians,Rajasthan Royals,1304055,2022-04-02,DR Sams,0,1,0.0,0.0,0,0,1,2.0,0.0,YS Chahal,caught
+Mumbai Indians,Rajasthan Royals,1304055,2022-04-02,Ishan Kishan,54,44,5.0,1.0,1,0,0,73.0,122.72727272727272,TA Boult,caught
+Mumbai Indians,Rajasthan Royals,1304055,2022-04-02,JJ Bumrah,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Mumbai Indians,Rajasthan Royals,1304055,2022-04-02,KA Pollard,22,29,3.0,1.0,0,0,0,31.0,75.86206896551724,NA Saini,caught
+Mumbai Indians,Rajasthan Royals,1304055,2022-04-02,M Ashwin,6,8,1.0,0.0,0,0,0,11.0,75.0,M Prasidh Krishna,run out
+Mumbai Indians,Rajasthan Royals,1304055,2022-04-02,RG Sharma,10,6,0.0,1.0,0,0,0,16.0,166.66666666666669,M Prasidh Krishna,caught
+Mumbai Indians,Rajasthan Royals,1304055,2022-04-02,TH David,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,YS Chahal,lbw
+Mumbai Indians,Rajasthan Royals,1304055,2022-04-02,Tilak Varma,61,34,3.0,5.0,1,0,0,86.0,179.41176470588235,R Ashwin,bowled
+Rajasthan Royals,Mumbai Indians,1304055,2022-04-02,D Padikkal,7,7,1.0,0.0,0,0,0,12.0,100.0,TS Mills,caught
+Rajasthan Royals,Mumbai Indians,1304055,2022-04-02,JC Buttler,100,71,11.0,5.0,1,1,0,149.0,140.8450704225352,JJ Bumrah,bowled
+Rajasthan Royals,Mumbai Indians,1304055,2022-04-02,NA Saini,2,2,0.0,0.0,0,0,0,6.0,100.0,TS Mills,caught
+Rajasthan Royals,Mumbai Indians,1304055,2022-04-02,R Ashwin,1,1,0.0,0.0,0,0,0,5.0,100.0,JJ Bumrah,run out
+Rajasthan Royals,Mumbai Indians,1304055,2022-04-02,R Parag,5,4,1.0,0.0,0,0,0,10.0,125.0,TS Mills,caught
+Rajasthan Royals,Mumbai Indians,1304055,2022-04-02,SO Hetmyer,35,17,3.0,3.0,0,0,0,48.0,205.8823529411765,JJ Bumrah,caught
+Rajasthan Royals,Mumbai Indians,1304055,2022-04-02,SV Samson,30,21,1.0,3.0,0,0,0,41.0,142.85714285714286,KA Pollard,caught
+Rajasthan Royals,Mumbai Indians,1304055,2022-04-02,TA Boult,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Rajasthan Royals,Mumbai Indians,1304055,2022-04-02,YBK Jaiswal,1,2,0.0,0.0,0,0,0,5.0,50.0,JJ Bumrah,caught

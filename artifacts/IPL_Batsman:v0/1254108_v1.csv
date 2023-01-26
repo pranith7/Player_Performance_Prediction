@@ -1,0 +1,20 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Royal Challengers Bangalore,1254108,2021-09-26,AF Milne,0,1,0.0,0.0,0,0,1,2.0,0.0,HV Patel,bowled
+Mumbai Indians,Royal Challengers Bangalore,1254108,2021-09-26,HH Pandya,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,HV Patel,caught
+Mumbai Indians,Royal Challengers Bangalore,1254108,2021-09-26,Ishan Kishan,9,12,1.0,0.0,0,0,0,14.0,75.0,YS Chahal,caught
+Mumbai Indians,Royal Challengers Bangalore,1254108,2021-09-26,JJ Bumrah,5,6,1.0,0.0,0,0,0,10.0,83.33333333333334,YS Chahal,bowled
+Mumbai Indians,Royal Challengers Bangalore,1254108,2021-09-26,KA Pollard,7,10,0.0,0.0,0,0,0,11.0,70.0,HV Patel,bowled
+Mumbai Indians,Royal Challengers Bangalore,1254108,2021-09-26,KH Pandya,5,12,0.0,0.0,0,0,0,9.0,41.66666666666667,GJ Maxwell,bowled
+Mumbai Indians,Royal Challengers Bangalore,1254108,2021-09-26,Q de Kock,24,23,4.0,0.0,0,0,0,32.0,104.34782608695652,YS Chahal,caught
+Mumbai Indians,Royal Challengers Bangalore,1254108,2021-09-26,RD Chahar,0,1,0.0,0.0,0,0,1,2.0,0.0,HV Patel,lbw
+Mumbai Indians,Royal Challengers Bangalore,1254108,2021-09-26,RG Sharma,43,30,5.0,1.0,0,0,0,54.0,143.33333333333334,GJ Maxwell,caught
+Mumbai Indians,Royal Challengers Bangalore,1254108,2021-09-26,SA Yadav,8,9,0.0,0.0,0,0,0,12.0,88.88888888888889,Mohammed Siraj,caught
+Mumbai Indians,Royal Challengers Bangalore,1254108,2021-09-26,TA Boult,0,3,0.0,0.0,0,0,1,2.0,0.0,0,0
+Royal Challengers Bangalore,Mumbai Indians,1254108,2021-09-26,AB de Villiers,11,7,1.0,1.0,0,0,0,18.0,157.14285714285714,JJ Bumrah,caught
+Royal Challengers Bangalore,Mumbai Indians,1254108,2021-09-26,D Padikkal,0,4,0.0,0.0,0,0,1,2.0,0.0,JJ Bumrah,caught
+Royal Challengers Bangalore,Mumbai Indians,1254108,2021-09-26,DT Christian,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,0,0
+Royal Challengers Bangalore,Mumbai Indians,1254108,2021-09-26,GJ Maxwell,56,39,6.0,3.0,1,0,0,80.0,143.5897435897436,JJ Bumrah,caught
+Royal Challengers Bangalore,Mumbai Indians,1254108,2021-09-26,KA Jamieson,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Royal Challengers Bangalore,Mumbai Indians,1254108,2021-09-26,KS Bharat,32,25,2.0,2.0,0,0,0,42.0,128.0,RD Chahar,caught
+Royal Challengers Bangalore,Mumbai Indians,1254108,2021-09-26,Shahbaz Ahmed,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,TA Boult,bowled
+Royal Challengers Bangalore,Mumbai Indians,1254108,2021-09-26,V Kohli,51,44,3.0,3.0,1,0,0,72.0,115.90909090909092,AF Milne,caught

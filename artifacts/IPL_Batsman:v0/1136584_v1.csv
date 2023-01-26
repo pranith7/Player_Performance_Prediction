@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Royal Challengers Bangalore,1136584,2018-04-25,AT Rayudu,82,54,3.0,8.0,1,0,0,113.0,151.85185185185185,CJ Anderson,run out
+Chennai Super Kings,Royal Challengers Bangalore,1136584,2018-04-25,DJ Bravo,14,7,1.0,1.0,0,0,0,21.0,200.0,0,0
+Chennai Super Kings,Royal Challengers Bangalore,1136584,2018-04-25,MS Dhoni,70,39,1.0,7.0,1,0,0,97.0,179.4871794871795,0,0
+Chennai Super Kings,Royal Challengers Bangalore,1136584,2018-04-25,RA Jadeja,3,6,0.0,0.0,0,0,0,7.0,50.0,YS Chahal,bowled
+Chennai Super Kings,Royal Challengers Bangalore,1136584,2018-04-25,SK Raina,11,10,2.0,0.0,0,0,0,17.0,110.0,UT Yadav,caught
+Chennai Super Kings,Royal Challengers Bangalore,1136584,2018-04-25,SR Watson,7,4,0.0,1.0,0,0,0,13.0,175.0,P Negi,caught
+Chennai Super Kings,Royal Challengers Bangalore,1136584,2018-04-25,SW Billings,9,7,2.0,0.0,0,0,0,15.0,128.57142857142858,YS Chahal,stumped
+Royal Challengers Bangalore,Chennai Super Kings,1136584,2018-04-25,AB de Villiers,68,31,2.0,8.0,1,0,0,98.0,219.3548387096774,Imran Tahir,caught
+Royal Challengers Bangalore,Chennai Super Kings,1136584,2018-04-25,C de Grandhomme,11,7,1.0,0.0,0,0,0,16.0,157.14285714285714,DJ Bravo,run out
+Royal Challengers Bangalore,Chennai Super Kings,1136584,2018-04-25,CJ Anderson,2,8,0.0,0.0,0,0,0,6.0,25.0,Imran Tahir,caught
+Royal Challengers Bangalore,Chennai Super Kings,1136584,2018-04-25,Mandeep Singh,32,19,1.0,3.0,0,0,0,43.0,168.42105263157893,SN Thakur,caught
+Royal Challengers Bangalore,Chennai Super Kings,1136584,2018-04-25,P Negi,0,1,0.0,0.0,0,0,1,2.0,0.0,DJ Bravo,run out
+Royal Challengers Bangalore,Chennai Super Kings,1136584,2018-04-25,Q de Kock,53,37,1.0,4.0,1,0,0,74.0,143.24324324324326,DJ Bravo,caught and bowled
+Royal Challengers Bangalore,Chennai Super Kings,1136584,2018-04-25,UT Yadav,0,2,0.0,0.0,0,0,1,2.0,0.0,DJ Bravo,caught
+Royal Challengers Bangalore,Chennai Super Kings,1136584,2018-04-25,V Kohli,18,15,3.0,0.0,0,0,0,25.0,120.0,SN Thakur,caught
+Royal Challengers Bangalore,Chennai Super Kings,1136584,2018-04-25,Washington Sundar,13,4,1.0,1.0,0,0,0,20.0,325.0,0,0

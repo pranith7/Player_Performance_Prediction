@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Royal Challengers Bangalore,1136574,2018-04-17,E Lewis,65,44,6.0,5.0,1,0,0,93.0,147.72727272727272,CJ Anderson,caught
+Mumbai Indians,Royal Challengers Bangalore,1136574,2018-04-17,HH Pandya,17,5,1.0,2.0,0,0,0,26.0,340.0,0,0
+Mumbai Indians,Royal Challengers Bangalore,1136574,2018-04-17,Ishan Kishan,0,1,0.0,0.0,0,0,1,2.0,0.0,UT Yadav,bowled
+Mumbai Indians,Royal Challengers Bangalore,1136574,2018-04-17,KA Pollard,5,8,0.0,0.0,0,0,0,9.0,62.5,CR Woakes,caught
+Mumbai Indians,Royal Challengers Bangalore,1136574,2018-04-17,KH Pandya,15,13,1.0,1.0,0,0,0,22.0,115.38461538461536,CJ Anderson,run out
+Mumbai Indians,Royal Challengers Bangalore,1136574,2018-04-17,MJ McClenaghan,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Mumbai Indians,Royal Challengers Bangalore,1136574,2018-04-17,RG Sharma,94,54,10.0,5.0,1,0,0,126.0,174.07407407407408,CJ Anderson,caught
+Mumbai Indians,Royal Challengers Bangalore,1136574,2018-04-17,SA Yadav,0,1,0.0,0.0,0,0,1,2.0,0.0,UT Yadav,bowled
+Royal Challengers Bangalore,Mumbai Indians,1136574,2018-04-17,AB de Villiers,1,2,0.0,0.0,0,0,0,5.0,50.0,MJ McClenaghan,caught
+Royal Challengers Bangalore,Mumbai Indians,1136574,2018-04-17,CJ Anderson,0,1,0.0,0.0,0,0,1,2.0,0.0,KH Pandya,caught
+Royal Challengers Bangalore,Mumbai Indians,1136574,2018-04-17,CR Woakes,11,11,0.0,1.0,0,0,0,17.0,100.0,JJ Bumrah,caught
+Royal Challengers Bangalore,Mumbai Indians,1136574,2018-04-17,Mandeep Singh,16,16,1.0,0.0,0,0,0,21.0,100.0,KH Pandya,stumped
+Royal Challengers Bangalore,Mumbai Indians,1136574,2018-04-17,Mohammed Siraj,8,3,0.0,1.0,0,0,0,14.0,266.66666666666663,0,0
+Royal Challengers Bangalore,Mumbai Indians,1136574,2018-04-17,Q de Kock,19,13,2.0,1.0,0,0,0,27.0,146.15384615384613,MJ McClenaghan,bowled
+Royal Challengers Bangalore,Mumbai Indians,1136574,2018-04-17,SN Khan,5,6,1.0,0.0,0,0,0,10.0,83.33333333333334,M Markande,stumped
+Royal Challengers Bangalore,Mumbai Indians,1136574,2018-04-17,UT Yadav,1,2,0.0,0.0,0,0,0,5.0,50.0,JJ Bumrah,caught
+Royal Challengers Bangalore,Mumbai Indians,1136574,2018-04-17,V Kohli,92,62,7.0,4.0,1,0,0,119.0,148.38709677419354,0,0
+Royal Challengers Bangalore,Mumbai Indians,1136574,2018-04-17,Washington Sundar,7,8,1.0,0.0,0,0,0,12.0,87.5,KH Pandya,caught

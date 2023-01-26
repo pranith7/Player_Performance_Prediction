@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Kolkata Knight Riders,1082622,2017-04-28,AR Bawne,12,12,1.0,0.0,0,0,0,17.0,100.0,0,0
+Delhi Daredevils,Kolkata Knight Riders,1082622,2017-04-28,CH Morris,11,10,1.0,0.0,0,0,0,16.0,110.0,NM Coulter-Nile,caught
+Delhi Daredevils,Kolkata Knight Riders,1082622,2017-04-28,CJ Anderson,2,5,0.0,0.0,0,0,0,6.0,40.0,SP Narine,run out
+Delhi Daredevils,Kolkata Knight Riders,1082622,2017-04-28,KK Nair,15,18,3.0,0.0,0,0,0,22.0,83.33333333333334,SP Narine,lbw
+Delhi Daredevils,Kolkata Knight Riders,1082622,2017-04-28,RR Pant,6,4,1.0,0.0,0,0,0,11.0,150.0,NM Coulter-Nile,lbw
+Delhi Daredevils,Kolkata Knight Riders,1082622,2017-04-28,SS Iyer,47,35,4.0,1.0,0,0,0,57.0,134.28571428571428,NM Coulter-Nile,lbw
+Delhi Daredevils,Kolkata Knight Riders,1082622,2017-04-28,SV Samson,60,38,4.0,3.0,1,0,0,82.0,157.89473684210526,UT Yadav,lbw
+Kolkata Knight Riders,Delhi Daredevils,1082622,2017-04-28,G Gambhir,71,53,11.0,0.0,1,0,0,94.0,133.96226415094338,0,0
+Kolkata Knight Riders,Delhi Daredevils,1082622,2017-04-28,MK Pandey,5,4,1.0,0.0,0,0,0,10.0,125.0,K Rabada,bowled
+Kolkata Knight Riders,Delhi Daredevils,1082622,2017-04-28,RV Uthappa,59,33,5.0,4.0,1,0,0,84.0,178.78787878787878,CJ Anderson,run out
+Kolkata Knight Riders,Delhi Daredevils,1082622,2017-04-28,SP Jackson,12,5,2.0,0.0,0,0,0,18.0,240.0,0,0
+Kolkata Knight Riders,Delhi Daredevils,1082622,2017-04-28,SP Narine,4,4,1.0,0.0,0,0,0,9.0,100.0,K Rabada,bowled

@@ -1,0 +1,21 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Rajasthan Royals,Royal Challengers Bangalore,392182,2009-04-18,AD Mascarenhas,0,1,0.0,0.0,0,0,1,2.0,0.0,JD Ryder,run out
+Rajasthan Royals,Royal Challengers Bangalore,392182,2009-04-18,GC Smith,2,12,0.0,0.0,0,0,0,6.0,16.666666666666664,P Kumar,caught
+Rajasthan Royals,Royal Challengers Bangalore,392182,2009-04-18,Kamran Khan,3,5,0.0,0.0,0,0,0,7.0,60.0,A Kumble,caught
+Rajasthan Royals,Royal Challengers Bangalore,392182,2009-04-18,M Rawat,4,7,0.0,0.0,0,0,0,8.0,57.14285714285714,0,0
+Rajasthan Royals,Royal Challengers Bangalore,392182,2009-04-18,MM Patel,0,2,0.0,0.0,0,0,1,2.0,0.0,A Kumble,caught
+Rajasthan Royals,Royal Challengers Bangalore,392182,2009-04-18,Niraj Patel,4,19,0.0,0.0,0,0,0,8.0,21.052631578947366,JD Ryder,caught
+Rajasthan Royals,Royal Challengers Bangalore,392182,2009-04-18,RA Jadeja,11,11,0.0,1.0,0,0,0,17.0,100.0,A Kumble,caught
+Rajasthan Royals,Royal Challengers Bangalore,392182,2009-04-18,SA Asnodkar,0,3,0.0,0.0,0,0,1,2.0,0.0,P Kumar,caught
+Rajasthan Royals,Royal Challengers Bangalore,392182,2009-04-18,SK Warne,3,9,0.0,0.0,0,0,0,7.0,33.33333333333333,A Kumble,stumped
+Rajasthan Royals,Royal Challengers Bangalore,392182,2009-04-18,T Henderson,11,15,0.0,1.0,0,0,0,17.0,73.33333333333333,JD Ryder,bowled
+Rajasthan Royals,Royal Challengers Bangalore,392182,2009-04-18,YK Pathan,11,15,1.0,0.0,0,0,0,16.0,73.33333333333333,A Kumble,caught
+Royal Challengers Bangalore,Rajasthan Royals,392182,2009-04-18,B Akhil,9,9,1.0,0.0,0,0,0,14.0,100.0,SK Warne,bowled
+Royal Challengers Bangalore,Rajasthan Royals,392182,2009-04-18,JD Ryder,0,2,0.0,0.0,0,0,1,2.0,0.0,AD Mascarenhas,caught
+Royal Challengers Bangalore,Rajasthan Royals,392182,2009-04-18,KP Pietersen,32,30,4.0,0.0,0,0,0,40.0,106.66666666666669,T Henderson,caught
+Royal Challengers Bangalore,Rajasthan Royals,392182,2009-04-18,LRPL Taylor,0,1,0.0,0.0,0,0,1,2.0,0.0,AD Mascarenhas,bowled
+Royal Challengers Bangalore,Rajasthan Royals,392182,2009-04-18,P Kumar,8,10,0.0,1.0,0,0,0,14.0,80.0,MM Patel,caught and bowled
+Royal Challengers Bangalore,Rajasthan Royals,392182,2009-04-18,R Dravid,66,50,8.0,1.0,1,0,0,88.0,132.0,MM Patel,caught
+Royal Challengers Bangalore,Rajasthan Royals,392182,2009-04-18,R Vinay Kumar,8,2,2.0,0.0,0,0,0,14.0,400.0,0,0
+Royal Challengers Bangalore,Rajasthan Royals,392182,2009-04-18,RV Uthappa,3,10,0.0,0.0,0,0,0,7.0,30.0,AD Mascarenhas,caught
+Royal Challengers Bangalore,Rajasthan Royals,392182,2009-04-18,V Kohli,3,8,0.0,0.0,0,0,0,7.0,37.5,SK Warne,bowled

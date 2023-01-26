@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Sunrisers Hyderabad,1136580,2018-04-22,AT Rayudu,79,39,9.0,4.0,1,0,0,108.0,202.5641025641025,S Kaul,run out
+Chennai Super Kings,Sunrisers Hyderabad,1136580,2018-04-22,F du Plessis,11,13,1.0,0.0,0,0,0,16.0,84.61538461538461,Rashid Khan,stumped
+Chennai Super Kings,Sunrisers Hyderabad,1136580,2018-04-22,MS Dhoni,25,12,3.0,1.0,0,0,0,34.0,208.3333333333333,0,0
+Chennai Super Kings,Sunrisers Hyderabad,1136580,2018-04-22,SK Raina,54,44,5.0,2.0,1,0,0,75.0,122.72727272727272,0,0
+Chennai Super Kings,Sunrisers Hyderabad,1136580,2018-04-22,SR Watson,9,16,0.0,1.0,0,0,0,15.0,56.25,B Kumar,caught
+Sunrisers Hyderabad,Chennai Super Kings,1136580,2018-04-22,DJ Hooda,1,7,0.0,0.0,0,0,0,5.0,14.285714285714285,DL Chahar,caught
+Sunrisers Hyderabad,Chennai Super Kings,1136580,2018-04-22,KS Williamson,84,52,6.0,5.0,1,0,0,112.0,161.53846153846155,DJ Bravo,caught
+Sunrisers Hyderabad,Chennai Super Kings,1136580,2018-04-22,MK Pandey,0,2,0.0,0.0,0,0,1,2.0,0.0,DL Chahar,caught
+Sunrisers Hyderabad,Chennai Super Kings,1136580,2018-04-22,RK Bhui,0,5,0.0,0.0,0,0,1,2.0,0.0,DL Chahar,caught
+Sunrisers Hyderabad,Chennai Super Kings,1136580,2018-04-22,Rashid Khan,17,4,1.0,2.0,0,0,0,26.0,425.0,0,0
+Sunrisers Hyderabad,Chennai Super Kings,1136580,2018-04-22,Shakib Al Hasan,24,19,2.0,1.0,0,0,0,32.0,126.3157894736842,KV Sharma,caught
+Sunrisers Hyderabad,Chennai Super Kings,1136580,2018-04-22,WP Saha,5,5,0.0,0.0,0,0,0,9.0,100.0,0,0
+Sunrisers Hyderabad,Chennai Super Kings,1136580,2018-04-22,YK Pathan,45,28,1.0,4.0,0,0,0,58.0,160.71428571428572,SN Thakur,caught

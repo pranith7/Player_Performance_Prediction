@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Royal Challengers Bangalore,392185,2009-04-20,A Flintoff,22,14,2.0,1.0,0,0,0,30.0,157.14285714285714,0,0
+Chennai Super Kings,Royal Challengers Bangalore,392185,2009-04-20,JA Morkel,5,3,1.0,0.0,0,0,0,10.0,166.66666666666669,DW Steyn,bowled
+Chennai Super Kings,Royal Challengers Bangalore,392185,2009-04-20,ML Hayden,65,37,9.0,2.0,1,0,0,90.0,175.67567567567568,KP Pietersen,run out
+Chennai Super Kings,Royal Challengers Bangalore,392185,2009-04-20,MS Dhoni,16,15,0.0,1.0,0,0,0,22.0,106.66666666666669,P Kumar,caught
+Chennai Super Kings,Royal Challengers Bangalore,392185,2009-04-20,PA Patel,30,26,2.0,1.0,0,0,0,38.0,115.38461538461536,KP Pietersen,bowled
+Chennai Super Kings,Royal Challengers Bangalore,392185,2009-04-20,SK Raina,28,29,1.0,1.0,0,0,0,35.0,96.55172413793105,P Kumar,caught
+Royal Challengers Bangalore,Chennai Super Kings,392185,2009-04-20,A Kumble,1,5,0.0,0.0,0,0,0,5.0,20.0,0,0
+Royal Challengers Bangalore,Chennai Super Kings,392185,2009-04-20,DW Steyn,0,3,0.0,0.0,0,0,1,2.0,0.0,M Muralitharan,run out
+Royal Challengers Bangalore,Chennai Super Kings,392185,2009-04-20,JH Kallis,24,20,5.0,0.0,0,0,0,33.0,120.0,JA Morkel,lbw
+Royal Challengers Bangalore,Chennai Super Kings,392185,2009-04-20,KP Pietersen,0,1,0.0,0.0,0,0,1,2.0,0.0,M Muralitharan,lbw
+Royal Challengers Bangalore,Chennai Super Kings,392185,2009-04-20,LRPL Taylor,1,4,0.0,0.0,0,0,0,5.0,25.0,A Flintoff,caught and bowled
+Royal Challengers Bangalore,Chennai Super Kings,392185,2009-04-20,P Kumar,0,3,0.0,0.0,0,0,1,2.0,0.0,MS Gony,bowled
+Royal Challengers Bangalore,Chennai Super Kings,392185,2009-04-20,R Bishnoi,0,1,0.0,0.0,0,0,1,2.0,0.0,M Muralitharan,caught
+Royal Challengers Bangalore,Chennai Super Kings,392185,2009-04-20,R Dravid,20,18,2.0,0.0,0,0,0,26.0,111.11111111111111,L Balaji,caught
+Royal Challengers Bangalore,Chennai Super Kings,392185,2009-04-20,R Vinay Kumar,5,6,0.0,0.0,0,0,0,9.0,83.33333333333334,L Balaji,caught
+Royal Challengers Bangalore,Chennai Super Kings,392185,2009-04-20,RV Uthappa,20,21,2.0,0.0,0,0,0,26.0,95.23809523809524,M Muralitharan,stumped
+Royal Challengers Bangalore,Chennai Super Kings,392185,2009-04-20,V Kohli,11,14,0.0,1.0,0,0,0,17.0,78.57142857142857,Joginder Sharma,caught

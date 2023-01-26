@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Kings XI Punjab,336022,2008-05-17,G Gambhir,40,32,7.0,0.0,0,0,0,51.0,125.0,RR Powar,bowled
+Delhi Daredevils,Kings XI Punjab,336022,2008-05-17,MF Maharoof,0,1,0.0,0.0,0,0,1,2.0,0.0,JR Hopes,caught
+Delhi Daredevils,Kings XI Punjab,336022,2008-05-17,S Dhawan,8,5,0.0,1.0,0,0,0,14.0,160.0,RR Powar,caught
+Delhi Daredevils,Kings XI Punjab,336022,2008-05-17,Shoaib Malik,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Delhi Daredevils,Kings XI Punjab,336022,2008-05-17,TM Dilshan,8,6,1.0,0.0,0,0,0,13.0,133.33333333333331,JR Hopes,caught
+Delhi Daredevils,Kings XI Punjab,336022,2008-05-17,V Sehwag,51,28,2.0,5.0,1,0,0,75.0,182.1428571428572,0,0
+Kings XI Punjab,Delhi Daredevils,336022,2008-05-17,DPMD Jayawardene,36,18,3.0,2.0,0,0,0,47.0,200.0,0,0
+Kings XI Punjab,Delhi Daredevils,336022,2008-05-17,JR Hopes,4,7,0.0,0.0,0,0,0,8.0,57.14285714285714,A Mishra,caught
+Kings XI Punjab,Delhi Daredevils,336022,2008-05-17,LA Pomersbach,25,12,0.0,3.0,0,0,0,35.0,208.3333333333333,0,0
+Kings XI Punjab,Delhi Daredevils,336022,2008-05-17,SE Marsh,2,5,0.0,0.0,0,0,0,6.0,40.0,PJ Sangwan,caught
+Kings XI Punjab,Delhi Daredevils,336022,2008-05-17,Yuvraj Singh,23,8,1.0,3.0,0,0,0,34.0,287.5,GD McGrath,caught

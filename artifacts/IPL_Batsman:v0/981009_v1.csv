@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Sunrisers Hyderabad,981009,2016-05-22,C Munro,10,8,2.0,0.0,0,0,0,16.0,125.0,DJ Hooda,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,981009,2016-05-22,G Gambhir,16,15,1.0,0.0,0,0,0,21.0,106.66666666666669,DJ Hooda,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,981009,2016-05-22,JO Holder,3,3,0.0,0.0,0,0,0,7.0,100.0,Mustafizur Rahman,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,981009,2016-05-22,MK Pandey,48,32,2.0,3.0,0,0,0,60.0,150.0,B Kumar,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,981009,2016-05-22,RV Uthappa,25,17,4.0,0.0,0,0,0,33.0,147.05882352941177,BB Sran,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,981009,2016-05-22,SA Yadav,6,3,1.0,0.0,0,0,0,11.0,200.0,0,0
+Kolkata Knight Riders,Sunrisers Hyderabad,981009,2016-05-22,Shakib Al Hasan,7,10,0.0,0.0,0,0,0,11.0,70.0,B Kumar,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,981009,2016-05-22,YK Pathan,52,35,3.0,2.0,1,0,0,71.0,148.57142857142858,0,0
+Sunrisers Hyderabad,Kolkata Knight Riders,981009,2016-05-22,B Kumar,5,4,1.0,0.0,0,0,0,10.0,125.0,AS Rajpoot,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,981009,2016-05-22,BB Sran,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Sunrisers Hyderabad,Kolkata Knight Riders,981009,2016-05-22,DA Warner,18,16,1.0,1.0,0,0,0,25.0,112.5,SP Narine,bowled
+Sunrisers Hyderabad,Kolkata Knight Riders,981009,2016-05-22,DJ Hooda,2,2,0.0,0.0,0,0,0,6.0,100.0,Kuldeep Yadav,run out
+Sunrisers Hyderabad,Kolkata Knight Riders,981009,2016-05-22,KS Williamson,7,9,0.0,0.0,0,0,0,11.0,77.77777777777779,Kuldeep Yadav,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,981009,2016-05-22,KV Sharma,8,14,0.0,0.0,0,0,0,12.0,57.14285714285714,0,0
+Sunrisers Hyderabad,Kolkata Knight Riders,981009,2016-05-22,MC Henriques,11,10,1.0,0.0,0,0,0,16.0,110.0,SP Narine,bowled
+Sunrisers Hyderabad,Kolkata Knight Riders,981009,2016-05-22,NV Ojha,15,25,1.0,0.0,0,0,0,20.0,60.0,SP Narine,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,981009,2016-05-22,S Dhawan,51,30,4.0,3.0,1,0,0,73.0,170.0,Kuldeep Yadav,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,981009,2016-05-22,Yuvraj Singh,19,12,1.0,2.0,0,0,0,28.0,158.33333333333331,Shakib Al Hasan,caught

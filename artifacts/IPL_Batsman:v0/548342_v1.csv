@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Mumbai Indians,548342,2012-04-27,DPMD Jayawardene,55,42,8.0,0.0,1,0,0,75.0,130.95238095238096,RJ Peterson,caught
+Delhi Daredevils,Mumbai Indians,548342,2012-04-27,IK Pathan,0,1,0.0,0.0,0,0,1,2.0,0.0,RJ Peterson,caught
+Delhi Daredevils,Mumbai Indians,548342,2012-04-27,KP Pietersen,50,27,6.0,3.0,1,0,0,74.0,185.1851851851852,0,0
+Delhi Daredevils,Mumbai Indians,548342,2012-04-27,LRPL Taylor,15,7,0.0,2.0,0,0,0,23.0,214.28571428571428,SL Malinga,lbw
+Delhi Daredevils,Mumbai Indians,548342,2012-04-27,NV Ojha,5,4,0.0,0.0,0,0,0,9.0,125.0,0,0
+Delhi Daredevils,Mumbai Indians,548342,2012-04-27,V Sehwag,73,43,8.0,4.0,1,0,0,101.0,169.7674418604651,RJ Peterson,caught
+Delhi Daredevils,Mumbai Indians,548342,2012-04-27,Y Nagar,0,1,0.0,0.0,0,0,1,2.0,0.0,SL Malinga,lbw
+Mumbai Indians,Delhi Daredevils,548342,2012-04-27,AC Blizzard,0,3,0.0,0.0,0,0,1,2.0,0.0,IK Pathan,caught
+Mumbai Indians,Delhi Daredevils,548342,2012-04-27,AT Rayudu,62,41,5.0,3.0,1,0,0,85.0,151.21951219512195,S Nadeem,caught
+Mumbai Indians,Delhi Daredevils,548342,2012-04-27,Harbhajan Singh,15,13,2.0,0.0,0,0,0,21.0,115.38461538461536,UT Yadav,caught
+Mumbai Indians,Delhi Daredevils,548342,2012-04-27,KA Pollard,16,9,1.0,1.0,0,0,0,23.0,177.77777777777777,S Nadeem,bowled
+Mumbai Indians,Delhi Daredevils,548342,2012-04-27,KD Karthik,40,28,7.0,0.0,0,0,0,51.0,142.85714285714286,AB Agarkar,bowled
+Mumbai Indians,Delhi Daredevils,548342,2012-04-27,RG Sharma,12,6,1.0,1.0,0,0,0,19.0,200.0,IK Pathan,caught
+Mumbai Indians,Delhi Daredevils,548342,2012-04-27,RJ Peterson,2,2,0.0,0.0,0,0,0,6.0,100.0,M Morkel,run out
+Mumbai Indians,Delhi Daredevils,548342,2012-04-27,RP Singh,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Mumbai Indians,Delhi Daredevils,548342,2012-04-27,SL Malinga,11,14,1.0,0.0,0,0,0,16.0,78.57142857142857,UT Yadav,bowled
+Mumbai Indians,Delhi Daredevils,548342,2012-04-27,SR Tendulkar,7,7,0.0,1.0,0,0,0,13.0,100.0,M Morkel,caught

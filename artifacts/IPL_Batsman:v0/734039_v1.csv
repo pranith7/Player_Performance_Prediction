@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Kings XI Punjab,734039,2014-05-25,Imran Tahir,4,4,1.0,0.0,0,0,0,9.0,100.0,AR Patel,caught
+Delhi Daredevils,Kings XI Punjab,734039,2014-05-25,JD Unadkat,0,1,0.0,0.0,0,0,1,2.0,0.0,MG Johnson,caught
+Delhi Daredevils,Kings XI Punjab,734039,2014-05-25,JDS Neesham,12,20,1.0,0.0,0,0,0,17.0,60.0,Karanveer Singh,caught
+Delhi Daredevils,Kings XI Punjab,734039,2014-05-25,JP Duminy,8,8,1.0,0.0,0,0,0,13.0,100.0,Karanveer Singh,caught
+Delhi Daredevils,Kings XI Punjab,734039,2014-05-25,KD Karthik,13,7,3.0,0.0,0,0,0,20.0,185.7142857142857,P Awana,caught
+Delhi Daredevils,Kings XI Punjab,734039,2014-05-25,KM Jadhav,0,4,0.0,0.0,0,0,1,2.0,0.0,P Awana,caught
+Delhi Daredevils,Kings XI Punjab,734039,2014-05-25,KP Pietersen,58,41,9.0,0.0,1,0,0,79.0,141.46341463414635,R Dhawan,lbw
+Delhi Daredevils,Kings XI Punjab,734039,2014-05-25,MA Agarwal,2,5,0.0,0.0,0,0,0,6.0,40.0,MG Johnson,caught
+Delhi Daredevils,Kings XI Punjab,734039,2014-05-25,MK Tiwary,8,12,0.0,0.0,0,0,0,12.0,66.66666666666666,R Dhawan,run out
+Delhi Daredevils,Kings XI Punjab,734039,2014-05-25,Mohammed Shami,0,1,0.0,0.0,0,0,1,2.0,0.0,AR Patel,bowled
+Delhi Daredevils,Kings XI Punjab,734039,2014-05-25,S Nadeem,3,8,0.0,0.0,0,0,0,7.0,37.5,0,0
+Kings XI Punjab,Delhi Daredevils,734039,2014-05-25,DA Miller,47,37,4.0,2.0,0,0,0,59.0,127.02702702702702,0,0
+Kings XI Punjab,Delhi Daredevils,734039,2014-05-25,GJ Bailey,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Kings XI Punjab,Delhi Daredevils,734039,2014-05-25,GJ Maxwell,0,3,0.0,0.0,0,0,1,2.0,0.0,JD Unadkat,caught
+Kings XI Punjab,Delhi Daredevils,734039,2014-05-25,M Vohra,47,40,4.0,2.0,0,0,0,59.0,117.5,Imran Tahir,bowled
+Kings XI Punjab,Delhi Daredevils,734039,2014-05-25,V Sehwag,9,8,2.0,0.0,0,0,0,15.0,112.5,Mohammed Shami,caught

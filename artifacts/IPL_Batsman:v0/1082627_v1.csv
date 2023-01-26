@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Sunrisers Hyderabad,1082627,2017-04-30,C de Grandhomme,18,15,1.0,1.0,0,0,0,25.0,120.0,S Kaul,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1082627,2017-04-30,CR Woakes,6,3,1.0,0.0,0,0,0,11.0,200.0,0,0
+Kolkata Knight Riders,Sunrisers Hyderabad,1082627,2017-04-30,G Gambhir,11,11,2.0,0.0,0,0,0,17.0,100.0,S Kaul,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1082627,2017-04-30,MK Pandey,39,30,3.0,0.0,0,0,0,46.0,130.0,B Kumar,caught and bowled
+Kolkata Knight Riders,Sunrisers Hyderabad,1082627,2017-04-30,RV Uthappa,53,28,4.0,4.0,1,0,0,77.0,189.28571428571428,Mohammed Siraj,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1082627,2017-04-30,SP Jackson,16,17,1.0,0.0,0,0,0,21.0,94.11764705882352,B Kumar,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1082627,2017-04-30,SP Narine,1,4,0.0,0.0,0,0,0,5.0,25.0,Mohammed Siraj,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1082627,2017-04-30,YK Pathan,12,14,0.0,0.0,0,0,0,16.0,85.71428571428571,Rashid Khan,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,1082627,2017-04-30,DA Warner,126,60,10.0,8.0,1,1,0,180.0,210.0,CR Woakes,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,1082627,2017-04-30,KS Williamson,40,25,5.0,0.0,0,0,0,49.0,160.0,NM Coulter-Nile,run out
+Sunrisers Hyderabad,Kolkata Knight Riders,1082627,2017-04-30,S Dhawan,29,33,2.0,1.0,0,0,0,37.0,87.87878787878788,CR Woakes,run out
+Sunrisers Hyderabad,Kolkata Knight Riders,1082627,2017-04-30,Yuvraj Singh,6,7,0.0,0.0,0,0,0,10.0,85.71428571428571,0,0

@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Rajasthan Royals,734041,2014-05-25,AP Tare,6,1,0.0,1.0,0,0,0,12.0,600.0,0,0
+Mumbai Indians,Rajasthan Royals,734041,2014-05-25,AT Rayudu,30,11,5.0,1.0,0,0,0,41.0,272.7272727272727,JP Faulkner,run out
+Mumbai Indians,Rajasthan Royals,734041,2014-05-25,CJ Anderson,95,46,9.0,6.0,1,0,0,128.0,206.52173913043475,0,0
+Mumbai Indians,Rajasthan Royals,734041,2014-05-25,KA Pollard,7,3,0.0,1.0,0,0,0,13.0,233.3333333333333,KK Cooper,caught
+Mumbai Indians,Rajasthan Royals,734041,2014-05-25,LMP Simmons,12,8,3.0,0.0,0,0,0,19.0,150.0,DS Kulkarni,caught
+Mumbai Indians,Rajasthan Royals,734041,2014-05-25,MEK Hussey,22,12,1.0,2.0,0,0,0,31.0,183.3333333333333,KK Cooper,bowled
+Mumbai Indians,Rajasthan Royals,734041,2014-05-25,RG Sharma,16,11,1.0,1.0,0,0,0,23.0,145.45454545454547,DS Kulkarni,caught
+Rajasthan Royals,Mumbai Indians,734041,2014-05-25,BJ Hodge,29,16,2.0,1.0,0,0,0,37.0,181.25,0,0
+Rajasthan Royals,Mumbai Indians,734041,2014-05-25,JP Faulkner,23,14,0.0,3.0,0,0,0,33.0,164.28571428571428,KA Pollard,caught
+Rajasthan Royals,Mumbai Indians,734041,2014-05-25,KK Nair,50,27,7.0,2.0,1,0,0,73.0,185.1851851851852,JJ Bumrah,caught
+Rajasthan Royals,Mumbai Indians,734041,2014-05-25,SR Watson,8,18,1.0,0.0,0,0,0,13.0,44.44444444444444,Harbhajan Singh,caught
+Rajasthan Royals,Mumbai Indians,734041,2014-05-25,SV Samson,74,48,7.0,3.0,1,0,0,99.0,154.16666666666669,S Gopal,caught

@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Kolkata Knight Riders,1178427,2019-05-03,AJ Tye,0,2,0.0,0.0,0,0,1,2.0,0.0,0,0
+Kings XI Punjab,Kolkata Knight Riders,1178427,2019-05-03,CH Gayle,14,14,2.0,0.0,0,0,0,20.0,100.0,S Sandeep Warrier,caught
+Kings XI Punjab,Kolkata Knight Riders,1178427,2019-05-03,KL Rahul,2,7,0.0,0.0,0,0,0,6.0,28.57142857142857,S Sandeep Warrier,caught
+Kings XI Punjab,Kolkata Knight Riders,1178427,2019-05-03,MA Agarwal,36,26,2.0,1.0,0,0,0,44.0,138.46153846153845,SP Narine,run out
+Kings XI Punjab,Kolkata Knight Riders,1178427,2019-05-03,Mandeep Singh,25,17,1.0,1.0,0,0,0,32.0,147.05882352941177,HF Gurney,caught
+Kings XI Punjab,Kolkata Knight Riders,1178427,2019-05-03,N Pooran,48,28,3.0,4.0,0,0,0,63.0,171.42857142857142,N Rana,caught
+Kings XI Punjab,Kolkata Knight Riders,1178427,2019-05-03,R Ashwin,0,3,0.0,0.0,0,0,1,2.0,0.0,AD Russell,bowled
+Kings XI Punjab,Kolkata Knight Riders,1178427,2019-05-03,SM Curran,55,24,7.0,2.0,1,0,0,78.0,229.16666666666663,0,0
+Kolkata Knight Riders,Kings XI Punjab,1178427,2019-05-03,AD Russell,24,17,2.0,2.0,0,0,0,34.0,141.1764705882353,Mohammed Shami,caught
+Kolkata Knight Riders,Kings XI Punjab,1178427,2019-05-03,CA Lynn,46,22,5.0,3.0,0,0,0,61.0,209.0909090909091,AJ Tye,caught and bowled
+Kolkata Knight Riders,Kings XI Punjab,1178427,2019-05-03,KD Karthik,21,10,2.0,1.0,0,0,0,29.0,210.0,0,0
+Kolkata Knight Riders,Kings XI Punjab,1178427,2019-05-03,RV Uthappa,22,14,2.0,1.0,0,0,0,30.0,157.14285714285714,R Ashwin,caught
+Kolkata Knight Riders,Kings XI Punjab,1178427,2019-05-03,Shubman Gill,65,50,5.0,2.0,1,0,0,86.0,130.0,0,0

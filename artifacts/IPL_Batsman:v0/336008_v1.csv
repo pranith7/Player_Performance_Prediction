@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Rajasthan Royals,336008,2008-05-07,AM Nayar,12,14,1.0,0.0,0,0,0,17.0,85.71428571428571,0,0
+Mumbai Indians,Rajasthan Royals,336008,2008-05-07,DJ Bravo,1,6,0.0,0.0,0,0,0,5.0,16.666666666666664,SR Watson,caught
+Mumbai Indians,Rajasthan Royals,336008,2008-05-07,RV Uthappa,34,24,4.0,1.0,0,0,0,44.0,141.66666666666669,0,0
+Mumbai Indians,Rajasthan Royals,336008,2008-05-07,ST Jayasuriya,18,20,1.0,1.0,0,0,0,25.0,90.0,SR Watson,caught
+Mumbai Indians,Rajasthan Royals,336008,2008-05-07,YV Takawale,27,35,1.0,1.0,0,0,0,34.0,77.14285714285715,SK Warne,bowled
+Rajasthan Royals,Mumbai Indians,336008,2008-05-07,GC Smith,5,9,0.0,0.0,0,0,0,9.0,55.55555555555556,SM Pollock,stumped
+Rajasthan Royals,Mumbai Indians,336008,2008-05-07,M Kaif,4,7,0.0,0.0,0,0,0,8.0,57.14285714285714,RR Raje,caught
+Rajasthan Royals,Mumbai Indians,336008,2008-05-07,M Rawat,1,5,0.0,0.0,0,0,0,5.0,20.0,A Nehra,caught
+Rajasthan Royals,Mumbai Indians,336008,2008-05-07,MM Patel,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Rajasthan Royals,Mumbai Indians,336008,2008-05-07,RA Jadeja,0,1,0.0,0.0,0,0,1,2.0,0.0,DS Kulkarni,caught
+Rajasthan Royals,Mumbai Indians,336008,2008-05-07,SA Asnodkar,39,38,3.0,1.0,0,0,0,48.0,102.63157894736842,RR Raje,caught
+Rajasthan Royals,Mumbai Indians,336008,2008-05-07,SK Trivedi,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,DJ Bravo,bowled
+Rajasthan Royals,Mumbai Indians,336008,2008-05-07,SK Warne,7,8,1.0,0.0,0,0,0,12.0,87.5,DS Kulkarni,caught
+Rajasthan Royals,Mumbai Indians,336008,2008-05-07,SR Watson,32,22,4.0,1.0,0,0,0,42.0,145.45454545454547,DJ Bravo,bowled
+Rajasthan Royals,Mumbai Indians,336008,2008-05-07,Sohail Tanvir,6,6,1.0,0.0,0,0,0,11.0,100.0,A Nehra,bowled
+Rajasthan Royals,Mumbai Indians,336008,2008-05-07,YK Pathan,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,A Nehra,bowled

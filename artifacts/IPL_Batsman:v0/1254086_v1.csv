@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Capitals,Punjab Kings,1254086,2021-05-02,PP Shaw,39,22,3.0,3.0,0,0,0,52.0,177.27272727272728,Harpreet Brar,bowled
+Delhi Capitals,Punjab Kings,1254086,2021-05-02,RR Pant,14,11,1.0,1.0,0,0,0,21.0,127.27272727272728,CJ Jordan,caught
+Delhi Capitals,Punjab Kings,1254086,2021-05-02,S Dhawan,69,48,6.0,2.0,1,0,0,91.0,143.75,0,0
+Delhi Capitals,Punjab Kings,1254086,2021-05-02,SO Hetmyer,16,6,1.0,2.0,0,0,0,25.0,266.66666666666663,0,0
+Delhi Capitals,Punjab Kings,1254086,2021-05-02,SPD Smith,24,22,1.0,0.0,0,0,0,29.0,109.09090909090908,RP Meredith,caught
+Punjab Kings,Delhi Capitals,1254086,2021-05-02,CH Gayle,13,9,1.0,1.0,0,0,0,20.0,144.44444444444443,K Rabada,bowled
+Punjab Kings,Delhi Capitals,1254086,2021-05-02,CJ Jordan,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,K Rabada,caught
+Punjab Kings,Delhi Capitals,1254086,2021-05-02,DJ Hooda,1,1,0.0,0.0,0,0,0,5.0,100.0,AR Patel,run out
+Punjab Kings,Delhi Capitals,1254086,2021-05-02,DJ Malan,26,26,1.0,1.0,0,0,0,33.0,100.0,AR Patel,bowled
+Punjab Kings,Delhi Capitals,1254086,2021-05-02,Harpreet Brar,4,4,1.0,0.0,0,0,0,9.0,100.0,0,0
+Punjab Kings,Delhi Capitals,1254086,2021-05-02,M Shahrukh Khan,4,5,0.0,0.0,0,0,0,8.0,80.0,Avesh Khan,caught
+Punjab Kings,Delhi Capitals,1254086,2021-05-02,MA Agarwal,99,58,8.0,4.0,1,0,0,127.0,170.68965517241378,0,0
+Punjab Kings,Delhi Capitals,1254086,2021-05-02,P Simran Singh,12,16,0.0,1.0,0,0,0,18.0,75.0,K Rabada,caught

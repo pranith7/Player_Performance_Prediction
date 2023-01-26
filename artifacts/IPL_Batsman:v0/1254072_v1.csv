@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Kolkata Knight Riders,1254072,2021-04-21,F du Plessis,95,63,9.0,4.0,1,0,0,124.0,150.79365079365078,0,0
+Chennai Super Kings,Kolkata Knight Riders,1254072,2021-04-21,MM Ali,25,13,2.0,2.0,0,0,0,35.0,192.30769230769232,SP Narine,stumped
+Chennai Super Kings,Kolkata Knight Riders,1254072,2021-04-21,MS Dhoni,17,10,2.0,1.0,0,0,0,25.0,170.0,AD Russell,caught
+Chennai Super Kings,Kolkata Knight Riders,1254072,2021-04-21,RA Jadeja,6,1,0.0,1.0,0,0,0,12.0,600.0,0,0
+Chennai Super Kings,Kolkata Knight Riders,1254072,2021-04-21,RD Gaikwad,64,42,6.0,4.0,1,0,0,90.0,152.38095238095238,CV Varun,caught
+Kolkata Knight Riders,Chennai Super Kings,1254072,2021-04-21,AD Russell,54,24,3.0,6.0,1,0,0,81.0,225.0,SM Curran,bowled
+Kolkata Knight Riders,Chennai Super Kings,1254072,2021-04-21,CV Varun,0,1,0.0,0.0,0,0,1,2.0,0.0,SM Curran,run out
+Kolkata Knight Riders,Chennai Super Kings,1254072,2021-04-21,EJG Morgan,7,8,1.0,0.0,0,0,0,12.0,87.5,DL Chahar,caught
+Kolkata Knight Riders,Chennai Super Kings,1254072,2021-04-21,KD Karthik,40,24,4.0,2.0,0,0,0,52.0,166.66666666666669,L Ngidi,lbw
+Kolkata Knight Riders,Chennai Super Kings,1254072,2021-04-21,KL Nagarkoti,0,2,0.0,0.0,0,0,1,2.0,0.0,L Ngidi,caught
+Kolkata Knight Riders,Chennai Super Kings,1254072,2021-04-21,M Prasidh Krishna,0,1,0.0,0.0,0,0,1,2.0,0.0,SN Thakur,run out
+Kolkata Knight Riders,Chennai Super Kings,1254072,2021-04-21,N Rana,9,13,2.0,0.0,0,0,0,15.0,69.23076923076923,DL Chahar,caught
+Kolkata Knight Riders,Chennai Super Kings,1254072,2021-04-21,PJ Cummins,66,37,4.0,6.0,1,0,0,94.0,178.3783783783784,0,0
+Kolkata Knight Riders,Chennai Super Kings,1254072,2021-04-21,RA Tripathi,8,9,1.0,0.0,0,0,0,13.0,88.88888888888889,L Ngidi,caught
+Kolkata Knight Riders,Chennai Super Kings,1254072,2021-04-21,SP Narine,4,3,1.0,0.0,0,0,0,9.0,133.33333333333331,DL Chahar,caught
+Kolkata Knight Riders,Chennai Super Kings,1254072,2021-04-21,Shubman Gill,0,1,0.0,0.0,0,0,1,2.0,0.0,DL Chahar,caught

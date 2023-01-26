@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Delhi Daredevils,733981,2014-05-05,BB McCullum,32,35,5.0,0.0,0,0,0,41.0,91.42857142857144,LR Shukla,caught
+Chennai Super Kings,Delhi Daredevils,733981,2014-05-05,DR Smith,79,51,4.0,8.0,1,0,0,111.0,154.90196078431373,WD Parnell,caught
+Chennai Super Kings,Delhi Daredevils,733981,2014-05-05,MS Dhoni,12,5,1.0,1.0,0,0,0,19.0,240.0,0,0
+Chennai Super Kings,Delhi Daredevils,733981,2014-05-05,SK Raina,47,29,6.0,1.0,0,0,0,59.0,162.06896551724137,0,0
+Delhi Daredevils,Chennai Super Kings,733981,2014-05-05,JP Duminy,28,17,5.0,0.0,0,0,0,37.0,164.70588235294116,0,0
+Delhi Daredevils,Chennai Super Kings,733981,2014-05-05,KD Karthik,51,36,4.0,3.0,1,0,0,73.0,141.66666666666669,BW Hilfenhaus,caught
+Delhi Daredevils,Chennai Super Kings,733981,2014-05-05,KM Jadhav,29,20,2.0,2.0,0,0,0,39.0,145.0,0,0
+Delhi Daredevils,Chennai Super Kings,733981,2014-05-05,KP Pietersen,0,1,0.0,0.0,0,0,1,2.0,0.0,MM Sharma,bowled
+Delhi Daredevils,Chennai Super Kings,733981,2014-05-05,LR Shukla,0,2,0.0,0.0,0,0,1,2.0,0.0,R Ashwin,caught
+Delhi Daredevils,Chennai Super Kings,733981,2014-05-05,M Vijay,35,31,2.0,1.0,0,0,0,43.0,112.90322580645164,RA Jadeja,caught
+Delhi Daredevils,Chennai Super Kings,733981,2014-05-05,Q de Kock,24,17,3.0,2.0,0,0,0,35.0,141.1764705882353,MM Sharma,run out

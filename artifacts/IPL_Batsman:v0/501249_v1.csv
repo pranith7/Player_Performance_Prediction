@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Rajasthan Royals,501249,2011-05-09,JA Morkel,5,5,0.0,0.0,0,0,0,9.0,100.0,0,0
+Chennai Super Kings,Rajasthan Royals,501249,2011-05-09,M Vijay,53,43,2.0,3.0,1,0,0,73.0,123.25581395348836,SK Warne,run out
+Chennai Super Kings,Rajasthan Royals,501249,2011-05-09,MEK Hussey,46,31,8.0,0.0,0,0,0,58.0,148.38709677419354,J Botha,bowled
+Chennai Super Kings,Rajasthan Royals,501249,2011-05-09,MS Dhoni,41,19,3.0,3.0,0,0,0,54.0,215.7894736842105,0,0
+Chennai Super Kings,Rajasthan Royals,501249,2011-05-09,SK Raina,43,27,6.0,0.0,0,0,0,53.0,159.25925925925927,A Singh,bowled
+Rajasthan Royals,Chennai Super Kings,501249,2011-05-09,A Singh,1,2,0.0,0.0,0,0,0,5.0,50.0,SK Raina,caught and bowled
+Rajasthan Royals,Chennai Super Kings,501249,2011-05-09,AL Menaria,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,R Ashwin,caught
+Rajasthan Royals,Chennai Super Kings,501249,2011-05-09,AM Rahane,52,36,7.0,0.0,1,0,0,71.0,144.44444444444443,DJ Bravo,caught
+Rajasthan Royals,Chennai Super Kings,501249,2011-05-09,AS Raut,19,14,1.0,1.0,0,0,0,26.0,135.71428571428572,R Ashwin,run out
+Rajasthan Royals,Chennai Super Kings,501249,2011-05-09,DH Yagnik,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,DE Bollinger,bowled
+Rajasthan Royals,Chennai Super Kings,501249,2011-05-09,J Botha,14,18,0.0,0.0,0,0,0,18.0,77.77777777777779,DE Bollinger,caught and bowled
+Rajasthan Royals,Chennai Super Kings,501249,2011-05-09,LRPL Taylor,6,9,0.0,0.0,0,0,0,10.0,66.66666666666666,JA Morkel,caught
+Rajasthan Royals,Chennai Super Kings,501249,2011-05-09,R Dravid,20,17,2.0,0.0,0,0,0,26.0,117.64705882352942,DE Bollinger,caught
+Rajasthan Royals,Chennai Super Kings,501249,2011-05-09,SK Warne,0,2,0.0,0.0,0,0,1,2.0,0.0,SK Raina,caught
+Rajasthan Royals,Chennai Super Kings,501249,2011-05-09,SR Watson,11,10,1.0,0.0,0,0,0,16.0,110.0,R Ashwin,caught

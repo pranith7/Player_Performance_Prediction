@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Rajasthan Royals,Sunrisers Hyderabad,829787,2015-05-07,AM Rahane,8,6,2.0,0.0,0,0,0,14.0,133.33333333333331,B Kumar,caught
+Rajasthan Royals,Sunrisers Hyderabad,829787,2015-05-07,CH Morris,34,11,2.0,3.0,0,0,0,46.0,309.09090909090907,0,0
+Rajasthan Royals,Sunrisers Hyderabad,829787,2015-05-07,DJ Hooda,7,9,0.0,0.0,0,0,0,11.0,77.77777777777779,KV Sharma,caught
+Rajasthan Royals,Sunrisers Hyderabad,829787,2015-05-07,JP Faulkner,30,19,2.0,2.0,0,0,0,40.0,157.89473684210526,B Kumar,caught
+Rajasthan Royals,Sunrisers Hyderabad,829787,2015-05-07,KK Nair,4,11,0.0,0.0,0,0,0,8.0,36.36363636363637,MC Henriques,caught
+Rajasthan Royals,Sunrisers Hyderabad,829787,2015-05-07,SPD Smith,68,40,9.0,2.0,1,0,0,93.0,170.0,RS Bopara,bowled
+Rajasthan Royals,Sunrisers Hyderabad,829787,2015-05-07,SR Watson,12,12,3.0,0.0,0,0,0,19.0,100.0,I Sharma,caught
+Rajasthan Royals,Sunrisers Hyderabad,829787,2015-05-07,STR Binny,3,3,0.0,0.0,0,0,0,7.0,100.0,0,0
+Rajasthan Royals,Sunrisers Hyderabad,829787,2015-05-07,SV Samson,21,10,0.0,3.0,0,0,0,31.0,210.0,B Kumar,bowled
+Sunrisers Hyderabad,Rajasthan Royals,829787,2015-05-07,DA Warner,24,19,5.0,0.0,0,0,0,33.0,126.3157894736842,SR Watson,caught
+Sunrisers Hyderabad,Rajasthan Royals,829787,2015-05-07,EJG Morgan,63,30,4.0,5.0,1,0,0,89.0,210.0,SR Watson,caught
+Sunrisers Hyderabad,Rajasthan Royals,829787,2015-05-07,MC Henriques,20,21,3.0,0.0,0,0,0,27.0,95.23809523809524,PV Tambe,bowled
+Sunrisers Hyderabad,Rajasthan Royals,829787,2015-05-07,NV Ojha,8,7,1.0,0.0,0,0,0,13.0,114.28571428571428,0,0
+Sunrisers Hyderabad,Rajasthan Royals,829787,2015-05-07,RS Bopara,17,13,2.0,0.0,0,0,0,23.0,130.76923076923077,0,0
+Sunrisers Hyderabad,Rajasthan Royals,829787,2015-05-07,S Dhawan,54,36,6.0,2.0,1,0,0,76.0,150.0,JP Faulkner,bowled

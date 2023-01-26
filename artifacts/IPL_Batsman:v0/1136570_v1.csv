@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Sunrisers Hyderabad,1136570,2018-04-14,AD Russell,9,5,0.0,1.0,0,0,0,15.0,180.0,B Stanlake,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1136570,2018-04-14,CA Lynn,49,34,7.0,1.0,0,0,0,62.0,144.11764705882354,Shakib Al Hasan,caught and bowled
+Kolkata Knight Riders,Sunrisers Hyderabad,1136570,2018-04-14,KD Karthik,29,27,2.0,1.0,0,0,0,37.0,107.40740740740742,B Kumar,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1136570,2018-04-14,MG Johnson,4,5,0.0,0.0,0,0,0,8.0,80.0,0,0
+Kolkata Knight Riders,Sunrisers Hyderabad,1136570,2018-04-14,N Rana,18,16,2.0,1.0,0,0,0,26.0,112.5,B Stanlake,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1136570,2018-04-14,RV Uthappa,3,8,0.0,0.0,0,0,0,7.0,37.5,B Kumar,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1136570,2018-04-14,SP Narine,9,11,1.0,0.0,0,0,0,14.0,81.81818181818183,Shakib Al Hasan,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1136570,2018-04-14,Shivam Mavi,7,8,0.0,0.0,0,0,0,11.0,87.5,S Kaul,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1136570,2018-04-14,Shubman Gill,3,9,0.0,0.0,0,0,0,7.0,33.33333333333333,B Kumar,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,1136570,2018-04-14,DJ Hooda,5,9,0.0,0.0,0,0,0,9.0,55.55555555555556,0,0
+Sunrisers Hyderabad,Kolkata Knight Riders,1136570,2018-04-14,KS Williamson,50,44,4.0,1.0,1,0,0,68.0,113.63636363636364,MG Johnson,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,1136570,2018-04-14,MK Pandey,4,11,0.0,0.0,0,0,0,8.0,36.36363636363637,Kuldeep Yadav,lbw
+Sunrisers Hyderabad,Kolkata Knight Riders,1136570,2018-04-14,S Dhawan,7,8,1.0,0.0,0,0,0,12.0,87.5,SP Narine,bowled
+Sunrisers Hyderabad,Kolkata Knight Riders,1136570,2018-04-14,Shakib Al Hasan,27,21,2.0,1.0,0,0,0,35.0,128.57142857142858,PP Chawla,bowled
+Sunrisers Hyderabad,Kolkata Knight Riders,1136570,2018-04-14,WP Saha,24,18,5.0,0.0,0,0,0,33.0,133.33333333333331,SP Narine,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,1136570,2018-04-14,YK Pathan,17,8,2.0,1.0,0,0,0,25.0,212.5,0,0

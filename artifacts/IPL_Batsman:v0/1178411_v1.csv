@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Rajasthan Royals,1178411,2019-04-20,BCJ Cutting,13,9,1.0,1.0,0,0,0,20.0,144.44444444444443,0,0
+Mumbai Indians,Rajasthan Royals,1178411,2019-04-20,HH Pandya,23,17,2.0,1.0,0,0,0,31.0,135.29411764705884,JC Archer,lbw
+Mumbai Indians,Rajasthan Royals,1178411,2019-04-20,KA Pollard,10,7,0.0,1.0,0,0,0,16.0,142.85714285714286,JD Unadkat,bowled
+Mumbai Indians,Rajasthan Royals,1178411,2019-04-20,KH Pandya,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Mumbai Indians,Rajasthan Royals,1178411,2019-04-20,Q de Kock,65,48,6.0,2.0,1,0,0,87.0,135.41666666666669,S Gopal,caught
+Mumbai Indians,Rajasthan Royals,1178411,2019-04-20,RG Sharma,5,7,1.0,0.0,0,0,0,10.0,71.42857142857143,S Gopal,caught and bowled
+Mumbai Indians,Rajasthan Royals,1178411,2019-04-20,SA Yadav,34,34,1.0,1.0,0,0,0,41.0,100.0,STR Binny,caught
+Rajasthan Royals,Mumbai Indians,1178411,2019-04-20,AJ Turner,0,1,0.0,0.0,0,0,1,2.0,0.0,JJ Bumrah,lbw
+Rajasthan Royals,Mumbai Indians,1178411,2019-04-20,AM Rahane,12,12,2.0,0.0,0,0,0,18.0,100.0,RD Chahar,caught
+Rajasthan Royals,Mumbai Indians,1178411,2019-04-20,BA Stokes,0,2,0.0,0.0,0,0,1,2.0,0.0,RD Chahar,bowled
+Rajasthan Royals,Mumbai Indians,1178411,2019-04-20,R Parag,43,29,5.0,1.0,0,0,0,54.0,148.27586206896552,HH Pandya,run out
+Rajasthan Royals,Mumbai Indians,1178411,2019-04-20,SPD Smith,59,48,5.0,1.0,1,0,0,78.0,122.91666666666669,0,0
+Rajasthan Royals,Mumbai Indians,1178411,2019-04-20,STR Binny,7,4,1.0,0.0,0,0,0,12.0,175.0,0,0
+Rajasthan Royals,Mumbai Indians,1178411,2019-04-20,SV Samson,35,19,6.0,1.0,0,0,0,47.0,184.21052631578948,RD Chahar,caught

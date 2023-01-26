@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Delhi Daredevils,548380,2012-05-25,DJ Bravo,33,12,3.0,2.0,0,0,0,44.0,275.0,0,0
+Chennai Super Kings,Delhi Daredevils,548380,2012-05-25,JA Morkel,0,1,0.0,0.0,0,0,1,2.0,0.0,UT Yadav,caught
+Chennai Super Kings,Delhi Daredevils,548380,2012-05-25,M Vijay,113,61,15.0,4.0,1,1,0,164.0,185.24590163934425,UT Yadav,run out
+Chennai Super Kings,Delhi Daredevils,548380,2012-05-25,MEK Hussey,20,22,2.0,0.0,0,0,0,26.0,90.9090909090909,VR Aaron,caught
+Chennai Super Kings,Delhi Daredevils,548380,2012-05-25,MS Dhoni,23,10,1.0,2.0,0,0,0,32.0,230.0,VR Aaron,caught
+Chennai Super Kings,Delhi Daredevils,548380,2012-05-25,SK Raina,27,17,3.0,1.0,0,0,0,36.0,158.8235294117647,P Negi,caught and bowled
+Delhi Daredevils,Chennai Super Kings,548380,2012-05-25,AD Russell,16,11,2.0,0.0,0,0,0,22.0,145.45454545454547,R Ashwin,caught
+Delhi Daredevils,Chennai Super Kings,548380,2012-05-25,DA Warner,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,BW Hilfenhaus,caught
+Delhi Daredevils,Chennai Super Kings,548380,2012-05-25,DPMD Jayawardene,55,41,4.0,2.0,1,0,0,75.0,134.14634146341464,R Ashwin,bowled
+Delhi Daredevils,Chennai Super Kings,548380,2012-05-25,LRPL Taylor,24,14,1.0,2.0,0,0,0,33.0,171.42857142857142,DJ Bravo,caught
+Delhi Daredevils,Chennai Super Kings,548380,2012-05-25,NV Ojha,7,5,0.0,1.0,0,0,0,13.0,140.0,SB Jakati,caught
+Delhi Daredevils,Chennai Super Kings,548380,2012-05-25,P Negi,8,6,0.0,1.0,0,0,0,14.0,133.33333333333331,0,0
+Delhi Daredevils,Chennai Super Kings,548380,2012-05-25,Sunny Gupta,0,1,0.0,0.0,0,0,1,2.0,0.0,SB Jakati,stumped
+Delhi Daredevils,Chennai Super Kings,548380,2012-05-25,UT Yadav,1,4,0.0,0.0,0,0,0,5.0,25.0,R Ashwin,bowled
+Delhi Daredevils,Chennai Super Kings,548380,2012-05-25,V Sehwag,1,8,0.0,0.0,0,0,0,5.0,12.5,JA Morkel,caught
+Delhi Daredevils,Chennai Super Kings,548380,2012-05-25,VR Aaron,0,2,0.0,0.0,0,0,1,2.0,0.0,R Ashwin,run out
+Delhi Daredevils,Chennai Super Kings,548380,2012-05-25,Y Venugopal Rao,10,7,0.0,1.0,0,0,0,16.0,142.85714285714286,R Ashwin,run out

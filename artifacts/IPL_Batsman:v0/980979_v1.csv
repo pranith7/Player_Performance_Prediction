@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Rising Pune Supergiants,Sunrisers Hyderabad,980979,2016-05-10,A Zampa,0,1,0.0,0.0,0,0,1,2.0,0.0,A Nehra,caught
+Rising Pune Supergiants,Sunrisers Hyderabad,980979,2016-05-10,AM Rahane,0,3,0.0,0.0,0,0,1,2.0,0.0,B Kumar,caught
+Rising Pune Supergiants,Sunrisers Hyderabad,980979,2016-05-10,GJ Bailey,34,40,3.0,1.0,0,0,0,43.0,85.0,MC Henriques,caught
+Rising Pune Supergiants,Sunrisers Hyderabad,980979,2016-05-10,MS Dhoni,30,20,1.0,2.0,0,0,0,39.0,150.0,A Nehra,run out
+Rising Pune Supergiants,Sunrisers Hyderabad,980979,2016-05-10,NLTC Perera,17,14,0.0,1.0,0,0,0,23.0,121.42857142857142,A Nehra,caught
+Rising Pune Supergiants,Sunrisers Hyderabad,980979,2016-05-10,R Ashwin,29,25,3.0,0.0,0,0,0,36.0,116.0,BB Sran,caught
+Rising Pune Supergiants,Sunrisers Hyderabad,980979,2016-05-10,SS Tiwary,9,10,1.0,0.0,0,0,0,14.0,90.0,A Nehra,caught
+Rising Pune Supergiants,Sunrisers Hyderabad,980979,2016-05-10,UT Khawaja,11,8,2.0,0.0,0,0,0,17.0,137.5,A Nehra,run out
+Sunrisers Hyderabad,Rising Pune Supergiants,980979,2016-05-10,B Kumar,1,2,0.0,0.0,0,0,0,5.0,50.0,A Zampa,caught
+Sunrisers Hyderabad,Rising Pune Supergiants,980979,2016-05-10,BB Sran,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Sunrisers Hyderabad,Rising Pune Supergiants,980979,2016-05-10,DA Warner,11,15,0.0,1.0,0,0,0,17.0,73.33333333333333,RP Singh,caught
+Sunrisers Hyderabad,Rising Pune Supergiants,980979,2016-05-10,DJ Hooda,14,5,0.0,2.0,0,0,0,22.0,280.0,A Zampa,stumped
+Sunrisers Hyderabad,Rising Pune Supergiants,980979,2016-05-10,KS Williamson,32,39,3.0,0.0,0,0,0,39.0,82.05128205128204,A Zampa,caught
+Sunrisers Hyderabad,Rising Pune Supergiants,980979,2016-05-10,MC Henriques,10,8,1.0,0.0,0,0,0,15.0,125.0,A Zampa,caught
+Sunrisers Hyderabad,Rising Pune Supergiants,980979,2016-05-10,NV Ojha,7,5,1.0,0.0,0,0,0,12.0,140.0,A Zampa,bowled
+Sunrisers Hyderabad,Rising Pune Supergiants,980979,2016-05-10,S Dhawan,33,27,2.0,2.0,0,0,0,43.0,122.22222222222224,R Ashwin,caught
+Sunrisers Hyderabad,Rising Pune Supergiants,980979,2016-05-10,Yuvraj Singh,23,21,1.0,2.0,0,0,0,32.0,109.52380952380952,A Zampa,caught

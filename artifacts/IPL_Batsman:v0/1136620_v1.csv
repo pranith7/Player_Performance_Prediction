@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Sunrisers Hyderabad,1136620,2018-05-27,AT Rayudu,16,19,1.0,1.0,0,0,0,23.0,84.21052631578947,0,0
+Chennai Super Kings,Sunrisers Hyderabad,1136620,2018-05-27,F du Plessis,10,11,1.0,0.0,0,0,0,15.0,90.9090909090909,Sandeep Sharma,caught and bowled
+Chennai Super Kings,Sunrisers Hyderabad,1136620,2018-05-27,SK Raina,32,24,3.0,1.0,0,0,0,41.0,133.33333333333331,CR Brathwaite,caught
+Chennai Super Kings,Sunrisers Hyderabad,1136620,2018-05-27,SR Watson,117,60,11.0,8.0,1,1,0,172.0,195.0,0,0
+Sunrisers Hyderabad,Chennai Super Kings,1136620,2018-05-27,CR Brathwaite,21,12,0.0,3.0,0,0,0,31.0,175.0,SN Thakur,caught
+Sunrisers Hyderabad,Chennai Super Kings,1136620,2018-05-27,DJ Hooda,3,4,0.0,0.0,0,0,0,7.0,75.0,L Ngidi,caught
+Sunrisers Hyderabad,Chennai Super Kings,1136620,2018-05-27,KS Williamson,47,38,5.0,2.0,0,0,0,60.0,123.6842105263158,KV Sharma,stumped
+Sunrisers Hyderabad,Chennai Super Kings,1136620,2018-05-27,S Dhawan,26,26,2.0,1.0,0,0,0,34.0,100.0,RA Jadeja,bowled
+Sunrisers Hyderabad,Chennai Super Kings,1136620,2018-05-27,SP Goswami,5,5,0.0,0.0,0,0,0,9.0,100.0,L Ngidi,run out
+Sunrisers Hyderabad,Chennai Super Kings,1136620,2018-05-27,Shakib Al Hasan,23,15,2.0,1.0,0,0,0,31.0,153.33333333333334,DJ Bravo,caught
+Sunrisers Hyderabad,Chennai Super Kings,1136620,2018-05-27,YK Pathan,45,27,4.0,2.0,0,0,0,57.0,166.66666666666669,0,0

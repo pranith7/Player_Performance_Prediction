@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Pune Warriors,548319,2012-04-12,AC Gilchrist,21,17,3.0,0.0,0,0,0,28.0,123.52941176470588,AD Mathews,caught
+Kings XI Punjab,Pune Warriors,548319,2012-04-12,Mandeep Singh,10,10,1.0,0.0,0,0,0,15.0,100.0,R Sharma,caught
+Kings XI Punjab,Pune Warriors,548319,2012-04-12,PC Valthaty,0,1,0.0,0.0,0,0,1,2.0,0.0,AB Dinda,bowled
+Kings XI Punjab,Pune Warriors,548319,2012-04-12,PP Chawla,21,24,3.0,0.0,0,0,0,28.0,87.5,0,0
+Kings XI Punjab,Pune Warriors,548319,2012-04-12,SE Marsh,64,54,7.0,1.0,1,0,0,85.0,118.5185185185185,0,0
+Pune Warriors,Kings XI Punjab,548319,2012-04-12,A Nehra,2,5,0.0,0.0,0,0,0,6.0,40.0,0,0
+Pune Warriors,Kings XI Punjab,548319,2012-04-12,AB Dinda,2,5,0.0,0.0,0,0,0,6.0,40.0,P Awana,run out
+Pune Warriors,Kings XI Punjab,548319,2012-04-12,AD Mathews,11,9,2.0,0.0,0,0,0,17.0,122.22222222222224,Harmeet Singh,lbw
+Pune Warriors,Kings XI Punjab,548319,2012-04-12,JD Ryder,7,12,1.0,0.0,0,0,0,12.0,58.333333333333336,P Kumar,run out
+Pune Warriors,Kings XI Punjab,548319,2012-04-12,M Manhas,31,29,3.0,1.0,0,0,0,40.0,106.89655172413792,AD Mascarenhas,bowled
+Pune Warriors,Kings XI Punjab,548319,2012-04-12,MK Pandey,0,3,0.0,0.0,0,0,1,2.0,0.0,Harmeet Singh,caught
+Pune Warriors,Kings XI Punjab,548319,2012-04-12,MN Samuels,2,13,0.0,0.0,0,0,0,6.0,15.384615384615383,AD Mascarenhas,bowled
+Pune Warriors,Kings XI Punjab,548319,2012-04-12,R Sharma,2,4,0.0,0.0,0,0,0,6.0,50.0,AD Mascarenhas,caught
+Pune Warriors,Kings XI Punjab,548319,2012-04-12,RV Uthappa,17,17,0.0,1.0,0,0,0,23.0,100.0,AD Mascarenhas,caught
+Pune Warriors,Kings XI Punjab,548319,2012-04-12,SC Ganguly,16,9,3.0,0.0,0,0,0,23.0,177.77777777777777,AD Mascarenhas,caught
+Pune Warriors,Kings XI Punjab,548319,2012-04-12,SPD Smith,13,13,1.0,0.0,0,0,0,18.0,100.0,PP Chawla,bowled

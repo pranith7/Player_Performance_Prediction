@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Delhi Daredevils,598062,2013-05-14,DJ Bravo,12,8,1.0,0.0,0,0,0,17.0,150.0,0,0
+Chennai Super Kings,Delhi Daredevils,598062,2013-05-14,M Vijay,31,24,3.0,1.0,0,0,0,40.0,129.16666666666669,A Nehra,run out
+Chennai Super Kings,Delhi Daredevils,598062,2013-05-14,MEK Hussey,26,27,3.0,0.0,0,0,0,33.0,96.29629629629628,UT Yadav,caught
+Chennai Super Kings,Delhi Daredevils,598062,2013-05-14,MS Dhoni,58,35,2.0,4.0,1,0,0,80.0,165.71428571428572,0,0
+Chennai Super Kings,Delhi Daredevils,598062,2013-05-14,RA Jadeja,24,18,2.0,0.0,0,0,0,30.0,133.33333333333331,UT Yadav,bowled
+Chennai Super Kings,Delhi Daredevils,598062,2013-05-14,SK Raina,7,12,0.0,0.0,0,0,0,11.0,58.333333333333336,RE van der Merwe,caught
+Delhi Daredevils,Chennai Super Kings,598062,2013-05-14,A Nehra,0,1,0.0,0.0,0,0,1,2.0,0.0,DJ Bravo,caught
+Delhi Daredevils,Chennai Super Kings,598062,2013-05-14,BJ Rohrer,4,6,0.0,0.0,0,0,0,8.0,66.66666666666666,JA Morkel,caught
+Delhi Daredevils,Chennai Super Kings,598062,2013-05-14,DA Warner,44,39,2.0,1.0,0,0,0,52.0,112.82051282051282,JA Morkel,caught
+Delhi Daredevils,Chennai Super Kings,598062,2013-05-14,IK Pathan,4,5,0.0,0.0,0,0,0,8.0,80.0,DJ Bravo,bowled
+Delhi Daredevils,Chennai Super Kings,598062,2013-05-14,J Botha,23,20,3.0,1.0,0,0,0,32.0,115.0,R Ashwin,caught
+Delhi Daredevils,Chennai Super Kings,598062,2013-05-14,KM Jadhav,2,4,0.0,0.0,0,0,0,6.0,50.0,JA Morkel,caught
+Delhi Daredevils,Chennai Super Kings,598062,2013-05-14,RE van der Merwe,14,16,1.0,0.0,0,0,0,19.0,87.5,R Ashwin,caught
+Delhi Daredevils,Chennai Super Kings,598062,2013-05-14,S Kaul,7,9,0.0,0.0,0,0,0,11.0,77.77777777777779,0,0
+Delhi Daredevils,Chennai Super Kings,598062,2013-05-14,UBT Chand,16,13,2.0,1.0,0,0,0,24.0,123.07692307692308,MM Sharma,caught
+Delhi Daredevils,Chennai Super Kings,598062,2013-05-14,UT Yadav,12,9,0.0,1.0,0,0,0,18.0,133.33333333333331,0,0
+Delhi Daredevils,Chennai Super Kings,598062,2013-05-14,V Sehwag,0,2,0.0,0.0,0,0,1,2.0,0.0,MM Sharma,caught

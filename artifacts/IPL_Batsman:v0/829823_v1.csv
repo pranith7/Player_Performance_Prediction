@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Mumbai Indians,829823,2015-05-24,DJ Bravo,9,6,0.0,1.0,0,0,0,15.0,150.0,MJ McClenaghan,caught
+Chennai Super Kings,Mumbai Indians,829823,2015-05-24,DR Smith,57,48,9.0,1.0,1,0,0,80.0,118.75,Harbhajan Singh,lbw
+Chennai Super Kings,Mumbai Indians,829823,2015-05-24,F du Plessis,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,R Vinay Kumar,caught
+Chennai Super Kings,Mumbai Indians,829823,2015-05-24,MEK Hussey,4,10,1.0,0.0,0,0,0,9.0,40.0,MJ McClenaghan,caught
+Chennai Super Kings,Mumbai Indians,829823,2015-05-24,MM Sharma,21,7,1.0,2.0,0,0,0,30.0,300.0,0,0
+Chennai Super Kings,Mumbai Indians,829823,2015-05-24,MS Dhoni,18,13,1.0,1.0,0,0,0,25.0,138.46153846153845,SL Malinga,bowled
+Chennai Super Kings,Mumbai Indians,829823,2015-05-24,P Negi,3,6,0.0,0.0,0,0,0,7.0,50.0,SL Malinga,caught
+Chennai Super Kings,Mumbai Indians,829823,2015-05-24,R Ashwin,2,4,0.0,0.0,0,0,0,6.0,50.0,MJ McClenaghan,caught
+Chennai Super Kings,Mumbai Indians,829823,2015-05-24,RA Jadeja,11,8,1.0,0.0,0,0,0,16.0,137.5,0,0
+Chennai Super Kings,Mumbai Indians,829823,2015-05-24,SK Raina,28,20,3.0,1.0,0,0,0,37.0,140.0,Harbhajan Singh,stumped
+Mumbai Indians,Chennai Super Kings,829823,2015-05-24,AT Rayudu,36,24,0.0,3.0,0,0,0,46.0,150.0,0,0
+Mumbai Indians,Chennai Super Kings,829823,2015-05-24,HH Pandya,0,2,0.0,0.0,0,0,1,2.0,0.0,DJ Bravo,caught
+Mumbai Indians,Chennai Super Kings,829823,2015-05-24,Harbhajan Singh,6,3,0.0,1.0,0,0,0,12.0,200.0,0,0
+Mumbai Indians,Chennai Super Kings,829823,2015-05-24,KA Pollard,36,18,2.0,3.0,0,0,0,48.0,200.0,MM Sharma,caught
+Mumbai Indians,Chennai Super Kings,829823,2015-05-24,LMP Simmons,68,45,8.0,3.0,1,0,0,94.0,151.11111111111111,DR Smith,bowled
+Mumbai Indians,Chennai Super Kings,829823,2015-05-24,PA Patel,0,3,0.0,0.0,0,0,1,2.0,0.0,A Nehra,run out
+Mumbai Indians,Chennai Super Kings,829823,2015-05-24,RG Sharma,50,26,6.0,2.0,1,0,0,72.0,192.30769230769232,DJ Bravo,caught

@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Kolkata Knight Riders,1082601,2017-04-13,AR Patel,0,1,0.0,0.0,0,0,1,2.0,0.0,UT Yadav,caught
+Kings XI Punjab,Kolkata Knight Riders,1082601,2017-04-13,DA Miller,28,20,2.0,2.0,0,0,0,38.0,140.0,UT Yadav,caught
+Kings XI Punjab,Kolkata Knight Riders,1082601,2017-04-13,GJ Maxwell,25,14,3.0,1.0,0,0,0,34.0,178.57142857142858,UT Yadav,caught
+Kings XI Punjab,Kolkata Knight Riders,1082601,2017-04-13,HM Amla,25,28,4.0,0.0,0,0,0,33.0,89.28571428571429,C de Grandhomme,caught
+Kings XI Punjab,Kolkata Knight Riders,1082601,2017-04-13,M Vohra,28,23,4.0,1.0,0,0,0,38.0,121.73913043478262,PP Chawla,bowled
+Kings XI Punjab,Kolkata Knight Riders,1082601,2017-04-13,MM Sharma,10,8,2.0,0.0,0,0,0,16.0,125.0,CR Woakes,caught
+Kings XI Punjab,Kolkata Knight Riders,1082601,2017-04-13,MP Stoinis,9,13,1.0,0.0,0,0,0,14.0,69.23076923076923,SP Narine,bowled
+Kings XI Punjab,Kolkata Knight Riders,1082601,2017-04-13,VR Aaron,4,6,0.0,0.0,0,0,0,8.0,66.66666666666666,CR Woakes,caught
+Kings XI Punjab,Kolkata Knight Riders,1082601,2017-04-13,WP Saha,25,17,2.0,2.0,0,0,0,35.0,147.05882352941177,UT Yadav,caught
+Kolkata Knight Riders,Kings XI Punjab,1082601,2017-04-13,G Gambhir,72,52,11.0,0.0,1,0,0,95.0,138.46153846153845,0,0
+Kolkata Knight Riders,Kings XI Punjab,1082601,2017-04-13,MK Pandey,25,17,2.0,1.0,0,0,0,33.0,147.05882352941177,0,0
+Kolkata Knight Riders,Kings XI Punjab,1082601,2017-04-13,RV Uthappa,26,16,3.0,1.0,0,0,0,35.0,162.5,AR Patel,bowled
+Kolkata Knight Riders,Kings XI Punjab,1082601,2017-04-13,SP Narine,37,19,4.0,3.0,0,0,0,51.0,194.73684210526315,VR Aaron,caught

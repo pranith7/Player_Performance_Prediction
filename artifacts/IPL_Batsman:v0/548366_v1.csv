@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Kings XI Punjab,548366,2012-05-13,CL White,67,41,8.0,1.0,1,0,0,89.0,163.41463414634146,0,0
+Deccan Chargers,Kings XI Punjab,548366,2012-05-13,DT Christian,24,11,1.0,2.0,0,0,0,33.0,218.18181818181816,Azhar Mahmood,caught
+Deccan Chargers,Kings XI Punjab,548366,2012-05-13,KC Sangakkara,1,4,0.0,0.0,0,0,0,5.0,25.0,P Awana,caught
+Deccan Chargers,Kings XI Punjab,548366,2012-05-13,PA Patel,18,16,2.0,0.0,0,0,0,24.0,112.5,Azhar Mahmood,caught
+Deccan Chargers,Kings XI Punjab,548366,2012-05-13,S Dhawan,71,51,4.0,3.0,1,0,0,93.0,139.2156862745098,P Kumar,caught
+Kings XI Punjab,Deccan Chargers,548366,2012-05-13,Azhar Mahmood,31,20,2.0,1.0,0,0,0,39.0,155.0,A Mishra,stumped
+Kings XI Punjab,Deccan Chargers,548366,2012-05-13,DJ Hussey,65,35,4.0,5.0,1,0,0,91.0,185.7142857142857,0,0
+Kings XI Punjab,Deccan Chargers,548366,2012-05-13,Gurkeerat Singh,29,12,4.0,1.0,0,0,0,39.0,241.66666666666663,0,0
+Kings XI Punjab,Deccan Chargers,548366,2012-05-13,Mandeep Singh,28,20,5.0,0.0,0,0,0,37.0,140.0,MS Gony,caught
+Kings XI Punjab,Deccan Chargers,548366,2012-05-13,N Saini,3,11,0.0,0.0,0,0,0,7.0,27.27272727272727,DT Christian,caught
+Kings XI Punjab,Deccan Chargers,548366,2012-05-13,PP Chawla,8,3,2.0,0.0,0,0,0,14.0,266.66666666666663,DW Steyn,caught
+Kings XI Punjab,Deccan Chargers,548366,2012-05-13,SD Chitnis,11,14,1.0,0.0,0,0,0,16.0,78.57142857142857,DW Steyn,caught
+Kings XI Punjab,Deccan Chargers,548366,2012-05-13,SE Marsh,11,7,2.0,0.0,0,0,0,17.0,157.14285714285714,DT Christian,caught

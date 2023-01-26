@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Royal Challengers Bangalore,501208,2011-04-14,B Chipli,61,35,5.0,3.0,1,0,0,84.0,174.28571428571428,0,0
+Deccan Chargers,Royal Challengers Bangalore,501208,2011-04-14,DT Christian,0,1,0.0,0.0,0,0,1,2.0,0.0,Z Khan,lbw
+Deccan Chargers,Royal Challengers Bangalore,501208,2011-04-14,JP Duminy,22,15,2.0,1.0,0,0,0,30.0,146.66666666666666,Z Khan,caught
+Deccan Chargers,Royal Challengers Bangalore,501208,2011-04-14,KC Sangakkara,36,25,3.0,1.0,0,0,0,45.0,144.0,JJ van der Wath,caught
+Deccan Chargers,Royal Challengers Bangalore,501208,2011-04-14,S Dhawan,11,10,2.0,0.0,0,0,0,17.0,110.0,Z Khan,caught
+Deccan Chargers,Royal Challengers Bangalore,501208,2011-04-14,S Sohal,38,39,5.0,1.0,0,0,0,49.0,97.43589743589745,R Ninan,caught
+Royal Challengers Bangalore,Deccan Chargers,501208,2011-04-14,AB de Villiers,0,7,0.0,0.0,0,0,1,2.0,0.0,MS Gony,caught
+Royal Challengers Bangalore,Deccan Chargers,501208,2011-04-14,CA Pujara,25,15,4.0,0.0,0,0,0,33.0,166.66666666666669,DW Steyn,caught
+Royal Challengers Bangalore,Deccan Chargers,501208,2011-04-14,DL Vettori,3,6,0.0,0.0,0,0,0,7.0,50.0,0,0
+Royal Challengers Bangalore,Deccan Chargers,501208,2011-04-14,JJ van der Wath,0,1,0.0,0.0,0,0,1,2.0,0.0,DW Steyn,caught
+Royal Challengers Bangalore,Deccan Chargers,501208,2011-04-14,MA Agarwal,16,13,2.0,0.0,0,0,0,22.0,123.07692307692308,MS Gony,caught
+Royal Challengers Bangalore,Deccan Chargers,501208,2011-04-14,R Ninan,3,6,0.0,0.0,0,0,0,7.0,50.0,DT Christian,caught
+Royal Challengers Bangalore,Deccan Chargers,501208,2011-04-14,S Aravind,2,5,0.0,0.0,0,0,0,6.0,40.0,0,0
+Royal Challengers Bangalore,Deccan Chargers,501208,2011-04-14,SS Tiwary,7,10,0.0,0.0,0,0,0,11.0,70.0,A Mishra,caught
+Royal Challengers Bangalore,Deccan Chargers,501208,2011-04-14,TM Dilshan,7,8,1.0,0.0,0,0,0,12.0,87.5,I Sharma,caught
+Royal Challengers Bangalore,Deccan Chargers,501208,2011-04-14,V Kohli,71,51,5.0,3.0,1,0,0,94.0,139.2156862745098,MS Gony,bowled
+Royal Challengers Bangalore,Deccan Chargers,501208,2011-04-14,Z Khan,0,3,0.0,0.0,0,0,1,2.0,0.0,DW Steyn,bowled

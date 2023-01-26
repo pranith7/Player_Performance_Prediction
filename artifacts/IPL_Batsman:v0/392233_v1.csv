@@ -1,0 +1,20 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Rajasthan Royals,392233,2009-05-20,AB Agarkar,13,17,0.0,0.0,0,0,0,17.0,76.47058823529412,0,0
+Kolkata Knight Riders,Rajasthan Royals,392233,2009-05-20,BB McCullum,9,4,2.0,0.0,0,0,0,15.0,225.0,A Singh,lbw
+Kolkata Knight Riders,Rajasthan Royals,392233,2009-05-20,BJ Hodge,6,8,1.0,0.0,0,0,0,11.0,75.0,J Botha,stumped
+Kolkata Knight Riders,Rajasthan Royals,392233,2009-05-20,DJ Hussey,9,13,2.0,0.0,0,0,0,15.0,69.23076923076923,J Botha,caught
+Kolkata Knight Riders,Rajasthan Royals,392233,2009-05-20,LR Shukla,48,47,3.0,2.0,0,0,0,59.0,102.12765957446808,0,0
+Kolkata Knight Riders,Rajasthan Royals,392233,2009-05-20,SC Ganguly,0,3,0.0,0.0,0,0,1,2.0,0.0,MM Patel,caught
+Kolkata Knight Riders,Rajasthan Royals,392233,2009-05-20,SS Shaikh,6,7,1.0,0.0,0,0,0,11.0,85.71428571428571,J Botha,run out
+Kolkata Knight Riders,Rajasthan Royals,392233,2009-05-20,Yashpal Singh,6,20,0.0,0.0,0,0,0,10.0,30.0,MM Patel,caught
+Rajasthan Royals,Kolkata Knight Riders,392233,2009-05-20,A Singh,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Rajasthan Royals,Kolkata Knight Riders,392233,2009-05-20,J Botha,8,6,2.0,0.0,0,0,0,14.0,133.33333333333331,AB Agarkar,bowled
+Rajasthan Royals,Kolkata Knight Riders,392233,2009-05-20,MM Patel,5,6,0.0,0.0,0,0,0,9.0,83.33333333333334,0,0
+Rajasthan Royals,Kolkata Knight Riders,392233,2009-05-20,NV Ojha,22,13,0.0,3.0,0,0,0,32.0,169.23076923076923,CK Langeveldt,caught
+Rajasthan Royals,Kolkata Knight Riders,392233,2009-05-20,Niraj Patel,14,22,1.0,0.0,0,0,0,19.0,63.63636363636363,CK Langeveldt,caught
+Rajasthan Royals,Kolkata Knight Riders,392233,2009-05-20,RA Jadeja,14,20,1.0,0.0,0,0,0,19.0,70.0,SS Sarkar,bowled
+Rajasthan Royals,Kolkata Knight Riders,392233,2009-05-20,RJ Quiney,1,2,0.0,0.0,0,0,0,5.0,50.0,CK Langeveldt,caught
+Rajasthan Royals,Kolkata Knight Riders,392233,2009-05-20,SA Asnodkar,4,6,1.0,0.0,0,0,0,9.0,66.66666666666666,AB Dinda,run out
+Rajasthan Royals,Kolkata Knight Riders,392233,2009-05-20,SK Warne,18,29,1.0,0.0,0,0,0,23.0,62.06896551724138,AB Agarkar,bowled
+Rajasthan Royals,Kolkata Knight Riders,392233,2009-05-20,T Henderson,0,1,0.0,0.0,0,0,1,2.0,0.0,AB Agarkar,run out
+Rajasthan Royals,Kolkata Knight Riders,392233,2009-05-20,YK Pathan,9,16,1.0,0.0,0,0,0,14.0,56.25,LR Shukla,run out

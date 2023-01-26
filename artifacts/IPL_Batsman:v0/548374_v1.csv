@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Kings XI Punjab,548374,2012-05-19,DA Warner,79,46,10.0,4.0,1,0,0,109.0,171.73913043478262,RJ Harris,caught
+Delhi Daredevils,Kings XI Punjab,548374,2012-05-19,DPMD Jayawardene,8,10,1.0,0.0,0,0,0,13.0,80.0,Azhar Mahmood,caught
+Delhi Daredevils,Kings XI Punjab,548374,2012-05-19,IK Pathan,5,7,1.0,0.0,0,0,0,10.0,71.42857142857143,RJ Harris,caught
+Delhi Daredevils,Kings XI Punjab,548374,2012-05-19,NV Ojha,5,6,1.0,0.0,0,0,0,10.0,83.33333333333334,0,0
+Delhi Daredevils,Kings XI Punjab,548374,2012-05-19,UBT Chand,18,24,0.0,2.0,0,0,0,26.0,75.0,Azhar Mahmood,caught
+Delhi Daredevils,Kings XI Punjab,548374,2012-05-19,Y Venugopal Rao,21,20,2.0,1.0,0,0,0,29.0,105.0,0,0
+Kings XI Punjab,Delhi Daredevils,548374,2012-05-19,AC Gilchrist,9,13,2.0,0.0,0,0,0,15.0,69.23076923076923,UT Yadav,caught
+Kings XI Punjab,Delhi Daredevils,548374,2012-05-19,Azhar Mahmood,36,38,4.0,1.0,0,0,0,46.0,94.73684210526316,M Morkel,caught
+Kings XI Punjab,Delhi Daredevils,548374,2012-05-19,DJ Hussey,3,6,0.0,0.0,0,0,0,7.0,50.0,UT Yadav,caught
+Kings XI Punjab,Delhi Daredevils,548374,2012-05-19,Gurkeerat Singh,26,12,4.0,1.0,0,0,0,36.0,216.66666666666663,M Morkel,bowled
+Kings XI Punjab,Delhi Daredevils,548374,2012-05-19,Mandeep Singh,0,1,0.0,0.0,0,0,1,2.0,0.0,UT Yadav,caught
+Kings XI Punjab,Delhi Daredevils,548374,2012-05-19,P Kumar,3,2,0.0,0.0,0,0,0,7.0,150.0,0,0
+Kings XI Punjab,Delhi Daredevils,548374,2012-05-19,PC Valthaty,2,10,0.0,0.0,0,0,0,6.0,20.0,M Morkel,caught
+Kings XI Punjab,Delhi Daredevils,548374,2012-05-19,PP Chawla,1,2,0.0,0.0,0,0,0,5.0,50.0,M Morkel,bowled
+Kings XI Punjab,Delhi Daredevils,548374,2012-05-19,RJ Harris,15,6,1.0,1.0,0,0,0,22.0,250.0,0,0
+Kings XI Punjab,Delhi Daredevils,548374,2012-05-19,SD Chitnis,38,33,5.0,1.0,0,0,0,49.0,115.15151515151516,AD Russell,caught

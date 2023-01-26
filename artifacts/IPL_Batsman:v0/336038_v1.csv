@@ -1,0 +1,22 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Rajasthan Royals,336038,2008-05-30,A Mishra,2,5,0.0,0.0,0,0,0,6.0,40.0,MM Patel,bowled
+Delhi Daredevils,Rajasthan Royals,336038,2008-05-30,G Gambhir,11,17,1.0,0.0,0,0,0,16.0,64.70588235294117,SR Watson,caught
+Delhi Daredevils,Rajasthan Royals,336038,2008-05-30,GD McGrath,4,3,1.0,0.0,0,0,0,9.0,133.33333333333331,0,0
+Delhi Daredevils,Rajasthan Royals,336038,2008-05-30,KD Karthik,10,12,1.0,0.0,0,0,0,15.0,83.33333333333334,SK Trivedi,caught
+Delhi Daredevils,Rajasthan Royals,336038,2008-05-30,MF Maharoof,6,6,1.0,0.0,0,0,0,11.0,100.0,SK Warne,caught
+Delhi Daredevils,Rajasthan Royals,336038,2008-05-30,MK Tiwary,0,3,0.0,0.0,0,0,1,2.0,0.0,MM Patel,caught
+Delhi Daredevils,Rajasthan Royals,336038,2008-05-30,Mohammad Asif,3,5,0.0,0.0,0,0,0,7.0,60.0,RA Jadeja,run out
+Delhi Daredevils,Rajasthan Royals,336038,2008-05-30,S Dhawan,5,13,0.0,0.0,0,0,0,9.0,38.46153846153847,SR Watson,caught
+Delhi Daredevils,Rajasthan Royals,336038,2008-05-30,TM Dilshan,33,22,5.0,1.0,0,0,0,44.0,150.0,SK Warne,caught
+Delhi Daredevils,Rajasthan Royals,336038,2008-05-30,V Sehwag,3,4,0.0,0.0,0,0,0,7.0,75.0,SR Watson,caught
+Delhi Daredevils,Rajasthan Royals,336038,2008-05-30,VY Mahesh,3,10,0.0,0.0,0,0,0,7.0,30.0,MM Patel,caught
+Rajasthan Royals,Delhi Daredevils,336038,2008-05-30,GC Smith,25,22,5.0,0.0,0,0,0,34.0,113.63636363636364,MF Maharoof,caught
+Rajasthan Royals,Delhi Daredevils,336038,2008-05-30,M Kaif,12,12,0.0,1.0,0,0,0,18.0,100.0,A Mishra,bowled
+Rajasthan Royals,Delhi Daredevils,336038,2008-05-30,M Rawat,2,4,0.0,0.0,0,0,0,6.0,50.0,Mohammad Asif,caught and bowled
+Rajasthan Royals,Delhi Daredevils,336038,2008-05-30,RA Jadeja,7,5,0.0,1.0,0,0,0,13.0,140.0,VY Mahesh,caught
+Rajasthan Royals,Delhi Daredevils,336038,2008-05-30,SA Asnodkar,39,21,6.0,1.0,0,0,0,51.0,185.7142857142857,MF Maharoof,caught
+Rajasthan Royals,Delhi Daredevils,336038,2008-05-30,SK Trivedi,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Rajasthan Royals,Delhi Daredevils,336038,2008-05-30,SK Warne,0,1,0.0,0.0,0,0,1,2.0,0.0,VY Mahesh,caught
+Rajasthan Royals,Delhi Daredevils,336038,2008-05-30,SR Watson,52,30,4.0,3.0,1,0,0,74.0,173.33333333333334,A Mishra,stumped
+Rajasthan Royals,Delhi Daredevils,336038,2008-05-30,Sohail Tanvir,5,5,1.0,0.0,0,0,0,10.0,100.0,MF Maharoof,caught
+Rajasthan Royals,Delhi Daredevils,336038,2008-05-30,YK Pathan,45,21,3.0,4.0,0,0,0,60.0,214.28571428571428,Mohammad Asif,run out

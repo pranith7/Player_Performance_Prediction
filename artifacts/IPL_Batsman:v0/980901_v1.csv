@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Rising Pune Supergiants,980901,2016-04-09,AT Rayudu,22,28,2.0,0.0,0,0,0,28.0,78.57142857142857,R Ashwin,caught
+Mumbai Indians,Rising Pune Supergiants,980901,2016-04-09,HH Pandya,9,13,2.0,0.0,0,0,0,15.0,69.23076923076923,MR Marsh,caught
+Mumbai Indians,Rising Pune Supergiants,980901,2016-04-09,Harbhajan Singh,45,31,7.0,1.0,0,0,0,58.0,145.16129032258064,0,0
+Mumbai Indians,Rising Pune Supergiants,980901,2016-04-09,JC Buttler,0,2,0.0,0.0,0,0,1,2.0,0.0,MR Marsh,caught
+Mumbai Indians,Rising Pune Supergiants,980901,2016-04-09,KA Pollard,1,10,0.0,0.0,0,0,0,5.0,10.0,R Bhatia,lbw
+Mumbai Indians,Rising Pune Supergiants,980901,2016-04-09,LMP Simmons,8,8,0.0,1.0,0,0,0,14.0,100.0,I Sharma,bowled
+Mumbai Indians,Rising Pune Supergiants,980901,2016-04-09,MJ McClenaghan,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Mumbai Indians,Rising Pune Supergiants,980901,2016-04-09,R Vinay Kumar,12,11,0.0,1.0,0,0,0,18.0,109.09090909090908,RP Singh,caught
+Mumbai Indians,Rising Pune Supergiants,980901,2016-04-09,RG Sharma,7,5,1.0,0.0,0,0,0,12.0,140.0,I Sharma,lbw
+Mumbai Indians,Rising Pune Supergiants,980901,2016-04-09,S Gopal,2,16,0.0,0.0,0,0,0,6.0,12.5,M Ashwin,caught
+Rising Pune Supergiants,Mumbai Indians,980901,2016-04-09,AM Rahane,66,42,7.0,3.0,1,0,0,91.0,157.14285714285714,0,0
+Rising Pune Supergiants,Mumbai Indians,980901,2016-04-09,F du Plessis,34,36,1.0,3.0,0,0,0,45.0,94.44444444444444,Harbhajan Singh,bowled
+Rising Pune Supergiants,Mumbai Indians,980901,2016-04-09,KP Pietersen,21,14,0.0,2.0,0,0,0,29.0,150.0,0,0

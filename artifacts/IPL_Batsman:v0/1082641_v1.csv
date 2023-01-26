@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Mumbai Indians,1082641,2017-05-11,AR Patel,19,13,0.0,1.0,0,0,0,25.0,146.15384615384613,0,0
+Kings XI Punjab,Mumbai Indians,1082641,2017-05-11,GJ Maxwell,47,22,2.0,5.0,0,0,0,63.0,213.63636363636363,JJ Bumrah,bowled
+Kings XI Punjab,Mumbai Indians,1082641,2017-05-11,MJ Guptill,36,18,5.0,1.0,0,0,0,47.0,200.0,KV Sharma,caught
+Kings XI Punjab,Mumbai Indians,1082641,2017-05-11,SE Marsh,25,17,0.0,2.0,0,0,0,33.0,147.05882352941177,MJ McClenaghan,caught
+Kings XI Punjab,Mumbai Indians,1082641,2017-05-11,WP Saha,93,59,11.0,3.0,1,0,0,122.0,157.6271186440678,0,0
+Mumbai Indians,Kings XI Punjab,1082641,2017-05-11,HH Pandya,30,14,0.0,4.0,0,0,0,42.0,214.28571428571428,Sandeep Sharma,caught
+Mumbai Indians,Kings XI Punjab,1082641,2017-05-11,Harbhajan Singh,2,4,0.0,0.0,0,0,0,6.0,50.0,0,0
+Mumbai Indians,Kings XI Punjab,1082641,2017-05-11,KA Pollard,50,26,1.0,5.0,1,0,0,73.0,192.30769230769232,0,0
+Mumbai Indians,Kings XI Punjab,1082641,2017-05-11,KV Sharma,19,6,3.0,1.0,0,0,0,28.0,316.66666666666663,MM Sharma,bowled
+Mumbai Indians,Kings XI Punjab,1082641,2017-05-11,LMP Simmons,59,33,5.0,4.0,1,0,0,84.0,178.78787878787878,GJ Maxwell,caught
+Mumbai Indians,Kings XI Punjab,1082641,2017-05-11,N Rana,12,12,2.0,0.0,0,0,0,18.0,100.0,AR Patel,caught
+Mumbai Indians,Kings XI Punjab,1082641,2017-05-11,PA Patel,38,24,7.0,0.0,0,0,0,49.0,158.33333333333331,MM Sharma,caught
+Mumbai Indians,Kings XI Punjab,1082641,2017-05-11,RG Sharma,5,7,0.0,0.0,0,0,0,9.0,71.42857142857143,R Tewatia,caught

@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Royal Challengers Bangalore,980921,2016-04-17,JP Duminy,7,5,1.0,0.0,0,0,0,12.0,140.0,0,0
+Delhi Daredevils,Royal Challengers Bangalore,980921,2016-04-17,KK Nair,54,44,6.0,1.0,1,0,0,74.0,122.72727272727272,0,0
+Delhi Daredevils,Royal Challengers Bangalore,980921,2016-04-17,Q de Kock,108,54,15.0,3.0,1,1,0,157.0,200.0,SR Watson,caught
+Delhi Daredevils,Royal Challengers Bangalore,980921,2016-04-17,SS Iyer,0,5,0.0,0.0,0,0,1,2.0,0.0,S Aravind,caught
+Delhi Daredevils,Royal Challengers Bangalore,980921,2016-04-17,SV Samson,9,14,0.0,0.0,0,0,0,13.0,64.28571428571429,SR Watson,caught
+Royal Challengers Bangalore,Delhi Daredevils,980921,2016-04-17,AB de Villiers,55,33,9.0,1.0,1,0,0,78.0,166.66666666666669,CR Brathwaite,caught
+Royal Challengers Bangalore,Delhi Daredevils,980921,2016-04-17,CH Gayle,0,3,0.0,0.0,0,0,1,2.0,0.0,Z Khan,caught
+Royal Challengers Bangalore,Delhi Daredevils,980921,2016-04-17,D Wiese,5,4,0.0,0.0,0,0,0,9.0,125.0,0,0
+Royal Challengers Bangalore,Delhi Daredevils,980921,2016-04-17,KM Jadhav,9,12,1.0,0.0,0,0,0,14.0,75.0,0,0
+Royal Challengers Bangalore,Delhi Daredevils,980921,2016-04-17,SN Khan,1,2,0.0,0.0,0,0,0,5.0,50.0,Mohammed Shami,run out
+Royal Challengers Bangalore,Delhi Daredevils,980921,2016-04-17,SR Watson,33,19,2.0,3.0,0,0,0,45.0,173.6842105263158,Mohammed Shami,caught
+Royal Challengers Bangalore,Delhi Daredevils,980921,2016-04-17,V Kohli,79,48,7.0,3.0,1,0,0,104.0,164.58333333333331,Mohammed Shami,caught

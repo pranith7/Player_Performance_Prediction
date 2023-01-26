@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Rajasthan Royals,829797,2015-05-10,BB McCullum,81,63,7.0,4.0,1,0,0,108.0,128.57142857142858,CH Morris,caught
+Chennai Super Kings,Rajasthan Royals,829797,2015-05-10,DJ Bravo,15,8,2.0,0.0,0,0,0,21.0,187.5,0,0
+Chennai Super Kings,Rajasthan Royals,829797,2015-05-10,DR Smith,6,10,1.0,0.0,0,0,0,11.0,60.0,Ankit Sharma,caught
+Chennai Super Kings,Rajasthan Royals,829797,2015-05-10,F du Plessis,29,26,3.0,0.0,0,0,0,36.0,111.53846153846156,SR Watson,run out
+Chennai Super Kings,Rajasthan Royals,829797,2015-05-10,MS Dhoni,13,7,1.0,1.0,0,0,0,20.0,185.7142857142857,0,0
+Chennai Super Kings,Rajasthan Royals,829797,2015-05-10,P Negi,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,CH Morris,caught
+Chennai Super Kings,Rajasthan Royals,829797,2015-05-10,SK Raina,3,6,0.0,0.0,0,0,0,7.0,50.0,CH Morris,caught
+Rajasthan Royals,Chennai Super Kings,829797,2015-05-10,AM Rahane,23,17,4.0,0.0,0,0,0,31.0,135.29411764705884,MM Sharma,caught
+Rajasthan Royals,Chennai Super Kings,829797,2015-05-10,Ankit Sharma,0,1,0.0,0.0,0,0,1,2.0,0.0,DJ Bravo,caught
+Rajasthan Royals,Chennai Super Kings,829797,2015-05-10,CH Morris,16,11,0.0,1.0,0,0,0,22.0,145.45454545454547,0,0
+Rajasthan Royals,Chennai Super Kings,829797,2015-05-10,DJ Hooda,15,14,1.0,0.0,0,0,0,20.0,107.14285714285714,RA Jadeja,caught
+Rajasthan Royals,Chennai Super Kings,829797,2015-05-10,JP Faulkner,16,13,2.0,0.0,0,0,0,22.0,123.07692307692308,MM Sharma,caught
+Rajasthan Royals,Chennai Super Kings,829797,2015-05-10,KK Nair,10,12,1.0,0.0,0,0,0,15.0,83.33333333333334,RA Jadeja,caught
+Rajasthan Royals,Chennai Super Kings,829797,2015-05-10,PV Tambe,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Rajasthan Royals,Chennai Super Kings,829797,2015-05-10,R Bhatia,0,1,0.0,0.0,0,0,1,2.0,0.0,MM Sharma,caught
+Rajasthan Royals,Chennai Super Kings,829797,2015-05-10,SPD Smith,4,6,0.0,0.0,0,0,0,8.0,66.66666666666666,RA Jadeja,bowled
+Rajasthan Royals,Chennai Super Kings,829797,2015-05-10,SR Watson,28,30,2.0,0.0,0,0,0,34.0,93.33333333333331,RA Jadeja,caught
+Rajasthan Royals,Chennai Super Kings,829797,2015-05-10,SV Samson,26,18,1.0,2.0,0,0,0,35.0,144.44444444444443,DJ Bravo,caught

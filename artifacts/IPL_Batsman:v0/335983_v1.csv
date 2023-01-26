@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Kings XI Punjab,335983,2008-04-19,JDP Oram,13,11,0.0,1.0,0,0,0,19.0,118.1818181818182,IK Pathan,bowled
+Chennai Super Kings,Kings XI Punjab,335983,2008-04-19,MEK Hussey,116,54,8.0,9.0,1,1,0,170.0,214.81481481481484,0,0
+Chennai Super Kings,Kings XI Punjab,335983,2008-04-19,ML Hayden,25,17,4.0,1.0,0,0,0,35.0,147.05882352941177,IK Pathan,bowled
+Chennai Super Kings,Kings XI Punjab,335983,2008-04-19,MS Dhoni,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,JR Hopes,lbw
+Chennai Super Kings,Kings XI Punjab,335983,2008-04-19,PA Patel,15,11,3.0,0.0,0,0,0,22.0,136.36363636363637,B Lee,caught
+Chennai Super Kings,Kings XI Punjab,335983,2008-04-19,S Badrinath,31,14,3.0,2.0,0,0,0,42.0,221.42857142857144,0,0
+Chennai Super Kings,Kings XI Punjab,335983,2008-04-19,SK Raina,32,14,2.0,3.0,0,0,0,44.0,228.57142857142856,WA Mota,caught
+Kings XI Punjab,Chennai Super Kings,335983,2008-04-19,IK Pathan,3,5,0.0,0.0,0,0,0,7.0,60.0,0,0
+Kings XI Punjab,Chennai Super Kings,335983,2008-04-19,JR Hopes,71,34,10.0,3.0,1,0,0,99.0,208.82352941176472,P Amarnath,caught
+Kings XI Punjab,Chennai Super Kings,335983,2008-04-19,K Goel,24,20,2.0,1.0,0,0,0,32.0,120.0,MS Gony,caught
+Kings XI Punjab,Chennai Super Kings,335983,2008-04-19,KC Sangakkara,54,35,5.0,2.0,1,0,0,75.0,154.2857142857143,M Muralitharan,caught
+Kings XI Punjab,Chennai Super Kings,335983,2008-04-19,SM Katich,21,17,0.0,1.0,0,0,0,27.0,123.52941176470588,0,0
+Kings XI Punjab,Chennai Super Kings,335983,2008-04-19,Yuvraj Singh,23,13,1.0,2.0,0,0,0,32.0,176.9230769230769,Joginder Sharma,caught

@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Mumbai Indians,829747,2015-04-23,AD Mathews,17,9,3.0,0.0,0,0,0,24.0,188.88888888888889,MJ McClenaghan,caught
+Delhi Daredevils,Mumbai Indians,829747,2015-04-23,JP Duminy,78,53,3.0,6.0,1,0,0,105.0,147.16981132075472,0,0
+Delhi Daredevils,Mumbai Indians,829747,2015-04-23,KM Jadhav,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Delhi Daredevils,Mumbai Indians,829747,2015-04-23,MA Agarwal,1,2,0.0,0.0,0,0,0,5.0,50.0,MJ McClenaghan,caught
+Delhi Daredevils,Mumbai Indians,829747,2015-04-23,SS Iyer,83,58,7.0,5.0,1,0,0,112.0,143.10344827586206,SL Malinga,bowled
+Delhi Daredevils,Mumbai Indians,829747,2015-04-23,Yuvraj Singh,2,4,0.0,0.0,0,0,0,6.0,50.0,JJ Bumrah,caught
+Mumbai Indians,Delhi Daredevils,829747,2015-04-23,AT Rayudu,30,22,3.0,1.0,0,0,0,39.0,136.36363636363637,Imran Tahir,caught
+Mumbai Indians,Delhi Daredevils,829747,2015-04-23,HH Pandya,0,1,0.0,0.0,0,0,1,2.0,0.0,Imran Tahir,caught
+Mumbai Indians,Delhi Daredevils,829747,2015-04-23,Harbhajan Singh,9,11,0.0,1.0,0,0,0,15.0,81.81818181818183,AD Mathews,caught
+Mumbai Indians,Delhi Daredevils,829747,2015-04-23,KA Pollard,10,8,0.0,1.0,0,0,0,16.0,125.0,A Mishra,caught
+Mumbai Indians,Delhi Daredevils,829747,2015-04-23,LMP Simmons,15,16,3.0,0.0,0,0,0,22.0,93.75,DJ Muthuswami,caught
+Mumbai Indians,Delhi Daredevils,829747,2015-04-23,MJ McClenaghan,0,1,0.0,0.0,0,0,1,2.0,0.0,Imran Tahir,caught
+Mumbai Indians,Delhi Daredevils,829747,2015-04-23,PA Patel,28,20,4.0,1.0,0,0,0,38.0,140.0,AD Mathews,caught
+Mumbai Indians,Delhi Daredevils,829747,2015-04-23,RG Sharma,30,24,0.0,2.0,0,0,0,38.0,125.0,NM Coulter-Nile,caught
+Mumbai Indians,Delhi Daredevils,829747,2015-04-23,SL Malinga,6,11,1.0,0.0,0,0,0,11.0,54.54545454545454,0,0
+Mumbai Indians,Delhi Daredevils,829747,2015-04-23,UBT Chand,14,14,2.0,0.0,0,0,0,20.0,100.0,A Mishra,stumped

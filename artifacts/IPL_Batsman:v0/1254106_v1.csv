@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Rajasthan Royals,1254106,2021-10-07,EJG Morgan,13,12,1.0,1.0,0,0,0,20.0,108.33333333333331,0,0
+Kolkata Knight Riders,Rajasthan Royals,1254106,2021-10-07,KD Karthik,14,11,0.0,1.0,0,0,0,20.0,127.27272727272728,0,0
+Kolkata Knight Riders,Rajasthan Royals,1254106,2021-10-07,N Rana,12,5,1.0,1.0,0,0,0,19.0,240.0,GD Phillips,caught
+Kolkata Knight Riders,Rajasthan Royals,1254106,2021-10-07,RA Tripathi,21,15,3.0,0.0,0,0,0,28.0,140.0,C Sakariya,bowled
+Kolkata Knight Riders,Rajasthan Royals,1254106,2021-10-07,Shubman Gill,56,47,4.0,2.0,1,0,0,76.0,119.14893617021276,CH Morris,caught
+Kolkata Knight Riders,Rajasthan Royals,1254106,2021-10-07,VR Iyer,38,37,3.0,2.0,0,0,0,49.0,102.7027027027027,R Tewatia,bowled
+Rajasthan Royals,Kolkata Knight Riders,1254106,2021-10-07,Anuj Rawat,0,1,0.0,0.0,0,0,1,2.0,0.0,LH Ferguson,lbw
+Rajasthan Royals,Kolkata Knight Riders,1254106,2021-10-07,C Sakariya,1,5,0.0,0.0,0,0,0,5.0,20.0,SP Narine,run out
+Rajasthan Royals,Kolkata Knight Riders,1254106,2021-10-07,CH Morris,0,2,0.0,0.0,0,0,1,2.0,0.0,CV Varun,lbw
+Rajasthan Royals,Kolkata Knight Riders,1254106,2021-10-07,GD Phillips,8,12,0.0,1.0,0,0,0,14.0,66.66666666666666,Shivam Mavi,bowled
+Rajasthan Royals,Kolkata Knight Riders,1254106,2021-10-07,JD Unadkat,6,5,1.0,0.0,0,0,0,11.0,120.0,LH Ferguson,caught
+Rajasthan Royals,Kolkata Knight Riders,1254106,2021-10-07,LS Livingstone,6,6,1.0,0.0,0,0,0,11.0,100.0,LH Ferguson,caught
+Rajasthan Royals,Kolkata Knight Riders,1254106,2021-10-07,Mustafizur Rahman,0,3,0.0,0.0,0,0,1,2.0,0.0,0,0
+Rajasthan Royals,Kolkata Knight Riders,1254106,2021-10-07,R Tewatia,44,36,5.0,2.0,0,0,0,57.0,122.22222222222224,Shivam Mavi,bowled
+Rajasthan Royals,Kolkata Knight Riders,1254106,2021-10-07,S Dube,18,20,0.0,1.0,0,0,0,24.0,90.0,Shivam Mavi,bowled
+Rajasthan Royals,Kolkata Knight Riders,1254106,2021-10-07,SV Samson,1,4,0.0,0.0,0,0,0,5.0,25.0,Shivam Mavi,caught
+Rajasthan Royals,Kolkata Knight Riders,1254106,2021-10-07,YBK Jaiswal,0,3,0.0,0.0,0,0,1,2.0,0.0,Shakib Al Hasan,bowled

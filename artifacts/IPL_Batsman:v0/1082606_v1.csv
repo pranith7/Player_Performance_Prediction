@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Gujarat Lions,Mumbai Indians,1082606,2017-04-16,BB McCullum,64,44,6.0,3.0,1,0,0,88.0,145.45454545454547,SL Malinga,bowled
+Gujarat Lions,Mumbai Indians,1082606,2017-04-16,DR Smith,0,3,0.0,0.0,0,0,1,2.0,0.0,MJ McClenaghan,caught
+Gujarat Lions,Mumbai Indians,1082606,2017-04-16,Ishan Kishan,11,14,1.0,0.0,0,0,0,16.0,78.57142857142857,MJ McClenaghan,caught
+Gujarat Lions,Mumbai Indians,1082606,2017-04-16,JJ Roy,14,7,1.0,1.0,0,0,0,21.0,200.0,0,0
+Gujarat Lions,Mumbai Indians,1082606,2017-04-16,KD Karthik,48,29,2.0,2.0,0,0,0,58.0,165.51724137931035,0,0
+Gujarat Lions,Mumbai Indians,1082606,2017-04-16,SK Raina,28,29,2.0,0.0,0,0,0,34.0,96.55172413793105,Harbhajan Singh,caught
+Mumbai Indians,Gujarat Lions,1082606,2017-04-16,HH Pandya,6,4,1.0,0.0,0,0,0,11.0,150.0,0,0
+Mumbai Indians,Gujarat Lions,1082606,2017-04-16,JC Buttler,26,24,1.0,2.0,0,0,0,35.0,108.33333333333331,MM Patel,caught
+Mumbai Indians,Gujarat Lions,1082606,2017-04-16,KA Pollard,39,24,2.0,3.0,0,0,0,51.0,162.5,AJ Tye,caught
+Mumbai Indians,Gujarat Lions,1082606,2017-04-16,N Rana,53,42,4.0,2.0,1,0,0,73.0,126.1904761904762,AJ Tye,caught
+Mumbai Indians,Gujarat Lions,1082606,2017-04-16,PA Patel,0,2,0.0,0.0,0,0,1,2.0,0.0,P Kumar,caught
+Mumbai Indians,Gujarat Lions,1082606,2017-04-16,RG Sharma,40,29,3.0,1.0,0,0,0,49.0,137.93103448275863,0,0

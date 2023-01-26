@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Sunrisers Hyderabad,729317,2014-04-30,AP Tare,7,5,1.0,0.0,0,0,0,12.0,140.0,DW Steyn,caught
+Mumbai Indians,Sunrisers Hyderabad,729317,2014-04-30,AT Rayudu,35,28,5.0,0.0,0,0,0,44.0,125.0,IK Pathan,caught
+Mumbai Indians,Sunrisers Hyderabad,729317,2014-04-30,BR Dunk,20,18,4.0,0.0,0,0,0,28.0,111.11111111111111,DJG Sammy,bowled
+Mumbai Indians,Sunrisers Hyderabad,729317,2014-04-30,CJ Anderson,1,9,0.0,0.0,0,0,0,5.0,11.11111111111111,DW Steyn,caught
+Mumbai Indians,Sunrisers Hyderabad,729317,2014-04-30,CM Gautam,4,5,1.0,0.0,0,0,0,9.0,80.0,0,0
+Mumbai Indians,Sunrisers Hyderabad,729317,2014-04-30,Harbhajan Singh,1,4,0.0,0.0,0,0,0,5.0,25.0,B Kumar,caught
+Mumbai Indians,Sunrisers Hyderabad,729317,2014-04-30,KA Pollard,78,50,3.0,6.0,1,0,0,105.0,156.0,IK Pathan,bowled
+Mumbai Indians,Sunrisers Hyderabad,729317,2014-04-30,RG Sharma,1,5,0.0,0.0,0,0,0,5.0,20.0,B Kumar,bowled
+Mumbai Indians,Sunrisers Hyderabad,729317,2014-04-30,Z Khan,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Sunrisers Hyderabad,Mumbai Indians,729317,2014-04-30,AJ Finch,16,15,3.0,0.0,0,0,0,23.0,106.66666666666669,Z Khan,caught
+Sunrisers Hyderabad,Mumbai Indians,729317,2014-04-30,DA Warner,65,53,1.0,4.0,1,0,0,86.0,122.64150943396226,CJ Anderson,caught
+Sunrisers Hyderabad,Mumbai Indians,729317,2014-04-30,DJG Sammy,10,6,1.0,1.0,0,0,0,17.0,166.66666666666669,CJ Anderson,caught
+Sunrisers Hyderabad,Mumbai Indians,729317,2014-04-30,IK Pathan,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Sunrisers Hyderabad,Mumbai Indians,729317,2014-04-30,KL Rahul,46,40,3.0,0.0,0,0,0,53.0,115.0,SL Malinga,caught
+Sunrisers Hyderabad,Mumbai Indians,729317,2014-04-30,NV Ojha,10,4,2.0,0.0,0,0,0,16.0,250.0,0,0
+Sunrisers Hyderabad,Mumbai Indians,729317,2014-04-30,S Dhawan,6,6,1.0,0.0,0,0,0,11.0,100.0,Z Khan,caught

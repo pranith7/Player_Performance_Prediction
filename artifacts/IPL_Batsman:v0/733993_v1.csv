@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Sunrisers Hyderabad,733993,2014-05-10,JP Duminy,4,5,0.0,0.0,0,0,0,8.0,80.0,B Kumar,bowled
+Delhi Daredevils,Sunrisers Hyderabad,733993,2014-05-10,KD Karthik,39,30,1.0,2.0,0,0,0,48.0,130.0,MC Henriques,caught
+Delhi Daredevils,Sunrisers Hyderabad,733993,2014-05-10,KM Jadhav,5,11,0.0,0.0,0,0,0,9.0,45.45454545454545,DW Steyn,caught
+Delhi Daredevils,Sunrisers Hyderabad,733993,2014-05-10,KP Pietersen,35,20,4.0,2.0,0,0,0,47.0,175.0,A Mishra,caught
+Delhi Daredevils,Sunrisers Hyderabad,733993,2014-05-10,LR Shukla,21,22,1.0,1.0,0,0,0,28.0,95.45454545454544,MC Henriques,caught
+Delhi Daredevils,Sunrisers Hyderabad,733993,2014-05-10,MA Agarwal,25,18,4.0,0.0,0,0,0,33.0,138.88888888888889,A Mishra,caught
+Delhi Daredevils,Sunrisers Hyderabad,733993,2014-05-10,Q de Kock,7,12,0.0,0.0,0,0,0,11.0,58.333333333333336,DW Steyn,caught
+Delhi Daredevils,Sunrisers Hyderabad,733993,2014-05-10,R Shukla,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,0,0
+Sunrisers Hyderabad,Delhi Daredevils,733993,2014-05-10,AJ Finch,4,8,0.0,0.0,0,0,0,8.0,50.0,R Shukla,bowled
+Sunrisers Hyderabad,Delhi Daredevils,733993,2014-05-10,DA Warner,12,11,1.0,0.0,0,0,0,17.0,109.09090909090908,0,0
+Sunrisers Hyderabad,Delhi Daredevils,733993,2014-05-10,NV Ojha,13,3,0.0,2.0,0,0,0,21.0,433.3333333333333,0,0
+Sunrisers Hyderabad,Delhi Daredevils,733993,2014-05-10,S Dhawan,4,8,1.0,0.0,0,0,0,9.0,50.0,S Kaul,caught

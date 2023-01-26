@@ -1,0 +1,21 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Gujarat Titans,Kolkata Knight Riders,1304081,2022-04-23,A Manohar,2,5,0.0,0.0,0,0,0,6.0,40.0,AD Russell,caught
+Gujarat Titans,Kolkata Knight Riders,1304081,2022-04-23,AS Joseph,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Gujarat Titans,Kolkata Knight Riders,1304081,2022-04-23,DA Miller,27,20,1.0,2.0,0,0,0,36.0,135.0,Shivam Mavi,caught
+Gujarat Titans,Kolkata Knight Riders,1304081,2022-04-23,HH Pandya,67,53,4.0,2.0,1,0,0,87.0,126.41509433962264,TG Southee,caught
+Gujarat Titans,Kolkata Knight Riders,1304081,2022-04-23,LH Ferguson,0,1,0.0,0.0,0,0,1,2.0,0.0,AD Russell,caught
+Gujarat Titans,Kolkata Knight Riders,1304081,2022-04-23,R Tewatia,17,13,2.0,0.0,0,0,0,23.0,130.76923076923077,AD Russell,caught
+Gujarat Titans,Kolkata Knight Riders,1304081,2022-04-23,Rashid Khan,0,2,0.0,0.0,0,0,1,2.0,0.0,TG Southee,caught
+Gujarat Titans,Kolkata Knight Riders,1304081,2022-04-23,Shubman Gill,7,5,1.0,0.0,0,0,0,12.0,140.0,TG Southee,caught
+Gujarat Titans,Kolkata Knight Riders,1304081,2022-04-23,WP Saha,25,26,2.0,1.0,0,0,0,33.0,96.15384615384616,UT Yadav,caught
+Gujarat Titans,Kolkata Knight Riders,1304081,2022-04-23,Yash Dayal,0,1,0.0,0.0,0,0,1,2.0,0.0,AD Russell,caught and bowled
+Kolkata Knight Riders,Gujarat Titans,1304081,2022-04-23,AD Russell,48,25,1.0,6.0,0,0,0,65.0,192.0,AS Joseph,caught
+Kolkata Knight Riders,Gujarat Titans,1304081,2022-04-23,N Rana,2,7,0.0,0.0,0,0,0,6.0,28.57142857142857,LH Ferguson,caught
+Kolkata Knight Riders,Gujarat Titans,1304081,2022-04-23,RK Singh,35,29,4.0,1.0,0,0,0,45.0,120.6896551724138,Yash Dayal,caught
+Kolkata Knight Riders,Gujarat Titans,1304081,2022-04-23,SP Narine,5,5,1.0,0.0,0,0,0,10.0,100.0,Mohammed Shami,caught
+Kolkata Knight Riders,Gujarat Titans,1304081,2022-04-23,SS Iyer,12,16,1.0,1.0,0,0,0,19.0,75.0,Yash Dayal,caught
+Kolkata Knight Riders,Gujarat Titans,1304081,2022-04-23,SW Billings,4,5,1.0,0.0,0,0,0,9.0,80.0,Mohammed Shami,caught
+Kolkata Knight Riders,Gujarat Titans,1304081,2022-04-23,Shivam Mavi,2,4,0.0,0.0,0,0,0,6.0,50.0,Rashid Khan,bowled
+Kolkata Knight Riders,Gujarat Titans,1304081,2022-04-23,TG Southee,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Kolkata Knight Riders,Gujarat Titans,1304081,2022-04-23,UT Yadav,15,15,1.0,1.0,0,0,0,22.0,100.0,0,0
+Kolkata Knight Riders,Gujarat Titans,1304081,2022-04-23,VR Iyer,17,19,2.0,0.0,0,0,0,23.0,89.47368421052632,Rashid Khan,caught

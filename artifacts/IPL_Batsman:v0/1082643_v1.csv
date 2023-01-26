@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Gujarat Lions,Sunrisers Hyderabad,1082643,2017-05-13,AJ Finch,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,Rashid Khan,bowled
+Gujarat Lions,Sunrisers Hyderabad,1082643,2017-05-13,Ankit Soni,0,6,0.0,0.0,0,0,1,2.0,0.0,S Kaul,bowled
+Gujarat Lions,Sunrisers Hyderabad,1082643,2017-05-13,DR Smith,54,33,7.0,2.0,1,0,0,77.0,163.63636363636363,Rashid Khan,lbw
+Gujarat Lions,Sunrisers Hyderabad,1082643,2017-05-13,Ishan Kishan,61,41,5.0,4.0,1,0,0,86.0,148.78048780487805,Mohammed Siraj,caught
+Gujarat Lions,Sunrisers Hyderabad,1082643,2017-05-13,JP Faulkner,8,10,1.0,0.0,0,0,0,13.0,80.0,Mohammed Siraj,bowled
+Gujarat Lions,Sunrisers Hyderabad,1082643,2017-05-13,KD Karthik,0,1,0.0,0.0,0,0,1,2.0,0.0,Rashid Khan,caught
+Gujarat Lions,Sunrisers Hyderabad,1082643,2017-05-13,MM Patel,0,1,0.0,0.0,0,0,1,2.0,0.0,B Kumar,bowled
+Gujarat Lions,Sunrisers Hyderabad,1082643,2017-05-13,P Kumar,1,2,0.0,0.0,0,0,0,5.0,50.0,B Kumar,bowled
+Gujarat Lions,Sunrisers Hyderabad,1082643,2017-05-13,PJ Sangwan,0,1,0.0,0.0,0,0,1,2.0,0.0,Mohammed Siraj,bowled
+Gujarat Lions,Sunrisers Hyderabad,1082643,2017-05-13,RA Jadeja,20,15,2.0,0.0,0,0,0,26.0,133.33333333333331,0,0
+Gujarat Lions,Sunrisers Hyderabad,1082643,2017-05-13,SK Raina,2,5,0.0,0.0,0,0,0,6.0,40.0,Mohammed Siraj,caught
+Sunrisers Hyderabad,Gujarat Lions,1082643,2017-05-13,DA Warner,69,52,9.0,0.0,1,0,0,90.0,132.69230769230768,0,0
+Sunrisers Hyderabad,Gujarat Lions,1082643,2017-05-13,MC Henriques,4,2,1.0,0.0,0,0,0,9.0,200.0,P Kumar,caught
+Sunrisers Hyderabad,Gujarat Lions,1082643,2017-05-13,S Dhawan,18,12,4.0,0.0,0,0,0,26.0,150.0,P Kumar,caught
+Sunrisers Hyderabad,Gujarat Lions,1082643,2017-05-13,V Shankar,63,44,9.0,0.0,1,0,0,84.0,143.1818181818182,0,0

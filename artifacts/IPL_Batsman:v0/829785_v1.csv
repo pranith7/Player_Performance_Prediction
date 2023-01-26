@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Royal Challengers Bangalore,829785,2015-05-06,AR Patel,40,21,5.0,2.0,0,0,0,53.0,190.47619047619045,0,0
+Kings XI Punjab,Royal Challengers Bangalore,829785,2015-05-06,Anureet Singh,0,2,0.0,0.0,0,0,1,2.0,0.0,MA Starc,bowled
+Kings XI Punjab,Royal Challengers Bangalore,829785,2015-05-06,DA Miller,7,10,1.0,0.0,0,0,0,12.0,70.0,S Aravind,bowled
+Kings XI Punjab,Royal Challengers Bangalore,829785,2015-05-06,GJ Bailey,2,4,0.0,0.0,0,0,0,6.0,50.0,S Aravind,bowled
+Kings XI Punjab,Royal Challengers Bangalore,829785,2015-05-06,GJ Maxwell,1,5,0.0,0.0,0,0,0,5.0,20.0,S Aravind,bowled
+Kings XI Punjab,Royal Challengers Bangalore,829785,2015-05-06,Karanveer Singh,4,7,0.0,0.0,0,0,0,8.0,57.14285714285714,MA Starc,bowled
+Kings XI Punjab,Royal Challengers Bangalore,829785,2015-05-06,M Vijay,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,HV Patel,bowled
+Kings XI Punjab,Royal Challengers Bangalore,829785,2015-05-06,M Vohra,2,4,0.0,0.0,0,0,0,6.0,50.0,MA Starc,caught
+Kings XI Punjab,Royal Challengers Bangalore,829785,2015-05-06,MG Johnson,1,5,0.0,0.0,0,0,0,5.0,20.0,MA Starc,bowled
+Kings XI Punjab,Royal Challengers Bangalore,829785,2015-05-06,Sandeep Sharma,7,9,1.0,0.0,0,0,0,12.0,77.77777777777779,YS Chahal,caught and bowled
+Kings XI Punjab,Royal Challengers Bangalore,829785,2015-05-06,WP Saha,13,11,1.0,1.0,0,0,0,20.0,118.1818181818182,S Aravind,caught
+Royal Challengers Bangalore,Kings XI Punjab,829785,2015-05-06,AB de Villiers,47,24,3.0,4.0,0,0,0,62.0,195.8333333333333,0,0
+Royal Challengers Bangalore,Kings XI Punjab,829785,2015-05-06,CH Gayle,117,63,7.0,12.0,1,1,0,176.0,185.7142857142857,AR Patel,caught and bowled
+Royal Challengers Bangalore,Kings XI Punjab,829785,2015-05-06,KD Karthik,8,3,0.0,1.0,0,0,0,14.0,266.66666666666663,Sandeep Sharma,bowled
+Royal Challengers Bangalore,Kings XI Punjab,829785,2015-05-06,SN Khan,11,7,1.0,0.0,0,0,0,16.0,157.14285714285714,0,0
+Royal Challengers Bangalore,Kings XI Punjab,829785,2015-05-06,V Kohli,32,31,3.0,1.0,0,0,0,41.0,103.2258064516129,Sandeep Sharma,bowled

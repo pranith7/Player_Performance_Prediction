@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Rajasthan Royals,548326,2012-04-17,DT Christian,29,19,2.0,1.0,0,0,0,37.0,152.63157894736844,0,0
+Deccan Chargers,Rajasthan Royals,548326,2012-04-17,JP Duminy,58,27,3.0,5.0,1,0,0,83.0,214.81481481481484,0,0
+Deccan Chargers,Rajasthan Royals,548326,2012-04-17,KC Sangakkara,44,36,5.0,1.0,0,0,0,55.0,122.22222222222224,BJ Hodge,caught
+Deccan Chargers,Rajasthan Royals,548326,2012-04-17,S Dhawan,52,43,8.0,0.0,1,0,0,72.0,120.93023255813952,SK Trivedi,caught
+Rajasthan Royals,Deccan Chargers,548326,2012-04-17,AL Menaria,22,20,1.0,1.0,0,0,0,29.0,110.0,A Mishra,caught
+Rajasthan Royals,Deccan Chargers,548326,2012-04-17,AM Rahane,44,32,5.0,1.0,0,0,0,55.0,137.5,A Mishra,caught
+Rajasthan Royals,Deccan Chargers,548326,2012-04-17,BJ Hodge,48,21,6.0,2.0,0,0,0,62.0,228.57142857142856,0,0
+Rajasthan Royals,Deccan Chargers,548326,2012-04-17,DH Yagnik,9,3,2.0,0.0,0,0,0,15.0,300.0,0,0
+Rajasthan Royals,Deccan Chargers,548326,2012-04-17,J Botha,14,9,0.0,1.0,0,0,0,20.0,155.55555555555557,Anand Rajan,caught
+Rajasthan Royals,Deccan Chargers,548326,2012-04-17,OA Shah,12,12,1.0,0.0,0,0,0,17.0,100.0,A Mishra,caught
+Rajasthan Royals,Deccan Chargers,548326,2012-04-17,R Dravid,42,27,7.0,1.0,0,0,0,55.0,155.55555555555557,DT Christian,bowled

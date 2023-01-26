@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Mumbai Indians,829783,2015-05-05,AD Mathews,12,10,0.0,1.0,0,0,0,18.0,120.0,HH Pandya,caught
+Delhi Daredevils,Mumbai Indians,829783,2015-05-05,JP Duminy,28,19,3.0,2.0,0,0,0,39.0,147.36842105263156,J Suchith,caught and bowled
+Delhi Daredevils,Mumbai Indians,829783,2015-05-05,KM Jadhav,16,15,0.0,1.0,0,0,0,22.0,106.66666666666669,Harbhajan Singh,stumped
+Delhi Daredevils,Mumbai Indians,829783,2015-05-05,MA Agarwal,0,1,0.0,0.0,0,0,1,2.0,0.0,SL Malinga,caught
+Delhi Daredevils,Mumbai Indians,829783,2015-05-05,NM Coulter-Nile,3,2,0.0,0.0,0,0,0,7.0,150.0,0,0
+Delhi Daredevils,Mumbai Indians,829783,2015-05-05,SS Iyer,19,19,3.0,0.0,0,0,0,26.0,100.0,Harbhajan Singh,caught
+Delhi Daredevils,Mumbai Indians,829783,2015-05-05,SS Tiwary,13,11,2.0,0.0,0,0,0,19.0,118.1818181818182,0,0
+Delhi Daredevils,Mumbai Indians,829783,2015-05-05,Yuvraj Singh,57,44,7.0,2.0,1,0,0,80.0,129.54545454545453,SL Malinga,caught
+Mumbai Indians,Delhi Daredevils,829783,2015-05-05,AT Rayudu,49,40,4.0,1.0,0,0,0,59.0,122.5,0,0
+Mumbai Indians,Delhi Daredevils,829783,2015-05-05,HH Pandya,5,10,1.0,0.0,0,0,0,10.0,50.0,NM Coulter-Nile,caught
+Mumbai Indians,Delhi Daredevils,829783,2015-05-05,Harbhajan Singh,5,4,1.0,0.0,0,0,0,10.0,125.0,NM Coulter-Nile,bowled
+Mumbai Indians,Delhi Daredevils,829783,2015-05-05,KA Pollard,26,16,0.0,3.0,0,0,0,36.0,162.5,0,0
+Mumbai Indians,Delhi Daredevils,829783,2015-05-05,LMP Simmons,0,2,0.0,0.0,0,0,1,2.0,0.0,Z Khan,lbw
+Mumbai Indians,Delhi Daredevils,829783,2015-05-05,PA Patel,13,13,1.0,0.0,0,0,0,18.0,100.0,AD Mathews,caught
+Mumbai Indians,Delhi Daredevils,829783,2015-05-05,RG Sharma,46,38,2.0,3.0,0,0,0,58.0,121.05263157894736,A Mishra,bowled

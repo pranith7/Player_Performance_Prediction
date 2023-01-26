@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Rajasthan Royals,1304093,2022-05-02,AJ Finch,4,8,0.0,0.0,0,0,0,8.0,50.0,KR Sen,bowled
+Kolkata Knight Riders,Rajasthan Royals,1304093,2022-05-02,B Indrajith,15,17,2.0,0.0,0,0,0,21.0,88.23529411764706,M Prasidh Krishna,caught
+Kolkata Knight Riders,Rajasthan Royals,1304093,2022-05-02,N Rana,48,39,3.0,2.0,0,0,0,59.0,123.07692307692308,0,0
+Kolkata Knight Riders,Rajasthan Royals,1304093,2022-05-02,RK Singh,42,26,6.0,1.0,0,0,0,54.0,161.53846153846155,0,0
+Kolkata Knight Riders,Rajasthan Royals,1304093,2022-05-02,SS Iyer,34,34,3.0,1.0,0,0,0,43.0,100.0,TA Boult,caught
+Rajasthan Royals,Kolkata Knight Riders,1304093,2022-05-02,D Padikkal,2,5,0.0,0.0,0,0,0,6.0,40.0,UT Yadav,caught and bowled
+Rajasthan Royals,Kolkata Knight Riders,1304093,2022-05-02,JC Buttler,22,26,3.0,0.0,0,0,0,29.0,84.61538461538461,TG Southee,caught
+Rajasthan Royals,Kolkata Knight Riders,1304093,2022-05-02,KK Nair,13,13,1.0,0.0,0,0,0,18.0,100.0,AS Roy,caught
+Rajasthan Royals,Kolkata Knight Riders,1304093,2022-05-02,R Ashwin,6,5,0.0,0.0,0,0,0,10.0,120.0,0,0
+Rajasthan Royals,Kolkata Knight Riders,1304093,2022-05-02,R Parag,19,12,1.0,2.0,0,0,0,28.0,158.33333333333331,TG Southee,caught
+Rajasthan Royals,Kolkata Knight Riders,1304093,2022-05-02,SO Hetmyer,27,16,1.0,2.0,0,0,0,36.0,168.75,0,0
+Rajasthan Royals,Kolkata Knight Riders,1304093,2022-05-02,SV Samson,54,50,7.0,1.0,1,0,0,75.0,108.0,Shivam Mavi,caught

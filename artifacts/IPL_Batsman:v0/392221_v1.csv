@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Royal Challengers Bangalore,392221,2009-05-12,AD Mathews,16,14,2.0,0.0,0,0,0,22.0,114.28571428571428,A Kumble,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,392221,2009-05-12,AN Ghosh,7,7,1.0,0.0,0,0,0,12.0,100.0,R Vinay Kumar,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,392221,2009-05-12,BB McCullum,84,64,10.0,2.0,1,0,0,110.0,131.25,0,0
+Kolkata Knight Riders,Royal Challengers Bangalore,392221,2009-05-12,DJ Hussey,43,28,3.0,2.0,0,0,0,54.0,153.57142857142858,B Akhil,bowled
+Kolkata Knight Riders,Royal Challengers Bangalore,392221,2009-05-12,SC Ganguly,4,6,1.0,0.0,0,0,0,9.0,66.66666666666666,R Vinay Kumar,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,392221,2009-05-12,WP Saha,10,5,0.0,1.0,0,0,0,16.0,200.0,0,0
+Royal Challengers Bangalore,Kolkata Knight Riders,392221,2009-05-12,JD Ryder,22,20,3.0,0.0,0,0,0,29.0,110.0,AB Agarkar,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,392221,2009-05-12,JH Kallis,32,38,4.0,1.0,0,0,0,42.0,84.21052631578947,M Kartik,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,392221,2009-05-12,LRPL Taylor,81,33,7.0,5.0,1,0,0,110.0,245.45454545454547,0,0
+Royal Challengers Bangalore,Kolkata Knight Riders,392221,2009-05-12,MV Boucher,13,10,0.0,1.0,0,0,0,19.0,130.0,0,0
+Royal Challengers Bangalore,Kolkata Knight Riders,392221,2009-05-12,R Dravid,12,13,1.0,0.0,0,0,0,17.0,92.3076923076923,BAW Mendis,caught and bowled
+Royal Challengers Bangalore,Kolkata Knight Riders,392221,2009-05-12,RV Uthappa,7,10,0.0,0.0,0,0,0,11.0,70.0,M Kartik,caught

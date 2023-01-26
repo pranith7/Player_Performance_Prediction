@@ -1,0 +1,21 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Royal Challengers Bangalore,1082595,2017-04-08,A Mishra,8,14,0.0,0.0,0,0,0,12.0,57.14285714285714,0,0
+Delhi Daredevils,Royal Challengers Bangalore,1082595,2017-04-08,AP Tare,18,18,3.0,0.0,0,0,0,25.0,100.0,TS Mills,bowled
+Delhi Daredevils,Royal Challengers Bangalore,1082595,2017-04-08,CH Morris,4,5,0.0,0.0,0,0,0,8.0,80.0,Iqbal Abdulla,lbw
+Delhi Daredevils,Royal Challengers Bangalore,1082595,2017-04-08,CR Brathwaite,1,5,0.0,0.0,0,0,0,5.0,20.0,YS Chahal,bowled
+Delhi Daredevils,Royal Challengers Bangalore,1082595,2017-04-08,KK Nair,4,3,1.0,0.0,0,0,0,9.0,133.33333333333331,B Stanlake,bowled
+Delhi Daredevils,Royal Challengers Bangalore,1082595,2017-04-08,PJ Cummins,6,6,1.0,0.0,0,0,0,11.0,100.0,SR Watson,bowled
+Delhi Daredevils,Royal Challengers Bangalore,1082595,2017-04-08,RR Pant,57,39,3.0,4.0,1,0,0,80.0,146.15384615384613,P Negi,bowled
+Delhi Daredevils,Royal Challengers Bangalore,1082595,2017-04-08,S Nadeem,0,2,0.0,0.0,0,0,1,2.0,0.0,P Negi,caught and bowled
+Delhi Daredevils,Royal Challengers Bangalore,1082595,2017-04-08,SV Samson,13,12,1.0,0.0,0,0,0,18.0,108.33333333333331,B Stanlake,caught
+Delhi Daredevils,Royal Challengers Bangalore,1082595,2017-04-08,SW Billings,25,19,1.0,1.0,0,0,0,32.0,131.57894736842107,Iqbal Abdulla,caught
+Delhi Daredevils,Royal Challengers Bangalore,1082595,2017-04-08,Z Khan,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Royal Challengers Bangalore,Delhi Daredevils,1082595,2017-04-08,CH Gayle,6,9,1.0,0.0,0,0,0,11.0,66.66666666666666,CH Morris,caught
+Royal Challengers Bangalore,Delhi Daredevils,1082595,2017-04-08,Iqbal Abdulla,5,7,0.0,0.0,0,0,0,9.0,71.42857142857143,0,0
+Royal Challengers Bangalore,Delhi Daredevils,1082595,2017-04-08,KM Jadhav,69,38,5.0,5.0,1,0,0,96.0,181.57894736842107,Z Khan,caught
+Royal Challengers Bangalore,Delhi Daredevils,1082595,2017-04-08,Mandeep Singh,12,10,3.0,0.0,0,0,0,19.0,120.0,PJ Cummins,bowled
+Royal Challengers Bangalore,Delhi Daredevils,1082595,2017-04-08,P Negi,10,8,0.0,1.0,0,0,0,16.0,125.0,CH Morris,bowled
+Royal Challengers Bangalore,Delhi Daredevils,1082595,2017-04-08,SR Watson,24,25,4.0,0.0,0,0,0,32.0,96.0,S Nadeem,stumped
+Royal Challengers Bangalore,Delhi Daredevils,1082595,2017-04-08,STR Binny,16,19,1.0,0.0,0,0,0,21.0,84.21052631578947,Z Khan,caught
+Royal Challengers Bangalore,Delhi Daredevils,1082595,2017-04-08,TS Mills,0,3,0.0,0.0,0,0,1,2.0,0.0,CH Morris,bowled
+Royal Challengers Bangalore,Delhi Daredevils,1082595,2017-04-08,Vishnu Vinod,9,5,0.0,1.0,0,0,0,15.0,180.0,Z Khan,run out

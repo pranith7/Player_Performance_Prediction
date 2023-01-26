@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Royal Challengers Bangalore,501260,2011-05-17,AC Gilchrist,106,58,8.0,9.0,1,1,0,160.0,182.7586206896552,CK Langeveldt,caught
+Kings XI Punjab,Royal Challengers Bangalore,501260,2011-05-17,DJ Hussey,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Kings XI Punjab,Royal Challengers Bangalore,501260,2011-05-17,PC Valthaty,20,18,2.0,1.0,0,0,0,28.0,111.11111111111111,CK Langeveldt,caught
+Kings XI Punjab,Royal Challengers Bangalore,501260,2011-05-17,SE Marsh,79,49,7.0,5.0,1,0,0,108.0,161.22448979591837,0,0
+Royal Challengers Bangalore,Kings XI Punjab,501260,2011-05-17,A Mithun,10,7,0.0,1.0,0,0,0,16.0,142.85714285714286,RJ Harris,caught
+Royal Challengers Bangalore,Kings XI Punjab,501260,2011-05-17,AB de Villiers,34,27,3.0,1.0,0,0,0,43.0,125.92592592592592,PP Chawla,caught
+Royal Challengers Bangalore,Kings XI Punjab,501260,2011-05-17,AUK Pathan,7,4,0.0,1.0,0,0,0,13.0,175.0,PC Valthaty,caught
+Royal Challengers Bangalore,Kings XI Punjab,501260,2011-05-17,CH Gayle,0,7,0.0,0.0,0,0,1,2.0,0.0,RJ Harris,caught
+Royal Challengers Bangalore,Kings XI Punjab,501260,2011-05-17,CK Langeveldt,8,8,0.0,1.0,0,0,0,14.0,100.0,SJ Srivastava,bowled
+Royal Challengers Bangalore,Kings XI Punjab,501260,2011-05-17,JJ van der Wath,4,5,0.0,0.0,0,0,0,8.0,80.0,PP Chawla,lbw
+Royal Challengers Bangalore,Kings XI Punjab,501260,2011-05-17,KB Arun Karthik,6,6,1.0,0.0,0,0,0,11.0,100.0,PP Chawla,bowled
+Royal Challengers Bangalore,Kings XI Punjab,501260,2011-05-17,M Kaif,15,11,3.0,0.0,0,0,0,22.0,136.36363636363637,PP Chawla,stumped
+Royal Challengers Bangalore,Kings XI Punjab,501260,2011-05-17,S Aravind,11,5,2.0,0.0,0,0,0,17.0,220.00000000000003,0,0
+Royal Challengers Bangalore,Kings XI Punjab,501260,2011-05-17,SS Tiwary,6,14,1.0,0.0,0,0,0,11.0,42.85714285714285,SJ Srivastava,caught
+Royal Challengers Bangalore,Kings XI Punjab,501260,2011-05-17,V Kohli,11,12,2.0,0.0,0,0,0,17.0,91.66666666666666,RJ Harris,caught

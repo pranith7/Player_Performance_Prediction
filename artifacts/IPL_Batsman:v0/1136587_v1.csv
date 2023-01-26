@@ -1,0 +1,11 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Mumbai Indians,1136587,2018-04-28,AT Rayudu,46,36,2.0,4.0,0,0,0,60.0,127.77777777777776,KH Pandya,caught
+Chennai Super Kings,Mumbai Indians,1136587,2018-04-28,DJ Bravo,0,1,0.0,0.0,0,0,1,2.0,0.0,MJ McClenaghan,caught
+Chennai Super Kings,Mumbai Indians,1136587,2018-04-28,MS Dhoni,26,23,3.0,1.0,0,0,0,35.0,113.04347826086956,MJ McClenaghan,caught
+Chennai Super Kings,Mumbai Indians,1136587,2018-04-28,SK Raina,75,48,6.0,4.0,1,0,0,101.0,156.25,0,0
+Chennai Super Kings,Mumbai Indians,1136587,2018-04-28,SR Watson,12,11,1.0,0.0,0,0,0,17.0,109.09090909090908,KH Pandya,caught
+Chennai Super Kings,Mumbai Indians,1136587,2018-04-28,SW Billings,3,5,0.0,0.0,0,0,0,7.0,60.0,HH Pandya,caught
+Mumbai Indians,Chennai Super Kings,1136587,2018-04-28,E Lewis,47,45,3.0,2.0,0,0,0,58.0,104.44444444444446,DJ Bravo,caught
+Mumbai Indians,Chennai Super Kings,1136587,2018-04-28,HH Pandya,13,8,0.0,1.0,0,0,0,19.0,162.5,0,0
+Mumbai Indians,Chennai Super Kings,1136587,2018-04-28,RG Sharma,56,35,6.0,2.0,1,0,0,78.0,160.0,0,0
+Mumbai Indians,Chennai Super Kings,1136587,2018-04-28,SA Yadav,44,35,5.0,1.0,0,0,0,55.0,125.71428571428572,Harbhajan Singh,caught

@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Rising Pune Supergiant,Sunrisers Hyderabad,1082615,2017-04-22,AM Rahane,2,7,0.0,0.0,0,0,0,6.0,28.57142857142857,Bipul Sharma,caught
+Rising Pune Supergiant,Sunrisers Hyderabad,1082615,2017-04-22,BA Stokes,10,9,1.0,0.0,0,0,0,15.0,111.11111111111111,B Kumar,caught
+Rising Pune Supergiant,Sunrisers Hyderabad,1082615,2017-04-22,MK Tiwary,17,8,3.0,0.0,0,0,0,24.0,212.5,0,0
+Rising Pune Supergiant,Sunrisers Hyderabad,1082615,2017-04-22,MS Dhoni,61,35,5.0,3.0,1,0,0,84.0,174.28571428571428,0,0
+Rising Pune Supergiant,Sunrisers Hyderabad,1082615,2017-04-22,RA Tripathi,59,41,6.0,3.0,1,0,0,83.0,143.90243902439025,Rashid Khan,run out
+Rising Pune Supergiant,Sunrisers Hyderabad,1082615,2017-04-22,SPD Smith,27,21,1.0,2.0,0,0,0,36.0,128.57142857142858,Rashid Khan,bowled
+Sunrisers Hyderabad,Rising Pune Supergiant,1082615,2017-04-22,DA Warner,43,42,3.0,1.0,0,0,0,52.0,102.38095238095238,JD Unadkat,bowled
+Sunrisers Hyderabad,Rising Pune Supergiant,1082615,2017-04-22,DJ Hooda,19,10,2.0,1.0,0,0,0,27.0,190.0,0,0
+Sunrisers Hyderabad,Rising Pune Supergiant,1082615,2017-04-22,KS Williamson,21,14,1.0,1.0,0,0,0,28.0,150.0,DT Christian,lbw
+Sunrisers Hyderabad,Rising Pune Supergiant,1082615,2017-04-22,MC Henriques,55,29,6.0,2.0,1,0,0,77.0,189.6551724137931,0,0
+Sunrisers Hyderabad,Rising Pune Supergiant,1082615,2017-04-22,S Dhawan,30,29,5.0,0.0,0,0,0,39.0,103.44827586206895,Imran Tahir,caught

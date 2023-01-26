@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Rising Pune Supergiants,Royal Challengers Bangalore,980931,2016-04-22,AM Rahane,60,47,8.0,0.0,1,0,0,80.0,127.65957446808513,T Shamsi,stumped
+Rising Pune Supergiants,Royal Challengers Bangalore,980931,2016-04-22,Ankit Sharma,3,3,0.0,0.0,0,0,0,7.0,100.0,0,0
+Rising Pune Supergiants,Royal Challengers Bangalore,980931,2016-04-22,F du Plessis,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,KW Richardson,caught
+Rising Pune Supergiants,Royal Challengers Bangalore,980931,2016-04-22,KP Pietersen,0,1,0.0,0.0,0,0,1,2.0,0.0,KW Richardson,retired hurt
+Rising Pune Supergiants,Royal Challengers Bangalore,980931,2016-04-22,M Ashwin,0,1,0.0,0.0,0,0,1,2.0,0.0,KW Richardson,caught
+Rising Pune Supergiants,Royal Challengers Bangalore,980931,2016-04-22,MS Dhoni,41,40,3.0,0.0,0,0,0,48.0,102.5,HV Patel,caught
+Rising Pune Supergiants,Royal Challengers Bangalore,980931,2016-04-22,NLTC Perera,34,15,3.0,3.0,0,0,0,47.0,226.66666666666663,SR Watson,caught
+Rising Pune Supergiants,Royal Challengers Bangalore,980931,2016-04-22,R Ashwin,0,1,0.0,0.0,0,0,1,2.0,0.0,SR Watson,caught
+Rising Pune Supergiants,Royal Challengers Bangalore,980931,2016-04-22,R Bhatia,21,11,1.0,1.0,0,0,0,28.0,190.9090909090909,KW Richardson,caught
+Rising Pune Supergiants,Royal Challengers Bangalore,980931,2016-04-22,SPD Smith,4,4,1.0,0.0,0,0,0,9.0,100.0,HV Patel,run out
+Royal Challengers Bangalore,Rising Pune Supergiants,980931,2016-04-22,AB de Villiers,83,46,6.0,4.0,1,0,0,109.0,180.43478260869568,NLTC Perera,caught
+Royal Challengers Bangalore,Rising Pune Supergiants,980931,2016-04-22,KL Rahul,7,10,1.0,0.0,0,0,0,12.0,70.0,NLTC Perera,caught
+Royal Challengers Bangalore,Rising Pune Supergiants,980931,2016-04-22,SN Khan,2,1,0.0,0.0,0,0,0,6.0,200.0,0,0
+Royal Challengers Bangalore,Rising Pune Supergiants,980931,2016-04-22,SR Watson,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Royal Challengers Bangalore,Rising Pune Supergiants,980931,2016-04-22,V Kohli,80,70,7.0,2.0,1,0,0,103.0,114.28571428571428,NLTC Perera,caught

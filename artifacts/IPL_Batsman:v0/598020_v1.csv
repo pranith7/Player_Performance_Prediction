@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Delhi Daredevils,598020,2013-04-18,DJ Bravo,3,3,0.0,0.0,0,0,0,7.0,100.0,UT Yadav,run out
+Chennai Super Kings,Delhi Daredevils,598020,2013-04-18,M Vijay,18,13,3.0,0.0,0,0,0,25.0,138.46153846153845,M Morkel,lbw
+Chennai Super Kings,Delhi Daredevils,598020,2013-04-18,MEK Hussey,65,53,6.0,2.0,1,0,0,87.0,122.64150943396226,0,0
+Chennai Super Kings,Delhi Daredevils,598020,2013-04-18,MS Dhoni,44,24,5.0,1.0,0,0,0,55.0,183.3333333333333,UT Yadav,caught
+Chennai Super Kings,Delhi Daredevils,598020,2013-04-18,SK Raina,30,32,5.0,0.0,0,0,0,39.0,93.75,IK Pathan,caught
+Delhi Daredevils,Chennai Super Kings,598020,2013-04-18,AB Agarkar,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,R Ashwin,caught
+Delhi Daredevils,Chennai Super Kings,598020,2013-04-18,BMAJ Mendis,12,17,0.0,0.0,0,0,0,16.0,70.58823529411765,RA Jadeja,run out
+Delhi Daredevils,Chennai Super Kings,598020,2013-04-18,DA Warner,1,4,0.0,0.0,0,0,0,5.0,25.0,MM Sharma,bowled
+Delhi Daredevils,Chennai Super Kings,598020,2013-04-18,DPMD Jayawardene,6,12,1.0,0.0,0,0,0,11.0,50.0,CH Morris,lbw
+Delhi Daredevils,Chennai Super Kings,598020,2013-04-18,IK Pathan,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,RA Jadeja,caught
+Delhi Daredevils,Chennai Super Kings,598020,2013-04-18,KM Jadhav,31,28,3.0,0.0,0,0,0,38.0,110.71428571428572,JA Morkel,caught
+Delhi Daredevils,Chennai Super Kings,598020,2013-04-18,M Morkel,2,4,0.0,0.0,0,0,0,6.0,50.0,R Ashwin,bowled
+Delhi Daredevils,Chennai Super Kings,598020,2013-04-18,MC Juneja,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,MM Sharma,lbw
+Delhi Daredevils,Chennai Super Kings,598020,2013-04-18,S Nadeem,2,7,0.0,0.0,0,0,0,6.0,28.57142857142857,0,0
+Delhi Daredevils,Chennai Super Kings,598020,2013-04-18,UT Yadav,1,5,0.0,0.0,0,0,0,5.0,20.0,DJ Bravo,caught
+Delhi Daredevils,Chennai Super Kings,598020,2013-04-18,V Sehwag,17,16,1.0,1.0,0,0,0,24.0,106.25,MM Sharma,caught

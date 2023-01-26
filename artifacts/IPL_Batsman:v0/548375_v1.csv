@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Pune Warriors,548375,2012-05-19,BB McCullum,41,43,5.0,0.0,0,0,0,50.0,95.34883720930232,WD Parnell,caught
+Kolkata Knight Riders,Pune Warriors,548375,2012-05-19,G Gambhir,10,12,1.0,0.0,0,0,0,15.0,83.33333333333334,WD Parnell,caught
+Kolkata Knight Riders,Pune Warriors,548375,2012-05-19,JH Kallis,13,18,1.0,0.0,0,0,0,18.0,72.22222222222221,MJ Clarke,bowled
+Kolkata Knight Riders,Pune Warriors,548375,2012-05-19,MK Tiwary,8,9,0.0,0.0,0,0,0,12.0,88.88888888888889,0,0
+Kolkata Knight Riders,Pune Warriors,548375,2012-05-19,Shakib Al Hasan,42,30,3.0,2.0,0,0,0,53.0,140.0,B Kumar,bowled
+Kolkata Knight Riders,Pune Warriors,548375,2012-05-19,YK Pathan,15,10,2.0,0.0,0,0,0,21.0,150.0,0,0
+Pune Warriors,Kolkata Knight Riders,548375,2012-05-19,AG Murtaza,3,5,0.0,0.0,0,0,0,7.0,60.0,0,0
+Pune Warriors,Kolkata Knight Riders,548375,2012-05-19,AP Majumdar,17,22,0.0,0.0,0,0,0,21.0,77.27272727272727,Shakib Al Hasan,stumped
+Pune Warriors,Kolkata Knight Riders,548375,2012-05-19,B Kumar,3,6,0.0,0.0,0,0,0,7.0,50.0,0,0
+Pune Warriors,Kolkata Knight Riders,548375,2012-05-19,CJ Ferguson,12,18,0.0,0.0,0,0,0,16.0,66.66666666666666,R Bhatia,caught
+Pune Warriors,Kolkata Knight Riders,548375,2012-05-19,Harpreet Singh,6,6,0.0,0.0,0,0,0,10.0,100.0,SP Narine,caught and bowled
+Pune Warriors,Kolkata Knight Riders,548375,2012-05-19,JD Ryder,22,26,0.0,2.0,0,0,0,30.0,84.61538461538461,YK Pathan,bowled
+Pune Warriors,Kolkata Knight Riders,548375,2012-05-19,MJ Clarke,13,20,0.0,0.0,0,0,0,17.0,65.0,YK Pathan,stumped
+Pune Warriors,Kolkata Knight Riders,548375,2012-05-19,RV Uthappa,8,8,1.0,0.0,0,0,0,13.0,100.0,Iqbal Abdulla,caught
+Pune Warriors,Kolkata Knight Riders,548375,2012-05-19,SC Ganguly,5,8,0.0,0.0,0,0,0,9.0,62.5,Shakib Al Hasan,lbw
+Pune Warriors,Kolkata Knight Riders,548375,2012-05-19,WD Parnell,3,5,0.0,0.0,0,0,0,7.0,60.0,L Balaji,caught

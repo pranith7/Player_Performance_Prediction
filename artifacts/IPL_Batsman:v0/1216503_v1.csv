@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Mumbai Indians,1216503,2020-10-01,GJ Maxwell,11,19,0.0,0.0,0,0,0,15.0,57.89473684210527,RD Chahar,caught
+Kings XI Punjab,Mumbai Indians,1216503,2020-10-01,JDS Neesham,7,7,0.0,0.0,0,0,0,11.0,100.0,JJ Bumrah,caught
+Kings XI Punjab,Mumbai Indians,1216503,2020-10-01,K Gowtham,22,13,2.0,1.0,0,0,0,30.0,169.23076923076923,0,0
+Kings XI Punjab,Mumbai Indians,1216503,2020-10-01,KK Nair,0,3,0.0,0.0,0,0,1,2.0,0.0,KH Pandya,bowled
+Kings XI Punjab,Mumbai Indians,1216503,2020-10-01,KL Rahul,17,19,1.0,0.0,0,0,0,22.0,89.47368421052632,RD Chahar,bowled
+Kings XI Punjab,Mumbai Indians,1216503,2020-10-01,MA Agarwal,25,19,3.0,0.0,0,0,0,32.0,131.57894736842107,JJ Bumrah,bowled
+Kings XI Punjab,Mumbai Indians,1216503,2020-10-01,Mohammed Shami,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Kings XI Punjab,Mumbai Indians,1216503,2020-10-01,N Pooran,44,30,3.0,2.0,0,0,0,55.0,146.66666666666666,JL Pattinson,caught
+Kings XI Punjab,Mumbai Indians,1216503,2020-10-01,Ravi Bishnoi,1,5,0.0,0.0,0,0,0,5.0,20.0,TA Boult,caught
+Kings XI Punjab,Mumbai Indians,1216503,2020-10-01,SN Khan,7,8,1.0,0.0,0,0,0,12.0,87.5,JL Pattinson,lbw
+Mumbai Indians,Kings XI Punjab,1216503,2020-10-01,HH Pandya,30,11,3.0,2.0,0,0,0,41.0,272.7272727272727,0,0
+Mumbai Indians,Kings XI Punjab,1216503,2020-10-01,Ishan Kishan,28,33,1.0,1.0,0,0,0,35.0,84.84848484848484,K Gowtham,caught
+Mumbai Indians,Kings XI Punjab,1216503,2020-10-01,KA Pollard,47,22,3.0,4.0,0,0,0,62.0,213.63636363636363,0,0
+Mumbai Indians,Kings XI Punjab,1216503,2020-10-01,Q de Kock,0,5,0.0,0.0,0,0,1,2.0,0.0,SS Cottrell,bowled
+Mumbai Indians,Kings XI Punjab,1216503,2020-10-01,RG Sharma,70,47,8.0,3.0,1,0,0,96.0,148.93617021276594,Mohammed Shami,caught
+Mumbai Indians,Kings XI Punjab,1216503,2020-10-01,SA Yadav,10,7,2.0,0.0,0,0,0,16.0,142.85714285714286,Ravi Bishnoi,run out

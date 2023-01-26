@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Rajasthan Royals,548345,2012-04-29,DPMD Jayawardene,6,5,1.0,0.0,0,0,0,11.0,120.0,Pankaj Singh,caught
+Delhi Daredevils,Rajasthan Royals,548345,2012-04-29,IK Pathan,7,5,1.0,0.0,0,0,0,12.0,140.0,0,0
+Delhi Daredevils,Rajasthan Royals,548345,2012-04-29,KP Pietersen,5,5,1.0,0.0,0,0,0,10.0,100.0,AA Chavan,caught
+Delhi Daredevils,Rajasthan Royals,548345,2012-04-29,LRPL Taylor,25,36,0.0,0.0,0,0,0,29.0,69.44444444444444,Pankaj Singh,bowled
+Delhi Daredevils,Rajasthan Royals,548345,2012-04-29,NV Ojha,11,11,0.0,1.0,0,0,0,17.0,100.0,A Singh,caught
+Delhi Daredevils,Rajasthan Royals,548345,2012-04-29,V Sehwag,63,40,8.0,2.0,1,0,0,87.0,157.5,GB Hogg,caught
+Delhi Daredevils,Rajasthan Royals,548345,2012-04-29,Y Nagar,27,21,2.0,2.0,0,0,0,37.0,128.57142857142858,A Singh,caught
+Rajasthan Royals,Delhi Daredevils,548345,2012-04-29,AM Rahane,84,65,9.0,1.0,1,0,0,107.0,129.23076923076923,0,0
+Rajasthan Royals,Delhi Daredevils,548345,2012-04-29,BJ Hodge,22,18,3.0,0.0,0,0,0,29.0,122.22222222222224,M Morkel,lbw
+Rajasthan Royals,Delhi Daredevils,548345,2012-04-29,OA Shah,1,1,0.0,0.0,0,0,0,5.0,100.0,UT Yadav,run out
+Rajasthan Royals,Delhi Daredevils,548345,2012-04-29,R Dravid,40,40,5.0,0.0,0,0,0,49.0,100.0,IK Pathan,caught

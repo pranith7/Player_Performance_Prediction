@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Sunrisers Hyderabad,598060,2013-05-13,AT Rayudu,2,5,0.0,0.0,0,0,0,6.0,40.0,KV Sharma,stumped
+Mumbai Indians,Sunrisers Hyderabad,598060,2013-05-13,DR Smith,21,18,4.0,0.0,0,0,0,29.0,116.66666666666669,I Sharma,bowled
+Mumbai Indians,Sunrisers Hyderabad,598060,2013-05-13,KA Pollard,66,27,2.0,8.0,1,0,0,96.0,244.44444444444449,0,0
+Mumbai Indians,Sunrisers Hyderabad,598060,2013-05-13,KD Karthik,30,24,4.0,0.0,0,0,0,38.0,125.0,KV Sharma,caught
+Mumbai Indians,Sunrisers Hyderabad,598060,2013-05-13,RG Sharma,20,15,0.0,2.0,0,0,0,28.0,133.33333333333331,0,0
+Mumbai Indians,Sunrisers Hyderabad,598060,2013-05-13,SR Tendulkar,38,33,3.0,1.0,0,0,0,47.0,115.15151515151516,KV Sharma,retired hurt
+Sunrisers Hyderabad,Mumbai Indians,598060,2013-05-13,CL White,43,24,3.0,3.0,0,0,0,56.0,179.16666666666669,0,0
+Sunrisers Hyderabad,Mumbai Indians,598060,2013-05-13,GH Vihari,41,38,4.0,0.0,0,0,0,49.0,107.89473684210526,SL Malinga,caught
+Sunrisers Hyderabad,Mumbai Indians,598060,2013-05-13,NLTC Perera,2,5,0.0,0.0,0,0,0,6.0,40.0,0,0
+Sunrisers Hyderabad,Mumbai Indians,598060,2013-05-13,PA Patel,26,15,5.0,0.0,0,0,0,35.0,173.33333333333334,SL Malinga,caught
+Sunrisers Hyderabad,Mumbai Indians,598060,2013-05-13,S Dhawan,59,44,6.0,2.0,1,0,0,81.0,134.0909090909091,MG Johnson,caught

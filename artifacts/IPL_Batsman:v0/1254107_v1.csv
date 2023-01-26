@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Punjab Kings,Sunrisers Hyderabad,1254107,2021-09-25,AK Markram,27,32,2.0,0.0,0,0,0,33.0,84.375,Abdul Samad,caught
+Punjab Kings,Sunrisers Hyderabad,1254107,2021-09-25,CH Gayle,14,18,1.0,0.0,0,0,0,19.0,77.77777777777779,Rashid Khan,lbw
+Punjab Kings,Sunrisers Hyderabad,1254107,2021-09-25,DJ Hooda,13,10,1.0,0.0,0,0,0,18.0,130.0,JO Holder,caught
+Punjab Kings,Sunrisers Hyderabad,1254107,2021-09-25,Harpreet Brar,18,19,1.0,0.0,0,0,0,23.0,94.73684210526316,0,0
+Punjab Kings,Sunrisers Hyderabad,1254107,2021-09-25,KL Rahul,21,21,3.0,0.0,0,0,0,28.0,100.0,JO Holder,caught
+Punjab Kings,Sunrisers Hyderabad,1254107,2021-09-25,MA Agarwal,5,6,0.0,0.0,0,0,0,9.0,83.33333333333334,JO Holder,caught
+Punjab Kings,Sunrisers Hyderabad,1254107,2021-09-25,N Pooran,8,4,0.0,1.0,0,0,0,14.0,200.0,Sandeep Sharma,caught and bowled
+Punjab Kings,Sunrisers Hyderabad,1254107,2021-09-25,NT Ellis,12,13,0.0,1.0,0,0,0,18.0,92.3076923076923,B Kumar,caught
+Sunrisers Hyderabad,Punjab Kings,1254107,2021-09-25,Abdul Samad,1,2,0.0,0.0,0,0,0,5.0,50.0,Ravi Bishnoi,caught
+Sunrisers Hyderabad,Punjab Kings,1254107,2021-09-25,B Kumar,3,4,0.0,0.0,0,0,0,7.0,75.0,0,0
+Sunrisers Hyderabad,Punjab Kings,1254107,2021-09-25,DA Warner,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,Mohammed Shami,caught
+Sunrisers Hyderabad,Punjab Kings,1254107,2021-09-25,JO Holder,47,30,0.0,5.0,0,0,0,61.0,156.66666666666666,0,0
+Sunrisers Hyderabad,Punjab Kings,1254107,2021-09-25,KM Jadhav,12,12,0.0,0.0,0,0,0,16.0,100.0,Ravi Bishnoi,bowled
+Sunrisers Hyderabad,Punjab Kings,1254107,2021-09-25,KS Williamson,1,6,0.0,0.0,0,0,0,5.0,16.666666666666664,Mohammed Shami,bowled
+Sunrisers Hyderabad,Punjab Kings,1254107,2021-09-25,MK Pandey,13,23,1.0,0.0,0,0,0,18.0,56.52173913043478,Ravi Bishnoi,bowled
+Sunrisers Hyderabad,Punjab Kings,1254107,2021-09-25,Rashid Khan,3,4,0.0,0.0,0,0,0,7.0,75.0,Arshdeep Singh,caught and bowled
+Sunrisers Hyderabad,Punjab Kings,1254107,2021-09-25,WP Saha,31,39,1.0,0.0,0,0,0,36.0,79.48717948717949,Arshdeep Singh,run out

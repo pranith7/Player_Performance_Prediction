@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Kings XI Punjab,335999,2008-05-01,AC Gilchrist,6,6,0.0,0.0,0,0,0,10.0,100.0,IK Pathan,bowled
+Deccan Chargers,Kings XI Punjab,335999,2008-05-01,D Kalyankrishna,3,8,0.0,0.0,0,0,0,7.0,37.5,IK Pathan,caught
+Deccan Chargers,Kings XI Punjab,335999,2008-05-01,DNT Zoysa,1,2,0.0,0.0,0,0,0,5.0,50.0,S Sreesanth,bowled
+Deccan Chargers,Kings XI Punjab,335999,2008-05-01,HH Gibbs,7,10,0.0,0.0,0,0,0,11.0,70.0,PP Chawla,caught
+Deccan Chargers,Kings XI Punjab,335999,2008-05-01,RG Sharma,76,42,10.0,2.0,1,0,0,102.0,180.95238095238096,0,0
+Deccan Chargers,Kings XI Punjab,335999,2008-05-01,RP Singh,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Deccan Chargers,Kings XI Punjab,335999,2008-05-01,SB Bangar,3,8,0.0,0.0,0,0,0,7.0,37.5,PP Chawla,caught
+Deccan Chargers,Kings XI Punjab,335999,2008-05-01,Shahid Afridi,13,7,1.0,1.0,0,0,0,20.0,185.7142857142857,Gagandeep Singh,caught
+Deccan Chargers,Kings XI Punjab,335999,2008-05-01,VVS Laxman,48,35,8.0,0.0,0,0,0,60.0,137.14285714285714,PP Chawla,caught
+Deccan Chargers,Kings XI Punjab,335999,2008-05-01,Y Venugopal Rao,1,2,0.0,0.0,0,0,0,5.0,50.0,PP Chawla,run out
+Kings XI Punjab,Deccan Chargers,335999,2008-05-01,DPMD Jayawardene,45,25,6.0,1.0,0,0,0,57.0,180.0,0,0
+Kings XI Punjab,Deccan Chargers,335999,2008-05-01,KC Sangakkara,3,4,0.0,0.0,0,0,0,7.0,75.0,D Kalyankrishna,caught
+Kings XI Punjab,Deccan Chargers,335999,2008-05-01,RR Sarwan,15,15,2.0,0.0,0,0,0,21.0,100.0,SB Bangar,run out
+Kings XI Punjab,Deccan Chargers,335999,2008-05-01,SE Marsh,84,63,11.0,1.0,1,0,0,109.0,133.33333333333331,0,0
+Kings XI Punjab,Deccan Chargers,335999,2008-05-01,Yuvraj Singh,14,10,2.0,0.0,0,0,0,20.0,140.0,DNT Zoysa,caught and bowled

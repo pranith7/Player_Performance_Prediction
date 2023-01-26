@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Pune Warriors,598003,2013-04-07,AC Gilchrist,15,10,2.0,1.0,0,0,0,23.0,150.0,AD Mathews,caught
+Kings XI Punjab,Pune Warriors,598003,2013-04-07,DJ Hussey,8,12,1.0,0.0,0,0,0,13.0,66.66666666666666,0,0
+Kings XI Punjab,Pune Warriors,598003,2013-04-07,M Vohra,43,28,7.0,0.0,0,0,0,54.0,153.57142857142858,0,0
+Kings XI Punjab,Pune Warriors,598003,2013-04-07,Mandeep Singh,31,27,4.0,0.0,0,0,0,39.0,114.8148148148148,R Sharma,bowled
+Pune Warriors,Kings XI Punjab,598003,2013-04-07,AD Mathews,4,4,1.0,0.0,0,0,0,9.0,100.0,P Awana,caught
+Pune Warriors,Kings XI Punjab,598003,2013-04-07,AM Nayar,25,26,3.0,0.0,0,0,0,32.0,96.15384615384616,0,0
+Pune Warriors,Kings XI Punjab,598003,2013-04-07,B Kumar,8,12,1.0,0.0,0,0,0,13.0,66.66666666666666,Azhar Mahmood,bowled
+Pune Warriors,Kings XI Punjab,598003,2013-04-07,LRPL Taylor,15,19,1.0,0.0,0,0,0,20.0,78.94736842105263,P Kumar,caught
+Pune Warriors,Kings XI Punjab,598003,2013-04-07,MK Pandey,0,4,0.0,0.0,0,0,1,2.0,0.0,P Kumar,bowled
+Pune Warriors,Kings XI Punjab,598003,2013-04-07,MN Samuels,3,9,0.0,0.0,0,0,0,7.0,33.33333333333333,P Awana,run out
+Pune Warriors,Kings XI Punjab,598003,2013-04-07,MR Marsh,15,9,1.0,1.0,0,0,0,22.0,166.66666666666669,RJ Harris,bowled
+Pune Warriors,Kings XI Punjab,598003,2013-04-07,R Sharma,1,1,0.0,0.0,0,0,0,5.0,100.0,Azhar Mahmood,run out
+Pune Warriors,Kings XI Punjab,598003,2013-04-07,RV Uthappa,19,23,2.0,0.0,0,0,0,25.0,82.6086956521739,PP Chawla,bowled
+Pune Warriors,Kings XI Punjab,598003,2013-04-07,TL Suman,6,14,1.0,0.0,0,0,0,11.0,42.85714285714285,Azhar Mahmood,caught

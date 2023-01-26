@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Sunrisers Hyderabad,1178413,2019-04-21,AD Russell,15,10,0.0,2.0,0,0,0,23.0,150.0,B Kumar,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1178413,2019-04-21,CA Lynn,51,50,4.0,1.0,1,0,0,69.0,102.0,KK Ahmed,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1178413,2019-04-21,KC Cariappa,9,3,0.0,1.0,0,0,0,15.0,300.0,0,0
+Kolkata Knight Riders,Sunrisers Hyderabad,1178413,2019-04-21,KD Karthik,6,4,1.0,0.0,0,0,0,11.0,150.0,S Nadeem,run out
+Kolkata Knight Riders,Sunrisers Hyderabad,1178413,2019-04-21,N Rana,11,11,1.0,0.0,0,0,0,16.0,100.0,B Kumar,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1178413,2019-04-21,PP Chawla,4,8,1.0,0.0,0,0,0,9.0,50.0,Rashid Khan,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1178413,2019-04-21,RK Singh,30,25,1.0,2.0,0,0,0,39.0,120.0,Sandeep Sharma,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1178413,2019-04-21,SP Narine,25,8,3.0,2.0,0,0,0,36.0,312.5,KK Ahmed,bowled
+Kolkata Knight Riders,Sunrisers Hyderabad,1178413,2019-04-21,Shubman Gill,3,4,0.0,0.0,0,0,0,7.0,75.0,KK Ahmed,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1178413,2019-04-21,Y Prithvi Raj,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Sunrisers Hyderabad,Kolkata Knight Riders,1178413,2019-04-21,DA Warner,67,39,3.0,5.0,1,0,0,92.0,171.7948717948718,Y Prithvi Raj,bowled
+Sunrisers Hyderabad,Kolkata Knight Riders,1178413,2019-04-21,JM Bairstow,80,45,7.0,4.0,1,0,0,107.0,177.77777777777777,0,0
+Sunrisers Hyderabad,Kolkata Knight Riders,1178413,2019-04-21,KS Williamson,8,10,0.0,0.0,0,0,0,12.0,80.0,0,0

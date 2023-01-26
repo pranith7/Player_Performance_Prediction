@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Mumbai Indians,392215,2009-05-08,AB de Villiers,50,38,6.0,1.0,1,0,0,70.0,131.57894736842107,0,0
+Delhi Daredevils,Mumbai Indians,392215,2009-05-08,DA Warner,21,32,0.0,1.0,0,0,0,27.0,65.625,JP Duminy,stumped
+Delhi Daredevils,Mumbai Indians,392215,2009-05-08,G Gambhir,19,24,2.0,0.0,0,0,0,25.0,79.16666666666666,Harbhajan Singh,caught
+Delhi Daredevils,Mumbai Indians,392215,2009-05-08,KD Karthik,5,3,1.0,0.0,0,0,0,10.0,166.66666666666669,0,0
+Delhi Daredevils,Mumbai Indians,392215,2009-05-08,TM Dilshan,17,20,2.0,0.0,0,0,0,23.0,85.0,SL Malinga,caught
+Mumbai Indians,Delhi Daredevils,392215,2009-05-08,AM Nayar,18,28,1.0,0.0,0,0,0,23.0,64.28571428571429,A Nehra,caught
+Mumbai Indians,Delhi Daredevils,392215,2009-05-08,AM Rahane,12,12,2.0,0.0,0,0,0,18.0,100.0,R Bhatia,caught
+Mumbai Indians,Delhi Daredevils,392215,2009-05-08,DJ Bravo,35,33,2.0,2.0,0,0,0,45.0,106.06060606060606,DP Nannes,caught
+Mumbai Indians,Delhi Daredevils,392215,2009-05-08,DS Kulkarni,1,4,0.0,0.0,0,0,0,5.0,25.0,R Bhatia,run out
+Mumbai Indians,Delhi Daredevils,392215,2009-05-08,Harbhajan Singh,10,6,0.0,1.0,0,0,0,16.0,166.66666666666669,A Nehra,bowled
+Mumbai Indians,Delhi Daredevils,392215,2009-05-08,JP Duminy,0,4,0.0,0.0,0,0,1,2.0,0.0,DP Nannes,caught
+Mumbai Indians,Delhi Daredevils,392215,2009-05-08,L Ronchi,0,3,0.0,0.0,0,0,1,2.0,0.0,DP Nannes,run out
+Mumbai Indians,Delhi Daredevils,392215,2009-05-08,PR Shah,11,23,0.0,0.0,0,0,0,15.0,47.82608695652174,R Bhatia,caught
+Mumbai Indians,Delhi Daredevils,392215,2009-05-08,RR Raje,1,2,0.0,0.0,0,0,0,5.0,50.0,R Bhatia,bowled
+Mumbai Indians,Delhi Daredevils,392215,2009-05-08,SR Tendulkar,15,15,2.0,0.0,0,0,0,21.0,100.0,PJ Sangwan,run out

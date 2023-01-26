@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Kings XI Punjab,729283,2014-04-18,BB McCullum,67,49,4.0,5.0,1,0,0,93.0,136.73469387755102,AR Patel,caught
+Chennai Super Kings,Kings XI Punjab,729283,2014-04-18,DJ Bravo,8,3,0.0,1.0,0,0,0,14.0,266.66666666666663,0,0
+Chennai Super Kings,Kings XI Punjab,729283,2014-04-18,DR Smith,66,46,6.0,3.0,1,0,0,90.0,143.47826086956522,L Balaji,caught
+Chennai Super Kings,Kings XI Punjab,729283,2014-04-18,MS Dhoni,26,11,3.0,1.0,0,0,0,35.0,236.3636363636364,L Balaji,caught
+Chennai Super Kings,Kings XI Punjab,729283,2014-04-18,SK Raina,24,19,2.0,0.0,0,0,0,30.0,126.3157894736842,P Awana,caught
+Kings XI Punjab,Chennai Super Kings,729283,2014-04-18,AR Patel,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,R Ashwin,lbw
+Kings XI Punjab,Chennai Super Kings,729283,2014-04-18,CA Pujara,13,10,2.0,0.0,0,0,0,19.0,130.0,R Ashwin,lbw
+Kings XI Punjab,Chennai Super Kings,729283,2014-04-18,DA Miller,54,37,3.0,3.0,1,0,0,75.0,145.94594594594594,0,0
+Kings XI Punjab,Chennai Super Kings,729283,2014-04-18,GJ Bailey,17,10,2.0,0.0,0,0,0,23.0,170.0,0,0
+Kings XI Punjab,Chennai Super Kings,729283,2014-04-18,GJ Maxwell,95,48,15.0,2.0,1,0,0,126.0,197.91666666666669,DR Smith,bowled
+Kings XI Punjab,Chennai Super Kings,729283,2014-04-18,V Sehwag,19,10,4.0,0.0,0,0,0,27.0,190.0,A Nehra,bowled

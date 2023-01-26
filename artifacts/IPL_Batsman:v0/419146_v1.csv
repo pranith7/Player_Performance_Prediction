@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Mumbai Indians,419146,2010-04-09,AB Barath,33,28,4.0,1.0,0,0,0,43.0,117.85714285714286,JP Duminy,lbw
+Kings XI Punjab,Mumbai Indians,419146,2010-04-09,DPMD Jayawardene,31,18,7.0,0.0,0,0,0,42.0,172.22222222222223,SL Malinga,caught
+Kings XI Punjab,Mumbai Indians,419146,2010-04-09,IK Pathan,15,6,1.0,1.0,0,0,0,22.0,250.0,0,0
+Kings XI Punjab,Mumbai Indians,419146,2010-04-09,KC Sangakkara,56,42,6.0,1.0,1,0,0,76.0,133.33333333333331,SL Malinga,caught
+Kings XI Punjab,Mumbai Indians,419146,2010-04-09,RS Sodhi,4,2,1.0,0.0,0,0,0,9.0,200.0,0,0
+Kings XI Punjab,Mumbai Indians,419146,2010-04-09,Yuvraj Singh,15,23,1.0,0.0,0,0,0,20.0,65.21739130434783,KA Pollard,caught
+Mumbai Indians,Kings XI Punjab,419146,2010-04-09,AT Rayudu,33,18,7.0,0.0,0,0,0,44.0,183.3333333333333,PP Chawla,bowled
+Mumbai Indians,Kings XI Punjab,419146,2010-04-09,Harbhajan Singh,9,7,1.0,0.0,0,0,0,14.0,128.57142857142858,L Ablish,caught
+Mumbai Indians,Kings XI Punjab,419146,2010-04-09,JP Duminy,35,29,1.0,2.0,0,0,0,44.0,120.6896551724138,L Ablish,run out
+Mumbai Indians,Kings XI Punjab,419146,2010-04-09,KA Pollard,18,14,2.0,0.0,0,0,0,24.0,128.57142857142858,IK Pathan,bowled
+Mumbai Indians,Kings XI Punjab,419146,2010-04-09,R McLaren,0,1,0.0,0.0,0,0,1,2.0,0.0,L Ablish,bowled
+Mumbai Indians,Kings XI Punjab,419146,2010-04-09,R Sathish,20,17,1.0,0.0,0,0,0,25.0,117.64705882352942,IK Pathan,caught
+Mumbai Indians,Kings XI Punjab,419146,2010-04-09,S Dhawan,2,4,0.0,0.0,0,0,0,6.0,50.0,IK Pathan,bowled
+Mumbai Indians,Kings XI Punjab,419146,2010-04-09,SR Tendulkar,29,25,3.0,0.0,0,0,0,36.0,116.0,PP Chawla,bowled
+Mumbai Indians,Kings XI Punjab,419146,2010-04-09,SS Tiwary,4,5,0.0,0.0,0,0,0,8.0,80.0,PP Chawla,stumped
+Mumbai Indians,Kings XI Punjab,419146,2010-04-09,Z Khan,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0

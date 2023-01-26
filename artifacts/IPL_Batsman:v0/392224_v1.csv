@@ -1,0 +1,21 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Royal Challengers Bangalore,392224,2009-05-14,JA Morkel,9,7,1.0,0.0,0,0,0,14.0,128.57142857142858,P Kumar,caught
+Chennai Super Kings,Royal Challengers Bangalore,392224,2009-05-14,JDP Oram,7,15,0.0,0.0,0,0,0,11.0,46.66666666666666,R Vinay Kumar,caught
+Chennai Super Kings,Royal Challengers Bangalore,392224,2009-05-14,L Balaji,0,1,0.0,0.0,0,0,1,2.0,0.0,R Vinay Kumar,caught
+Chennai Super Kings,Royal Challengers Bangalore,392224,2009-05-14,M Muralitharan,4,2,1.0,0.0,0,0,0,9.0,200.0,P Kumar,run out
+Chennai Super Kings,Royal Challengers Bangalore,392224,2009-05-14,M Vijay,5,9,0.0,0.0,0,0,0,9.0,55.55555555555556,JH Kallis,caught
+Chennai Super Kings,Royal Challengers Bangalore,392224,2009-05-14,ML Hayden,60,39,5.0,3.0,1,0,0,83.0,153.84615384615387,A Kumble,caught
+Chennai Super Kings,Royal Challengers Bangalore,392224,2009-05-14,MS Dhoni,18,20,1.0,0.0,0,0,0,23.0,90.0,RE van der Merwe,caught and bowled
+Chennai Super Kings,Royal Challengers Bangalore,392224,2009-05-14,S Badrinath,2,9,0.0,0.0,0,0,0,6.0,22.22222222222222,A Kumble,caught
+Chennai Super Kings,Royal Challengers Bangalore,392224,2009-05-14,SB Jakati,7,7,1.0,0.0,0,0,0,12.0,100.0,0,0
+Chennai Super Kings,Royal Challengers Bangalore,392224,2009-05-14,SK Raina,13,10,3.0,0.0,0,0,0,20.0,130.0,JH Kallis,caught
+Royal Challengers Bangalore,Chennai Super Kings,392224,2009-05-14,B Akhil,0,2,0.0,0.0,0,0,1,2.0,0.0,JDP Oram,caught
+Royal Challengers Bangalore,Chennai Super Kings,392224,2009-05-14,JH Kallis,0,2,0.0,0.0,0,0,1,2.0,0.0,JA Morkel,lbw
+Royal Challengers Bangalore,Chennai Super Kings,392224,2009-05-14,LRPL Taylor,46,50,2.0,1.0,0,0,0,54.0,92.0,JDP Oram,caught
+Royal Challengers Bangalore,Chennai Super Kings,392224,2009-05-14,MV Boucher,5,5,1.0,0.0,0,0,0,10.0,100.0,M Muralitharan,caught
+Royal Challengers Bangalore,Chennai Super Kings,392224,2009-05-14,P Kumar,12,6,0.0,1.0,0,0,0,18.0,200.0,0,0
+Royal Challengers Bangalore,Chennai Super Kings,392224,2009-05-14,R Dravid,8,8,2.0,0.0,0,0,0,14.0,100.0,S Tyagi,caught
+Royal Challengers Bangalore,Chennai Super Kings,392224,2009-05-14,R Vinay Kumar,6,2,1.0,0.0,0,0,0,11.0,300.0,0,0
+Royal Challengers Bangalore,Chennai Super Kings,392224,2009-05-14,RE van der Merwe,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,L Balaji,run out
+Royal Challengers Bangalore,Chennai Super Kings,392224,2009-05-14,RV Uthappa,6,4,1.0,0.0,0,0,0,11.0,150.0,JA Morkel,lbw
+Royal Challengers Bangalore,Chennai Super Kings,392224,2009-05-14,V Kohli,38,35,4.0,2.0,0,0,0,50.0,108.57142857142856,L Balaji,caught

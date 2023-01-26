@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Mumbai Indians,729279,2014-04-16,G Gambhir,0,9,0.0,0.0,0,0,1,2.0,0.0,SL Malinga,bowled
+Kolkata Knight Riders,Mumbai Indians,729279,2014-04-16,JH Kallis,72,46,5.0,3.0,1,0,0,95.0,156.52173913043478,SL Malinga,caught
+Kolkata Knight Riders,Mumbai Indians,729279,2014-04-16,MK Pandey,64,55,6.0,2.0,1,0,0,86.0,116.36363636363636,SL Malinga,bowled
+Kolkata Knight Riders,Mumbai Indians,729279,2014-04-16,RV Uthappa,1,2,0.0,0.0,0,0,0,5.0,50.0,Z Khan,caught
+Kolkata Knight Riders,Mumbai Indians,729279,2014-04-16,SA Yadav,13,5,3.0,0.0,0,0,0,20.0,260.0,0,0
+Kolkata Knight Riders,Mumbai Indians,729279,2014-04-16,Shakib Al Hasan,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,SL Malinga,caught
+Kolkata Knight Riders,Mumbai Indians,729279,2014-04-16,YK Pathan,4,4,0.0,0.0,0,0,0,8.0,100.0,0,0
+Mumbai Indians,Kolkata Knight Riders,729279,2014-04-16,AP Tare,24,22,2.0,1.0,0,0,0,32.0,109.09090909090908,Shakib Al Hasan,caught and bowled
+Mumbai Indians,Kolkata Knight Riders,729279,2014-04-16,AT Rayudu,48,40,4.0,0.0,0,0,0,56.0,120.0,SP Narine,stumped
+Mumbai Indians,Kolkata Knight Riders,729279,2014-04-16,CJ Anderson,2,8,0.0,0.0,0,0,0,6.0,25.0,SP Narine,bowled
+Mumbai Indians,Kolkata Knight Riders,729279,2014-04-16,CM Gautam,7,7,1.0,0.0,0,0,0,12.0,100.0,PP Chawla,stumped
+Mumbai Indians,Kolkata Knight Riders,729279,2014-04-16,Harbhajan Singh,0,2,0.0,0.0,0,0,1,2.0,0.0,SP Narine,bowled
+Mumbai Indians,Kolkata Knight Riders,729279,2014-04-16,KA Pollard,6,9,0.0,0.0,0,0,0,10.0,66.66666666666666,0,0
+Mumbai Indians,Kolkata Knight Riders,729279,2014-04-16,MEK Hussey,3,13,0.0,0.0,0,0,0,7.0,23.07692307692308,SP Narine,bowled
+Mumbai Indians,Kolkata Knight Riders,729279,2014-04-16,RG Sharma,27,20,0.0,1.0,0,0,0,33.0,135.0,M Morkel,caught

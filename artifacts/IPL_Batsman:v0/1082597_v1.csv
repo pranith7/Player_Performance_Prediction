@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Mumbai Indians,1082597,2017-04-09,CA Lynn,32,28,3.0,1.0,0,0,0,41.0,114.28571428571428,JJ Bumrah,lbw
+Kolkata Knight Riders,Mumbai Indians,1082597,2017-04-09,CR Woakes,9,8,0.0,0.0,0,0,0,13.0,112.5,SL Malinga,caught
+Kolkata Knight Riders,Mumbai Indians,1082597,2017-04-09,G Gambhir,19,13,3.0,0.0,0,0,0,26.0,146.15384615384613,KH Pandya,caught
+Kolkata Knight Riders,Mumbai Indians,1082597,2017-04-09,MK Pandey,81,48,5.0,5.0,1,0,0,108.0,168.75,0,0
+Kolkata Knight Riders,Mumbai Indians,1082597,2017-04-09,RV Uthappa,4,3,1.0,0.0,0,0,0,9.0,133.33333333333331,KH Pandya,caught
+Kolkata Knight Riders,Mumbai Indians,1082597,2017-04-09,SA Yadav,17,15,2.0,0.0,0,0,0,23.0,113.33333333333331,SL Malinga,caught
+Kolkata Knight Riders,Mumbai Indians,1082597,2017-04-09,SP Narine,1,2,0.0,0.0,0,0,0,5.0,50.0,MJ McClenaghan,lbw
+Kolkata Knight Riders,Mumbai Indians,1082597,2017-04-09,YK Pathan,6,11,0.0,0.0,0,0,0,10.0,54.54545454545454,KH Pandya,caught
+Mumbai Indians,Kolkata Knight Riders,1082597,2017-04-09,HH Pandya,29,11,3.0,2.0,0,0,0,40.0,263.6363636363636,0,0
+Mumbai Indians,Kolkata Knight Riders,1082597,2017-04-09,Harbhajan Singh,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Mumbai Indians,Kolkata Knight Riders,1082597,2017-04-09,JC Buttler,28,26,1.0,2.0,0,0,0,37.0,107.6923076923077,AS Rajpoot,lbw
+Mumbai Indians,Kolkata Knight Riders,1082597,2017-04-09,KA Pollard,17,17,1.0,1.0,0,0,0,24.0,100.0,CR Woakes,caught
+Mumbai Indians,Kolkata Knight Riders,1082597,2017-04-09,KH Pandya,11,6,2.0,0.0,0,0,0,17.0,183.3333333333333,AS Rajpoot,caught
+Mumbai Indians,Kolkata Knight Riders,1082597,2017-04-09,N Rana,50,30,5.0,3.0,1,0,0,73.0,166.66666666666669,AS Rajpoot,caught
+Mumbai Indians,Kolkata Knight Riders,1082597,2017-04-09,PA Patel,30,29,3.0,1.0,0,0,0,39.0,103.44827586206895,Kuldeep Yadav,lbw
+Mumbai Indians,Kolkata Knight Riders,1082597,2017-04-09,RG Sharma,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,SP Narine,lbw

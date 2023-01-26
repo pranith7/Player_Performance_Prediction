@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Rajasthan Royals,Royal Challengers Bangalore,548324,2012-04-15,AM Rahane,103,60,12.0,5.0,1,1,0,153.0,171.66666666666666,0,0
+Rajasthan Royals,Royal Challengers Bangalore,548324,2012-04-15,BJ Hodge,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Rajasthan Royals,Royal Challengers Bangalore,548324,2012-04-15,OA Shah,60,27,5.0,5.0,1,0,0,87.0,222.22222222222223,Z Khan,caught
+Rajasthan Royals,Royal Challengers Bangalore,548324,2012-04-15,R Dravid,25,32,2.0,0.0,0,0,0,31.0,78.125,DL Vettori,stumped
+Royal Challengers Bangalore,Rajasthan Royals,548324,2012-04-15,AB de Villiers,6,10,0.0,0.0,0,0,0,10.0,60.0,SK Trivedi,bowled
+Royal Challengers Bangalore,Rajasthan Royals,548324,2012-04-15,CH Gayle,8,9,0.0,1.0,0,0,0,14.0,88.88888888888889,Pankaj Singh,bowled
+Royal Challengers Bangalore,Rajasthan Royals,548324,2012-04-15,DL Vettori,1,2,0.0,0.0,0,0,0,5.0,50.0,SK Trivedi,bowled
+Royal Challengers Bangalore,Rajasthan Royals,548324,2012-04-15,M Kaif,14,16,1.0,0.0,0,0,0,19.0,87.5,J Botha,caught
+Royal Challengers Bangalore,Rajasthan Royals,548324,2012-04-15,M Muralitharan,6,8,0.0,0.0,0,0,0,10.0,75.0,A Singh,caught
+Royal Challengers Bangalore,Rajasthan Royals,548324,2012-04-15,MA Agarwal,34,21,3.0,3.0,0,0,0,47.0,161.9047619047619,Pankaj Singh,caught
+Royal Challengers Bangalore,Rajasthan Royals,548324,2012-04-15,R Vinay Kumar,11,9,1.0,0.0,0,0,0,16.0,122.22222222222224,A Singh,bowled
+Royal Challengers Bangalore,Rajasthan Royals,548324,2012-04-15,S Aravind,14,8,3.0,0.0,0,0,0,21.0,175.0,0,0
+Royal Challengers Bangalore,Rajasthan Royals,548324,2012-04-15,SS Tiwary,17,16,0.0,1.0,0,0,0,23.0,106.25,SK Trivedi,bowled
+Royal Challengers Bangalore,Rajasthan Royals,548324,2012-04-15,V Kohli,22,18,2.0,0.0,0,0,0,28.0,122.22222222222224,SK Trivedi,bowled
+Royal Challengers Bangalore,Rajasthan Royals,548324,2012-04-15,Z Khan,0,3,0.0,0.0,0,0,1,2.0,0.0,GB Hogg,caught

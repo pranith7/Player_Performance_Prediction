@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Gujarat Lions,1082640,2017-05-10,A Mishra,8,2,2.0,0.0,0,0,0,14.0,400.0,0,0
+Delhi Daredevils,Gujarat Lions,1082640,2017-05-10,CJ Anderson,6,6,1.0,0.0,0,0,0,11.0,100.0,Basil Thampi,run out
+Delhi Daredevils,Gujarat Lions,1082640,2017-05-10,CR Brathwaite,11,11,2.0,0.0,0,0,0,17.0,100.0,DS Kulkarni,caught and bowled
+Delhi Daredevils,Gujarat Lions,1082640,2017-05-10,KK Nair,30,15,5.0,1.0,0,0,0,41.0,200.0,JP Faulkner,caught
+Delhi Daredevils,Gujarat Lions,1082640,2017-05-10,MN Samuels,1,4,0.0,0.0,0,0,0,5.0,25.0,JP Faulkner,run out
+Delhi Daredevils,Gujarat Lions,1082640,2017-05-10,Mohammed Shami,4,2,1.0,0.0,0,0,0,9.0,200.0,0,0
+Delhi Daredevils,Gujarat Lions,1082640,2017-05-10,PJ Cummins,24,13,2.0,1.0,0,0,0,32.0,184.6153846153846,JP Faulkner,caught
+Delhi Daredevils,Gujarat Lions,1082640,2017-05-10,RR Pant,4,2,1.0,0.0,0,0,0,9.0,200.0,PJ Sangwan,run out
+Delhi Daredevils,Gujarat Lions,1082640,2017-05-10,SS Iyer,96,57,15.0,2.0,1,0,0,127.0,168.42105263157893,Basil Thampi,bowled
+Delhi Daredevils,Gujarat Lions,1082640,2017-05-10,SV Samson,10,7,2.0,0.0,0,0,0,16.0,142.85714285714286,PJ Sangwan,bowled
+Gujarat Lions,Delhi Daredevils,1082640,2017-05-10,AJ Finch,69,40,6.0,4.0,1,0,0,95.0,172.5,Mohammed Shami,bowled
+Gujarat Lions,Delhi Daredevils,1082640,2017-05-10,DR Smith,8,8,1.0,0.0,0,0,0,13.0,100.0,Mohammed Shami,run out
+Gujarat Lions,Delhi Daredevils,1082640,2017-05-10,Ishan Kishan,34,27,5.0,1.0,0,0,0,45.0,125.92592592592592,A Mishra,caught
+Gujarat Lions,Delhi Daredevils,1082640,2017-05-10,JP Faulkner,14,8,1.0,0.0,0,0,0,19.0,175.0,0,0
+Gujarat Lions,Delhi Daredevils,1082640,2017-05-10,KD Karthik,40,29,4.0,1.0,0,0,0,50.0,137.93103448275863,CR Brathwaite,caught
+Gujarat Lions,Delhi Daredevils,1082640,2017-05-10,RA Jadeja,13,7,2.0,0.0,0,0,0,19.0,185.7142857142857,0,0
+Gujarat Lions,Delhi Daredevils,1082640,2017-05-10,SK Raina,6,5,1.0,0.0,0,0,0,11.0,120.0,PJ Cummins,bowled

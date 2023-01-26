@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Capitals,Kolkata Knight Riders,1254116,2021-10-13,AR Patel,4,4,0.0,0.0,0,0,0,8.0,100.0,0,0
+Delhi Capitals,Kolkata Knight Riders,1254116,2021-10-13,MP Stoinis,18,24,1.0,0.0,0,0,0,23.0,75.0,Shivam Mavi,bowled
+Delhi Capitals,Kolkata Knight Riders,1254116,2021-10-13,PP Shaw,18,12,2.0,1.0,0,0,0,26.0,150.0,CV Varun,lbw
+Delhi Capitals,Kolkata Knight Riders,1254116,2021-10-13,RR Pant,6,6,1.0,0.0,0,0,0,11.0,100.0,LH Ferguson,caught
+Delhi Capitals,Kolkata Knight Riders,1254116,2021-10-13,S Dhawan,36,40,1.0,2.0,0,0,0,45.0,90.0,CV Varun,caught
+Delhi Capitals,Kolkata Knight Riders,1254116,2021-10-13,SO Hetmyer,17,10,0.0,2.0,0,0,0,25.0,170.0,SP Narine,run out
+Delhi Capitals,Kolkata Knight Riders,1254116,2021-10-13,SS Iyer,30,28,1.0,1.0,0,0,0,37.0,107.14285714285714,0,0
+Kolkata Knight Riders,Delhi Capitals,1254116,2021-10-13,EJG Morgan,0,3,0.0,0.0,0,0,1,2.0,0.0,A Nortje,bowled
+Kolkata Knight Riders,Delhi Capitals,1254116,2021-10-13,KD Karthik,0,3,0.0,0.0,0,0,1,2.0,0.0,K Rabada,bowled
+Kolkata Knight Riders,Delhi Capitals,1254116,2021-10-13,N Rana,13,12,0.0,1.0,0,0,0,19.0,108.33333333333331,A Nortje,caught
+Kolkata Knight Riders,Delhi Capitals,1254116,2021-10-13,RA Tripathi,12,11,0.0,1.0,0,0,0,18.0,109.09090909090908,0,0
+Kolkata Knight Riders,Delhi Capitals,1254116,2021-10-13,SP Narine,0,1,0.0,0.0,0,0,1,2.0,0.0,R Ashwin,caught
+Kolkata Knight Riders,Delhi Capitals,1254116,2021-10-13,Shakib Al Hasan,0,2,0.0,0.0,0,0,1,2.0,0.0,R Ashwin,lbw
+Kolkata Knight Riders,Delhi Capitals,1254116,2021-10-13,Shubman Gill,46,48,1.0,1.0,0,0,0,53.0,95.83333333333334,Avesh Khan,caught
+Kolkata Knight Riders,Delhi Capitals,1254116,2021-10-13,VR Iyer,55,44,4.0,3.0,1,0,0,77.0,125.0,K Rabada,caught

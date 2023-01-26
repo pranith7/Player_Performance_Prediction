@@ -1,0 +1,9 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Delhi Daredevils,548329,2012-05-10,CL White,65,41,7,2.0,1,0,0,88.0,158.53658536585365,VR Aaron,caught
+Deccan Chargers,Delhi Daredevils,548329,2012-05-10,DJ Harris,19,17,4,0.0,0,0,0,27.0,111.76470588235294,M Morkel,caught
+Deccan Chargers,Delhi Daredevils,548329,2012-05-10,JP Duminy,13,9,2,0.0,0,0,0,19.0,144.44444444444443,0,0
+Deccan Chargers,Delhi Daredevils,548329,2012-05-10,KC Sangakkara,4,5,1,0.0,0,0,0,9.0,80.0,VR Aaron,caught
+Deccan Chargers,Delhi Daredevils,548329,2012-05-10,S Dhawan,84,49,9,5.0,1,0,0,115.0,171.42857142857142,IK Pathan,run out
+Delhi Daredevils,Deccan Chargers,548329,2012-05-10,DA Warner,109,55,10,7.0,1,1,0,161.0,198.1818181818182,0,0
+Delhi Daredevils,Deccan Chargers,548329,2012-05-10,NV Ojha,64,47,2,5.0,1,0,0,88.0,136.17021276595744,0,0
+Delhi Daredevils,Deccan Chargers,548329,2012-05-10,V Sehwag,4,2,1,0.0,0,0,0,9.0,200.0,S Dhawan,caught

@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Rajasthan Royals,336027,2008-05-20,AB Agarkar,5,2,1.0,0.0,0,0,0,10.0,250.0,SR Watson,run out
+Kolkata Knight Riders,Rajasthan Royals,336027,2008-05-20,DB Das,31,20,1.0,2.0,0,0,0,40.0,155.0,Sohail Tanvir,bowled
+Kolkata Knight Riders,Rajasthan Royals,336027,2008-05-20,DJ Hussey,11,15,2.0,0.0,0,0,0,17.0,73.33333333333333,YK Pathan,bowled
+Kolkata Knight Riders,Rajasthan Royals,336027,2008-05-20,I Sharma,2,1,0.0,0.0,0,0,0,6.0,200.0,0,0
+Kolkata Knight Riders,Rajasthan Royals,336027,2008-05-20,LR Shukla,15,10,1.0,1.0,0,0,0,22.0,150.0,Sohail Tanvir,caught
+Kolkata Knight Riders,Rajasthan Royals,336027,2008-05-20,Mohammad Hafeez,4,8,1.0,0.0,0,0,0,9.0,50.0,MM Patel,caught
+Kolkata Knight Riders,Rajasthan Royals,336027,2008-05-20,SC Ganguly,32,34,2.0,1.0,0,0,0,40.0,94.11764705882352,SK Trivedi,caught
+Kolkata Knight Riders,Rajasthan Royals,336027,2008-05-20,Salman Butt,24,22,5.0,0.0,0,0,0,33.0,109.09090909090908,MM Patel,lbw
+Kolkata Knight Riders,Rajasthan Royals,336027,2008-05-20,Umar Gul,7,4,0.0,1.0,0,0,0,13.0,175.0,Sohail Tanvir,caught
+Kolkata Knight Riders,Rajasthan Royals,336027,2008-05-20,WP Saha,11,6,0.0,1.0,0,0,0,17.0,183.3333333333333,0,0
+Rajasthan Royals,Kolkata Knight Riders,336027,2008-05-20,GC Smith,24,24,4.0,0.0,0,0,0,32.0,100.0,Umar Gul,caught
+Rajasthan Royals,Kolkata Knight Riders,336027,2008-05-20,M Kaif,34,32,4.0,0.0,0,0,0,42.0,106.25,0,0
+Rajasthan Royals,Kolkata Knight Riders,336027,2008-05-20,SA Asnodkar,5,3,1.0,0.0,0,0,0,10.0,166.66666666666669,I Sharma,caught
+Rajasthan Royals,Kolkata Knight Riders,336027,2008-05-20,SR Watson,19,15,2.0,1.0,0,0,0,27.0,126.66666666666666,SC Ganguly,bowled
+Rajasthan Royals,Kolkata Knight Riders,336027,2008-05-20,Sohail Tanvir,13,8,1.0,1.0,0,0,0,20.0,162.5,Umar Gul,caught
+Rajasthan Royals,Kolkata Knight Riders,336027,2008-05-20,YK Pathan,48,20,5.0,3.0,0,0,0,63.0,240.0,0,0

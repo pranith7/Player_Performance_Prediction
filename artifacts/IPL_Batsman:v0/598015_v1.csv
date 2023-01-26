@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Pune Warriors,598015,2013-04-15,CH Morris,5,5,0.0,0.0,0,0,0,9.0,100.0,0,0
+Chennai Super Kings,Pune Warriors,598015,2013-04-15,DJ Bravo,1,5,0.0,0.0,0,0,0,5.0,20.0,R Sharma,caught
+Chennai Super Kings,Pune Warriors,598015,2013-04-15,JA Morkel,13,11,0.0,1.0,0,0,0,19.0,118.1818181818182,AB Dinda,caught
+Chennai Super Kings,Pune Warriors,598015,2013-04-15,M Vijay,24,23,2.0,1.0,0,0,0,32.0,104.34782608695652,AM Nayar,caught
+Chennai Super Kings,Pune Warriors,598015,2013-04-15,MS Dhoni,10,13,0.0,0.0,0,0,0,14.0,76.92307692307693,AB Dinda,caught
+Chennai Super Kings,Pune Warriors,598015,2013-04-15,R Ashwin,11,5,2.0,0.0,0,0,0,17.0,220.00000000000003,0,0
+Chennai Super Kings,Pune Warriors,598015,2013-04-15,RA Jadeja,27,22,1.0,1.0,0,0,0,34.0,122.72727272727272,MR Marsh,caught
+Chennai Super Kings,Pune Warriors,598015,2013-04-15,S Anirudha,0,2,0.0,0.0,0,0,1,2.0,0.0,B Kumar,lbw
+Chennai Super Kings,Pune Warriors,598015,2013-04-15,S Badrinath,34,26,4.0,0.0,0,0,0,42.0,130.76923076923077,MR Marsh,caught
+Chennai Super Kings,Pune Warriors,598015,2013-04-15,SK Raina,8,10,1.0,0.0,0,0,0,13.0,80.0,B Kumar,caught
+Pune Warriors,Chennai Super Kings,598015,2013-04-15,AJ Finch,67,46,10.0,2.0,1,0,0,93.0,145.65217391304347,RA Jadeja,stumped
+Pune Warriors,Chennai Super Kings,598015,2013-04-15,AM Nayar,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Pune Warriors,Chennai Super Kings,598015,2013-04-15,LRPL Taylor,8,13,0.0,0.0,0,0,0,12.0,61.53846153846154,CH Morris,caught
+Pune Warriors,Chennai Super Kings,598015,2013-04-15,MK Pandey,9,9,1.0,0.0,0,0,0,14.0,100.0,DJ Bravo,bowled
+Pune Warriors,Chennai Super Kings,598015,2013-04-15,MR Marsh,2,4,0.0,0.0,0,0,0,6.0,50.0,DJ Bravo,caught
+Pune Warriors,Chennai Super Kings,598015,2013-04-15,RV Uthappa,26,33,2.0,0.0,0,0,0,32.0,78.78787878787878,CH Morris,caught
+Pune Warriors,Chennai Super Kings,598015,2013-04-15,SPD Smith,39,16,3.0,3.0,0,0,0,52.0,243.75,0,0

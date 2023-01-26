@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Royal Challengers Bangalore,734035,2014-05-24,DR Smith,34,17,4.0,1.0,0,0,0,44.0,200.0,R Rampaul,caught
+Chennai Super Kings,Royal Challengers Bangalore,734035,2014-05-24,F du Plessis,54,44,3.0,3.0,1,0,0,75.0,122.72727272727272,0,0
+Chennai Super Kings,Royal Challengers Bangalore,734035,2014-05-24,MS Dhoni,49,28,4.0,3.0,0,0,0,63.0,175.0,0,0
+Chennai Super Kings,Royal Challengers Bangalore,734035,2014-05-24,SK Raina,18,18,2.0,0.0,0,0,0,24.0,100.0,Yuvraj Singh,stumped
+Royal Challengers Bangalore,Chennai Super Kings,734035,2014-05-24,AB de Villiers,10,6,2.0,0.0,0,0,0,16.0,166.66666666666669,A Nehra,bowled
+Royal Challengers Bangalore,Chennai Super Kings,734035,2014-05-24,MA Starc,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Royal Challengers Bangalore,Chennai Super Kings,734035,2014-05-24,RR Rossouw,1,4,0.0,0.0,0,0,0,5.0,25.0,A Nehra,bowled
+Royal Challengers Bangalore,Chennai Super Kings,734035,2014-05-24,S Rana,5,6,0.0,0.0,0,0,0,9.0,83.33333333333334,0,0
+Royal Challengers Bangalore,Chennai Super Kings,734035,2014-05-24,V Kohli,73,53,2.0,5.0,1,0,0,97.0,137.73584905660377,A Nehra,bowled
+Royal Challengers Bangalore,Chennai Super Kings,734035,2014-05-24,VH Zol,13,12,0.0,1.0,0,0,0,19.0,108.33333333333331,MM Sharma,bowled
+Royal Challengers Bangalore,Chennai Super Kings,734035,2014-05-24,YV Takawale,19,17,4.0,0.0,0,0,0,27.0,111.76470588235294,R Ashwin,lbw
+Royal Challengers Bangalore,Chennai Super Kings,734035,2014-05-24,Yuvraj Singh,25,24,2.0,0.0,0,0,0,31.0,104.16666666666669,RA Jadeja,caught

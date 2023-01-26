@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Royal Challengers Bangalore,392218,2009-05-10,AM Rahane,62,52,4.0,1.0,1,0,0,80.0,119.23076923076924,0,0
+Mumbai Indians,Royal Challengers Bangalore,392218,2009-05-10,JP Duminy,59,42,2.0,3.0,1,0,0,79.0,140.47619047619045,0,0
+Mumbai Indians,Royal Challengers Bangalore,392218,2009-05-10,SR Tendulkar,0,3,0.0,0.0,0,0,1,2.0,0.0,R Vinay Kumar,caught
+Mumbai Indians,Royal Challengers Bangalore,392218,2009-05-10,ST Jayasuriya,29,30,4.0,0.0,0,0,0,37.0,96.66666666666669,RE van der Merwe,lbw
+Royal Challengers Bangalore,Mumbai Indians,392218,2009-05-10,A Kumble,7,6,1.0,0.0,0,0,0,12.0,116.66666666666669,0,0
+Royal Challengers Bangalore,Mumbai Indians,392218,2009-05-10,JH Kallis,12,10,2.0,0.0,0,0,0,18.0,120.0,DJ Bravo,caught
+Royal Challengers Bangalore,Mumbai Indians,392218,2009-05-10,LRPL Taylor,16,16,0.0,1.0,0,0,0,22.0,100.0,SL Malinga,bowled
+Royal Challengers Bangalore,Mumbai Indians,392218,2009-05-10,MV Boucher,48,37,1.0,2.0,0,0,0,57.0,129.72972972972974,0,0
+Royal Challengers Bangalore,Mumbai Indians,392218,2009-05-10,R Dravid,10,13,0.0,0.0,0,0,0,14.0,76.92307692307693,Harbhajan Singh,run out
+Royal Challengers Bangalore,Mumbai Indians,392218,2009-05-10,R Vinay Kumar,7,12,0.0,0.0,0,0,0,11.0,58.333333333333336,Harbhajan Singh,stumped
+Royal Challengers Bangalore,Mumbai Indians,392218,2009-05-10,RE van der Merwe,3,5,0.0,0.0,0,0,0,7.0,60.0,Harbhajan Singh,stumped
+Royal Challengers Bangalore,Mumbai Indians,392218,2009-05-10,RV Uthappa,4,5,1.0,0.0,0,0,0,9.0,80.0,DS Kulkarni,caught
+Royal Challengers Bangalore,Mumbai Indians,392218,2009-05-10,V Kohli,20,24,4.0,0.0,0,0,0,28.0,83.33333333333334,C Nanda,caught

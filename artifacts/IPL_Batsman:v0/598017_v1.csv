@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Royal Challengers Bangalore,598017,2013-04-16,BJ Rohrer,14,15,2.0,0.0,0,0,0,20.0,93.33333333333331,JD Unadkat,caught
+Delhi Daredevils,Royal Challengers Bangalore,598017,2013-04-16,DA Warner,15,14,3.0,0.0,0,0,0,22.0,107.14285714285714,R Rampaul,bowled
+Delhi Daredevils,Royal Challengers Bangalore,598017,2013-04-16,DPMD Jayawardene,28,31,2.0,0.0,0,0,0,34.0,90.32258064516128,R Vinay Kumar,caught and bowled
+Delhi Daredevils,Royal Challengers Bangalore,598017,2013-04-16,IK Pathan,30,12,3.0,2.0,0,0,0,41.0,250.0,R Rampaul,caught
+Delhi Daredevils,Royal Challengers Bangalore,598017,2013-04-16,KM Jadhav,29,16,2.0,1.0,0,0,0,37.0,181.25,R Vinay Kumar,run out
+Delhi Daredevils,Royal Challengers Bangalore,598017,2013-04-16,MC Juneja,17,18,2.0,0.0,0,0,0,23.0,94.44444444444444,0,0
+Delhi Daredevils,Royal Challengers Bangalore,598017,2013-04-16,V Sehwag,25,23,4.0,0.0,0,0,0,33.0,108.69565217391305,0,0
+Royal Challengers Bangalore,Delhi Daredevils,598017,2013-04-16,AB McDonald,0,2,0.0,0.0,0,0,1,2.0,0.0,JD Unadkat,caught
+Royal Challengers Bangalore,Delhi Daredevils,598017,2013-04-16,AB de Villiers,52,36,3.0,3.0,1,0,0,73.0,144.44444444444443,AB McDonald,caught
+Royal Challengers Bangalore,Delhi Daredevils,598017,2013-04-16,CH Gayle,15,11,0.0,2.0,0,0,0,23.0,136.36363636363637,S Nadeem,caught and bowled
+Royal Challengers Bangalore,Delhi Daredevils,598017,2013-04-16,J Syed Mohammad,1,2,0.0,0.0,0,0,0,5.0,50.0,UT Yadav,run out
+Royal Challengers Bangalore,Delhi Daredevils,598017,2013-04-16,KB Arun Karthik,5,5,0.0,0.0,0,0,0,9.0,100.0,M Morkel,caught
+Royal Challengers Bangalore,Delhi Daredevils,598017,2013-04-16,KL Rahul,12,12,2.0,0.0,0,0,0,18.0,100.0,UT Yadav,caught
+Royal Challengers Bangalore,Delhi Daredevils,598017,2013-04-16,R Rampaul,12,7,0.0,1.0,0,0,0,18.0,171.42857142857142,M Morkel,run out
+Royal Challengers Bangalore,Delhi Daredevils,598017,2013-04-16,R Vinay Kumar,1,1,0.0,0.0,0,0,0,5.0,100.0,A Nehra,caught
+Royal Challengers Bangalore,Delhi Daredevils,598017,2013-04-16,V Kohli,65,51,7.0,1.0,1,0,0,86.0,127.45098039215684,0,0

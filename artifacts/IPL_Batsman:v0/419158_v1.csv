@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Rajasthan Royals,419158,2010-04-17,BB McCullum,6,7,1.0,0.0,0,0,0,11.0,85.71428571428571,Kamran Khan,caught
+Kolkata Knight Riders,Rajasthan Royals,419158,2010-04-17,CA Pujara,45,40,5.0,1.0,0,0,0,56.0,112.5,0,0
+Kolkata Knight Riders,Rajasthan Royals,419158,2010-04-17,CH Gayle,0,3,0.0,0.0,0,0,1,2.0,0.0,Kamran Khan,bowled
+Kolkata Knight Riders,Rajasthan Royals,419158,2010-04-17,SC Ganguly,75,54,11.0,2.0,1,0,0,102.0,138.88888888888889,0,0
+Rajasthan Royals,Kolkata Knight Riders,419158,2010-04-17,AC Voges,8,7,1.0,0.0,0,0,0,13.0,114.28571428571428,AB Dinda,caught
+Rajasthan Royals,Kolkata Knight Riders,419158,2010-04-17,AJ Finch,21,21,0.0,1.0,0,0,0,27.0,100.0,SE Bond,bowled
+Rajasthan Royals,Kolkata Knight Riders,419158,2010-04-17,AS Raut,2,4,0.0,0.0,0,0,0,6.0,50.0,JD Unadkat,caught
+Rajasthan Royals,Kolkata Knight Riders,419158,2010-04-17,FY Fazal,13,13,1.0,0.0,0,0,0,18.0,100.0,AB Dinda,run out
+Rajasthan Royals,Kolkata Knight Riders,419158,2010-04-17,NV Ojha,18,22,3.0,0.0,0,0,0,25.0,81.81818181818183,JD Unadkat,caught
+Rajasthan Royals,Kolkata Knight Riders,419158,2010-04-17,P Dogra,8,12,0.0,0.0,0,0,0,12.0,66.66666666666666,M Kartik,bowled
+Rajasthan Royals,Kolkata Knight Riders,419158,2010-04-17,SK Trivedi,4,2,1.0,0.0,0,0,0,9.0,200.0,AB Dinda,caught
+Rajasthan Royals,Kolkata Knight Riders,419158,2010-04-17,SK Warne,3,5,0.0,0.0,0,0,0,7.0,60.0,0,0
+Rajasthan Royals,Kolkata Knight Riders,419158,2010-04-17,SR Watson,44,26,7.0,1.0,0,0,0,57.0,169.23076923076923,LR Shukla,bowled
+Rajasthan Royals,Kolkata Knight Riders,419158,2010-04-17,YK Pathan,8,9,1.0,0.0,0,0,0,13.0,88.88888888888889,JD Unadkat,caught

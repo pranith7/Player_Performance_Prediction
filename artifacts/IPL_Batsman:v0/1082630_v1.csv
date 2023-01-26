@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Sunrisers Hyderabad,1082630,2017-05-02,CH Morris,15,7,1,1.0,0,0,0,22.0,214.28571428571428,0,0
+Delhi Daredevils,Sunrisers Hyderabad,1082630,2017-05-02,CJ Anderson,41,24,2,3.0,0,0,0,53.0,170.83333333333331,0,0
+Delhi Daredevils,Sunrisers Hyderabad,1082630,2017-05-02,KK Nair,39,20,5,2.0,0,0,0,52.0,195.0,S Kaul,caught
+Delhi Daredevils,Sunrisers Hyderabad,1082630,2017-05-02,RR Pant,34,20,4,1.0,0,0,0,44.0,170.0,Mohammed Siraj,bowled
+Delhi Daredevils,Sunrisers Hyderabad,1082630,2017-05-02,SS Iyer,33,27,1,2.0,0,0,0,42.0,122.22222222222224,B Kumar,caught
+Delhi Daredevils,Sunrisers Hyderabad,1082630,2017-05-02,SV Samson,24,19,2,1.0,0,0,0,32.0,126.3157894736842,Mohammed Siraj,caught
+Sunrisers Hyderabad,Delhi Daredevils,1082630,2017-05-02,DA Warner,30,21,4,1.0,0,0,0,40.0,142.85714285714286,Mohammed Shami,bowled
+Sunrisers Hyderabad,Delhi Daredevils,1082630,2017-05-02,KS Williamson,24,24,1,1.0,0,0,0,31.0,100.0,Mohammed Shami,caught
+Sunrisers Hyderabad,Delhi Daredevils,1082630,2017-05-02,MC Henriques,25,18,2,0.0,0,0,0,31.0,138.88888888888889,0,0
+Sunrisers Hyderabad,Delhi Daredevils,1082630,2017-05-02,S Dhawan,28,17,4,1.0,0,0,0,38.0,164.70588235294116,A Mishra,caught
+Sunrisers Hyderabad,Delhi Daredevils,1082630,2017-05-02,Yuvraj Singh,70,43,11,1.0,1,0,0,95.0,162.7906976744186,0,0

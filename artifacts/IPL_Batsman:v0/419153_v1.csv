@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Kolkata Knight Riders,419153,2010-04-13,M Vijay,50,43,4.0,2.0,1,0,0,70.0,116.27906976744188,0,0
+Chennai Super Kings,Kolkata Knight Riders,419153,2010-04-13,ML Hayden,0,2,0.0,0.0,0,0,1,2.0,0.0,CH Gayle,bowled
+Chennai Super Kings,Kolkata Knight Riders,419153,2010-04-13,SK Raina,78,41,11.0,3.0,1,0,0,107.0,190.2439024390244,0,0
+Kolkata Knight Riders,Chennai Super Kings,419153,2010-04-13,AB Agarkar,9,5,2.0,0.0,0,0,0,15.0,180.0,0,0
+Kolkata Knight Riders,Chennai Super Kings,419153,2010-04-13,AD Mathews,48,51,3.0,2.0,0,0,0,59.0,94.11764705882352,M Muralitharan,caught
+Kolkata Knight Riders,Chennai Super Kings,419153,2010-04-13,BB McCullum,0,4,0.0,0.0,0,0,1,2.0,0.0,R Ashwin,caught
+Kolkata Knight Riders,Chennai Super Kings,419153,2010-04-13,CH Gayle,7,4,0.0,1.0,0,0,0,13.0,175.0,R Ashwin,stumped
+Kolkata Knight Riders,Chennai Super Kings,419153,2010-04-13,DJ Hussey,0,4,0.0,0.0,0,0,1,2.0,0.0,R Ashwin,stumped
+Kolkata Knight Riders,Chennai Super Kings,419153,2010-04-13,Iqbal Abdulla,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Kolkata Knight Riders,Chennai Super Kings,419153,2010-04-13,LR Shukla,17,11,0.0,2.0,0,0,0,25.0,154.54545454545453,DE Bollinger,caught
+Kolkata Knight Riders,Chennai Super Kings,419153,2010-04-13,MK Tiwary,27,32,2.0,0.0,0,0,0,33.0,84.375,SK Raina,caught
+Kolkata Knight Riders,Chennai Super Kings,419153,2010-04-13,SC Ganguly,10,12,2.0,0.0,0,0,0,16.0,83.33333333333334,DE Bollinger,lbw
+Kolkata Knight Riders,Chennai Super Kings,419153,2010-04-13,WP Saha,1,2,0.0,0.0,0,0,0,5.0,50.0,SB Jakati,stumped

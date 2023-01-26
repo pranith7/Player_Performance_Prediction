@@ -1,0 +1,10 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Royal Challengers Bangalore,419112,2010-03-16,DPMD Jayawardene,26,15,3.0,1.0,0,0,0,35.0,173.33333333333334,0,0
+Kings XI Punjab,Royal Challengers Bangalore,419112,2010-03-16,IK Pathan,3,1,0.0,0.0,0,0,0,7.0,300.0,0,0
+Kings XI Punjab,Royal Challengers Bangalore,419112,2010-03-16,MS Bisla,75,55,7.0,4.0,1,0,0,102.0,136.36363636363637,JH Kallis,caught
+Kings XI Punjab,Royal Challengers Bangalore,419112,2010-03-16,RS Bopara,77,53,9.0,2.0,1,0,0,102.0,145.2830188679245,P Kumar,caught
+Kings XI Punjab,Royal Challengers Bangalore,419112,2010-03-16,Yuvraj Singh,9,6,1.0,0.0,0,0,0,14.0,150.0,DW Steyn,caught
+Royal Challengers Bangalore,Kings XI Punjab,419112,2010-03-16,JH Kallis,89,57,8.0,5.0,1,0,0,119.0,156.140350877193,0,0
+Royal Challengers Bangalore,Kings XI Punjab,419112,2010-03-16,MK Pandey,38,27,2.0,3.0,0,0,0,50.0,140.74074074074073,PP Chawla,caught
+Royal Challengers Bangalore,Kings XI Punjab,419112,2010-03-16,RV Uthappa,51,21,4.0,4.0,1,0,0,75.0,242.85714285714283,Bipul Sharma,caught
+Royal Challengers Bangalore,Kings XI Punjab,419112,2010-03-16,V Kohli,16,13,1.0,1.0,0,0,0,23.0,123.07692307692308,0,0

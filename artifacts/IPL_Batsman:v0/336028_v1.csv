@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Mumbai Indians,336028,2008-05-21,DPMD Jayawardene,1,2,0.0,0.0,0,0,0,5.0,50.0,CRD Fernando,caught and bowled
+Kings XI Punjab,Mumbai Indians,336028,2008-05-21,IK Pathan,9,6,0.0,1.0,0,0,0,15.0,150.0,0,0
+Kings XI Punjab,Mumbai Indians,336028,2008-05-21,JR Hopes,0,1,0.0,0.0,0,0,1,2.0,0.0,SM Pollock,caught
+Kings XI Punjab,Mumbai Indians,336028,2008-05-21,LA Pomersbach,79,52,10.0,3.0,1,0,0,107.0,151.9230769230769,0,0
+Kings XI Punjab,Mumbai Indians,336028,2008-05-21,SE Marsh,81,57,7.0,4.0,1,0,0,108.0,142.10526315789474,SD Chitnis,caught
+Kings XI Punjab,Mumbai Indians,336028,2008-05-21,Yuvraj Singh,7,6,1.0,0.0,0,0,0,12.0,116.66666666666669,SD Chitnis,caught
+Mumbai Indians,Kings XI Punjab,336028,2008-05-21,A Nehra,0,1,0.0,0.0,0,0,1,2.0,0.0,VRV Singh,run out
+Mumbai Indians,Kings XI Punjab,336028,2008-05-21,AM Nayar,27,18,1.0,2.0,0,0,0,36.0,150.0,PP Chawla,caught
+Mumbai Indians,Kings XI Punjab,336028,2008-05-21,CRD Fernando,2,1,0.0,0.0,0,0,0,6.0,200.0,0,0
+Mumbai Indians,Kings XI Punjab,336028,2008-05-21,DR Smith,20,16,2.0,1.0,0,0,0,28.0,125.0,PP Chawla,run out
+Mumbai Indians,Kings XI Punjab,336028,2008-05-21,PR Shah,5,5,0.0,0.0,0,0,0,9.0,100.0,S Sreesanth,caught
+Mumbai Indians,Kings XI Punjab,336028,2008-05-21,RV Uthappa,9,13,0.0,0.0,0,0,0,13.0,69.23076923076923,Yuvraj Singh,caught
+Mumbai Indians,Kings XI Punjab,336028,2008-05-21,SD Chitnis,15,6,1.0,1.0,0,0,0,22.0,250.0,VRV Singh,run out
+Mumbai Indians,Kings XI Punjab,336028,2008-05-21,SM Pollock,0,1,0.0,0.0,0,0,1,2.0,0.0,Yuvraj Singh,caught
+Mumbai Indians,Kings XI Punjab,336028,2008-05-21,SR Tendulkar,65,47,12.0,0.0,1,0,0,89.0,138.29787234042556,IK Pathan,run out
+Mumbai Indians,Kings XI Punjab,336028,2008-05-21,ST Jayasuriya,20,15,1.0,2.0,0,0,0,29.0,133.33333333333331,S Sreesanth,lbw
+Mumbai Indians,Kings XI Punjab,336028,2008-05-21,VS Yeligati,2,2,0.0,0.0,0,0,0,6.0,100.0,VRV Singh,run out

@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Rajasthan Royals,Royal Challengers Bangalore,336023,2008-05-17,GC Smith,75,53,8.0,2.0,1,0,0,99.0,141.50943396226415,0,0
+Rajasthan Royals,Royal Challengers Bangalore,336023,2008-05-17,SA Asnodkar,50,46,7.0,1.0,1,0,0,71.0,108.69565217391305,A Kumble,caught
+Rajasthan Royals,Royal Challengers Bangalore,336023,2008-05-17,SR Watson,46,28,6.0,0.0,0,0,0,56.0,164.28571428571428,0,0
+Royal Challengers Bangalore,Rajasthan Royals,336023,2008-05-17,A Kumble,8,8,1.0,0.0,0,0,0,13.0,100.0,Sohail Tanvir,caught
+Royal Challengers Bangalore,Rajasthan Royals,336023,2008-05-17,Abdur Razzak,0,2,0.0,0.0,0,0,1,2.0,0.0,0,0
+Royal Challengers Bangalore,Rajasthan Royals,336023,2008-05-17,CL White,10,17,1.0,0.0,0,0,0,15.0,58.82352941176471,MM Patel,caught
+Royal Challengers Bangalore,Rajasthan Royals,336023,2008-05-17,DT Patil,9,12,0.0,0.0,0,0,0,13.0,75.0,SK Warne,caught
+Royal Challengers Bangalore,Rajasthan Royals,336023,2008-05-17,J Arunkumar,0,3,0.0,0.0,0,0,1,2.0,0.0,Sohail Tanvir,caught
+Royal Challengers Bangalore,Rajasthan Royals,336023,2008-05-17,JH Kallis,20,31,2.0,0.0,0,0,0,26.0,64.51612903225806,SK Trivedi,caught
+Royal Challengers Bangalore,Rajasthan Royals,336023,2008-05-17,Misbah-ul-Haq,0,1,0.0,0.0,0,0,1,2.0,0.0,MM Patel,caught
+Royal Challengers Bangalore,Rajasthan Royals,336023,2008-05-17,P Kumar,0,1,0.0,0.0,0,0,1,2.0,0.0,SK Warne,caught
+Royal Challengers Bangalore,Rajasthan Royals,336023,2008-05-17,R Dravid,75,37,6.0,6.0,1,0,0,105.0,202.7027027027027,0,0
+Royal Challengers Bangalore,Rajasthan Royals,336023,2008-05-17,V Kohli,3,8,0.0,0.0,0,0,0,7.0,37.5,Sohail Tanvir,bowled
+Royal Challengers Bangalore,Rajasthan Royals,336023,2008-05-17,Z Khan,1,5,0.0,0.0,0,0,0,5.0,20.0,SK Warne,caught and bowled

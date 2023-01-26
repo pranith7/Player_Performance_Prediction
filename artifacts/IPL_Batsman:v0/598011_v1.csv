@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Pune Warriors,598011,2013-04-13,KA Pollard,19,15,1.0,1.0,0,0,0,26.0,126.66666666666666,0,0
+Mumbai Indians,Pune Warriors,598011,2013-04-13,KD Karthik,41,29,4.0,1.0,0,0,0,51.0,141.3793103448276,MR Marsh,lbw
+Mumbai Indians,Pune Warriors,598011,2013-04-13,RG Sharma,62,32,3.0,5.0,1,0,0,87.0,193.75,0,0
+Mumbai Indians,Pune Warriors,598011,2013-04-13,RT Ponting,14,17,2.0,0.0,0,0,0,20.0,82.35294117647058,Yuvraj Singh,caught
+Mumbai Indians,Pune Warriors,598011,2013-04-13,SR Tendulkar,44,30,7.0,1.0,0,0,0,57.0,146.66666666666666,AJ Finch,caught
+Pune Warriors,Mumbai Indians,598011,2013-04-13,AD Mathews,19,19,0.0,1.0,0,0,0,25.0,100.0,PP Ojha,caught
+Pune Warriors,Mumbai Indians,598011,2013-04-13,AJ Finch,0,1,0.0,0.0,0,0,1,2.0,0.0,MG Johnson,bowled
+Pune Warriors,Mumbai Indians,598011,2013-04-13,AM Nayar,6,8,0.0,0.0,0,0,0,10.0,75.0,SL Malinga,caught
+Pune Warriors,Mumbai Indians,598011,2013-04-13,B Kumar,6,11,0.0,0.0,0,0,0,10.0,54.54545454545454,0,0
+Pune Warriors,Mumbai Indians,598011,2013-04-13,LRPL Taylor,4,6,1.0,0.0,0,0,0,9.0,66.66666666666666,PP Ojha,run out
+Pune Warriors,Mumbai Indians,598011,2013-04-13,MR Marsh,38,26,2.0,2.0,0,0,0,48.0,146.15384615384613,MG Johnson,caught
+Pune Warriors,Mumbai Indians,598011,2013-04-13,R Sharma,10,12,1.0,0.0,0,0,0,15.0,83.33333333333334,0,0
+Pune Warriors,Mumbai Indians,598011,2013-04-13,RV Uthappa,7,10,1.0,0.0,0,0,0,12.0,70.0,MG Johnson,bowled
+Pune Warriors,Mumbai Indians,598011,2013-04-13,TL Suman,23,15,5.0,0.0,0,0,0,32.0,153.33333333333334,Harbhajan Singh,caught
+Pune Warriors,Mumbai Indians,598011,2013-04-13,Yuvraj Singh,24,16,1.0,2.0,0,0,0,33.0,150.0,KA Pollard,caught

@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Sunrisers Hyderabad,1216516,2020-10-02,AT Rayudu,8,9,1.0,0.0,0,0,0,13.0,88.88888888888889,T Natarajan,bowled
+Chennai Super Kings,Sunrisers Hyderabad,1216516,2020-10-02,F du Plessis,22,21,4.0,0.0,0,0,0,30.0,104.76190476190476,T Natarajan,run out
+Chennai Super Kings,Sunrisers Hyderabad,1216516,2020-10-02,KM Jadhav,3,10,0.0,0.0,0,0,0,7.0,30.0,Abdul Samad,caught
+Chennai Super Kings,Sunrisers Hyderabad,1216516,2020-10-02,MS Dhoni,47,37,4.0,1.0,0,0,0,57.0,127.02702702702702,0,0
+Chennai Super Kings,Sunrisers Hyderabad,1216516,2020-10-02,RA Jadeja,50,36,5.0,2.0,1,0,0,71.0,138.88888888888889,T Natarajan,caught
+Chennai Super Kings,Sunrisers Hyderabad,1216516,2020-10-02,SM Curran,15,5,0.0,2.0,0,0,0,23.0,300.0,0,0
+Chennai Super Kings,Sunrisers Hyderabad,1216516,2020-10-02,SR Watson,1,6,0.0,0.0,0,0,0,5.0,16.666666666666664,B Kumar,bowled
+Sunrisers Hyderabad,Chennai Super Kings,1216516,2020-10-02,Abdul Samad,8,6,0.0,0.0,0,0,0,12.0,133.33333333333331,0,0
+Sunrisers Hyderabad,Chennai Super Kings,1216516,2020-10-02,Abhishek Sharma,31,26,4.0,1.0,0,0,0,41.0,119.23076923076924,DL Chahar,caught
+Sunrisers Hyderabad,Chennai Super Kings,1216516,2020-10-02,DA Warner,28,30,3.0,0.0,0,0,0,35.0,93.33333333333331,PP Chawla,caught
+Sunrisers Hyderabad,Chennai Super Kings,1216516,2020-10-02,JM Bairstow,0,3,0.0,0.0,0,0,1,2.0,0.0,DL Chahar,bowled
+Sunrisers Hyderabad,Chennai Super Kings,1216516,2020-10-02,KS Williamson,9,13,1.0,0.0,0,0,0,14.0,69.23076923076923,PP Chawla,run out
+Sunrisers Hyderabad,Chennai Super Kings,1216516,2020-10-02,MK Pandey,29,23,5.0,0.0,0,0,0,38.0,126.08695652173914,SN Thakur,caught
+Sunrisers Hyderabad,Chennai Super Kings,1216516,2020-10-02,PK Garg,51,27,6.0,1.0,1,0,0,71.0,188.88888888888889,0,0

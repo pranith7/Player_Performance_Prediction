@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Rajasthan Royals,392202,2009-04-30,JA Morkel,4,1,1.0,0.0,0,0,0,9.0,400.0,0,0
+Chennai Super Kings,Rajasthan Royals,392202,2009-04-30,JDP Oram,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,MM Patel,caught
+Chennai Super Kings,Rajasthan Royals,392202,2009-04-30,ML Hayden,1,2,0.0,0.0,0,0,0,5.0,50.0,YK Pathan,bowled
+Chennai Super Kings,Rajasthan Royals,392202,2009-04-30,MS Dhoni,22,19,0.0,1.0,0,0,0,28.0,115.78947368421052,0,0
+Chennai Super Kings,Rajasthan Royals,392202,2009-04-30,PA Patel,3,11,0.0,0.0,0,0,0,7.0,27.27272727272727,YK Pathan,caught
+Chennai Super Kings,Rajasthan Royals,392202,2009-04-30,S Badrinath,29,27,4.0,0.0,0,0,0,37.0,107.40740740740742,SK Warne,stumped
+Chennai Super Kings,Rajasthan Royals,392202,2009-04-30,SK Raina,98,57,10.0,5.0,1,0,0,130.0,171.9298245614035,MM Patel,caught
+Rajasthan Royals,Chennai Super Kings,392202,2009-04-30,AD Mascarenhas,8,8,1.0,0.0,0,0,0,13.0,100.0,JDP Oram,caught
+Rajasthan Royals,Chennai Super Kings,392202,2009-04-30,GC Smith,2,5,0.0,0.0,0,0,0,6.0,40.0,JA Morkel,caught
+Rajasthan Royals,Chennai Super Kings,392202,2009-04-30,M Rawat,8,7,1.0,0.0,0,0,0,13.0,114.28571428571428,0,0
+Rajasthan Royals,Chennai Super Kings,392202,2009-04-30,MM Patel,0,1,0.0,0.0,0,0,1,2.0,0.0,JDP Oram,caught
+Rajasthan Royals,Chennai Super Kings,392202,2009-04-30,RA Jadeja,37,34,2.0,1.0,0,0,0,45.0,108.8235294117647,L Balaji,caught
+Rajasthan Royals,Chennai Super Kings,392202,2009-04-30,RJ Quiney,28,32,4.0,0.0,0,0,0,36.0,87.5,SK Raina,lbw
+Rajasthan Royals,Chennai Super Kings,392202,2009-04-30,SA Asnodkar,10,8,0.0,1.0,0,0,0,16.0,125.0,JA Morkel,hit wicket
+Rajasthan Royals,Chennai Super Kings,392202,2009-04-30,SK Trivedi,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,L Balaji,caught
+Rajasthan Royals,Chennai Super Kings,392202,2009-04-30,SK Warne,3,9,0.0,0.0,0,0,0,7.0,33.33333333333333,L Balaji,caught
+Rajasthan Royals,Chennai Super Kings,392202,2009-04-30,YK Pathan,20,13,3.0,0.0,0,0,0,27.0,153.84615384615387,L Balaji,caught

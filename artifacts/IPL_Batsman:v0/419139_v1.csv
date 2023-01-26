@@ -1,0 +1,10 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Kolkata Knight Riders,419139,2010-04-04,DPMD Jayawardene,110,61,14,3.0,1,1,0,158.0,180.327868852459,0,0
+Kings XI Punjab,Kolkata Knight Riders,419139,2010-04-04,KC Sangakkara,38,22,2,2.0,0,0,0,48.0,172.72727272727272,SE Bond,caught
+Kings XI Punjab,Kolkata Knight Riders,419139,2010-04-04,MS Bisla,18,13,3,0.0,0,0,0,25.0,138.46153846153845,M Kartik,bowled
+Kings XI Punjab,Kolkata Knight Riders,419139,2010-04-04,Yuvraj Singh,33,16,2,3.0,0,0,0,45.0,206.25,0,0
+Kolkata Knight Riders,Kings XI Punjab,419139,2010-04-04,AD Mathews,17,13,2,0.0,0,0,0,23.0,130.76923076923077,0,0
+Kolkata Knight Riders,Kings XI Punjab,419139,2010-04-04,CH Gayle,88,44,6,8.0,1,0,0,122.0,200.0,J Theron,caught
+Kolkata Knight Riders,Kings XI Punjab,419139,2010-04-04,DJ Hussey,11,5,1,1.0,0,0,0,18.0,220.00000000000003,0,0
+Kolkata Knight Riders,Kings XI Punjab,419139,2010-04-04,MK Tiwary,35,32,2,0.0,0,0,0,41.0,109.375,IK Pathan,caught
+Kolkata Knight Riders,Kings XI Punjab,419139,2010-04-04,SC Ganguly,36,33,5,1.0,0,0,0,47.0,109.09090909090908,RS Bopara,caught and bowled

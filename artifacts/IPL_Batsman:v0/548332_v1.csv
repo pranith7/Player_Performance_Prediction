@@ -1,0 +1,11 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Rajasthan Royals,548332,2012-04-21,DJ Bravo,16,10,1.0,0.0,0,0,0,21.0,160.0,0,0
+Chennai Super Kings,Rajasthan Royals,548332,2012-04-21,F du Plessis,73,53,6.0,2.0,1,0,0,95.0,137.73584905660377,KK Cooper,caught
+Chennai Super Kings,Rajasthan Royals,548332,2012-04-21,MS Dhoni,15,12,1.0,0.0,0,0,0,20.0,125.0,0,0
+Chennai Super Kings,Rajasthan Royals,548332,2012-04-21,S Badrinath,15,22,1.0,0.0,0,0,0,20.0,68.18181818181817,GB Hogg,stumped
+Chennai Super Kings,Rajasthan Royals,548332,2012-04-21,SK Raina,26,24,3.0,0.0,0,0,0,33.0,108.33333333333331,KK Cooper,caught
+Rajasthan Royals,Chennai Super Kings,548332,2012-04-21,AL Menaria,36,34,2.0,1.0,0,0,0,44.0,105.88235294117648,DE Bollinger,caught
+Rajasthan Royals,Chennai Super Kings,548332,2012-04-21,AM Rahane,15,10,3.0,0.0,0,0,0,22.0,150.0,R Ashwin,caught
+Rajasthan Royals,Chennai Super Kings,548332,2012-04-21,BJ Hodge,3,5,0.0,0.0,0,0,0,7.0,60.0,0,0
+Rajasthan Royals,Chennai Super Kings,548332,2012-04-21,OA Shah,52,45,4.0,3.0,1,0,0,74.0,115.55555555555554,KMDN Kulasekara,caught
+Rajasthan Royals,Chennai Super Kings,548332,2012-04-21,R Dravid,26,29,3.0,1.0,0,0,0,35.0,89.65517241379311,SB Jakati,caught

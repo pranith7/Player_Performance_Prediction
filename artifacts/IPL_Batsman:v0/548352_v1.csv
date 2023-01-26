@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Deccan Chargers,548352,2012-05-04,DJ Bravo,12,4,0.0,1.0,0,0,0,18.0,300.0,0,0
+Chennai Super Kings,Deccan Chargers,548352,2012-05-04,F du Plessis,42,36,2.0,1.0,0,0,0,50.0,116.66666666666669,V Pratap Singh,caught
+Chennai Super Kings,Deccan Chargers,548352,2012-05-04,JA Morkel,13,10,1.0,0.0,0,0,0,18.0,130.0,AA Jhunjhunwala,bowled
+Chennai Super Kings,Deccan Chargers,548352,2012-05-04,M Vijay,14,11,2.0,0.0,0,0,0,20.0,127.27272727272728,V Pratap Singh,caught
+Chennai Super Kings,Deccan Chargers,548352,2012-05-04,MS Dhoni,34,28,2.0,0.0,0,0,0,40.0,121.42857142857142,DT Christian,bowled
+Chennai Super Kings,Deccan Chargers,548352,2012-05-04,RA Jadeja,4,9,0.0,0.0,0,0,0,8.0,44.44444444444444,A Ashish Reddy,caught
+Chennai Super Kings,Deccan Chargers,548352,2012-05-04,S Badrinath,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Chennai Super Kings,Deccan Chargers,548352,2012-05-04,SK Raina,32,24,2.0,2.0,0,0,0,42.0,133.33333333333331,A Mishra,caught
+Deccan Chargers,Chennai Super Kings,548352,2012-05-04,A Ashish Reddy,3,3,0.0,0.0,0,0,0,7.0,100.0,BW Hilfenhaus,caught
+Deccan Chargers,Chennai Super Kings,548352,2012-05-04,AA Jhunjhunwala,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Deccan Chargers,Chennai Super Kings,548352,2012-05-04,CL White,77,55,9.0,2.0,1,0,0,102.0,140.0,DJ Bravo,run out
+Deccan Chargers,Chennai Super Kings,548352,2012-05-04,DT Christian,27,24,2.0,1.0,0,0,0,35.0,112.5,0,0
+Deccan Chargers,Chennai Super Kings,548352,2012-05-04,KC Sangakkara,1,5,0.0,0.0,0,0,0,5.0,20.0,SK Raina,caught and bowled
+Deccan Chargers,Chennai Super Kings,548352,2012-05-04,PA Patel,1,5,0.0,0.0,0,0,0,5.0,20.0,JA Morkel,bowled
+Deccan Chargers,Chennai Super Kings,548352,2012-05-04,S Dhawan,36,29,3.0,0.0,0,0,0,43.0,124.13793103448276,DJ Bravo,run out

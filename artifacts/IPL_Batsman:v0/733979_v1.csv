@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Rajasthan Royals,733979,2014-05-05,AD Russell,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,SR Watson,bowled
+Kolkata Knight Riders,Rajasthan Royals,733979,2014-05-05,G Gambhir,54,34,6.0,1.0,1,0,0,74.0,158.8235294117647,SR Watson,caught
+Kolkata Knight Riders,Rajasthan Royals,733979,2014-05-05,MK Pandey,0,1,0.0,0.0,0,0,1,2.0,0.0,PV Tambe,stumped
+Kolkata Knight Riders,Rajasthan Royals,733979,2014-05-05,RN ten Doeschate,0,1,0.0,0.0,0,0,1,2.0,0.0,PV Tambe,lbw
+Kolkata Knight Riders,Rajasthan Royals,733979,2014-05-05,RV Uthappa,65,52,5.0,3.0,1,0,0,88.0,125.0,SR Watson,caught
+Kolkata Knight Riders,Rajasthan Royals,733979,2014-05-05,SA Yadav,9,18,0.0,0.0,0,0,0,13.0,50.0,0,0
+Kolkata Knight Riders,Rajasthan Royals,733979,2014-05-05,Shakib Al Hasan,21,15,1.0,1.0,0,0,0,28.0,140.0,0,0
+Kolkata Knight Riders,Rajasthan Royals,733979,2014-05-05,YK Pathan,0,1,0.0,0.0,0,0,1,2.0,0.0,PV Tambe,caught and bowled
+Rajasthan Royals,Kolkata Knight Riders,733979,2014-05-05,AM Rahane,30,22,3.0,1.0,0,0,0,39.0,136.36363636363637,AD Russell,run out
+Rajasthan Royals,Kolkata Knight Riders,733979,2014-05-05,JP Faulkner,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Rajasthan Royals,Kolkata Knight Riders,733979,2014-05-05,KK Nair,44,36,4.0,1.0,0,0,0,54.0,122.22222222222224,Shakib Al Hasan,stumped
+Rajasthan Royals,Kolkata Knight Riders,733979,2014-05-05,R Bhatia,6,1,0.0,1.0,0,0,0,12.0,600.0,0,0
+Rajasthan Royals,Kolkata Knight Riders,733979,2014-05-05,SPD Smith,3,2,0.0,0.0,0,0,0,7.0,150.0,R Vinay Kumar,caught
+Rajasthan Royals,Kolkata Knight Riders,733979,2014-05-05,SR Watson,31,21,2.0,2.0,0,0,0,41.0,147.61904761904762,SP Narine,caught
+Rajasthan Royals,Kolkata Knight Riders,733979,2014-05-05,STR Binny,11,9,0.0,1.0,0,0,0,17.0,122.22222222222224,R Vinay Kumar,caught
+Rajasthan Royals,Kolkata Knight Riders,733979,2014-05-05,SV Samson,37,32,3.0,0.0,0,0,0,44.0,115.625,SP Narine,caught

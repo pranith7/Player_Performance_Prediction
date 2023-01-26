@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Sunrisers Hyderabad,598013,2013-04-14,EJG Morgan,47,24,5.0,3.0,0,0,0,62.0,195.8333333333333,DW Steyn,run out
+Kolkata Knight Riders,Sunrisers Hyderabad,598013,2013-04-14,G Gambhir,53,46,6.0,1.0,1,0,0,73.0,115.21739130434784,A Ashish Reddy,bowled
+Kolkata Knight Riders,Sunrisers Hyderabad,598013,2013-04-14,JH Kallis,41,27,6.0,0.0,0,0,0,51.0,151.85185185185185,I Sharma,run out
+Kolkata Knight Riders,Sunrisers Hyderabad,598013,2013-04-14,MS Bisla,28,24,5.0,0.0,0,0,0,37.0,116.66666666666669,KV Sharma,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,598013,2013-04-14,YK Pathan,3,3,0.0,0.0,0,0,0,7.0,100.0,0,0
+Sunrisers Hyderabad,Kolkata Knight Riders,598013,2013-04-14,A Ashish Reddy,4,5,0.0,0.0,0,0,0,8.0,80.0,SMSM Senanayake,bowled
+Sunrisers Hyderabad,Kolkata Knight Riders,598013,2013-04-14,A Mishra,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Sunrisers Hyderabad,Kolkata Knight Riders,598013,2013-04-14,CL White,34,31,3.0,1.0,0,0,0,43.0,109.6774193548387,JH Kallis,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,598013,2013-04-14,DB Ravi Teja,10,14,0.0,0.0,0,0,0,14.0,71.42857142857143,SP Narine,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,598013,2013-04-14,GH Vihari,1,2,0.0,0.0,0,0,0,5.0,50.0,R Bhatia,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,598013,2013-04-14,KC Sangakkara,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,R Bhatia,caught
+Sunrisers Hyderabad,Kolkata Knight Riders,598013,2013-04-14,KV Sharma,5,10,0.0,0.0,0,0,0,9.0,50.0,0,0
+Sunrisers Hyderabad,Kolkata Knight Riders,598013,2013-04-14,NLTC Perera,36,25,2.0,1.0,0,0,0,44.0,144.0,JH Kallis,bowled
+Sunrisers Hyderabad,Kolkata Knight Riders,598013,2013-04-14,PA Patel,27,32,2.0,1.0,0,0,0,35.0,84.375,JH Kallis,bowled

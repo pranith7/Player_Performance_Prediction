@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Capitals,Mumbai Indians,1237181,2020-11-10,AM Rahane,2,4,0.0,0.0,0,0,0,6.0,50.0,TA Boult,caught
+Delhi Capitals,Mumbai Indians,1237181,2020-11-10,AR Patel,9,9,1.0,0.0,0,0,0,14.0,100.0,NM Coulter-Nile,caught
+Delhi Capitals,Mumbai Indians,1237181,2020-11-10,MP Stoinis,0,1,0.0,0.0,0,0,1,2.0,0.0,TA Boult,caught
+Delhi Capitals,Mumbai Indians,1237181,2020-11-10,RR Pant,56,40,4.0,2.0,1,0,0,76.0,140.0,NM Coulter-Nile,caught
+Delhi Capitals,Mumbai Indians,1237181,2020-11-10,S Dhawan,15,13,3.0,0.0,0,0,0,22.0,115.38461538461536,J Yadav,bowled
+Delhi Capitals,Mumbai Indians,1237181,2020-11-10,SO Hetmyer,5,5,1.0,0.0,0,0,0,10.0,100.0,TA Boult,caught
+Delhi Capitals,Mumbai Indians,1237181,2020-11-10,SS Iyer,65,51,6.0,2.0,1,0,0,87.0,127.45098039215684,0,0
+Mumbai Indians,Delhi Capitals,1237181,2020-11-10,HH Pandya,3,5,0.0,0.0,0,0,0,7.0,60.0,A Nortje,caught
+Mumbai Indians,Delhi Capitals,1237181,2020-11-10,Ishan Kishan,33,19,3.0,1.0,0,0,0,42.0,173.6842105263158,0,0
+Mumbai Indians,Delhi Capitals,1237181,2020-11-10,KA Pollard,9,4,2.0,0.0,0,0,0,15.0,225.0,K Rabada,bowled
+Mumbai Indians,Delhi Capitals,1237181,2020-11-10,KH Pandya,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Mumbai Indians,Delhi Capitals,1237181,2020-11-10,Q de Kock,20,12,3.0,1.0,0,0,0,29.0,166.66666666666669,MP Stoinis,caught
+Mumbai Indians,Delhi Capitals,1237181,2020-11-10,RG Sharma,68,51,5.0,4.0,1,0,0,93.0,133.33333333333331,A Nortje,caught
+Mumbai Indians,Delhi Capitals,1237181,2020-11-10,SA Yadav,19,20,1.0,1.0,0,0,0,26.0,95.0,R Ashwin,run out

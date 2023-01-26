@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Lucknow Super Giants,Royal Challengers Bangalore,1304077,2022-04-19,A Badoni,13,13,2.0,0.0,0,0,0,19.0,100.0,JR Hazlewood,caught
+Lucknow Super Giants,Royal Challengers Bangalore,1304077,2022-04-19,DJ Hooda,13,14,1.0,0.0,0,0,0,18.0,92.85714285714286,Mohammed Siraj,caught
+Lucknow Super Giants,Royal Challengers Bangalore,1304077,2022-04-19,JO Holder,16,10,0.0,2.0,0,0,0,24.0,160.0,HV Patel,caught
+Lucknow Super Giants,Royal Challengers Bangalore,1304077,2022-04-19,KH Pandya,42,29,5.0,2.0,0,0,0,55.0,144.82758620689654,GJ Maxwell,caught
+Lucknow Super Giants,Royal Challengers Bangalore,1304077,2022-04-19,KL Rahul,30,26,3.0,1.0,0,0,0,39.0,115.38461538461536,HV Patel,caught
+Lucknow Super Giants,Royal Challengers Bangalore,1304077,2022-04-19,MK Pandey,6,8,1.0,0.0,0,0,0,11.0,75.0,JR Hazlewood,caught
+Lucknow Super Giants,Royal Challengers Bangalore,1304077,2022-04-19,MP Stoinis,24,17,2.0,1.0,0,0,0,32.0,141.1764705882353,JR Hazlewood,bowled
+Lucknow Super Giants,Royal Challengers Bangalore,1304077,2022-04-19,PVD Chameera,1,4,0.0,0.0,0,0,0,5.0,25.0,0,0
+Lucknow Super Giants,Royal Challengers Bangalore,1304077,2022-04-19,Q de Kock,3,5,0.0,0.0,0,0,0,7.0,60.0,JR Hazlewood,caught
+Lucknow Super Giants,Royal Challengers Bangalore,1304077,2022-04-19,Ravi Bishnoi,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Royal Challengers Bangalore,Lucknow Super Giants,1304077,2022-04-19,Anuj Rawat,4,6,1.0,0.0,0,0,0,9.0,66.66666666666666,PVD Chameera,caught
+Royal Challengers Bangalore,Lucknow Super Giants,1304077,2022-04-19,F du Plessis,96,65,11.0,2.0,1,0,0,123.0,147.6923076923077,JO Holder,caught
+Royal Challengers Bangalore,Lucknow Super Giants,1304077,2022-04-19,GJ Maxwell,23,11,3.0,1.0,0,0,0,32.0,209.0909090909091,KH Pandya,caught
+Royal Challengers Bangalore,Lucknow Super Giants,1304077,2022-04-19,HV Patel,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Royal Challengers Bangalore,Lucknow Super Giants,1304077,2022-04-19,KD Karthik,13,8,0.0,1.0,0,0,0,19.0,162.5,0,0
+Royal Challengers Bangalore,Lucknow Super Giants,1304077,2022-04-19,SS Prabhudessai,10,10,0.0,1.0,0,0,0,16.0,100.0,JO Holder,caught
+Royal Challengers Bangalore,Lucknow Super Giants,1304077,2022-04-19,Shahbaz Ahmed,26,25,1.0,0.0,0,0,0,31.0,104.0,JO Holder,run out
+Royal Challengers Bangalore,Lucknow Super Giants,1304077,2022-04-19,V Kohli,0,1,0.0,0.0,0,0,1,2.0,0.0,PVD Chameera,caught

@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Gujarat Lions,Mumbai Indians,981007,2016-05-21,AJ Finch,0,2,0.0,0.0,0,0,1,2.0,0.0,R Vinay Kumar,lbw
+Gujarat Lions,Mumbai Indians,981007,2016-05-21,BB McCullum,48,29,8.0,1.0,0,0,0,62.0,165.51724137931035,Harbhajan Singh,bowled
+Gujarat Lions,Mumbai Indians,981007,2016-05-21,DR Smith,37,23,4.0,2.0,0,0,0,49.0,160.8695652173913,0,0
+Gujarat Lions,Mumbai Indians,981007,2016-05-21,KD Karthik,3,4,0.0,0.0,0,0,0,7.0,75.0,R Vinay Kumar,caught
+Gujarat Lions,Mumbai Indians,981007,2016-05-21,RA Jadeja,21,17,4.0,0.0,0,0,0,29.0,123.52941176470588,0,0
+Gujarat Lions,Mumbai Indians,981007,2016-05-21,SK Raina,58,36,8.0,2.0,1,0,0,82.0,161.11111111111111,JJ Bumrah,caught
+Mumbai Indians,Gujarat Lions,981007,2016-05-21,HH Pandya,7,8,1.0,0.0,0,0,0,12.0,87.5,P Kumar,caught
+Mumbai Indians,Gujarat Lions,981007,2016-05-21,Harbhajan Singh,3,6,0.0,0.0,0,0,0,7.0,50.0,P Kumar,caught
+Mumbai Indians,Gujarat Lions,981007,2016-05-21,JC Buttler,33,32,3.0,0.0,0,0,0,40.0,103.125,DJ Bravo,caught and bowled
+Mumbai Indians,Gujarat Lions,981007,2016-05-21,KA Pollard,9,11,0.0,1.0,0,0,0,15.0,81.81818181818183,DS Kulkarni,caught
+Mumbai Indians,Gujarat Lions,981007,2016-05-21,KH Pandya,4,3,1.0,0.0,0,0,0,9.0,133.33333333333331,DR Smith,caught
+Mumbai Indians,Gujarat Lions,981007,2016-05-21,MJ Guptill,7,9,1.0,0.0,0,0,0,12.0,77.77777777777779,DR Smith,caught
+Mumbai Indians,Gujarat Lions,981007,2016-05-21,N Rana,70,38,7.0,4.0,1,0,0,97.0,184.21052631578948,DJ Bravo,caught
+Mumbai Indians,Gujarat Lions,981007,2016-05-21,R Vinay Kumar,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Mumbai Indians,Gujarat Lions,981007,2016-05-21,RG Sharma,30,17,4.0,2.0,0,0,0,42.0,176.47058823529412,DS Kulkarni,caught

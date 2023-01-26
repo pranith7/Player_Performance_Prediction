@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Gujarat Titans,Royal Challengers Bangalore,1304089,2022-04-30,B Sai Sudharsan,20,14,2.0,0.0,0,0,0,26.0,142.85714285714286,PWH de Silva,caught
+Gujarat Titans,Royal Challengers Bangalore,1304089,2022-04-30,DA Miller,39,26,4.0,1.0,0,0,0,49.0,150.0,0,0
+Gujarat Titans,Royal Challengers Bangalore,1304089,2022-04-30,HH Pandya,3,5,0.0,0.0,0,0,0,7.0,60.0,Shahbaz Ahmed,caught
+Gujarat Titans,Royal Challengers Bangalore,1304089,2022-04-30,R Tewatia,43,25,5.0,2.0,0,0,0,56.0,172.0,0,0
+Gujarat Titans,Royal Challengers Bangalore,1304089,2022-04-30,Shubman Gill,31,29,3.0,1.0,0,0,0,40.0,106.89655172413792,Shahbaz Ahmed,lbw
+Gujarat Titans,Royal Challengers Bangalore,1304089,2022-04-30,WP Saha,29,23,4.0,0.0,0,0,0,37.0,126.08695652173914,PWH de Silva,caught
+Royal Challengers Bangalore,Gujarat Titans,1304089,2022-04-30,F du Plessis,0,4,0.0,0.0,0,0,1,2.0,0.0,PJ Sangwan,caught
+Royal Challengers Bangalore,Gujarat Titans,1304089,2022-04-30,GJ Maxwell,33,18,3.0,2.0,0,0,0,44.0,183.3333333333333,LH Ferguson,caught
+Royal Challengers Bangalore,Gujarat Titans,1304089,2022-04-30,KD Karthik,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,Rashid Khan,caught
+Royal Challengers Bangalore,Gujarat Titans,1304089,2022-04-30,MK Lomror,16,9,2.0,1.0,0,0,0,24.0,177.77777777777777,AS Joseph,caught
+Royal Challengers Bangalore,Gujarat Titans,1304089,2022-04-30,RM Patidar,52,32,5.0,2.0,1,0,0,73.0,162.5,PJ Sangwan,caught
+Royal Challengers Bangalore,Gujarat Titans,1304089,2022-04-30,Shahbaz Ahmed,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Royal Challengers Bangalore,Gujarat Titans,1304089,2022-04-30,V Kohli,58,54,6.0,1.0,1,0,0,78.0,107.40740740740742,Mohammed Shami,bowled

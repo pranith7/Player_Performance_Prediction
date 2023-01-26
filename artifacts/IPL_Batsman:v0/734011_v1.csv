@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Rajasthan Royals,734011,2014-05-15,Imran Tahir,4,6,1.0,0.0,0,0,0,9.0,66.66666666666666,STR Binny,bowled
+Delhi Daredevils,Rajasthan Royals,734011,2014-05-15,JP Duminy,8,8,0.0,1.0,0,0,0,14.0,100.0,PV Tambe,caught
+Delhi Daredevils,Rajasthan Royals,734011,2014-05-15,KD Karthik,3,8,0.0,0.0,0,0,0,7.0,37.5,DS Kulkarni,caught
+Delhi Daredevils,Rajasthan Royals,734011,2014-05-15,KM Jadhav,3,3,0.0,0.0,0,0,0,7.0,100.0,BCJ Cutting,run out
+Delhi Daredevils,Rajasthan Royals,734011,2014-05-15,KP Pietersen,13,20,1.0,0.0,0,0,0,18.0,65.0,R Bhatia,bowled
+Delhi Daredevils,Rajasthan Royals,734011,2014-05-15,LRPL Taylor,4,6,0.0,0.0,0,0,0,8.0,66.66666666666666,R Bhatia,caught and bowled
+Delhi Daredevils,Rajasthan Royals,734011,2014-05-15,MA Agarwal,17,10,3.0,0.0,0,0,0,24.0,170.0,JP Faulkner,caught
+Delhi Daredevils,Rajasthan Royals,734011,2014-05-15,MK Tiwary,61,47,5.0,2.0,1,0,0,82.0,129.7872340425532,0,0
+Delhi Daredevils,Rajasthan Royals,734011,2014-05-15,R Shukla,14,12,2.0,0.0,0,0,0,20.0,116.66666666666669,KK Cooper,caught
+Delhi Daredevils,Rajasthan Royals,734011,2014-05-15,S Kaul,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Delhi Daredevils,Rajasthan Royals,734011,2014-05-15,S Nadeem,1,4,0.0,0.0,0,0,0,5.0,25.0,BCJ Cutting,bowled
+Rajasthan Royals,Delhi Daredevils,734011,2014-05-15,AM Rahane,64,51,8.0,1.0,1,0,0,86.0,125.49019607843135,S Nadeem,bowled
+Rajasthan Royals,Delhi Daredevils,734011,2014-05-15,BCJ Cutting,8,6,0.0,1.0,0,0,0,14.0,133.33333333333331,R Shukla,run out
+Rajasthan Royals,Delhi Daredevils,734011,2014-05-15,JP Faulkner,23,8,0.0,3.0,0,0,0,33.0,287.5,0,0
+Rajasthan Royals,Delhi Daredevils,734011,2014-05-15,KK Cooper,32,17,2.0,3.0,0,0,0,44.0,188.23529411764704,JP Duminy,caught
+Rajasthan Royals,Delhi Daredevils,734011,2014-05-15,KK Nair,19,14,1.0,1.0,0,0,0,26.0,135.71428571428572,S Nadeem,lbw
+Rajasthan Royals,Delhi Daredevils,734011,2014-05-15,STR Binny,0,2,0.0,0.0,0,0,1,2.0,0.0,Imran Tahir,stumped
+Rajasthan Royals,Delhi Daredevils,734011,2014-05-15,SV Samson,40,27,2.0,3.0,0,0,0,52.0,148.14814814814815,Imran Tahir,caught

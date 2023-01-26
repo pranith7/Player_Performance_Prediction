@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Sunrisers Hyderabad,1136576,2018-04-19,AJ Finch,14,6,1.0,1.0,0,0,0,21.0,233.3333333333333,0,0
+Kings XI Punjab,Sunrisers Hyderabad,1136576,2018-04-19,CH Gayle,104,65,1.0,11.0,1,1,0,155.0,160.0,0,0
+Kings XI Punjab,Sunrisers Hyderabad,1136576,2018-04-19,KK Nair,31,22,3.0,1.0,0,0,0,40.0,140.9090909090909,B Kumar,caught
+Kings XI Punjab,Sunrisers Hyderabad,1136576,2018-04-19,KL Rahul,18,21,3.0,0.0,0,0,0,25.0,85.71428571428571,Rashid Khan,lbw
+Kings XI Punjab,Sunrisers Hyderabad,1136576,2018-04-19,MA Agarwal,18,9,2.0,1.0,0,0,0,26.0,200.0,S Kaul,caught
+Sunrisers Hyderabad,Kings XI Punjab,1136576,2018-04-19,DJ Hooda,5,5,0.0,0.0,0,0,0,9.0,100.0,AJ Tye,caught
+Sunrisers Hyderabad,Kings XI Punjab,1136576,2018-04-19,KS Williamson,54,41,3.0,2.0,1,0,0,73.0,131.70731707317074,AJ Tye,caught
+Sunrisers Hyderabad,Kings XI Punjab,1136576,2018-04-19,MK Pandey,57,47,3.0,1.0,1,0,0,74.0,121.27659574468086,0,0
+Sunrisers Hyderabad,Kings XI Punjab,1136576,2018-04-19,S Dhawan,0,1,0.0,0.0,0,0,1,2.0,0.0,BB Sran,retired hurt
+Sunrisers Hyderabad,Kings XI Punjab,1136576,2018-04-19,Shakib Al Hasan,24,15,1.0,2.0,0,0,0,33.0,160.0,0,0
+Sunrisers Hyderabad,Kings XI Punjab,1136576,2018-04-19,WP Saha,6,8,1.0,0.0,0,0,0,11.0,75.0,MM Sharma,bowled
+Sunrisers Hyderabad,Kings XI Punjab,1136576,2018-04-19,YK Pathan,19,13,3.0,0.0,0,0,0,26.0,146.15384615384613,MM Sharma,bowled

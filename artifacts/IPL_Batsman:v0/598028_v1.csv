@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Kings XI Punjab,598028,2013-05-16,BJ Rohrer,49,29,4.0,3.0,0,0,0,63.0,168.9655172413793,PP Chawla,bowled
+Delhi Daredevils,Kings XI Punjab,598028,2013-05-16,CM Gautam,12,8,2.0,0.0,0,0,0,18.0,150.0,0,0
+Delhi Daredevils,Kings XI Punjab,598028,2013-05-16,DA Warner,0,1,0.0,0.0,0,0,1,2.0,0.0,Sandeep Sharma,caught
+Delhi Daredevils,Kings XI Punjab,598028,2013-05-16,DPMD Jayawardene,39,42,3.0,1.0,0,0,0,48.0,92.85714285714286,Sandeep Sharma,caught
+Delhi Daredevils,Kings XI Punjab,598028,2013-05-16,IK Pathan,1,7,0.0,0.0,0,0,0,5.0,14.285714285714285,Sandeep Sharma,caught
+Delhi Daredevils,Kings XI Punjab,598028,2013-05-16,M Morkel,13,4,0.0,2.0,0,0,0,21.0,325.0,PP Chawla,caught
+Delhi Daredevils,Kings XI Punjab,598028,2013-05-16,UBT Chand,7,8,0.0,1.0,0,0,0,13.0,87.5,P Kumar,bowled
+Delhi Daredevils,Kings XI Punjab,598028,2013-05-16,V Sehwag,30,22,6.0,0.0,0,0,0,40.0,136.36363636363637,P Awana,caught
+Kings XI Punjab,Delhi Daredevils,598028,2013-05-16,AC Gilchrist,42,26,5.0,2.0,0,0,0,55.0,161.53846153846155,IK Pathan,caught and bowled
+Kings XI Punjab,Delhi Daredevils,598028,2013-05-16,Azhar Mahmood,9,14,1.0,0.0,0,0,0,14.0,64.28571428571429,A Nehra,caught
+Kings XI Punjab,Delhi Daredevils,598028,2013-05-16,DA Miller,44,24,3.0,4.0,0,0,0,59.0,183.3333333333333,0,0
+Kings XI Punjab,Delhi Daredevils,598028,2013-05-16,R Sathish,22,13,2.0,1.0,0,0,0,30.0,169.23076923076923,A Nehra,caught
+Kings XI Punjab,Delhi Daredevils,598028,2013-05-16,SE Marsh,45,46,7.0,0.0,0,0,0,56.0,97.82608695652172,M Morkel,caught

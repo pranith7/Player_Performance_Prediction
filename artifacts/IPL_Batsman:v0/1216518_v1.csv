@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Rajasthan Royals,Sunrisers Hyderabad,1216518,2020-10-22,BA Stokes,30,33,2.0,0.0,0,0,0,36.0,90.9090909090909,Rashid Khan,bowled
+Rajasthan Royals,Sunrisers Hyderabad,1216518,2020-10-22,JC Archer,16,8,1.0,1.0,0,0,0,23.0,200.0,0,0
+Rajasthan Royals,Sunrisers Hyderabad,1216518,2020-10-22,JC Buttler,9,12,0.0,0.0,0,0,0,13.0,75.0,V Shankar,caught
+Rajasthan Royals,Sunrisers Hyderabad,1216518,2020-10-22,R Parag,20,13,2.0,1.0,0,0,0,28.0,153.84615384615387,JO Holder,caught
+Rajasthan Royals,Sunrisers Hyderabad,1216518,2020-10-22,R Tewatia,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,0,0
+Rajasthan Royals,Sunrisers Hyderabad,1216518,2020-10-22,RV Uthappa,19,13,2.0,1.0,0,0,0,27.0,146.15384615384613,JO Holder,run out
+Rajasthan Royals,Sunrisers Hyderabad,1216518,2020-10-22,SPD Smith,19,15,2.0,0.0,0,0,0,25.0,126.66666666666666,JO Holder,caught
+Rajasthan Royals,Sunrisers Hyderabad,1216518,2020-10-22,SV Samson,36,26,3.0,1.0,0,0,0,45.0,138.46153846153845,JO Holder,bowled
+Sunrisers Hyderabad,Rajasthan Royals,1216518,2020-10-22,DA Warner,4,4,1.0,0.0,0,0,0,9.0,100.0,JC Archer,caught
+Sunrisers Hyderabad,Rajasthan Royals,1216518,2020-10-22,JM Bairstow,10,8,1.0,1.0,0,0,0,17.0,125.0,JC Archer,bowled
+Sunrisers Hyderabad,Rajasthan Royals,1216518,2020-10-22,MK Pandey,83,49,4.0,8.0,1,0,0,115.0,169.3877551020408,0,0
+Sunrisers Hyderabad,Rajasthan Royals,1216518,2020-10-22,V Shankar,52,53,6.0,0.0,1,0,0,70.0,98.1132075471698,0,0

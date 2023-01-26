@@ -1,0 +1,11 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Kolkata Knight Riders,392231,2009-05-18,GJ Bailey,30,28,4.0,0.0,0,0,0,38.0,107.14285714285714,DJ Hussey,run out
+Chennai Super Kings,Kolkata Knight Riders,392231,2009-05-18,JA Morkel,21,11,1.0,2.0,0,0,0,30.0,190.9090909090909,0,0
+Chennai Super Kings,Kolkata Knight Riders,392231,2009-05-18,MS Dhoni,40,30,4.0,1.0,0,0,0,50.0,133.33333333333331,0,0
+Chennai Super Kings,Kolkata Knight Riders,392231,2009-05-18,PA Patel,25,22,4.0,0.0,0,0,0,33.0,113.63636363636364,M Kartik,run out
+Chennai Super Kings,Kolkata Knight Riders,392231,2009-05-18,SK Raina,52,38,3.0,3.0,1,0,0,73.0,136.8421052631579,AB Dinda,caught
+Kolkata Knight Riders,Chennai Super Kings,392231,2009-05-18,BB McCullum,81,48,11.0,3.0,1,0,0,110.0,168.75,SB Jakati,bowled
+Kolkata Knight Riders,Chennai Super Kings,392231,2009-05-18,BJ Hodge,71,44,4.0,4.0,1,0,0,95.0,161.36363636363637,0,0
+Kolkata Knight Riders,Chennai Super Kings,392231,2009-05-18,DJ Hussey,3,2,0.0,0.0,0,0,0,7.0,150.0,M Muralitharan,run out
+Kolkata Knight Riders,Chennai Super Kings,392231,2009-05-18,SC Ganguly,4,14,0.0,0.0,0,0,0,8.0,28.57142857142857,M Muralitharan,bowled
+Kolkata Knight Riders,Chennai Super Kings,392231,2009-05-18,WP Saha,25,13,2.0,1.0,0,0,0,33.0,192.30769230769232,0,0

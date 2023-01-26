@@ -1,0 +1,20 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Rajasthan Royals,548317,2012-04-11,AT Rayudu,47,32,1.0,3.0,0,0,0,58.0,146.875,0,0
+Mumbai Indians,Rajasthan Royals,548317,2012-04-11,Harbhajan Singh,18,6,1.0,2.0,0,0,0,27.0,300.0,0,0
+Mumbai Indians,Rajasthan Royals,548317,2012-04-11,JEC Franklin,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,A Singh,caught
+Mumbai Indians,Rajasthan Royals,548317,2012-04-11,KA Pollard,64,33,6.0,4.0,1,0,0,90.0,193.939393939394,AA Chavan,caught
+Mumbai Indians,Rajasthan Royals,548317,2012-04-11,KD Karthik,0,1,0.0,0.0,0,0,1,2.0,0.0,KK Cooper,caught
+Mumbai Indians,Rajasthan Royals,548317,2012-04-11,RE Levi,29,22,4.0,1.0,0,0,0,39.0,131.8181818181818,GB Hogg,bowled
+Mumbai Indians,Rajasthan Royals,548317,2012-04-11,RG Sharma,21,13,2.0,1.0,0,0,0,29.0,161.53846153846155,GB Hogg,bowled
+Mumbai Indians,Rajasthan Royals,548317,2012-04-11,TL Suman,10,10,0.0,1.0,0,0,0,16.0,100.0,A Singh,caught
+Rajasthan Royals,Mumbai Indians,548317,2012-04-11,A Singh,0,3,0.0,0.0,0,0,1,2.0,0.0,KA Pollard,bowled
+Rajasthan Royals,Mumbai Indians,548317,2012-04-11,AA Chavan,4,2,1.0,0.0,0,0,0,9.0,200.0,KA Pollard,caught
+Rajasthan Royals,Mumbai Indians,548317,2012-04-11,AL Menaria,20,16,2.0,1.0,0,0,0,28.0,125.0,KA Pollard,caught
+Rajasthan Royals,Mumbai Indians,548317,2012-04-11,AM Rahane,40,31,4.0,2.0,0,0,0,52.0,129.03225806451613,KA Pollard,caught
+Rajasthan Royals,Mumbai Indians,548317,2012-04-11,GB Hogg,2,5,0.0,0.0,0,0,0,6.0,40.0,MM Patel,caught
+Rajasthan Royals,Mumbai Indians,548317,2012-04-11,J Botha,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,SL Malinga,caught
+Rajasthan Royals,Mumbai Indians,548317,2012-04-11,KK Cooper,14,6,0.0,2.0,0,0,0,22.0,233.3333333333333,MM Patel,bowled
+Rajasthan Royals,Mumbai Indians,548317,2012-04-11,OA Shah,76,43,5.0,5.0,1,0,0,103.0,176.74418604651163,SL Malinga,bowled
+Rajasthan Royals,Mumbai Indians,548317,2012-04-11,R Dravid,3,5,0.0,0.0,0,0,0,7.0,60.0,MM Patel,caught
+Rajasthan Royals,Mumbai Indians,548317,2012-04-11,SK Trivedi,5,6,0.0,0.0,0,0,0,9.0,83.33333333333334,0,0
+Rajasthan Royals,Mumbai Indians,548317,2012-04-11,SP Goswami,0,1,0.0,0.0,0,0,1,2.0,0.0,MM Patel,caught

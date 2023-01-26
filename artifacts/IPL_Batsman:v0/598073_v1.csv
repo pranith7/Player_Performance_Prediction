@@ -1,0 +1,23 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Mumbai Indians,598073,2013-05-26,CH Morris,0,1,0.0,0.0,0,0,1,2.0,0.0,Harbhajan Singh,caught
+Chennai Super Kings,Mumbai Indians,598073,2013-05-26,DJ Bravo,15,18,3.0,0.0,0,0,0,22.0,83.33333333333334,R Dhawan,caught
+Chennai Super Kings,Mumbai Indians,598073,2013-05-26,JA Morkel,10,10,0.0,1.0,0,0,0,16.0,100.0,PP Ojha,bowled
+Chennai Super Kings,Mumbai Indians,598073,2013-05-26,M Vijay,18,20,2.0,0.0,0,0,0,24.0,90.0,MG Johnson,caught
+Chennai Super Kings,Mumbai Indians,598073,2013-05-26,MEK Hussey,1,2,0.0,0.0,0,0,0,5.0,50.0,SL Malinga,bowled
+Chennai Super Kings,Mumbai Indians,598073,2013-05-26,MM Sharma,0,2,0.0,0.0,0,0,1,2.0,0.0,0,0
+Chennai Super Kings,Mumbai Indians,598073,2013-05-26,MS Dhoni,63,49,3.0,5.0,1,0,0,88.0,128.57142857142858,0,0
+Chennai Super Kings,Mumbai Indians,598073,2013-05-26,R Ashwin,9,19,0.0,0.0,0,0,0,13.0,47.368421052631575,KA Pollard,caught
+Chennai Super Kings,Mumbai Indians,598073,2013-05-26,RA Jadeja,0,2,0.0,0.0,0,0,1,2.0,0.0,Harbhajan Singh,caught
+Chennai Super Kings,Mumbai Indians,598073,2013-05-26,S Badrinath,0,3,0.0,0.0,0,0,1,2.0,0.0,MG Johnson,caught
+Chennai Super Kings,Mumbai Indians,598073,2013-05-26,SK Raina,0,1,0.0,0.0,0,0,1,2.0,0.0,SL Malinga,caught
+Mumbai Indians,Chennai Super Kings,598073,2013-05-26,AP Tare,0,1,0.0,0.0,0,0,1,2.0,0.0,JA Morkel,bowled
+Mumbai Indians,Chennai Super Kings,598073,2013-05-26,AT Rayudu,37,37,4.0,0.0,0,0,0,45.0,100.0,DJ Bravo,bowled
+Mumbai Indians,Chennai Super Kings,598073,2013-05-26,DR Smith,4,4,1.0,0.0,0,0,0,9.0,100.0,MM Sharma,lbw
+Mumbai Indians,Chennai Super Kings,598073,2013-05-26,Harbhajan Singh,14,9,3.0,0.0,0,0,0,21.0,155.55555555555557,DJ Bravo,caught
+Mumbai Indians,Chennai Super Kings,598073,2013-05-26,KA Pollard,60,32,7.0,3.0,1,0,0,85.0,187.5,0,0
+Mumbai Indians,Chennai Super Kings,598073,2013-05-26,KD Karthik,21,27,3.0,0.0,0,0,0,28.0,77.77777777777779,CH Morris,bowled
+Mumbai Indians,Chennai Super Kings,598073,2013-05-26,MG Johnson,1,2,0.0,0.0,0,0,0,5.0,50.0,DJ Bravo,caught
+Mumbai Indians,Chennai Super Kings,598073,2013-05-26,PP Ojha,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Mumbai Indians,Chennai Super Kings,598073,2013-05-26,R Dhawan,3,3,0.0,0.0,0,0,0,7.0,100.0,CH Morris,run out
+Mumbai Indians,Chennai Super Kings,598073,2013-05-26,RG Sharma,2,5,0.0,0.0,0,0,0,6.0,40.0,JA Morkel,caught and bowled
+Mumbai Indians,Chennai Super Kings,598073,2013-05-26,SL Malinga,0,2,0.0,0.0,0,0,1,2.0,0.0,DJ Bravo,caught

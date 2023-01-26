@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Sunrisers Hyderabad,1082600,2017-04-12,HH Pandya,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,0,0
+Mumbai Indians,Sunrisers Hyderabad,1082600,2017-04-12,Harbhajan Singh,3,3,0.0,0.0,0,0,0,7.0,100.0,0,0
+Mumbai Indians,Sunrisers Hyderabad,1082600,2017-04-12,JC Buttler,14,11,3.0,0.0,0,0,0,21.0,127.27272727272728,A Nehra,bowled
+Mumbai Indians,Sunrisers Hyderabad,1082600,2017-04-12,KA Pollard,11,11,0.0,1.0,0,0,0,17.0,100.0,B Kumar,caught
+Mumbai Indians,Sunrisers Hyderabad,1082600,2017-04-12,KH Pandya,37,20,3.0,3.0,0,0,0,50.0,185.0,B Kumar,caught
+Mumbai Indians,Sunrisers Hyderabad,1082600,2017-04-12,N Rana,45,37,3.0,2.0,0,0,0,56.0,121.62162162162164,B Kumar,bowled
+Mumbai Indians,Sunrisers Hyderabad,1082600,2017-04-12,PA Patel,39,24,7.0,0.0,0,0,0,50.0,162.5,DJ Hooda,caught
+Mumbai Indians,Sunrisers Hyderabad,1082600,2017-04-12,RG Sharma,4,4,0.0,0.0,0,0,0,8.0,100.0,Rashid Khan,lbw
+Sunrisers Hyderabad,Mumbai Indians,1082600,2017-04-12,B Kumar,4,3,0.0,0.0,0,0,0,8.0,133.33333333333331,0,0
+Sunrisers Hyderabad,Mumbai Indians,1082600,2017-04-12,BCJ Cutting,20,11,4.0,0.0,0,0,0,28.0,181.8181818181818,JJ Bumrah,bowled
+Sunrisers Hyderabad,Mumbai Indians,1082600,2017-04-12,DA Warner,49,34,7.0,2.0,0,0,0,64.0,144.11764705882354,Harbhajan Singh,caught
+Sunrisers Hyderabad,Mumbai Indians,1082600,2017-04-12,DJ Hooda,9,10,1.0,0.0,0,0,0,14.0,90.0,Harbhajan Singh,caught
+Sunrisers Hyderabad,Mumbai Indians,1082600,2017-04-12,NV Ojha,9,10,0.0,0.0,0,0,0,13.0,90.0,JJ Bumrah,caught
+Sunrisers Hyderabad,Mumbai Indians,1082600,2017-04-12,Rashid Khan,2,4,0.0,0.0,0,0,0,6.0,50.0,JJ Bumrah,caught and bowled
+Sunrisers Hyderabad,Mumbai Indians,1082600,2017-04-12,S Dhawan,48,44,5.0,1.0,0,0,0,59.0,109.09090909090908,MJ McClenaghan,bowled
+Sunrisers Hyderabad,Mumbai Indians,1082600,2017-04-12,V Shankar,1,2,0.0,0.0,0,0,0,5.0,50.0,SL Malinga,caught
+Sunrisers Hyderabad,Mumbai Indians,1082600,2017-04-12,Yuvraj Singh,5,8,1.0,0.0,0,0,0,10.0,62.5,HH Pandya,bowled

@@ -1,0 +1,11 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Rajasthan Royals,829735,2015-04-19,BB McCullum,12,7,3.0,0.0,0,0,0,19.0,171.42857142857142,PV Tambe,caught
+Chennai Super Kings,Rajasthan Royals,829735,2015-04-19,DJ Bravo,62,38,8.0,1.0,1,0,0,84.0,163.1578947368421,0,0
+Chennai Super Kings,Rajasthan Royals,829735,2015-04-19,DR Smith,40,29,3.0,2.0,0,0,0,51.0,137.93103448275863,JP Faulkner,bowled
+Chennai Super Kings,Rajasthan Royals,829735,2015-04-19,F du Plessis,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,Ankit Sharma,caught
+Chennai Super Kings,Rajasthan Royals,829735,2015-04-19,MS Dhoni,31,38,4.0,0.0,0,0,0,39.0,81.57894736842105,0,0
+Chennai Super Kings,Rajasthan Royals,829735,2015-04-19,SK Raina,4,8,0.0,0.0,0,0,0,8.0,50.0,CH Morris,caught
+Rajasthan Royals,Chennai Super Kings,829735,2015-04-19,AM Rahane,76,55,6.0,2.0,1,0,0,98.0,138.1818181818182,0,0
+Rajasthan Royals,Chennai Super Kings,829735,2015-04-19,KK Nair,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Rajasthan Royals,Chennai Super Kings,829735,2015-04-19,SPD Smith,6,7,0.0,0.0,0,0,0,10.0,85.71428571428571,DJ Bravo,caught and bowled
+Rajasthan Royals,Chennai Super Kings,829735,2015-04-19,SR Watson,73,48,6.0,4.0,1,0,0,99.0,152.08333333333331,RA Jadeja,bowled

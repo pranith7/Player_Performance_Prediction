@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Pune Warriors,548322,2012-04-14,DJ Bravo,5,2,1.0,0.0,0,0,0,10.0,250.0,0,0
+Chennai Super Kings,Pune Warriors,548322,2012-04-14,F du Plessis,43,34,5.0,2.0,0,0,0,56.0,126.47058823529412,R Sharma,stumped
+Chennai Super Kings,Pune Warriors,548322,2012-04-14,JA Morkel,3,3,0.0,0.0,0,0,0,7.0,100.0,0,0
+Chennai Super Kings,Pune Warriors,548322,2012-04-14,M Vijay,8,11,0.0,0.0,0,0,0,12.0,72.72727272727273,AD Mathews,caught
+Chennai Super Kings,Pune Warriors,548322,2012-04-14,MS Dhoni,26,28,1.0,0.0,0,0,0,31.0,92.85714285714286,AB Dinda,caught
+Chennai Super Kings,Pune Warriors,548322,2012-04-14,RA Jadeja,44,27,4.0,2.0,0,0,0,56.0,162.96296296296296,A Nehra,caught
+Chennai Super Kings,Pune Warriors,548322,2012-04-14,SK Raina,20,19,2.0,0.0,0,0,0,26.0,105.26315789473684,R Sharma,caught
+Pune Warriors,Chennai Super Kings,548322,2012-04-14,JD Ryder,73,56,7.0,1.0,1,0,0,94.0,130.35714285714286,0,0
+Pune Warriors,Chennai Super Kings,548322,2012-04-14,MN Samuels,8,15,0.0,0.0,0,0,0,12.0,53.333333333333336,VY Mahesh,bowled
+Pune Warriors,Chennai Super Kings,548322,2012-04-14,RV Uthappa,10,8,0.0,1.0,0,0,0,16.0,125.0,KMDN Kulasekara,run out
+Pune Warriors,Chennai Super Kings,548322,2012-04-14,SC Ganguly,16,17,1.0,0.0,0,0,0,21.0,94.11764705882352,R Ashwin,run out
+Pune Warriors,Chennai Super Kings,548322,2012-04-14,SPD Smith,44,23,4.0,3.0,0,0,0,58.0,191.30434782608697,0,0

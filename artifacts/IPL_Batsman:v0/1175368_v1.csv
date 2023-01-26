@@ -1,0 +1,22 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Capitals,Kings XI Punjab,1175368,2019-04-01,Avesh Khan,4,3,1.0,0.0,0,0,0,9.0,133.33333333333331,0,0
+Delhi Capitals,Kings XI Punjab,1175368,2019-04-01,CA Ingram,38,29,4.0,1.0,0,0,0,48.0,131.0344827586207,SM Curran,caught
+Delhi Capitals,Kings XI Punjab,1175368,2019-04-01,CH Morris,0,1,0.0,0.0,0,0,1,2.0,0.0,Mohammed Shami,run out
+Delhi Capitals,Kings XI Punjab,1175368,2019-04-01,GH Vihari,2,5,0.0,0.0,0,0,0,6.0,40.0,Mohammed Shami,bowled
+Delhi Capitals,Kings XI Punjab,1175368,2019-04-01,HV Patel,0,3,0.0,0.0,0,0,1,2.0,0.0,SM Curran,caught
+Delhi Capitals,Kings XI Punjab,1175368,2019-04-01,K Rabada,0,1,0.0,0.0,0,0,1,2.0,0.0,SM Curran,bowled
+Delhi Capitals,Kings XI Punjab,1175368,2019-04-01,PP Shaw,0,1,0.0,0.0,0,0,1,2.0,0.0,R Ashwin,caught
+Delhi Capitals,Kings XI Punjab,1175368,2019-04-01,RR Pant,39,26,3.0,2.0,0,0,0,50.0,150.0,Mohammed Shami,bowled
+Delhi Capitals,Kings XI Punjab,1175368,2019-04-01,S Dhawan,30,27,4.0,0.0,0,0,0,38.0,111.11111111111111,R Ashwin,lbw
+Delhi Capitals,Kings XI Punjab,1175368,2019-04-01,S Lamichhane,0,1,0.0,0.0,0,0,1,2.0,0.0,SM Curran,bowled
+Delhi Capitals,Kings XI Punjab,1175368,2019-04-01,SS Iyer,28,24,5.0,0.0,0,0,0,37.0,116.66666666666669,GC Viljoen,bowled
+Kings XI Punjab,Delhi Capitals,1175368,2019-04-01,DA Miller,43,33,4.0,2.0,0,0,0,55.0,130.3030303030303,CH Morris,caught
+Kings XI Punjab,Delhi Capitals,1175368,2019-04-01,GC Viljoen,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,K Rabada,caught
+Kings XI Punjab,Delhi Capitals,1175368,2019-04-01,KL Rahul,15,11,2.0,1.0,0,0,0,23.0,136.36363636363637,CH Morris,lbw
+Kings XI Punjab,Delhi Capitals,1175368,2019-04-01,M Ashwin,1,2,0.0,0.0,0,0,0,5.0,50.0,K Rabada,caught
+Kings XI Punjab,Delhi Capitals,1175368,2019-04-01,MA Agarwal,6,9,0.0,0.0,0,0,0,10.0,66.66666666666666,HV Patel,run out
+Kings XI Punjab,Delhi Capitals,1175368,2019-04-01,Mandeep Singh,29,22,2.0,1.0,0,0,0,37.0,131.8181818181818,0,0
+Kings XI Punjab,Delhi Capitals,1175368,2019-04-01,Mohammed Shami,0,1,0.0,0.0,0,0,1,2.0,0.0,K Rabada,run out
+Kings XI Punjab,Delhi Capitals,1175368,2019-04-01,R Ashwin,3,4,0.0,0.0,0,0,0,7.0,75.0,CH Morris,bowled
+Kings XI Punjab,Delhi Capitals,1175368,2019-04-01,SM Curran,20,10,3.0,1.0,0,0,0,29.0,200.0,S Lamichhane,lbw
+Kings XI Punjab,Delhi Capitals,1175368,2019-04-01,SN Khan,39,29,6.0,0.0,0,0,0,49.0,134.48275862068965,S Lamichhane,caught

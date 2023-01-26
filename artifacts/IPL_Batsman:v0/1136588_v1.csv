@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Rajasthan Royals,Sunrisers Hyderabad,1136588,2018-04-29,AM Rahane,65,53,5.0,1.0,1,0,0,84.0,122.64150943396226,0,0
+Rajasthan Royals,Sunrisers Hyderabad,1136588,2018-04-29,BA Stokes,0,3,0.0,0.0,0,0,1,2.0,0.0,YK Pathan,bowled
+Rajasthan Royals,Sunrisers Hyderabad,1136588,2018-04-29,JC Archer,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Rajasthan Royals,Sunrisers Hyderabad,1136588,2018-04-29,JC Buttler,10,11,0.0,0.0,0,0,0,14.0,90.9090909090909,Rashid Khan,caught
+Rajasthan Royals,Sunrisers Hyderabad,1136588,2018-04-29,K Gowtham,8,5,1.0,0.0,0,0,0,13.0,160.0,Basil Thampi,caught
+Rajasthan Royals,Sunrisers Hyderabad,1136588,2018-04-29,MK Lomror,11,12,0.0,0.0,0,0,0,15.0,91.66666666666666,S Kaul,caught
+Rajasthan Royals,Sunrisers Hyderabad,1136588,2018-04-29,RA Tripathi,4,5,0.0,0.0,0,0,0,8.0,80.0,Sandeep Sharma,bowled
+Rajasthan Royals,Sunrisers Hyderabad,1136588,2018-04-29,SV Samson,40,30,3.0,1.0,0,0,0,49.0,133.33333333333331,S Kaul,caught
+Sunrisers Hyderabad,Rajasthan Royals,1136588,2018-04-29,AD Hales,45,39,4.0,0.0,0,0,0,53.0,115.38461538461536,K Gowtham,caught
+Sunrisers Hyderabad,Rajasthan Royals,1136588,2018-04-29,KS Williamson,63,43,7.0,2.0,1,0,0,86.0,146.51162790697674,IS Sodhi,caught
+Sunrisers Hyderabad,Rajasthan Royals,1136588,2018-04-29,MK Pandey,16,15,1.0,0.0,0,0,0,21.0,106.66666666666669,JD Unadkat,caught
+Sunrisers Hyderabad,Rajasthan Royals,1136588,2018-04-29,Rashid Khan,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,JC Archer,caught
+Sunrisers Hyderabad,Rajasthan Royals,1136588,2018-04-29,S Dhawan,6,4,1.0,0.0,0,0,0,11.0,150.0,K Gowtham,bowled
+Sunrisers Hyderabad,Rajasthan Royals,1136588,2018-04-29,Shakib Al Hasan,6,6,1.0,0.0,0,0,0,11.0,100.0,JC Archer,bowled
+Sunrisers Hyderabad,Rajasthan Royals,1136588,2018-04-29,WP Saha,11,7,1.0,0.0,0,0,0,16.0,157.14285714285714,0,0
+Sunrisers Hyderabad,Rajasthan Royals,1136588,2018-04-29,YK Pathan,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,JC Archer,caught

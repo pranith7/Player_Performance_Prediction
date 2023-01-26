@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Capitals,Royal Challengers Bangalore,1216505,2020-11-02,AM Rahane,60,46,5.0,1.0,1,0,0,79.0,130.43478260869566,Washington Sundar,caught
+Delhi Capitals,Royal Challengers Bangalore,1216505,2020-11-02,MP Stoinis,10,6,0.0,1.0,0,0,0,16.0,166.66666666666669,0,0
+Delhi Capitals,Royal Challengers Bangalore,1216505,2020-11-02,PP Shaw,9,6,2.0,0.0,0,0,0,15.0,150.0,Mohammed Siraj,bowled
+Delhi Capitals,Royal Challengers Bangalore,1216505,2020-11-02,RR Pant,8,8,1.0,0.0,0,0,0,13.0,100.0,0,0
+Delhi Capitals,Royal Challengers Bangalore,1216505,2020-11-02,S Dhawan,54,41,6.0,0.0,1,0,0,72.0,131.70731707317074,Shahbaz Ahmed,caught
+Delhi Capitals,Royal Challengers Bangalore,1216505,2020-11-02,SS Iyer,7,10,0.0,0.0,0,0,0,11.0,70.0,Shahbaz Ahmed,caught
+Royal Challengers Bangalore,Delhi Capitals,1216505,2020-11-02,AB de Villiers,35,21,1.0,2.0,0,0,0,44.0,166.66666666666669,A Nortje,run out
+Royal Challengers Bangalore,Delhi Capitals,1216505,2020-11-02,CH Morris,0,2,0.0,0.0,0,0,1,2.0,0.0,A Nortje,caught
+Royal Challengers Bangalore,Delhi Capitals,1216505,2020-11-02,D Padikkal,50,43,5.0,0.0,1,0,0,67.0,116.27906976744188,A Nortje,bowled
+Royal Challengers Bangalore,Delhi Capitals,1216505,2020-11-02,I Udana,4,2,1.0,0.0,0,0,0,9.0,200.0,A Nortje,caught
+Royal Challengers Bangalore,Delhi Capitals,1216505,2020-11-02,JR Philippe,12,18,1.0,0.0,0,0,0,17.0,66.66666666666666,K Rabada,caught
+Royal Challengers Bangalore,Delhi Capitals,1216505,2020-11-02,S Dube,17,11,2.0,1.0,0,0,0,25.0,154.54545454545453,K Rabada,caught
+Royal Challengers Bangalore,Delhi Capitals,1216505,2020-11-02,Shahbaz Ahmed,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Royal Challengers Bangalore,Delhi Capitals,1216505,2020-11-02,V Kohli,29,24,2.0,1.0,0,0,0,37.0,120.83333333333331,R Ashwin,caught
+Royal Challengers Bangalore,Delhi Capitals,1216505,2020-11-02,Washington Sundar,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0

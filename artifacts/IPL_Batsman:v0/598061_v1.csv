@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Pune Warriors,598061,2013-05-15,DB Das,8,6,1.0,0.0,0,0,0,13.0,133.33333333333331,0,0
+Kolkata Knight Riders,Pune Warriors,598061,2013-05-15,G Gambhir,12,18,1.0,0.0,0,0,0,17.0,66.66666666666666,IC Pandey,caught
+Kolkata Knight Riders,Pune Warriors,598061,2013-05-15,JH Kallis,1,7,0.0,0.0,0,0,0,5.0,14.285714285714285,WD Parnell,bowled
+Kolkata Knight Riders,Pune Warriors,598061,2013-05-15,MK Tiwary,0,2,0.0,0.0,0,0,1,2.0,0.0,B Kumar,caught
+Kolkata Knight Riders,Pune Warriors,598061,2013-05-15,MS Bisla,1,6,0.0,0.0,0,0,0,5.0,16.666666666666664,WD Parnell,lbw
+Kolkata Knight Riders,Pune Warriors,598061,2013-05-15,R Bhatia,10,9,1.0,0.0,0,0,0,15.0,111.11111111111111,AD Mathews,run out
+Kolkata Knight Riders,Pune Warriors,598061,2013-05-15,RN ten Doeschate,42,30,4.0,1.0,0,0,0,52.0,140.0,RV Gomez,run out
+Kolkata Knight Riders,Pune Warriors,598061,2013-05-15,SMSM Senanayake,2,1,0.0,0.0,0,0,0,6.0,200.0,0,0
+Kolkata Knight Riders,Pune Warriors,598061,2013-05-15,YK Pathan,72,44,8.0,3.0,1,0,0,98.0,163.63636363636363,WD Parnell,obstructing the field
+Pune Warriors,Kolkata Knight Riders,598061,2013-05-15,AJ Finch,48,32,2.0,3.0,0,0,0,60.0,150.0,L Balaji,bowled
+Pune Warriors,Kolkata Knight Riders,598061,2013-05-15,MK Pandey,66,48,8.0,1.0,1,0,0,88.0,137.5,JH Kallis,run out
+Pune Warriors,Kolkata Knight Riders,598061,2013-05-15,RV Uthappa,25,21,1.0,2.0,0,0,0,34.0,119.04761904761904,SMSM Senanayake,bowled
+Pune Warriors,Kolkata Knight Riders,598061,2013-05-15,Yuvraj Singh,30,20,0.0,3.0,0,0,0,40.0,150.0,JH Kallis,caught

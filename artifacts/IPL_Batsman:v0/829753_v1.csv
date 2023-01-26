@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Kings XI Punjab,829753,2015-04-25,BB McCullum,66,47,8.0,3.0,1,0,0,92.0,140.4255319148936,AR Patel,caught
+Chennai Super Kings,Kings XI Punjab,829753,2015-04-25,DR Smith,26,13,3.0,2.0,0,0,0,37.0,200.0,Anureet Singh,bowled
+Chennai Super Kings,Kings XI Punjab,829753,2015-04-25,MS Dhoni,41,28,2.0,2.0,0,0,0,51.0,146.42857142857142,0,0
+Chennai Super Kings,Kings XI Punjab,829753,2015-04-25,RA Jadeja,18,11,2.0,0.0,0,0,0,24.0,163.63636363636363,0,0
+Chennai Super Kings,Kings XI Punjab,829753,2015-04-25,SK Raina,29,27,4.0,0.0,0,0,0,37.0,107.40740740740742,Karanveer Singh,run out
+Kings XI Punjab,Chennai Super Kings,829753,2015-04-25,AR Patel,9,10,0.0,1.0,0,0,0,15.0,90.0,R Ashwin,stumped
+Kings XI Punjab,Chennai Super Kings,829753,2015-04-25,Anureet Singh,10,20,0.0,0.0,0,0,0,14.0,50.0,MM Sharma,caught
+Kings XI Punjab,Chennai Super Kings,829753,2015-04-25,DA Miller,3,9,0.0,0.0,0,0,0,7.0,33.33333333333333,RA Jadeja,caught
+Kings XI Punjab,Chennai Super Kings,829753,2015-04-25,GJ Bailey,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,RA Jadeja,caught
+Kings XI Punjab,Chennai Super Kings,829753,2015-04-25,Karanveer Singh,2,5,0.0,0.0,0,0,0,6.0,40.0,0,0
+Kings XI Punjab,Chennai Super Kings,829753,2015-04-25,M Vijay,34,33,4.0,1.0,0,0,0,44.0,103.03030303030305,R Ashwin,caught
+Kings XI Punjab,Chennai Super Kings,829753,2015-04-25,MG Johnson,1,2,0.0,0.0,0,0,0,5.0,50.0,RA Jadeja,caught
+Kings XI Punjab,Chennai Super Kings,829753,2015-04-25,SE Marsh,10,10,1.0,0.0,0,0,0,15.0,100.0,A Nehra,lbw
+Kings XI Punjab,Chennai Super Kings,829753,2015-04-25,Sandeep Sharma,1,4,0.0,0.0,0,0,0,5.0,25.0,0,0
+Kings XI Punjab,Chennai Super Kings,829753,2015-04-25,V Sehwag,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,IC Pandey,caught
+Kings XI Punjab,Chennai Super Kings,829753,2015-04-25,WP Saha,15,23,0.0,0.0,0,0,0,19.0,65.21739130434783,A Nehra,caught

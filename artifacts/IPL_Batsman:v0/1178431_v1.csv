@@ -1,0 +1,11 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Mumbai Indians,1178431,2019-05-05,AD Russell,0,2,0.0,0.0,0,0,1,2.0,0.0,SL Malinga,caught
+Kolkata Knight Riders,Mumbai Indians,1178431,2019-05-05,CA Lynn,41,29,2.0,4.0,0,0,0,55.0,141.3793103448276,HH Pandya,caught
+Kolkata Knight Riders,Mumbai Indians,1178431,2019-05-05,KD Karthik,3,10,0.0,0.0,0,0,0,7.0,30.0,SL Malinga,caught
+Kolkata Knight Riders,Mumbai Indians,1178431,2019-05-05,N Rana,26,13,0.0,3.0,0,0,0,36.0,200.0,SL Malinga,caught
+Kolkata Knight Riders,Mumbai Indians,1178431,2019-05-05,RK Singh,4,6,0.0,0.0,0,0,0,8.0,66.66666666666666,JJ Bumrah,caught
+Kolkata Knight Riders,Mumbai Indians,1178431,2019-05-05,RV Uthappa,40,52,1.0,3.0,0,0,0,51.0,76.92307692307693,JJ Bumrah,caught
+Kolkata Knight Riders,Mumbai Indians,1178431,2019-05-05,Shubman Gill,9,16,0.0,0.0,0,0,0,13.0,56.25,HH Pandya,lbw
+Mumbai Indians,Kolkata Knight Riders,1178431,2019-05-05,Q de Kock,30,23,1.0,3.0,0,0,0,41.0,130.43478260869566,M Prasidh Krishna,caught
+Mumbai Indians,Kolkata Knight Riders,1178431,2019-05-05,RG Sharma,55,49,8.0,0.0,1,0,0,75.0,112.24489795918366,0,0
+Mumbai Indians,Kolkata Knight Riders,1178431,2019-05-05,SA Yadav,46,28,5.0,2.0,0,0,0,59.0,164.28571428571428,0,0

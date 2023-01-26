@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Royal Challengers Bangalore,1254087,2021-09-20,Shubman Gill,48,37,6.0,1.0,0,0,0,60.0,129.72972972972974,YS Chahal,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,1254087,2021-09-20,VR Iyer,41,28,7.0,1.0,0,0,0,54.0,146.42857142857142,0,0
+Royal Challengers Bangalore,Kolkata Knight Riders,1254087,2021-09-20,AB de Villiers,0,1,0.0,0.0,0,0,1,2.0,0.0,AD Russell,bowled
+Royal Challengers Bangalore,Kolkata Knight Riders,1254087,2021-09-20,D Padikkal,22,20,3.0,0.0,0,0,0,29.0,110.0,LH Ferguson,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,1254087,2021-09-20,GJ Maxwell,10,17,0.0,0.0,0,0,0,14.0,58.82352941176471,CV Varun,bowled
+Royal Challengers Bangalore,Kolkata Knight Riders,1254087,2021-09-20,HV Patel,12,10,2.0,0.0,0,0,0,18.0,120.0,LH Ferguson,bowled
+Royal Challengers Bangalore,Kolkata Knight Riders,1254087,2021-09-20,KA Jamieson,4,12,0.0,0.0,0,0,0,8.0,33.33333333333333,CV Varun,run out
+Royal Challengers Bangalore,Kolkata Knight Riders,1254087,2021-09-20,KS Bharat,16,19,1.0,0.0,0,0,0,21.0,84.21052631578947,AD Russell,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,1254087,2021-09-20,Mohammed Siraj,8,10,1.0,0.0,0,0,0,13.0,80.0,AD Russell,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,1254087,2021-09-20,PWH de Silva,0,1,0.0,0.0,0,0,1,2.0,0.0,CV Varun,lbw
+Royal Challengers Bangalore,Kolkata Knight Riders,1254087,2021-09-20,Sachin Baby,7,17,0.0,0.0,0,0,0,11.0,41.17647058823529,CV Varun,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,1254087,2021-09-20,V Kohli,5,5,1.0,0.0,0,0,0,10.0,100.0,M Prasidh Krishna,lbw
+Royal Challengers Bangalore,Kolkata Knight Riders,1254087,2021-09-20,YS Chahal,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,0,0

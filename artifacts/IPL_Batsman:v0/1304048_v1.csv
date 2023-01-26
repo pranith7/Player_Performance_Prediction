@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Capitals,Mumbai Indians,1304048,2022-03-27,AR Patel,38,17,2.0,3.0,0,0,0,50.0,223.52941176470588,0,0
+Delhi Capitals,Mumbai Indians,1304048,2022-03-27,Lalit Yadav,48,42,4.0,2.0,0,0,0,60.0,114.28571428571428,0,0
+Delhi Capitals,Mumbai Indians,1304048,2022-03-27,Mandeep Singh,0,2,0.0,0.0,0,0,1,2.0,0.0,M Ashwin,caught
+Delhi Capitals,Mumbai Indians,1304048,2022-03-27,PP Shaw,38,24,4.0,2.0,0,0,0,50.0,158.33333333333331,Basil Thampi,caught
+Delhi Capitals,Mumbai Indians,1304048,2022-03-27,R Powell,0,2,0.0,0.0,0,0,1,2.0,0.0,Basil Thampi,caught
+Delhi Capitals,Mumbai Indians,1304048,2022-03-27,RR Pant,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,TS Mills,caught
+Delhi Capitals,Mumbai Indians,1304048,2022-03-27,SN Thakur,22,11,4.0,0.0,0,0,0,30.0,200.0,Basil Thampi,caught
+Delhi Capitals,Mumbai Indians,1304048,2022-03-27,TL Seifert,21,16,4.0,0.0,0,0,0,29.0,131.25,M Ashwin,bowled
+Mumbai Indians,Delhi Capitals,1304048,2022-03-27,Anmolpreet Singh,8,9,0.0,0.0,0,0,0,12.0,88.88888888888889,Kuldeep Yadav,caught
+Mumbai Indians,Delhi Capitals,1304048,2022-03-27,DR Sams,7,3,0.0,1.0,0,0,0,13.0,233.3333333333333,0,0
+Mumbai Indians,Delhi Capitals,1304048,2022-03-27,Ishan Kishan,81,48,11.0,2.0,1,0,0,108.0,168.75,0,0
+Mumbai Indians,Delhi Capitals,1304048,2022-03-27,KA Pollard,3,6,0.0,0.0,0,0,0,7.0,50.0,Kuldeep Yadav,caught
+Mumbai Indians,Delhi Capitals,1304048,2022-03-27,RG Sharma,41,33,4.0,2.0,0,0,0,53.0,124.24242424242424,Kuldeep Yadav,caught
+Mumbai Indians,Delhi Capitals,1304048,2022-03-27,TH David,12,8,0.0,1.0,0,0,0,18.0,150.0,KK Ahmed,caught
+Mumbai Indians,Delhi Capitals,1304048,2022-03-27,Tilak Varma,22,15,3.0,0.0,0,0,0,29.0,146.66666666666666,KK Ahmed,caught

@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Mumbai Indians,501224,2011-04-24,A Mishra,25,19,4.0,0.0,0,0,0,33.0,131.57894736842107,0,0
+Deccan Chargers,Mumbai Indians,501224,2011-04-24,B Chipli,6,9,1.0,0.0,0,0,0,11.0,66.66666666666666,KA Pollard,caught
+Deccan Chargers,Mumbai Indians,501224,2011-04-24,CL White,1,7,0.0,0.0,0,0,0,5.0,14.285714285714285,KA Pollard,run out
+Deccan Chargers,Mumbai Indians,501224,2011-04-24,DB Ravi Teja,1,4,0.0,0.0,0,0,0,5.0,25.0,SL Malinga,caught and bowled
+Deccan Chargers,Mumbai Indians,501224,2011-04-24,DT Christian,21,18,1.0,1.0,0,0,0,28.0,116.66666666666669,MM Patel,stumped
+Deccan Chargers,Mumbai Indians,501224,2011-04-24,DW Steyn,4,10,0.0,0.0,0,0,0,8.0,40.0,AN Ahmed,run out
+Deccan Chargers,Mumbai Indians,501224,2011-04-24,I Sharma,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Deccan Chargers,Mumbai Indians,501224,2011-04-24,KC Sangakkara,34,29,3.0,0.0,0,0,0,41.0,117.2413793103448,SL Malinga,bowled
+Deccan Chargers,Mumbai Indians,501224,2011-04-24,S Dhawan,25,22,5.0,0.0,0,0,0,34.0,113.63636363636364,SL Malinga,bowled
+Deccan Chargers,Mumbai Indians,501224,2011-04-24,S Sohal,5,3,0.0,0.0,0,0,0,9.0,166.66666666666669,Harbhajan Singh,run out
+Mumbai Indians,Deccan Chargers,501224,2011-04-24,A Symonds,44,33,4.0,1.0,0,0,0,54.0,133.33333333333331,0,0
+Mumbai Indians,Deccan Chargers,501224,2011-04-24,AT Rayudu,7,8,0.0,0.0,0,0,0,11.0,87.5,A Mishra,caught
+Mumbai Indians,Deccan Chargers,501224,2011-04-24,DJ Jacobs,32,20,5.0,1.0,0,0,0,43.0,160.0,I Sharma,caught
+Mumbai Indians,Deccan Chargers,501224,2011-04-24,KA Pollard,0,1,0.0,0.0,0,0,1,2.0,0.0,PP Ojha,caught
+Mumbai Indians,Deccan Chargers,501224,2011-04-24,RG Sharma,56,34,5.0,3.0,1,0,0,79.0,164.70588235294116,0,0
+Mumbai Indians,Deccan Chargers,501224,2011-04-24,SR Tendulkar,28,26,4.0,0.0,0,0,0,36.0,107.6923076923077,A Mishra,caught

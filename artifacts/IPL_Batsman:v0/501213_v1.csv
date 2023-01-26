@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Pune Warriors,501213,2011-04-17,AJ Finch,25,14,1.0,2.0,0,0,0,34.0,178.57142857142858,Yuvraj Singh,caught and bowled
+Delhi Daredevils,Pune Warriors,501213,2011-04-17,DA Warner,46,28,6.0,2.0,0,0,0,60.0,164.28571428571428,R Sharma,run out
+Delhi Daredevils,Pune Warriors,501213,2011-04-17,IK Pathan,14,16,1.0,0.0,0,0,0,19.0,87.5,Yuvraj Singh,caught
+Delhi Daredevils,Pune Warriors,501213,2011-04-17,JR Hopes,13,4,1.0,1.0,0,0,0,20.0,325.0,0,0
+Delhi Daredevils,Pune Warriors,501213,2011-04-17,MS Wade,3,4,0.0,0.0,0,0,0,7.0,75.0,R Sharma,lbw
+Delhi Daredevils,Pune Warriors,501213,2011-04-17,NV Ojha,11,10,0.0,1.0,0,0,0,17.0,110.0,Yuvraj Singh,stumped
+Delhi Daredevils,Pune Warriors,501213,2011-04-17,V Sehwag,37,25,6.0,0.0,0,0,0,47.0,148.0,JD Ryder,bowled
+Delhi Daredevils,Pune Warriors,501213,2011-04-17,Y Venugopal Rao,31,20,1.0,3.0,0,0,0,42.0,155.0,Yuvraj Singh,caught
+Pune Warriors,Delhi Daredevils,501213,2011-04-17,GC Smith,12,14,2.0,0.0,0,0,0,18.0,85.71428571428571,AB Dinda,caught
+Pune Warriors,Delhi Daredevils,501213,2011-04-17,JD Ryder,60,27,5.0,5.0,1,0,0,87.0,222.22222222222223,S Nadeem,caught
+Pune Warriors,Delhi Daredevils,501213,2011-04-17,M Manhas,20,20,1.0,1.0,0,0,0,27.0,100.0,JR Hopes,caught
+Pune Warriors,Delhi Daredevils,501213,2011-04-17,MD Mishra,7,11,0.0,0.0,0,0,0,11.0,63.63636363636363,AB Dinda,caught
+Pune Warriors,Delhi Daredevils,501213,2011-04-17,RV Uthappa,4,10,0.0,0.0,0,0,0,8.0,40.0,S Nadeem,caught
+Pune Warriors,Delhi Daredevils,501213,2011-04-17,WD Parnell,10,10,1.0,0.0,0,0,0,15.0,100.0,0,0
+Pune Warriors,Delhi Daredevils,501213,2011-04-17,Yuvraj Singh,66,34,4.0,5.0,1,0,0,92.0,194.1176470588236,0,0

@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Rajasthan Royals,419129,2010-03-28,JA Morkel,28,12,1.0,3.0,0,0,0,39.0,233.3333333333333,SW Tait,caught
+Chennai Super Kings,Rajasthan Royals,419129,2010-03-28,KB Arun Karthik,3,5,0.0,0.0,0,0,0,7.0,60.0,0,0
+Chennai Super Kings,Rajasthan Royals,419129,2010-03-28,M Vijay,42,28,4.0,2.0,0,0,0,54.0,150.0,SK Trivedi,run out
+Chennai Super Kings,Rajasthan Royals,419129,2010-03-28,ML Hayden,19,14,1.0,1.0,0,0,0,26.0,135.71428571428572,YK Pathan,caught and bowled
+Chennai Super Kings,Rajasthan Royals,419129,2010-03-28,MS Dhoni,21,21,2.0,0.0,0,0,0,27.0,100.0,YK Pathan,run out
+Chennai Super Kings,Rajasthan Royals,419129,2010-03-28,S Badrinath,25,27,2.0,0.0,0,0,0,31.0,92.5925925925926,SW Tait,caught
+Chennai Super Kings,Rajasthan Royals,419129,2010-03-28,SK Raina,14,13,1.0,0.0,0,0,0,19.0,107.6923076923077,SK Warne,bowled
+Chennai Super Kings,Rajasthan Royals,419129,2010-03-28,T Thushara,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,0,0
+Rajasthan Royals,Chennai Super Kings,419129,2010-03-28,AA Jhunjhunwala,11,6,2.0,0.0,0,0,0,17.0,183.3333333333333,T Thushara,caught
+Rajasthan Royals,Chennai Super Kings,419129,2010-03-28,AC Voges,20,19,1.0,0.0,0,0,0,25.0,105.26315789473684,JA Morkel,caught
+Rajasthan Royals,Chennai Super Kings,419129,2010-03-28,FY Fazal,17,18,1.0,0.0,0,0,0,22.0,94.44444444444444,SB Jakati,caught
+Rajasthan Royals,Chennai Super Kings,419129,2010-03-28,MJ Lumb,30,17,3.0,2.0,0,0,0,41.0,176.47058823529412,JA Morkel,caught
+Rajasthan Royals,Chennai Super Kings,419129,2010-03-28,NV Ojha,80,50,6.0,5.0,1,0,0,108.0,160.0,T Thushara,caught
+Rajasthan Royals,Chennai Super Kings,419129,2010-03-28,P Dogra,5,3,1.0,0.0,0,0,0,10.0,166.66666666666669,T Thushara,run out
+Rajasthan Royals,Chennai Super Kings,419129,2010-03-28,S Narwal,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Rajasthan Royals,Chennai Super Kings,419129,2010-03-28,SW Tait,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Rajasthan Royals,Chennai Super Kings,419129,2010-03-28,YK Pathan,8,6,1.0,0.0,0,0,0,13.0,133.33333333333331,SB Jakati,caught

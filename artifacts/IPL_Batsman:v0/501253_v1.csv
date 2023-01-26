@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Delhi Daredevils,501253,2011-05-12,M Vijay,35,33,2.0,2.0,0,0,0,45.0,106.06060606060606,AB Agarkar,caught
+Chennai Super Kings,Delhi Daredevils,501253,2011-05-12,MEK Hussey,5,4,1.0,0.0,0,0,0,10.0,125.0,IK Pathan,lbw
+Chennai Super Kings,Delhi Daredevils,501253,2011-05-12,MS Dhoni,63,31,5.0,4.0,1,0,0,88.0,203.2258064516129,0,0
+Chennai Super Kings,Delhi Daredevils,501253,2011-05-12,S Badrinath,55,44,6.0,1.0,1,0,0,75.0,125.0,IK Pathan,run out
+Chennai Super Kings,Delhi Daredevils,501253,2011-05-12,SK Raina,14,10,1.0,1.0,0,0,0,21.0,140.0,VR Aaron,caught
+Delhi Daredevils,Chennai Super Kings,501253,2011-05-12,AB McDonald,8,7,0.0,0.0,0,0,0,12.0,114.28571428571428,DE Bollinger,caught
+Delhi Daredevils,Chennai Super Kings,501253,2011-05-12,CA Ingram,7,12,1.0,0.0,0,0,0,12.0,58.333333333333336,R Ashwin,caught
+Delhi Daredevils,Chennai Super Kings,501253,2011-05-12,DA Warner,21,25,2.0,0.0,0,0,0,27.0,84.0,DJ Bravo,caught
+Delhi Daredevils,Chennai Super Kings,501253,2011-05-12,IK Pathan,44,36,3.0,2.0,0,0,0,55.0,122.22222222222224,0,0
+Delhi Daredevils,Chennai Super Kings,501253,2011-05-12,JR Hopes,8,6,0.0,0.0,0,0,0,12.0,133.33333333333331,DJ Bravo,caught
+Delhi Daredevils,Chennai Super Kings,501253,2011-05-12,NV Ojha,25,14,3.0,2.0,0,0,0,36.0,178.57142857142858,JA Morkel,caught
+Delhi Daredevils,Chennai Super Kings,501253,2011-05-12,Y Nagar,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Delhi Daredevils,Chennai Super Kings,501253,2011-05-12,Y Venugopal Rao,30,22,2.0,2.0,0,0,0,40.0,136.36363636363637,R Ashwin,bowled

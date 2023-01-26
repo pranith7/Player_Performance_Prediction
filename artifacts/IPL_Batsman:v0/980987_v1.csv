@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Gujarat Lions,Royal Challengers Bangalore,980987,2016-05-14,AD Nath,3,6,0.0,0.0,0,0,0,7.0,50.0,YS Chahal,bowled
+Gujarat Lions,Royal Challengers Bangalore,980987,2016-05-14,AJ Finch,37,42,3.0,1.0,0,0,0,46.0,88.09523809523809,Sachin Baby,caught
+Gujarat Lions,Royal Challengers Bangalore,980987,2016-05-14,BB McCullum,11,13,2.0,0.0,0,0,0,17.0,84.61538461538461,YS Chahal,caught
+Gujarat Lions,Royal Challengers Bangalore,980987,2016-05-14,DJ Bravo,1,2,0.0,0.0,0,0,0,5.0,50.0,YS Chahal,lbw
+Gujarat Lions,Royal Challengers Bangalore,980987,2016-05-14,DR Smith,7,6,1.0,0.0,0,0,0,12.0,116.66666666666669,S Aravind,bowled
+Gujarat Lions,Royal Challengers Bangalore,980987,2016-05-14,DS Kulkarni,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,CJ Jordan,bowled
+Gujarat Lions,Royal Challengers Bangalore,980987,2016-05-14,KD Karthik,2,4,0.0,0.0,0,0,0,6.0,50.0,CJ Jordan,caught
+Gujarat Lions,Royal Challengers Bangalore,980987,2016-05-14,P Kumar,1,4,0.0,0.0,0,0,0,5.0,25.0,CJ Jordan,bowled
+Gujarat Lions,Royal Challengers Bangalore,980987,2016-05-14,PV Tambe,7,19,1.0,0.0,0,0,0,12.0,36.84210526315789,0,0
+Gujarat Lions,Royal Challengers Bangalore,980987,2016-05-14,RA Jadeja,21,20,2.0,1.0,0,0,0,29.0,105.0,CJ Jordan,caught and bowled
+Gujarat Lions,Royal Challengers Bangalore,980987,2016-05-14,S Kaushik,0,1,0.0,0.0,0,0,1,2.0,0.0,Sachin Baby,caught
+Royal Challengers Bangalore,Gujarat Lions,980987,2016-05-14,AB de Villiers,129,53,10.0,12.0,1,1,0,191.0,243.3962264150944,0,0
+Royal Challengers Bangalore,Gujarat Lions,980987,2016-05-14,CH Gayle,6,13,1.0,0.0,0,0,0,11.0,46.15384615384615,DS Kulkarni,bowled
+Royal Challengers Bangalore,Gujarat Lions,980987,2016-05-14,SR Watson,0,1,0.0,0.0,0,0,1,2.0,0.0,P Kumar,caught
+Royal Challengers Bangalore,Gujarat Lions,980987,2016-05-14,V Kohli,109,55,6.0,8.0,1,1,0,159.0,198.1818181818182,P Kumar,caught

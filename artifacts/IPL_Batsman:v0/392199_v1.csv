@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Royal Challengers Bangalore,392199,2009-04-29,AB Agarkar,6,8,0.0,0.0,0,0,0,10.0,75.0,0,0
+Kolkata Knight Riders,Royal Challengers Bangalore,392199,2009-04-29,BB McCullum,0,1,0.0,0.0,0,0,1,2.0,0.0,KP Pietersen,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,392199,2009-04-29,BJ Hodge,17,16,2.0,1.0,0,0,0,25.0,106.25,A Kumble,lbw
+Kolkata Knight Riders,Royal Challengers Bangalore,392199,2009-04-29,CH Gayle,40,38,6.0,0.0,0,0,0,50.0,105.26315789473684,KP Appanna,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,392199,2009-04-29,LR Shukla,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,RE van der Merwe,lbw
+Kolkata Knight Riders,Royal Challengers Bangalore,392199,2009-04-29,MN van Wyk,43,35,4.0,0.0,0,0,0,51.0,122.85714285714286,0,0
+Kolkata Knight Riders,Royal Challengers Bangalore,392199,2009-04-29,SC Ganguly,1,8,0.0,0.0,0,0,0,5.0,12.5,P Kumar,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,392199,2009-04-29,WP Saha,21,14,0.0,1.0,0,0,0,27.0,150.0,A Kumble,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,392199,2009-04-29,JH Kallis,23,27,2.0,0.0,0,0,0,29.0,85.18518518518519,I Sharma,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,392199,2009-04-29,KP Pietersen,13,13,1.0,0.0,0,0,0,18.0,100.0,BJ Hodge,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,392199,2009-04-29,MK Pandey,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Royal Challengers Bangalore,Kolkata Knight Riders,392199,2009-04-29,MV Boucher,25,13,2.0,1.0,0,0,0,33.0,192.30769230769232,0,0
+Royal Challengers Bangalore,Kolkata Knight Riders,392199,2009-04-29,RE van der Merwe,9,9,0.0,1.0,0,0,0,15.0,100.0,I Sharma,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,392199,2009-04-29,SP Goswami,43,49,6.0,0.0,0,0,0,53.0,87.75510204081633,BJ Hodge,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,392199,2009-04-29,V Kohli,19,12,1.0,1.0,0,0,0,26.0,158.33333333333331,BJ Hodge,caught

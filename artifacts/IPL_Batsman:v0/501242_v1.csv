@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kochi Tuskers Kerala,Kolkata Knight Riders,501242,2011-05-05,BB McCullum,1,9,0.0,0.0,0,0,0,5.0,11.11111111111111,JD Unadkat,caught
+Kochi Tuskers Kerala,Kolkata Knight Riders,501242,2011-05-05,BJ Hodge,35,19,3.0,2.0,0,0,0,46.0,184.21052631578948,0,0
+Kochi Tuskers Kerala,Kolkata Knight Riders,501242,2011-05-05,DPMD Jayawardene,55,43,2.0,2.0,1,0,0,73.0,127.90697674418604,JH Kallis,run out
+Kochi Tuskers Kerala,Kolkata Knight Riders,501242,2011-05-05,M Klinger,29,26,3.0,0.0,0,0,0,36.0,111.53846153846156,YK Pathan,caught
+Kochi Tuskers Kerala,Kolkata Knight Riders,501242,2011-05-05,PA Patel,21,16,4.0,0.0,0,0,0,29.0,131.25,JD Unadkat,caught
+Kochi Tuskers Kerala,Kolkata Knight Riders,501242,2011-05-05,RA Jadeja,8,11,1.0,0.0,0,0,0,13.0,72.72727272727273,R Bhatia,caught
+Kochi Tuskers Kerala,Kolkata Knight Riders,501242,2011-05-05,RV Gomez,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Kolkata Knight Riders,Kochi Tuskers Kerala,501242,2011-05-05,B Lee,1,2,0.0,0.0,0,0,0,5.0,50.0,RP Singh,run out
+Kolkata Knight Riders,Kochi Tuskers Kerala,501242,2011-05-05,EJG Morgan,66,52,8.0,2.0,1,0,0,90.0,126.92307692307692,R Vinay Kumar,run out
+Kolkata Knight Riders,Kochi Tuskers Kerala,501242,2011-05-05,G Gambhir,0,1,0.0,0.0,0,0,1,2.0,0.0,RV Gomez,caught
+Kolkata Knight Riders,Kochi Tuskers Kerala,501242,2011-05-05,JH Kallis,45,42,5.0,0.0,0,0,0,54.0,107.14285714285714,RV Gomez,bowled
+Kolkata Knight Riders,Kochi Tuskers Kerala,501242,2011-05-05,MK Tiwary,1,7,0.0,0.0,0,0,0,5.0,14.285714285714285,R Vinay Kumar,caught
+Kolkata Knight Riders,Kochi Tuskers Kerala,501242,2011-05-05,MV Boucher,5,4,0.0,0.0,0,0,0,9.0,125.0,RP Singh,bowled
+Kolkata Knight Riders,Kochi Tuskers Kerala,501242,2011-05-05,R Bhatia,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Kolkata Knight Riders,Kochi Tuskers Kerala,501242,2011-05-05,YK Pathan,17,13,2.0,0.0,0,0,0,23.0,130.76923076923077,R Vinay Kumar,caught

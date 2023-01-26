@@ -1,0 +1,21 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Rajasthan Royals,336000,2008-05-01,AB Agarkar,20,15,1.0,2.0,0,0,0,29.0,133.33333333333331,SR Watson,caught
+Kolkata Knight Riders,Rajasthan Royals,336000,2008-05-01,AB Dinda,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,SR Watson,caught
+Kolkata Knight Riders,Rajasthan Royals,336000,2008-05-01,BJ Hodge,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,SK Trivedi,run out
+Kolkata Knight Riders,Rajasthan Royals,336000,2008-05-01,DB Das,11,13,1.0,0.0,0,0,0,16.0,84.61538461538461,Sohail Tanvir,caught
+Kolkata Knight Riders,Rajasthan Royals,336000,2008-05-01,DJ Hussey,42,32,1.0,2.0,0,0,0,51.0,131.25,SK Trivedi,bowled
+Kolkata Knight Riders,Rajasthan Royals,336000,2008-05-01,I Sharma,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Kolkata Knight Riders,Rajasthan Royals,336000,2008-05-01,LR Shukla,2,2,0.0,0.0,0,0,0,6.0,100.0,YK Pathan,run out
+Kolkata Knight Riders,Rajasthan Royals,336000,2008-05-01,SC Ganguly,51,41,4.0,2.0,1,0,0,71.0,124.39024390243902,SK Warne,caught
+Kolkata Knight Riders,Rajasthan Royals,336000,2008-05-01,Salman Butt,7,8,1.0,0.0,0,0,0,12.0,87.5,Sohail Tanvir,bowled
+Kolkata Knight Riders,Rajasthan Royals,336000,2008-05-01,Umar Gul,2,2,0.0,0.0,0,0,0,6.0,100.0,Sohail Tanvir,run out
+Kolkata Knight Riders,Rajasthan Royals,336000,2008-05-01,WP Saha,1,2,0.0,0.0,0,0,0,5.0,50.0,SK Trivedi,bowled
+Rajasthan Royals,Kolkata Knight Riders,336000,2008-05-01,GC Smith,2,7,0.0,0.0,0,0,0,6.0,28.57142857142857,I Sharma,bowled
+Rajasthan Royals,Kolkata Knight Riders,336000,2008-05-01,M Kaif,21,19,3.0,1.0,0,0,0,30.0,110.5263157894737,AB Agarkar,caught and bowled
+Rajasthan Royals,Kolkata Knight Riders,336000,2008-05-01,M Rawat,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Rajasthan Royals,Kolkata Knight Riders,336000,2008-05-01,RA Jadeja,33,20,3.0,1.0,0,0,0,42.0,165.0,LR Shukla,bowled
+Rajasthan Royals,Kolkata Knight Riders,336000,2008-05-01,SA Asnodkar,60,35,10.0,1.0,1,0,0,84.0,171.42857142857142,Umar Gul,caught
+Rajasthan Royals,Kolkata Knight Riders,336000,2008-05-01,SK Warne,7,8,0.0,0.0,0,0,0,11.0,87.5,Umar Gul,run out
+Rajasthan Royals,Kolkata Knight Riders,336000,2008-05-01,SR Watson,0,1,0.0,0.0,0,0,1,2.0,0.0,Umar Gul,lbw
+Rajasthan Royals,Kolkata Knight Riders,336000,2008-05-01,Sohail Tanvir,3,3,0.0,0.0,0,0,0,7.0,100.0,0,0
+Rajasthan Royals,Kolkata Knight Riders,336000,2008-05-01,YK Pathan,55,33,6.0,2.0,1,0,0,77.0,166.66666666666669,Umar Gul,bowled

@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Royal Challengers Bangalore,336006,2008-05-05,DPMD Jayawardene,17,23,2.0,0.0,0,0,0,23.0,73.91304347826086,0,0
+Kings XI Punjab,Royal Challengers Bangalore,336006,2008-05-05,IK Pathan,17,18,1.0,1.0,0,0,0,24.0,94.44444444444444,0,0
+Kings XI Punjab,Royal Challengers Bangalore,336006,2008-05-05,JR Hopes,5,5,1.0,0.0,0,0,0,10.0,100.0,Z Khan,caught
+Kings XI Punjab,Royal Challengers Bangalore,336006,2008-05-05,RR Sarwan,31,32,4.0,1.0,0,0,0,41.0,96.875,P Kumar,caught
+Kings XI Punjab,Royal Challengers Bangalore,336006,2008-05-05,SE Marsh,39,35,4.0,1.0,0,0,0,49.0,111.42857142857144,Z Khan,bowled
+Kings XI Punjab,Royal Challengers Bangalore,336006,2008-05-05,Yuvraj Singh,1,4,0.0,0.0,0,0,0,5.0,25.0,P Kumar,caught
+Royal Challengers Bangalore,Kings XI Punjab,336006,2008-05-05,A Kumble,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,IK Pathan,run out
+Royal Challengers Bangalore,Kings XI Punjab,336006,2008-05-05,CL White,0,1,0.0,0.0,0,0,1,2.0,0.0,S Sreesanth,bowled
+Royal Challengers Bangalore,Kings XI Punjab,336006,2008-05-05,DT Patil,4,1,1.0,0.0,0,0,0,9.0,400.0,VRV Singh,run out
+Royal Challengers Bangalore,Kings XI Punjab,336006,2008-05-05,DW Steyn,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,0,0
+Royal Challengers Bangalore,Kings XI Punjab,336006,2008-05-05,JH Kallis,0,3,0.0,0.0,0,0,1,2.0,0.0,IK Pathan,run out
+Royal Challengers Bangalore,Kings XI Punjab,336006,2008-05-05,Misbah-ul-Haq,8,8,1.0,0.0,0,0,0,13.0,100.0,PP Chawla,lbw
+Royal Challengers Bangalore,Kings XI Punjab,336006,2008-05-05,P Kumar,0,2,0.0,0.0,0,0,1,2.0,0.0,PP Chawla,caught
+Royal Challengers Bangalore,Kings XI Punjab,336006,2008-05-05,R Dravid,66,51,9.0,1.0,1,0,0,89.0,129.41176470588235,VRV Singh,caught
+Royal Challengers Bangalore,Kings XI Punjab,336006,2008-05-05,V Kohli,34,39,5.0,0.0,0,0,0,43.0,87.17948717948718,IK Pathan,caught
+Royal Challengers Bangalore,Kings XI Punjab,336006,2008-05-05,W Jaffer,0,5,0.0,0.0,0,0,1,2.0,0.0,S Sreesanth,caught
+Royal Challengers Bangalore,Kings XI Punjab,336006,2008-05-05,Z Khan,0,1,0.0,0.0,0,0,1,2.0,0.0,PP Chawla,bowled

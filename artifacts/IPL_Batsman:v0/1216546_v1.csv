@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Capitals,Kings XI Punjab,1216546,2020-10-20,MP Stoinis,9,11,0.0,0.0,0,0,0,13.0,81.81818181818183,Mohammed Shami,caught
+Delhi Capitals,Kings XI Punjab,1216546,2020-10-20,PP Shaw,7,13,1.0,0.0,0,0,0,12.0,53.84615384615385,JDS Neesham,caught
+Delhi Capitals,Kings XI Punjab,1216546,2020-10-20,RR Pant,14,20,1.0,0.0,0,0,0,19.0,70.0,GJ Maxwell,caught
+Delhi Capitals,Kings XI Punjab,1216546,2020-10-20,S Dhawan,106,61,12.0,3.0,1,1,0,152.0,173.77049180327867,0,0
+Delhi Capitals,Kings XI Punjab,1216546,2020-10-20,SO Hetmyer,10,6,0.0,1.0,0,0,0,16.0,166.66666666666669,Mohammed Shami,bowled
+Delhi Capitals,Kings XI Punjab,1216546,2020-10-20,SS Iyer,14,12,0.0,1.0,0,0,0,20.0,116.66666666666669,M Ashwin,caught
+Kings XI Punjab,Delhi Capitals,1216546,2020-10-20,CH Gayle,29,14,3.0,2.0,0,0,0,40.0,207.1428571428572,R Ashwin,bowled
+Kings XI Punjab,Delhi Capitals,1216546,2020-10-20,DJ Hooda,15,22,1.0,0.0,0,0,0,20.0,68.18181818181817,0,0
+Kings XI Punjab,Delhi Capitals,1216546,2020-10-20,GJ Maxwell,32,27,3.0,0.0,0,0,0,39.0,118.5185185185185,K Rabada,caught
+Kings XI Punjab,Delhi Capitals,1216546,2020-10-20,JDS Neesham,10,8,0.0,1.0,0,0,0,16.0,125.0,0,0
+Kings XI Punjab,Delhi Capitals,1216546,2020-10-20,KL Rahul,15,11,1.0,1.0,0,0,0,22.0,136.36363636363637,AR Patel,caught
+Kings XI Punjab,Delhi Capitals,1216546,2020-10-20,MA Agarwal,5,10,0.0,0.0,0,0,0,9.0,50.0,R Ashwin,run out
+Kings XI Punjab,Delhi Capitals,1216546,2020-10-20,N Pooran,53,28,6.0,3.0,1,0,0,77.0,189.28571428571428,K Rabada,caught

@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Royal Challengers Bangalore,336012,2008-05-28,RV Uthappa,19,16,2.0,1.0,0,0,0,27.0,118.75,0,0
+Mumbai Indians,Royal Challengers Bangalore,336012,2008-05-28,SR Tendulkar,40,47,4.0,1.0,0,0,0,50.0,85.1063829787234,0,0
+Mumbai Indians,Royal Challengers Bangalore,336012,2008-05-28,ST Jayasuriya,54,39,4.0,4.0,1,0,0,78.0,138.46153846153845,DW Steyn,caught
+Royal Challengers Bangalore,Mumbai Indians,336012,2008-05-28,B Akhil,5,4,1.0,0.0,0,0,0,10.0,125.0,DR Smith,lbw
+Royal Challengers Bangalore,Mumbai Indians,336012,2008-05-28,CL White,26,21,3.0,1.0,0,0,0,35.0,123.8095238095238,DR Smith,caught
+Royal Challengers Bangalore,Mumbai Indians,336012,2008-05-28,MV Boucher,18,15,3.0,0.0,0,0,0,25.0,120.0,CRD Fernando,caught
+Royal Challengers Bangalore,Mumbai Indians,336012,2008-05-28,Misbah-ul-Haq,0,1,0.0,0.0,0,0,1,2.0,0.0,CRD Fernando,caught
+Royal Challengers Bangalore,Mumbai Indians,336012,2008-05-28,P Kumar,8,11,1.0,0.0,0,0,0,13.0,72.72727272727273,CRD Fernando,run out
+Royal Challengers Bangalore,Mumbai Indians,336012,2008-05-28,R Dravid,11,16,0.0,0.0,0,0,0,15.0,68.75,DR Smith,bowled
+Royal Challengers Bangalore,Mumbai Indians,336012,2008-05-28,R Vinay Kumar,23,22,2.0,1.0,0,0,0,31.0,104.54545454545456,CRD Fernando,caught
+Royal Challengers Bangalore,Mumbai Indians,336012,2008-05-28,SP Goswami,20,24,1.0,0.0,0,0,0,25.0,83.33333333333334,CRD Fernando,caught
+Royal Challengers Bangalore,Mumbai Indians,336012,2008-05-28,V Kohli,0,1,0.0,0.0,0,0,1,2.0,0.0,A Nehra,caught

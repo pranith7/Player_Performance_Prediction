@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Rajasthan Royals,Royal Challengers Bangalore,829749,2015-04-24,AM Rahane,18,13,2.0,1.0,0,0,0,26.0,138.46153846153845,HV Patel,lbw
+Rajasthan Royals,Royal Challengers Bangalore,829749,2015-04-24,CH Morris,3,3,0.0,0.0,0,0,0,7.0,100.0,0,0
+Rajasthan Royals,Royal Challengers Bangalore,829749,2015-04-24,DJ Hooda,1,4,0.0,0.0,0,0,0,5.0,25.0,Iqbal Abdulla,bowled
+Rajasthan Royals,Royal Challengers Bangalore,829749,2015-04-24,DS Kulkarni,1,2,0.0,0.0,0,0,0,5.0,50.0,MA Starc,bowled
+Rajasthan Royals,Royal Challengers Bangalore,829749,2015-04-24,JP Faulkner,4,5,0.0,0.0,0,0,0,8.0,80.0,HV Patel,caught
+Rajasthan Royals,Royal Challengers Bangalore,829749,2015-04-24,KK Nair,16,14,0.0,1.0,0,0,0,22.0,114.28571428571428,V Kohli,run out
+Rajasthan Royals,Royal Challengers Bangalore,829749,2015-04-24,PV Tambe,2,4,0.0,0.0,0,0,0,6.0,50.0,0,0
+Rajasthan Royals,Royal Challengers Bangalore,829749,2015-04-24,SPD Smith,31,28,2.0,0.0,0,0,0,37.0,110.71428571428572,MA Starc,caught
+Rajasthan Royals,Royal Challengers Bangalore,829749,2015-04-24,SR Watson,26,23,4.0,1.0,0,0,0,36.0,113.04347826086956,YS Chahal,caught
+Rajasthan Royals,Royal Challengers Bangalore,829749,2015-04-24,STR Binny,20,20,2.0,0.0,0,0,0,26.0,100.0,MA Starc,caught
+Rajasthan Royals,Royal Challengers Bangalore,829749,2015-04-24,SV Samson,4,7,0.0,0.0,0,0,0,8.0,57.14285714285714,YS Chahal,bowled
+Royal Challengers Bangalore,Rajasthan Royals,829749,2015-04-24,AB de Villiers,47,34,6.0,0.0,0,0,0,57.0,138.23529411764704,0,0
+Royal Challengers Bangalore,Rajasthan Royals,829749,2015-04-24,CH Gayle,20,17,3.0,1.0,0,0,0,29.0,117.64705882352942,SR Watson,caught
+Royal Challengers Bangalore,Rajasthan Royals,829749,2015-04-24,V Kohli,62,46,1.0,3.0,1,0,0,81.0,134.7826086956522,0,0

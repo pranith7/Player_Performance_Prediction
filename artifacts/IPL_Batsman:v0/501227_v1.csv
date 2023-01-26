@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Royal Challengers Bangalore,501227,2011-04-26,DA Warner,7,12,1.0,0.0,0,0,0,12.0,58.333333333333336,Z Khan,bowled
+Delhi Daredevils,Royal Challengers Bangalore,501227,2011-04-26,IK Pathan,13,10,0.0,2.0,0,0,0,21.0,130.0,0,0
+Delhi Daredevils,Royal Challengers Bangalore,501227,2011-04-26,JR Hopes,54,45,7.0,0.0,1,0,0,73.0,120.0,A Mithun,caught
+Delhi Daredevils,Royal Challengers Bangalore,501227,2011-04-26,MS Wade,8,9,0.0,0.0,0,0,0,12.0,88.88888888888889,A Mithun,bowled
+Delhi Daredevils,Royal Challengers Bangalore,501227,2011-04-26,NV Ojha,16,11,0.0,2.0,0,0,0,24.0,145.45454545454547,S Aravind,caught
+Delhi Daredevils,Royal Challengers Bangalore,501227,2011-04-26,V Sehwag,25,18,3.0,0.0,0,0,0,32.0,138.88888888888889,DL Vettori,run out
+Delhi Daredevils,Royal Challengers Bangalore,501227,2011-04-26,Y Nagar,0,3,0.0,0.0,0,0,1,2.0,0.0,0,0
+Delhi Daredevils,Royal Challengers Bangalore,501227,2011-04-26,Y Venugopal Rao,24,21,2.0,1.0,0,0,0,32.0,114.28571428571428,DL Vettori,bowled
+Royal Challengers Bangalore,Delhi Daredevils,501227,2011-04-26,A Mithun,0,2,0.0,0.0,0,0,1,2.0,0.0,M Morkel,caught
+Royal Challengers Bangalore,Delhi Daredevils,501227,2011-04-26,AB de Villiers,5,2,1.0,0.0,0,0,0,10.0,250.0,UT Yadav,run out
+Royal Challengers Bangalore,Delhi Daredevils,501227,2011-04-26,CA Pujara,7,12,0.0,0.0,0,0,0,11.0,58.333333333333336,Y Nagar,caught
+Royal Challengers Bangalore,Delhi Daredevils,501227,2011-04-26,CH Gayle,26,14,4.0,1.0,0,0,0,36.0,185.7142857142857,JR Hopes,caught
+Royal Challengers Bangalore,Delhi Daredevils,501227,2011-04-26,DL Vettori,18,21,1.0,1.0,0,0,0,25.0,85.71428571428571,0,0
+Royal Challengers Bangalore,Delhi Daredevils,501227,2011-04-26,J Syed Mohammad,13,10,2.0,0.0,0,0,0,19.0,130.0,0,0
+Royal Challengers Bangalore,Delhi Daredevils,501227,2011-04-26,SS Tiwary,18,20,1.0,1.0,0,0,0,25.0,90.0,M Morkel,caught
+Royal Challengers Bangalore,Delhi Daredevils,501227,2011-04-26,TM Dilshan,0,1,0.0,0.0,0,0,1,2.0,0.0,AB Dinda,caught
+Royal Challengers Bangalore,Delhi Daredevils,501227,2011-04-26,V Kohli,56,40,8.0,2.0,1,0,0,80.0,140.0,M Morkel,bowled

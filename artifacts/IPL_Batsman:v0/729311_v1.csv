@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Sunrisers Hyderabad,729311,2014-04-27,BB McCullum,40,33,3.0,2.0,0,0,0,51.0,121.21212121212122,KV Sharma,bowled
+Chennai Super Kings,Sunrisers Hyderabad,729311,2014-04-27,DR Smith,66,46,4.0,5.0,1,0,0,92.0,143.47826086956522,B Kumar,caught
+Chennai Super Kings,Sunrisers Hyderabad,729311,2014-04-27,F du Plessis,0,1,0.0,0.0,0,0,1,2.0,0.0,B Kumar,caught
+Chennai Super Kings,Sunrisers Hyderabad,729311,2014-04-27,M Manhas,3,4,0.0,0.0,0,0,0,7.0,75.0,0,0
+Chennai Super Kings,Sunrisers Hyderabad,729311,2014-04-27,MS Dhoni,13,14,1.0,0.0,0,0,0,18.0,92.85714285714286,0,0
+Chennai Super Kings,Sunrisers Hyderabad,729311,2014-04-27,RA Jadeja,6,9,0.0,0.0,0,0,0,10.0,66.66666666666666,I Sharma,bowled
+Chennai Super Kings,Sunrisers Hyderabad,729311,2014-04-27,SK Raina,14,10,1.0,1.0,0,0,0,21.0,140.0,I Sharma,caught
+Sunrisers Hyderabad,Chennai Super Kings,729311,2014-04-27,AJ Finch,44,46,5.0,0.0,0,0,0,53.0,95.65217391304348,MM Sharma,bowled
+Sunrisers Hyderabad,Chennai Super Kings,729311,2014-04-27,DA Warner,0,2,0.0,0.0,0,0,1,2.0,0.0,BW Hilfenhaus,lbw
+Sunrisers Hyderabad,Chennai Super Kings,729311,2014-04-27,DJG Sammy,23,16,2.0,1.0,0,0,0,31.0,143.75,0,0
+Sunrisers Hyderabad,Chennai Super Kings,729311,2014-04-27,KL Rahul,25,27,1.0,1.0,0,0,0,32.0,92.5925925925926,DR Smith,caught
+Sunrisers Hyderabad,Chennai Super Kings,729311,2014-04-27,KV Sharma,17,7,0.0,2.0,0,0,0,25.0,242.85714285714283,0,0
+Sunrisers Hyderabad,Chennai Super Kings,729311,2014-04-27,S Dhawan,7,9,1.0,0.0,0,0,0,12.0,77.77777777777779,BW Hilfenhaus,caught
+Sunrisers Hyderabad,Chennai Super Kings,729311,2014-04-27,Y Venugopal Rao,13,16,0.0,0.0,0,0,0,17.0,81.25,MM Sharma,caught

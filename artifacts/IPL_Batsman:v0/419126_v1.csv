@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Rajasthan Royals,419126,2010-03-26,A Symonds,22,15,3.0,0.0,0,0,0,29.0,146.66666666666666,SK Warne,run out
+Deccan Chargers,Rajasthan Royals,419126,2010-03-26,AC Gilchrist,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,S Narwal,caught
+Deccan Chargers,Rajasthan Royals,419126,2010-03-26,HH Gibbs,25,16,2.0,2.0,0,0,0,35.0,156.25,SK Warne,stumped
+Deccan Chargers,Rajasthan Royals,419126,2010-03-26,R Sharma,10,5,0.0,1.0,0,0,0,16.0,200.0,S Narwal,caught
+Deccan Chargers,Rajasthan Royals,419126,2010-03-26,RG Sharma,49,37,2.0,3.0,0,0,0,61.0,132.43243243243242,SW Tait,caught
+Deccan Chargers,Rajasthan Royals,419126,2010-03-26,RP Singh,1,4,0.0,0.0,0,0,0,5.0,25.0,0,0
+Deccan Chargers,Rajasthan Royals,419126,2010-03-26,TL Suman,9,16,0.0,0.0,0,0,0,13.0,56.25,SW Tait,bowled
+Deccan Chargers,Rajasthan Royals,419126,2010-03-26,VVS Laxman,10,12,1.0,0.0,0,0,0,15.0,83.33333333333334,SW Tait,caught
+Deccan Chargers,Rajasthan Royals,419126,2010-03-26,WPUJC Vaas,8,13,0.0,0.0,0,0,0,12.0,61.53846153846154,SW Tait,run out
+Deccan Chargers,Rajasthan Royals,419126,2010-03-26,Y Venugopal Rao,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,AC Voges,run out
+Rajasthan Royals,Deccan Chargers,419126,2010-03-26,FY Fazal,8,12,1.0,0.0,0,0,0,13.0,66.66666666666666,0,0
+Rajasthan Royals,Deccan Chargers,419126,2010-03-26,MJ Lumb,45,33,7.0,0.0,0,0,0,56.0,136.36363636363637,A Symonds,run out
+Rajasthan Royals,Deccan Chargers,419126,2010-03-26,NV Ojha,14,17,1.0,1.0,0,0,0,21.0,82.35294117647058,PP Ojha,stumped
+Rajasthan Royals,Deccan Chargers,419126,2010-03-26,YK Pathan,73,35,2.0,8.0,1,0,0,103.0,208.57142857142856,0,0

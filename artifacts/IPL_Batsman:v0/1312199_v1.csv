@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Rajasthan Royals,Royal Challengers Bangalore,1312199,2022-05-27,D Padikkal,9,12,0.0,0.0,0,0,0,13.0,75.0,JR Hazlewood,caught
+Rajasthan Royals,Royal Challengers Bangalore,1312199,2022-05-27,JC Buttler,106,60,10.0,6.0,1,1,0,156.0,176.66666666666666,0,0
+Rajasthan Royals,Royal Challengers Bangalore,1312199,2022-05-27,SO Hetmyer,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,0,0
+Rajasthan Royals,Royal Challengers Bangalore,1312199,2022-05-27,SV Samson,23,21,1.0,2.0,0,0,0,32.0,109.52380952380952,PWH de Silva,stumped
+Rajasthan Royals,Royal Challengers Bangalore,1312199,2022-05-27,YBK Jaiswal,21,13,1.0,2.0,0,0,0,30.0,161.53846153846155,JR Hazlewood,caught
+Royal Challengers Bangalore,Rajasthan Royals,1312199,2022-05-27,F du Plessis,25,27,3.0,0.0,0,0,0,32.0,92.5925925925926,OC McCoy,caught
+Royal Challengers Bangalore,Rajasthan Royals,1312199,2022-05-27,GJ Maxwell,24,13,1.0,2.0,0,0,0,33.0,184.6153846153846,TA Boult,caught
+Royal Challengers Bangalore,Rajasthan Royals,1312199,2022-05-27,HV Patel,1,2,0.0,0.0,0,0,0,5.0,50.0,OC McCoy,bowled
+Royal Challengers Bangalore,Rajasthan Royals,1312199,2022-05-27,JR Hazlewood,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Royal Challengers Bangalore,Rajasthan Royals,1312199,2022-05-27,KD Karthik,6,7,0.0,0.0,0,0,0,10.0,85.71428571428571,M Prasidh Krishna,caught
+Royal Challengers Bangalore,Rajasthan Royals,1312199,2022-05-27,MK Lomror,8,10,0.0,0.0,0,0,0,12.0,80.0,OC McCoy,caught
+Royal Challengers Bangalore,Rajasthan Royals,1312199,2022-05-27,PWH de Silva,0,1,0.0,0.0,0,0,1,2.0,0.0,M Prasidh Krishna,bowled
+Royal Challengers Bangalore,Rajasthan Royals,1312199,2022-05-27,RM Patidar,58,47,4.0,3.0,1,0,0,80.0,123.40425531914892,R Ashwin,caught
+Royal Challengers Bangalore,Rajasthan Royals,1312199,2022-05-27,Shahbaz Ahmed,12,10,1.0,1.0,0,0,0,19.0,120.0,0,0
+Royal Challengers Bangalore,Rajasthan Royals,1312199,2022-05-27,V Kohli,7,8,0.0,1.0,0,0,0,13.0,87.5,M Prasidh Krishna,caught

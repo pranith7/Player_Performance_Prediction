@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Delhi Capitals,1216539,2020-09-25,F du Plessis,43,36,4.0,0.0,0,0,0,51.0,119.44444444444444,K Rabada,caught
+Chennai Super Kings,Delhi Capitals,1216539,2020-09-25,KM Jadhav,26,22,3.0,0.0,0,0,0,33.0,118.1818181818182,A Nortje,lbw
+Chennai Super Kings,Delhi Capitals,1216539,2020-09-25,M Vijay,10,15,1.0,0.0,0,0,0,15.0,66.66666666666666,A Nortje,caught
+Chennai Super Kings,Delhi Capitals,1216539,2020-09-25,MS Dhoni,15,12,2.0,0.0,0,0,0,21.0,125.0,K Rabada,caught
+Chennai Super Kings,Delhi Capitals,1216539,2020-09-25,RA Jadeja,12,11,1.0,0.0,0,0,0,17.0,109.09090909090908,K Rabada,caught
+Chennai Super Kings,Delhi Capitals,1216539,2020-09-25,RD Gaikwad,5,10,0.0,0.0,0,0,0,9.0,50.0,AR Patel,run out
+Chennai Super Kings,Delhi Capitals,1216539,2020-09-25,SM Curran,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Chennai Super Kings,Delhi Capitals,1216539,2020-09-25,SR Watson,14,16,1.0,1.0,0,0,0,21.0,87.5,AR Patel,caught
+Delhi Capitals,Chennai Super Kings,1216539,2020-09-25,MP Stoinis,5,3,1.0,0.0,0,0,0,10.0,166.66666666666669,0,0
+Delhi Capitals,Chennai Super Kings,1216539,2020-09-25,PP Shaw,64,44,9.0,1.0,1,0,0,87.0,145.45454545454547,PP Chawla,stumped
+Delhi Capitals,Chennai Super Kings,1216539,2020-09-25,RR Pant,37,26,6.0,0.0,0,0,0,47.0,142.30769230769232,0,0
+Delhi Capitals,Chennai Super Kings,1216539,2020-09-25,S Dhawan,35,27,3.0,1.0,0,0,0,44.0,129.62962962962962,PP Chawla,lbw
+Delhi Capitals,Chennai Super Kings,1216539,2020-09-25,SS Iyer,26,23,1.0,0.0,0,0,0,31.0,113.04347826086956,SM Curran,caught

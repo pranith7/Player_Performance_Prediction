@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Royal Challengers Bangalore,1216510,2020-09-24,GJ Maxwell,5,6,0.0,0.0,0,0,0,9.0,83.33333333333334,S Dube,caught
+Kings XI Punjab,Royal Challengers Bangalore,1216510,2020-09-24,KK Nair,15,8,2.0,0.0,0,0,0,21.0,187.5,0,0
+Kings XI Punjab,Royal Challengers Bangalore,1216510,2020-09-24,KL Rahul,132,70,14.0,7.0,1,1,0,188.0,188.57142857142856,0,0
+Kings XI Punjab,Royal Challengers Bangalore,1216510,2020-09-24,MA Agarwal,26,22,4.0,0.0,0,0,0,34.0,118.1818181818182,YS Chahal,bowled
+Kings XI Punjab,Royal Challengers Bangalore,1216510,2020-09-24,N Pooran,17,19,1.0,0.0,0,0,0,22.0,89.47368421052632,S Dube,caught
+Royal Challengers Bangalore,Kings XI Punjab,1216510,2020-09-24,AB de Villiers,28,20,4.0,1.0,0,0,0,38.0,140.0,M Ashwin,caught
+Royal Challengers Bangalore,Kings XI Punjab,1216510,2020-09-24,AJ Finch,20,23,3.0,0.0,0,0,0,27.0,86.95652173913044,Ravi Bishnoi,bowled
+Royal Challengers Bangalore,Kings XI Punjab,1216510,2020-09-24,D Padikkal,1,2,0.0,0.0,0,0,0,5.0,50.0,SS Cottrell,caught
+Royal Challengers Bangalore,Kings XI Punjab,1216510,2020-09-24,DW Steyn,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Royal Challengers Bangalore,Kings XI Punjab,1216510,2020-09-24,JR Philippe,0,3,0.0,0.0,0,0,1,2.0,0.0,Mohammed Shami,lbw
+Royal Challengers Bangalore,Kings XI Punjab,1216510,2020-09-24,NA Saini,6,7,1.0,0.0,0,0,0,11.0,85.71428571428571,M Ashwin,bowled
+Royal Challengers Bangalore,Kings XI Punjab,1216510,2020-09-24,S Dube,12,12,0.0,1.0,0,0,0,18.0,100.0,GJ Maxwell,bowled
+Royal Challengers Bangalore,Kings XI Punjab,1216510,2020-09-24,UT Yadav,0,2,0.0,0.0,0,0,1,2.0,0.0,Ravi Bishnoi,bowled
+Royal Challengers Bangalore,Kings XI Punjab,1216510,2020-09-24,V Kohli,1,5,0.0,0.0,0,0,0,5.0,20.0,SS Cottrell,caught
+Royal Challengers Bangalore,Kings XI Punjab,1216510,2020-09-24,Washington Sundar,30,28,2.0,1.0,0,0,0,38.0,107.14285714285714,Ravi Bishnoi,caught
+Royal Challengers Bangalore,Kings XI Punjab,1216510,2020-09-24,YS Chahal,1,4,0.0,0.0,0,0,0,5.0,25.0,M Ashwin,lbw

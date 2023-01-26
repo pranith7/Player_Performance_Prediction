@@ -1,0 +1,20 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Kolkata Knight Riders,980951,2016-04-30,CH Morris,0,2,0.0,0.0,0,0,1,2.0,0.0,UT Yadav,bowled
+Delhi Daredevils,Kolkata Knight Riders,980951,2016-04-30,CR Brathwaite,34,11,3.0,3.0,0,0,0,47.0,309.09090909090907,AD Russell,caught
+Delhi Daredevils,Kolkata Knight Riders,980951,2016-04-30,KK Nair,68,51,9.0,1.0,1,0,0,91.0,133.33333333333331,UT Yadav,lbw
+Delhi Daredevils,Kolkata Knight Riders,980951,2016-04-30,Mohammed Shami,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Delhi Daredevils,Kolkata Knight Riders,980951,2016-04-30,Q de Kock,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,AD Russell,caught
+Delhi Daredevils,Kolkata Knight Riders,980951,2016-04-30,RR Pant,4,4,0.0,0.0,0,0,0,8.0,100.0,AD Russell,run out
+Delhi Daredevils,Kolkata Knight Riders,980951,2016-04-30,SS Iyer,0,1,0.0,0.0,0,0,1,2.0,0.0,AD Russell,lbw
+Delhi Daredevils,Kolkata Knight Riders,980951,2016-04-30,SV Samson,15,16,2.0,0.0,0,0,0,21.0,93.75,SP Narine,lbw
+Delhi Daredevils,Kolkata Knight Riders,980951,2016-04-30,SW Billings,54,34,3.0,2.0,1,0,0,73.0,158.8235294117647,UT Yadav,bowled
+Kolkata Knight Riders,Delhi Daredevils,980951,2016-04-30,AD Russell,17,14,2.0,1.0,0,0,0,25.0,121.42857142857142,A Mishra,caught and bowled
+Kolkata Knight Riders,Delhi Daredevils,980951,2016-04-30,G Gambhir,6,8,0.0,0.0,0,0,0,10.0,75.0,Z Khan,caught
+Kolkata Knight Riders,Delhi Daredevils,980951,2016-04-30,JO Holder,0,1,0.0,0.0,0,0,1,2.0,0.0,CH Morris,run out
+Kolkata Knight Riders,Delhi Daredevils,980951,2016-04-30,PP Chawla,8,5,2.0,0.0,0,0,0,14.0,160.0,Z Khan,lbw
+Kolkata Knight Riders,Delhi Daredevils,980951,2016-04-30,R Sathish,6,7,1.0,0.0,0,0,0,11.0,85.71428571428571,CR Brathwaite,caught
+Kolkata Knight Riders,Delhi Daredevils,980951,2016-04-30,RV Uthappa,72,53,6.0,2.0,1,0,0,94.0,135.8490566037736,CH Morris,caught
+Kolkata Knight Riders,Delhi Daredevils,980951,2016-04-30,SA Yadav,21,13,1.0,1.0,0,0,0,28.0,161.53846153846155,CR Brathwaite,caught
+Kolkata Knight Riders,Delhi Daredevils,980951,2016-04-30,SP Narine,4,4,0.0,0.0,0,0,0,8.0,100.0,Z Khan,run out
+Kolkata Knight Riders,Delhi Daredevils,980951,2016-04-30,UT Yadav,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,Z Khan,caught
+Kolkata Knight Riders,Delhi Daredevils,980951,2016-04-30,YK Pathan,10,9,1.0,0.0,0,0,0,15.0,111.11111111111111,CR Brathwaite,caught

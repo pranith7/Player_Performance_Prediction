@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Kings XI Punjab,734019,2014-05-19,JP Duminy,17,21,1.0,0.0,0,0,0,22.0,80.95238095238095,BE Hendricks,caught
+Delhi Daredevils,Kings XI Punjab,734019,2014-05-19,KD Karthik,69,46,7.0,3.0,1,0,0,94.0,150.0,BE Hendricks,caught
+Delhi Daredevils,Kings XI Punjab,734019,2014-05-19,KM Jadhav,0,1,0.0,0.0,0,0,1,2.0,0.0,Sandeep Sharma,caught
+Delhi Daredevils,Kings XI Punjab,734019,2014-05-19,KP Pietersen,49,33,6.0,1.0,0,0,0,61.0,148.4848484848485,AR Patel,bowled
+Delhi Daredevils,Kings XI Punjab,734019,2014-05-19,M Vijay,5,9,1.0,0.0,0,0,0,10.0,55.55555555555556,Sandeep Sharma,caught
+Delhi Daredevils,Kings XI Punjab,734019,2014-05-19,MA Agarwal,6,2,0.0,1.0,0,0,0,12.0,300.0,Sandeep Sharma,bowled
+Delhi Daredevils,Kings XI Punjab,734019,2014-05-19,MK Tiwary,10,8,1.0,0.0,0,0,0,15.0,125.0,0,0
+Delhi Daredevils,Kings XI Punjab,734019,2014-05-19,Mohammed Shami,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Delhi Daredevils,Kings XI Punjab,734019,2014-05-19,WD Parnell,2,2,0.0,0.0,0,0,0,6.0,100.0,BE Hendricks,caught
+Kings XI Punjab,Delhi Daredevils,734019,2014-05-19,AR Patel,42,36,5.0,1.0,0,0,0,53.0,116.66666666666669,0,0
+Kings XI Punjab,Delhi Daredevils,734019,2014-05-19,DA Miller,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,JP Duminy,bowled
+Kings XI Punjab,Delhi Daredevils,734019,2014-05-19,GJ Bailey,6,7,0.0,0.0,0,0,0,10.0,85.71428571428571,Imran Tahir,caught
+Kings XI Punjab,Delhi Daredevils,734019,2014-05-19,GJ Maxwell,14,13,0.0,1.0,0,0,0,20.0,107.6923076923077,Imran Tahir,bowled
+Kings XI Punjab,Delhi Daredevils,734019,2014-05-19,M Vohra,42,24,4.0,3.0,0,0,0,56.0,175.0,Imran Tahir,caught
+Kings XI Punjab,Delhi Daredevils,734019,2014-05-19,R Dhawan,8,5,1.0,0.0,0,0,0,13.0,160.0,0,0
+Kings XI Punjab,Delhi Daredevils,734019,2014-05-19,V Sehwag,23,23,2.0,1.0,0,0,0,31.0,100.0,JP Duminy,caught
+Kings XI Punjab,Delhi Daredevils,734019,2014-05-19,WP Saha,13,15,1.0,0.0,0,0,0,18.0,86.66666666666667,Mohammed Shami,caught

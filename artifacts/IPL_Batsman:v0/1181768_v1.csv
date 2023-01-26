@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Mumbai Indians,1181768,2019-05-12,AT Rayudu,1,4,0.0,0.0,0,0,0,5.0,25.0,JJ Bumrah,caught
+Chennai Super Kings,Mumbai Indians,1181768,2019-05-12,DJ Bravo,15,15,0.0,1.0,0,0,0,21.0,100.0,JJ Bumrah,caught
+Chennai Super Kings,Mumbai Indians,1181768,2019-05-12,F du Plessis,26,13,3.0,1.0,0,0,0,35.0,200.0,KH Pandya,stumped
+Chennai Super Kings,Mumbai Indians,1181768,2019-05-12,MS Dhoni,2,8,0.0,0.0,0,0,0,6.0,25.0,HH Pandya,run out
+Chennai Super Kings,Mumbai Indians,1181768,2019-05-12,RA Jadeja,5,5,0.0,0.0,0,0,0,9.0,100.0,0,0
+Chennai Super Kings,Mumbai Indians,1181768,2019-05-12,SK Raina,8,15,0.0,0.0,0,0,0,12.0,53.333333333333336,RD Chahar,lbw
+Chennai Super Kings,Mumbai Indians,1181768,2019-05-12,SN Thakur,2,2,0.0,0.0,0,0,0,6.0,100.0,SL Malinga,lbw
+Chennai Super Kings,Mumbai Indians,1181768,2019-05-12,SR Watson,80,62,8.0,4.0,1,0,0,108.0,129.03225806451613,SL Malinga,run out
+Mumbai Indians,Chennai Super Kings,1181768,2019-05-12,HH Pandya,16,10,1.0,1.0,0,0,0,23.0,160.0,DL Chahar,lbw
+Mumbai Indians,Chennai Super Kings,1181768,2019-05-12,Ishan Kishan,23,28,3.0,0.0,0,0,0,30.0,82.14285714285714,Imran Tahir,caught
+Mumbai Indians,Chennai Super Kings,1181768,2019-05-12,KA Pollard,41,25,3.0,3.0,0,0,0,54.0,164.0,0,0
+Mumbai Indians,Chennai Super Kings,1181768,2019-05-12,KH Pandya,7,7,0.0,0.0,0,0,0,11.0,100.0,SN Thakur,caught and bowled
+Mumbai Indians,Chennai Super Kings,1181768,2019-05-12,MJ McClenaghan,0,2,0.0,0.0,0,0,1,2.0,0.0,DJ Bravo,run out
+Mumbai Indians,Chennai Super Kings,1181768,2019-05-12,Q de Kock,29,18,0.0,4.0,0,0,0,41.0,161.11111111111111,SN Thakur,caught
+Mumbai Indians,Chennai Super Kings,1181768,2019-05-12,RD Chahar,0,2,0.0,0.0,0,0,1,2.0,0.0,DL Chahar,caught
+Mumbai Indians,Chennai Super Kings,1181768,2019-05-12,RG Sharma,15,14,1.0,1.0,0,0,0,22.0,107.14285714285714,DL Chahar,caught
+Mumbai Indians,Chennai Super Kings,1181768,2019-05-12,SA Yadav,15,17,1.0,0.0,0,0,0,20.0,88.23529411764706,Imran Tahir,bowled

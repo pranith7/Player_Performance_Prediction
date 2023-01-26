@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Royal Challengers Bangalore,829779,2015-05-04,A Nehra,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Chennai Super Kings,Royal Challengers Bangalore,829779,2015-05-04,BB McCullum,20,15,4.0,0.0,0,0,0,28.0,133.33333333333331,D Wiese,caught
+Chennai Super Kings,Royal Challengers Bangalore,829779,2015-05-04,DJ Bravo,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,MA Starc,caught
+Chennai Super Kings,Royal Challengers Bangalore,829779,2015-05-04,DR Smith,0,6,0.0,0.0,0,0,1,2.0,0.0,MA Starc,bowled
+Chennai Super Kings,Royal Challengers Bangalore,829779,2015-05-04,F du Plessis,24,20,0.0,1.0,0,0,0,30.0,120.0,HV Patel,bowled
+Chennai Super Kings,Royal Challengers Bangalore,829779,2015-05-04,MS Dhoni,29,18,2.0,2.0,0,0,0,39.0,161.11111111111111,D Wiese,caught
+Chennai Super Kings,Royal Challengers Bangalore,829779,2015-05-04,P Negi,13,8,1.0,1.0,0,0,0,20.0,162.5,MA Starc,bowled
+Chennai Super Kings,Royal Challengers Bangalore,829779,2015-05-04,RA Jadeja,3,4,0.0,0.0,0,0,0,7.0,75.0,YS Chahal,caught
+Chennai Super Kings,Royal Challengers Bangalore,829779,2015-05-04,SK Raina,52,50,5.0,1.0,1,0,0,71.0,104.0,HV Patel,lbw
+Royal Challengers Bangalore,Chennai Super Kings,829779,2015-05-04,AB de Villiers,21,14,5.0,0.0,0,0,0,30.0,150.0,IC Pandey,caught
+Royal Challengers Bangalore,Chennai Super Kings,829779,2015-05-04,D Wiese,17,15,2.0,0.0,0,0,0,23.0,113.33333333333331,DJ Bravo,caught
+Royal Challengers Bangalore,Chennai Super Kings,829779,2015-05-04,HV Patel,0,1,0.0,0.0,0,0,1,2.0,0.0,A Nehra,caught
+Royal Challengers Bangalore,Chennai Super Kings,829779,2015-05-04,Iqbal Abdulla,0,3,0.0,0.0,0,0,1,2.0,0.0,DJ Bravo,caught
+Royal Challengers Bangalore,Chennai Super Kings,829779,2015-05-04,KD Karthik,23,20,4.0,0.0,0,0,0,31.0,115.0,A Nehra,caught
+Royal Challengers Bangalore,Chennai Super Kings,829779,2015-05-04,MA Starc,1,7,0.0,0.0,0,0,0,5.0,14.285714285714285,MM Sharma,caught
+Royal Challengers Bangalore,Chennai Super Kings,829779,2015-05-04,NJ Maddinson,4,7,1.0,0.0,0,0,0,9.0,57.14285714285714,IC Pandey,bowled
+Royal Challengers Bangalore,Chennai Super Kings,829779,2015-05-04,SN Khan,8,8,1.0,0.0,0,0,0,13.0,100.0,A Nehra,caught
+Royal Challengers Bangalore,Chennai Super Kings,829779,2015-05-04,V Kohli,48,44,2.0,1.0,0,0,0,56.0,109.09090909090908,DJ Bravo,run out

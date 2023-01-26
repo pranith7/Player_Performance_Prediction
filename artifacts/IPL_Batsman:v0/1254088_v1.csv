@@ -1,0 +1,21 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Sunrisers Hyderabad,1254088,2021-10-08,HH Pandya,10,9,0.0,1.0,0,0,0,16.0,111.11111111111111,JO Holder,caught
+Mumbai Indians,Sunrisers Hyderabad,1254088,2021-10-08,Ishan Kishan,84,33,11.0,4.0,1,0,0,115.0,254.54545454545453,Umran Malik,caught
+Mumbai Indians,Sunrisers Hyderabad,1254088,2021-10-08,JDS Neesham,0,1,0.0,0.0,0,0,1,2.0,0.0,Abhishek Sharma,caught
+Mumbai Indians,Sunrisers Hyderabad,1254088,2021-10-08,JJ Bumrah,5,2,1.0,0.0,0,0,0,10.0,250.0,0,0
+Mumbai Indians,Sunrisers Hyderabad,1254088,2021-10-08,KA Pollard,13,14,1.0,0.0,0,0,0,18.0,92.85714285714286,Abhishek Sharma,caught
+Mumbai Indians,Sunrisers Hyderabad,1254088,2021-10-08,KH Pandya,9,7,1.0,0.0,0,0,0,14.0,128.57142857142858,Rashid Khan,caught
+Mumbai Indians,Sunrisers Hyderabad,1254088,2021-10-08,NM Coulter-Nile,3,3,0.0,0.0,0,0,0,7.0,100.0,JO Holder,caught
+Mumbai Indians,Sunrisers Hyderabad,1254088,2021-10-08,PP Chawla,0,2,0.0,0.0,0,0,1,2.0,0.0,JO Holder,caught
+Mumbai Indians,Sunrisers Hyderabad,1254088,2021-10-08,RG Sharma,18,13,3.0,0.0,0,0,0,25.0,138.46153846153845,Rashid Khan,caught
+Mumbai Indians,Sunrisers Hyderabad,1254088,2021-10-08,SA Yadav,82,41,13.0,3.0,1,0,0,113.0,200.0,JO Holder,caught
+Sunrisers Hyderabad,Mumbai Indians,1254088,2021-10-08,Abdul Samad,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,JDS Neesham,caught
+Sunrisers Hyderabad,Mumbai Indians,1254088,2021-10-08,Abhishek Sharma,33,16,4.0,1.0,0,0,0,43.0,206.25,JDS Neesham,caught
+Sunrisers Hyderabad,Mumbai Indians,1254088,2021-10-08,JJ Roy,34,22,6.0,0.0,0,0,0,44.0,154.54545454545453,TA Boult,caught
+Sunrisers Hyderabad,Mumbai Indians,1254088,2021-10-08,JO Holder,1,2,0.0,0.0,0,0,0,5.0,50.0,NM Coulter-Nile,caught
+Sunrisers Hyderabad,Mumbai Indians,1254088,2021-10-08,MK Pandey,69,43,7.0,2.0,1,0,0,92.0,160.46511627906978,0,0
+Sunrisers Hyderabad,Mumbai Indians,1254088,2021-10-08,Mohammad Nabi,3,4,0.0,0.0,0,0,0,7.0,75.0,PP Chawla,caught
+Sunrisers Hyderabad,Mumbai Indians,1254088,2021-10-08,PK Garg,29,21,2.0,1.0,0,0,0,37.0,138.0952380952381,JJ Bumrah,caught
+Sunrisers Hyderabad,Mumbai Indians,1254088,2021-10-08,Rashid Khan,9,5,2.0,0.0,0,0,0,15.0,180.0,JJ Bumrah,caught and bowled
+Sunrisers Hyderabad,Mumbai Indians,1254088,2021-10-08,S Kaul,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,0,0
+Sunrisers Hyderabad,Mumbai Indians,1254088,2021-10-08,WP Saha,2,5,0.0,0.0,0,0,0,6.0,40.0,NM Coulter-Nile,caught and bowled

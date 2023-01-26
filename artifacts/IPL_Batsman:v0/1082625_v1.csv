@@ -1,0 +1,23 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Gujarat Lions,Mumbai Indians,1082625,2017-04-29,AJ Finch,1,7,0.0,0.0,0,0,0,5.0,14.285714285714285,SL Malinga,bowled
+Gujarat Lions,Mumbai Indians,1082625,2017-04-29,AJ Tye,25,12,2.0,2.0,0,0,0,35.0,208.3333333333333,JJ Bumrah,run out
+Gujarat Lions,Mumbai Indians,1082625,2017-04-29,Ankit Soni,7,2,0.0,1.0,0,0,0,13.0,350.0,0,0
+Gujarat Lions,Mumbai Indians,1082625,2017-04-29,BB McCullum,7,8,1.0,0.0,0,0,0,12.0,87.5,SL Malinga,bowled
+Gujarat Lions,Mumbai Indians,1082625,2017-04-29,Basil Thampi,2,4,0.0,0.0,0,0,0,6.0,50.0,0,0
+Gujarat Lions,Mumbai Indians,1082625,2017-04-29,IK Pathan,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,KH Pandya,caught
+Gujarat Lions,Mumbai Indians,1082625,2017-04-29,Ishan Kishan,48,38,6.0,2.0,0,0,0,62.0,126.3157894736842,Harbhajan Singh,caught
+Gujarat Lions,Mumbai Indians,1082625,2017-04-29,JP Faulkner,21,29,2.0,0.0,0,0,0,27.0,72.41379310344827,JJ Bumrah,bowled
+Gujarat Lions,Mumbai Indians,1082625,2017-04-29,KD Karthik,2,9,0.0,0.0,0,0,0,6.0,22.22222222222222,KH Pandya,stumped
+Gujarat Lions,Mumbai Indians,1082625,2017-04-29,RA Jadeja,28,22,2.0,1.0,0,0,0,36.0,127.27272727272728,KH Pandya,caught and bowled
+Gujarat Lions,Mumbai Indians,1082625,2017-04-29,SK Raina,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,JJ Bumrah,caught
+Mumbai Indians,Gujarat Lions,1082625,2017-04-29,HH Pandya,4,5,0.0,0.0,0,0,0,8.0,80.0,Basil Thampi,caught
+Mumbai Indians,Gujarat Lions,1082625,2017-04-29,Harbhajan Singh,0,1,0.0,0.0,0,0,1,2.0,0.0,Basil Thampi,lbw
+Mumbai Indians,Gujarat Lions,1082625,2017-04-29,JC Buttler,10,8,2.0,0.0,0,0,0,16.0,125.0,Ankit Soni,run out
+Mumbai Indians,Gujarat Lions,1082625,2017-04-29,JJ Bumrah,0,1,0.0,0.0,0,0,1,2.0,0.0,JP Faulkner,caught
+Mumbai Indians,Gujarat Lions,1082625,2017-04-29,KA Pollard,25,14,3.0,1.0,0,0,0,34.0,178.57142857142858,IK Pathan,run out
+Mumbai Indians,Gujarat Lions,1082625,2017-04-29,KH Pandya,29,20,2.0,1.0,0,0,0,37.0,145.0,Basil Thampi,caught
+Mumbai Indians,Gujarat Lions,1082625,2017-04-29,MJ McClenaghan,1,1,0.0,0.0,0,0,0,5.0,100.0,JP Faulkner,caught
+Mumbai Indians,Gujarat Lions,1082625,2017-04-29,N Rana,19,16,1.0,1.0,0,0,0,26.0,118.75,IK Pathan,run out
+Mumbai Indians,Gujarat Lions,1082625,2017-04-29,PA Patel,70,45,9.0,1.0,1,0,0,93.0,155.55555555555557,Basil Thampi,run out
+Mumbai Indians,Gujarat Lions,1082625,2017-04-29,RG Sharma,5,13,0.0,0.0,0,0,0,9.0,38.46153846153847,Ankit Soni,lbw
+Mumbai Indians,Gujarat Lions,1082625,2017-04-29,SL Malinga,0,1,0.0,0.0,0,0,1,2.0,0.0,JP Faulkner,caught

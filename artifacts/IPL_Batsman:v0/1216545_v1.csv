@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Sunrisers Hyderabad,1216545,2020-09-26,EJG Morgan,42,31,3.0,2.0,0,0,0,53.0,135.48387096774192,0,0
+Kolkata Knight Riders,Sunrisers Hyderabad,1216545,2020-09-26,KD Karthik,0,3,0.0,0.0,0,0,1,2.0,0.0,Rashid Khan,lbw
+Kolkata Knight Riders,Sunrisers Hyderabad,1216545,2020-09-26,N Rana,26,13,6.0,0.0,0,0,0,36.0,200.0,T Natarajan,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1216545,2020-09-26,SP Narine,0,2,0.0,0.0,0,0,1,2.0,0.0,KK Ahmed,caught
+Kolkata Knight Riders,Sunrisers Hyderabad,1216545,2020-09-26,Shubman Gill,70,63,5.0,2.0,1,0,0,91.0,111.11111111111111,0,0
+Sunrisers Hyderabad,Kolkata Knight Riders,1216545,2020-09-26,Abhishek Sharma,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,0,0
+Sunrisers Hyderabad,Kolkata Knight Riders,1216545,2020-09-26,DA Warner,36,30,2.0,1.0,0,0,0,44.0,120.0,CV Varun,caught and bowled
+Sunrisers Hyderabad,Kolkata Knight Riders,1216545,2020-09-26,JM Bairstow,5,10,0.0,0.0,0,0,0,9.0,50.0,PJ Cummins,bowled
+Sunrisers Hyderabad,Kolkata Knight Riders,1216545,2020-09-26,MK Pandey,51,38,3.0,2.0,1,0,0,70.0,134.21052631578948,AD Russell,caught and bowled
+Sunrisers Hyderabad,Kolkata Knight Riders,1216545,2020-09-26,Mohammad Nabi,11,8,2.0,0.0,0,0,0,17.0,137.5,0,0
+Sunrisers Hyderabad,Kolkata Knight Riders,1216545,2020-09-26,WP Saha,30,34,1.0,1.0,0,0,0,37.0,88.23529411764706,AD Russell,run out

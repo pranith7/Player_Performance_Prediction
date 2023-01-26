@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Kolkata Knight Riders,1254098,2021-09-26,AT Rayudu,10,10,1.0,0.0,0,0,0,15.0,100.0,SP Narine,bowled
+Chennai Super Kings,Kolkata Knight Riders,1254098,2021-09-26,DL Chahar,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Chennai Super Kings,Kolkata Knight Riders,1254098,2021-09-26,F du Plessis,43,30,7.0,0.0,0,0,0,54.0,143.33333333333334,M Prasidh Krishna,caught
+Chennai Super Kings,Kolkata Knight Riders,1254098,2021-09-26,MM Ali,32,29,2.0,1.0,0,0,0,40.0,110.34482758620688,LH Ferguson,caught
+Chennai Super Kings,Kolkata Knight Riders,1254098,2021-09-26,MS Dhoni,1,4,0.0,0.0,0,0,0,5.0,25.0,CV Varun,bowled
+Chennai Super Kings,Kolkata Knight Riders,1254098,2021-09-26,RA Jadeja,22,8,2.0,2.0,0,0,0,32.0,275.0,SP Narine,lbw
+Chennai Super Kings,Kolkata Knight Riders,1254098,2021-09-26,RD Gaikwad,40,28,2.0,3.0,0,0,0,52.0,142.85714285714286,AD Russell,caught
+Chennai Super Kings,Kolkata Knight Riders,1254098,2021-09-26,SK Raina,11,7,1.0,0.0,0,0,0,16.0,157.14285714285714,CV Varun,run out
+Chennai Super Kings,Kolkata Knight Riders,1254098,2021-09-26,SM Curran,4,4,0.0,0.0,0,0,0,8.0,100.0,SP Narine,caught
+Chennai Super Kings,Kolkata Knight Riders,1254098,2021-09-26,SN Thakur,3,2,0.0,0.0,0,0,0,7.0,150.0,0,0
+Kolkata Knight Riders,Chennai Super Kings,1254098,2021-09-26,AD Russell,20,15,2.0,1.0,0,0,0,28.0,133.33333333333331,SN Thakur,bowled
+Kolkata Knight Riders,Chennai Super Kings,1254098,2021-09-26,EJG Morgan,8,14,0.0,0.0,0,0,0,12.0,57.14285714285714,JR Hazlewood,caught
+Kolkata Knight Riders,Chennai Super Kings,1254098,2021-09-26,KD Karthik,26,12,3.0,1.0,0,0,0,35.0,216.66666666666663,JR Hazlewood,caught
+Kolkata Knight Riders,Chennai Super Kings,1254098,2021-09-26,N Rana,37,30,3.0,1.0,0,0,0,46.0,123.33333333333334,0,0
+Kolkata Knight Riders,Chennai Super Kings,1254098,2021-09-26,RA Tripathi,45,33,4.0,1.0,0,0,0,55.0,136.36363636363637,RA Jadeja,bowled
+Kolkata Knight Riders,Chennai Super Kings,1254098,2021-09-26,SP Narine,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Kolkata Knight Riders,Chennai Super Kings,1254098,2021-09-26,Shubman Gill,9,5,2.0,0.0,0,0,0,15.0,180.0,DL Chahar,run out
+Kolkata Knight Riders,Chennai Super Kings,1254098,2021-09-26,VR Iyer,18,16,3.0,0.0,0,0,0,25.0,112.5,SN Thakur,caught

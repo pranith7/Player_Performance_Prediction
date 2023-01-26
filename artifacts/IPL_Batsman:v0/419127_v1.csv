@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Kolkata Knight Riders,419127,2010-03-27,B Lee,7,6,1.0,0.0,0,0,0,12.0,116.66666666666669,0,0
+Kings XI Punjab,Kolkata Knight Riders,419127,2010-03-27,DPMD Jayawardene,16,15,1.0,0.0,0,0,0,21.0,106.66666666666669,AD Mathews,bowled
+Kings XI Punjab,Kolkata Knight Riders,419127,2010-03-27,IK Pathan,22,14,1.0,1.0,0,0,0,29.0,157.14285714285714,SE Bond,caught and bowled
+Kings XI Punjab,Kolkata Knight Riders,419127,2010-03-27,K Goel,17,17,1.0,1.0,0,0,0,24.0,100.0,0,0
+Kings XI Punjab,Kolkata Knight Riders,419127,2010-03-27,KC Sangakkara,30,27,3.0,0.0,0,0,0,37.0,111.11111111111111,CH Gayle,stumped
+Kings XI Punjab,Kolkata Knight Riders,419127,2010-03-27,MS Bisla,22,28,3.0,0.0,0,0,0,29.0,78.57142857142857,AB Agarkar,caught
+Kings XI Punjab,Kolkata Knight Riders,419127,2010-03-27,RS Bopara,0,2,0.0,0.0,0,0,1,2.0,0.0,SE Bond,lbw
+Kings XI Punjab,Kolkata Knight Riders,419127,2010-03-27,Yuvraj Singh,24,16,3.0,1.0,0,0,0,33.0,150.0,AB Agarkar,caught
+Kolkata Knight Riders,Kings XI Punjab,419127,2010-03-27,AD Mathews,19,13,2.0,0.0,0,0,0,25.0,146.15384615384613,IK Pathan,caught
+Kolkata Knight Riders,Kings XI Punjab,419127,2010-03-27,CH Gayle,14,13,3.0,0.0,0,0,0,21.0,107.6923076923077,SJ Srivastava,caught
+Kolkata Knight Riders,Kings XI Punjab,419127,2010-03-27,DJ Hussey,3,5,0.0,0.0,0,0,0,7.0,60.0,PP Chawla,bowled
+Kolkata Knight Riders,Kings XI Punjab,419127,2010-03-27,MK Tiwary,75,50,8.0,2.0,1,0,0,99.0,150.0,0,0
+Kolkata Knight Riders,Kings XI Punjab,419127,2010-03-27,Mandeep Singh,4,7,1.0,0.0,0,0,0,9.0,57.14285714285714,SJ Srivastava,caught
+Kolkata Knight Riders,Kings XI Punjab,419127,2010-03-27,SC Ganguly,50,42,6.0,1.0,1,0,0,70.0,119.04761904761904,IK Pathan,caught

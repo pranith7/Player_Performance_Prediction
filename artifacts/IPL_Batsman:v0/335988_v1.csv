@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Delhi Daredevils,335988,2008-04-22,A Symonds,12,13,2.0,0.0,0,0,0,18.0,92.3076923076923,MF Maharoof,caught
+Deccan Chargers,Delhi Daredevils,335988,2008-04-22,AC Gilchrist,8,9,0.0,1.0,0,0,0,14.0,88.88888888888889,Mohammad Asif,bowled
+Deccan Chargers,Delhi Daredevils,335988,2008-04-22,AS Yadav,12,7,2.0,0.0,0,0,0,18.0,171.42857142857142,VY Mahesh,caught
+Deccan Chargers,Delhi Daredevils,335988,2008-04-22,RG Sharma,66,37,6.0,4.0,1,0,0,92.0,178.3783783783784,R Bhatia,caught
+Deccan Chargers,Delhi Daredevils,335988,2008-04-22,RP Singh,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Deccan Chargers,Delhi Daredevils,335988,2008-04-22,SB Bangar,8,14,0.0,0.0,0,0,0,12.0,57.14285714285714,R Bhatia,run out
+Deccan Chargers,Delhi Daredevils,335988,2008-04-22,Shahid Afridi,2,7,0.0,0.0,0,0,0,6.0,28.57142857142857,R Bhatia,lbw
+Deccan Chargers,Delhi Daredevils,335988,2008-04-22,VVS Laxman,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,Mohammad Asif,bowled
+Deccan Chargers,Delhi Daredevils,335988,2008-04-22,WPUJC Vaas,12,6,0.0,1.0,0,0,0,18.0,200.0,0,0
+Deccan Chargers,Delhi Daredevils,335988,2008-04-22,Y Venugopal Rao,14,22,2.0,0.0,0,0,0,20.0,63.63636363636363,MF Maharoof,caught
+Delhi Daredevils,Deccan Chargers,335988,2008-04-22,G Gambhir,12,9,2.0,0.0,0,0,0,18.0,133.33333333333331,RP Singh,caught
+Delhi Daredevils,Deccan Chargers,335988,2008-04-22,S Dhawan,25,31,3.0,0.0,0,0,0,32.0,80.64516129032258,0,0
+Delhi Daredevils,Deccan Chargers,335988,2008-04-22,V Sehwag,94,43,10.0,6.0,1,0,0,128.0,218.60465116279067,0,0

@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Lucknow Super Giants,Royal Challengers Bangalore,1312198,2022-05-25,DJ Hooda,45,28,1.0,4.0,0,0,0,58.0,160.71428571428572,PWH de Silva,bowled
+Lucknow Super Giants,Royal Challengers Bangalore,1312198,2022-05-25,E Lewis,2,8,0.0,0.0,0,0,0,6.0,25.0,0,0
+Lucknow Super Giants,Royal Challengers Bangalore,1312198,2022-05-25,KH Pandya,0,1,0.0,0.0,0,0,1,2.0,0.0,JR Hazlewood,caught and bowled
+Lucknow Super Giants,Royal Challengers Bangalore,1312198,2022-05-25,KL Rahul,79,59,3.0,5.0,1,0,0,104.0,133.89830508474577,JR Hazlewood,caught
+Lucknow Super Giants,Royal Challengers Bangalore,1312198,2022-05-25,M Vohra,19,12,1.0,2.0,0,0,0,28.0,158.33333333333331,JR Hazlewood,caught
+Lucknow Super Giants,Royal Challengers Bangalore,1312198,2022-05-25,MP Stoinis,9,12,0.0,1.0,0,0,0,15.0,75.0,HV Patel,caught
+Lucknow Super Giants,Royal Challengers Bangalore,1312198,2022-05-25,PVD Chameera,11,5,1.0,1.0,0,0,0,18.0,220.00000000000003,0,0
+Lucknow Super Giants,Royal Challengers Bangalore,1312198,2022-05-25,Q de Kock,6,5,0.0,1.0,0,0,0,12.0,120.0,Mohammed Siraj,caught
+Royal Challengers Bangalore,Lucknow Super Giants,1312198,2022-05-25,F du Plessis,0,1,0.0,0.0,0,0,1,2.0,0.0,Mohsin Khan (2),caught
+Royal Challengers Bangalore,Lucknow Super Giants,1312198,2022-05-25,GJ Maxwell,9,10,0.0,1.0,0,0,0,15.0,90.0,KH Pandya,caught
+Royal Challengers Bangalore,Lucknow Super Giants,1312198,2022-05-25,KD Karthik,37,25,5.0,1.0,0,0,0,48.0,148.0,0,0
+Royal Challengers Bangalore,Lucknow Super Giants,1312198,2022-05-25,MK Lomror,14,9,2.0,0.0,0,0,0,20.0,155.55555555555557,Ravi Bishnoi,caught
+Royal Challengers Bangalore,Lucknow Super Giants,1312198,2022-05-25,RM Patidar,112,55,12.0,7.0,1,1,0,166.0,203.63636363636363,0,0
+Royal Challengers Bangalore,Lucknow Super Giants,1312198,2022-05-25,V Kohli,25,26,2.0,0.0,0,0,0,31.0,96.15384615384616,Avesh Khan,caught

@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Gujarat Lions,Rising Pune Supergiant,1082603,2017-04-14,AJ Finch,33,20,3.0,2.0,0,0,0,44.0,165.0,0,0
+Gujarat Lions,Rising Pune Supergiant,1082603,2017-04-14,BB McCullum,49,33,5.0,3.0,0,0,0,64.0,148.4848484848485,RD Chahar,stumped
+Gujarat Lions,Rising Pune Supergiant,1082603,2017-04-14,DR Smith,47,31,8.0,1.0,0,0,0,61.0,151.61290322580646,SN Thakur,caught
+Gujarat Lions,Rising Pune Supergiant,1082603,2017-04-14,KD Karthik,3,5,0.0,0.0,0,0,0,7.0,60.0,Imran Tahir,bowled
+Gujarat Lions,Rising Pune Supergiant,1082603,2017-04-14,SK Raina,35,23,4.0,1.0,0,0,0,45.0,152.17391304347828,0,0
+Rising Pune Supergiant,Gujarat Lions,1082603,2017-04-14,AM Rahane,0,3,0.0,0.0,0,0,1,2.0,0.0,P Kumar,caught
+Rising Pune Supergiant,Gujarat Lions,1082603,2017-04-14,Ankit Sharma,25,16,2.0,1.0,0,0,0,33.0,156.25,AJ Tye,caught
+Rising Pune Supergiant,Gujarat Lions,1082603,2017-04-14,BA Stokes,25,18,2.0,1.0,0,0,0,33.0,138.88888888888889,AJ Tye,bowled
+Rising Pune Supergiant,Gujarat Lions,1082603,2017-04-14,LH Ferguson,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Rising Pune Supergiant,Gujarat Lions,1082603,2017-04-14,MK Tiwary,31,28,2.0,1.0,0,0,0,39.0,110.71428571428572,AJ Tye,caught
+Rising Pune Supergiant,Gujarat Lions,1082603,2017-04-14,MS Dhoni,5,8,0.0,0.0,0,0,0,9.0,62.5,RA Jadeja,lbw
+Rising Pune Supergiant,Gujarat Lions,1082603,2017-04-14,RA Tripathi,33,17,3.0,2.0,0,0,0,44.0,194.1176470588236,AJ Tye,caught
+Rising Pune Supergiant,Gujarat Lions,1082603,2017-04-14,RD Chahar,3,2,0.0,0.0,0,0,0,7.0,150.0,0,0
+Rising Pune Supergiant,Gujarat Lions,1082603,2017-04-14,SN Thakur,0,1,0.0,0.0,0,0,1,2.0,0.0,AJ Tye,bowled
+Rising Pune Supergiant,Gujarat Lions,1082603,2017-04-14,SPD Smith,43,30,6.0,1.0,0,0,0,55.0,143.33333333333334,DR Smith,caught

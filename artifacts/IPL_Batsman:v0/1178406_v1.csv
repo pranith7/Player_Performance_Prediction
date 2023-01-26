@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Royal Challengers Bangalore,1178406,2019-04-15,HH Pandya,37,19,5.0,2.0,0,0,0,50.0,194.73684210526315,0,0
+Mumbai Indians,Royal Challengers Bangalore,1178406,2019-04-15,Ishan Kishan,21,9,0.0,3.0,0,0,0,31.0,233.3333333333333,YS Chahal,stumped
+Mumbai Indians,Royal Challengers Bangalore,1178406,2019-04-15,KH Pandya,11,22,1.0,0.0,0,0,0,16.0,50.0,Mohammed Siraj,caught
+Mumbai Indians,Royal Challengers Bangalore,1178406,2019-04-15,Q de Kock,40,27,5.0,2.0,0,0,0,53.0,148.14814814814815,MM Ali,lbw
+Mumbai Indians,Royal Challengers Bangalore,1178406,2019-04-15,RG Sharma,28,20,2.0,2.0,0,0,0,38.0,140.0,MM Ali,bowled
+Mumbai Indians,Royal Challengers Bangalore,1178406,2019-04-15,SA Yadav,29,23,2.0,1.0,0,0,0,37.0,126.08695652173914,YS Chahal,caught
+Royal Challengers Bangalore,Mumbai Indians,1178406,2019-04-15,AB de Villiers,75,51,6.0,4.0,1,0,0,101.0,147.05882352941177,SL Malinga,run out
+Royal Challengers Bangalore,Mumbai Indians,1178406,2019-04-15,AD Nath,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,SL Malinga,caught
+Royal Challengers Bangalore,Mumbai Indians,1178406,2019-04-15,MM Ali,50,32,1.0,5.0,1,0,0,73.0,156.25,SL Malinga,caught
+Royal Challengers Bangalore,Mumbai Indians,1178406,2019-04-15,MP Stoinis,0,2,0.0,0.0,0,0,1,2.0,0.0,SL Malinga,caught
+Royal Challengers Bangalore,Mumbai Indians,1178406,2019-04-15,P Negi,0,2,0.0,0.0,0,0,1,2.0,0.0,SL Malinga,caught
+Royal Challengers Bangalore,Mumbai Indians,1178406,2019-04-15,PA Patel,28,20,4.0,1.0,0,0,0,38.0,140.0,HH Pandya,caught
+Royal Challengers Bangalore,Mumbai Indians,1178406,2019-04-15,UT Yadav,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Royal Challengers Bangalore,Mumbai Indians,1178406,2019-04-15,V Kohli,8,10,1.0,0.0,0,0,0,13.0,80.0,JP Behrendorff,caught

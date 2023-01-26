@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Kochi Tuskers Kerala,501238,2011-05-02,DA Warner,13,15,2.0,0.0,0,0,0,19.0,86.66666666666667,S Sreesanth,caught
+Delhi Daredevils,Kochi Tuskers Kerala,501238,2011-05-02,IK Pathan,5,6,0.0,0.0,0,0,0,9.0,83.33333333333334,0,0
+Delhi Daredevils,Kochi Tuskers Kerala,501238,2011-05-02,NV Ojha,13,15,1.0,1.0,0,0,0,20.0,86.66666666666667,RP Singh,caught
+Delhi Daredevils,Kochi Tuskers Kerala,501238,2011-05-02,RE van der Merwe,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,0,0
+Delhi Daredevils,Kochi Tuskers Kerala,501238,2011-05-02,TR Birt,27,15,5.0,0.0,0,0,0,36.0,180.0,R Vinay Kumar,caught
+Delhi Daredevils,Kochi Tuskers Kerala,501238,2011-05-02,V Sehwag,15,9,2.0,1.0,0,0,0,23.0,166.66666666666669,P Parameswaran,caught
+Delhi Daredevils,Kochi Tuskers Kerala,501238,2011-05-02,Y Nagar,18,24,1.0,0.0,0,0,0,23.0,75.0,R Vinay Kumar,caught
+Delhi Daredevils,Kochi Tuskers Kerala,501238,2011-05-02,Y Venugopal Rao,40,38,5.0,0.0,0,0,0,49.0,105.26315789473684,P Parameswaran,caught
+Kochi Tuskers Kerala,Delhi Daredevils,501238,2011-05-02,BB McCullum,37,22,5.0,2.0,0,0,0,50.0,168.1818181818182,M Morkel,caught
+Kochi Tuskers Kerala,Delhi Daredevils,501238,2011-05-02,BJ Hodge,24,13,3.0,1.0,0,0,0,33.0,184.6153846153846,0,0
+Kochi Tuskers Kerala,Delhi Daredevils,501238,2011-05-02,DPMD Jayawardene,7,11,1.0,0.0,0,0,0,12.0,63.63636363636363,RE van der Merwe,run out
+Kochi Tuskers Kerala,Delhi Daredevils,501238,2011-05-02,M Klinger,18,21,3.0,0.0,0,0,0,25.0,85.71428571428571,RE van der Merwe,lbw
+Kochi Tuskers Kerala,Delhi Daredevils,501238,2011-05-02,PA Patel,37,34,5.0,0.0,0,0,0,46.0,108.8235294117647,0,0

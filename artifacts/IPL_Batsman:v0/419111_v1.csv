@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Rajasthan Royals,419111,2010-03-15,AB de Villiers,15,26,0.0,0.0,0,0,0,19.0,57.692307692307686,SK Warne,caught
+Delhi Daredevils,Rajasthan Royals,419111,2010-03-15,G Gambhir,9,8,1.0,0.0,0,0,0,14.0,112.5,AD Mascarenhas,caught
+Delhi Daredevils,Rajasthan Royals,419111,2010-03-15,KD Karthik,23,27,2.0,0.0,0,0,0,29.0,85.18518518518519,0,0
+Delhi Daredevils,Rajasthan Royals,419111,2010-03-15,M Manhas,11,10,1.0,0.0,0,0,0,16.0,110.0,0,0
+Delhi Daredevils,Rajasthan Royals,419111,2010-03-15,TM Dilshan,0,1,0.0,0.0,0,0,1,2.0,0.0,AD Mascarenhas,caught
+Delhi Daredevils,Rajasthan Royals,419111,2010-03-15,V Sehwag,75,35,8.0,5.0,1,0,0,105.0,214.28571428571428,MM Patel,caught
+Rajasthan Royals,Delhi Daredevils,419111,2010-03-15,A Uniyal,4,6,0.0,0.0,0,0,0,8.0,66.66666666666666,0,0
+Rajasthan Royals,Delhi Daredevils,419111,2010-03-15,AA Jhunjhunwala,53,48,5.0,1.0,1,0,0,72.0,110.41666666666669,0,0
+Rajasthan Royals,Delhi Daredevils,419111,2010-03-15,AD Mascarenhas,3,3,0.0,0.0,0,0,0,7.0,100.0,DP Nannes,run out
+Rajasthan Royals,Delhi Daredevils,419111,2010-03-15,GC Smith,18,18,3.0,0.0,0,0,0,25.0,100.0,PJ Sangwan,caught
+Rajasthan Royals,Delhi Daredevils,419111,2010-03-15,NV Ojha,24,14,4.0,1.0,0,0,0,34.0,171.42857142857142,A Mishra,bowled
+Rajasthan Royals,Delhi Daredevils,419111,2010-03-15,P Dogra,29,27,1.0,2.0,0,0,0,38.0,107.40740740740742,A Mishra,run out
+Rajasthan Royals,Delhi Daredevils,419111,2010-03-15,SA Asnodkar,5,4,1.0,0.0,0,0,0,10.0,125.0,DP Nannes,caught
+Rajasthan Royals,Delhi Daredevils,419111,2010-03-15,YK Pathan,0,5,0.0,0.0,0,0,1,2.0,0.0,MF Maharoof,caught

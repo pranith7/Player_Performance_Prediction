@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Kolkata Knight Riders,733971,2014-05-02,BB McCullum,56,40,5.0,2.0,1,0,0,77.0,140.0,AD Russell,caught
+Chennai Super Kings,Kolkata Knight Riders,733971,2014-05-02,DR Smith,16,11,2.0,1.0,0,0,0,24.0,145.45454545454547,Shakib Al Hasan,lbw
+Chennai Super Kings,Kolkata Knight Riders,733971,2014-05-02,MS Dhoni,22,17,1.0,1.0,0,0,0,29.0,129.41176470588235,0,0
+Chennai Super Kings,Kolkata Knight Riders,733971,2014-05-02,RA Jadeja,17,10,1.0,1.0,0,0,0,24.0,170.0,0,0
+Chennai Super Kings,Kolkata Knight Riders,733971,2014-05-02,SK Raina,31,25,4.0,1.0,0,0,0,41.0,124.0,Shakib Al Hasan,caught
+Kolkata Knight Riders,Chennai Super Kings,733971,2014-05-02,AD Russell,1,5,0.0,0.0,0,0,0,5.0,20.0,MM Sharma,bowled
+Kolkata Knight Riders,Chennai Super Kings,733971,2014-05-02,G Gambhir,6,6,1.0,0.0,0,0,0,11.0,100.0,BW Hilfenhaus,run out
+Kolkata Knight Riders,Chennai Super Kings,733971,2014-05-02,JH Kallis,4,6,1.0,0.0,0,0,0,9.0,66.66666666666666,R Ashwin,caught
+Kolkata Knight Riders,Chennai Super Kings,733971,2014-05-02,MK Pandey,1,2,0.0,0.0,0,0,0,5.0,50.0,RA Jadeja,caught
+Kolkata Knight Riders,Chennai Super Kings,733971,2014-05-02,PP Chawla,1,2,0.0,0.0,0,0,0,5.0,50.0,MM Sharma,caught
+Kolkata Knight Riders,Chennai Super Kings,733971,2014-05-02,RV Uthappa,47,38,5.0,1.0,0,0,0,58.0,123.6842105263158,RA Jadeja,caught
+Kolkata Knight Riders,Chennai Super Kings,733971,2014-05-02,SA Yadav,8,13,0.0,0.0,0,0,0,12.0,61.53846153846154,RA Jadeja,lbw
+Kolkata Knight Riders,Chennai Super Kings,733971,2014-05-02,SP Narine,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Kolkata Knight Riders,Chennai Super Kings,733971,2014-05-02,Shakib Al Hasan,0,1,0.0,0.0,0,0,1,2.0,0.0,RA Jadeja,caught
+Kolkata Knight Riders,Chennai Super Kings,733971,2014-05-02,YK Pathan,41,29,1.0,4.0,0,0,0,54.0,141.3793103448276,MM Sharma,lbw

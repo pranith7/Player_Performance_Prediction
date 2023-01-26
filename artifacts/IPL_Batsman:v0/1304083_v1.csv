@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Lucknow Super Giants,Mumbai Indians,1304083,2022-04-24,A Badoni,14,11,0.0,1.0,0,0,0,20.0,127.27272727272728,RP Meredith,caught
+Lucknow Super Giants,Mumbai Indians,1304083,2022-04-24,DJ Hooda,10,9,1.0,0.0,0,0,0,15.0,111.11111111111111,RP Meredith,caught
+Lucknow Super Giants,Mumbai Indians,1304083,2022-04-24,JO Holder,0,2,0.0,0.0,0,0,1,2.0,0.0,0,0
+Lucknow Super Giants,Mumbai Indians,1304083,2022-04-24,KH Pandya,1,2,0.0,0.0,0,0,0,5.0,50.0,KA Pollard,caught
+Lucknow Super Giants,Mumbai Indians,1304083,2022-04-24,KL Rahul,103,67,12.0,4.0,1,1,0,151.0,153.73134328358208,0,0
+Lucknow Super Giants,Mumbai Indians,1304083,2022-04-24,MK Pandey,22,22,0.0,1.0,0,0,0,28.0,100.0,KA Pollard,caught
+Lucknow Super Giants,Mumbai Indians,1304083,2022-04-24,MP Stoinis,0,3,0.0,0.0,0,0,1,2.0,0.0,DR Sams,caught
+Lucknow Super Giants,Mumbai Indians,1304083,2022-04-24,Q de Kock,10,9,0.0,1.0,0,0,0,16.0,111.11111111111111,JJ Bumrah,caught
+Mumbai Indians,Lucknow Super Giants,1304083,2022-04-24,D Brevis,3,5,0.0,0.0,0,0,0,7.0,60.0,Mohsin Khan (2),caught
+Mumbai Indians,Lucknow Super Giants,1304083,2022-04-24,DR Sams,3,8,0.0,0.0,0,0,0,7.0,37.5,KH Pandya,caught
+Mumbai Indians,Lucknow Super Giants,1304083,2022-04-24,Ishan Kishan,8,21,0.0,0.0,0,0,0,12.0,38.095238095238095,Ravi Bishnoi,caught
+Mumbai Indians,Lucknow Super Giants,1304083,2022-04-24,JD Unadkat,1,1,0.0,0.0,0,0,0,5.0,100.0,KH Pandya,run out
+Mumbai Indians,Lucknow Super Giants,1304083,2022-04-24,JJ Bumrah,0,2,0.0,0.0,0,0,1,2.0,0.0,0,0
+Mumbai Indians,Lucknow Super Giants,1304083,2022-04-24,KA Pollard,19,22,0.0,1.0,0,0,0,25.0,86.36363636363636,KH Pandya,caught
+Mumbai Indians,Lucknow Super Giants,1304083,2022-04-24,RG Sharma,39,32,5.0,1.0,0,0,0,50.0,121.875,KH Pandya,caught
+Mumbai Indians,Lucknow Super Giants,1304083,2022-04-24,SA Yadav,7,7,1.0,0.0,0,0,0,12.0,100.0,A Badoni,caught
+Mumbai Indians,Lucknow Super Giants,1304083,2022-04-24,Tilak Varma,38,30,2.0,2.0,0,0,0,48.0,126.66666666666666,JO Holder,caught

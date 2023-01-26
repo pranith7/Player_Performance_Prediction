@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Rajasthan Royals,734017,2014-05-19,KA Pollard,14,12,0.0,1.0,0,0,0,20.0,116.66666666666669,0,0
+Mumbai Indians,Rajasthan Royals,734017,2014-05-19,LMP Simmons,62,51,6.0,2.0,1,0,0,84.0,121.5686274509804,Ankit Sharma,caught
+Mumbai Indians,Rajasthan Royals,734017,2014-05-19,MEK Hussey,56,41,3.0,2.0,1,0,0,75.0,136.58536585365854,Ankit Sharma,caught
+Mumbai Indians,Rajasthan Royals,734017,2014-05-19,RG Sharma,40,19,3.0,4.0,0,0,0,55.0,210.52631578947367,JP Faulkner,run out
+Rajasthan Royals,Mumbai Indians,734017,2014-05-19,Ankit Sharma,4,4,0.0,0.0,0,0,0,8.0,100.0,S Gopal,caught
+Rajasthan Royals,Mumbai Indians,734017,2014-05-19,BJ Hodge,40,31,0.0,3.0,0,0,0,50.0,129.03225806451613,K Santokie,caught
+Rajasthan Royals,Mumbai Indians,734017,2014-05-19,JP Faulkner,31,22,1.0,2.0,0,0,0,40.0,140.9090909090909,0,0
+Rajasthan Royals,Mumbai Indians,734017,2014-05-19,KK Cooper,5,9,0.0,0.0,0,0,0,9.0,55.55555555555556,Harbhajan Singh,caught
+Rajasthan Royals,Mumbai Indians,734017,2014-05-19,KK Nair,48,26,4.0,3.0,0,0,0,62.0,184.6153846153846,Harbhajan Singh,caught
+Rajasthan Royals,Mumbai Indians,734017,2014-05-19,R Bhatia,6,4,1.0,0.0,0,0,0,11.0,150.0,0,0
+Rajasthan Royals,Mumbai Indians,734017,2014-05-19,SR Watson,5,6,1.0,0.0,0,0,0,10.0,83.33333333333334,PP Ojha,caught
+Rajasthan Royals,Mumbai Indians,734017,2014-05-19,STR Binny,2,10,0.0,0.0,0,0,0,6.0,20.0,S Gopal,stumped
+Rajasthan Royals,Mumbai Indians,734017,2014-05-19,SV Samson,2,5,0.0,0.0,0,0,0,6.0,40.0,K Santokie,caught
+Rajasthan Royals,Mumbai Indians,734017,2014-05-19,UBT Chand,2,10,0.0,0.0,0,0,0,6.0,20.0,PP Ojha,caught

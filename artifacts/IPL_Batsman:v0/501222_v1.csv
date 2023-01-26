@@ -1,0 +1,9 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Royal Challengers Bangalore,501222,2011-04-22,BJ Haddin,18,11,2.0,1.0,0,0,0,26.0,163.63636363636363,J Syed Mohammad,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,501222,2011-04-22,EJG Morgan,6,6,0.0,0.0,0,0,0,10.0,100.0,S Aravind,run out
+Kolkata Knight Riders,Royal Challengers Bangalore,501222,2011-04-22,G Gambhir,48,41,6.0,0.0,0,0,0,58.0,117.07317073170732,S Aravind,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,501222,2011-04-22,JH Kallis,40,45,4.0,0.0,0,0,0,48.0,88.88888888888889,DL Vettori,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,501222,2011-04-22,YK Pathan,46,26,3.0,3.0,0,0,0,59.0,176.9230769230769,S Aravind,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,501222,2011-04-22,CH Gayle,102,57,10.0,7.0,1,1,0,154.0,178.94736842105263,0,0
+Royal Challengers Bangalore,Kolkata Knight Riders,501222,2011-04-22,TM Dilshan,38,32,6.0,0.0,0,0,0,48.0,118.75,L Balaji,bowled
+Royal Challengers Bangalore,Kolkata Knight Riders,501222,2011-04-22,V Kohli,30,24,3.0,1.0,0,0,0,39.0,125.0,0,0

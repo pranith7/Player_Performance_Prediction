@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Sunrisers Hyderabad,598030,2013-04-25,CH Morris,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Chennai Super Kings,Sunrisers Hyderabad,598030,2013-04-25,DJ Bravo,7,16,0.0,0.0,0,0,0,11.0,43.75,I Sharma,caught
+Chennai Super Kings,Sunrisers Hyderabad,598030,2013-04-25,M Vijay,18,23,2.0,0.0,0,0,0,24.0,78.26086956521739,A Mishra,stumped
+Chennai Super Kings,Sunrisers Hyderabad,598030,2013-04-25,MEK Hussey,45,28,5.0,2.0,0,0,0,58.0,160.71428571428572,A Mishra,caught
+Chennai Super Kings,Sunrisers Hyderabad,598030,2013-04-25,MS Dhoni,67,38,7.0,4.0,1,0,0,94.0,176.3157894736842,0,0
+Chennai Super Kings,Sunrisers Hyderabad,598030,2013-04-25,RA Jadeja,1,4,0.0,0.0,0,0,0,5.0,25.0,DW Steyn,caught
+Chennai Super Kings,Sunrisers Hyderabad,598030,2013-04-25,SK Raina,16,13,1.0,0.0,0,0,0,21.0,123.07692307692308,A Mishra,caught
+Sunrisers Hyderabad,Chennai Super Kings,598030,2013-04-25,A Ashish Reddy,36,16,2.0,3.0,0,0,0,48.0,225.0,0,0
+Sunrisers Hyderabad,Chennai Super Kings,598030,2013-04-25,A Mishra,15,21,2.0,0.0,0,0,0,21.0,71.42857142857143,R Ashwin,caught
+Sunrisers Hyderabad,Chennai Super Kings,598030,2013-04-25,CL White,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,MM Sharma,caught
+Sunrisers Hyderabad,Chennai Super Kings,598030,2013-04-25,DJG Sammy,19,12,2.0,1.0,0,0,0,27.0,158.33333333333331,DJ Bravo,caught
+Sunrisers Hyderabad,Chennai Super Kings,598030,2013-04-25,GH Vihari,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,JO Holder,run out
+Sunrisers Hyderabad,Chennai Super Kings,598030,2013-04-25,Q de Kock,4,3,1.0,0.0,0,0,0,9.0,133.33333333333331,MM Sharma,caught
+Sunrisers Hyderabad,Chennai Super Kings,598030,2013-04-25,S Dhawan,63,48,10.0,0.0,1,0,0,85.0,131.25,0,0
+Sunrisers Hyderabad,Chennai Super Kings,598030,2013-04-25,X Thalaivan Sargunam,10,17,0.0,0.0,0,0,0,14.0,58.82352941176471,DJ Bravo,caught and bowled

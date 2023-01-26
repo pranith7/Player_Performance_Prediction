@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Kolkata Knight Riders,336035,2008-05-25,DPMD Jayawardene,11,10,1.0,0.0,0,0,0,16.0,110.0,0,0
+Kings XI Punjab,Kolkata Knight Riders,336035,2008-05-25,IK Pathan,7,4,1.0,0.0,0,0,0,12.0,175.0,Umar Gul,bowled
+Kings XI Punjab,Kolkata Knight Riders,336035,2008-05-25,JR Hopes,13,11,2.0,0.0,0,0,0,19.0,118.1818181818182,Umar Gul,lbw
+Kings XI Punjab,Kolkata Knight Riders,336035,2008-05-25,KC Sangakkara,64,48,7.0,2.0,1,0,0,87.0,133.33333333333331,Umar Gul,lbw
+Kings XI Punjab,Kolkata Knight Riders,336035,2008-05-25,PP Chawla,0,1,0.0,0.0,0,0,1,2.0,0.0,Umar Gul,bowled
+Kings XI Punjab,Kolkata Knight Riders,336035,2008-05-25,SE Marsh,40,32,3.0,2.0,0,0,0,51.0,125.0,BAW Mendis,caught
+Kings XI Punjab,Kolkata Knight Riders,336035,2008-05-25,TM Srivastava,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Kings XI Punjab,Kolkata Knight Riders,336035,2008-05-25,Yuvraj Singh,27,19,3.0,1.0,0,0,0,36.0,142.10526315789474,AB Dinda,run out
+Kolkata Knight Riders,Kings XI Punjab,336035,2008-05-25,A Chopra,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,JR Hopes,caught
+Kolkata Knight Riders,Kings XI Punjab,336035,2008-05-25,DB Das,0,1,0.0,0.0,0,0,1,2.0,0.0,S Sreesanth,lbw
+Kolkata Knight Riders,Kings XI Punjab,336035,2008-05-25,DJ Hussey,12,11,2.0,0.0,0,0,0,18.0,109.09090909090908,PP Chawla,bowled
+Kolkata Knight Riders,Kings XI Punjab,336035,2008-05-25,I Sharma,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Kolkata Knight Riders,Kings XI Punjab,336035,2008-05-25,LR Shukla,5,4,1.0,0.0,0,0,0,10.0,125.0,VRV Singh,bowled
+Kolkata Knight Riders,Kings XI Punjab,336035,2008-05-25,SC Ganguly,86,56,6.0,6.0,1,0,0,116.0,153.57142857142858,0,0
+Kolkata Knight Riders,Kings XI Punjab,336035,2008-05-25,Salman Butt,24,20,5.0,0.0,0,0,0,33.0,120.0,S Sreesanth,caught
+Kolkata Knight Riders,Kings XI Punjab,336035,2008-05-25,Umar Gul,24,11,1.0,3.0,0,0,0,35.0,218.18181818181816,VRV Singh,caught
+Kolkata Knight Riders,Kings XI Punjab,336035,2008-05-25,WP Saha,13,15,2.0,0.0,0,0,0,19.0,86.66666666666667,PP Chawla,caught

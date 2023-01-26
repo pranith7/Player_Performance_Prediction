@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Rajasthan Royals,598043,2013-05-03,G Gambhir,12,16,1.0,0.0,0,0,0,17.0,75.0,SR Watson,stumped
+Kolkata Knight Riders,Rajasthan Royals,598043,2013-05-03,JH Kallis,33,30,2.0,1.0,0,0,0,41.0,110.0,0,0
+Kolkata Knight Riders,Rajasthan Royals,598043,2013-05-03,MS Bisla,29,26,4.0,1.0,0,0,0,39.0,111.53846153846156,AA Chavan,caught
+Kolkata Knight Riders,Rajasthan Royals,598043,2013-05-03,YK Pathan,49,36,3.0,3.0,0,0,0,62.0,136.11111111111111,0,0
+Rajasthan Royals,Kolkata Knight Riders,598043,2013-05-03,AM Rahane,6,10,1.0,0.0,0,0,0,11.0,60.0,SMSM Senanayake,stumped
+Rajasthan Royals,Kolkata Knight Riders,598043,2013-05-03,DH Yagnik,10,6,2.0,0.0,0,0,0,16.0,166.66666666666669,SMSM Senanayake,bowled
+Rajasthan Royals,Kolkata Knight Riders,598043,2013-05-03,JP Faulkner,1,4,0.0,0.0,0,0,0,5.0,25.0,Iqbal Abdulla,caught
+Rajasthan Royals,Kolkata Knight Riders,598043,2013-05-03,OA Shah,24,23,2.0,0.0,0,0,0,30.0,104.34782608695652,JH Kallis,bowled
+Rajasthan Royals,Kolkata Knight Riders,598043,2013-05-03,R Dravid,6,3,1.0,0.0,0,0,0,11.0,200.0,0,0
+Rajasthan Royals,Kolkata Knight Riders,598043,2013-05-03,SR Watson,35,39,4.0,0.0,0,0,0,43.0,89.74358974358975,SP Narine,lbw
+Rajasthan Royals,Kolkata Knight Riders,598043,2013-05-03,STR Binny,3,5,0.0,0.0,0,0,0,7.0,60.0,0,0
+Rajasthan Royals,Kolkata Knight Riders,598043,2013-05-03,SV Samson,40,36,1.0,2.0,0,0,0,49.0,111.11111111111111,R Bhatia,caught

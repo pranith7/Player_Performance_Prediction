@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Mumbai Indians,501246,2011-05-07,AB Agarkar,7,7,1.0,0.0,0,0,0,12.0,100.0,0,0
+Delhi Daredevils,Mumbai Indians,501246,2011-05-07,CA Ingram,1,2,0.0,0.0,0,0,0,5.0,50.0,SL Malinga,bowled
+Delhi Daredevils,Mumbai Indians,501246,2011-05-07,DA Warner,1,2,0.0,0.0,0,0,0,5.0,50.0,Harbhajan Singh,lbw
+Delhi Daredevils,Mumbai Indians,501246,2011-05-07,IK Pathan,23,20,4.0,0.0,0,0,0,31.0,115.0,SL Malinga,bowled
+Delhi Daredevils,Mumbai Indians,501246,2011-05-07,JR Hopes,55,45,10.0,0.0,1,0,0,77.0,122.22222222222224,Harbhajan Singh,run out
+Delhi Daredevils,Mumbai Indians,501246,2011-05-07,M Morkel,10,9,1.0,0.0,0,0,0,15.0,111.11111111111111,KA Pollard,caught
+Delhi Daredevils,Mumbai Indians,501246,2011-05-07,NV Ojha,1,8,0.0,0.0,0,0,0,5.0,12.5,MM Patel,caught
+Delhi Daredevils,Mumbai Indians,501246,2011-05-07,S Nadeem,0,1,0.0,0.0,0,0,1,2.0,0.0,KA Pollard,caught
+Delhi Daredevils,Mumbai Indians,501246,2011-05-07,V Sehwag,2,4,0.0,0.0,0,0,0,6.0,50.0,MM Patel,caught
+Delhi Daredevils,Mumbai Indians,501246,2011-05-07,Y Nagar,0,1,0.0,0.0,0,0,1,2.0,0.0,Harbhajan Singh,caught
+Delhi Daredevils,Mumbai Indians,501246,2011-05-07,Y Venugopal Rao,37,27,4.0,1.0,0,0,0,47.0,137.03703703703704,DS Kulkarni,bowled
+Mumbai Indians,Delhi Daredevils,501246,2011-05-07,A Symonds,4,4,0.0,0.0,0,0,0,8.0,100.0,0,0
+Mumbai Indians,Delhi Daredevils,501246,2011-05-07,AC Blizzard,37,24,8.0,0.0,0,0,0,49.0,154.16666666666669,S Nadeem,caught
+Mumbai Indians,Delhi Daredevils,501246,2011-05-07,AT Rayudu,59,40,7.0,2.0,1,0,0,82.0,147.5,JR Hopes,caught
+Mumbai Indians,Delhi Daredevils,501246,2011-05-07,KA Pollard,9,9,1.0,0.0,0,0,0,14.0,100.0,0,0
+Mumbai Indians,Delhi Daredevils,501246,2011-05-07,RG Sharma,49,32,2.0,3.0,0,0,0,61.0,153.125,M Morkel,caught
+Mumbai Indians,Delhi Daredevils,501246,2011-05-07,SR Tendulkar,14,15,3.0,0.0,0,0,0,21.0,93.33333333333331,IK Pathan,bowled

@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Royal Challengers Bangalore,Sunrisers Hyderabad,598048,2013-04-09,AB de Villiers,15,15,0.0,1.0,0,0,0,21.0,100.0,CL White,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,598048,2013-04-09,CH Gayle,13,15,2.0,0.0,0,0,0,19.0,86.66666666666667,I Sharma,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,598048,2013-04-09,MA Agarwal,29,20,3.0,2.0,0,0,0,40.0,145.0,NLTC Perera,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,598048,2013-04-09,MC Henriques,7,9,1.0,0.0,0,0,0,12.0,77.77777777777779,0,0
+Royal Challengers Bangalore,Sunrisers Hyderabad,598048,2013-04-09,V Kohli,93,51,11.0,4.0,1,0,0,124.0,182.35294117647047,0,0
+Sunrisers Hyderabad,Royal Challengers Bangalore,598048,2013-04-09,A Ashish Reddy,3,4,0.0,0.0,0,0,0,7.0,75.0,RP Singh,bowled
+Sunrisers Hyderabad,Royal Challengers Bangalore,598048,2013-04-09,BB Samantray,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Sunrisers Hyderabad,Royal Challengers Bangalore,598048,2013-04-09,CL White,52,35,3.0,3.0,1,0,0,73.0,148.57142857142858,R Vinay Kumar,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,598048,2013-04-09,GH Vihari,4,3,0.0,0.0,0,0,0,8.0,133.33333333333331,0,0
+Sunrisers Hyderabad,Royal Challengers Bangalore,598048,2013-04-09,KC Sangakkara,23,24,2.0,0.0,0,0,0,29.0,95.83333333333334,M Kartik,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,598048,2013-04-09,NLTC Perera,40,27,1.0,4.0,0,0,0,53.0,148.14814814814815,RP Singh,bowled
+Sunrisers Hyderabad,Royal Challengers Bangalore,598048,2013-04-09,PA Patel,20,19,2.0,0.0,0,0,0,26.0,105.26315789473684,M Muralitharan,bowled
+Sunrisers Hyderabad,Royal Challengers Bangalore,598048,2013-04-09,PA Reddy,12,11,2.0,0.0,0,0,0,18.0,109.09090909090908,RP Singh,caught

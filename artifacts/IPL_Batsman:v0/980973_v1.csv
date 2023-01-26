@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Sunrisers Hyderabad,980973,2016-05-08,AT Rayudu,6,6,1.0,0.0,0,0,0,11.0,100.0,A Nehra,caught
+Mumbai Indians,Sunrisers Hyderabad,980973,2016-05-08,HH Pandya,7,16,0.0,0.0,0,0,0,11.0,43.75,Mustafizur Rahman,caught
+Mumbai Indians,Sunrisers Hyderabad,980973,2016-05-08,Harbhajan Singh,21,26,2.0,0.0,0,0,0,27.0,80.76923076923077,0,0
+Mumbai Indians,Sunrisers Hyderabad,980973,2016-05-08,JC Buttler,2,2,0.0,0.0,0,0,0,6.0,100.0,A Nehra,caught
+Mumbai Indians,Sunrisers Hyderabad,980973,2016-05-08,JJ Bumrah,6,9,1.0,0.0,0,0,0,11.0,66.66666666666666,BB Sran,caught
+Mumbai Indians,Sunrisers Hyderabad,980973,2016-05-08,KA Pollard,11,13,2.0,0.0,0,0,0,17.0,84.61538461538461,MC Henriques,caught
+Mumbai Indians,Sunrisers Hyderabad,980973,2016-05-08,KH Pandya,17,11,2.0,1.0,0,0,0,25.0,154.54545454545453,BB Sran,caught
+Mumbai Indians,Sunrisers Hyderabad,980973,2016-05-08,MJ McClenaghan,8,9,1.0,0.0,0,0,0,13.0,88.88888888888889,Mustafizur Rahman,caught
+Mumbai Indians,Sunrisers Hyderabad,980973,2016-05-08,PA Patel,0,4,0.0,0.0,0,0,1,2.0,0.0,B Kumar,lbw
+Mumbai Indians,Sunrisers Hyderabad,980973,2016-05-08,RG Sharma,5,3,1.0,0.0,0,0,0,10.0,166.66666666666669,A Nehra,bowled
+Mumbai Indians,Sunrisers Hyderabad,980973,2016-05-08,TG Southee,3,4,0.0,0.0,0,0,0,7.0,75.0,Mustafizur Rahman,caught
+Sunrisers Hyderabad,Mumbai Indians,980973,2016-05-08,DA Warner,48,35,7.0,1.0,0,0,0,61.0,137.14285714285714,Harbhajan Singh,caught
+Sunrisers Hyderabad,Mumbai Indians,980973,2016-05-08,KS Williamson,2,5,0.0,0.0,0,0,0,6.0,40.0,Harbhajan Singh,caught
+Sunrisers Hyderabad,Mumbai Indians,980973,2016-05-08,MC Henriques,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Sunrisers Hyderabad,Mumbai Indians,980973,2016-05-08,S Dhawan,82,57,10.0,1.0,1,0,0,106.0,143.859649122807,0,0
+Sunrisers Hyderabad,Mumbai Indians,980973,2016-05-08,Yuvraj Singh,39,24,3.0,2.0,0,0,0,50.0,162.5,MJ McClenaghan,hit wicket

@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Kolkata Knight Riders,419113,2010-03-16,M Vijay,33,27,5.0,0.0,0,0,0,42.0,122.22222222222224,LR Shukla,bowled
+Chennai Super Kings,Kolkata Knight Riders,419113,2010-03-16,ML Hayden,1,8,0.0,0.0,0,0,0,5.0,12.5,I Sharma,bowled
+Chennai Super Kings,Kolkata Knight Riders,419113,2010-03-16,MS Dhoni,66,33,6.0,3.0,1,0,0,90.0,200.0,0,0
+Chennai Super Kings,Kolkata Knight Riders,419113,2010-03-16,S Badrinath,43,33,3.0,1.0,0,0,0,52.0,130.3030303030303,0,0
+Chennai Super Kings,Kolkata Knight Riders,419113,2010-03-16,SK Raina,18,20,2.0,0.0,0,0,0,24.0,90.0,BJ Hodge,bowled
+Kolkata Knight Riders,Chennai Super Kings,419113,2010-03-16,AD Mathews,6,14,0.0,0.0,0,0,0,10.0,42.85714285714285,JM Kemp,lbw
+Kolkata Knight Riders,Chennai Super Kings,419113,2010-03-16,BJ Hodge,0,2,0.0,0.0,0,0,1,2.0,0.0,JA Morkel,caught
+Kolkata Knight Riders,Chennai Super Kings,419113,2010-03-16,I Sharma,6,15,0.0,0.0,0,0,0,10.0,40.0,0,0
+Kolkata Knight Riders,Chennai Super Kings,419113,2010-03-16,LR Shukla,19,16,3.0,0.0,0,0,0,26.0,118.75,M Muralitharan,caught
+Kolkata Knight Riders,Chennai Super Kings,419113,2010-03-16,M Kartik,21,20,2.0,0.0,0,0,0,27.0,105.0,L Balaji,run out
+Kolkata Knight Riders,Chennai Super Kings,419113,2010-03-16,MK Tiwary,8,3,2.0,0.0,0,0,0,14.0,266.66666666666663,MS Gony,bowled
+Kolkata Knight Riders,Chennai Super Kings,419113,2010-03-16,OA Shah,5,4,1.0,0.0,0,0,0,10.0,125.0,L Balaji,caught
+Kolkata Knight Riders,Chennai Super Kings,419113,2010-03-16,RS Gavaskar,2,8,0.0,0.0,0,0,0,6.0,25.0,JM Kemp,caught
+Kolkata Knight Riders,Chennai Super Kings,419113,2010-03-16,SC Ganguly,11,22,1.0,0.0,0,0,0,16.0,50.0,JM Kemp,caught
+Kolkata Knight Riders,Chennai Super Kings,419113,2010-03-16,SE Bond,1,2,0.0,0.0,0,0,0,5.0,50.0,R Ashwin,bowled
+Kolkata Knight Riders,Chennai Super Kings,419113,2010-03-16,WP Saha,22,13,5.0,0.0,0,0,0,31.0,169.23076923076923,L Balaji,bowled

@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Delhi Daredevils,419160,2010-04-18,A Symonds,54,30,3.0,5.0,1,0,0,79.0,180.0,A Mishra,caught
+Deccan Chargers,Delhi Daredevils,419160,2010-04-18,AC Gilchrist,10,9,2.0,0.0,0,0,0,16.0,111.11111111111111,A Nehra,caught
+Deccan Chargers,Delhi Daredevils,419160,2010-04-18,B Sumanth,7,12,0.0,0.0,0,0,0,11.0,58.333333333333336,0,0
+Deccan Chargers,Delhi Daredevils,419160,2010-04-18,MD Mishra,25,19,2.0,1.0,0,0,0,33.0,131.57894736842107,UT Yadav,run out
+Deccan Chargers,Delhi Daredevils,419160,2010-04-18,MR Marsh,13,19,0.0,0.0,0,0,0,17.0,68.42105263157895,A Nehra,caught
+Deccan Chargers,Delhi Daredevils,419160,2010-04-18,R Sharma,14,8,2.0,0.0,0,0,0,20.0,175.0,0,0
+Deccan Chargers,Delhi Daredevils,419160,2010-04-18,RG Sharma,11,10,2.0,0.0,0,0,0,17.0,110.0,UT Yadav,caught
+Deccan Chargers,Delhi Daredevils,419160,2010-04-18,TL Suman,5,6,1.0,0.0,0,0,0,10.0,83.33333333333334,UT Yadav,bowled
+Deccan Chargers,Delhi Daredevils,419160,2010-04-18,WPUJC Vaas,3,8,0.0,0.0,0,0,0,7.0,37.5,PD Collingwood,caught
+Delhi Daredevils,Deccan Chargers,419160,2010-04-18,A Mishra,4,10,0.0,0.0,0,0,0,8.0,40.0,Harmeet Singh,bowled
+Delhi Daredevils,Deccan Chargers,419160,2010-04-18,A Nehra,22,16,2.0,1.0,0,0,0,30.0,137.5,0,0
+Delhi Daredevils,Deccan Chargers,419160,2010-04-18,DA Warner,5,4,1.0,0.0,0,0,0,10.0,125.0,MR Marsh,caught
+Delhi Daredevils,Deccan Chargers,419160,2010-04-18,G Gambhir,4,9,0.0,0.0,0,0,0,8.0,44.44444444444444,PP Ojha,caught
+Delhi Daredevils,Deccan Chargers,419160,2010-04-18,KD Karthik,1,2,0.0,0.0,0,0,0,5.0,50.0,PP Ojha,bowled
+Delhi Daredevils,Deccan Chargers,419160,2010-04-18,M Manhas,23,22,2.0,0.0,0,0,0,29.0,104.54545454545456,R Sharma,run out
+Delhi Daredevils,Deccan Chargers,419160,2010-04-18,PD Collingwood,51,43,1.0,3.0,1,0,0,70.0,118.6046511627907,0,0
+Delhi Daredevils,Deccan Chargers,419160,2010-04-18,TM Dilshan,11,11,2.0,0.0,0,0,0,17.0,100.0,Harmeet Singh,lbw
+Delhi Daredevils,Deccan Chargers,419160,2010-04-18,V Sehwag,8,6,2.0,0.0,0,0,0,14.0,133.33333333333331,WPUJC Vaas,caught

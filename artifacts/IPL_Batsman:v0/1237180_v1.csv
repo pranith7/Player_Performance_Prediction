@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Capitals,Sunrisers Hyderabad,1237180,2020-11-08,MP Stoinis,38,27,5.0,1.0,0,0,0,49.0,140.74074074074073,Rashid Khan,bowled
+Delhi Capitals,Sunrisers Hyderabad,1237180,2020-11-08,RR Pant,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,0,0
+Delhi Capitals,Sunrisers Hyderabad,1237180,2020-11-08,S Dhawan,78,51,6.0,3.0,1,0,0,102.0,152.94117647058823,Sandeep Sharma,lbw
+Delhi Capitals,Sunrisers Hyderabad,1237180,2020-11-08,SO Hetmyer,42,23,4.0,1.0,0,0,0,52.0,182.6086956521739,0,0
+Delhi Capitals,Sunrisers Hyderabad,1237180,2020-11-08,SS Iyer,21,21,1.0,0.0,0,0,0,26.0,100.0,JO Holder,caught
+Sunrisers Hyderabad,Delhi Capitals,1237180,2020-11-08,Abdul Samad,33,16,2.0,2.0,0,0,0,43.0,206.25,K Rabada,caught
+Sunrisers Hyderabad,Delhi Capitals,1237180,2020-11-08,DA Warner,2,4,0.0,0.0,0,0,0,6.0,50.0,K Rabada,bowled
+Sunrisers Hyderabad,Delhi Capitals,1237180,2020-11-08,JO Holder,11,15,1.0,0.0,0,0,0,16.0,73.33333333333333,AR Patel,caught
+Sunrisers Hyderabad,Delhi Capitals,1237180,2020-11-08,KS Williamson,67,46,5.0,4.0,1,0,0,92.0,145.65217391304347,MP Stoinis,caught
+Sunrisers Hyderabad,Delhi Capitals,1237180,2020-11-08,MK Pandey,21,15,3.0,0.0,0,0,0,28.0,140.0,MP Stoinis,caught
+Sunrisers Hyderabad,Delhi Capitals,1237180,2020-11-08,PK Garg,17,13,0.0,2.0,0,0,0,25.0,130.76923076923077,MP Stoinis,bowled
+Sunrisers Hyderabad,Delhi Capitals,1237180,2020-11-08,Rashid Khan,11,7,1.0,1.0,0,0,0,18.0,157.14285714285714,K Rabada,caught
+Sunrisers Hyderabad,Delhi Capitals,1237180,2020-11-08,S Nadeem,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,0,0
+Sunrisers Hyderabad,Delhi Capitals,1237180,2020-11-08,SP Goswami,0,2,0.0,0.0,0,0,1,2.0,0.0,K Rabada,caught
+Sunrisers Hyderabad,Delhi Capitals,1237180,2020-11-08,Sandeep Sharma,2,4,0.0,0.0,0,0,0,6.0,50.0,0,0

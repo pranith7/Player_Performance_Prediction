@@ -1,0 +1,21 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Kolkata Knight Riders,598016,2013-04-16,AC Gilchrist,7,13,1.0,0.0,0,0,0,12.0,53.84615384615385,SMSM Senanayake,lbw
+Kings XI Punjab,Kolkata Knight Riders,598016,2013-04-16,Azhar Mahmood,0,1,0.0,0.0,0,0,1,2.0,0.0,SP Narine,caught and bowled
+Kings XI Punjab,Kolkata Knight Riders,598016,2013-04-16,DA Miller,20,17,1.0,0.0,0,0,0,25.0,117.64705882352942,SMSM Senanayake,bowled
+Kings XI Punjab,Kolkata Knight Riders,598016,2013-04-16,DJ Hussey,12,15,0.0,0.0,0,0,0,16.0,80.0,SP Narine,caught
+Kings XI Punjab,Kolkata Knight Riders,598016,2013-04-16,Gurkeerat Singh,0,1,0.0,0.0,0,0,1,2.0,0.0,SP Narine,bowled
+Kings XI Punjab,Kolkata Knight Riders,598016,2013-04-16,M Vohra,17,16,2.0,0.0,0,0,0,23.0,106.25,L Balaji,caught and bowled
+Kings XI Punjab,Kolkata Knight Riders,598016,2013-04-16,MS Gony,42,19,4.0,3.0,0,0,0,56.0,221.0526315789474,JH Kallis,bowled
+Kings XI Punjab,Kolkata Knight Riders,598016,2013-04-16,Mandeep Singh,41,30,6.0,0.0,0,0,0,51.0,136.66666666666666,JH Kallis,caught
+Kings XI Punjab,Kolkata Knight Riders,598016,2013-04-16,P Kumar,1,2,0.0,0.0,0,0,0,5.0,50.0,JH Kallis,caught
+Kings XI Punjab,Kolkata Knight Riders,598016,2013-04-16,PP Chawla,11,9,2.0,0.0,0,0,0,17.0,122.22222222222224,0,0
+Kolkata Knight Riders,Kings XI Punjab,598016,2013-04-16,DB Das,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,Azhar Mahmood,lbw
+Kolkata Knight Riders,Kings XI Punjab,598016,2013-04-16,EJG Morgan,47,39,6.0,0.0,0,0,0,57.0,120.51282051282053,Azhar Mahmood,caught
+Kolkata Knight Riders,Kings XI Punjab,598016,2013-04-16,G Gambhir,60,39,9.0,0.0,1,0,0,81.0,153.84615384615387,MS Gony,caught
+Kolkata Knight Riders,Kings XI Punjab,598016,2013-04-16,JH Kallis,1,6,0.0,0.0,0,0,0,5.0,16.666666666666664,Azhar Mahmood,caught
+Kolkata Knight Riders,Kings XI Punjab,598016,2013-04-16,MK Tiwary,1,8,0.0,0.0,0,0,0,5.0,12.5,P Awana,bowled
+Kolkata Knight Riders,Kings XI Punjab,598016,2013-04-16,MS Bisla,0,1,0.0,0.0,0,0,1,2.0,0.0,P Kumar,caught
+Kolkata Knight Riders,Kings XI Punjab,598016,2013-04-16,R Bhatia,16,6,0.0,2.0,0,0,0,24.0,266.66666666666663,P Awana,bowled
+Kolkata Knight Riders,Kings XI Punjab,598016,2013-04-16,SMSM Senanayake,1,2,0.0,0.0,0,0,0,5.0,50.0,P Kumar,run out
+Kolkata Knight Riders,Kings XI Punjab,598016,2013-04-16,SP Narine,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,0,0
+Kolkata Knight Riders,Kings XI Punjab,598016,2013-04-16,YK Pathan,13,18,2.0,0.0,0,0,0,19.0,72.22222222222221,P Kumar,caught

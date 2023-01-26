@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Royal Challengers Bangalore,548318,2012-04-12,DJ Bravo,25,15,2.0,1.0,0,0,0,33.0,166.66666666666669,0,0
+Chennai Super Kings,Royal Challengers Bangalore,548318,2012-04-12,F du Plessis,71,46,5.0,4.0,1,0,0,96.0,154.34782608695653,M Muralitharan,caught
+Chennai Super Kings,Royal Challengers Bangalore,548318,2012-04-12,JA Morkel,28,7,2.0,3.0,0,0,0,40.0,400.0,R Vinay Kumar,caught
+Chennai Super Kings,Royal Challengers Bangalore,548318,2012-04-12,M Vijay,11,15,1.0,0.0,0,0,0,16.0,73.33333333333333,M Muralitharan,caught and bowled
+Chennai Super Kings,Royal Challengers Bangalore,548318,2012-04-12,MS Dhoni,41,26,1.0,2.0,0,0,0,50.0,157.69230769230768,Z Khan,caught
+Chennai Super Kings,Royal Challengers Bangalore,548318,2012-04-12,RA Jadeja,4,1,1.0,0.0,0,0,0,9.0,400.0,0,0
+Chennai Super Kings,Royal Challengers Bangalore,548318,2012-04-12,SK Raina,23,14,3.0,1.0,0,0,0,32.0,164.28571428571428,M Muralitharan,caught
+Royal Challengers Bangalore,Chennai Super Kings,548318,2012-04-12,AB de Villiers,4,3,1.0,0.0,0,0,0,9.0,133.33333333333331,JA Morkel,caught
+Royal Challengers Bangalore,Chennai Super Kings,548318,2012-04-12,CA Pujara,0,1,0.0,0.0,0,0,1,2.0,0.0,DE Bollinger,bowled
+Royal Challengers Bangalore,Chennai Super Kings,548318,2012-04-12,CH Gayle,68,40,2.0,6.0,1,0,0,94.0,170.0,RA Jadeja,caught
+Royal Challengers Bangalore,Chennai Super Kings,548318,2012-04-12,DL Vettori,1,1,0.0,0.0,0,0,0,5.0,100.0,DE Bollinger,run out
+Royal Challengers Bangalore,Chennai Super Kings,548318,2012-04-12,MA Agarwal,45,28,5.0,3.0,0,0,0,60.0,160.71428571428572,JA Morkel,caught
+Royal Challengers Bangalore,Chennai Super Kings,548318,2012-04-12,R Vinay Kumar,6,1,0.0,1.0,0,0,0,12.0,600.0,0,0
+Royal Challengers Bangalore,Chennai Super Kings,548318,2012-04-12,RR Bhatkal,0,2,0.0,0.0,0,0,1,2.0,0.0,DE Bollinger,caught
+Royal Challengers Bangalore,Chennai Super Kings,548318,2012-04-12,SS Tiwary,8,6,1.0,0.0,0,0,0,13.0,133.33333333333331,RA Jadeja,caught
+Royal Challengers Bangalore,Chennai Super Kings,548318,2012-04-12,V Kohli,57,48,5.0,2.0,1,0,0,78.0,118.75,DE Bollinger,caught

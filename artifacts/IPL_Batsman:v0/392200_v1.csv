@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Mumbai Indians,392200,2009-04-29,DPMD Jayawardene,7,9,0.0,0.0,0,0,0,11.0,77.77777777777779,ST Jayasuriya,caught
+Kings XI Punjab,Mumbai Indians,392200,2009-04-29,IK Pathan,7,12,0.0,0.0,0,0,0,11.0,58.333333333333336,Z Khan,caught
+Kings XI Punjab,Mumbai Indians,392200,2009-04-29,K Goel,12,12,0.0,1.0,0,0,0,18.0,100.0,Harbhajan Singh,stumped
+Kings XI Punjab,Mumbai Indians,392200,2009-04-29,KC Sangakkara,45,47,2.0,1.0,0,0,0,53.0,95.74468085106383,0,0
+Kings XI Punjab,Mumbai Indians,392200,2009-04-29,PP Chawla,0,2,0.0,0.0,0,0,1,2.0,0.0,SL Malinga,bowled
+Kings XI Punjab,Mumbai Indians,392200,2009-04-29,RR Powar,10,10,1.0,0.0,0,0,0,15.0,100.0,DJ Bravo,run out
+Kings XI Punjab,Mumbai Indians,392200,2009-04-29,RS Bopara,6,14,0.0,0.0,0,0,0,10.0,42.85714285714285,DJ Bravo,caught
+Kings XI Punjab,Mumbai Indians,392200,2009-04-29,WA Mota,5,6,0.0,0.0,0,0,0,9.0,83.33333333333334,SL Malinga,bowled
+Kings XI Punjab,Mumbai Indians,392200,2009-04-29,Yuvraj Singh,10,14,1.0,0.0,0,0,0,15.0,71.42857142857143,JP Duminy,caught
+Mumbai Indians,Kings XI Punjab,392200,2009-04-29,AM Nayar,15,17,1.0,0.0,0,0,0,20.0,88.23529411764706,IK Pathan,bowled
+Mumbai Indians,Kings XI Punjab,392200,2009-04-29,DJ Bravo,15,22,1.0,1.0,0,0,0,22.0,68.18181818181817,RR Powar,caught
+Mumbai Indians,Kings XI Punjab,392200,2009-04-29,Harbhajan Singh,6,5,1.0,0.0,0,0,0,11.0,120.0,PP Chawla,caught
+Mumbai Indians,Kings XI Punjab,392200,2009-04-29,JP Duminy,59,65,4.0,0.0,1,0,0,75.0,90.76923076923076,YA Abdulla,caught
+Mumbai Indians,Kings XI Punjab,392200,2009-04-29,S Dhawan,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,YA Abdulla,lbw
+Mumbai Indians,Kings XI Punjab,392200,2009-04-29,SR Tendulkar,1,6,0.0,0.0,0,0,0,5.0,16.666666666666664,VS Malik,caught
+Mumbai Indians,Kings XI Punjab,392200,2009-04-29,SS Tiwary,6,4,0.0,0.0,0,0,0,10.0,150.0,0,0
+Mumbai Indians,Kings XI Punjab,392200,2009-04-29,ST Jayasuriya,0,2,0.0,0.0,0,0,1,2.0,0.0,IK Pathan,caught

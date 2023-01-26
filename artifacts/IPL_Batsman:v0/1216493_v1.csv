@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Capitals,Kings XI Punjab,1216493,2020-09-20,A Nortje,3,1,0.0,0.0,0,0,0,7.0,300.0,0,0
+Delhi Capitals,Kings XI Punjab,1216493,2020-09-20,AR Patel,6,9,0.0,0.0,0,0,0,10.0,66.66666666666666,SS Cottrell,caught
+Delhi Capitals,Kings XI Punjab,1216493,2020-09-20,MP Stoinis,53,23,7.0,3.0,1,0,0,78.0,230.43478260869568,CJ Jordan,run out
+Delhi Capitals,Kings XI Punjab,1216493,2020-09-20,PP Shaw,5,9,1.0,0.0,0,0,0,10.0,55.55555555555556,Mohammed Shami,caught
+Delhi Capitals,Kings XI Punjab,1216493,2020-09-20,R Ashwin,4,6,0.0,0.0,0,0,0,8.0,66.66666666666666,SS Cottrell,caught
+Delhi Capitals,Kings XI Punjab,1216493,2020-09-20,RR Pant,33,35,4.0,0.0,0,0,0,41.0,94.28571428571428,Ravi Bishnoi,bowled
+Delhi Capitals,Kings XI Punjab,1216493,2020-09-20,S Dhawan,0,2,0.0,0.0,0,0,1,2.0,0.0,Mohammed Shami,run out
+Delhi Capitals,Kings XI Punjab,1216493,2020-09-20,SO Hetmyer,7,13,1.0,0.0,0,0,0,12.0,53.84615384615385,Mohammed Shami,caught
+Delhi Capitals,Kings XI Punjab,1216493,2020-09-20,SS Iyer,39,33,0.0,3.0,0,0,0,49.0,118.1818181818182,Mohammed Shami,caught
+Kings XI Punjab,Delhi Capitals,1216493,2020-09-20,CJ Jordan,5,6,0.0,0.0,0,0,0,9.0,83.33333333333334,MP Stoinis,caught
+Kings XI Punjab,Delhi Capitals,1216493,2020-09-20,GJ Maxwell,1,4,0.0,0.0,0,0,0,5.0,25.0,K Rabada,caught
+Kings XI Punjab,Delhi Capitals,1216493,2020-09-20,K Gowtham,20,14,1.0,1.0,0,0,0,27.0,142.85714285714286,K Rabada,caught
+Kings XI Punjab,Delhi Capitals,1216493,2020-09-20,KK Nair,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,R Ashwin,caught
+Kings XI Punjab,Delhi Capitals,1216493,2020-09-20,KL Rahul,23,19,2.0,1.0,0,0,0,31.0,121.05263157894736,MM Sharma,bowled
+Kings XI Punjab,Delhi Capitals,1216493,2020-09-20,MA Agarwal,89,61,7.0,4.0,1,0,0,116.0,145.9016393442623,K Rabada,caught
+Kings XI Punjab,Delhi Capitals,1216493,2020-09-20,N Pooran,0,4,0.0,0.0,0,0,1,2.0,0.0,MP Stoinis,caught
+Kings XI Punjab,Delhi Capitals,1216493,2020-09-20,SN Khan,12,12,2.0,0.0,0,0,0,18.0,100.0,R Ashwin,bowled

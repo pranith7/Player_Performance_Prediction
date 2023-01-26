@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Royal Challengers Bangalore,336002,2008-05-25,AC Gilchrist,46,38,4.0,2.0,0,0,0,58.0,121.05263157894736,R Vinay Kumar,caught
+Deccan Chargers,Royal Challengers Bangalore,336002,2008-05-25,AS Yadav,8,8,0.0,1.0,0,0,0,14.0,100.0,DW Steyn,caught
+Deccan Chargers,Royal Challengers Bangalore,336002,2008-05-25,DB Ravi Teja,7,7,1.0,0.0,0,0,0,12.0,100.0,V Kohli,bowled
+Deccan Chargers,Royal Challengers Bangalore,336002,2008-05-25,HH Gibbs,47,36,6.0,2.0,0,0,0,61.0,130.55555555555557,A Kumble,stumped
+Deccan Chargers,Royal Challengers Bangalore,336002,2008-05-25,LPC Silva,0,2,0.0,0.0,0,0,1,2.0,0.0,V Kohli,caught
+Deccan Chargers,Royal Challengers Bangalore,336002,2008-05-25,RG Sharma,17,17,2.0,0.0,0,0,0,23.0,100.0,R Vinay Kumar,caught
+Deccan Chargers,Royal Challengers Bangalore,336002,2008-05-25,RP Singh,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,DW Steyn,bowled
+Deccan Chargers,Royal Challengers Bangalore,336002,2008-05-25,WPUJC Vaas,0,3,0.0,0.0,0,0,1,2.0,0.0,DW Steyn,run out
+Deccan Chargers,Royal Challengers Bangalore,336002,2008-05-25,Y Venugopal Rao,26,12,2.0,2.0,0,0,0,36.0,216.66666666666663,R Vinay Kumar,caught
+Royal Challengers Bangalore,Deccan Chargers,336002,2008-05-25,B Akhil,27,7,2.0,3.0,0,0,0,39.0,385.7142857142857,0,0
+Royal Challengers Bangalore,Deccan Chargers,336002,2008-05-25,CL White,31,23,1.0,2.0,0,0,0,40.0,134.7826086956522,0,0
+Royal Challengers Bangalore,Deccan Chargers,336002,2008-05-25,JH Kallis,31,25,6.0,0.0,0,0,0,41.0,124.0,SB Bangar,run out
+Royal Challengers Bangalore,Deccan Chargers,336002,2008-05-25,Misbah-ul-Haq,34,28,4.0,1.0,0,0,0,44.0,121.42857142857142,DB Ravi Teja,caught
+Royal Challengers Bangalore,Deccan Chargers,336002,2008-05-25,R Dravid,31,21,3.0,1.0,0,0,0,40.0,147.61904761904762,SB Bangar,caught
+Royal Challengers Bangalore,Deccan Chargers,336002,2008-05-25,V Kohli,9,5,2.0,0.0,0,0,0,15.0,180.0,WPUJC Vaas,caught
+Royal Challengers Bangalore,Deccan Chargers,336002,2008-05-25,W Jaffer,5,5,1.0,0.0,0,0,0,10.0,100.0,WPUJC Vaas,run out

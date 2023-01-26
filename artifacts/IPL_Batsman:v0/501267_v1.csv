@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Mumbai Indians,501267,2011-05-22,G Gambhir,8,7,0.0,1.0,0,0,0,14.0,114.28571428571428,AN Ahmed,bowled
+Kolkata Knight Riders,Mumbai Indians,501267,2011-05-22,JH Kallis,59,43,4.0,3.0,1,0,0,81.0,137.2093023255814,JEC Franklin,caught
+Kolkata Knight Riders,Mumbai Indians,501267,2011-05-22,MK Tiwary,35,22,5.0,1.0,0,0,0,46.0,159.0909090909091,KA Pollard,run out
+Kolkata Knight Riders,Mumbai Indians,501267,2011-05-22,R Bhatia,11,6,2.0,0.0,0,0,0,17.0,183.3333333333333,AN Ahmed,run out
+Kolkata Knight Riders,Mumbai Indians,501267,2011-05-22,RN ten Doeschate,18,12,1.0,1.0,0,0,0,25.0,150.0,AN Ahmed,lbw
+Kolkata Knight Riders,Mumbai Indians,501267,2011-05-22,SP Goswami,1,4,0.0,0.0,0,0,0,5.0,25.0,SL Malinga,run out
+Kolkata Knight Riders,Mumbai Indians,501267,2011-05-22,Shakib Al Hasan,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Kolkata Knight Riders,Mumbai Indians,501267,2011-05-22,YK Pathan,36,27,4.0,1.0,0,0,0,46.0,133.33333333333331,JEC Franklin,caught
+Mumbai Indians,Kolkata Knight Riders,501267,2011-05-22,AT Rayudu,17,7,0.0,2.0,0,0,0,25.0,242.85714285714283,0,0
+Mumbai Indians,Kolkata Knight Riders,501267,2011-05-22,Harbhajan Singh,30,31,5.0,0.0,0,0,0,39.0,96.7741935483871,R Bhatia,caught
+Mumbai Indians,Kolkata Knight Riders,501267,2011-05-22,JEC Franklin,45,24,5.0,1.0,0,0,0,56.0,187.5,0,0
+Mumbai Indians,Kolkata Knight Riders,501267,2011-05-22,KA Pollard,18,23,2.0,0.0,0,0,0,24.0,78.26086956521739,L Balaji,bowled
+Mumbai Indians,Kolkata Knight Riders,501267,2011-05-22,RG Sharma,10,9,1.0,0.0,0,0,0,15.0,111.11111111111111,R Bhatia,caught
+Mumbai Indians,Kolkata Knight Riders,501267,2011-05-22,SR Tendulkar,38,28,6.0,0.0,0,0,0,48.0,135.71428571428572,R Bhatia,caught
+Mumbai Indians,Kolkata Knight Riders,501267,2011-05-22,TL Suman,4,4,1.0,0.0,0,0,0,9.0,100.0,Iqbal Abdulla,caught

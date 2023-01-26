@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Rajasthan Royals,501199,2011-04-09,A Mishra,2,2,0.0,0.0,0,0,0,6.0,100.0,0,0
+Deccan Chargers,Rajasthan Royals,501199,2011-04-09,B Chipli,6,9,1.0,0.0,0,0,0,11.0,66.66666666666666,SK Trivedi,bowled
+Deccan Chargers,Rajasthan Royals,501199,2011-04-09,DB Ravi Teja,28,20,2.0,1.0,0,0,0,36.0,140.0,A Singh,caught
+Deccan Chargers,Rajasthan Royals,501199,2011-04-09,DT Christian,26,19,1.0,2.0,0,0,0,35.0,136.8421052631579,SK Trivedi,caught
+Deccan Chargers,Rajasthan Royals,501199,2011-04-09,DW Steyn,7,6,1.0,0.0,0,0,0,12.0,116.66666666666669,A Singh,caught
+Deccan Chargers,Rajasthan Royals,501199,2011-04-09,I Sharma,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Deccan Chargers,Rajasthan Royals,501199,2011-04-09,IR Jaggi,25,29,3.0,0.0,0,0,0,32.0,86.20689655172413,SK Warne,caught
+Deccan Chargers,Rajasthan Royals,501199,2011-04-09,JP Duminy,14,17,0.0,1.0,0,0,0,20.0,82.35294117647058,SK Warne,caught
+Deccan Chargers,Rajasthan Royals,501199,2011-04-09,KC Sangakkara,0,3,0.0,0.0,0,0,1,2.0,0.0,SK Trivedi,caught
+Deccan Chargers,Rajasthan Royals,501199,2011-04-09,S Dhawan,24,15,2.0,1.0,0,0,0,32.0,160.0,A Singh,caught
+Rajasthan Royals,Deccan Chargers,501199,2011-04-09,AG Paunikar,20,19,4.0,0.0,0,0,0,28.0,105.26315789473684,DW Steyn,caught
+Rajasthan Royals,Deccan Chargers,501199,2011-04-09,J Botha,67,47,8.0,1.0,1,0,0,89.0,142.5531914893617,0,0
+Rajasthan Royals,Deccan Chargers,501199,2011-04-09,LRPL Taylor,21,14,1.0,2.0,0,0,0,30.0,150.0,0,0
+Rajasthan Royals,Deccan Chargers,501199,2011-04-09,R Dravid,28,36,2.0,0.0,0,0,0,34.0,77.77777777777779,DW Steyn,bowled

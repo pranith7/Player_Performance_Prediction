@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Deccan Chargers,419147,2010-04-10,DE Bollinger,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,0,0
+Chennai Super Kings,Deccan Chargers,419147,2010-04-10,M Vijay,23,14,1.0,1.0,0,0,0,30.0,164.28571428571428,Harmeet Singh,run out
+Chennai Super Kings,Deccan Chargers,419147,2010-04-10,MEK Hussey,8,11,0.0,0.0,0,0,0,12.0,72.72727272727273,A Symonds,caught
+Chennai Super Kings,Deccan Chargers,419147,2010-04-10,ML Hayden,19,19,3.0,0.0,0,0,0,26.0,100.0,Harmeet Singh,caught
+Chennai Super Kings,Deccan Chargers,419147,2010-04-10,MS Dhoni,7,13,0.0,0.0,0,0,0,11.0,53.84615384615385,PP Ojha,bowled
+Chennai Super Kings,Deccan Chargers,419147,2010-04-10,R Ashwin,5,6,0.0,0.0,0,0,0,9.0,83.33333333333334,RJ Harris,caught and bowled
+Chennai Super Kings,Deccan Chargers,419147,2010-04-10,S Badrinath,6,6,1.0,0.0,0,0,0,11.0,100.0,RP Singh,caught
+Chennai Super Kings,Deccan Chargers,419147,2010-04-10,SK Raina,52,43,4.0,2.0,1,0,0,72.0,120.93023255813952,RJ Harris,caught
+Chennai Super Kings,Deccan Chargers,419147,2010-04-10,T Thushara,8,8,0.0,0.0,0,0,0,12.0,100.0,RJ Harris,caught
+Deccan Chargers,Chennai Super Kings,419147,2010-04-10,A Symonds,27,25,1.0,2.0,0,0,0,36.0,108.0,0,0
+Deccan Chargers,Chennai Super Kings,419147,2010-04-10,AC Gilchrist,7,10,1.0,0.0,0,0,0,12.0,70.0,R Ashwin,caught
+Deccan Chargers,Chennai Super Kings,419147,2010-04-10,DR Smith,13,8,0.0,1.0,0,0,0,19.0,162.5,0,0
+Deccan Chargers,Chennai Super Kings,419147,2010-04-10,MD Mishra,21,19,2.0,1.0,0,0,0,29.0,110.5263157894737,R Ashwin,stumped
+Deccan Chargers,Chennai Super Kings,419147,2010-04-10,RG Sharma,8,15,0.0,0.0,0,0,0,12.0,53.333333333333336,SK Raina,caught
+Deccan Chargers,Chennai Super Kings,419147,2010-04-10,TL Suman,55,44,4.0,2.0,1,0,0,75.0,125.0,SB Jakati,caught

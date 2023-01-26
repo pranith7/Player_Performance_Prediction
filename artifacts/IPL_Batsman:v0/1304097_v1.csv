@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Gujarat Titans,Mumbai Indians,1304097,2022-05-06,B Sai Sudharsan,14,11,1.0,1.0,0,0,0,21.0,127.27272727272728,KA Pollard,hit wicket
+Gujarat Titans,Mumbai Indians,1304097,2022-05-06,DA Miller,19,14,1.0,1.0,0,0,0,26.0,135.71428571428572,0,0
+Gujarat Titans,Mumbai Indians,1304097,2022-05-06,HH Pandya,24,14,4.0,0.0,0,0,0,32.0,171.42857142857142,RP Meredith,run out
+Gujarat Titans,Mumbai Indians,1304097,2022-05-06,R Tewatia,3,4,0.0,0.0,0,0,0,7.0,75.0,DR Sams,run out
+Gujarat Titans,Mumbai Indians,1304097,2022-05-06,Rashid Khan,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Gujarat Titans,Mumbai Indians,1304097,2022-05-06,Shubman Gill,52,36,6.0,2.0,1,0,0,74.0,144.44444444444443,M Ashwin,caught
+Gujarat Titans,Mumbai Indians,1304097,2022-05-06,WP Saha,55,41,6.0,2.0,1,0,0,77.0,134.14634146341464,M Ashwin,caught
+Mumbai Indians,Gujarat Titans,1304097,2022-05-06,DR Sams,0,2,0.0,0.0,0,0,1,2.0,0.0,LH Ferguson,caught
+Mumbai Indians,Gujarat Titans,1304097,2022-05-06,Ishan Kishan,45,30,5.0,1.0,0,0,0,56.0,150.0,AS Joseph,caught
+Mumbai Indians,Gujarat Titans,1304097,2022-05-06,KA Pollard,4,15,0.0,0.0,0,0,0,8.0,26.666666666666668,Rashid Khan,bowled
+Mumbai Indians,Gujarat Titans,1304097,2022-05-06,RG Sharma,43,29,5.0,2.0,0,0,0,56.0,148.27586206896552,Rashid Khan,lbw
+Mumbai Indians,Gujarat Titans,1304097,2022-05-06,SA Yadav,13,11,0.0,1.0,0,0,0,19.0,118.1818181818182,PJ Sangwan,caught
+Mumbai Indians,Gujarat Titans,1304097,2022-05-06,TH David,44,22,2.0,4.0,0,0,0,58.0,200.0,0,0
+Mumbai Indians,Gujarat Titans,1304097,2022-05-06,Tilak Varma,21,16,2.0,0.0,0,0,0,27.0,131.25,LH Ferguson,run out

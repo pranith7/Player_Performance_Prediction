@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Lucknow Super Giants,Rajasthan Royals,1304066,2022-04-10,A Badoni,5,7,0.0,0.0,0,0,0,9.0,71.42857142857143,YS Chahal,caught
+Lucknow Super Giants,Rajasthan Royals,1304066,2022-04-10,Avesh Khan,7,2,0.0,1.0,0,0,0,13.0,350.0,0,0
+Lucknow Super Giants,Rajasthan Royals,1304066,2022-04-10,DJ Hooda,25,24,3.0,0.0,0,0,0,32.0,104.16666666666669,KR Sen,bowled
+Lucknow Super Giants,Rajasthan Royals,1304066,2022-04-10,JO Holder,8,14,2.0,0.0,0,0,0,14.0,57.14285714285714,M Prasidh Krishna,caught
+Lucknow Super Giants,Rajasthan Royals,1304066,2022-04-10,K Gowtham,0,2,0.0,0.0,0,0,1,2.0,0.0,TA Boult,lbw
+Lucknow Super Giants,Rajasthan Royals,1304066,2022-04-10,KH Pandya,22,15,2.0,0.0,0,0,0,28.0,146.66666666666666,YS Chahal,bowled
+Lucknow Super Giants,Rajasthan Royals,1304066,2022-04-10,KL Rahul,0,1,0.0,0.0,0,0,1,2.0,0.0,TA Boult,bowled
+Lucknow Super Giants,Rajasthan Royals,1304066,2022-04-10,MP Stoinis,38,18,2.0,4.0,0,0,0,52.0,211.11111111111111,0,0
+Lucknow Super Giants,Rajasthan Royals,1304066,2022-04-10,PVD Chameera,13,9,2.0,0.0,0,0,0,19.0,144.44444444444443,YS Chahal,lbw
+Lucknow Super Giants,Rajasthan Royals,1304066,2022-04-10,Q de Kock,39,32,2.0,1.0,0,0,0,47.0,121.875,YS Chahal,caught
+Rajasthan Royals,Lucknow Super Giants,1304066,2022-04-10,D Padikkal,29,32,5.0,0.0,0,0,0,38.0,90.625,K Gowtham,caught
+Rajasthan Royals,Lucknow Super Giants,1304066,2022-04-10,HE van der Dussen,4,4,1.0,0.0,0,0,0,9.0,100.0,K Gowtham,bowled
+Rajasthan Royals,Lucknow Super Giants,1304066,2022-04-10,JC Buttler,13,12,1.0,1.0,0,0,0,20.0,108.33333333333331,Avesh Khan,bowled
+Rajasthan Royals,Lucknow Super Giants,1304066,2022-04-10,R Ashwin,28,25,0.0,2.0,0,0,0,36.0,112.0,Avesh Khan,retired out
+Rajasthan Royals,Lucknow Super Giants,1304066,2022-04-10,R Parag,8,4,0.0,1.0,0,0,0,14.0,200.0,JO Holder,caught
+Rajasthan Royals,Lucknow Super Giants,1304066,2022-04-10,SO Hetmyer,59,36,1.0,6.0,1,0,0,84.0,163.88888888888889,0,0
+Rajasthan Royals,Lucknow Super Giants,1304066,2022-04-10,SV Samson,13,12,2.0,0.0,0,0,0,19.0,108.33333333333331,JO Holder,lbw
+Rajasthan Royals,Lucknow Super Giants,1304066,2022-04-10,TA Boult,2,1,0.0,0.0,0,0,0,6.0,200.0,0,0

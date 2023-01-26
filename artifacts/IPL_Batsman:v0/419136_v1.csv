@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Royal Challengers Bangalore,419136,2010-04-02,B Lee,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Kings XI Punjab,Royal Challengers Bangalore,419136,2010-04-02,IK Pathan,16,6,2.0,1.0,0,0,0,24.0,266.66666666666663,P Kumar,run out
+Kings XI Punjab,Royal Challengers Bangalore,419136,2010-04-02,KC Sangakkara,45,27,8.0,0.0,0,0,0,57.0,166.66666666666669,DW Steyn,caught
+Kings XI Punjab,Royal Challengers Bangalore,419136,2010-04-02,MS Bisla,28,27,4.0,0.0,0,0,0,36.0,103.7037037037037,A Kumble,bowled
+Kings XI Punjab,Royal Challengers Bangalore,419136,2010-04-02,RS Bopara,42,34,3.0,0.0,0,0,0,49.0,123.52941176470588,0,0
+Kings XI Punjab,Royal Challengers Bangalore,419136,2010-04-02,SE Marsh,2,9,0.0,0.0,0,0,0,6.0,22.22222222222222,R Vinay Kumar,caught
+Kings XI Punjab,Royal Challengers Bangalore,419136,2010-04-02,Yuvraj Singh,36,20,3.0,2.0,0,0,0,47.0,180.0,JH Kallis,caught
+Royal Challengers Bangalore,Kings XI Punjab,419136,2010-04-02,CL White,6,3,1.0,0.0,0,0,0,11.0,200.0,0,0
+Royal Challengers Bangalore,Kings XI Punjab,419136,2010-04-02,JH Kallis,9,10,1.0,0.0,0,0,0,14.0,90.0,SJ Srivastava,caught
+Royal Challengers Bangalore,Kings XI Punjab,419136,2010-04-02,KP Pietersen,66,45,7.0,1.0,1,0,0,87.0,146.66666666666666,0,0
+Royal Challengers Bangalore,Kings XI Punjab,419136,2010-04-02,MK Pandey,29,25,3.0,0.0,0,0,0,36.0,116.0,Bipul Sharma,run out
+Royal Challengers Bangalore,Kings XI Punjab,419136,2010-04-02,RV Uthappa,22,9,1.0,2.0,0,0,0,31.0,244.44444444444449,IK Pathan,caught
+Royal Challengers Bangalore,Kings XI Punjab,419136,2010-04-02,V Kohli,42,26,4.0,1.0,0,0,0,52.0,161.53846153846155,Bipul Sharma,caught

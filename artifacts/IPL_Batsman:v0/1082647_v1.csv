@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Rising Pune Supergiant,1082647,2017-05-16,AT Rayudu,0,3,0.0,0.0,0,0,1,2.0,0.0,Washington Sundar,caught
+Mumbai Indians,Rising Pune Supergiant,1082647,2017-05-16,HH Pandya,14,10,1.0,1.0,0,0,0,21.0,140.0,LH Ferguson,caught
+Mumbai Indians,Rising Pune Supergiant,1082647,2017-05-16,JJ Bumrah,16,11,0.0,1.0,0,0,0,22.0,145.45454545454547,0,0
+Mumbai Indians,Rising Pune Supergiant,1082647,2017-05-16,KA Pollard,7,10,1.0,0.0,0,0,0,12.0,70.0,Washington Sundar,caught
+Mumbai Indians,Rising Pune Supergiant,1082647,2017-05-16,KH Pandya,15,12,2.0,0.0,0,0,0,21.0,125.0,SN Thakur,caught
+Mumbai Indians,Rising Pune Supergiant,1082647,2017-05-16,KV Sharma,4,8,0.0,0.0,0,0,0,8.0,50.0,JD Unadkat,caught
+Mumbai Indians,Rising Pune Supergiant,1082647,2017-05-16,LMP Simmons,5,15,0.0,0.0,0,0,0,9.0,33.33333333333333,SN Thakur,run out
+Mumbai Indians,Rising Pune Supergiant,1082647,2017-05-16,MJ McClenaghan,12,12,0.0,1.0,0,0,0,18.0,100.0,SN Thakur,caught
+Mumbai Indians,Rising Pune Supergiant,1082647,2017-05-16,PA Patel,52,42,3.0,3.0,1,0,0,73.0,123.8095238095238,SN Thakur,caught
+Mumbai Indians,Rising Pune Supergiant,1082647,2017-05-16,RG Sharma,1,2,0.0,0.0,0,0,0,5.0,50.0,Washington Sundar,lbw
+Mumbai Indians,Rising Pune Supergiant,1082647,2017-05-16,SL Malinga,7,2,0.0,1.0,0,0,0,13.0,350.0,0,0
+Rising Pune Supergiant,Mumbai Indians,1082647,2017-05-16,AM Rahane,56,44,5.0,1.0,1,0,0,75.0,127.27272727272728,KV Sharma,lbw
+Rising Pune Supergiant,Mumbai Indians,1082647,2017-05-16,MK Tiwary,58,48,4.0,2.0,1,0,0,78.0,120.83333333333331,JJ Bumrah,run out
+Rising Pune Supergiant,Mumbai Indians,1082647,2017-05-16,MS Dhoni,40,29,0.0,5.0,0,0,0,54.0,137.93103448275863,0,0
+Rising Pune Supergiant,Mumbai Indians,1082647,2017-05-16,RA Tripathi,0,2,0.0,0.0,0,0,1,2.0,0.0,MJ McClenaghan,bowled
+Rising Pune Supergiant,Mumbai Indians,1082647,2017-05-16,SPD Smith,1,2,0.0,0.0,0,0,0,5.0,50.0,SL Malinga,caught

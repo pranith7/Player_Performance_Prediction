@@ -1,0 +1,20 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Royal Challengers Bangalore,1082646,2017-05-14,A Mishra,7,4,0.0,1.0,0,0,0,13.0,175.0,P Negi,bowled
+Delhi Daredevils,Royal Challengers Bangalore,1082646,2017-05-14,CJ Anderson,3,9,0.0,0.0,0,0,0,7.0,33.33333333333333,TM Head,stumped
+Delhi Daredevils,Royal Challengers Bangalore,1082646,2017-05-14,KK Nair,26,22,5.0,0.0,0,0,0,35.0,118.1818181818182,SR Watson,caught
+Delhi Daredevils,Royal Challengers Bangalore,1082646,2017-05-14,MN Samuels,0,1,0.0,0.0,0,0,1,2.0,0.0,HV Patel,bowled
+Delhi Daredevils,Royal Challengers Bangalore,1082646,2017-05-14,Mohammed Shami,21,9,3.0,1.0,0,0,0,30.0,233.3333333333333,P Negi,stumped
+Delhi Daredevils,Royal Challengers Bangalore,1082646,2017-05-14,PJ Cummins,7,3,0.0,1.0,0,0,0,13.0,233.3333333333333,TM Head,caught
+Delhi Daredevils,Royal Challengers Bangalore,1082646,2017-05-14,RR Pant,45,34,3.0,2.0,0,0,0,56.0,132.35294117647058,HV Patel,bowled
+Delhi Daredevils,Royal Challengers Bangalore,1082646,2017-05-14,S Nadeem,2,6,0.0,0.0,0,0,0,6.0,33.33333333333333,P Negi,caught
+Delhi Daredevils,Royal Challengers Bangalore,1082646,2017-05-14,SS Iyer,32,31,2.0,1.0,0,0,0,40.0,103.2258064516129,HV Patel,caught
+Delhi Daredevils,Royal Challengers Bangalore,1082646,2017-05-14,SV Samson,0,2,0.0,0.0,0,0,1,2.0,0.0,Avesh Khan,caught
+Delhi Daredevils,Royal Challengers Bangalore,1082646,2017-05-14,Z Khan,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Royal Challengers Bangalore,Delhi Daredevils,1082646,2017-05-14,CH Gayle,48,39,3.0,3.0,0,0,0,61.0,123.07692307692308,S Nadeem,caught
+Royal Challengers Bangalore,Delhi Daredevils,1082646,2017-05-14,KM Jadhav,12,10,0.0,1.0,0,0,0,18.0,120.0,Mohammed Shami,run out
+Royal Challengers Bangalore,Delhi Daredevils,1082646,2017-05-14,P Negi,13,6,3.0,0.0,0,0,0,20.0,216.66666666666663,0,0
+Royal Challengers Bangalore,Delhi Daredevils,1082646,2017-05-14,SR Watson,4,5,0.0,0.0,0,0,0,8.0,80.0,0,0
+Royal Challengers Bangalore,Delhi Daredevils,1082646,2017-05-14,Sachin Baby,12,10,2.0,0.0,0,0,0,18.0,120.0,PJ Cummins,caught
+Royal Challengers Bangalore,Delhi Daredevils,1082646,2017-05-14,TM Head,2,2,0.0,0.0,0,0,0,6.0,100.0,Z Khan,run out
+Royal Challengers Bangalore,Delhi Daredevils,1082646,2017-05-14,V Kohli,58,46,3.0,3.0,1,0,0,79.0,126.08695652173914,Z Khan,caught
+Royal Challengers Bangalore,Delhi Daredevils,1082646,2017-05-14,Vishnu Vinod,3,9,0.0,0.0,0,0,0,7.0,33.33333333333333,PJ Cummins,bowled

@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Rajasthan Royals,Sunrisers Hyderabad,1216507,2020-10-11,BA Stokes,5,6,1.0,0.0,0,0,0,10.0,83.33333333333334,KK Ahmed,bowled
+Rajasthan Royals,Sunrisers Hyderabad,1216507,2020-10-11,JC Buttler,16,13,1.0,1.0,0,0,0,23.0,123.07692307692308,KK Ahmed,caught
+Rajasthan Royals,Sunrisers Hyderabad,1216507,2020-10-11,R Parag,42,28,2.0,2.0,0,0,0,52.0,150.0,0,0
+Rajasthan Royals,Sunrisers Hyderabad,1216507,2020-10-11,R Tewatia,45,28,4.0,2.0,0,0,0,57.0,160.71428571428572,0,0
+Rajasthan Royals,Sunrisers Hyderabad,1216507,2020-10-11,RV Uthappa,18,15,1.0,1.0,0,0,0,25.0,120.0,Rashid Khan,lbw
+Rajasthan Royals,Sunrisers Hyderabad,1216507,2020-10-11,SPD Smith,5,6,0.0,0.0,0,0,0,9.0,83.33333333333334,T Natarajan,run out
+Rajasthan Royals,Sunrisers Hyderabad,1216507,2020-10-11,SV Samson,26,25,3.0,0.0,0,0,0,33.0,104.0,Rashid Khan,caught
+Sunrisers Hyderabad,Rajasthan Royals,1216507,2020-10-11,DA Warner,48,38,3.0,2.0,0,0,0,59.0,126.3157894736842,JC Archer,bowled
+Sunrisers Hyderabad,Rajasthan Royals,1216507,2020-10-11,JM Bairstow,16,19,0.0,1.0,0,0,0,22.0,84.21052631578947,Kartik Tyagi,caught
+Sunrisers Hyderabad,Rajasthan Royals,1216507,2020-10-11,KS Williamson,22,13,0.0,2.0,0,0,0,30.0,169.23076923076923,0,0
+Sunrisers Hyderabad,Rajasthan Royals,1216507,2020-10-11,MK Pandey,54,45,2.0,3.0,1,0,0,74.0,120.0,JD Unadkat,caught
+Sunrisers Hyderabad,Rajasthan Royals,1216507,2020-10-11,PK Garg,15,8,1.0,1.0,0,0,0,22.0,187.5,JD Unadkat,run out

@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Royal Challengers Bangalore,392236,2009-05-21,A Symonds,18,17,1.0,1.0,0,0,0,25.0,105.88235294117648,RE van der Merwe,bowled
+Deccan Chargers,Royal Challengers Bangalore,392236,2009-05-21,AA Bilakhia,16,8,2.0,0.0,0,0,0,22.0,200.0,0,0
+Deccan Chargers,Royal Challengers Bangalore,392236,2009-05-21,AC Gilchrist,15,19,2.0,0.0,0,0,0,21.0,78.94736842105263,B Akhil,caught
+Deccan Chargers,Royal Challengers Bangalore,392236,2009-05-21,HH Gibbs,60,46,3.0,4.0,1,0,0,83.0,130.43478260869566,B Akhil,caught
+Deccan Chargers,Royal Challengers Bangalore,392236,2009-05-21,RG Sharma,12,12,1.0,0.0,0,0,0,17.0,100.0,A Kumble,caught
+Deccan Chargers,Royal Challengers Bangalore,392236,2009-05-21,RJ Harris,4,3,0.0,0.0,0,0,0,8.0,133.33333333333331,0,0
+Deccan Chargers,Royal Challengers Bangalore,392236,2009-05-21,TL Suman,12,12,1.0,0.0,0,0,0,17.0,100.0,A Kumble,caught
+Deccan Chargers,Royal Challengers Bangalore,392236,2009-05-21,Y Venugopal Rao,8,9,0.0,0.0,0,0,0,12.0,88.88888888888889,P Kumar,run out
+Royal Challengers Bangalore,Deccan Chargers,392236,2009-05-21,JH Kallis,5,7,0.0,0.0,0,0,0,9.0,71.42857142857143,RP Singh,caught
+Royal Challengers Bangalore,Deccan Chargers,392236,2009-05-21,LRPL Taylor,1,4,0.0,0.0,0,0,0,5.0,25.0,PP Ojha,caught
+Royal Challengers Bangalore,Deccan Chargers,392236,2009-05-21,MK Pandey,114,74,10.0,4.0,1,1,0,160.0,154.05405405405406,0,0
+Royal Challengers Bangalore,Deccan Chargers,392236,2009-05-21,R Dravid,6,9,0.0,0.0,0,0,0,10.0,66.66666666666666,PP Ojha,caught
+Royal Challengers Bangalore,Deccan Chargers,392236,2009-05-21,RE van der Merwe,23,18,3.0,1.0,0,0,0,32.0,127.77777777777776,A Symonds,stumped
+Royal Challengers Bangalore,Deccan Chargers,392236,2009-05-21,V Kohli,19,9,0.0,2.0,0,0,0,27.0,211.11111111111111,0,0

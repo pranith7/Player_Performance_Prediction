@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Rising Pune Supergiant,1082642,2017-05-12,A Mishra,13,10,0.0,1.0,0,0,0,19.0,130.0,0,0
+Delhi Daredevils,Rising Pune Supergiant,1082642,2017-05-12,CJ Anderson,3,6,0.0,0.0,0,0,0,7.0,50.0,Washington Sundar,stumped
+Delhi Daredevils,Rising Pune Supergiant,1082642,2017-05-12,KK Nair,64,45,9.0,0.0,1,0,0,85.0,142.22222222222223,BA Stokes,caught
+Delhi Daredevils,Rising Pune Supergiant,1082642,2017-05-12,MN Samuels,27,22,1.0,2.0,0,0,0,36.0,122.72727272727272,DT Christian,caught
+Delhi Daredevils,Rising Pune Supergiant,1082642,2017-05-12,Mohammed Shami,2,4,0.0,0.0,0,0,0,6.0,50.0,JD Unadkat,caught
+Delhi Daredevils,Rising Pune Supergiant,1082642,2017-05-12,PJ Cummins,11,7,0.0,1.0,0,0,0,17.0,157.14285714285714,BA Stokes,bowled
+Delhi Daredevils,Rising Pune Supergiant,1082642,2017-05-12,RR Pant,36,22,4.0,2.0,0,0,0,48.0,163.63636363636363,A Zampa,caught
+Delhi Daredevils,Rising Pune Supergiant,1082642,2017-05-12,SS Iyer,3,4,0.0,0.0,0,0,0,7.0,75.0,JD Unadkat,caught
+Delhi Daredevils,Rising Pune Supergiant,1082642,2017-05-12,SV Samson,2,4,0.0,0.0,0,0,0,6.0,50.0,JD Unadkat,run out
+Rising Pune Supergiant,Delhi Daredevils,1082642,2017-05-12,AM Rahane,0,1,0.0,0.0,0,0,1,2.0,0.0,Z Khan,bowled
+Rising Pune Supergiant,Delhi Daredevils,1082642,2017-05-12,BA Stokes,33,26,3.0,2.0,0,0,0,44.0,126.92307692307692,Mohammed Shami,caught
+Rising Pune Supergiant,Delhi Daredevils,1082642,2017-05-12,DT Christian,3,3,0.0,0.0,0,0,0,7.0,100.0,Mohammed Shami,lbw
+Rising Pune Supergiant,Delhi Daredevils,1082642,2017-05-12,MK Tiwary,60,46,5.0,3.0,1,0,0,83.0,130.43478260869566,PJ Cummins,bowled
+Rising Pune Supergiant,Delhi Daredevils,1082642,2017-05-12,MS Dhoni,5,5,0.0,0.0,0,0,0,9.0,100.0,PJ Cummins,run out
+Rising Pune Supergiant,Delhi Daredevils,1082642,2017-05-12,RA Tripathi,7,6,1.0,0.0,0,0,0,12.0,116.66666666666669,Z Khan,caught
+Rising Pune Supergiant,Delhi Daredevils,1082642,2017-05-12,SPD Smith,38,35,4.0,1.0,0,0,0,48.0,108.57142857142856,S Nadeem,lbw
+Rising Pune Supergiant,Delhi Daredevils,1082642,2017-05-12,Washington Sundar,5,3,0.0,0.0,0,0,0,9.0,166.66666666666669,0,0

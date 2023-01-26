@@ -1,0 +1,22 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Capitals,Rajasthan Royals,1216500,2020-10-09,AR Patel,17,10,2.0,1.0,0,0,0,25.0,170.0,AJ Tye,caught
+Delhi Capitals,Rajasthan Royals,1216500,2020-10-09,HV Patel,16,15,1.0,0.0,0,0,0,21.0,106.66666666666669,JC Archer,caught
+Delhi Capitals,Rajasthan Royals,1216500,2020-10-09,K Rabada,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,0,0
+Delhi Capitals,Rajasthan Royals,1216500,2020-10-09,MP Stoinis,39,31,0.0,4.0,0,0,0,51.0,125.80645161290325,R Tewatia,caught
+Delhi Capitals,Rajasthan Royals,1216500,2020-10-09,PP Shaw,19,10,2.0,1.0,0,0,0,27.0,190.0,JC Archer,caught and bowled
+Delhi Capitals,Rajasthan Royals,1216500,2020-10-09,R Ashwin,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Delhi Capitals,Rajasthan Royals,1216500,2020-10-09,RR Pant,5,10,0.0,0.0,0,0,0,9.0,50.0,R Tewatia,run out
+Delhi Capitals,Rajasthan Royals,1216500,2020-10-09,S Dhawan,5,4,1.0,0.0,0,0,0,10.0,125.0,JC Archer,caught
+Delhi Capitals,Rajasthan Royals,1216500,2020-10-09,SO Hetmyer,45,24,1.0,5.0,0,0,0,60.0,187.5,Kartik Tyagi,caught
+Delhi Capitals,Rajasthan Royals,1216500,2020-10-09,SS Iyer,22,19,4.0,0.0,0,0,0,30.0,115.78947368421052,AJ Tye,run out
+Rajasthan Royals,Delhi Capitals,1216500,2020-10-09,AJ Tye,6,7,0.0,1.0,0,0,0,12.0,85.71428571428571,AR Patel,caught
+Rajasthan Royals,Delhi Capitals,1216500,2020-10-09,JC Archer,2,4,0.0,0.0,0,0,0,6.0,50.0,K Rabada,caught
+Rajasthan Royals,Delhi Capitals,1216500,2020-10-09,JC Buttler,13,8,2.0,0.0,0,0,0,19.0,162.5,R Ashwin,caught
+Rajasthan Royals,Delhi Capitals,1216500,2020-10-09,Kartik Tyagi,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,0,0
+Rajasthan Royals,Delhi Capitals,1216500,2020-10-09,MK Lomror,1,2,0.0,0.0,0,0,0,5.0,50.0,R Ashwin,caught
+Rajasthan Royals,Delhi Capitals,1216500,2020-10-09,R Tewatia,38,31,3.0,2.0,0,0,0,49.0,122.58064516129032,K Rabada,bowled
+Rajasthan Royals,Delhi Capitals,1216500,2020-10-09,S Gopal,2,4,0.0,0.0,0,0,0,6.0,50.0,HV Patel,caught
+Rajasthan Royals,Delhi Capitals,1216500,2020-10-09,SPD Smith,24,20,2.0,1.0,0,0,0,32.0,120.0,A Nortje,caught
+Rajasthan Royals,Delhi Capitals,1216500,2020-10-09,SV Samson,5,9,0.0,0.0,0,0,0,9.0,55.55555555555556,MP Stoinis,caught
+Rajasthan Royals,Delhi Capitals,1216500,2020-10-09,VR Aaron,1,2,0.0,0.0,0,0,0,5.0,50.0,K Rabada,caught
+Rajasthan Royals,Delhi Capitals,1216500,2020-10-09,YBK Jaiswal,34,36,1.0,2.0,0,0,0,43.0,94.44444444444444,MP Stoinis,bowled

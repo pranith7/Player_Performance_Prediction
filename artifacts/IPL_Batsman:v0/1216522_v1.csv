@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Rajasthan Royals,Royal Challengers Bangalore,1216522,2020-10-17,BA Stokes,15,21,2.0,0.0,0,0,0,21.0,71.42857142857143,CH Morris,caught
+Rajasthan Royals,Royal Challengers Bangalore,1216522,2020-10-17,JC Archer,2,4,0.0,0.0,0,0,0,6.0,50.0,CH Morris,lbw
+Rajasthan Royals,Royal Challengers Bangalore,1216522,2020-10-17,JC Buttler,24,27,1.0,1.0,0,0,0,31.0,88.88888888888889,CH Morris,caught
+Rajasthan Royals,Royal Challengers Bangalore,1216522,2020-10-17,R Tewatia,19,11,1.0,1.0,0,0,0,26.0,172.72727272727272,0,0
+Rajasthan Royals,Royal Challengers Bangalore,1216522,2020-10-17,RV Uthappa,41,24,7.0,1.0,0,0,0,54.0,170.83333333333331,YS Chahal,caught
+Rajasthan Royals,Royal Challengers Bangalore,1216522,2020-10-17,SPD Smith,57,36,6.0,1.0,1,0,0,77.0,158.33333333333331,CH Morris,caught
+Rajasthan Royals,Royal Challengers Bangalore,1216522,2020-10-17,SV Samson,9,6,0.0,1.0,0,0,0,15.0,150.0,YS Chahal,caught
+Royal Challengers Bangalore,Rajasthan Royals,1216522,2020-10-17,AB de Villiers,55,23,1.0,6.0,1,0,0,80.0,239.1304347826087,0,0
+Royal Challengers Bangalore,Rajasthan Royals,1216522,2020-10-17,AJ Finch,14,12,0.0,2.0,0,0,0,22.0,116.66666666666669,S Gopal,caught
+Royal Challengers Bangalore,Rajasthan Royals,1216522,2020-10-17,D Padikkal,35,42,2.0,0.0,0,0,0,41.0,83.33333333333334,R Tewatia,caught
+Royal Challengers Bangalore,Rajasthan Royals,1216522,2020-10-17,Gurkeerat Singh,19,19,1.0,0.0,0,0,0,24.0,100.0,0,0
+Royal Challengers Bangalore,Rajasthan Royals,1216522,2020-10-17,V Kohli,43,34,1.0,2.0,0,0,0,52.0,126.47058823529412,Kartik Tyagi,caught

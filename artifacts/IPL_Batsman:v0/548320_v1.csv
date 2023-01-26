@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Rajasthan Royals,548320,2012-04-13,G Gambhir,11,12,2.0,0.0,0,0,0,17.0,91.66666666666666,A Singh,run out
+Kolkata Knight Riders,Rajasthan Royals,548320,2012-04-13,JH Kallis,31,38,3.0,0.0,0,0,0,38.0,81.57894736842105,J Botha,lbw
+Kolkata Knight Riders,Rajasthan Royals,548320,2012-04-13,MK Tiwary,24,18,1.0,1.0,0,0,0,31.0,133.33333333333331,GB Hogg,stumped
+Kolkata Knight Riders,Rajasthan Royals,548320,2012-04-13,MS Bisla,29,32,3.0,0.0,0,0,0,36.0,90.625,AL Menaria,caught
+Kolkata Knight Riders,Rajasthan Royals,548320,2012-04-13,RN ten Doeschate,7,3,0.0,1.0,0,0,0,13.0,233.3333333333333,0,0
+Kolkata Knight Riders,Rajasthan Royals,548320,2012-04-13,Shakib Al Hasan,16,10,1.0,1.0,0,0,0,23.0,160.0,A Singh,caught
+Kolkata Knight Riders,Rajasthan Royals,548320,2012-04-13,YK Pathan,7,8,1.0,0.0,0,0,0,12.0,87.5,0,0
+Rajasthan Royals,Kolkata Knight Riders,548320,2012-04-13,AL Menaria,1,6,0.0,0.0,0,0,0,5.0,16.666666666666664,YK Pathan,run out
+Rajasthan Royals,Kolkata Knight Riders,548320,2012-04-13,AM Rahane,19,16,3.0,0.0,0,0,0,26.0,118.75,Shakib Al Hasan,caught
+Rajasthan Royals,Kolkata Knight Riders,548320,2012-04-13,BJ Hodge,12,11,0.0,1.0,0,0,0,18.0,109.09090909090908,0,0
+Rajasthan Royals,Kolkata Knight Riders,548320,2012-04-13,J Botha,6,7,1.0,0.0,0,0,0,11.0,85.71428571428571,0,0
+Rajasthan Royals,Kolkata Knight Riders,548320,2012-04-13,OA Shah,31,36,3.0,0.0,0,0,0,38.0,86.11111111111111,SP Narine,stumped
+Rajasthan Royals,Kolkata Knight Riders,548320,2012-04-13,R Dravid,28,27,5.0,0.0,0,0,0,37.0,103.7037037037037,Shakib Al Hasan,caught
+Rajasthan Royals,Kolkata Knight Riders,548320,2012-04-13,SP Goswami,24,22,1.0,1.0,0,0,0,31.0,109.09090909090908,Shakib Al Hasan,caught

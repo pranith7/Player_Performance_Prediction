@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Pune Warriors,Rajasthan Royals,548365,2012-05-13,A Nehra,9,8,1.0,0.0,0,0,0,14.0,112.5,0,0
+Pune Warriors,Rajasthan Royals,548365,2012-05-13,AD Mathews,23,19,1.0,0.0,0,0,0,28.0,121.05263157894736,SR Watson,caught
+Pune Warriors,Rajasthan Royals,548365,2012-05-13,AP Majumdar,9,8,2.0,0.0,0,0,0,15.0,112.5,A Chandila,caught and bowled
+Pune Warriors,Rajasthan Royals,548365,2012-05-13,B Kumar,3,5,0.0,0.0,0,0,0,7.0,60.0,SW Tait,bowled
+Pune Warriors,Rajasthan Royals,548365,2012-05-13,CJ Ferguson,23,26,2.0,0.0,0,0,0,29.0,88.46153846153845,J Botha,lbw
+Pune Warriors,Rajasthan Royals,548365,2012-05-13,JD Ryder,1,2,0.0,0.0,0,0,0,5.0,50.0,A Chandila,caught
+Pune Warriors,Rajasthan Royals,548365,2012-05-13,M Kartik,8,9,0.0,0.0,0,0,0,12.0,88.88888888888889,0,0
+Pune Warriors,Rajasthan Royals,548365,2012-05-13,R Sharma,0,3,0.0,0.0,0,0,1,2.0,0.0,SR Watson,caught
+Pune Warriors,Rajasthan Royals,548365,2012-05-13,RV Uthappa,6,7,1.0,0.0,0,0,0,11.0,85.71428571428571,A Chandila,stumped
+Pune Warriors,Rajasthan Royals,548365,2012-05-13,SC Ganguly,2,4,0.0,0.0,0,0,0,6.0,50.0,A Chandila,stumped
+Pune Warriors,Rajasthan Royals,548365,2012-05-13,SPD Smith,37,31,5.0,0.0,0,0,0,46.0,119.35483870967742,J Botha,caught
+Rajasthan Royals,Pune Warriors,548365,2012-05-13,AM Rahane,61,48,7.0,0.0,1,0,0,80.0,127.08333333333331,AD Mathews,bowled
+Rajasthan Royals,Pune Warriors,548365,2012-05-13,BJ Hodge,14,15,0.0,0.0,0,0,0,18.0,93.33333333333331,A Nehra,caught
+Rajasthan Royals,Pune Warriors,548365,2012-05-13,J Botha,7,3,1.0,0.0,0,0,0,12.0,233.3333333333333,0,0
+Rajasthan Royals,Pune Warriors,548365,2012-05-13,R Dravid,21,20,4.0,0.0,0,0,0,29.0,105.0,A Nehra,caught
+Rajasthan Royals,Pune Warriors,548365,2012-05-13,SR Watson,58,31,6.0,4.0,1,0,0,84.0,187.0967741935484,A Nehra,bowled
+Rajasthan Royals,Pune Warriors,548365,2012-05-13,STR Binny,6,5,0.0,0.0,0,0,0,10.0,120.0,0,0

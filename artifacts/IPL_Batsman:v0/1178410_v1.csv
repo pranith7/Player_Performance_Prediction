@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Royal Challengers Bangalore,1178410,2019-04-19,AD Russell,65,30,2.0,9.0,1,0,0,97.0,216.66666666666663,MM Ali,run out
+Kolkata Knight Riders,Royal Challengers Bangalore,1178410,2019-04-19,CA Lynn,1,2,0.0,0.0,0,0,0,5.0,50.0,DW Steyn,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,1178410,2019-04-19,N Rana,85,46,9.0,5.0,1,0,0,116.0,184.7826086956522,0,0
+Kolkata Knight Riders,Royal Challengers Bangalore,1178410,2019-04-19,RV Uthappa,9,23,1.0,0.0,0,0,0,14.0,39.130434782608695,MP Stoinis,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,1178410,2019-04-19,SP Narine,18,16,4.0,0.0,0,0,0,26.0,112.5,NA Saini,caught
+Kolkata Knight Riders,Royal Challengers Bangalore,1178410,2019-04-19,Shubman Gill,9,11,1.0,0.0,0,0,0,14.0,81.81818181818183,DW Steyn,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,1178410,2019-04-19,AD Nath,13,16,0.0,1.0,0,0,0,19.0,81.25,AD Russell,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,1178410,2019-04-19,MM Ali,66,29,5.0,6.0,1,0,0,95.0,227.5862068965517,Kuldeep Yadav,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,1178410,2019-04-19,MP Stoinis,17,10,2.0,1.0,0,0,0,25.0,170.0,0,0
+Royal Challengers Bangalore,Kolkata Knight Riders,1178410,2019-04-19,PA Patel,11,12,2.0,0.0,0,0,0,17.0,91.66666666666666,SP Narine,caught
+Royal Challengers Bangalore,Kolkata Knight Riders,1178410,2019-04-19,V Kohli,100,58,9.0,4.0,1,1,0,145.0,172.41379310344826,HF Gurney,caught

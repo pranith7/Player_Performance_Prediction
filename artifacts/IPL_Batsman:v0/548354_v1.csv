@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Rajasthan Royals,548354,2012-05-05,AM Nayar,9,8,0.0,0.0,0,0,0,13.0,112.5,0,0
+Kings XI Punjab,Rajasthan Royals,548354,2012-05-05,Azhar Mahmood,24,25,2.0,1.0,0,0,0,32.0,96.0,STR Binny,bowled
+Kings XI Punjab,Rajasthan Royals,548354,2012-05-05,DJ Hussey,8,6,2.0,0.0,0,0,0,14.0,133.33333333333331,SK Trivedi,caught
+Kings XI Punjab,Rajasthan Royals,548354,2012-05-05,Gurkeerat Singh,23,25,2.0,0.0,0,0,0,29.0,92.0,J Botha,caught and bowled
+Kings XI Punjab,Rajasthan Royals,548354,2012-05-05,Mandeep Singh,7,6,0.0,1.0,0,0,0,13.0,116.66666666666669,SR Watson,caught
+Kings XI Punjab,Rajasthan Royals,548354,2012-05-05,N Saini,2,10,0.0,0.0,0,0,0,6.0,20.0,SW Tait,caught and bowled
+Kings XI Punjab,Rajasthan Royals,548354,2012-05-05,P Kumar,7,9,1.0,0.0,0,0,0,12.0,77.77777777777779,0,0
+Kings XI Punjab,Rajasthan Royals,548354,2012-05-05,PP Chawla,5,4,1.0,0.0,0,0,0,10.0,125.0,SR Watson,bowled
+Kings XI Punjab,Rajasthan Royals,548354,2012-05-05,RJ Harris,3,5,0.0,0.0,0,0,0,7.0,60.0,SW Tait,caught
+Kings XI Punjab,Rajasthan Royals,548354,2012-05-05,SE Marsh,34,29,5.0,1.0,0,0,0,45.0,117.2413793103448,J Botha,bowled
+Rajasthan Royals,Kings XI Punjab,548354,2012-05-05,AL Menaria,34,28,1.0,2.0,0,0,0,43.0,121.42857142857142,PP Chawla,caught
+Rajasthan Royals,Kings XI Punjab,548354,2012-05-05,AM Rahane,5,7,1.0,0.0,0,0,0,10.0,71.42857142857143,RJ Harris,caught
+Rajasthan Royals,Kings XI Punjab,548354,2012-05-05,BJ Hodge,36,23,2.0,2.0,0,0,0,46.0,156.52173913043478,RJ Harris,caught
+Rajasthan Royals,Kings XI Punjab,548354,2012-05-05,J Botha,14,8,2.0,0.0,0,0,0,20.0,175.0,0,0
+Rajasthan Royals,Kings XI Punjab,548354,2012-05-05,R Dravid,46,39,8.0,0.0,0,0,0,58.0,117.94871794871796,RJ Harris,caught
+Rajasthan Royals,Kings XI Punjab,548354,2012-05-05,SR Watson,36,18,4.0,2.0,0,0,0,48.0,200.0,PP Chawla,caught
+Rajasthan Royals,Kings XI Punjab,548354,2012-05-05,STR Binny,0,1,0.0,0.0,0,0,1,2.0,0.0,RJ Harris,caught

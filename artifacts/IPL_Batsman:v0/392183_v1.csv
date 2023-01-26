@@ -1,0 +1,9 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Kings XI Punjab,392183,2009-04-19,G Gambhir,15,14,2.0,0.0,0,0,0,21.0,107.14285714285714,0,0
+Delhi Daredevils,Kings XI Punjab,392183,2009-04-19,V Sehwag,38,18,4.0,3.0,0,0,0,52.0,211.11111111111111,0,0
+Kings XI Punjab,Delhi Daredevils,392183,2009-04-19,DPMD Jayawardene,6,6,1.0,0.0,0,0,0,11.0,100.0,DL Vettori,caught
+Kings XI Punjab,Delhi Daredevils,392183,2009-04-19,IK Pathan,6,7,0.0,0.0,0,0,0,10.0,85.71428571428571,AM Salvi,caught
+Kings XI Punjab,Delhi Daredevils,392183,2009-04-19,K Goel,38,22,3.0,3.0,0,0,0,51.0,172.72727272727272,VY Mahesh,caught
+Kings XI Punjab,Delhi Daredevils,392183,2009-04-19,KC Sangakkara,8,11,1.0,0.0,0,0,0,13.0,72.72727272727273,DL Vettori,caught
+Kings XI Punjab,Delhi Daredevils,392183,2009-04-19,RS Bopara,22,18,0.0,2.0,0,0,0,30.0,122.22222222222224,DL Vettori,lbw
+Kings XI Punjab,Delhi Daredevils,392183,2009-04-19,Yuvraj Singh,16,12,0.0,2.0,0,0,0,24.0,133.33333333333331,DL Vettori,run out

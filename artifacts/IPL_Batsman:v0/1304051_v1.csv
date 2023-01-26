@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Rajasthan Royals,Sunrisers Hyderabad,1304051,2022-03-29,D Padikkal,41,30,4.0,2.0,0,0,0,53.0,136.66666666666666,Umran Malik,bowled
+Rajasthan Royals,Sunrisers Hyderabad,1304051,2022-03-29,JC Buttler,35,28,3.0,3.0,0,0,0,48.0,125.0,Umran Malik,caught
+Rajasthan Royals,Sunrisers Hyderabad,1304051,2022-03-29,NM Coulter-Nile,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Rajasthan Royals,Sunrisers Hyderabad,1304051,2022-03-29,R Parag,12,9,2.0,0.0,0,0,0,18.0,133.33333333333331,T Natarajan,caught
+Rajasthan Royals,Sunrisers Hyderabad,1304051,2022-03-29,SO Hetmyer,32,15,2.0,3.0,0,0,0,44.0,213.3333333333333,T Natarajan,bowled
+Rajasthan Royals,Sunrisers Hyderabad,1304051,2022-03-29,SV Samson,55,29,3.0,5.0,1,0,0,80.0,189.6551724137931,B Kumar,caught
+Rajasthan Royals,Sunrisers Hyderabad,1304051,2022-03-29,YBK Jaiswal,20,17,2.0,1.0,0,0,0,28.0,117.64705882352942,R Shepherd,caught
+Sunrisers Hyderabad,Rajasthan Royals,1304051,2022-03-29,AK Markram,57,42,5.0,2.0,1,0,0,78.0,135.71428571428572,0,0
+Sunrisers Hyderabad,Rajasthan Royals,1304051,2022-03-29,Abdul Samad,4,6,0.0,0.0,0,0,0,8.0,66.66666666666666,YS Chahal,caught
+Sunrisers Hyderabad,Rajasthan Royals,1304051,2022-03-29,Abhishek Sharma,9,19,1.0,0.0,0,0,0,14.0,47.368421052631575,YS Chahal,caught
+Sunrisers Hyderabad,Rajasthan Royals,1304051,2022-03-29,B Kumar,3,4,0.0,0.0,0,0,0,7.0,75.0,0,0
+Sunrisers Hyderabad,Rajasthan Royals,1304051,2022-03-29,KS Williamson,2,7,0.0,0.0,0,0,0,6.0,28.57142857142857,M Prasidh Krishna,caught
+Sunrisers Hyderabad,Rajasthan Royals,1304051,2022-03-29,N Pooran,0,10,0.0,0.0,0,0,1,2.0,0.0,TA Boult,lbw
+Sunrisers Hyderabad,Rajasthan Royals,1304051,2022-03-29,R Shepherd,24,18,0.0,2.0,0,0,0,32.0,133.33333333333331,YS Chahal,bowled
+Sunrisers Hyderabad,Rajasthan Royals,1304051,2022-03-29,RA Tripathi,0,3,0.0,0.0,0,0,1,2.0,0.0,M Prasidh Krishna,caught
+Sunrisers Hyderabad,Rajasthan Royals,1304051,2022-03-29,Washington Sundar,40,16,5.0,2.0,0,0,0,53.0,250.0,TA Boult,caught

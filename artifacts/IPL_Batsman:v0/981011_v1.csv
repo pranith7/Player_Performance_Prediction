@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Royal Challengers Bangalore,981011,2016-05-22,CH Morris,27,19,3.0,0.0,0,0,0,34.0,142.10526315789474,0,0
+Delhi Daredevils,Royal Challengers Bangalore,981011,2016-05-22,CR Brathwaite,1,2,0.0,0.0,0,0,0,5.0,50.0,CH Gayle,caught
+Delhi Daredevils,Royal Challengers Bangalore,981011,2016-05-22,J Yadav,5,7,0.0,0.0,0,0,0,9.0,71.42857142857143,SR Watson,run out
+Delhi Daredevils,Royal Challengers Bangalore,981011,2016-05-22,KK Nair,11,10,0.0,1.0,0,0,0,17.0,110.0,YS Chahal,caught
+Delhi Daredevils,Royal Challengers Bangalore,981011,2016-05-22,P Negi,6,13,0.0,0.0,0,0,0,10.0,46.15384615384615,CH Gayle,caught
+Delhi Daredevils,Royal Challengers Bangalore,981011,2016-05-22,Q de Kock,60,54,5.0,1.0,1,0,0,79.0,111.11111111111111,YS Chahal,caught
+Delhi Daredevils,Royal Challengers Bangalore,981011,2016-05-22,RR Pant,1,2,0.0,0.0,0,0,0,5.0,50.0,S Aravind,caught
+Delhi Daredevils,Royal Challengers Bangalore,981011,2016-05-22,SV Samson,17,12,1.0,1.0,0,0,0,24.0,141.66666666666669,YS Chahal,caught
+Delhi Daredevils,Royal Challengers Bangalore,981011,2016-05-22,SW Billings,4,6,0.0,0.0,0,0,0,8.0,66.66666666666666,CJ Jordan,caught
+Royal Challengers Bangalore,Delhi Daredevils,981011,2016-05-22,AB de Villiers,6,9,1.0,0.0,0,0,0,11.0,66.66666666666666,Z Khan,caught
+Royal Challengers Bangalore,Delhi Daredevils,981011,2016-05-22,CH Gayle,1,4,0.0,0.0,0,0,0,5.0,25.0,CH Morris,bowled
+Royal Challengers Bangalore,Delhi Daredevils,981011,2016-05-22,KL Rahul,38,23,4.0,1.0,0,0,0,48.0,165.2173913043478,CR Brathwaite,bowled
+Royal Challengers Bangalore,Delhi Daredevils,981011,2016-05-22,SR Watson,14,18,0.0,1.0,0,0,0,20.0,77.77777777777779,P Negi,caught
+Royal Challengers Bangalore,Delhi Daredevils,981011,2016-05-22,STR Binny,16,12,2.0,0.0,0,0,0,22.0,133.33333333333331,0,0
+Royal Challengers Bangalore,Delhi Daredevils,981011,2016-05-22,V Kohli,54,45,6.0,0.0,1,0,0,72.0,120.0,0,0

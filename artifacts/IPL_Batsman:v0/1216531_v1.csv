@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kings XI Punjab,Royal Challengers Bangalore,1216531,2020-10-15,CH Gayle,53,48,1.0,5.0,1,0,0,76.0,110.41666666666669,YS Chahal,run out
+Kings XI Punjab,Royal Challengers Bangalore,1216531,2020-10-15,KL Rahul,61,50,1.0,5.0,1,0,0,84.0,122.0,0,0
+Kings XI Punjab,Royal Challengers Bangalore,1216531,2020-10-15,MA Agarwal,45,27,4.0,3.0,0,0,0,59.0,166.66666666666669,YS Chahal,bowled
+Kings XI Punjab,Royal Challengers Bangalore,1216531,2020-10-15,N Pooran,6,1,0.0,1.0,0,0,0,12.0,600.0,0,0
+Royal Challengers Bangalore,Kings XI Punjab,1216531,2020-10-15,AB de Villiers,2,5,0.0,0.0,0,0,0,6.0,40.0,Mohammed Shami,caught
+Royal Challengers Bangalore,Kings XI Punjab,1216531,2020-10-15,AJ Finch,20,18,2.0,1.0,0,0,0,28.0,111.11111111111111,M Ashwin,bowled
+Royal Challengers Bangalore,Kings XI Punjab,1216531,2020-10-15,CH Morris,25,8,1.0,3.0,0,0,0,36.0,312.5,0,0
+Royal Challengers Bangalore,Kings XI Punjab,1216531,2020-10-15,D Padikkal,18,13,1.0,1.0,0,0,0,25.0,138.46153846153845,Arshdeep Singh,caught
+Royal Challengers Bangalore,Kings XI Punjab,1216531,2020-10-15,I Udana,10,5,0.0,1.0,0,0,0,16.0,200.0,0,0
+Royal Challengers Bangalore,Kings XI Punjab,1216531,2020-10-15,S Dube,23,21,0.0,2.0,0,0,0,31.0,109.52380952380952,CJ Jordan,caught
+Royal Challengers Bangalore,Kings XI Punjab,1216531,2020-10-15,V Kohli,48,41,3.0,0.0,0,0,0,55.0,117.07317073170732,Mohammed Shami,caught
+Royal Challengers Bangalore,Kings XI Punjab,1216531,2020-10-15,Washington Sundar,13,14,1.0,0.0,0,0,0,18.0,92.85714285714286,M Ashwin,caught

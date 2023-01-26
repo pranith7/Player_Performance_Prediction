@@ -1,0 +1,17 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Rajasthan Royals,336036,2008-05-26,AM Nayar,25,19,3.0,0.0,0,0,0,32.0,131.57894736842107,Sohail Tanvir,lbw
+Mumbai Indians,Rajasthan Royals,336036,2008-05-26,DR Smith,8,8,1.0,0.0,0,0,0,13.0,100.0,Sohail Tanvir,caught
+Mumbai Indians,Rajasthan Royals,336036,2008-05-26,MK Pandey,3,6,0.0,0.0,0,0,0,7.0,50.0,Sohail Tanvir,bowled
+Mumbai Indians,Rajasthan Royals,336036,2008-05-26,RR Raje,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Mumbai Indians,Rajasthan Royals,336036,2008-05-26,RV Uthappa,3,9,0.0,0.0,0,0,0,7.0,33.33333333333333,SK Warne,stumped
+Mumbai Indians,Rajasthan Royals,336036,2008-05-26,SM Pollock,0,1,0.0,0.0,0,0,1,2.0,0.0,Sohail Tanvir,caught
+Mumbai Indians,Rajasthan Royals,336036,2008-05-26,SR Tendulkar,30,35,2.0,0.0,0,0,0,36.0,85.71428571428571,SK Trivedi,caught and bowled
+Mumbai Indians,Rajasthan Royals,336036,2008-05-26,ST Jayasuriya,38,39,4.0,0.0,0,0,0,46.0,97.43589743589745,SK Trivedi,caught
+Mumbai Indians,Rajasthan Royals,336036,2008-05-26,YV Takawale,24,8,4.0,1.0,0,0,0,34.0,300.0,0,0
+Rajasthan Royals,Mumbai Indians,336036,2008-05-26,Kamran Akmal,18,16,4.0,0.0,0,0,0,26.0,112.5,A Nehra,run out
+Rajasthan Royals,Mumbai Indians,336036,2008-05-26,M Kaif,12,16,0.0,0.0,0,0,0,16.0,75.0,RR Raje,run out
+Rajasthan Royals,Mumbai Indians,336036,2008-05-26,Niraj Patel,40,30,2.0,1.0,0,0,0,48.0,133.33333333333331,0,0
+Rajasthan Royals,Mumbai Indians,336036,2008-05-26,RA Jadeja,23,20,0.0,1.0,0,0,0,29.0,115.0,0,0
+Rajasthan Royals,Mumbai Indians,336036,2008-05-26,SA Asnodkar,17,20,2.0,0.0,0,0,0,23.0,85.0,CRD Fernando,caught
+Rajasthan Royals,Mumbai Indians,336036,2008-05-26,SR Watson,18,20,3.0,0.0,0,0,0,25.0,90.0,RR Raje,caught
+Rajasthan Royals,Mumbai Indians,336036,2008-05-26,YK Pathan,2,4,0.0,0.0,0,0,0,6.0,50.0,CRD Fernando,caught

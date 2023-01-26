@@ -1,0 +1,16 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Kings XI Punjab,548371,2012-05-17,DJ Bravo,48,43,2.0,3.0,0,0,0,60.0,111.6279069767442,RJ Harris,caught
+Chennai Super Kings,Kings XI Punjab,548371,2012-05-17,JA Morkel,14,8,1.0,1.0,0,0,0,21.0,175.0,Azhar Mahmood,caught
+Chennai Super Kings,Kings XI Punjab,548371,2012-05-17,M Vijay,10,14,2.0,0.0,0,0,0,16.0,71.42857142857143,P Kumar,caught
+Chennai Super Kings,Kings XI Punjab,548371,2012-05-17,MEK Hussey,7,11,1.0,0.0,0,0,0,12.0,63.63636363636363,P Kumar,caught
+Chennai Super Kings,Kings XI Punjab,548371,2012-05-17,MS Dhoni,6,16,1.0,0.0,0,0,0,11.0,37.5,P Awana,caught
+Chennai Super Kings,Kings XI Punjab,548371,2012-05-17,R Ashwin,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Chennai Super Kings,Kings XI Punjab,548371,2012-05-17,RA Jadeja,13,14,2.0,0.0,0,0,0,19.0,92.85714285714286,P Awana,caught
+Chennai Super Kings,Kings XI Punjab,548371,2012-05-17,S Anirudha,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Chennai Super Kings,Kings XI Punjab,548371,2012-05-17,SK Raina,17,13,0.0,2.0,0,0,0,25.0,130.76923076923077,Azhar Mahmood,caught
+Kings XI Punjab,Chennai Super Kings,548371,2012-05-17,AC Gilchrist,64,48,9.0,2.0,1,0,0,89.0,133.33333333333331,0,0
+Kings XI Punjab,Chennai Super Kings,548371,2012-05-17,Azhar Mahmood,9,7,2.0,0.0,0,0,0,15.0,128.57142857142858,0,0
+Kings XI Punjab,Chennai Super Kings,548371,2012-05-17,DJ Hussey,9,9,1.0,0.0,0,0,0,14.0,100.0,DJ Bravo,caught
+Kings XI Punjab,Chennai Super Kings,548371,2012-05-17,Mandeep Singh,24,21,5.0,0.0,0,0,0,33.0,114.28571428571428,JA Morkel,bowled
+Kings XI Punjab,Chennai Super Kings,548371,2012-05-17,N Saini,1,4,0.0,0.0,0,0,0,5.0,25.0,DJ Bravo,caught
+Kings XI Punjab,Chennai Super Kings,548371,2012-05-17,SD Chitnis,11,12,1.0,0.0,0,0,0,16.0,91.66666666666666,BW Hilfenhaus,caught

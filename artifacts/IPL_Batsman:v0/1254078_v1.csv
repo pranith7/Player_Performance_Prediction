@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Punjab Kings,1254078,2021-04-26,AD Russell,10,9,2.0,0.0,0,0,0,16.0,111.11111111111111,Ravi Bishnoi,run out
+Kolkata Knight Riders,Punjab Kings,1254078,2021-04-26,EJG Morgan,47,40,4.0,2.0,0,0,0,59.0,117.5,0,0
+Kolkata Knight Riders,Punjab Kings,1254078,2021-04-26,KD Karthik,12,6,2.0,0.0,0,0,0,18.0,200.0,0,0
+Kolkata Knight Riders,Punjab Kings,1254078,2021-04-26,N Rana,0,1,0.0,0.0,0,0,1,2.0,0.0,MC Henriques,caught
+Kolkata Knight Riders,Punjab Kings,1254078,2021-04-26,RA Tripathi,41,32,7.0,0.0,0,0,0,52.0,128.125,DJ Hooda,caught
+Kolkata Knight Riders,Punjab Kings,1254078,2021-04-26,SP Narine,0,5,0.0,0.0,0,0,1,2.0,0.0,Arshdeep Singh,caught
+Kolkata Knight Riders,Punjab Kings,1254078,2021-04-26,Shubman Gill,9,8,2.0,0.0,0,0,0,15.0,112.5,Mohammed Shami,lbw
+Punjab Kings,Kolkata Knight Riders,1254078,2021-04-26,Arshdeep Singh,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Punjab Kings,Kolkata Knight Riders,1254078,2021-04-26,CH Gayle,0,1,0.0,0.0,0,0,1,2.0,0.0,Shivam Mavi,caught
+Punjab Kings,Kolkata Knight Riders,1254078,2021-04-26,CJ Jordan,30,18,1.0,3.0,0,0,0,41.0,166.66666666666669,M Prasidh Krishna,bowled
+Punjab Kings,Kolkata Knight Riders,1254078,2021-04-26,DJ Hooda,1,5,0.0,0.0,0,0,0,5.0,20.0,M Prasidh Krishna,caught
+Punjab Kings,Kolkata Knight Riders,1254078,2021-04-26,KL Rahul,19,20,2.0,1.0,0,0,0,27.0,95.0,PJ Cummins,caught
+Punjab Kings,Kolkata Knight Riders,1254078,2021-04-26,M Shahrukh Khan,13,14,0.0,1.0,0,0,0,19.0,92.85714285714286,M Prasidh Krishna,caught
+Punjab Kings,Kolkata Knight Riders,1254078,2021-04-26,MA Agarwal,31,36,1.0,2.0,0,0,0,40.0,86.11111111111111,SP Narine,caught
+Punjab Kings,Kolkata Knight Riders,1254078,2021-04-26,MC Henriques,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,SP Narine,bowled
+Punjab Kings,Kolkata Knight Riders,1254078,2021-04-26,Mohammed Shami,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Punjab Kings,Kolkata Knight Riders,1254078,2021-04-26,N Pooran,19,19,1.0,1.0,0,0,0,26.0,100.0,CV Varun,bowled
+Punjab Kings,Kolkata Knight Riders,1254078,2021-04-26,Ravi Bishnoi,1,5,0.0,0.0,0,0,0,5.0,20.0,PJ Cummins,caught

@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Mumbai Indians,598070,2013-05-21,M Vijay,23,20,2.0,0.0,0,0,0,29.0,115.0,KA Pollard,caught
+Chennai Super Kings,Mumbai Indians,598070,2013-05-21,MEK Hussey,86,58,10.0,2.0,1,0,0,112.0,148.27586206896552,0,0
+Chennai Super Kings,Mumbai Indians,598070,2013-05-21,SK Raina,82,42,5.0,5.0,1,0,0,109.0,195.23809523809524,0,0
+Mumbai Indians,Chennai Super Kings,598070,2013-05-21,AP Tare,7,7,1.0,0.0,0,0,0,12.0,100.0,JA Morkel,caught
+Mumbai Indians,Chennai Super Kings,598070,2013-05-21,AT Rayudu,15,14,1.0,0.0,0,0,0,20.0,107.14285714285714,MM Sharma,caught
+Mumbai Indians,Chennai Super Kings,598070,2013-05-21,DR Smith,68,29,6.0,5.0,1,0,0,96.0,234.4827586206896,RA Jadeja,caught
+Mumbai Indians,Chennai Super Kings,598070,2013-05-21,Harbhajan Singh,0,4,0.0,0.0,0,0,1,2.0,0.0,DJ Bravo,caught
+Mumbai Indians,Chennai Super Kings,598070,2013-05-21,KA Pollard,24,16,1.0,2.0,0,0,0,33.0,150.0,RA Jadeja,caught
+Mumbai Indians,Chennai Super Kings,598070,2013-05-21,KD Karthik,11,18,1.0,0.0,0,0,0,16.0,61.11111111111112,RA Jadeja,lbw
+Mumbai Indians,Chennai Super Kings,598070,2013-05-21,MG Johnson,6,7,0.0,0.0,0,0,0,10.0,85.71428571428571,DJ Bravo,caught
+Mumbai Indians,Chennai Super Kings,598070,2013-05-21,PP Ojha,0,2,0.0,0.0,0,0,1,2.0,0.0,MM Sharma,caught
+Mumbai Indians,Chennai Super Kings,598070,2013-05-21,RG Sharma,8,15,0.0,0.0,0,0,0,12.0,53.333333333333336,CH Morris,caught
+Mumbai Indians,Chennai Super Kings,598070,2013-05-21,SL Malinga,0,2,0.0,0.0,0,0,1,2.0,0.0,DJ Bravo,caught

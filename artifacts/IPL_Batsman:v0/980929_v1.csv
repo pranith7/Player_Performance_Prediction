@@ -1,0 +1,12 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Gujarat Lions,Sunrisers Hyderabad,980929,2016-04-21,AD Nath,5,10,0.0,0.0,0,0,0,9.0,50.0,B Kumar,caught
+Gujarat Lions,Sunrisers Hyderabad,980929,2016-04-21,AJ Finch,0,4,0.0,0.0,0,0,1,2.0,0.0,B Kumar,bowled
+Gujarat Lions,Sunrisers Hyderabad,980929,2016-04-21,BB McCullum,18,17,1.0,1.0,0,0,0,25.0,105.88235294117648,Bipul Sharma,caught
+Gujarat Lions,Sunrisers Hyderabad,980929,2016-04-21,DJ Bravo,8,12,0.0,0.0,0,0,0,12.0,66.66666666666666,BB Sran,caught
+Gujarat Lions,Sunrisers Hyderabad,980929,2016-04-21,DW Steyn,1,2,0.0,0.0,0,0,0,5.0,50.0,B Kumar,caught
+Gujarat Lions,Sunrisers Hyderabad,980929,2016-04-21,KD Karthik,8,10,1.0,0.0,0,0,0,13.0,80.0,DJ Hooda,caught
+Gujarat Lions,Sunrisers Hyderabad,980929,2016-04-21,P Kumar,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Gujarat Lions,Sunrisers Hyderabad,980929,2016-04-21,RA Jadeja,14,16,0.0,0.0,0,0,0,18.0,87.5,Mustafizur Rahman,bowled
+Gujarat Lions,Sunrisers Hyderabad,980929,2016-04-21,SK Raina,75,51,9.0,0.0,1,0,0,96.0,147.05882352941177,B Kumar,caught
+Sunrisers Hyderabad,Gujarat Lions,980929,2016-04-21,DA Warner,74,50,9.0,0.0,1,0,0,95.0,148.0,0,0
+Sunrisers Hyderabad,Gujarat Lions,980929,2016-04-21,S Dhawan,53,44,5.0,0.0,1,0,0,70.0,120.45454545454544,0,0

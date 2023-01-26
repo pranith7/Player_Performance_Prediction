@@ -1,0 +1,10 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Mumbai Indians,548363,2012-05-12,DB Das,4,1,1.0,0.0,0,0,0,9.0,400.0,0,0
+Kolkata Knight Riders,Mumbai Indians,548363,2012-05-12,G Gambhir,0,2,0.0,0.0,0,0,1,2.0,0.0,MM Patel,bowled
+Kolkata Knight Riders,Mumbai Indians,548363,2012-05-12,JH Kallis,79,60,7.0,3.0,1,0,0,104.0,131.66666666666666,DR Smith,caught
+Kolkata Knight Riders,Mumbai Indians,548363,2012-05-12,MK Tiwary,27,25,4.0,0.0,0,0,0,35.0,108.0,KA Pollard,lbw
+Kolkata Knight Riders,Mumbai Indians,548363,2012-05-12,MS Bisla,1,2,0.0,0.0,0,0,0,5.0,50.0,PP Ojha,caught
+Kolkata Knight Riders,Mumbai Indians,548363,2012-05-12,YK Pathan,40,32,2.0,1.0,0,0,0,48.0,125.0,0,0
+Mumbai Indians,Kolkata Knight Riders,548363,2012-05-12,HH Gibbs,66,59,7.0,2.0,1,0,0,89.0,111.864406779661,0,0
+Mumbai Indians,Kolkata Knight Riders,548363,2012-05-12,RG Sharma,109,62,12.0,5.0,1,1,0,159.0,175.80645161290323,0,0
+Mumbai Indians,Kolkata Knight Riders,548363,2012-05-12,SR Tendulkar,2,2,0.0,0.0,0,0,0,6.0,100.0,Shakib Al Hasan,stumped

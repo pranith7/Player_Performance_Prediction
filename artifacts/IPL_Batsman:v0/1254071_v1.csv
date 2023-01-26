@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Punjab Kings,Sunrisers Hyderabad,1254071,2021-04-21,Arshdeep Singh,1,2,0.0,0.0,0,0,0,5.0,50.0,0,0
+Punjab Kings,Sunrisers Hyderabad,1254071,2021-04-21,CH Gayle,15,17,2.0,0.0,0,0,0,21.0,88.23529411764706,Rashid Khan,lbw
+Punjab Kings,Sunrisers Hyderabad,1254071,2021-04-21,DJ Hooda,13,11,2.0,0.0,0,0,0,19.0,118.1818181818182,Abhishek Sharma,lbw
+Punjab Kings,Sunrisers Hyderabad,1254071,2021-04-21,FA Allen,6,11,0.0,0.0,0,0,0,10.0,54.54545454545454,KK Ahmed,caught
+Punjab Kings,Sunrisers Hyderabad,1254071,2021-04-21,KL Rahul,4,6,0.0,0.0,0,0,0,8.0,66.66666666666666,B Kumar,caught
+Punjab Kings,Sunrisers Hyderabad,1254071,2021-04-21,M Ashwin,9,10,1.0,0.0,0,0,0,14.0,90.0,S Kaul,caught
+Punjab Kings,Sunrisers Hyderabad,1254071,2021-04-21,M Shahrukh Khan,22,18,0.0,2.0,0,0,0,30.0,122.22222222222224,KK Ahmed,caught
+Punjab Kings,Sunrisers Hyderabad,1254071,2021-04-21,MA Agarwal,22,25,2.0,0.0,0,0,0,28.0,88.0,KK Ahmed,caught
+Punjab Kings,Sunrisers Hyderabad,1254071,2021-04-21,MC Henriques,14,17,0.0,0.0,0,0,0,18.0,82.35294117647058,Abhishek Sharma,stumped
+Punjab Kings,Sunrisers Hyderabad,1254071,2021-04-21,Mohammed Shami,3,3,0.0,0.0,0,0,0,7.0,100.0,S Kaul,run out
+Sunrisers Hyderabad,Punjab Kings,1254071,2021-04-21,DA Warner,37,39,3.0,1.0,0,0,0,46.0,94.87179487179486,FA Allen,caught
+Sunrisers Hyderabad,Punjab Kings,1254071,2021-04-21,JM Bairstow,63,57,3.0,3.0,1,0,0,84.0,110.5263157894737,0,0
+Sunrisers Hyderabad,Punjab Kings,1254071,2021-04-21,KS Williamson,16,20,0.0,0.0,0,0,0,20.0,80.0,0,0

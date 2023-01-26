@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Deccan Chargers,Royal Challengers Bangalore,419164,2010-04-24,A Symonds,2,8,0.0,0.0,0,0,0,6.0,25.0,DW Steyn,caught
+Deccan Chargers,Royal Challengers Bangalore,419164,2010-04-24,AC Gilchrist,4,4,1.0,0.0,0,0,0,9.0,100.0,A Kumble,caught
+Deccan Chargers,Royal Challengers Bangalore,419164,2010-04-24,Anirudh Singh,40,42,4.0,1.0,0,0,0,50.0,95.23809523809524,JH Kallis,bowled
+Deccan Chargers,Royal Challengers Bangalore,419164,2010-04-24,DR Smith,5,10,1.0,0.0,0,0,0,10.0,50.0,A Kumble,bowled
+Deccan Chargers,Royal Challengers Bangalore,419164,2010-04-24,MD Mishra,0,1,0.0,0.0,0,0,1,2.0,0.0,P Kumar,lbw
+Deccan Chargers,Royal Challengers Bangalore,419164,2010-04-24,PP Ojha,0,2,0.0,0.0,0,0,1,2.0,0.0,A Kumble,caught
+Deccan Chargers,Royal Challengers Bangalore,419164,2010-04-24,R Sharma,0,6,0.0,0.0,0,0,1,2.0,0.0,JH Kallis,bowled
+Deccan Chargers,Royal Challengers Bangalore,419164,2010-04-24,RG Sharma,0,4,0.0,0.0,0,0,1,2.0,0.0,P Kumar,caught
+Deccan Chargers,Royal Challengers Bangalore,419164,2010-04-24,RJ Harris,3,10,0.0,0.0,0,0,0,7.0,30.0,A Kumble,lbw
+Deccan Chargers,Royal Challengers Bangalore,419164,2010-04-24,Y Venugopal Rao,24,27,2.0,1.0,0,0,0,32.0,88.88888888888889,ND Doshi,caught
+Royal Challengers Bangalore,Deccan Chargers,419164,2010-04-24,JH Kallis,19,33,3.0,0.0,0,0,0,26.0,57.57575757575758,R Sharma,caught and bowled
+Royal Challengers Bangalore,Deccan Chargers,419164,2010-04-24,KP Pietersen,29,21,1.0,2.0,0,0,0,38.0,138.0952380952381,0,0
+Royal Challengers Bangalore,Deccan Chargers,419164,2010-04-24,R Dravid,35,30,5.0,0.0,0,0,0,44.0,116.66666666666669,0,0

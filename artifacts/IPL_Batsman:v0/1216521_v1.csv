@@ -1,0 +1,13 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Mumbai Indians,1216521,2020-10-23,AT Rayudu,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,JJ Bumrah,caught
+Chennai Super Kings,Mumbai Indians,1216521,2020-10-23,DL Chahar,0,5,0.0,0.0,0,0,1,2.0,0.0,RD Chahar,stumped
+Chennai Super Kings,Mumbai Indians,1216521,2020-10-23,F du Plessis,1,7,0.0,0.0,0,0,0,5.0,14.285714285714285,TA Boult,caught
+Chennai Super Kings,Mumbai Indians,1216521,2020-10-23,Imran Tahir,13,10,2.0,0.0,0,0,0,19.0,130.0,0,0
+Chennai Super Kings,Mumbai Indians,1216521,2020-10-23,MS Dhoni,16,18,2.0,1.0,0,0,0,24.0,88.88888888888889,RD Chahar,caught
+Chennai Super Kings,Mumbai Indians,1216521,2020-10-23,N Jagadeesan,0,1,0.0,0.0,0,0,1,2.0,0.0,JJ Bumrah,caught
+Chennai Super Kings,Mumbai Indians,1216521,2020-10-23,RA Jadeja,7,6,1.0,0.0,0,0,0,12.0,116.66666666666669,TA Boult,caught
+Chennai Super Kings,Mumbai Indians,1216521,2020-10-23,RD Gaikwad,0,5,0.0,0.0,0,0,1,2.0,0.0,TA Boult,lbw
+Chennai Super Kings,Mumbai Indians,1216521,2020-10-23,SM Curran,52,50,4.0,2.0,1,0,0,72.0,104.0,TA Boult,bowled
+Chennai Super Kings,Mumbai Indians,1216521,2020-10-23,SN Thakur,11,20,0.0,0.0,0,0,0,15.0,55.00000000000001,NM Coulter-Nile,caught
+Mumbai Indians,Chennai Super Kings,1216521,2020-10-23,Ishan Kishan,68,37,6.0,5.0,1,0,0,96.0,183.7837837837838,0,0
+Mumbai Indians,Chennai Super Kings,1216521,2020-10-23,Q de Kock,46,37,5.0,2.0,0,0,0,59.0,124.32432432432432,0,0

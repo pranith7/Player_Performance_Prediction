@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Rajasthan Royals,1254075,2021-04-24,AD Russell,9,10,0.0,1.0,0,0,0,15.0,90.0,CH Morris,caught
+Kolkata Knight Riders,Rajasthan Royals,1254075,2021-04-24,KD Karthik,25,24,4.0,0.0,0,0,0,33.0,104.16666666666669,CH Morris,caught
+Kolkata Knight Riders,Rajasthan Royals,1254075,2021-04-24,N Rana,22,27,1.0,1.0,0,0,0,29.0,81.48148148148148,C Sakariya,caught
+Kolkata Knight Riders,Rajasthan Royals,1254075,2021-04-24,PJ Cummins,10,6,0.0,1.0,0,0,0,16.0,166.66666666666669,CH Morris,caught
+Kolkata Knight Riders,Rajasthan Royals,1254075,2021-04-24,RA Tripathi,36,26,1.0,2.0,0,0,0,45.0,138.46153846153845,Mustafizur Rahman,caught
+Kolkata Knight Riders,Rajasthan Royals,1254075,2021-04-24,SP Narine,6,7,1.0,0.0,0,0,0,11.0,85.71428571428571,JD Unadkat,caught
+Kolkata Knight Riders,Rajasthan Royals,1254075,2021-04-24,Shivam Mavi,5,7,1.0,0.0,0,0,0,10.0,71.42857142857143,CH Morris,bowled
+Kolkata Knight Riders,Rajasthan Royals,1254075,2021-04-24,Shubman Gill,11,19,1.0,0.0,0,0,0,16.0,57.89473684210527,Mustafizur Rahman,run out
+Rajasthan Royals,Kolkata Knight Riders,1254075,2021-04-24,DA Miller,24,25,3.0,0.0,0,0,0,31.0,96.0,0,0
+Rajasthan Royals,Kolkata Knight Riders,1254075,2021-04-24,JC Buttler,5,7,1.0,0.0,0,0,0,10.0,71.42857142857143,CV Varun,lbw
+Rajasthan Royals,Kolkata Knight Riders,1254075,2021-04-24,R Tewatia,5,8,0.0,0.0,0,0,0,9.0,62.5,M Prasidh Krishna,caught
+Rajasthan Royals,Kolkata Knight Riders,1254075,2021-04-24,S Dube,22,19,2.0,1.0,0,0,0,30.0,115.78947368421052,CV Varun,caught
+Rajasthan Royals,Kolkata Knight Riders,1254075,2021-04-24,SV Samson,42,44,2.0,1.0,0,0,0,50.0,95.45454545454544,0,0
+Rajasthan Royals,Kolkata Knight Riders,1254075,2021-04-24,YBK Jaiswal,22,17,5.0,0.0,0,0,0,31.0,129.41176470588235,Shivam Mavi,caught

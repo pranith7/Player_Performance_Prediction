@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Kings XI Punjab,598007,2013-04-10,M Vijay,50,52,3.0,1.0,1,0,0,67.0,96.15384615384616,0,0
+Chennai Super Kings,Kings XI Punjab,598007,2013-04-10,MEK Hussey,86,54,11.0,2.0,1,0,0,113.0,159.25925925925927,0,0
+Kings XI Punjab,Chennai Super Kings,598007,2013-04-10,AC Gilchrist,9,6,2.0,0.0,0,0,0,15.0,150.0,DP Nannes,caught
+Kings XI Punjab,Chennai Super Kings,598007,2013-04-10,Azhar Mahmood,8,7,0.0,0.0,0,0,0,12.0,114.28571428571428,CH Morris,caught
+Kings XI Punjab,Chennai Super Kings,598007,2013-04-10,DJ Hussey,41,36,4.0,1.0,0,0,0,51.0,113.88888888888889,R Ashwin,caught
+Kings XI Punjab,Chennai Super Kings,598007,2013-04-10,Gurkeerat Singh,31,28,3.0,0.0,0,0,0,38.0,110.71428571428572,DJ Bravo,caught
+Kings XI Punjab,Chennai Super Kings,598007,2013-04-10,M Vohra,16,11,3.0,0.0,0,0,0,23.0,145.45454545454547,RA Jadeja,caught
+Kings XI Punjab,Chennai Super Kings,598007,2013-04-10,Mandeep Singh,9,10,1.0,0.0,0,0,0,14.0,90.0,DP Nannes,caught
+Kings XI Punjab,Chennai Super Kings,598007,2013-04-10,P Awana,1,5,0.0,0.0,0,0,0,5.0,20.0,0,0
+Kings XI Punjab,Chennai Super Kings,598007,2013-04-10,P Kumar,3,5,0.0,0.0,0,0,0,7.0,60.0,DP Nannes,run out
+Kings XI Punjab,Chennai Super Kings,598007,2013-04-10,PP Chawla,4,5,1.0,0.0,0,0,0,9.0,80.0,DJ Bravo,caught
+Kings XI Punjab,Chennai Super Kings,598007,2013-04-10,R Sathish,8,6,1.0,0.0,0,0,0,13.0,133.33333333333331,DJ Bravo,caught
+Kings XI Punjab,Chennai Super Kings,598007,2013-04-10,RJ Harris,0,2,0.0,0.0,0,0,1,2.0,0.0,CH Morris,caught

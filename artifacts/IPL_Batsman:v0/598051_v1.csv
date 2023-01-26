@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Sunrisers Hyderabad,598051,2013-05-08,M Vijay,29,20,2.0,3.0,0,0,0,41.0,145.0,NLTC Perera,caught
+Chennai Super Kings,Sunrisers Hyderabad,598051,2013-05-08,MEK Hussey,67,44,5.0,4.0,1,0,0,92.0,152.27272727272728,NLTC Perera,bowled
+Chennai Super Kings,Sunrisers Hyderabad,598051,2013-05-08,MS Dhoni,4,3,0.0,0.0,0,0,0,8.0,133.33333333333331,NLTC Perera,caught
+Chennai Super Kings,Sunrisers Hyderabad,598051,2013-05-08,RA Jadeja,14,6,3.0,0.0,0,0,0,21.0,233.3333333333333,0,0
+Chennai Super Kings,Sunrisers Hyderabad,598051,2013-05-08,SK Raina,99,55,11.0,3.0,1,0,0,128.0,180.0,0,0
+Sunrisers Hyderabad,Chennai Super Kings,598051,2013-05-08,A Mishra,6,8,0.0,0.0,0,0,0,10.0,75.0,RA Jadeja,run out
+Sunrisers Hyderabad,Chennai Super Kings,598051,2013-05-08,DJG Sammy,7,3,0.0,1.0,0,0,0,13.0,233.3333333333333,MM Sharma,caught
+Sunrisers Hyderabad,Chennai Super Kings,598051,2013-05-08,DW Steyn,14,13,1.0,1.0,0,0,0,21.0,107.6923076923077,CH Morris,caught
+Sunrisers Hyderabad,Chennai Super Kings,598051,2013-05-08,GH Vihari,3,8,0.0,0.0,0,0,0,7.0,37.5,SK Raina,caught
+Sunrisers Hyderabad,Chennai Super Kings,598051,2013-05-08,KC Sangakkara,3,10,0.0,0.0,0,0,0,7.0,30.0,R Ashwin,caught
+Sunrisers Hyderabad,Chennai Super Kings,598051,2013-05-08,KV Sharma,39,34,3.0,1.0,0,0,0,48.0,114.70588235294116,0,0
+Sunrisers Hyderabad,Chennai Super Kings,598051,2013-05-08,NLTC Perera,23,13,1.0,2.0,0,0,0,32.0,176.9230769230769,DJ Bravo,caught
+Sunrisers Hyderabad,Chennai Super Kings,598051,2013-05-08,PA Patel,44,32,6.0,1.0,0,0,0,56.0,137.5,MM Sharma,caught
+Sunrisers Hyderabad,Chennai Super Kings,598051,2013-05-08,S Dhawan,3,3,0.0,0.0,0,0,0,7.0,100.0,JO Holder,run out

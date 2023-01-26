@@ -1,0 +1,21 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Rajasthan Royals,1216530,2020-11-01,AD Russell,25,11,1.0,3.0,0,0,0,36.0,227.27272727272728,Kartik Tyagi,caught
+Kolkata Knight Riders,Rajasthan Royals,1216530,2020-11-01,EJG Morgan,68,36,5.0,6.0,1,0,0,97.0,188.88888888888889,0,0
+Kolkata Knight Riders,Rajasthan Royals,1216530,2020-11-01,KD Karthik,0,1,0.0,0.0,0,0,1,2.0,0.0,R Tewatia,caught
+Kolkata Knight Riders,Rajasthan Royals,1216530,2020-11-01,KL Nagarkoti,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Kolkata Knight Riders,Rajasthan Royals,1216530,2020-11-01,N Rana,0,1,0.0,0.0,0,0,1,2.0,0.0,JC Archer,caught
+Kolkata Knight Riders,Rajasthan Royals,1216530,2020-11-01,PJ Cummins,15,11,0.0,1.0,0,0,0,21.0,136.36363636363637,Kartik Tyagi,caught
+Kolkata Knight Riders,Rajasthan Royals,1216530,2020-11-01,RA Tripathi,39,35,4.0,2.0,0,0,0,51.0,111.42857142857144,S Gopal,caught
+Kolkata Knight Riders,Rajasthan Royals,1216530,2020-11-01,SP Narine,0,2,0.0,0.0,0,0,1,2.0,0.0,R Tewatia,caught
+Kolkata Knight Riders,Rajasthan Royals,1216530,2020-11-01,Shubman Gill,36,24,6.0,0.0,0,0,0,46.0,150.0,R Tewatia,caught
+Rajasthan Royals,Kolkata Knight Riders,1216530,2020-11-01,BA Stokes,18,12,2.0,1.0,0,0,0,26.0,150.0,PJ Cummins,caught
+Rajasthan Royals,Kolkata Knight Riders,1216530,2020-11-01,JC Archer,6,9,0.0,0.0,0,0,0,10.0,66.66666666666666,KL Nagarkoti,caught
+Rajasthan Royals,Kolkata Knight Riders,1216530,2020-11-01,JC Buttler,35,22,4.0,1.0,0,0,0,45.0,159.0909090909091,CV Varun,caught
+Rajasthan Royals,Kolkata Knight Riders,1216530,2020-11-01,Kartik Tyagi,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,Shivam Mavi,caught and bowled
+Rajasthan Royals,Kolkata Knight Riders,1216530,2020-11-01,R Parag,0,7,0.0,0.0,0,0,1,2.0,0.0,PJ Cummins,caught
+Rajasthan Royals,Kolkata Knight Riders,1216530,2020-11-01,R Tewatia,31,27,2.0,1.0,0,0,0,39.0,114.8148148148148,CV Varun,caught
+Rajasthan Royals,Kolkata Knight Riders,1216530,2020-11-01,RV Uthappa,6,3,0.0,1.0,0,0,0,12.0,200.0,PJ Cummins,caught
+Rajasthan Royals,Kolkata Knight Riders,1216530,2020-11-01,S Gopal,23,24,2.0,0.0,0,0,0,29.0,95.83333333333334,0,0
+Rajasthan Royals,Kolkata Knight Riders,1216530,2020-11-01,SPD Smith,4,4,1.0,0.0,0,0,0,9.0,100.0,PJ Cummins,bowled
+Rajasthan Royals,Kolkata Knight Riders,1216530,2020-11-01,SV Samson,1,4,0.0,0.0,0,0,0,5.0,25.0,Shivam Mavi,caught
+Rajasthan Royals,Kolkata Knight Riders,1216530,2020-11-01,VR Aaron,0,8,0.0,0.0,0,0,1,2.0,0.0,0,0

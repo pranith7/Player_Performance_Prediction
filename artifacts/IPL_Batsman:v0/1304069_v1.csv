@@ -1,0 +1,18 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Mumbai Indians,Punjab Kings,1304069,2022-04-13,D Brevis,49,25,4.0,5.0,0,0,0,67.0,196.0,OF Smith,caught
+Mumbai Indians,Punjab Kings,1304069,2022-04-13,Ishan Kishan,3,7,0.0,0.0,0,0,0,7.0,42.85714285714285,VG Arora,caught
+Mumbai Indians,Punjab Kings,1304069,2022-04-13,JD Unadkat,12,7,0.0,1.0,0,0,0,18.0,171.42857142857142,OF Smith,caught
+Mumbai Indians,Punjab Kings,1304069,2022-04-13,JJ Bumrah,0,2,0.0,0.0,0,0,1,2.0,0.0,OF Smith,caught
+Mumbai Indians,Punjab Kings,1304069,2022-04-13,KA Pollard,10,12,1.0,0.0,0,0,0,15.0,83.33333333333334,VG Arora,run out
+Mumbai Indians,Punjab Kings,1304069,2022-04-13,M Ashwin,0,2,0.0,0.0,0,0,1,2.0,0.0,0,0
+Mumbai Indians,Punjab Kings,1304069,2022-04-13,RG Sharma,28,17,3.0,2.0,0,0,0,39.0,164.70588235294116,K Rabada,caught
+Mumbai Indians,Punjab Kings,1304069,2022-04-13,SA Yadav,43,30,1.0,4.0,0,0,0,56.0,143.33333333333334,K Rabada,caught
+Mumbai Indians,Punjab Kings,1304069,2022-04-13,TS Mills,0,2,0.0,0.0,0,0,1,2.0,0.0,OF Smith,caught
+Mumbai Indians,Punjab Kings,1304069,2022-04-13,Tilak Varma,36,21,3.0,2.0,0,0,0,47.0,171.42857142857142,Arshdeep Singh,run out
+Punjab Kings,Mumbai Indians,1304069,2022-04-13,JM Bairstow,12,13,1.0,0.0,0,0,0,17.0,92.3076923076923,JD Unadkat,bowled
+Punjab Kings,Mumbai Indians,1304069,2022-04-13,JM Sharma,30,16,2.0,2.0,0,0,0,40.0,187.5,0,0
+Punjab Kings,Mumbai Indians,1304069,2022-04-13,LS Livingstone,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,JJ Bumrah,bowled
+Punjab Kings,Mumbai Indians,1304069,2022-04-13,M Shahrukh Khan,15,8,0.0,2.0,0,0,0,23.0,187.5,Basil Thampi,bowled
+Punjab Kings,Mumbai Indians,1304069,2022-04-13,MA Agarwal,52,33,6.0,2.0,1,0,0,74.0,157.57575757575756,M Ashwin,caught
+Punjab Kings,Mumbai Indians,1304069,2022-04-13,OF Smith,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Punjab Kings,Mumbai Indians,1304069,2022-04-13,S Dhawan,70,53,5.0,3.0,1,0,0,93.0,132.0754716981132,Basil Thampi,caught

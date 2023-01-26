@@ -1,0 +1,15 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Royal Challengers Bangalore,Sunrisers Hyderabad,980907,2016-04-12,AB de Villiers,82,44,7.0,6.0,1,0,0,113.0,186.3636363636364,Mustafizur Rahman,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,980907,2016-04-12,CH Gayle,1,5,0.0,0.0,0,0,0,5.0,20.0,B Kumar,bowled
+Royal Challengers Bangalore,Sunrisers Hyderabad,980907,2016-04-12,KM Jadhav,8,6,1.0,0.0,0,0,0,13.0,133.33333333333331,0,0
+Royal Challengers Bangalore,Sunrisers Hyderabad,980907,2016-04-12,SN Khan,35,10,5.0,2.0,0,0,0,48.0,350.0,0,0
+Royal Challengers Bangalore,Sunrisers Hyderabad,980907,2016-04-12,SR Watson,19,9,0.0,3.0,0,0,0,29.0,211.11111111111111,Mustafizur Rahman,caught
+Royal Challengers Bangalore,Sunrisers Hyderabad,980907,2016-04-12,V Kohli,75,51,7.0,3.0,1,0,0,100.0,147.05882352941177,B Kumar,bowled
+Sunrisers Hyderabad,Royal Challengers Bangalore,980907,2016-04-12,A Ashish Reddy,32,18,2.0,3.0,0,0,0,44.0,177.77777777777777,SR Watson,bowled
+Sunrisers Hyderabad,Royal Challengers Bangalore,980907,2016-04-12,DA Warner,58,26,4.0,5.0,1,0,0,84.0,223.0769230769231,SR Watson,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,980907,2016-04-12,DJ Hooda,6,7,1.0,0.0,0,0,0,11.0,85.71428571428571,YS Chahal,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,980907,2016-04-12,EJG Morgan,22,18,2.0,0.0,0,0,0,28.0,122.22222222222224,0,0
+Sunrisers Hyderabad,Royal Challengers Bangalore,980907,2016-04-12,KV Sharma,26,18,3.0,1.0,0,0,0,35.0,144.44444444444443,0,0
+Sunrisers Hyderabad,Royal Challengers Bangalore,980907,2016-04-12,MC Henriques,19,24,2.0,0.0,0,0,0,25.0,79.16666666666666,AF Milne,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,980907,2016-04-12,NV Ojha,0,5,0.0,0.0,0,0,1,2.0,0.0,YS Chahal,caught
+Sunrisers Hyderabad,Royal Challengers Bangalore,980907,2016-04-12,S Dhawan,8,9,1.0,0.0,0,0,0,13.0,88.88888888888889,Parvez Rasool,bowled

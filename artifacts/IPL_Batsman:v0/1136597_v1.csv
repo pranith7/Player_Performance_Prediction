@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Mumbai Indians,1136597,2018-05-06,AD Russell,9,10,1.0,0.0,0,0,0,14.0,90.0,JJ Bumrah,caught
+Kolkata Knight Riders,Mumbai Indians,1136597,2018-05-06,CA Lynn,17,13,4.0,0.0,0,0,0,25.0,130.76923076923077,MJ McClenaghan,caught
+Kolkata Knight Riders,Mumbai Indians,1136597,2018-05-06,KD Karthik,36,26,5.0,1.0,0,0,0,47.0,138.46153846153845,0,0
+Kolkata Knight Riders,Mumbai Indians,1136597,2018-05-06,N Rana,31,27,3.0,1.0,0,0,0,40.0,114.8148148148148,HH Pandya,caught
+Kolkata Knight Riders,Mumbai Indians,1136597,2018-05-06,RV Uthappa,54,36,6.0,3.0,1,0,0,78.0,150.0,M Markande,caught
+Kolkata Knight Riders,Mumbai Indians,1136597,2018-05-06,SP Narine,5,4,1.0,0.0,0,0,0,10.0,125.0,KH Pandya,caught
+Kolkata Knight Riders,Mumbai Indians,1136597,2018-05-06,Shubman Gill,7,5,1.0,0.0,0,0,0,12.0,140.0,HH Pandya,caught and bowled
+Mumbai Indians,Kolkata Knight Riders,1136597,2018-05-06,E Lewis,43,29,5.0,2.0,0,0,0,56.0,148.27586206896552,AD Russell,caught
+Mumbai Indians,Kolkata Knight Riders,1136597,2018-05-06,HH Pandya,35,22,4.0,1.0,0,0,0,45.0,159.0909090909091,0,0
+Mumbai Indians,Kolkata Knight Riders,1136597,2018-05-06,JP Duminy,13,12,0.0,1.0,0,0,0,19.0,108.33333333333331,0,0
+Mumbai Indians,Kolkata Knight Riders,1136597,2018-05-06,KH Pandya,14,11,1.0,1.0,0,0,0,21.0,127.27272727272728,SP Narine,caught
+Mumbai Indians,Kolkata Knight Riders,1136597,2018-05-06,RG Sharma,11,11,1.0,0.0,0,0,0,16.0,100.0,SP Narine,caught
+Mumbai Indians,Kolkata Knight Riders,1136597,2018-05-06,SA Yadav,59,40,7.0,2.0,1,0,0,82.0,147.5,AD Russell,caught

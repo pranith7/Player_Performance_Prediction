@@ -1,0 +1,20 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Kolkata Knight Riders,Mumbai Indians,548370,2012-05-16,BB McCullum,1,5,0.0,0.0,0,0,0,5.0,20.0,RP Singh,lbw
+Kolkata Knight Riders,Mumbai Indians,548370,2012-05-16,DB Das,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,DR Smith,run out
+Kolkata Knight Riders,Mumbai Indians,548370,2012-05-16,G Gambhir,27,24,3.0,1.0,0,0,0,36.0,112.5,KA Pollard,bowled
+Kolkata Knight Riders,Mumbai Indians,548370,2012-05-16,JH Kallis,0,1,0.0,0.0,0,0,1,2.0,0.0,RP Singh,bowled
+Kolkata Knight Riders,Mumbai Indians,548370,2012-05-16,MK Tiwary,41,45,2.0,2.0,0,0,0,51.0,91.11111111111111,MM Patel,caught
+Kolkata Knight Riders,Mumbai Indians,548370,2012-05-16,R Bhatia,12,9,2.0,0.0,0,0,0,18.0,133.33333333333331,SL Malinga,caught
+Kolkata Knight Riders,Mumbai Indians,548370,2012-05-16,SP Narine,9,7,2.0,0.0,0,0,0,15.0,128.57142857142858,0,0
+Kolkata Knight Riders,Mumbai Indians,548370,2012-05-16,Shakib Al Hasan,13,13,1.0,0.0,0,0,0,18.0,100.0,DR Smith,bowled
+Kolkata Knight Riders,Mumbai Indians,548370,2012-05-16,YK Pathan,21,21,2.0,0.0,0,0,0,27.0,100.0,0,0
+Mumbai Indians,Kolkata Knight Riders,548370,2012-05-16,AT Rayudu,11,8,0.0,1.0,0,0,0,17.0,137.5,Shakib Al Hasan,stumped
+Mumbai Indians,Kolkata Knight Riders,548370,2012-05-16,DR Smith,0,1,0.0,0.0,0,0,1,2.0,0.0,JH Kallis,lbw
+Mumbai Indians,Kolkata Knight Riders,548370,2012-05-16,HH Gibbs,13,25,1.0,0.0,0,0,0,18.0,52.0,Iqbal Abdulla,lbw
+Mumbai Indians,Kolkata Knight Riders,548370,2012-05-16,Harbhajan Singh,1,2,0.0,0.0,0,0,0,5.0,50.0,SP Narine,caught
+Mumbai Indians,Kolkata Knight Riders,548370,2012-05-16,KA Pollard,8,5,1.0,0.0,0,0,0,13.0,160.0,JH Kallis,caught
+Mumbai Indians,Kolkata Knight Riders,548370,2012-05-16,KD Karthik,21,27,3.0,0.0,0,0,0,28.0,77.77777777777779,L Balaji,caught
+Mumbai Indians,Kolkata Knight Riders,548370,2012-05-16,RG Sharma,12,14,1.0,0.0,0,0,0,17.0,85.71428571428571,SP Narine,caught
+Mumbai Indians,Kolkata Knight Riders,548370,2012-05-16,RP Singh,3,5,0.0,0.0,0,0,0,7.0,60.0,SP Narine,caught
+Mumbai Indians,Kolkata Knight Riders,548370,2012-05-16,SL Malinga,8,6,0.0,1.0,0,0,0,14.0,133.33333333333331,L Balaji,caught
+Mumbai Indians,Kolkata Knight Riders,548370,2012-05-16,SR Tendulkar,27,24,3.0,1.0,0,0,0,36.0,112.5,SP Narine,bowled

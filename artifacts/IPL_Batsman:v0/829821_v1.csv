@@ -1,0 +1,19 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Chennai Super Kings,Royal Challengers Bangalore,829821,2015-05-22,DJ Bravo,0,1,0.0,0.0,0,0,1,2.0,0.0,MA Starc,bowled
+Chennai Super Kings,Royal Challengers Bangalore,829821,2015-05-22,DR Smith,17,12,3.0,0.0,0,0,0,24.0,141.66666666666669,S Aravind,caught
+Chennai Super Kings,Royal Challengers Bangalore,829821,2015-05-22,F du Plessis,21,24,2.0,0.0,0,0,0,27.0,87.5,YS Chahal,bowled
+Chennai Super Kings,Royal Challengers Bangalore,829821,2015-05-22,MEK Hussey,56,46,3.0,2.0,1,0,0,75.0,121.73913043478262,D Wiese,caught
+Chennai Super Kings,Royal Challengers Bangalore,829821,2015-05-22,MS Dhoni,26,29,1.0,0.0,0,0,0,31.0,89.65517241379311,HV Patel,caught
+Chennai Super Kings,Royal Challengers Bangalore,829821,2015-05-22,P Negi,12,7,0.0,1.0,0,0,0,18.0,171.42857142857142,MA Starc,run out
+Chennai Super Kings,Royal Challengers Bangalore,829821,2015-05-22,R Ashwin,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Chennai Super Kings,Royal Challengers Bangalore,829821,2015-05-22,SK Raina,0,2,0.0,0.0,0,0,1,2.0,0.0,YS Chahal,caught
+Royal Challengers Bangalore,Chennai Super Kings,829821,2015-05-22,AB de Villiers,1,3,0.0,0.0,0,0,0,5.0,33.33333333333333,A Nehra,lbw
+Royal Challengers Bangalore,Chennai Super Kings,829821,2015-05-22,CH Gayle,41,45,2.0,3.0,0,0,0,53.0,91.11111111111111,SK Raina,caught and bowled
+Royal Challengers Bangalore,Chennai Super Kings,829821,2015-05-22,D Wiese,12,8,0.0,1.0,0,0,0,18.0,150.0,MM Sharma,caught
+Royal Challengers Bangalore,Chennai Super Kings,829821,2015-05-22,HV Patel,2,3,0.0,0.0,0,0,0,6.0,66.66666666666666,DJ Bravo,run out
+Royal Challengers Bangalore,Chennai Super Kings,829821,2015-05-22,KD Karthik,28,27,4.0,0.0,0,0,0,36.0,103.7037037037037,A Nehra,caught
+Royal Challengers Bangalore,Chennai Super Kings,829821,2015-05-22,MA Starc,1,1,0.0,0.0,0,0,0,5.0,100.0,0,0
+Royal Challengers Bangalore,Chennai Super Kings,829821,2015-05-22,Mandeep Singh,4,7,0.0,0.0,0,0,0,8.0,57.14285714285714,R Ashwin,caught
+Royal Challengers Bangalore,Chennai Super Kings,829821,2015-05-22,S Aravind,0,1,0.0,0.0,0,0,1,2.0,0.0,0,0
+Royal Challengers Bangalore,Chennai Super Kings,829821,2015-05-22,SN Khan,31,21,4.0,0.0,0,0,0,39.0,147.61904761904762,DJ Bravo,caught
+Royal Challengers Bangalore,Chennai Super Kings,829821,2015-05-22,V Kohli,12,9,1.0,1.0,0,0,0,19.0,133.33333333333331,A Nehra,caught

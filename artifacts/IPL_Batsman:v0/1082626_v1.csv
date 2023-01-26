@@ -1,0 +1,14 @@
+batting_team,bowling_team,match_id,start_date,striker,Batsman_runs,Balls,Fours,Sixes,Fifties,Hundreds,Duck,dreamll_score,strike_rate,bowler,type
+Delhi Daredevils,Kings XI Punjab,1082626,2017-04-30,A Mishra,4,11,0.0,0.0,0,0,0,8.0,36.36363636363637,0,0
+Delhi Daredevils,Kings XI Punjab,1082626,2017-04-30,CH Morris,2,5,0.0,0.0,0,0,0,6.0,40.0,AR Patel,caught and bowled
+Delhi Daredevils,Kings XI Punjab,1082626,2017-04-30,CJ Anderson,18,26,0.0,1.0,0,0,0,24.0,69.23076923076923,VR Aaron,bowled
+Delhi Daredevils,Kings XI Punjab,1082626,2017-04-30,K Rabada,11,21,1.0,0.0,0,0,0,16.0,52.38095238095239,Sandeep Sharma,caught
+Delhi Daredevils,Kings XI Punjab,1082626,2017-04-30,KK Nair,11,10,0.0,1.0,0,0,0,17.0,110.0,AR Patel,bowled
+Delhi Daredevils,Kings XI Punjab,1082626,2017-04-30,Mohammed Shami,2,4,0.0,0.0,0,0,0,6.0,50.0,VR Aaron,caught
+Delhi Daredevils,Kings XI Punjab,1082626,2017-04-30,RR Pant,3,6,0.0,0.0,0,0,0,7.0,50.0,GJ Maxwell,lbw
+Delhi Daredevils,Kings XI Punjab,1082626,2017-04-30,S Nadeem,0,1,0.0,0.0,0,0,1,2.0,0.0,MM Sharma,caught and bowled
+Delhi Daredevils,Kings XI Punjab,1082626,2017-04-30,SS Iyer,6,7,1.0,0.0,0,0,0,11.0,85.71428571428571,Sandeep Sharma,caught and bowled
+Delhi Daredevils,Kings XI Punjab,1082626,2017-04-30,SV Samson,5,15,1.0,0.0,0,0,0,10.0,33.33333333333333,Sandeep Sharma,caught
+Delhi Daredevils,Kings XI Punjab,1082626,2017-04-30,SW Billings,0,2,0.0,0.0,0,0,1,2.0,0.0,Sandeep Sharma,caught
+Kings XI Punjab,Delhi Daredevils,1082626,2017-04-30,HM Amla,16,22,1.0,0.0,0,0,0,21.0,72.72727272727273,0,0
+Kings XI Punjab,Delhi Daredevils,1082626,2017-04-30,MJ Guptill,50,27,6.0,3.0,1,0,0,74.0,185.1851851851852,0,0
