@@ -1,0 +1,16 @@
+#trainning
+1. Balls
+2. Average_score_of_batsman.
+3. Averge_pitch_condition_in_the_season.
+4. key players in the opposition team.
+5. player favourabliity against opposition and stadium.
+6. runs of the match.
+
+#Validation
+1. Player_name
+2. Stadium_name
+3. opposition_team --> Key Players in the season. 
+4. Pitch_condition --> same pitch last matches report
+5. player_favourabliity against opposition and stadium.
+
+#inference
